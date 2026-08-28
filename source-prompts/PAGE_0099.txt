@@ -1,0 +1,14 @@
+Use case: scientific-educational; dense 9:16 portrait grammar page. Independently explain possessive pronouns, reflexive/emphatic -self forms, and it as a receiver of a previously mentioned thing or entire idea. Source p.210–211 is coverage only.
+Input references: mascot identity and PAGE_0001 design.
+Top title: 「mine・myself・itで受ける」
+Central illustration: leopard explorer as a relay magician receives three glowing batons: a nounless ownership badge, a boomerang returning to its subject, and a context bubble compressed into it.
+Mechanism: route 1 「my map → mine：名詞なしで“私のもの”」; route 2 「主語→動作→同じ主語へ戻る：myself / yourself / himself ...」 plus emphasis 「I built it myself＝自力で」; route 3 「前に出た単数の物・出来事・発言全体 → it」.
+Original examples:
+1. “Your compass is new; mine is scratched.” / 「mineだけでmy compass」
+2. “Mina taught herself to code.” / 「教える動作がMina自身へ戻る」
+3. “Leo repaired the drone himself.” / 「ほかの人でなく自分で」
+4. “The gate opened at midnight. It surprised everyone.” / 「前の出来事全体をitで受ける」
+Mini problem: 「ミニ問題：正しい形は？」 “This seat is (my / mine).” 「答え：mine」 「後ろに名詞がないので所有代名詞。」
+Bottom ribbon: 「繰り返さず受けると、英文は軽くつながる」
+Style: glossy adventure-library relay stage, blue/yellow/white, gold boomerang and context bubble, thick outlines, limited red form contrast.
+Constraints: no page number, copied source expressions/examples/figure/prose/layout, source identity, logo, citation, watermark, answer space, or photorealism. One mascot in relay-magician pose.

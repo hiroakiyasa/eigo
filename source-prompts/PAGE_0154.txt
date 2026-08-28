@@ -1,0 +1,18 @@
+Use case: scientific-educational
+Asset type: dense portrait comparison page for an illustrated English grammar book
+Primary request: Teach do/does/did + not for ordinary verbs, be + not for be-sentences, common contractions, and building a negative sentence directly in English word order rather than transforming a positive one. Source pages 320–321 guide coverage only; create original text and examples.
+Input images: mascot identity only; PAGE_0001 visual reference only.
+Canvas: strict 9:16 portrait, full-bleed, dense, no page number.
+Top title (verbatim): 「一般動詞はdo、be文はbeで否定」
+Central illustration: the leopard explorer in a dual-control pose selects one of two bright adventure-library machines: DO NOT for action verbs and BE NOT for descriptions.
+Mechanism diagram: lane A “I/you/we/they don’t + 原形 / he/she doesn’t + 原形 / 過去 didn’t + 原形”; lane B “am/is/are/was/were + not + 説明”. Contraction badges “isn’t, aren’t, wasn’t, weren’t; am notはそのまま”.
+Original example cards:
+1. “Leo doesn’t carry cash.” / 「doesが現在・三人称単数を担当」
+2. “They didn’t miss the train.” / 「didが過去を担当」
+3. “I’m not nervous.” / 「beの直後にnot」
+4. “The doors weren’t open.” / 「過去のbe文を否定」
+Mini practice: 「ミニ問題　空所は？」 “Mina ___ know the code.”
+Answer: 「答え　doesn’t」 「主語Minaは三人称単数、knowは原形。」
+Bottom ribbon: 「最初から“I don’t...”と語順どおり組み立てる」
+Style: PAGE_0001 blue-gold-white adventure-library control station, dimensional lanes, bold outlines, red only for not, one mascot, large accurate type.
+Constraints: original content only; no source wording/examples/figures/layout, citation, source identity, logo, ISBN, watermark, page number, or extra prose; avoid photorealism, dark page, and tiny text.

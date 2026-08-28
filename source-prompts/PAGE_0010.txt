@@ -1,0 +1,28 @@
+Use case: scientific-educational. Create a rich portrait 9:16 summary page matching PAGE_0001. Same leopard stage director moves one glowing word “light” into four sentence positions. Original design and explanations. No page number, source identity, logo or watermark.
+
+Top title: 「置き場所で、役目が変わる」
+
+Required example sequence:
+• “Light travels fast.” 「名詞：光」
+• “Please light the lamp.” 「動詞：明かりをつける」
+• “I packed a light bag.” 「形容詞：軽い」
+• “The bag is light.” 「説明語：bagの状態」
+
+Required table:
+「置かれた席｜役目｜見分け方」
+「主語の席｜名詞｜動詞の前で『何が』」
+「動詞の席｜動詞｜主語の動作」
+「名詞の前｜形容詞｜どの名詞かをしぼる」
+「beの後｜説明語｜主語＝説明」
+
+Add a second multi-role word mini panel:
+“a clean room” / “Please clean the room.”
+「cleanも位置で形容詞・動詞が変わる」
+
+Explanation note: 「辞書の品詞を覚えるだけでなく、文中の席から実際の仕事を判断する。」
+Mini check: What is “water” in “Please water the plants”? Answer: verb. Reason: 「主語の後ろで動作を表す席。」
+Bottom ribbon: 「単語の仕事は、意味と配置の両方で見つける」
+
+Information-dense stage illustration, compact table, six examples, mini check, phone-legible text.
+
+後半ページ同等の高密度基準：中央イラスト＋仕組み図＋説明文＋独自英文4〜6本＋簡潔な和訳/解説＋ミニ問題・答え・一行理由、ページの85〜90%を学習内容で満たす、文字は読める大きさ

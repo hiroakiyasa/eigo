@@ -1,0 +1,17 @@
+Create a polished information-dense English grammar book page, portrait 9:16, matching the supplied cover's vivid blue, gold, white, and red explorer style. Same leopard explorer mascot at four signposted doors. No page number, source identity, watermark, or logo.
+
+Top Japanese title: 「wh語なしでも後ろから説明」
+
+Teach that nouns already carrying time, place, reason, or manner meaning can often connect directly to a following explanatory clause without when/where/why/how. Central four-door diagram: TIME / PLACE / REASON / WAY, each followed by a clause bridge; show that English must not double “way + how”.
+
+Original examples with concise Japanese:
+• I remember the evening we found the hidden room. 「隠し部屋を見つけた夜」
+• Mia followed Leo everywhere he explored. 「彼が探検する所ならどこでも」
+• The reason the lamp failed was simple. 「ランプが故障した理由」
+• I like the way you organize your notes. 「ノートのまとめ方」
+
+Contrast badge: “the way you speak” ✓ / “the way how you speak” ✗. Explain 「way自体に『どのように』が含まれる」.
+
+Mini practice: remove the unnecessary word: “This is the place where we first met there.” Answer: remove “there”; reason 「whereが場所の空所をすでに担当」.
+
+Takeaway: 「意味を持つ入口なら、説明節を直接つなげられる」. Dense but readable, central visual, four examples, contrast, question+answer.

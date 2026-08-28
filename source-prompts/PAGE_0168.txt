@@ -1,0 +1,14 @@
+Use case: scientific-educational; dense 9:16 portrait grammar page. Independently explain CAN as potential inside a person or thing, producing ability and friendly permission; contrast polite may. Source p.348–349 is coverage only.
+Input references: mascot appearance and PAGE_0001 visual language.
+Top title: 「canは、内にある可能性」
+Central illustration: leopard explorer as a potential-energy scientist scans glowing power inside a character and freedom tokens inside an open casual gate.
+Mechanism: core 「内側に潜む力・自由」 branching to 「能力：やろうと思えばできる」「励まし：力があると認める」「許可：そうする自由がある」「Can I help?＝自分に許可を求める→申し出」. Contrast 「can＝親しい・日常 / May I...?＝改まった丁寧さ」.
+Original examples:
+1. “Rina can read old maps.” / 「身についた能力」
+2. “You can solve this; keep going!” / 「潜在力を見て励ます」
+3. “You can use my desk.” / 「気軽に自由を与える」
+4. “Can I carry those boxes?” / 「手伝う申し出」
+Mini problem: 「ミニ問題：友人に気軽な許可」 “You (can / may) borrow my bike.” 「答え：can」 「親しい場面で相手の自由を軽く認める。」
+Bottom ribbon: 「能力も許可も、“中にある自由度”から生まれる」
+Style: glossy adventure-library energy lab, blue/yellow/white, gold inner glow, red permission cue, thick outlines, phone-readable.
+Constraints: no page number, copied source examples/figures/prose/layout, source marks, logo, citation, watermark, answer field, or photorealism. One mascot in scientist pose.

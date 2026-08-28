@@ -1,0 +1,19 @@
+Use case: scientific-educational
+Asset type: dense 9:16 portrait grammar detective page
+Primary request: Independently teach two linked skills from source pages 218–219: distinguish content-it from an it-cleft by checking whether the following clause is complete or has a gap, and recognize pronouns used for people in general. Do not reuse source prose, examples, figures, or layout.
+Input images: mascot appearance reference; PAGE_0001 style reference.
+Canvas: strict 9:16 portrait, safe margins, no page number.
+Top title: 「穴を見抜き、人々を表す」
+Central illustration: mascot in a grammar-detective pose holds a magnifying glass over two clause tunnels; one contains every block, one has a glowing missing slot. A crowd compass sits below.
+Mechanism diagram: 「that以下が完全文＝itの中身」 versus 「that以下に穴＝前のXを強調」. Lower compact compass: 「you＝広く人一般」 「we＝仲間を含む」 「they＝世間の人」 「people＝観察する人々」 「one＝かたい一般論」.
+Original example cards:
+1. “It is clear that the trail is safe.” / 「that以下は完全な文」
+2. “It was Mia that found the trail.” / 「foundの主語に穴がある」
+3. “You learn faster when you ask questions.” / 「you＝人は一般に」
+4. “They say the old bridge brings luck.” / 「they＝世間では」
+Mini practice box: 「ミニ確認：It was the map that Leo lost. は？」 「答え：強調構文」 「lost の目的語に穴がある。」
+Bottom takeaway: 「完全文か穴あきか。一般の人を誰の視点で語るか」
+Style: glossy blue-yellow-white detective library, luminous gap blocks, crowd icons, thick outlines, limited red clues, central illustration + diagram + cards.
+Typography: exact readable English and bold Japanese.
+Constraints: no page number, copied source content/layout, source identity, logo, citation, watermark, or extra exercise. Mascot once in detective pose.
+Avoid: scary detective noir, tiny labels, clutter without hierarchy.

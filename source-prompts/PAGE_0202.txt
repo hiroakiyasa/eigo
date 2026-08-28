@@ -1,0 +1,10 @@
+Use case: scientific-educational; dense 9:16 portrait grammar page. Independently teach the hole-selector function of wh words from source coverage p.416–417.
+Input references: PAGE_0001 design and mascot identity.
+Top title: 「wh語は、穴の種類を教える」
+Central illustration: mascot as a grammar detective shines a scanner on a sentence with a glowing blank; colored lenses label HUMAN, THING, PLACE, TIME, REASON and guide the target noun into the blank.
+Mechanism: 「who＝人」「which＝もの」「where＝場所」「when＝時」「why＝理由」; show flow 「ターゲットを受ける→穴の種類を指定→後ろの文へ案内」. Emphasize that the target and missing role create the modification; the wh word makes the connection clear.
+Original examples: “The nurse who helped us was very calm.” / 「私たちを助けた看護師」; “I repaired the radio which my grandfather gave me.” / 「祖父がくれたラジオ」; “We returned to the hill where we watched the sunrise.” / 「日の出を見た丘」.
+Mini problem: 「ミニ問題：場所を案内する語」 “This is the room (who / where) we practice.” Answer 「where」. Reason 「欠けているのは“その部屋で”という場所情報。」
+Bottom ribbon: 「wh語は答えではなく、穴への案内標識」
+Style: glossy adventure-library detective lab, blue/gold/white/red, large hole diagram, thick outlines, dense readable panels.
+Constraints: exact 9:16; no page number, copied prose/examples/figures/layout, source marks, logo, citation, watermark, answer blank, or photorealism. Exactly one mascot in detective pose.

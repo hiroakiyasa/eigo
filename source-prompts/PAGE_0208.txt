@@ -1,0 +1,10 @@
+Use case: scientific-educational; dense 9:16 portrait grammar page. Teach when THAT is especially natural and the everyday strength scale omission > that > who/which, based on p.428–429 coverage.
+Input references: PAGE_0001 design and mascot identity.
+Top title: 「thatは、選ばずスムーズにつなぐ」
+Central illustration: mascot as a traffic controller sends mixed PEOPLE+THINGS, ONLY/FIRST/BEST, and ALL/EVERYTHING cargo through a universal THAT tunnel. A strength meter shows zero connector, THAT, and WHO/WHICH.
+Mechanism: 「that＝人・ものを選ばず接続」「人＋もの」「the only / first / last / 最上級」「all / everything / any」; usage scale 「目的語：省略が最軽量→that→who/whichの順に結びつきが強い」.
+Original examples: “The first app that I built was very simple.” / 「最初に作ったアプリ」; “Everything that fits in this box is free.” / 「箱に入るもの全部」; “We photographed people and places that inspired us.” / 「人と場所の両方」; “The best advice that I received was brief.” / 「受けた最高の助言」.
+Mini problem: 「ミニ問題：人とものをまとめる」 “the artists and paintings (who / which / that) impressed me” Answer 「that」. Reason 「人とものの両方を一つの語で受けられる。」
+Bottom ribbon: 「迷ったらthat。日常英語の万能コネクター」
+Style: glossy adventure-library traffic hub, blue/gold/white/red universal tunnel, thick outlines, dense readable cards.
+Constraints: exact 9:16; no page number, copied source material/layout, source identity, logo, citation, watermark, blank answer field, or photorealism. One mascot in controller pose.

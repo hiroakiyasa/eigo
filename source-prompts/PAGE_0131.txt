@@ -1,0 +1,14 @@
+Use case: scientific-educational; dense 9:16 portrait English-grammar page. Source p.274–275 supplies topic coverage only. Rebuild all explanations, examples, diagrams, scene, and order independently.
+Input references: mascot_reference.png for the same leopard explorer appearance only; PAGE_0001.png for the blue/gold/white/red adventure-library style only.
+Top title: 「nowとthenで視線を動かす」
+Central illustration: leopard explorer as a time-rail conductor. NOW is a bright platform under the character; THEN is a movable station in past or future; an AGO rail counts backward from NOW. The mascot points forward with energetic “Now,” and shifts attention along an arrow with “then”.
+Mechanism: 「now＝今に焦点／会話を前へ動かす」「then＝その時点／次の段階／それなら」「期間 + ago＝今からさかのぼる」. Add phrase badges 「by now＝今頃までには」「just now＝たった今」「for now＝当面」 and caution 「過去の基準点から前なら before」.
+Original examples:
+1. “Now, let’s examine the next clue.” / 「さあ、と注目を集める」
+2. “Finish the map, then check the route.” / 「その次へ進む」
+3. “If the lift is closed, then we’ll take the stairs.” / 「その条件なら」
+4. “I moved here six months ago.” / 「今から6か月さかのぼる」
+Mini problem: 「ミニ問題：物語中の“その2日前”」 “two days (ago / before)” 「答え：before」 「基準が現在でなく、物語中の過去時点だから。」
+Bottom ribbon: 「基準点を決めると、時の副詞が選べる」
+Style: glossy adventure-library time station, dimensional rails, thick outlines, red only for NOW/THEN arrows, dense and phone-readable.
+Constraints: no page number, copied source text/examples/figures/layout, source identity, logo, citation, watermark, blank answer area, or photorealism. One mascot in conductor pose.

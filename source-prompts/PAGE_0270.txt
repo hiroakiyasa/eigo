@@ -1,0 +1,27 @@
+Create a polished, information-dense educational English grammar page in portrait 9:16, matching the supplied cover's unified blue-gold-white-red explorer aesthetic. Use the exact same leopard explorer mascot demonstrating a magic trick, guiding travelers on a map, and placing future events inside “already assumed” time/condition bubbles. No page number, source name, watermark, logo, copied illustration, or copied source sentence.
+
+Top Japanese title: 「実演と未来条件にも現在形」
+
+Upper section: live demonstration. Show speech and action synchronized frame by frame.
+• First, I fold the paper in half. Then I cut this corner. 「実演しながら手順を説明」
+• Here comes the parade! 「目の前で展開する出来事」
+Caption: 「目の前の進行と説明が一体なので現在形」.
+
+Route-guide panel: the mascot mentally walks the route while speaking.
+• You cross the bridge, turn left, and the museum appears on your right. 「頭の中で道を実演」
+Show three illustrated map steps with arrows and numbered landmarks, but no page number.
+
+Lower main mechanism: future event inside a TIME or CONDITION clause uses present simple because it is treated as an assumed scene, while the main clause carries will/can/imperative.
+TIME:
+• When the train arrives, I’ll message you. 「到着を前提に、その時連絡」
+• Call me before the meeting starts. 「開始を前提にした時の節」
+CONDITION:
+• If the weather improves, we’ll climb tomorrow. 「改善を条件として置く」
+Formula card: when / before / after / as soon as / if + PRESENT; main clause = will, can, imperative, etc.
+Warning: “When the train will arrive” is not the default in this pattern. The future idea is already carried by the relationship and main clause.
+
+Add nuance badge: will or be going to can appear inside if only when their special meaning is intended, such as willingness or intention: “If you’re going to cancel, tell us now.” 「キャンセルするつもりなら」.
+
+Mini practice: 「着いたら電話する：I’ll call you when I ___ home.」 Answer: 「get」. Reason: 「未来でもwhen節では到着を前提の場面として現在形で置く」.
+
+Bottom takeaway ribbon: 「実演は今と一体、未来の時・条件節は前提と一体」. Dense, accurate, highly readable.

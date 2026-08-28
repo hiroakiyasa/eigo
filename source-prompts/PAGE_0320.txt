@@ -1,0 +1,36 @@
+Create a polished, information-dense educational English grammar infographic in portrait 9:16, matching the supplied cover's unified blue-gold-white-red explorer aesthetic. Use the exact same leopard explorer mascot trimming repeated sentence branches and inserting a comma-framed annotation card beside a noun. No page number, source name, watermark, logo, copied illustration, or copied source sentence.
+
+Top Japanese title: 「省略と注釈で文をシャープに」
+
+Upper main section: a five-place ellipsis map with original examples and ghosted omitted words.
+
+1 after modal auxiliary:
+• “Who will lead the tour?” — “Sara will (lead the tour).”
+2 after perfect HAVE:
+• I’ve visited Yakushima, and my sister has (visited Yakushima) too.
+3 after BE:
+• Leo is unusually quiet today. He always is (quiet before a test).
+4 repeated subject and BE after conjunction:
+• While (I was) waiting for the bus, I reviewed my notes.
+• If (it is) necessary, restart the device.
+5 after infinitival TO:
+• I can explain again if you want me to (explain again).
+Core label: 「文法の支柱を残し、明白な反復だけ消す」.
+
+Set-phrase drawer:
+• if not 「そうでなければ」
+• if necessary 「必要なら」
+• if any 「あるとしても少し」
+Original example: There are very few errors, if any. 「誤りはあるとしてもごく少ない」
+
+Lower section: annotation/apposition. Show a base sentence rail briefly interrupted by a comma-framed information capsule.
+APPOSITION:
+• Ms. Ito, our robotics coach, designed the course. 「Ms. Ito＝our robotics coach」
+Rule: place a noun explanation beside its target and surround the inserted information with commas.
+PARENTHETICAL COMMENT:
+• The forecast, fortunately, improved by morning. 「話し手の注釈を差し込む」
+• The missing key, it turned out, was in my pocket. 「判明したことを途中で注記」
+
+Mini practice: 「省略：When (she was) invited, Aya accepted immediately. 省略できる部分は？」 Answer: 「she was」. Reason: 「接続詞whenの後で主節と同じ主語＋beが明白だから」.
+
+Bottom takeaway ribbon: 「消すのは復元できる反復、足すのは理解に必要な注釈」. Dense, clean, accurate typography.

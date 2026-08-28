@@ -1,0 +1,19 @@
+Use case: scientific-educational
+Asset type: dense 9:16 portrait grammar explanation page
+Primary request: Independently teach anticipatory “it”: start with a small it placeholder, then explain its content afterward with a to-infinitive or clause. Include the for-person variation and the time-taking pattern. Source pages 214–215 are coverage only; reuse no source wording, examples, art, order, or layout.
+Input images: Image 1 mascot appearance reference; Image 2 PAGE_0001 approved adventure-library design reference.
+Canvas: strict 9:16 portrait, full-bleed, safe margins, no page number.
+Top title: 「itで先に話し始める」
+Central illustration: mascot in a quick-start conductor pose places a small glowing “it” token at the front of a sentence train; larger explanation cars arrive behind it.
+Mechanism diagram: 「心に内容が浮かぶ」→「itで受けて開始」→「to 動詞 / that節で後ろから説明」. Add branch 「for + 人＝その動作をする人」.
+Original example cards:
+1. “It is fun to map a new trail.” / 「楽しい、と先に言い、内容を後ろで示す」
+2. “It is important for us to leave early.” / 「leaveする人は us」
+3. “It takes ten minutes to cross the bridge.” / 「必要時間を先に伝える」
+4. “It is strange that no one answered.” / 「that節が it の中身」
+Mini practice box: 「ミニ確認：It is easy ___ this app. 空所は？」 「答え：to use」 「easy の内容をto不定詞で後ろから説明する。」
+Bottom takeaway: 「全部考えてから話さない。itで始めて後ろへ足す」
+Style: glossy cover-quality blue-yellow-white adventure library, dimensional sentence train, thick crisp outlines, central scene + mechanism + four cards + practice, limited red emphasis.
+Typography: accurate English, bold Japanese Gothic, specified text only.
+Constraints: no page number, source identity, copied wording/example/diagram/layout, logo, citation, watermark, or extra exercise. Mascot once in a unique conductor pose.
+Avoid: tiny text, sparse poster, dark train station, photorealism.

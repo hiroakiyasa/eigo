@@ -1,0 +1,13 @@
+Use case: scientific-educational; dense 9:16 portrait grammar page. Independently teach the pronoun form system and subject case, including natural spoken “than me”. Source p.204–205 supplies topic coverage only; do not copy its table, examples, prose, or layout.
+Input references: mascot identity and PAGE_0001 visual system.
+Top title: 「代名詞は、場所で着替える」
+Central illustration: leopard explorer as a costume-master sends eight character tokens through five wardrobe doors. Each door is labeled by function, not Japanese translation.
+Mechanism matrix, compact and accurate: 「主語：I / you / he / she / it / we / they」「名詞の前：my / your / his / her / its / our / their」「指される：me / you / him / her / it / us / them」「〜のもの：mine / yours / his / hers / ours / theirs」「自身：myself ... themselves」. Highlight 「its 所有 / it’s = it is」.
+Original examples:
+1. “She sent us a message.” / 「sheは主語、usは受け手」
+2. “Their tent is larger than ours.” / 「theirは名詞の前、oursは単独」
+3. “Leo is taller than me.” / 「会話ではthan meが自然」
+Mini problem: 「ミニ問題：正しい形は？」 “(Her / She) found (we / us).” 「答え：She / us」 「主語の場所はShe、動詞の対象はus。」
+Bottom ribbon: 「意味より先に、文の中の役目を見よう」
+Style: bright adventure-library costume workshop, blue/yellow/white, dimensional wardrobe doors, red only for common confusions, thick outlines, dense but readable.
+Constraints: no page number, copied source table/list formatting/examples/wording/layout, source identity, logo, citation, watermark, blank answer area, or photorealism. One mascot in costume-master pose.

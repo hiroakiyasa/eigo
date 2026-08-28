@@ -1,0 +1,14 @@
+Use case: scientific-educational
+Asset type: dense illustrated English grammar page, portrait 9:16
+Primary request: Teach present-time unreal wishes as psychological distance. Explain that present facts move one step back to past forms after wish, could expresses an unavailable ability, and be may use formal were for every subject, especially “If I were you.” Reconstruct the ideas independently without copying source sentences or diagrams.
+Input images: PAGE_0001 approved blue-gold visual reference; mascot_reference exact leopard explorer.
+Canvas: exact 941×1672, full bleed, safe margins, no page number.
+Top Japanese title: 「wishは現実から一歩遠く」
+Central illustration: the leopard explorer stands on REALITY island and looks through a telescope toward a glowing WISH island; a large arrow moves PRESENT → PAST to show distance, not past time.
+Mechanism diagram: FACT “I don’t have enough time.” → WISH “I wish I had more time.”; FACT “I can’t fly.” → WISH “I wish I could fly.”; BE panel: “I wish I were taller.” formal / “was” common in conversation.
+Original example cards: “I wish this room had a window.” / 「実際には窓がない」; “Leo wishes he could read faster.” / 「今は速く読めない」; “If I were you, I’d ask for help.” / 「私はあなたではないからwereが定番」.
+Mini practice: 「今、地図を持っていない：I wish I (have / had) a map.」 Answer: “had”. Reason: 「今の事実から一歩離すため過去形。」
+Bottom takeaway: 「wish＋過去形＝過去の話ではなく、今の現実との距離」
+Style: glossy blue-gold-white-red adventure atlas, thick outlines, clear Japanese, readable English, information-dense but orderly, one mascot in wistful telescope pose.
+Constraints: no page number, copied examples, copied figure, source identity, logo, citation, or watermark.
+Avoid: implying the wish happened in the past, tiny text, duplicate mascot.

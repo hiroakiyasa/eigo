@@ -1,0 +1,10 @@
+Use case: scientific-educational; dense 9:16 portrait grammar page. Teach WILL versus BE GOING TO for prediction, visible evidence, instant decision, and existing intention from p.584–585.
+Input references: PAGE_0001 design and mascot identity.
+Top title: 「willのスイッチ、going toの流れ」
+Central illustration: mascot as a weather captain compares a WILL decision switch with a GOING TO river already flowing toward an outcome. Visible black clouds and wobbling boxes feed the river; an existing plan card rides along it.
+Mechanism: 「will予測＝話し手の見通し」「will意志＝今カチッと決める」「be going to＝現在の兆候から結果へ流れる」「be going to＝すでにある意図」.
+Original examples: “I believe our team will recover.” / 「見通しとして予測」; “Look at those clouds—it's going to pour.” / 「目に見える兆候」; “I'll check the map for you.” / 「その場で申し出」; “We're going to repaint the kitchen.” / 「前からある計画」.
+Mini problem: 「ミニ問題：箱が今にも落ちそう」 “Those boxes (will / are going to) fall!” Answer 「are going to」. Reason 「目の前の傾きが結果への流れを示す。」
+Bottom ribbon: 「今決めたならwill、もう流れがあるならgoing to」
+Style: bright adventure-library command deck, blue/gold/white/red switch and river arrows, thick outlines, dense clear panels.
+Constraints: 9:16; no page number, copied source wording/examples/figures/layout, source identity, logo, citation, watermark, empty answer area, or photorealism. One mascot captain.

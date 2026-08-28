@@ -1,0 +1,19 @@
+Use case: scientific-educational
+Asset type: dense 9:16 portrait vocabulary construction page
+Primary request: Independently teach make, have, let, and look through their core mechanisms. Source pages 122–123 are coverage only; do not reuse source examples, prose, art, or structure.
+Input images: mascot appearance reference; PAGE_0001 design reference.
+Canvas: strict 9:16 portrait, full-bleed, safe margins, no page number.
+Top title: 「作る・持つ・許す・見る」
+Central illustration: mascot in an inventor pose operating four stations in one adventure-library atelier: assembling, keeping something within a glowing personal zone, opening a permission gate, aiming a telescope.
+Mechanism diagram: 「make＝力を加えて作り上げる」 「have＝自分の範囲にある」 「let＝進むことを許す」 「look＝視線を向ける」.
+Original example cards:
+1. “We made a shelter from branches.” / 「材料に力を加えて形を作る」
+2. “The museum has three entrances.” / 「博物館の範囲に入口がある」
+3. “Let me carry that bag.” / 「私が運ぶことを許して」
+4. “Look at the symbol above the gate.” / 「視線をそこへ向ける動作」
+Mini practice box: 「ミニ確認：The joke made us happy. の make は？」 「答え：作り上げる」 「us＝happy という状態を生み出す。」
+Bottom takeaway: 「訳を並べず、動詞ごとの中心動作を覚える」
+Style: glossy blue-yellow-white adventure-library inventor room, dimensional stations and arrows, thick clean outlines, compact educational cards, limited red accents.
+Typography: exact English, bold readable Japanese, specified text only.
+Constraints: no page number, source identity, copied content/layout, logo, citation, watermark, or extra practice. Mascot once in a new inventor pose.
+Avoid: tiny text, sparse poster, unrelated props, dark scene, photorealism.

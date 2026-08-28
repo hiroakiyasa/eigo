@@ -1,0 +1,18 @@
+Use case: scientific-educational
+Asset type: dense portrait pattern-summary and transition page for an illustrated English grammar book
+Primary request: Teach useful not patterns—“not ... without”, “not ... until”, “not only A but also B”, and “not A but B”—with parallel structure, then transition toward modals as meaning filters before verbs. Source pages 330–331 guide coverage only; do not imitate the chapter art or reuse examples.
+Input images: mascot appearance only; PAGE_0001 visual-system reference only.
+Canvas: strict 9:16 portrait, dense, no page number.
+Top title (verbatim): 「notで作る、4つの論理ルート」
+Central illustration: the leopard explorer in a route-builder pose connects four glowing logic bridges in the adventure library, then points toward a distant MODAL gate.
+Mechanism diagram: four labeled rails: “not ... without＝〜なしには…しない”, “not ... until＝〜まで…しない”, “not only A but also B＝AだけでなくBも”, “not A but B＝AでなくB”. Parallel-form badge: 「AとBは同じ形をそろえる」.
+Original example cards:
+1. “We won’t leave without the map.” / 「地図なしでは出発しない」
+2. “The gate won’t open until sunrise.” / 「日の出まで開かない」
+3. “She can not only sing but also compose.” / 「歌えるだけでなく作曲もできる」
+4. “Take the red path, not the blue one.” / 「青でなく赤」
+Mini practice: 「ミニ問題　並列をそろそう」 “He likes not only hiking but also (to swim / swimming).”
+Answer: 「答え　swimming」 「hikingと同じ-ing形でAとBをそろえる。」
+Bottom ribbon: 「notは否定だけでなく、関係を組み立てる部品」
+Style: PAGE_0001 blue-gold-white adventure-library logic bridges, dimensional connectors, bold outlines, red only for NOT, one mascot, large accurate text.
+Constraints: fully original; no source wording/examples/figures/chapter layout, citation, identity, logo, ISBN, watermark, page number, or extra prose; no photorealism or tiny type.

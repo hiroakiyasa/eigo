@@ -1,0 +1,42 @@
+Create a polished, information-dense educational English grammar page in portrait 9:16, matching the supplied cover's vivid blue, gold, white, and red explorer aesthetic. Use the exact same leopard explorer mascot running a practical-life station with arithmetic, temperature, money, clocks, dates, years, and phone numbers. No page number, source name, watermark, logo, copied source wording, or copied artwork.
+
+Top Japanese title: 「生活の数を英語で正確に言う」
+
+Build a six-station practical number dashboard.
+
+ARITHMETIC:
+7 + 5 = 12 → seven plus five equals twelve
+14 − 6 = 8 → fourteen minus six equals eight
+9 × 4 = 36 → nine times four equals thirty-six
+24 ÷ 3 = 8 → twenty-four divided by three equals eight
+
+MEASUREMENTS:
+temperature: 30°C “thirty degrees Celsius”; 86°F “eighty-six degrees Fahrenheit”
+height: five feet eight inches
+weight: one hundred forty pounds
+distance: ten miles; note 1 mile ≈ 1.6 km. Add caution to check local units rather than mentally substituting.
+
+CODES/PHONE:
+907-2046 → nine oh seven, two oh four six. Caption: read digits one by one.
+
+MONEY:
+$48.75 → forty-eight dollars and seventy-five cents / forty-eight seventy-five
+$3.50 → three fifty
+£2.70 → two pounds seventy
+Note: buck and quid are informal; use standard currency words in formal contexts.
+
+TIME:
+7:45 → seven forty-five / a quarter to eight
+6:30 → six thirty / half past six
+
+DATES and ambiguity:
+03/07 can mean March 7 in the US or 3 July in the UK. Safest international form: write the month name, such as 7 March 2026 or March 7, 2026.
+
+YEARS:
+1998 → nineteen ninety-eight
+2006 → two thousand six
+2026 → twenty twenty-six or two thousand twenty-six
+
+Mini practice: 「$12.50をレジで短く読む」 Answer: 「twelve fifty」. Reason: 「文脈で通貨が明白ならdollars and centsを省略できる」.
+
+Bottom takeaway ribbon: 「数は場面ごとの読み方までセットで覚える」. Dense, precise, highly readable.

@@ -1,0 +1,19 @@
+Use case: scientific-educational
+Asset type: dense 9:16 portrait explanation page
+Primary request: Independently contrast put and set, then connect get and give as opposite-direction transfer verbs. Source pages 120–121 are coverage only; reproduce nothing from the source.
+Input images: mascot appearance reference; PAGE_0001 design reference.
+Canvas: strict 9:16 portrait, no page number, high information density, safe margins.
+Top title: 「置く・得る・与える」
+Central illustration: mascot in a careful tool-setting pose at a glowing transfer machine. Left side shows a loose “put” placement and a clicked-in “set” placement; lower conveyor moves objects toward the mascot for get and away for give.
+Mechanism diagram: top comparison 「put＝場所へ置く / set＝しっかり固定」; bottom arrows 「get＝動いて手に入れる ←」 and 「give＝相手へ与える →」.
+Original example cards:
+1. “Put the lantern by the door.” / 「場所を決めて置く」
+2. “I set the timer for ten minutes.” / 「設定をカチッと固定」
+3. “Mia got a message from the guide.” / 「情報を手に入れた」
+4. “Leo gave the child a sticker.” / 「人へ物を渡した」
+Mini practice box: 「ミニ確認：It’s getting cold. の get は？」 「答え：変化」 「状態が cold へ動いている。」
+Bottom takeaway: 「物の移動と状態の変化を、矢印で感じよう」
+Style: approved cover visual system, bright adventure-library lab, glossy 3D blocks, click mechanism, transfer arrows, blue/yellow/white and restrained red, rich but orderly.
+Typography: accurate English and short bold Japanese.
+Constraints: no page number, copied expression, source identity, logo, citation, watermark, or additional exercise. Mascot once in a distinct pose.
+Avoid: crowded unreadable cards, giant title, generic worksheet, dark colors.

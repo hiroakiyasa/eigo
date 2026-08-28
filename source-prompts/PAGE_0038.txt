@@ -1,0 +1,18 @@
+Use case: scientific-educational
+Asset type: dense portrait explanation page for an illustrated English grammar book
+Primary request: Teach the object-complement pattern as “verb acts on O, then a following expression describes O”, showing several complement forms and useful everyday applications. Source pages 88–89 guide coverage only; make every sentence and graphic original.
+Input images: mascot appearance reference only; PAGE_0001 design reference only.
+Canvas: strict 9:16 portrait, full-bleed, dense but readable, no page number.
+Top title (verbatim): 「目的語の後ろに、説明を足す」
+Central original illustration: the leopard explorer in a tag-attaching pose fastens glowing description labels to an object chest in the adventure library.
+Mechanism diagram: “S + V + O + C” with a bright bracket “O ＝ C”. Four small C badges: 「名詞」「形容詞」「場所」「-ing / 過去分詞」. Note: 「Oに何が起きた？ Oはどんな状態？」
+Original example cards:
+1. “They named the robot Piko.” / 「robot＝Piko」
+2. “The sun painted the clouds pink.” / 「clouds＝pink」
+3. “I found my keys under the sofa.” / 「keys＝ソファの下」
+4. “We watched the otters swimming.” / 「otters＝泳いでいる」
+Mini practice box: 「ミニ問題　O＝Cを探そう」 “Keep the window open.”
+Answer box: 「答え　the window＝open」 「open が目的語の状態を説明する。」
+Bottom ribbon: 「動詞で終わらず、目的語の様子まで伝えられる」
+Style: approved glossy blue-yellow-white adventure library, dimensional labels, gold arrows, thick crisp outlines, red only on O＝C, one cute mascot, large Japanese Gothic and clear English.
+Constraints: original examples/metaphor/layout; include all specified items once; no source wording, copied figure, source title, citation, logo, ISBN, watermark, page number, or added prose; avoid photorealism and tiny type.

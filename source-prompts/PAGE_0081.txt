@@ -1,0 +1,18 @@
+Use case: scientific-educational
+Asset type: dense portrait explanation page for an illustrated English grammar book
+Primary request: Teach the contrast between “a/an” as a not-yet-identified member and “the” as an identifiable one, including first mention then later reference and the inferences each article can create. Source pages 174–175 guide coverage only; independently create all wording, examples, illustration, diagram, question, and layout.
+Input images: Image 1 is the leopard mascot appearance reference only; Image 2 is PAGE_0001, the visual-system reference only.
+Canvas: strict 9:16 portrait, full-bleed, dense but phone-readable, no page number.
+Top title (verbatim): 「aで登場、theで再会」
+Central illustration: in a bright adventure-library archive, the leopard explorer in a story-guide pose opens a mystery chest; first a hazy card marked “a clue” enters the story, then a spotlight follows the now-known card marked “the clue”. One mascot only.
+Mechanism diagram: “初登場・まだ決まらない → a / an” then arrow “聞き手も特定できる → the”. Add inference badges: “a＝同類がほかにもあり得る”, “the＝どれか1つに決まる”.
+Original example cards:
+1. “I found a key near the fountain.” / 「初めて出す、まだどの鍵か不明」
+2. “The key opened the blue gate.” / 「さっきの鍵だと特定できる」
+3. “Rin gave me a reason.” / 「理由はほかにもあり得る」
+4. “Rin gave me the reason.” / 「理由はこれだと決まる」
+Mini practice: 「ミニ問題　a / the？」 “We saw ___ owl. ___ owl had a silver feather.”
+Answer: 「答え　an / The」 「初登場は an、再登場は The。」
+Bottom ribbon: 「冠詞は“何個”より、“どれに決まるか”を案内する」
+Style: PAGE_0001 glossy blue-yellow-white adventure library, golden story trail, dimensional word cards, crisp thick outlines, red only for article contrast; large accurate Japanese Gothic and clear English.
+Constraints: include all specified elements once; no copied source wording/examples/figures/order/layout, source identity, citation, logo, ISBN, watermark, page number, or extra prose; no photorealism, dark background, sparse poster, or tiny text.

@@ -1,0 +1,10 @@
+Use case: scientific-educational; dense 9:16 portrait grammar page. Teach past perfect as conscious backtracking and will have done as completion before a predicted point, based on p.578–579.
+Input references: PAGE_0001 design and mascot identity.
+Top title: 「基準時から一歩さかのぼる」
+Central illustration: mascot as a timeline archaeologist plants a flag at a past reference point, then digs backward to HAD DONE. On the right, a future observation tower looks back to WILL HAVE DONE completed before a deadline. A straight event chain shows that ordinary chronological narration stays past simple.
+Mechanism: 「had done＝過去の基準時からそれ以前へ戻る」「ただ順番に語るだけなら過去形」「will have done＝想像した時点までに完了しているだろう」.
+Original examples: “The guests had left before the storm began.” / 「嵐の開始時点より前」; “I opened the door, stepped inside, and turned on the light.” / 「順番なので全部過去形」; “By noon tomorrow, we will have finished the survey.” / 「明日正午までに完了予測」; “They will have reached Osaka by now.” / 「今頃は到着済みだろう」.
+Mini problem: 「ミニ問題：到着時には閉店済み」 “When we arrived, the shop (closed / had closed).” Answer 「had closed」. Reason 「到着を基準に、それ以前へさかのぼる。」
+Bottom ribbon: 「完了形は“前”ではなく、基準点から振り返る形」
+Style: glossy adventure-library timeline excavation, blue/gold/white/red flags and towers, thick outlines, dense readable.
+Constraints: exact 9:16; no page number, copied examples/text/figures/layout, logo, citation, watermark, blank answer field, or photorealism. One mascot archaeologist.

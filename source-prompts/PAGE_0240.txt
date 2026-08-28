@@ -1,0 +1,10 @@
+Use case: scientific-educational; dense 9:16 portrait grammar page. Teach impersonal report passives, be supposed to, and phrasal-verb passives from p.492–493 coverage.
+Input references: PAGE_0001 design and mascot identity.
+Top title: 「言われている・決まり・句動詞」
+Central illustration: mascot as a newsroom rule marshal handles three machines: IT IS SAID THAT broadcast, BE SUPPOSED TO rule track, and a PHRASE package machine that keeps verb + particle together before adding passive BE.
+Mechanism: 「It is said that + 文＝一般に〜と言われる」「subject + is said/thought + to＝主語中心の報告」「be supposed to＝決まり・予定・期待」「句動詞の受動＝be + 句動詞の過去分詞、粒子を落とさない」.
+Original examples: “It is believed that the cave is very old.” / 「洞窟は非常に古いと考えられる」; “The cave is believed to be very old.” / 「洞窟を主語に」; “Visitors are supposed to leave by six.” / 「6時までに退出する決まり」; “The outdoor concert was called off.” / 「屋外公演は中止された」.
+Mini problem: 「ミニ問題：句動詞を保つ」 “Someone has already paid for the tickets.” Answer 「The tickets have already been paid for.」 Reason 「pay forを一つの動詞パッケージとして保つ。」
+Bottom ribbon: 「伝聞も規則も句動詞も、まとまりで受動化する」
+Style: bright adventure-library newsroom and rule station, blue/gold/white/red, package gears, thick outlines, dense phone-readable.
+Constraints: 9:16; no page number, copied source examples/figures/prose/layout, source marks, logo, citation, watermark, empty answer space, or photorealism. Exactly one mascot marshal.

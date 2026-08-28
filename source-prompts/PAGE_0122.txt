@@ -1,0 +1,18 @@
+Create a polished information-dense educational book page in portrait 9:16, matching the supplied cover's vivid blue, gold, white, and red visual language. Reuse the supplied leopard explorer mascot, now stacking colorful travel crates. No page number, footer number, source name, watermark, or logo.
+
+Top Japanese title: 「副詞を重ねる基本ルート」
+
+Central mechanism illustration: the leopard stacks three crates in sentence order 「様子 HOW」→「場所 WHERE」→「時 WHEN」, with a second telescope diagram showing 「狭い情報 → 広い情報」. Explain that several adverbs normally proceed from the action's immediate manner to wider setting.
+
+Original examples with Japanese explanations:
+• Mia spoke clearly in class yesterday. 「様子→場所→時」
+• The dog slept peacefully by the door all night. 「動作に近い情報から置く」
+• We met at the station after lunch. 「場所→時」
+
+Add a word-formation lab panel: adjective + -ly → adverb: slow→slowly, careful→carefully, happy→happily. Clearly mark exceptions: friendly / lovely are adjectives; early and fast can be adjective or adverb. Contrast with gauges:
+• work hard = 一生懸命働く
+• hardly work = ほとんど働かない
+
+Mini practice: 「正しい語順は？ A: Leo practiced yesterday hard at home. B: Leo practiced hard at home yesterday.」 Show answer B and reason 「様子→場所→時」.
+
+Takeaway ribbon: 「近い説明から、外側の情景へ」. Make the rule diagram prominent, include 3 example strips, exception badges, and problem+answer; crisp readable type.

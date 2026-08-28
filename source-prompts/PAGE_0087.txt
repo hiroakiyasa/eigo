@@ -1,0 +1,18 @@
+Use case: scientific-educational
+Asset type: dense portrait comparison page for an illustrated English grammar book
+Primary request: Contrast all as one broad bundle with every as attention to each member, including all’s flexible position, count/noncount use, every plus singular noun, and singular they. Source pages 186–187 guide coverage only; create original explanations, scenes, and examples.
+Input images: mascot identity reference only; PAGE_0001 visual reference only.
+Canvas: strict 9:16 portrait, full-bleed, dense, no page number.
+Top title (verbatim): 「allは一束、everyは一人ずつ」
+Central illustration: the leopard explorer in a librarian-checker pose holds a big golden rope around a group of books labeled “ALL”, while a scanner beam checks separate books one by one under “EVERY”.
+Mechanism diagram: “all + 複数 / 不可算＝まとめて全部” versus “every + 単数名詞 + 単数動詞＝どれも1つずつ確認”. Position strip: “All the guests smiled. / The guests all smiled.” Singular-they note: “Every guest brought their pass.”
+Original example cards:
+1. “All the lights went out.” / 「明かりをまとめて全部」
+2. “Leo used all the paint.” / 「不可算のpaintにも使える」
+3. “Every drawer has a label.” / 「引き出しを1つずつ見る」
+4. “Every student shared their idea.” / 「everyは単数、theirで自然に受けられる」
+Mini practice: 「ミニ問題　正しい形は？」 “Every explorer (needs / need) water.”
+Answer: 「答え　needs」 「every + 単数名詞は単数扱い。」
+Bottom ribbon: 「全景を見る all、全員を点検する every」
+Style: PAGE_0001 blue-yellow-white adventure-library inventory room, golden bundle rope and scanner, dimensional grammar cards, thick outlines, red only for singular marker, one mascot.
+Constraints: all text legible; no source wording/examples/figures/layout, source identity, citation, logo, ISBN, watermark, page number, or added prose; avoid photorealism and tiny type.

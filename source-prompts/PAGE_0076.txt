@@ -1,0 +1,14 @@
+Use case: scientific-educational; dense 9:16 portrait grammar page. Independently teach how “the” identifies one shared target from prior context, an associated item, or the immediate situation. Source p.164–165 is coverage only.
+Input references: mascot appearance and PAGE_0001 visual system.
+Top title: 「the は、同じ1つを指す」
+Central illustration: leopard explorer as a spotlight operator aims one golden beam at a single object both speaker and listener can identify. Three smaller stages represent context, association, and situation.
+Mechanism diagram: core 「聞き手も“どれか”1つに決められる」 branching to 「前に登場した」「登場物と結びつく」「その場で分かる」. Flow chip 「a で初登場 → the で再登場」 and caution 「候補が2つなら、説明を足す」.
+Original examples:
+1. “I found a lantern. The lantern was still warm.” / 「初登場a、同じ物をthe」
+2. “We entered a cottage. The roof was painted blue.” / 「家から屋根が1つに結びつく」
+3. “Please turn off the light.” / 「その場でどの照明か分かる」
+4. “Open the window beside the clock.” / 「候補があるので説明で特定」
+Mini practice: 「ミニ問題：2文目は？」 “I saw a fox. ___ fox disappeared.” 「答え：The」 「前の文に出た同じ1匹を指す。」
+Bottom ribbon: 「the は、話し手と聞き手のスポットライトを重ねる」
+Style: cover-quality adventure-library theater, glossy spotlights and context panels, blue/yellow/white with gold beam and small red focus ring, thick outlines.
+Constraints: no page number, copied source examples/figure/wording/layout, source marks, logo, citation, watermark, blank answer space, or photorealism. One mascot in spotlight-operator pose.

@@ -1,0 +1,10 @@
+Use case: scientific-educational; dense 9:16 portrait grammar page. Teach WHICH with object holes, WHOSE for things, and formal fronted prepositions from p.424–425 coverage.
+Input references: PAGE_0001 design and mascot identity.
+Top title: 「whichで“どのもの？”を説明」
+Central illustration: mascot as a machine mechanic fits a THING gear into object-hole and preposition-hole sockets. A formal elevator lifts the final preposition to the front; a caution lock keeps phrasal-verb packages together.
+Mechanism: 「目的語の穴：which + 主語 + 動詞 ___」「ものの所有：whose + 名詞」「会話：which ... 前置詞」「改まった文：前置詞 + which」「熟語化した前置詞は動かさない」.
+Original examples: “The lamp which Nao repaired works again.” / 「ナオが直したランプ」; “Choose a camera whose controls are simple.” / 「操作が簡単なカメラ」; “This is the hall in which the ceremony was held.” / 「式が行われたホール・改まった形」; “Here is the tool which I was looking for.” / 「探していた道具」.
+Mini problem: 「ミニ問題：自然なのは？」 A “the key for which I looked” B “the key which I looked for” Answer 「B」. Reason 「look forは一まとまりなのでforを残す。」
+Bottom ribbon: 「穴と前置詞のつながりまで見る」
+Style: glossy adventure-library machine shop, blue/gold/white, red caution locks, thick outlines, dense readable diagram.
+Constraints: exact 9:16; no page number, copied examples/figures/text/layout, source marks, logo, citation, watermark, empty answer area, or photorealism. One mascot in mechanic pose.

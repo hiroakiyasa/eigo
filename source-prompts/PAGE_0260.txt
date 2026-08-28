@@ -1,0 +1,19 @@
+Use case: scientific-educational
+Asset type: dense illustrated advanced WH-question page, portrait 9:16
+Primary request: Independently teach WH questions whose missing information lies deep inside a report clause, distinguishing an embedded subject gap from an object or modifier gap. Include the rule that reporting THAT cannot remain when the missing element is the embedded subject. Rebuild pages 532–533 without copying source examples, diagrams, or wording.
+Input images: PAGE_0001 approved visual design; mascot_reference exact leopard explorer.
+Canvas: exact 941×1672, strict portrait 9:16, full bleed, safe margins, no page number.
+Top Japanese title: 「文の奥の穴をwhで探す」
+Central illustration: the mascot uses an X-ray telescope through nested REPORT boxes to locate three glowing gaps: embedded subject, object, and time/place modifier.
+Mechanism diagram: outer frame 「WH＋do you think/say/imagine＋embedded clause gap？」. Subject route: “Who do you think ___ found it?” with no that. Object route: “Who do you think Mia invited ___?”; modifier route: “When do you think they will arrive ___?”. Red warning: subject gap after that would make that look like the subject, so omit that.
+Original example cards:
+1. “Who did you say found the map?” / 「奥の節の主語が穴」
+2. “Who did you say Nora called?” / 「奥の節の目的語が穴」
+3. “When do you imagine the ship will arrive?” / 「奥の時情報が穴」
+4. “What time do you want me to return?” / 「want＋人＋toの中も尋ねられる」
+Mini practice: 「正しい形：What do you think (that was / was) in the box?」 Answer: “was”. Reason: 「whatがwasの主語なので、thatを置かない。」
+Bottom takeaway: 「長い文でも、欲しい情報の穴まで道をたどれば作れる」
+Style: glossy adventure X-ray archive, blue-gold-white-red nested transparent boxes, thick outlines, information-rich examples, mascot once in a focused detective pose.
+Typography: accurate English and bold readable Japanese.
+Constraints: no page number, source quotation/example/diagram, source identity, logo, citation, watermark, or extra exercise.
+Avoid: opaque nested clauses, incorrect that before subject gap, tiny advanced notes.

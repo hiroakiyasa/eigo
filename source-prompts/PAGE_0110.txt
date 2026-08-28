@@ -1,0 +1,19 @@
+Use case: scientific-educational
+Asset type: dense 9:16 portrait core-rule explanation page
+Primary request: Independently teach the two directions of modification: before a target narrows its kind, after a target explains it. Source pages 232–233 are coverage only; reuse no source wording, examples, diagram, or layout.
+Input images: mascot appearance reference; PAGE_0001 design reference.
+Canvas: strict 9:16 portrait, no page number, safe margins.
+Top title: 「前はしぼる、後ろは説明」
+Central illustration: mascot in a two-way traffic-controller pose at a glowing modifier road. A funnel arrow enters a noun from the front; an explanation lantern unfolds behind it.
+Mechanism diagram: left-to-right 「前置き → 種類をしぼる → 名詞」 and 「名詞 / 文 → 後ろ置き → 内容を説明」. Use one simple noun block transformed in both directions.
+Original example cards:
+1. “a wooden bridge” / 「woodenが橋の種類をしぼる」
+2. “The bridge is wooden.” / 「woodenが橋の性質を説明」
+3. “the map on the desk” / 「どのmapかを後ろから説明」
+4. “Leo, tired after the climb, sat down.” / 「途中に説明を差し込む」
+Mini practice box: 「ミニ確認：a red door の red は前・後ろ？」 「答え：前」 「doorの種類を先にしぼっている。」
+Bottom takeaway: 「位置が変わると、修飾の気持ちも変わる」
+Style: bright glossy adventure-library traffic hall, blue/yellow/white, red only for target words, thick outlines, dimensional funnel and unfolding explanation ribbon, dense but readable.
+Typography: exact English punctuation and bold Japanese.
+Constraints: no page number, source expression/figure/layout reuse, source identity, logo, citation, watermark, or additional exercise. Mascot once in traffic-controller pose.
+Avoid: tiny text, sparse poster, copied arrows, dark background.

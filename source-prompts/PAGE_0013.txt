@@ -1,0 +1,24 @@
+Use case: scientific-educational. Create an information-dense portrait 9:16 time-observatory page matching PAGE_0001. Same leopard photographer uses a magical camera across time zones. Original diagram, explanations and examples. No page number, source identity, logo or watermark.
+
+Top title: 「時は、カメラの距離で感じる」
+
+Central timeline camera with four zones:
+「現在形：今を含む安定」
+「進行形：今の動画」
+「過去形：今から切り離す」
+「現在完了：過去を今へつなぐ」
+
+Required table:
+「形｜カメラの見方｜オリジナル例｜中心の意味」
+「現在形｜広い現在｜I walk to school.｜習慣」
+「進行形｜今の場面｜I am walking now.｜途中」
+「過去形｜遠い写真｜I walked yesterday.｜完結した過去」
+「現在完了｜今への橋｜I have walked five kilometers.｜今までの到達」
+
+Explanation notes: 「時制は出来事の日付だけでなく、話し手がどこから眺めるかを表す。」 「同じ動作でも、視点を変えると形が変わる。」
+Mini check: “I am reading now.” is photo or video? Answer: video. Reason: 「進行中の動きを映す形。」
+Bottom ribbon: 「いつ起きた？＋今どう見ている？を考える」
+
+Dense observatory diagram, table, four examples and mini check. Phone-legible.
+
+後半ページ同等の高密度基準：中央イラスト＋仕組み図＋説明文＋独自英文4〜6本＋簡潔な和訳/解説＋ミニ問題・答え・一行理由、ページの85〜90%を学習内容で満たす、文字は読める大きさ。

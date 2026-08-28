@@ -1,0 +1,15 @@
+Use case: scientific-educational
+Asset type: dense illustrated past narrative tense page, portrait 9:16
+Primary request: Extend the “past frame pulls details into the past” idea beyond reported speech. Teach that reasons, relative-clause descriptions, abilities, and setting details inside a past story naturally use past forms even when the property may still be true now. End with a bridge toward combining sentences.
+Input images: PAGE_0001 approved visual reference; mascot_reference exact leopard explorer.
+Canvas: exact 941×1672, strict 9:16, no page number.
+Top Japanese title: 「過去の物語は細部も過去色」
+Central illustration: mascot paints an entire adventure panorama with a PAST-blue paint roller; main events and attached detail bubbles receive the same past tint.
+Mechanism diagram: PAST STORY FRAME contains main event + because reason + relative-clause description + could ability. “Now still true?” is separate from “Which time frame am I narrating?”
+Original example cards: “We chose the hill because it was quiet.” / 「今も静かでも、過去の選択の理由」; “We followed a path that ran beside the river.” / 「今も続く道でも物語内はran」; “From the tower, we could see the harbor.” / 「その時点の見え方」; “The café stood near a bridge that crossed the canal.” / 「背景描写も過去枠」.
+Mini practice: 「昨日の旅行記：We rested under a tree that (gives / gave) plenty of shade.」 Answer: “gave”. Reason: 「過去の物語に組み込まれた説明だから。」
+Transition strip: “Next: one sentence → connected flow” with icons for linking, substitution, omission.
+Bottom takeaway: 「物語の箱が過去なら、付属する説明も自然に過去になる」
+Style: glossy blue-gold-white-red story panorama, thick outlines, dense illustrated examples, mascot once as cheerful painter.
+Constraints: no page number, copied story/source figure, source identity, logo, citation, watermark.
+Avoid: implying the place no longer exists, present-tense drift.

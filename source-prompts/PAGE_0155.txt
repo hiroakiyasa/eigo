@@ -1,0 +1,18 @@
+Use case: scientific-educational
+Asset type: dense portrait scope-and-position page for an illustrated English grammar book
+Primary request: Show that moving not changes its scope: it can negate a phrase, infinitive, purpose, or manner; contrast didn’t try to do with tried not to do, and reinforce not ... any order. Source pages 322–323 guide coverage only; independently create all examples and graphics.
+Input images: mascot appearance reference only; PAGE_0001 style reference only.
+Canvas: strict 9:16 portrait, dense and phone-readable, no page number.
+Top title (verbatim): 「notの位置で、意味の範囲が変わる」
+Central illustration: the leopard explorer in a spotlight-operator pose slides a red NOT spotlight along a sentence rail; only the block immediately after it darkens.
+Mechanism diagram: pair “didn’t try to cross＝渡ろうと試みなかった” versus “tried not to cross＝渡らないよう努力した”. Scope badges “not me / not at night / not to wake anyone”. Order warning “not ... any ✓”.
+Original example cards:
+1. “It was not my idea.” / 「my ideaを否定」
+2. “We whispered not to wake the baby.” / 「起こさないために」
+3. “I didn’t deliberately hide the map.” / 「わざと隠した、を否定」
+4. “I deliberately didn’t hide the key.” / 「わざと、隠さなかった」
+Mini practice: 「ミニ問題　“食べないようにした”は？」 choices “I didn’t try to eat it.” / “I tried not to eat it.”
+Answer: 「答え　I tried not to eat it.」 「notがto eatの直前で食べる行為を否定。」
+Bottom ribbon: 「notの右側だけが、打ち消しの光に入る」
+Style: PAGE_0001 blue-gold-white adventure-library spotlight stage, glossy grammar rail, crisp outlines, red only for NOT scope, mascot once, readable text.
+Constraints: no copied source wording/examples/figures/layout/order, source identity, citation, logo, ISBN, watermark, page number, or extra prose; no photorealism or unreadable type.

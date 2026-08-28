@@ -1,0 +1,19 @@
+Use case: scientific-educational
+Asset type: dense 9:16 portrait comparative intuition page
+Primary request: Independently teach that more/most originate in quantity and extend naturally to adjective degree, while also covering further/farther, older, and the basic comparative idea “a higher degree.” Source pages 300–301 are coverage only; copy nothing from the source.
+Input images: mascot reference; PAGE_0001 design reference.
+Canvas: strict 9:16 portrait, no page number, safe margins.
+Top title: 「moreは“量を足す”比較」
+Central illustration: mascot in a level-meter scientist pose pours glowing “MORE” energy into adjective gauges; distance and age gauges sit beside it.
+Mechanism diagram: 「many / muchの量 → more → 性質の量にも広がる」; side notes 「farther/further＝さらに遠く」 「older＝年齢・古さ」 「比較級だけでも“以前より・別案より”」.
+Original example cards:
+1. “We need more light in this room.” / 「lightの量を増やす」
+2. “This route is more efficient.” / 「efficientの程度を増やす」
+3. “How much further must we walk?” / 「距離をさらに先へ」
+4. “Leo is older than Mia.” / 「年齢の差はolder」
+Mini practice box: 「ミニ確認：He is elder than me. は？」 「答え：older than me」 「ふつうの年齢比較にはolderを使う。」
+Bottom takeaway: 「moreは“より多く”、そこから“より〜”になる」
+Style: glossy blue-gold-white adventure science hall, luminous meters, red degree markers, thick outlines, compact cards.
+Typography: exact English, bold Japanese.
+Constraints: no page number, source wording/examples/diagram/layout, source identity, logo, citation, watermark, or extra exercise. Mascot once in scientist pose.
+Avoid: copied quantity chart, tiny text, photorealism.

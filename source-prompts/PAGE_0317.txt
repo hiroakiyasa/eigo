@@ -1,0 +1,29 @@
+Create a polished, content-rich educational English grammar summary page in portrait 9:16, matching the supplied cover's vivid blue, gold, white, and red explorer-book design. Use the exact same leopard explorer mascot at a large junction map, then tidying repeated luggage into a smooth-flowing caravan. No page number, source name, watermark, logo, copied source art, or copied source sentence.
+
+Top Japanese title: 「接続表現から“流れを整える”へ」
+
+Make this a learning-rich transition page, not a decorative chapter divider. Central “CONNECTION MAP” has five colored routes:
+PURPOSE 「何のため」 → to, so that
+CONCESSION 「逆風でも」 → although, despite
+CONTRAST 「二つの面」 → whereas, on the other hand
+TIME 「いつ・重なり」 → when, while, since
+EQUALITY 「同時・役割」 → as
+
+Add one original micro-example per route:
+• We saved a seat so that Nao could join us. 「目的」
+• Although it was noisy, I concentrated. 「譲歩」
+• This route is longer, whereas that one is steeper. 「対比」
+• Call me when you reach the gate. 「時間」
+• As the moon rose, the air cooled. 「密着した同時」
+
+Lower central illustration introduces “GOOD FLOW” as three tools that remove traffic jams in writing:
+1 substitution 「同じ語を別の短い語で受ける」
+2 ellipsis 「分かる重なりを消す」
+3 annotation 「必要な説明だけ差し込む」
+Show before: bulky repeated sentence carts; after: a clean caravan connected by one/so/auxiliary/comma tags.
+
+Add a diagnostic strip: 「つなぐ → 重なりを探す → 代用か省略 → 必要なら注釈」.
+
+Mini practice: 「目的を示す接続表現：I wrote it down ___ I wouldn’t forget.」 Answer: 「so that」. Reason: 「主語Iを含む目的節を後ろにつなぐ」.
+
+Bottom takeaway ribbon: 「正しい文を、読みやすい流れへ磨く」. Dense, polished, chapter-transition feeling without any page number.

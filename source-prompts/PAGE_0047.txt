@@ -1,0 +1,11 @@
+Use case: scientific-educational. Asset: dense 9:16 portrait grammar page.
+Topic source: p.106–107, concepts only; original examples.
+Top title: 「命令・禁止・誘いを使い分ける」
+Scene: adventure-library expedition camp. Leopard explorer holds three signposts: GO, STOP, TOGETHER.
+Mechanism: base verb = instruction; Don't + base = prohibition; Let's + base = strong invitation; Let's not + base = negative invitation.
+Original examples: 「Follow the blue arrows.」 「Don't touch the red switch.」 「Let's explore the upper floor.」 「Let's not rush.」
+Concise Japanese explanation beside each.
+Mini check: 「『今日は急がないでおこう』は？」 choices Don't rush / Let's not rush. Answer: 「Let's not rush — 一緒にしない提案」.
+Takeaway: 「相手を動かす力の向きを選ぶ」
+Central camp illustration, diagram, examples, problem+answer, approved style, no page number/source marks.
+

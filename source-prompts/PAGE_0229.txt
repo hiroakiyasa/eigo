@@ -1,0 +1,29 @@
+Create a polished, content-rich educational English grammar infographic in portrait 9:16. Match the supplied cover's vivid blue, gold, white, and red explorer-book design. Use the exact same leopard explorer mascot checking a to-do scroll, fitting missing-object puzzle pieces, and measuring “enough” supplies. No page number, source name, watermark, logo, copied source sentence, or copied diagram.
+
+Top Japanese title: 「形容詞とtoの穴埋め関係」
+
+Small top card: rare front-position modifier.
+• a to-do checklist 「これからする項目の種類を限定」
+Caption: 「通常は後ろから説明、前では種類分け」.
+
+Central mechanism: adjective + TO phrase. Show incomplete adjective cards asking “何が？” and TO completing them.
+• This lock is hard to open. 「この鍵を開けるのは難しい」
+• The instructions are easy to follow. 「説明に従うのは簡単」
+• Our team is eager to begin. 「始めたくて意欲的」
+• The weather is likely to improve. 「良くなりそう」
+
+Highlight the GAP relationship with a jigsaw diagram:
+“This lock is hard to open ___.” The missing object of open points back to “this lock.”
+More gap examples:
+• I have two hungry animals to feed ___. 「養うべき動物」
+• She has nobody to turn to ___. 「頼る相手がいない」
+Explain: the target noun silently fills the empty slot inside the to-infinitive.
+
+ENOUGH section: a measuring gauge labeled 「何をするのに十分？」.
+• We have enough rope to reach the ledge. 「棚まで届くのに十分なロープ」
+• Leo was patient enough to wait. 「待てるほど十分に辛抱強い」
+• The cub is old enough to travel alone. 「一人旅できる年齢」
+
+Mini practice: 「The puzzle is easy to solve ___. 空所に入る意味上の目的語は？」 Answer: 「the puzzle」. Reason: 「solveの目的語の穴を主語The puzzleが埋める」.
+
+Bottom takeaway ribbon: 「toの中の空所と、説明される語を線で結ぶ」. Dense but clean and highly legible.

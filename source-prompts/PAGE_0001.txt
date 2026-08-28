@@ -1,0 +1,15 @@
+Use case: scientific-educational
+Asset type: portrait illustrated English grammar book cover
+Primary request: Create an entirely original cover for a friendly illustrated English grammar learning book. Use the supplied leopard explorer only as the character appearance reference. Do not reuse the reference image's circular badge composition, Japanese map, castle, torii gate, globe, scrolls, armor, ship, or title treatment.
+Input image: mascot_reference.png — appearance reference only for the cute yellow-and-black spotted leopard explorer, safari hat, red neckerchief, and warm energetic personality.
+Canvas: strict portrait 9:16.
+Scene/backdrop: a bright original “English adventure library” with floating word blocks, a simple sentence railway, speech bubbles, an open grammar map, a clock, and directional arrows; layered vertical depth; clean white-to-sky-blue setting with rich blue and warm yellow accents.
+Subject: the leopard explorer in a new full-body pose, stepping forward confidently while holding an open English book in one paw and pointing toward a glowing path of sentence blocks with the other; joyful and encouraging.
+Style/medium: vivid polished full-color Japanese educational character illustration; crisp outlines; playful modern textbook cover; highly readable and welcoming, not photorealistic.
+Composition/framing: generous safe margins; character centered in the upper-middle; large title area in the lower-middle; small decorative learning icons around the edges without clutter.
+Text (verbatim): 「英文法クエスト」
+Subtitle (verbatim): 「見て・わかって・使える！」
+Typography: large bold Japanese Gothic display lettering, extremely legible; blue title with white keyline and subtle yellow shadow; subtitle smaller; no other text.
+Constraints: preserve the mascot's recognizable species, spot pattern, safari hat, red neckerchief, big expressive eyes, and friendly child-safe design; make the overall composition completely new; no source-book identity, author, publisher, logo, ISBN, watermark, Japanese landmarks, or unrelated objects.
+Avoid: copying the reference layout, circular emblem, tiny text, garbled letters, horizontal canvas, collage, photorealism, dark background.
+

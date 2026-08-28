@@ -1,0 +1,27 @@
+Create a polished, content-rich educational English grammar page in portrait 9:16, matching the supplied cover's blue, gold, white, and red explorer aesthetic. Same leopard mascot, moving complete prepositional-phrase puzzle pieces before and after sentence targets. No page number, source name, watermark, or logo.
+
+Top Japanese title: 「前置詞句は置き場所で働きが決まる」
+
+Central mechanism: build “preposition + object” as one movable block. Show three placements and functions.
+
+1 After a clause/action = adds circumstance:
+• We practiced in the library. 「どこで練習したか」
+• She opened the box with a coin. 「何を使ったか」
+
+2 After a noun = explains which noun:
+• The students in our club raised money. 「どの生徒かを後ろから説明」
+
+3 Before a noun in a fixed compound-like modifier = classifies/limits:
+• an under-the-seat bag 「座席下用のバッグ」
+• an after-school meeting 「放課後の会議」
+Explain that hyphens often bind multiword modifiers before a noun.
+
+Object variety staircase: a preposition can take noun-like material, not only a simple noun.
+• from bad to worse 「悪い状態からさらに悪く」 adjective ideas used nominally
+• by checking the map 「地図を確認することで」 -ing clause
+• depends on what we decide 「何を決めるかに」 wh-clause
+• from under the table 「テーブルの下から」 nested phrase
+
+Mini practice: 「“with a flashlight” は何を説明？ We searched the cave with a flashlight.」 Answer: searched; reason 「文末で動作の手段を足している」.
+
+Takeaway: 「前置詞句をひとかたまりで動かし、説明先を選ぶ」. Dense movable-block diagram, examples, question and answer, crisp typography.

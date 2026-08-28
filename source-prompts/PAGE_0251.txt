@@ -1,0 +1,18 @@
+Use case: scientific-educational
+Asset type: dense illustrated English question-form book page, portrait 9:16
+Primary request: Independently teach that a question begins with a genuine wish to know, and formal yes/no questions move an auxiliary or BE before the subject. Reconstruct source coverage pages 514–515 without copying wording, examples, figures, or layout.
+Input images: PAGE_0001 approved blue-gold-white-red design reference; mascot_reference exact leopard explorer character.
+Canvas: exact 941×1672 portrait, strict 9:16, safe margins, no page number.
+Top Japanese title: 「知りたい気持ちで倒置」
+Central illustration: the mascot leans forward with a curious expression, moving a glowing auxiliary lens over a SUBJECT block on a question-machine track.
+Mechanism diagram: statement 「S＋AUX＋V」 → question 「AUX＋S＋V？」 with a heart/curiosity gauge. Side comparison: formal inversion plus rising voice; casual statement order can become a question when context and upward intonation carry real uncertainty.
+Original example cards:
+1. “Mia can read this map.” → “Can Mia read this map?” / 「canを主語の前へ」
+2. “They have found the key.” → “Have they found the key?” / 「haveを前へ」
+3. “You’re joining us?” / 「語順はそのまま、上昇調で確認」
+Mini practice: 「Leo will guide us. を疑問文に」 Answer: “Will Leo guide us?” Reason: 「助動詞willを主語Leoの前へ動かす。」
+Bottom takeaway: 「倒置は、話し手の“教えて”を語順で見せる」
+Style: glossy adventure-library question laboratory, dimensional blocks and curiosity beam, thick outlines, dense readable panels, same mascot once in an eager investigator pose.
+Typography: exact English and concise Japanese Gothic.
+Constraints: no page number, source quotation/example/diagram, source identity, logo, citation, watermark, or unrelated exercise.
+Avoid: emotionless grammar chart, tiny arrows, dark scene.

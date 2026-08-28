@@ -1,0 +1,14 @@
+Use case: scientific-educational; dense 9:16 portrait grammar page. Independently continue up/down semantic extensions from source p.280–281: completion, stopping, value judgment, and energy/state.
+Input references: mascot appearance and PAGE_0001 visual reference.
+Top title: 「upで満ちる、downで止まる」
+Central illustration: leopard explorer as an energy mechanic. An UP tank fills to completion and powers a bright figure; a DOWN switch shuts a machine and lowers a mood gauge. A high/low viewing platform represents respect and contempt without depicting stereotypes.
+Mechanism: 「up＝満杯・完全」「down＝活動停止・分解」「look up to＝高く見る」「look down on＝低く見る」「up＝活発・意識あり」「down＝沈滞」. Show how direction supplies the shared meaning while the verb supplies the action.
+Original examples:
+1. “Fill up the tank before dawn.” / 「満タンにする」
+2. “The old printer broke down again.” / 「機能が完全に止まる」
+3. “I look up to my science teacher.” / 「高く評価し尊敬する」
+4. “The music cheered us up.” / 「気分を活発な方向へ」
+Mini problem: 「ミニ問題：店が完全に閉業した」 “The shop closed (up / down).” 「答え：down」 「活動が止まる方向を示す。」
+Bottom ribbon: 「方向に、人の評価や活動状態が重なる」
+Style: bright adventure-library energy workshop, glossy tanks and switches, blue/yellow/white, limited red stop cue, thick outlines, phone-readable.
+Constraints: no page number, copied source examples/figures/prose/layout, source marks, logo, citation, watermark, answer area, or photorealism. One mascot in mechanic pose.

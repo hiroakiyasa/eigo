@@ -1,0 +1,14 @@
+Use case: scientific-educational
+Asset type: dense illustrated reported-time relationship page, portrait 9:16
+Primary request: Teach how an event earlier than a past report may use past perfect, while ordinary past is possible when chronology is already obvious or the speaker does not need to spotlight the order. Introduce modal backshift at the bottom. Use fresh examples and a clear timeline.
+Input images: PAGE_0001 design reference; mascot_reference exact leopard explorer.
+Canvas: exact 941×1672, portrait 9:16, safe margins, no page number.
+Top Japanese title: 「報告より前なら had＋過去分詞」
+Central illustration: leopard timeline conductor directs two trains: EARLIER EVENT arrives before PAST REPORT; a spotlight decides whether to emphasize the order with past perfect.
+Mechanism diagram: earlier point “event” → later past point “heard/found/said”; emphasized order = had p.p.; obvious order = simple past may remain. Modal preview: will→would, may→might, can→could.
+Original example cards: “I discovered that someone had moved the sign.” / 「発見より前の移動」; “The ranger said the storm had damaged the bridge.” / 「発言より前の被害」; “Mika told me she emailed everyone yesterday.” / 「順序が明白なら過去形でも自然」; “Our teacher explained that the first camera appeared long ago.” / 「歴史的事実は時系列が明白」.
+Mini practice: 「到着した時には出発済み：We learned that the bus (left / had left) before we arrived.」 Answer: “had left”. Reason: 「beforeでも、出発済みを明確に照らすなら過去完了。」
+Bottom takeaway: 「過去完了は“もっと前”をはっきり見せたいときのスポットライト」
+Style: bright blue-gold timeline station, white information cards, red time arrows, mascot once as conductor.
+Constraints: no page number, source wording/figure reuse, source identity, brand, citation, watermark.
+Avoid: claiming past perfect is always mandatory, unclear timeline.

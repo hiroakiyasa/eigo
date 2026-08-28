@@ -1,0 +1,17 @@
+Use case: scientific-educational
+Asset type: dense 9:16 portrait English-grammar page
+Primary request: Independently explain present-tense agreement: be changes among am/are/is, while ordinary verbs usually stay in the base form except third-person singular present. Source pages 60–61 are coverage guidance only; create all-new examples and visuals.
+Input images: mascot appearance reference; PAGE_0001 unified visual reference.
+Canvas: strict 9:16 portrait, rich content, safe margins, no page number.
+Top title (verbatim): 「現在形は、主語を見て変身」
+Central illustration: the leopard explorer in a magical costume-designer pose sends subject tokens through two transformation wardrobes. BE wardrobe outputs “I → am”, “you / we / they → are”, “he / she / it → is”. Ordinary-verb wardrobe outputs base form for most subjects and “-s” for he/she/it.
+Mechanism diagram: 「主語を確認」→「be か一般動詞か」→「形を選ぶ」. Add the badge 「三人称単数＝I・you以外の1人／1つ」.
+Required original examples:
+1. “I am ready for the hike.” / 「I には am」
+2. “The map is inside my bag.” / 「1つのものには is」
+3. “We explore old tunnels.” / 「we なら一般動詞は原形」
+4. “Leo explores old tunnels.” / 「Leo は1人なので -s」
+Mini practice box: 「ミニ問題：正しい形を選ぼう」 “My sister (walk / walks) to the library.” 「答え：walks」 「my sister は I・you以外の1人で、現在の話だから。」
+Bottom takeaway ribbon: 「現在形は、主語と動詞の組み合わせで決まる」
+Style: blue-yellow-white adventure-library dressing room, glossy word tokens, large clear mini-table, thick outlines, limited red highlight on am/are/is and -s.
+Constraints: no page number, source title, copied table/text/example, logo, citation, watermark, blank answer area, tiny illegible text, or photorealism. One mascot in new designer pose.

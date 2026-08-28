@@ -1,0 +1,37 @@
+Create a polished, information-dense educational English grammar infographic in portrait 9:16, matching the supplied cover's vivid blue, gold, white, and red explorer style. Use the exact same leopard explorer mascot rotating a viewpoint compass for people, place, and time, then selecting colorful reporting verbs. No page number, source name, watermark, logo, copied diagram, or copied example.
+
+Top Japanese title: 「人・場所・時を報告者目線へ」
+
+Upper central “viewpoint compass” with three branches.
+
+PEOPLE:
+• Dad said, “I’ll lend you my tent.” → Dad said he would lend me his tent. 「発言者I→Dad/he、聞き手you→me」
+
+PLACE:
+• Mina called from Kyoto and said, “I’m staying here.” → Mina said she was staying there. 「報告地点が違うならhere→there」
+
+TIME:
+• “I’ll leave tomorrow,” Kai said on Monday. → Kai said he would leave the next day. 「報告時点からthe next day」
+
+Add a compact flexible conversion wheel, labeled 「状況が変わる時だけ」:
+now → then
+today → that day
+yesterday → the day before
+tomorrow → the next/following day
+ago → before/earlier
+here → there
+Explain: if the reporter is still in the same place or reporting on the same day, the original word may remain. Meaning first, substitution second.
+
+AGO vs BEFORE timeline:
+• Direct: “The train left ten minutes ago.” 「発言時の今から遡る」
+• Later report: The clerk said the train had left ten minutes earlier. 「過去の発言時点から遡る」
+
+Lower reporting-verb palette:
+promise 「約束」 / advise 「助言」 / warn 「警告」 / complain 「不満」 / admit 「認める」
+Original examples:
+• The ranger warned that the river might rise. 「警告した」
+• Several guests complained that the room was cold. 「不満を述べた」
+
+Mini practice: 「火曜に報告：“I arrived here yesterday,” Mei said on Monday.」 Answer: 「Mei said she had arrived there the day before.」 Reason: 「報告者の場所と時点に合わせhereとyesterdayを組み替える」.
+
+Bottom takeaway ribbon: 「単語を機械交換せず、今いる視点から意味を再配置」. Dense but readable.

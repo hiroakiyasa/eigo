@@ -1,0 +1,18 @@
+Create a polished, information-dense English grammar book page in portrait 9:16, matching the supplied cover's vivid blue, gold, white, and red explorer style. Same leopard mascot at a state-change machine. No page number, source identity, watermark, or logo.
+
+Top Japanese title: 「get＋過去分詞は状態の変化」
+
+Central mechanism: compare BE = state platform, LOOK/SEEM = perceived state, BECOME/GET = movement into a state. Make GET feel sudden, eventful, or affected. Add a second track “object + past participle” meaning the object is in a completed/affected state.
+
+Original examples:
+• Lena looked shocked by the news. 「驚いた状態に見えた」
+• The hikers got soaked in the rain. 「雨でびしょぬれになった」
+• My phone got damaged on the trip. 「出来事として壊れた」
+• I had my bicycle repaired yesterday. 「自転車を修理してもらった」
+• We found the gate locked. 「門＝施錠された状態」
+
+Show formulas: subject + get + past participle; verb + object + past participle with O = affected-state C. Note that stable location normally uses “is located,” not “gets located.”
+
+Mini practice: choose be/get: “During the storm, the window ___ broken.” Answer: got; reason 「予期せぬ変化・出来事を強調」.
+
+Takeaway: 「過去分詞は状態、getはそこへ動く変化」. Dense visual, examples, answer.

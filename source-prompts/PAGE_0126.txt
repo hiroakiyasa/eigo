@@ -1,0 +1,19 @@
+Create a polished information-dense educational page, portrait 9:16, matching the supplied cover's vivid adventure design. Same supplied leopard explorer mascot, arranging calendar cards along a sentence trail. No page number, source name, watermark, or logo.
+
+Top Japanese title: 「長い副詞句と頻度のニュアンス」
+
+Central illustration: a sentence train. Small one-word frequency adverbs board near the engine; longer phrases board naturally at the end or beginning. Teach clearly:
+• I sometimes read on the balcony. 「1語は一般動詞の前」
+• I read on the balcony from time to time. 「長い句は文末が自然」
+• Once in a while, we cook outdoors. 「文頭で場面を示せる」
+• She improved a great deal. 「程度を表す長い句は後ろへ」
+
+Add a frequency ladder with Japanese nuance: often / frequently＝しばしば, sometimes＝ときどき, occasionally＝たまに, hardly ever＝めったに〜ない, never＝決して〜ない. Explicitly mark hardly ever and never as negative in meaning; do not add another not.
+
+Contrast:
+• I hardly ever drink soda. ✓
+• I don't hardly ever drink soda. ✗ in standard English
+
+Mini practice: 「自然な位置は？ We visit that museum (every few months).」 Answer: “We visit that museum every few months.” Reason: 「複数語の頻度表現は文末が自然」.
+
+Takeaway: 「短い副詞は動詞の近く、長い副詞句は文末・文頭へ」. Include central train diagram, ladder, examples, question+answer, crisp legibility.

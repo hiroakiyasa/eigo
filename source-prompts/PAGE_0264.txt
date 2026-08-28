@@ -1,0 +1,22 @@
+Create a polished, dense educational English grammar page in portrait 9:16. Match the supplied cover's blue-gold-white-red explorer aesthetic with dramatic stage lighting, timeline cards, and crisp typography. Use the exact same leopard explorer mascot striking a “NEVER” gong and opening a formal IF-less conditional gate. No page number, source name, watermark, logo, or copied source material.
+
+Top Japanese title: 「否定倒置とifなし条件文」
+
+Upper mechanism: ordinary sentence becomes emphatic in two moves.
+1 move a negative/restrictive phrase to the front
+2 invert auxiliary and subject
+• I had never heard such a clear echo. → Never had I heard such a clear echo! 「Neverを強打し、had Iが呼応」
+• We understood the clue only after sunrise. → Only after sunrise did we understand the clue. 「その時になって初めて」
+• No sooner had the gate opened than the crowd rushed in. 「門が開くとすぐ群衆が入った」
+
+Add a balance-scale illustration: “Never I had...” feels structurally unbalanced; “Never had I...” matches fronted emphasis with inversion. Label the ungrammatical form clearly with a red X.
+
+Lower mechanism: formal conditional inversion. Show IF tile removed while HAD or WERE moves to the gate front.
+• If we had left later, we would have missed the ferry. → Had we left later, we would have missed the ferry. 「もし遅く出ていたら」
+• If I were in charge, I would simplify the plan. → Were I in charge, I would simplify the plan. 「仮に責任者なら」
+• Were it not for this compass, we would be lost. 「このコンパスがなければ」
+Caption: 「Had/Wereの倒置そのものが条件を示すのでifは置かない」. Note: polished, formal, often written style.
+
+Mini practice: 「If she had noticed the sign, ... を倒置」 Answer: 「Had she noticed the sign, ...」 Reason: 「ifを外し、hadを主語sheの前へ出す」.
+
+Bottom takeaway: 「否定は強調の倒置、Had/Wereは条件の倒置」. Dense but orderly and readable.

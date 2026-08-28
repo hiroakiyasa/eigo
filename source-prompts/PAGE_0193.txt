@@ -1,0 +1,19 @@
+Use case: scientific-educational
+Asset type: dense illustrated English preposition book page, portrait 9:16
+Primary request: Independently teach OF as a link that clarifies a vague noun and ON as physical or abstract contact. Cover part-whole, quantity, explanation, quality, complements, and the first core of ON; copy nothing from source pages 398–399.
+Input images: PAGE_0001 approved visual design; mascot_reference exact character appearance.
+Canvas: exact 941×1672, strict portrait 9:16, safe margins, no page number.
+Top Japanese title: 「ofはリンク、onは接触」
+Central illustration: the leopard explorer operates a golden OF linking telescope that connects a vague label to its clarifying source, while one paw places a map onto an ON contact platform.
+Mechanism diagram: OF chain 「ぼんやりしたX — of — Yで明確化」 with four branches 部分⇄全体・分量・内容説明・性質; side note 「形容詞/動詞＋of＝対象を明確化」. ON panel shows contact works above, below, side, ceiling, or abstractly.
+Original example cards:
+1. “We packed a bottle of water.” / 「何の1本かをwaterで明確化」
+2. “Courage is a quality of a good leader.” / 「leaderとのリンクで内容を特定」
+3. “It was thoughtful of you to wait.” / 「thoughtfulなのが誰かをyouで明確化」
+4. “There is a route map on the wall.” / 「壁面に接触している」
+Mini practice: 「a slice ___ bread はof / on？」 Answer: 「of」. Reason: 「分量sliceの中身をbreadで明確にする。」
+Bottom takeaway: 「ofは情報を結び、onは対象にぴたりと触れる」
+Style: glossy blue-gold-white-red adventure archive, dimensional chain links and contact platform, rich diagrams, mascot once as a link engineer.
+Typography: accurate English and readable Japanese Gothic.
+Constraints: no page number, source wording/example/layout, source identity, logo, citation, watermark, or unrelated quiz.
+Avoid: interpreting of only as possession, tiny labels, flat plain chart.

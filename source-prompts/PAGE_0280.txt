@@ -1,0 +1,21 @@
+Create a polished information-dense English grammar book page in portrait 9:16, matching the supplied cover's vivid blue, gold, white, and red style. Same leopard mascot measuring a duration with a FOR ruler and planting a SINCE start flag, then connecting cause to current result. No page number, source name, watermark, or logo.
+
+Top Japanese title: 「for・sinceと『だから今』」
+
+Central split mechanism:
+FOR = length/duration;
+SINCE = starting point;
+RESULT present perfect = past cause whose current consequence matters.
+
+Original examples:
+• I've worked here for six months. 「6か月という長さ」
+• I've worked here since February. 「2月という起点」
+• She has been awake for three hours. 「継続時間」
+• I've lost my key, so I can't get inside. 「過去の紛失→今入れない」
+• The road has frozen, so driving is dangerous now. 「現在の結果」
+
+Show timeline ruler and flag. Contrast “for six months” with incorrect “since six months ago” in the target duration meaning; explain since points forward from a start, ago counts backward from now.
+
+Mini practice: choose for/since: “We have lived here ___ 2022.” Answer: since; reason 「2022は起点」.
+
+Takeaway: 「forは長さ、sinceは始点、完了形は結果を今へつなぐ」.

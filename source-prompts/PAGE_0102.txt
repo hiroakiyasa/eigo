@@ -1,0 +1,19 @@
+Use case: scientific-educational
+Asset type: dense 9:16 portrait comparison page
+Primary request: Independently compare ordinary post-explanation with the it-cleft used to spotlight and correct one element. Source pages 216–217 are coverage only; copy no source wording, sentence, figure, or layout.
+Input images: mascot reference; PAGE_0001 design reference.
+Canvas: strict 9:16 portrait, full-bleed, safe margins, no page number.
+Top title: 「説明は後ろ、強調は前」
+Central illustration: mascot in a spotlight-director pose operates two glowing stage lanes. Lane A starts with vague it and adds explanation behind; Lane B pulls one word block into a bright “It was X” spotlight.
+Mechanism diagram: left 「it → 後ろから中身を説明」; right 「It was X that … → Xを強く訂正・対比」. Show the original sentence rail becoming a spotlighted sentence without copying any source layout.
+Original example cards:
+1. “It’s peaceful here after sunset.” / 「peaceful の場面を後ろに追加」
+2. “It’s surprising that the gate is open.” / 「that節が驚きの内容」
+3. “It was the blue key that opened the chest.” / 「ほかの鍵ではなく青い鍵」
+4. “It was at dawn that we reached the tower.” / 「時刻を対比して強調」
+Mini practice box: 「ミニ確認：It was Mia that called me. 強調は？」 「答え：Mia」 「電話した人をほかの人と対比している。」
+Bottom takeaway: 「普通の説明か、Xを目立たせる反論かを感じよう」
+Style: bright adventure-library theater, blue/yellow/white, red spotlight accent, thick outlines, glossy sentence blocks, dense but readable.
+Typography: exact English and Japanese, no filler.
+Constraints: no page number, source reuse, source identity, logo, citation, watermark, or additional quiz. Mascot once in director pose.
+Avoid: dark theater, giant mascot, tiny cards, copied textbook diagram.

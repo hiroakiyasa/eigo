@@ -1,0 +1,34 @@
+Create a polished, information-rich educational English grammar infographic in portrait 9:16, matching the supplied cover's vivid blue, gold, white, and red explorer-book design. Use the exact same leopard explorer mascot turning commands, prohibitions, encouragement, and advice into object + to-infinitive arrows. No page number, source name, watermark, logo, copied wording, or copied artwork.
+
+Top Japanese title: 「命令の報告は“人＋to”」
+
+Central mechanism: quoted imperative enters a transformation gate.
+COMMAND → reporting verb + person + to + base verb
+NEGATIVE COMMAND → reporting verb + person + not to + base verb
+
+Original examples:
+• “Return before sunset,” Mom said. → Mom told me to return before sunset. 「帰るように言った」
+• “Don’t touch the red switch,” the engineer said. → The engineer warned us not to touch the red switch. 「触らないよう警告」
+• “Keep going—you can do it!” my teammates said. → My teammates encouraged me to keep going. 「続けるよう励ました」
+• “Review these notes tonight,” our tutor said. → Our tutor advised us to review the notes that night. 「復習するよう助言」
+
+Verb-choice compass:
+tell = neutral instruction
+order = strong authority
+ask = request
+warn = danger
+encourage = support
+advise = helpful recommendation
+remind = prevent forgetting
+Caption: 「元の発言の働きを表す動詞を選ぶ」.
+
+Freedom card: indirect reporting is not a word-for-word conversion. The same message may become a noun phrase or -ing form when that is clearer:
+• “Where is Ken?” → She asked about Ken’s whereabouts.
+• “Let’s try once more.” → He suggested trying once more.
+
+Final reporting workflow diagram:
+meaning → reporter viewpoint → reporting verb → grammar pattern → check people/time/place
+
+Mini practice: 「“Please wait outside,” the nurse said to me.」 Answer: 「The nurse asked me to wait outside.」 Reason: 「丁寧な依頼なのでask + 人 + toが自然」.
+
+Bottom takeaway ribbon: 「言葉の形より、発言が相手に何をさせようとしたかを報告する」. Dense but orderly.

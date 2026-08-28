@@ -1,0 +1,18 @@
+Use case: scientific-educational
+Asset type: dense portrait explanation page for an illustrated English grammar book
+Primary request: Introduce adverbs as modifiers of everything except nouns, organize major roles such as time, place, degree, frequency, and speaker attitude, and explain positions through front-limiting versus rear-explaining logic. Source pages 250–251 guide coverage only; create new examples and visuals.
+Input images: mascot appearance reference only; PAGE_0001 style reference only.
+Canvas: strict 9:16 portrait, dense, no page number.
+Top title (verbatim): 「副詞は、文の景色を変える」
+Central illustration: the leopard explorer in a lighting-director pose adjusts five glowing controls over one adventure-library scene: clock, location pin, intensity dial, repeat wheel, and speech-attitude flag.
+Mechanism diagram: five badges “時・場所＝出来事を後ろから説明”, “程度＝修飾語の前で強さを限定”, “頻度＝動詞の周辺”, “態度＝文頭で全体を包む”. Central rule: 「名詞以外に情報を足す」.
+Original example cards:
+1. “We returned yesterday.” / 「時を文末で追加」
+2. “The team waited outside.” / 「場所を文末で追加」
+3. “The clue was extremely small.” / 「smallの程度を前で限定」
+4. “Fortunately, everyone escaped.” / 「文全体への評価」
+Mini practice: 「ミニ問題　自然な位置は？」 choices “We outside waited.” / “We waited outside.”
+Answer: 「答え　We waited outside.」 「場所は出来事の後ろから説明する。」
+Bottom ribbon: 「副詞は“何を・どこから”修飾するかで置き場所が決まる」
+Style: glossy PAGE_0001 adventure-library control room, blue/yellow/white, gold dials and dimensional labels, bold outlines, red only for front/back rule, one mascot.
+Constraints: no copied source wording/examples/figures/layout/order, source identity, citation, logo, ISBN, watermark, page number, or extra prose; no photorealism or unreadable text.

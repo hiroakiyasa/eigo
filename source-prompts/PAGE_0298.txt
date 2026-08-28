@@ -1,0 +1,15 @@
+Use case: scientific-educational
+Asset type: dense illustrated exceptions-to-backshift page, portrait 9:16
+Primary request: Explain when backshift may be intentionally withheld: an enduring fact, a habit still true, or a future event still future at the reporting moment. Contrast past and present forms as differences of viewpoint/current relevance. Also state that unreal/subjunctive forms remain because they are already remote rather than ordinary timeline forms.
+Input images: PAGE_0001 approved design; mascot_reference exact leopard explorer.
+Canvas: exact 941×1672, portrait 9:16, safe margins, no page number.
+Top Japanese title: 「今も本当なら時制を保てる」
+Central illustration: the leopard holds a TIME ANCHOR fixing three glowing facts to NOW while a normal report conveyor pulls other cards into the past.
+Mechanism diagram: default “said → was” = neutral past report; deliberate “said → is” = speaker presents it as true/relevant now. Three anchors: timeless fact, continuing habit, still-future plan. Separate shield: unreal wish/if form does not backshift.
+Original example cards: “Our guide explained that water freezes at 0°C.” / 「今も成り立つ一般事実」; “Emi said her brother works at the library.” / 「今も続くと見ている」; “Noah wrote that he will arrive on Monday.” / 「発言時点で月曜がまだ未来」; “She wished she had more courage.” / 「仮定法はそのまま」.
+Nuance contrast: “The coach said he was unhappy.” = past report only; “The coach said he is unhappy.” = 「今も不満だと前面に出す」.
+Mini practice: 「今も地球の事実：The teacher said Earth (moves / moved) around the Sun.」 Answer: “moves” is natural when emphasizing current truth; “moved” is also grammatical as neutral backshift. Reason: 「現在形は“今も真実”を意識的に示す。」
+Bottom takeaway: 「一致を保つのが基本。現在とのつながりを強調するときだけ据え置く」
+Style: blue-gold time-anchor observatory, red contrast arrows, thick outlines, one mascot securing anchors.
+Constraints: no page number, copied source material, source identity, logo, citation, watermark.
+Avoid: saying only one tense is universally correct, tiny nuance panel.

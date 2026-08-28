@@ -1,0 +1,31 @@
+Create a polished, content-rich educational English grammar page in portrait 9:16. Match the supplied cover's consistent blue-gold-white-red explorer-book aesthetic. Use the exact same leopard explorer mascot operating a “reporting studio,” first displaying exact speech in quotation marks and then rebuilding it from a new viewpoint. No page number, source name, watermark, logo, copied art, or copied source sentence.
+
+Top Japanese title: 「間接話法は視点から再構成」
+
+Central split screen:
+DIRECT SPEECH = preserve the speaker’s exact words inside quotation marks.
+• Aya said, “I will call you tonight.” 「Ayaの言葉をそのまま引用」
+INDIRECT SPEECH = reporter reconstructs content from the current viewpoint.
+• Aya said that she would call me that night. 「報告者の立場で組み直す」
+
+Show a transformation machine with four checks:
+1 who is reporting?
+2 who do pronouns point to?
+3 when is the report made?
+4 is the exact wording important?
+
+Direct quotation mechanics card:
+• “The stars are beautiful,” Ren whispered.
+• “Let’s rest here,” said Mina. Explain that report-clause placement can vary in literary narration; avoid inverting a pronoun subject into unnatural “said she” in ordinary prose.
+
+Indirect reconstruction card: content does not need to preserve every original word. The reporter may choose a verb that captures the action:
+• “I made the mistake,” Ken said. → Ken admitted that he had made the mistake. 「saidをadmittedへ意味に合わせる」
+
+Tense viewpoint arrow:
+Original: “I will finish soon.”
+Past report: Leo said he would finish soon.
+Label: 「主節が過去なら、内容も過去の視点へ一段ずらすのが基本」. Note that real-world context can override mechanical shifting when a fact remains currently true.
+
+Mini practice: 「間接話法へ：“I can help you,” Sara said to me.」 Answer: 「Sara told me that she could help me.」 Reason: 「I→she、you→me、can→couldへ報告者の視点で再構成」.
+
+Bottom takeaway: 「引用は保存、間接話法は意味を保って視点を作り直す」. Dense, visual, accurate.

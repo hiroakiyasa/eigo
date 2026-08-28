@@ -1,0 +1,22 @@
+Create a polished, content-rich educational English grammar page in portrait 9:16. Match the supplied cover's consistent blue-gold-white-red explorer-book aesthetic, with glossy compass icons, white learning cards, and crisp typography. Use the exact same leopard explorer mascot aiming a golden “to” arrow at an action portal, then placing the whole phrase into subject and object slots. No page number, source name, watermark, logo, copied art, or copied example.
+
+Top Japanese title: 「to不定詞は行為を指し示す」
+
+Central visual formula: TO → base verb, with a bright pointing arrow. Label: 「to + 動詞原形＝行為をひとかたまりで指す」. Show four destinations around it: 主語 / 目的語 / 後ろから説明 / itを補う, as a chapter map.
+
+Main focus: noun positions. Show a sentence-building machine where an entire to-infinitive phrase fits into a noun slot.
+Subject examples:
+• To learn a new skill takes patience. 「新しい技能を学ぶことは忍耐が要る」
+• To leave food here is forbidden. 「ここに食べ物を置くことは禁止」
+
+Add a vivid comparison “TO vs -ING as subject” using two lenses:
+TO lens = 「行為の種類を一般論・規則として指す」
+-ING lens = 「実際の場面を生き生き思い浮かべる」
+• To cycle without lights is dangerous. 「一般的な注意・規則」
+• Cycling home in the rain was exhausting. 「実際の体験が目に浮かぶ」
+
+Add a note card: 「文頭の長いto不定詞は目立つ。宣言・原則の響きが出やすい」 with a spotlight on the subject phrase.
+
+Mini practice: 「校内ルールとして自然なのは？ A To run in the hallway is prohibited. / B Running in the hallway yesterday was prohibited.」 Answer: 「A」. Reason: 「特定の昨日の場面ではなく、行為一般を規則として指す」.
+
+Bottom takeaway: 「toの矢印は“これから指す行為・行為一般”を一つの名詞にする」. Dense, clear, and visually intuitive.

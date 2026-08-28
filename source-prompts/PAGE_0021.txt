@@ -1,0 +1,17 @@
+Use case: scientific-educational
+Asset type: dense 9:16 portrait illustrated English-grammar page
+Primary request: Independently teach that an English subject can be a noun phrase, an -ing phrase, a to-infinitive phrase, or a clause. Source pages 54–55 are topic coverage only. Never copy their wording, examples, figures, metaphors, sequence, or layout.
+Input images: mascot_reference.png is appearance reference only; PAGE_0001.png is visual-system reference only. Preserve the cute leopard explorer identity and the glossy blue-yellow-white adventure-library world while creating a new original scene.
+Canvas: strict 9:16 portrait, one finished full-bleed educational page, high information density, safe margins, no page number.
+Top title (verbatim): 「主語は、どんな形でもなれる」
+Central illustration: the leopard explorer in a cheerful gatekeeper pose welcomes four differently shaped glowing “subject cargo” pieces through one blue SUBJECT arch. Use original icons: object box, reading scroll, destination arrow, tiny sentence carriage.
+Mechanism diagram: 「話の中心にしたいもの」→「主語の位置」→「ひとまとまりの名詞として働く」. Add compact labels 「名詞句」「-ingのまとまり」「to + 動詞」「主語＋動詞を含む節」 and one note 「節＝主語と動詞をもつ小さな文／句＝語のまとまり」.
+Required original example cards, render exactly once:
+1. “A warm blanket feels comforting.” / 「物のまとまりが主語」
+2. “Reading before bed helps me relax.” / 「行動を“こと”として主語に」
+3. “To travel alone takes courage.” / 「これからする行動を主語に」
+4. “Whether the train will arrive is uncertain.” / 「YesかNoかを含む小さな文が主語」
+Mini practice box, render exactly: 「ミニ問題：主語のまとまりはどこ？」 “The smell of fresh bread filled the hall.” 「答え：The smell of fresh bread」 「最初の動詞 filled より前が主語のまとまり。」
+Bottom takeaway ribbon: 「長くても、文の出発点に置けば主語になる」
+Style: cover-quality original educational illustration, bright glass-roof adventure library, glossy dimensional grammar blocks, thick crisp outlines, blue/yellow/white with red only for key arrows; dense but orderly and phone-readable.
+Constraints: render only specified learning text; no page number, source identity, logo, citation, watermark, copied example, copied diagram, copied layout, answer-writing space, or photorealism. Mascot appears once in a new pose.

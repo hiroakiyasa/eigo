@@ -1,0 +1,19 @@
+Use case: scientific-educational
+Asset type: dense 9:16 portrait advanced-comparison explanation page
+Primary request: Independently teach four meaning patterns: comparative + any other for practical superlative, more A than B for choosing the better description, no more A than B for emphatic denial, and less for lower degree. Source pages 308–309 are coverage only; copy no wording, examples, branded objects, diagrams, or layout.
+Input images: mascot reference; PAGE_0001 design reference.
+Canvas: strict 9:16 portrait, no page number, safe margins.
+Top title: 「比較で“一番”や言い換え」
+Central illustration: mascot in a four-lens comparison analyst pose examines a champion podium, two description labels, an impossible comparison, and a lower degree gauge.
+Mechanism diagram: 「than any other＝ほか全部より」 「more A than B＝BよりAが的確」 「no more A than B＝Bと同様Aではない」 「less A than B＝Aの程度が低い」.
+Original example cards:
+1. “Mia runs faster than any other scout.” / 「ほか全員より速い＝実質一番」
+2. “The task was more tiring than difficult.” / 「難しいより、疲れるが的確」
+3. “That toy is no more a compass than this spoon is.” / 「スプーン同様、コンパスではない」
+4. “This route is less dangerous than the cliff path.” / 「dangerousの程度が低い」
+Mini practice box: 「ミニ確認：なぜany other scout？」 「答え：Mia自身を除くため」 「any scoutでは比較する本人まで含んでしまう。」
+Bottom takeaway: 「比べる対象は、人だけでなく表現や可能性にも広がる」
+Style: glossy blue-gold-white-red adventure analysis room, dimensional lenses and gauges, thick outlines, dense four-pattern layout.
+Typography: accurate English and concise Japanese.
+Constraints: no page number, source reuse, trademarked examples, source identity, logo, citation, watermark, or extra exercise. Mascot once in analyst pose.
+Avoid: harsh insulting imagery, tiny advanced labels, dark scene.

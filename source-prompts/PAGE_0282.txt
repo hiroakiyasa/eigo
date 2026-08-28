@@ -1,0 +1,10 @@
+Use case: scientific-educational; dense 9:16 portrait grammar page. Teach past simple versus present perfect focus, incompatible finished-time markers, and introduce past perfect from p.576–577 coverage.
+Input references: PAGE_0001 design and mascot identity.
+Top title: 「どの時点にカメラを置く？」
+Central illustration: mascot as a time-camera operator switches among PAST snapshot, NOW-linked present perfect, and a PAST REFERENCE platform with a backward arrow for past perfect. Red warning signs mark yesterday, last year, at 8:00 next to present perfect.
+Mechanism: 「過去形＝終わった過去を眺める」「現在完了＝今を見ながら過去を引き寄せる」「明確な終了時刻とは過去形」「過去完了 had done＝過去の基準時までに」.
+Original examples: “I visited Sapporo last winter.” / 「昨冬という過去の出来事」; “I've visited Sapporo three times.” / 「今までの経験」; “What time did you arrive?” / 「発生時刻を尋ねる」; “By the time we arrived, the lights had gone out.” / 「到着より前に消灯」.
+Mini problem: 「ミニ問題：last nightがある」 “I (saw / have seen) that comet last night.” Answer 「saw」. Reason 「last nightが終わった過去へ焦点を固定する。」
+Bottom ribbon: 「形を選ぶ前に、意識の現在地を決める」
+Style: bright adventure-library camera control room, blue/gold/white/red time markers, thick outlines, dense clear panels.
+Constraints: 9:16; no page number, copied prose/examples/figures/layout, source identity, logo, citation, watermark, empty answer area, or photorealism. Exactly one mascot camera operator.

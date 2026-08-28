@@ -1,0 +1,17 @@
+Use case: scientific-educational
+Asset type: dense 9:16 portrait English-grammar page
+Primary request: Independently teach key -ing spelling changes, the two central messages of the past participle (completion connection and passive result), and the value of learning basic verbs through a core image rather than a single translation. Source pages 66–67 are topic coverage only; do not reproduce their table, examples, metaphors, wording, or layout.
+Input images: mascot appearance reference and PAGE_0001 design reference.
+Canvas: strict 9:16 portrait, high information density with three clear zones, no page number.
+Top title (verbatim): 「変化形は、役目を変える」
+Central illustration: the leopard explorer in an alchemist pose places a glowing base-verb crystal into a three-way grammar prism: “-ing”, “past participle”, and “core image”. Use the verb “write” only as an original demonstration.
+Mechanism diagram: zone A 「-ing：ふつう+ing／語尾eを取る／短母音+子音は重ねる／ie→ying」 with examples “read→reading / make→making / swim→swimming / tie→tying”. Zone B 「過去分詞：haveと組んで今へ／beと組んで“される”」. Zone C 「基本動詞：日本語1語でなく、核イメージから広げる」 and a small arrow for go: 「今いる所から離れて進む」.
+Required original sentence cards:
+1. “The child is writing a secret note.” / 「write → writing：eを取る」
+2. “I have written three notes today.” / 「完了したことが今につながる」
+3. “The note was written in green ink.” / 「書かれた、という受け身」
+4. “The fog went away before noon.” / 「go の“離れて進む”が消える意味へ広がる」
+Mini practice box: 「ミニ問題：-ing形にしよう」 “make → ?” 「答え：making」 「語尾の e を取って -ing。」
+Bottom takeaway ribbon: 「訳を丸暗記せず、形と核イメージを結ぼう」
+Style: cover-quality adventure-library grammar laboratory, glossy prism and word crystals, blue/yellow/white, red only for changed letters, thick outlines, all text readable.
+Constraints: no page number, copied chart/example/illustration/prose, source identity, logo, citation, watermark, blank answer space, or photorealism. One mascot in a new alchemist pose.

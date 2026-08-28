@@ -1,0 +1,19 @@
+Use case: scientific-educational
+Asset type: dense illustrated English time-and-space preposition page, portrait 9:16
+Primary request: Independently organize AT/ON/IN for time, useful ON expressions, and introduce OVER as an arc above or across. Use source pages 402–403 only for topic coverage; copy no wording, examples, or diagrams.
+Input images: PAGE_0001 approved blue-gold design; mascot_reference exact leopard explorer.
+Canvas: exact 941×1672, strict 9:16, safe margins, no page number.
+Top Japanese title: 「時の点・日・幅とover」
+Central illustration: the mascot is a time navigator pointing to three clock-calendar tunnels—AT point, ON day tile, IN time container—while an OVER rainbow arc crosses above them.
+Mechanism diagram: 「AT＝点」 「ON＝日・指定時刻に接触」 「IN＝幅のある期間」; small contrast 「on time＝時刻ぴったり」 「in time＝期限内」 「at times＝時折」. OVER branch: 上方・基準超え・乗り越え・覆う・回転.
+Original example cards:
+1. “The gate opens at noon.” / 「正午を時点として見る」
+2. “We leave on Friday morning.” / 「Fridayで日が特定される」
+3. “I usually read in the evening.” / 「夕方という時間幅の中」
+4. “An eagle flew over the valley.” / 「谷の上を円弧で越える」
+Mini practice: 「The festival begins ___ July.」 Answer: 「in」. Reason: 「7月は幅をもつ期間だから。」
+Bottom takeaway: 「時は点・日・幅で選び、overは上を弧で越える」
+Style: glossy adventure-library clock observatory, blue-gold-white-red, large clear calendar geometry and luminous arc, thick outlines, mascot once as a time navigator.
+Typography: accurate English and compact readable Japanese.
+Constraints: no page number, source wording/example/diagram, source identity, logo, citation, watermark, or additional problem.
+Avoid: calendar clutter, tiny time labels, dark night scene.

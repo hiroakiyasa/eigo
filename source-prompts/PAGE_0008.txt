@@ -1,0 +1,27 @@
+Use case: scientific-educational. Create a rich portrait 9:16 page matching PAGE_0001. Bright adventure-library map room; same leopard cartographer extends a glowing sentence route. Entirely original content and composition. No page number, source identity, logo or watermark.
+
+Top title: 「後ろへ、情報を足していく」
+
+Start with core sentence: “We found a cabin.” 「私たちは小屋を見つけた」. Extend it with three cars:
+“near the river” 「どこ？」
+“before sunset” 「いつ？」
+“with a blue roof” 「どんな小屋？」
+Final: “We found a cabin near the river before sunset, with a blue roof.”
+
+Required table:
+「後ろの情報｜答える質問｜説明する相手」
+「near the river｜どこで？｜found」
+「before sunset｜いつ？｜文全体」
+「with a blue roof｜どんなcabin？｜cabin」
+
+Add two original build-up examples:
+“Leo waited.” → “Leo waited at the gate for ten minutes.”
+“I met a guide.” → “I met a guide from Canada.”
+
+Explanation note: 「後ろに置けばよいのではなく、どの語・出来事を説明するかを矢印で確かめる。」
+Mini check: In “The dog under the table is sleeping,” what does under the table explain? Answer: dog. Reason: 「名詞dogの直後から説明する。」
+Bottom ribbon: 「骨組みを言ってから、場所・時・特徴を足す」
+
+Dense route visual, table, examples and answer; accurate readable typography.
+
+後半ページ同等の高密度基準：中央イラスト＋仕組み図＋説明文＋独自英文4〜6本＋簡潔な和訳/解説＋ミニ問題・答え・一行理由、ページの85〜90%を学習内容で満たす、文字は読める大きさ

@@ -1,0 +1,14 @@
+Use case: scientific-educational; dense 9:16 portrait grammar page. Source p.156–157 is conceptual coverage only; create a fully original lesson.
+Input references: mascot appearance reference and PAGE_0001 design reference.
+Top title: 「集団は、ひとつ？メンバー？」
+Central illustration: leopard explorer as a camera operator switches between a wide lens showing one glowing orchestra circle and a zoom lens showing many individual musicians. A grammar meter changes singular ↔ plural according to viewpoint.
+Mechanism: 「集団を1単位で見る → 単数動詞」「中の人々を見る → 複数動詞（特に英式英語）」「米式英語は集団名詞を単数にする傾向」. Add two special badges: 「police＝常に複数扱い」「1人なら a police officer」 and 「staff＝職員全体／1人なら a staff member」.
+Original examples:
+1. “The orchestra is famous.” / 「楽団を1組として見る」
+2. “The orchestra are tuning their instruments.” / 「各メンバーを見る英式表現」
+3. “The police are checking the bridge.” / 「police は複数動詞」
+4. “Our staff is small but efficient.” / 「職員組織を1単位として見る」
+Mini practice: 「ミニ問題：正しいのは？」 “The police (is / are) nearby.” 「答え：are」 「police は警察官たちの集団を表す。」
+Bottom ribbon: 「形だけでなく、話し手の見方が一致を決める」
+Style: glossy adventure-library film studio, blue/yellow/white, thick outlines, clear lens diagram, limited red emphasis, exact readable text.
+Constraints: no page number, source marks, copied examples/figure/prose/layout, logo, citation, watermark, blank response area, stereotype imagery, or photorealism. One mascot in camera pose.

@@ -1,0 +1,19 @@
+Create a polished, information-dense English grammar book page in portrait 9:16, matching the supplied cover's vivid explorer aesthetic. Same leopard mascot operating a word-order switchboard and an exclamation spotlight. No page number, source identity, watermark, or logo.
+
+Top Japanese title: 「疑問文は助動詞を前へ」
+
+Central word-order mechanism: statement → move auxiliary/be before subject; if none exists, insert do/does/did and return the main verb to base form. Show that word-order disruption signals the speaker's desire to know.
+
+Original transformations:
+• The explorers have returned. → Have the explorers returned?
+• Emi likes the plan. → Does Emi like the plan?
+• You found the cave. → Did you find the cave?
+• The gate was open. → Was the gate open?
+
+Second mini-panel: exclamation brings the focus forward without question inversion:
+• What an amazing map you drew! 「なんてすごい地図」
+• How quickly the weather changed! 「なんて急に変わった」
+
+Mini practice: make a question from “Mina completed the survey.” Answer: “Did Mina complete the survey?” Reason: 「過去はdidが担い、completeは原形」.
+
+Takeaway: 「尋ねるとき、助動詞が主語を飛び越える」. Switchboard diagram, four examples, question+answer.

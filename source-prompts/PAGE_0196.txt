@@ -1,0 +1,19 @@
+Use case: scientific-educational
+Asset type: dense illustrated English preposition book page, portrait 9:16
+Primary request: Independently teach OVER phrase extensions and TO as a pointer to a destination or target. Reconstruct pages 404–405 without copying source language, examples, figures, or arrangement.
+Input images: PAGE_0001 design reference; mascot_reference exact leopard explorer.
+Canvas: exact 941×1672 portrait, strict 9:16, full bleed, safe margins, no page number.
+Top Japanese title: 「overで越え、toで到達」
+Central illustration: the mascot swings over a golden arc, lands at a bright TO target, and uses a pointer to show destination, attachment, rhythm, comparison, and emotional endpoint.
+Mechanism diagram: OVER arc branches to 終了・ざっと見る・引き継ぐ・もう一度/よく考える; TO arrow 「行為 → 到達点」 branches to 場所・接続・対象・比較・感情/程度.
+Original example cards:
+1. “The briefing is over.” / 「出来事を越えて終了」
+2. “Let’s go over the route once more.” / 「もう一周して確認する」
+3. “Attach the tag to your backpack.” / 「tagの到達先を指す」
+4. “I prefer tea to soda.” / 「比較の相手をtoで示す」
+Mini practice: 「Listen ___ the guide.」 Answer: 「to」. Reason: 「耳を向ける到達対象がthe guideだから。」
+Bottom takeaway: 「overは弧を越え、toは到達点をまっすぐ指す」
+Style: vivid glossy adventure target hall, blue-gold-white-red, dynamic arc and arrow, dimensional educational cards, mascot once in a swinging pointer pose.
+Typography: exact English and bold Japanese Gothic.
+Constraints: no page number, source copy, trademark, source identity, logo, citation, watermark, or unrelated quiz.
+Avoid: confusing to-infinitive lesson, tiny phrase inventory, dark background.

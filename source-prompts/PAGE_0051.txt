@@ -1,0 +1,19 @@
+Use case: scientific-educational
+Asset type: dense 9:16 portrait vocabulary-concept page
+Primary request: Independently teach the direction and motion cores of go, come, run, and bring. Source pages 114–115 are coverage only; do not reuse wording, examples, images, explanation order, or layout.
+Input images: Image 1 mascot appearance reference; Image 2 PAGE_0001 approved design reference. Preserve mascot identity and the glossy blue-yellow-white adventure-library world.
+Canvas: strict 9:16 portrait, full-bleed, rich but scan-friendly, safe margins, no page number.
+Top title (verbatim): 「動きの向きを見よう」
+Central illustration: leopard explorer in a compass-guide pose at a glowing library junction. A gold “注目点” beacon is the center; one arrow approaches it, one leaves it, one races along a track, one carries an object toward it.
+Mechanism diagram: 「注目点へ＝come」 「注目点から離れる＝go」 「流れ続ける＝run」 「物をこちらへ運ぶ＝bring」. Use four distinct arrow icons around one center.
+Original example cards, exact text:
+1. “I’m coming to the entrance now.” / 「待つ相手の場所へ近づく」
+2. “Leo went to the observatory.” / 「注目点から離れて進む」
+3. “A narrow path runs beside the river.” / 「線のように続いている」
+4. “Mia brought us a warm blanket.” / 「物がこちら側へやってくる」
+Mini practice box: 「ミニ確認：『今そっちへ行くよ』は go / come？」 「答え：come」 「相手のいる注目点へ近づくから。」
+Bottom takeaway: 「日本語訳より、“どちら向きか”で選ぼう」
+Style: original cover-quality educational adventure illustration, glossy dimensional verb arrows, bright glass library, thick crisp outlines, blue/yellow/white with limited red accents; central scene + diagram + four compact cards + practice.
+Typography: accurate English, bold readable Japanese Gothic, only specified text.
+Constraints: no source expression/layout reuse, source identity, logo, ISBN, citation, watermark, page number, or additional quiz. Mascot appears once in the specified pose.
+Avoid: giant mascot hiding content, tiny text, sparse poster, random labels, dark scene, photorealism.

@@ -1,0 +1,17 @@
+Use case: scientific-educational
+Asset type: dense 9:16 portrait English-grammar page
+Primary request: Independently explain regular and irregular past forms, then introduce -ing as a vivid moving form that can join a verb phrase, describe a noun, or act as a noun-like chunk. Source pages 64–65 are coverage only; make new wording, word choices, examples, diagrams, and layout.
+Input images: mascot appearance reference; PAGE_0001 visual reference.
+Canvas: strict 9:16 portrait, dense and carefully sectioned, no page number.
+Top title (verbatim): 「過去の足あと、動く -ing」
+Central illustration: the leopard explorer in a footprint-tracker pose follows two past trails—regular golden “-ed” footprints and irregular shape-changing footprints—toward a vivid spinning “-ing” motion portal.
+Mechanism diagram: left panel 「規則変化：+ed / eなら+d / 子音字+yなら-ied / 短母音+子音なら重ねて-ed」 plus 「不規則変化：形そのものが変わる」. Right panel 「-ing＝動きの途中を生き生き見せる」 branching to 「進行」「名詞を説明」「行動を“こと”に」.
+Required original examples:
+1. “We planned a picnic yesterday.” / 「plan → planned：nを重ねる」
+2. “She bought a blue umbrella.” / 「buy → bought：不規則変化」
+3. “A fox was running across the field.” / 「進行中の動き」
+4. “Collecting shells calms me.” / 「行動のまとまりが主語」
+Mini practice box: 「ミニ問題：過去形にしよう」 “stop → ?” 「答え：stopped」 「短い母音＋子音で終わるので p を重ねて -ed。」
+Bottom takeaway ribbon: 「形の変化には、時や役目のメッセージがある」
+Style: vivid blue-yellow-white adventure-library tracking room, dimensional footprints and motion portal, crisp outlines, small red accents, clear two-panel hierarchy.
+Constraints: no page number, source identity, copied word lists/table/example/figure/layout, logo, citation, watermark, blank answer area, random filler, or photorealism. One mascot in tracker pose.

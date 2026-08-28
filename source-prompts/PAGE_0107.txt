@@ -1,0 +1,19 @@
+Use case: scientific-educational
+Asset type: dense 9:16 portrait proper-name map page
+Primary request: Independently teach common patterns that favor the in names: A of B structures, prominent institutions, and large natural or grouped geographic features. Explain the sense of one recognized entity without copying source lists or names. Source pages 226–227 are coverage only.
+Input images: mascot reference; PAGE_0001 design reference.
+Canvas: strict 9:16 portrait, no page number, full-bleed, safe margins.
+Top title: 「theは、ひとまとまりを照らす」
+Central illustration: mascot in a lighthouse-keeper pose shines a golden THE beam across three miniature library-map zones: an of-name building, a famous institution, and a vast natural feature.
+Mechanism diagram: three branches: 「A of B＝関係から1つに」 「著名な施設＝共有された1つ」 「大きな地形・まとまり＝全体を指す」.
+Original fictional example cards:
+1. “We visited the Museum of Maps.” / 「A of B の名称」
+2. “The Grand Explorer Hotel faces the square.” / 「著名施設を1つに特定」
+3. “They sailed across the Azure Ocean.” / 「広い自然地形」
+4. “Snow covered the Dawn Mountains.” / 「複数の山を1つの山脈としてまとめる」
+Mini practice box: 「ミニ確認：___ Library of Stars は？」 「答え：the Library of Stars」 「A of B 全体を1つの名称として示す。」
+Bottom takeaway: 「形・共有知識・まとまりがtheを呼ぶ」
+Style: cover-quality blue-yellow-white adventure library map, glossy lighthouse beam, dimensional landscape icons, thick outlines, dense readable cards.
+Typography: accurate English, bold Japanese Gothic.
+Constraints: fictional names only, no page number, source lists/examples/layout, source identity, logo, citation, watermark, or additional exercise. Mascot once in keeper pose.
+Avoid: real landmark copying, tiny geography labels, dark night scene.

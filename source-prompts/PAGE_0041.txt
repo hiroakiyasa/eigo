@@ -1,0 +1,10 @@
+Use case: scientific-educational. Asset: dense 9:16 portrait grammar page.
+Topic source: p.94–95, concepts only. Create all-new wording, examples, problem, illustration, and layout.
+Top title: 「4つの『させる』は力が違う」
+Scene: adventure-library control room. Leopard explorer operates four distinct levers: MAKE pushes by force, HAVE calmly assigns a routine, LET opens a permission gate, GET guides someone toward action.
+Mechanism labels: 「make 強く押す」 「have 当然の流れとして任せる」 「let 許して通す」 「get 説得して向かわせる」
+Original examples: 「The coach made us run again.」強制; 「I'll have Kai check the list.」手配; 「Mia let Leo use her pen.」許可; 「We got Dad to drive us.」説得。
+Mini check: 「『弟を説得して片づけてもらった』に合うのは？」 choices make / have / let / get. Answer: 「get — 説得して行動へ向かわせるから」.
+Takeaway: 「日本語訳ではなく、働きかけ方を選ぶ」
+Style: PAGE_0001 blue-yellow-white adventure library, glossy blocks, bold outlined mascot in new lever-pulling pose. Large Japanese Gothic and accurate English. No page number, source identity, copied expression, logo, or watermark.
+

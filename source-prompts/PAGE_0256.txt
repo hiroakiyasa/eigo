@@ -1,0 +1,19 @@
+Use case: scientific-educational
+Asset type: dense illustrated English conversation-to-wh page, portrait 9:16
+Primary request: Independently teach responsive echo questions that keep conversation moving, then introduce WH questions as tools for requesting a specific missing type of information. Rebuild pages 524–525 without copying source language, examples, table, or figures.
+Input images: PAGE_0001 approved design; mascot_reference exact leopard explorer.
+Canvas: exact 941×1672, strict portrait 9:16, full bleed, safe margins, no page number.
+Top Japanese title: 「へえ？からwhの質問へ」
+Central illustration: the mascot catches a speaker’s message with a small echo mirror, returns “Do you?” or “Are they?”, then opens a WH tool chest labeled PERSON, THING, PLACE, TIME, REASON, METHOD, CHOICE, OWNER.
+Mechanism diagram: echo response uses the same auxiliary with pronoun and question order; negative statement receives matching negative auxiliary. WH toolkit: who＝人, what＝物/内容, where＝場所, when＝時, why＝理由, how＝方法/程度, which＝選択, whose＝所有.
+Original example cards:
+1. “I collect old maps.” — “Do you?” / 「同じdoで軽く受ける」
+2. “They aren’t coming.” — “Aren’t they?” / 「否定発言をそのまま受ける」
+3. “Where is the archive?” / 「場所の情報を求める」
+4. “Why did the alarm ring?” / 「理由を求める」
+Mini practice: 「“彼女は疲れている”へのあいづち疑問」 Answer: “Is she?” Reason: 「be動詞isと代名詞sheで発言を軽く受ける。」
+Bottom takeaway: 「相手の発言を受け、whで欲しい情報の種類を指定する」
+Style: glossy adventure communication archive, blue-gold-white-red, echo mirror and WH tool chest, thick outlines, dense clear cards, mascot once in an attentive listener pose.
+Typography: accurate English and readable Japanese.
+Constraints: no page number, source quote/table/layout, source identity, logo, citation, watermark, or unrelated quiz.
+Avoid: silent conversational partner, tiny WH labels, dark room.

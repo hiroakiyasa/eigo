@@ -1,0 +1,14 @@
+Use case: scientific-educational; dense 9:16 portrait synthesis page. Independently distinguish context-specific “the” from shared-type-image “the”, then explain that “the + adjective” can denote a recognized group of people and takes a plural verb. Source p.172–173 is coverage only; copy nothing expressive or visual.
+Input references: mascot appearance reference and PAGE_0001 visual reference.
+Top title: 「the の正体は、文脈で見抜く」
+Central illustration: leopard explorer as a context detective holds two lenses. One lens finds a concrete bicycle introduced in a story; the other reveals a shared social-system image. A third panel gathers a respectful group silhouette under “the + adjective”.
+Mechanism: route A 「前に登場・その場にある → 特定のthe」; route B 「文化や生活で共通の型が浮かぶ → 共有イメージのthe」; route C 「the + 形容詞 → その特徴で知られる人々 → 複数動詞」. Add caution 「どの形容詞でも作れるわけではない」「国民や集団をひとくくりに評価しない」.
+Original examples:
+1. “A bicycle hit the fence. The bicycle lost a wheel.” / 「物語に出た同じ自転車」
+2. “Life changed after the internet.” / 「社会で共有する仕組み」
+3. “The injured need clean water.” / 「負傷した人々、複数扱い」
+4. “The elderly are welcome here.” / 「高齢の人々を表す定着表現」
+Mini practice: 「ミニ問題：needs / need？」 “The injured (needs / need) help.” 「答え：need」 「the + 形容詞で人々を表すので複数。」
+Bottom ribbon: 「the の意味は、名詞だけでなく場面全体から読む」
+Style: polished adventure-library detective board, blue/yellow/white, dual lenses and respectful silhouettes, red only for agreement cues, thick outlines, dense hierarchy.
+Constraints: no page number, stereotype caricature, copied source examples/figures/prose/layout, source identity, logo, citation, watermark, answer-writing space, or photorealism. One mascot in a new context-detective pose.

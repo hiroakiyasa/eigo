@@ -1,0 +1,25 @@
+Use case: scientific-educational. Create a dense portrait 9:16 comparison page matching PAGE_0001. Same leopard explorer using a filter lens and an explanation spotlight in one coherent adventure-library scene. Entirely original. No page number, source identity, logo or watermark.
+
+Top title: 「前はしぼる　後ろは説明」
+
+Central robot demonstration:
+• “a tiny robot” 「前のtinyが、どのrobotかをしぼる」
+• “The robot is tiny.” 「後ろのtinyが、robotの状態を説明」
+
+Required comparison table:
+「置き場所｜役目｜頭の中の質問｜例」
+「名詞の前｜種類を限定｜どの名詞？｜a noisy room」
+「be動詞の後｜主語を説明｜主語はどんな？｜The room is noisy.」
+「名詞の後｜詳しく追加｜どんな名詞？｜the room near the stairs」
+
+Add paired original examples:
+“a sleepy child” / “The child looks sleepy.”
+“a useful map” / “The map is useful.”
+
+Mechanism note: 「前は名札、後ろはコメント。形が同じでも役目が違う。」
+Mini check: In “The flowers are beautiful,” beautiful narrows or explains? Answer: explains. Reason: 「be動詞の後ろでflowersの状態を述べる。」
+Bottom ribbon: 「置き場所を見ると、情報の仕事がわかる」
+
+Fill about 80% with useful visual content. Table large and legible; no sparse poster feel.
+
+後半ページ同等の高密度基準：中央イラスト＋仕組み図＋説明文＋独自英文4〜6本＋簡潔な和訳/解説＋ミニ問題・答え・一行理由、ページの85〜90%を学習内容で満たす、文字は読める大きさ

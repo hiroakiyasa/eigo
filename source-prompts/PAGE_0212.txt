@@ -1,0 +1,17 @@
+Create a polished information-dense English grammar page, portrait 9:16, in the supplied cover's blue-and-gold adventure style. Same leopard mascot using an X-ray scope to find a hidden gap deep inside nested sentence boxes. No page number, source name, watermark, or logo.
+
+Top Japanese title: 「文の奥の空所を探す」
+
+Teach that the noun explained by a relative clause may correspond to a gap deep inside an embedded clause. Central transparent nested-box diagram: head noun → says/thinks/expects → inner clause → glowing blank. Trace each sentence's grammatical path rather than matching only nearby words.
+
+Original examples:
+• This is the book that Mia says changed her life. 「book = changedの主語」
+• The map Leo thought he had lost was under the desk. 「map = lostの目的語」
+• The guide I wanted you to meet arrives today. 「guide = meetの目的語」
+• The machine we expected them to repair still makes noise. 「machine = repairの目的語」
+
+Show gap formulas: “___ changed her life”; “he had lost ___”; “you to meet ___”; “them to repair ___”. Use matching colors between noun and gap.
+
+Mini practice: in “the song that I think she wrote”, where is the gap? Answer: after “wrote”; reason 「songがwroteの目的語」.
+
+Takeaway: 「入れ子をほどき、名詞が戻る空席を見つける」. Rich X-ray visual, four sentence strips, problem+answer.

@@ -1,0 +1,15 @@
+Use case: scientific-educational
+Asset type: dense illustrated mixed and hidden conditional page, portrait 9:16
+Primary request: Teach mixed conditionals where a past cause affects the present, then show how an understood if-condition can be expressed or omitted with would, would have, without, otherwise, in your shoes, but for, and if it were/had not been for. Rebuild independently.
+Input images: PAGE_0001 style reference; mascot_reference exact leopard explorer.
+Canvas: exact 941×1672, full bleed, safe margins, no page number.
+Top Japanese title: 「過去の原因、今の結果」
+Central illustration: mascot repairs a broken bridge connecting a gray PAST island to a bright NOW island; hidden trapdoors reveal omitted IF conditions.
+Mechanism diagram: PAST CAUSE “If＋had p.p.” → NOW RESULT “would＋base verb＋now”; hidden IF detector: clue phrase → implied condition → result.
+Original example cards: “If I had charged the battery, my phone would work now.” / 「過去の充電不足→今使えない」; “I would start with the easiest task.” / 「＝If I were in your position」; “Without your flashlight, we couldn’t have found the cave.” / 「withoutが条件」; “Hurry up; otherwise, we would miss the last bus.” / 「otherwise＝そうでなければ」.
+Phrase strip: “In your shoes, I’d wait.”; “But for the guide, we would have been lost.”; “If it hadn’t been for the alarm, I’d still be asleep.” with concise Japanese meanings.
+Mini practice: 「過去に道を聞かなかった→今迷子：If we had asked, we (wouldn’t be / wouldn’t have been) lost now.」 Answer: “wouldn’t be”. Reason: 「結果の時点はnowだからwould＋原形。」
+Bottom takeaway: 「条件はif節だけではない。時点と隠れた条件を探そう」
+Style: blue-gold-white-red time bridge and detective map, thick outlines, dense panels, mascot once in bridge-repair pose.
+Constraints: no page number, copied figures/examples, source identity, brand, citation, watermark.
+Avoid: treating mixed condition as error, crowded microtext.

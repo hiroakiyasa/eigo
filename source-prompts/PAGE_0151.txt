@@ -1,0 +1,18 @@
+Use case: scientific-educational
+Asset type: dense portrait advanced-summary page for an illustrated English grammar book
+Primary request: Teach superlatives with comparison ranges in/of, intensifiers such as by far and the very, ranking such as the second best, and “the most ... ever” for all-time experience. Source pages 314–315 guide coverage only; create all wording, examples, diagrams, and illustration independently.
+Input images: Image 1 is the leopard mascot appearance reference only; Image 2 is PAGE_0001 visual-system reference only.
+Canvas: strict 9:16 portrait, dense but phone-readable, no page number.
+Top title (verbatim): 「最上級の頂上を広げよう」
+Central illustration: in a bright adventure-library mountain observatory, the leopard explorer in a summit-flag pose stands atop a golden ranking peak while range rings and an EVER telescope surround it.
+Mechanism diagram: “in + 場所・集団という範囲” versus “of + 数・候補全体”. Add modifier rail: “by far the best / the very best / the second best” and note “very・secondはtheの後ろ”.
+Original example cards:
+1. “Mika is the fastest in our club.” / 「クラブという範囲の中で」
+2. “This shell is the smallest of the five.” / 「5個全体の一部として」
+3. “That was by far the funniest scene.” / 「ほかを大きく引き離す」
+4. “It is the best meal I’ve ever cooked.” / 「これまでの経験すべてで最高」
+Mini practice: 「ミニ問題　in / of？」 “Leo is the youngest ___ the four explorers.”
+Answer: 「答え　of」 「4人全体から1人を選ぶ関係なのでof。」
+Bottom ribbon: 「頂点だけでなく、比べる範囲と強さも描く」
+Style: PAGE_0001 glossy blue-gold-white adventure library, dimensional ranking blocks, thick crisp outlines, red only for top-rank cues, one mascot, large accurate Japanese Gothic and English.
+Constraints: all specified content once; no source wording/examples/figures/layout/order, source identity, citation, logo, ISBN, watermark, page number, or extra prose; no photorealism, dark background, sparse poster, or tiny text.

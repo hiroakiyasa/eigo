@@ -1,0 +1,18 @@
+Use case: scientific-educational
+Asset type: dense portrait comparison-and-summary page for an illustrated English grammar book
+Primary request: Explain both, either, and neither for two choices, including agreement expressions with too/either/neither and the patterns both A and B, either A or B, neither A nor B. Source pages 190–191 guide coverage only; use entirely original language, examples, and graphics.
+Input images: mascot identity reference only; PAGE_0001 style reference only.
+Canvas: strict 9:16 portrait, full-bleed, dense, no page number.
+Top title (verbatim): 「2つなら both・either・neither」
+Central illustration: the leopard explorer in a two-path judge pose at twin adventure-library doors. Both lights both doors, either spotlights one selectable door at a time, neither dims both.
+Mechanism diagram: “both＝2つをセット【複数】”, “either＝どちらか一方【単数】”, “neither＝どちらも該当しない【単数】”. Pattern rail: “both A and B / either A or B / neither A nor B”. Agreement badge: “肯定：too / 否定：either / Neither do I.”
+Original example cards:
+1. “Both routes are safe.” / 「2本とも安全」
+2. “Either route is fine.” / 「どちらか一方、どちらでもよい」
+3. “Neither route is short.” / 「2本とも短くない」
+4. “I can’t swim. — I can’t either.” / 「否定の“私も”」
+Mini practice: 「ミニ問題　両方とも選ばないなら？」 “I chose (both / either / neither).”
+Answer: 「答え　neither」 「2つのどちらも選ばない。」
+Bottom ribbon: 「セットで見るか、1つずつ見るかで形が決まる」
+Style: PAGE_0001 blue-yellow-white adventure-library twin-door scene, gold rails, dimensional badges, bold outlines, red only for contrast, one mascot, phone-readable typography.
+Constraints: original content only; no source wording/examples/figures/layout, source identity, citation, logo, ISBN, watermark, page number, or extra prose; avoid photorealism, dark background, and tiny text.

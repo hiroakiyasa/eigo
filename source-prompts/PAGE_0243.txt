@@ -1,0 +1,17 @@
+Create a polished information-dense educational page in portrait 9:16, matching the supplied cover's vivid explorer aesthetic. Same leopard mascot moving a past-participle scene to sentence front, then wrapping it in a BEING capsule. No page number, source identity, watermark, or logo.
+
+Top Japanese title: 「過去分詞で背景を先に描く」
+
+Teach a past-participle phrase as a formal/compact background description whose understood subject normally matches the main-clause subject. Show movement from after the noun to sentence-front. Also clarify that a bare past participle cannot normally serve as a noun-like subject; use being/to be + past participle.
+
+Original examples:
+• Built beside the lake, the hotel offers splendid views. 「湖畔に建てられているので」
+• Surrounded by fog, the boat moved slowly. 「霧に囲まれた状態で」
+• Being ignored can feel painful. 「無視されること」
+• I dislike being rushed. 「急かされることが嫌い」
+
+Central diagram: participle background cloud → main subject; separate capsule “being + past participle” → noun slot. Warning against “Rejected is disappointing.”
+
+Mini practice: correct “Praised made him happy.” Answer: “Being praised made him happy.” Reason: 「主語には名詞相当のまとまりが必要」.
+
+Takeaway: 「背景なら過去分詞、出来事を名詞化するならbeingを足す」.

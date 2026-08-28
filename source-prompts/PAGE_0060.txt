@@ -1,0 +1,20 @@
+Use case: scientific-educational
+Asset type: dense 9:16 portrait chapter-entry explanation page
+Primary request: Independently introduce English nouns and the three decisions used to shape a noun phrase: countability, number, and context/determination. Source pages 132–133 are coverage only; do not reuse source examples, list, diagram, artwork, wording, or layout.
+Input images: mascot appearance reference; PAGE_0001 design reference.
+Canvas: strict 9:16 portrait, no page number, full-bleed, safe margins.
+Top title: 「名詞は、3つの目で見る」
+Central illustration: mascot in a three-lens magnifier pose examines objects in a bright adventure-library specimen hall. Three large lenses label form, quantity, and context.
+Mechanism diagram: step route 「①形がある？ 可算 / 不可算」→「②1つ？ 複数？」→「③どれ？ 新情報？ 文脈を選ぶ」→「名詞の形が決まる」.
+Original example cards:
+1. “I found a shell.” / 「形がある・1つ・初登場」
+2. “Two shells were on the sand.” / 「数えられる複数」
+3. “We need clean water.” / 「決まった形をもたない物質」
+4. “The shell is now in my bag.” / 「共有済みの特定の貝」
+Small role tag: 「名詞は主語にも目的語にもなる」
+Mini practice box: 「ミニ確認：I bought ___ notebook. 空所は？」 「答え：a」 「数えられる単数を初めて出すから。」
+Bottom takeaway: 「可算・数・文脈を決めると、名詞がくっきりする」
+Style: approved cover-quality educational adventure-library specimen hall, glossy 3D noun objects and lenses, blue/yellow/white, small red emphasis, thick outlines, dense but clean hierarchy.
+Typography: exact English, bold Japanese Gothic, specified text only.
+Constraints: no page number, source expression/diagram/layout reuse, source identity, logo, ISBN, citation, watermark, or extra quiz. Mascot once in a distinct three-lens pose.
+Avoid: copied textbook table, tiny text, sparse composition, random labels, dark museum.

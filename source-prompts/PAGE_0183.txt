@@ -1,0 +1,25 @@
+Create a polished, content-rich educational English grammar infographic page in portrait 9:16. Follow the supplied cover's blue, gold, white, and red explorer design with glossy icons and clean textbook panels. Use the exact same leopard explorer mascot in three poses: pointing to a map pin, standing inside a terminal, and touching a platform surface. No page number, source name, watermark, logo, or copied source art/text.
+
+Top Japanese title: 「at・in・onは同じ場所でも変わる」
+
+Central triptych with one airport transformed by viewpoint:
+AT = 「点」: airport shown as one glowing pin on a route map.
+IN = 「内部」: cutaway terminal surrounding the mascot.
+ON = 「接触・面」: mascot and suitcase supported by a platform surface.
+
+Core equation strip: 「場所の大きさではなく、話し手がどう切り取るか」.
+
+Original example pairs with concise Japanese:
+• We met at the airport entrance. 「入口を待ち合わせ点として」
+• We ate lunch in the airport lounge. 「ラウンジの内部で」
+• Your ticket is on the counter. 「カウンターの面に接して」
+
+Add a city route card: “We stopped at Sendai on the way north.” 「経路上の一点」 versus “We stayed in Sendai for three nights.” 「街の中で滞在」.
+
+Add a chair illustration pair: “Grandpa relaxed in a deep armchair.” 「包まれる椅子」 versus “A child sat on a wooden stool.” 「座面に乗る」.
+
+Add an area/surface pair using a sports field: “The ball rolled into the practice area and stopped in it.” 「範囲の中」 versus “Three birds were standing on the field.” 「地面の上」. Keep the key prepositions visually highlighted.
+
+Mini practice: 「駅で乗り換えた：We changed trains ___ Shinagawa.」 Answer: 「at」. Reason: 「乗換地点として駅を一点で捉える」.
+
+Bottom takeaway ribbon: 「点なら at／包まれるなら in／面との接触なら on」. Make it dense yet immediately scannable, with strong visual contrasts and accurate English.

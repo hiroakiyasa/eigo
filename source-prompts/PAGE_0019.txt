@@ -1,0 +1,19 @@
+Use case: scientific-educational
+Asset type: dense portrait intuitive-concept page about sentence patterns
+Primary request: Independently show that a speaker first chooses the relationship to express, then places words on the matching sentence rail. Source pages 50–51 are grammar coverage only; create new wording, situations, examples, mechanism, and layout.
+Input images: Image 1 is the mascot appearance reference; Image 2 is PAGE_0001, the approved visual style reference. Preserve mascot identity and the glossy adventure-library world.
+Canvas: strict 9:16 portrait, one full-bleed finished page, high educational density, safe margins, no page number.
+Top title (verbatim): 「意味から、文のレールを選ぶ」
+Central illustration: the leopard explorer in an energetic rail-switch operator pose pulls a golden lever at a luminous four-way junction inside the adventure library. Four small scene icons feed into four colored grammar rails.
+Mechanism diagram: at the top of the junction show 「言いたい関係」→「レールを選ぶ」→「語を置く」. Each route has a compact formula, meaning label, and one original example:
+1. 「動くだけ」 “The baby laughed.” / 「主語＋動詞」
+2. 「動きが対象へ」 “Mia unlocked the gate.” / 「主語＋動詞＋対象」
+3. 「主語を説明」 “The cave became quiet.” / 「主語＋動詞＋説明」
+4. 「人に物を渡す」 “Leo showed us the map.” / 「主語＋動詞＋人＋物」
+Small insight box (verbatim): 「単語を先に並べない。関係を先に決める。」
+Mini practice box (verbatim): 「ミニ確認：Nora sent me a photo. はどのレール？」 「答え：人に物を渡す」 「me が人、a photo が渡す物。」
+Bottom takeaway ribbon (verbatim): 「意味が決まれば、自然な語順が選べる」
+Style/medium: polished cover-quality educational illustration; glossy blue/yellow/white rails, small green/red route accents, thick outlines, light-filled library depth, central character action, clean infographic flow, rich but organized.
+Typography: accurate large English and short bold Japanese; all four routes readable on a phone. Render specified text only.
+Constraints: include only the specified mini practice with answer and explanation; no page number, source identity, logo, citation, copied example, copied sentence-pattern diagram, copied layout, or watermark. One mascot in a distinct switch-operator pose.
+Avoid: giant mascot hiding diagrams, sparse poster, tiny captions, random rail labels, dark scene, photorealism.

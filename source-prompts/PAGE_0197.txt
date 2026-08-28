@@ -1,0 +1,19 @@
+Use case: scientific-educational
+Asset type: dense illustrated English preposition book page, portrait 9:16
+Primary request: Independently contrast TOWARD(S), THROUGH, and UNDER: direction, tunnel passage, duration from start to finish, completion, below/covered, influence, and unfinished processes. Rebuild pages 406–407 without copying source text or diagrams.
+Input images: PAGE_0001 visual style reference; mascot_reference exact leopard explorer.
+Canvas: exact 941×1672, strict portrait 9:16, safe margins, no page number.
+Top Japanese title: 「方向・通過・下を描く」
+Central illustration: the mascot explores a cutaway map: an arrow points TOWARD a lighthouse, a tunnel runs THROUGH a mountain, and a workshop UNDER a canopy shows a machine under repair.
+Mechanism diagram: 「TOWARD＝方向だけ」; 「THROUGH＝入口→内部→出口」 branching to 手段・期間全体・完了/経験; 「UNDER＝下に覆われる」 branching to 数値未満・監督/影響下・未完成. Small comparison: underneath＝隠れる、below＝低さ、beneath＝硬い表現.
+Original example cards:
+1. “Leo walked toward the lighthouse.” / 「到着でなく方向を示す」
+2. “Sunlight came through the window.” / 「窓の内部を通り抜ける」
+3. “We worked through the night.” / 「夜の始めから終わりまで」
+4. “The bridge is under repair.” / 「修理の途中で未完成」
+Mini practice: 「The train passed ___ the tunnel.」 Answer: 「through」. Reason: 「入口から内部を通って出口へ抜けるから。」
+Bottom takeaway: 「向きはtoward、貫通はthrough、覆う下はunder」
+Style: glossy blue-gold-white-red adventure cutaway landscape, strong directional arrows, thick outlines, dense but legible panels, mascot once in a crouching explorer pose.
+Typography: accurate English and concise Japanese.
+Constraints: no page number, source quotations/examples/figures, source identity, logo, citation, watermark, or extra quiz.
+Avoid: medical imagery, tiny synonym chart, visually merged paths.

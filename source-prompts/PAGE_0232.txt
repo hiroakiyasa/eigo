@@ -1,0 +1,10 @@
+Use case: scientific-educational; dense 9:16 portrait grammar page. Teach when perfect infinitives are necessary and how to negate infinitives, based on p.476–477 coverage.
+Input references: PAGE_0001 design and mascot identity.
+Top title: 「toの前後で時間と否定を整える」
+Central illustration: mascot as a timeline technician selects SIMPLE TO when sequence is obvious, PERFECT TO HAVE DONE when earlier timing needs emphasis, and places a NOT shield immediately before TO.
+Mechanism: 「時間差が明白→普通のtoで十分」「“それ以前”を明示→to have + 過去分詞」「to不定詞を否定→not to + 原形」. Add caution 「必要以上に完了形を重くしない」.
+Original examples: “I'm proud to finish the marathon.” / 「完走できて誇らしい・順序は明白」; “The file seems to have disappeared overnight.” / 「夜のうちに消えたらしい」; “Maya promised not to reveal the surprise.” / 「秘密を明かさないと約束」; “Try not to bend the card.” / 「カードを曲げないように」.
+Mini problem: 「ミニ問題：否定の位置」 “We decided (to not / not to) wait any longer.” Answer 「not to」. Reason 「否定する内容to waitの直前にnotを置く。」
+Bottom ribbon: 「前の出来事はto have done、否定はnot to」
+Style: adventure-library time laboratory, blue/gold/white/red timeline, NOT shield, thick outlines, dense clear panels.
+Constraints: 9:16; no page number, copied prose/examples/figures/layout, source marks, logo, citation, watermark, empty answer space, or photorealism. One mascot technician.

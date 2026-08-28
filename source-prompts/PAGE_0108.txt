@@ -1,0 +1,19 @@
+Use case: scientific-educational
+Asset type: dense 9:16 portrait summary and transition page
+Primary request: Independently summarize article choices in proper names, including a single named mountain versus a named range, then transition into modification as the next learning territory. Source pages 228–229 are coverage only; do not reuse source names, wording, figure, or layout.
+Input images: mascot appearance reference; PAGE_0001 design reference.
+Canvas: strict 9:16 portrait, no page number, safe margins.
+Top title: 「名前から、修飾の冒険へ」
+Central illustration: mascot in a mountain-map scout pose leaves the Hall of Names and approaches a glowing Modification Valley. A single peak and a chain of peaks illustrate naming contrast.
+Mechanism diagram: decision compass: 「固有の1地点・1山 → 通常theなし」; 「説明的名称 / of形 / 複数のまとまり → theが多い」; final arrow 「次は、名前や文をもっと詳しくする修飾」.
+Original example cards:
+1. “Mount Ember is visible from here.” / 「1つの山の固有名」
+2. “The Ember Mountains stretch north.” / 「山々を山脈としてまとめる」
+3. “We climbed Northwind Tower.” / 「固有名＋施設名」
+4. “A bright tower guided us.” / 「brightがtowerを詳しくする」
+Mini practice box: 「ミニ確認：___ Lake Crystal は？」 「答え：Lake Crystal」 「固有の湖名としてそのまま使う。」
+Bottom takeaway: 「名前の形を見たら、次は情報を足す位置を見る」
+Style: bright adventure-library mountain gateway, glossy map compass and modifier valley, blue/yellow/white, thick outlines, dramatic but educational transition.
+Typography: exact English and readable Japanese.
+Constraints: fictional names only; no page number, source reuse, source identity, logo, citation, watermark, or extra quiz. Mascot once in scout pose.
+Avoid: empty divider, tiny text, real landmark imitation, dark mountains.

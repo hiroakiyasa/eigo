@@ -1,0 +1,26 @@
+Create a polished, information-dense educational book page in portrait 9:16, matching the supplied cover's vivid explorer design. Same leopard mascot, first showing a skill badge, then celebrating one successful rescue. No page number, source identity, watermark, or logo.
+
+Top Japanese title: 「can と be able to の使い分け」
+
+Central split mechanism:
+CAN/COULD = potential ability, what someone generally can/could do.
+BE ABLE TO = factual ability and flexible grammar; in the past, it can highlight one achieved success.
+
+Original examples with concise Japanese:
+• I can read music. 「楽譜を読める（一般的能力）」
+• My aunt could repair old radios. 「昔その能力があった」
+• After two hours, we were able to unlock the door. 「実際に解錠できた」
+• I want to be able to speak confidently. 「to不定詞の中では be able to」
+
+Add emphasis note: can is normally the natural short choice for ordinary present ability; be able to may highlight achievement or fit positions where a modal cannot appear.
+
+Show the one-modal rule with nesting blocks:
+• Maya may be able to join us. ✓
+• Maya may can join us. ✗
+• You will be able to download it later. ✓
+
+Small urgent-advice badge: had better + base verb means 「そうしないと困る」, stronger/more urgent than casual advice. Example “You'd better save your work.” Negative: “You'd better not touch that wire.”
+
+Mini practice: 「一度の成功『ついに橋を渡れた』: We finally ___ cross the bridge.」 Answer: were able to. Reason: 「過去の具体的な達成」.
+
+Takeaway: 「能力なら can、形の自由や実際の達成なら be able to」. Dense but clear.

@@ -1,0 +1,14 @@
+Use case: scientific-educational; dense 9:16 portrait grammar page. Source p.160–161 provides grammar coverage only; produce original examples, explanation, visuals, and sequence.
+Input references: mascot appearance and PAGE_0001 design.
+Top title: 「一般なら複数、1つなら目印」
+Central illustration: leopard explorer as a wildlife librarian. A wide panoramic window shows many owls representing a category; a spotlight isolates one owl and requires a determiner badge.
+Mechanism: left route 「種類全体・数が決まらない → 裸の複数形」; right route 「数えられる名詞を1つ → a / an / the / this / my などが必要」. Add agreement rhythm 「複数の主語 → 複数の説明語が自然」 and precision note 「1人につき1つを強調すると単数も使える」.
+Original examples:
+1. “Owls hunt mainly at night.” / 「フクロウ一般」
+2. “I photographed an owl near the gate.” / 「具体的な1羽」
+3. “These hikers carry backpacks.” / 「複数→複数の自然なリズム」
+4. “Every cyclist must wear a helmet.” / 「1人につき1つを明確にする」
+Mini practice: 「ミニ問題：一般の話なら？」 “I like (rabbit / rabbits).” 「答え：rabbits」 「種類全体は、裸の複数形で広く表す。」
+Bottom ribbon: 「単数は特別な1つ。だから前に目印を置く」
+Style: glossy wildlife wing of adventure library, blue/yellow/white, dimensional plural flock and determiner spotlight, crisp thick outlines.
+Constraints: no page number, source identity, copied example/diagram/text/layout, logo, citation, watermark, blank answer field, clutter, or photorealism. Mascot once in wildlife-librarian pose.

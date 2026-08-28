@@ -1,0 +1,19 @@
+Use case: scientific-educational
+Asset type: dense 9:16 portrait grammar phrase page
+Primary request: Independently teach useful extensions of as...as: maximum effort, unchanged degree, correction from A to B, “not even,” and “virtually the same as.” Source pages 294–295 are coverage only; do not reuse wording, examples, figures, order, or layout.
+Input images: mascot appearance reference and PAGE_0001 approved design reference.
+Canvas: strict 9:16 portrait, full-bleed, safe margins, no page number.
+Top title: 「as-asを会話で使い切る」
+Central illustration: mascot in an equality-scale conductor pose balances two golden AS arches, then opens five short expression routes.
+Mechanism diagram: one equality core 「AとBを同じ目盛りで測る」 branching to 「as ... as possible＝可能な限り」 「as ... as ever＝相変わらず」 「not so much A as B＝AよりむしろB」 「not so much as＝…さえしない」 「as good as＝ほぼ同然」.
+Original example cards:
+1. “Please walk as quietly as possible.” / 「可能な限り静かに」
+2. “The garden is as beautiful as ever.” / 「以前と変わらず美しい」
+3. “I’m not so much tired as hungry.” / 「疲れより、むしろ空腹」
+4. “The old radio is as good as new.” / 「新品と言えるほど十分よい」
+Mini practice box: 「ミニ確認：He wouldn’t so much as say hello. の意味は？」 「答え：あいさつさえしない」 「say hello の段階にすら達しない強い否定。」
+Bottom takeaway: 「同じ目盛りの感覚から、多彩な定番表現が生まれる」
+Style: glossy blue-gold-white-red adventure library, dimensional scales and phrase routes, thick outlines, central illustration + diagram + cards, dense but readable.
+Typography: exact English, bold Japanese Gothic, specified text only.
+Constraints: no page number, source reuse, source identity, logo, citation, watermark, or extra exercise. Mascot once in conductor pose.
+Avoid: copied textbook chart, tiny copy, dark scene, sparse poster.

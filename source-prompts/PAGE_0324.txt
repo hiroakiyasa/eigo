@@ -1,0 +1,32 @@
+Create a polished, dense educational English grammar page in portrait 9:16. Match the supplied cover's blue-gold-white-red explorer aesthetic with message routes, receiver icons, and question-to-clause transformations. Use the exact same leopard explorer mascot delivering reports to different recipients and flattening question word order into statement order. No page number, source name, watermark, logo, or copied source material.
+
+Top Japanese title: 「伝達動詞の型と疑問文レポート」
+
+Upper receiver map: choose construction by how strongly the verb requires a listener.
+
+TYPE 1 verb + person + content; receiver is essential:
+tell, inform, remind, assure
+• The guide told us that the path was closed. 「tellは誰に伝えたかが必要」
+
+TYPE 2 verb + (person) + content; receiver optional:
+promise, ask
+• Nao promised me that she would return the key. / Nao promised that... 「相手なしでも成立」
+
+TYPE 3 verb + preposition + person + content:
+say to, admit to, explain to, complain to; agree with
+• Leo explained to me why the compass failed. 「受け手はtoで追加」
+Add warning: say me ✗; tell me ✓; explain me ✗; explain to me ✓.
+
+Lower main transformation: REPORTING A QUESTION. Show question marks entering a machine and emerging as embedded-clause word order.
+Yes/no question:
+• “Did you lock the cabin?” → She asked me whether/if I had locked the cabin. 「if/whether + 主語＋動詞」
+WH question:
+• “Where is the first-aid kit?” → He asked where the first-aid kit was. 「wh語を残し、倒置を戻す」
+Rule banner: no do/does/did and no question inversion inside the reported clause.
+
+Suggestion report:
+• “Let’s leave before dawn.” → Mina suggested that we leave before dawn. / Mina suggested leaving before dawn. 「内容に合わせて自由に再構成」
+
+Mini practice: 「報告文へ：“Why are you laughing?” she asked Leo.」 Answer: 「She asked Leo why he was laughing.」 Reason: 「wh語whyを残し、he wasの平叙文語順に戻す」.
+
+Bottom takeaway: 「動詞の型で受け手を置き、疑問文は節の語順へ戻す」. Dense, precise, readable.

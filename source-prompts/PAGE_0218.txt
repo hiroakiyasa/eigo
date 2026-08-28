@@ -1,0 +1,20 @@
+Create a polished information-dense English grammar page, portrait 9:16, matching the supplied cover's vivid blue, gold, white and red design. Same leopard mascot checking three doors: after a verb, after a preposition, after be. No page number, source name, watermark, or logo.
+
+Top Japanese title: 「-ingを目的語と説明に置く」
+
+Central three-door mechanism:
+1 verb + -ing as object,
+2 preposition + -ing because a preposition needs noun-like material,
+3 be + -ing, which can be progressive action or a noun-like description depending on meaning.
+
+Original examples:
+• Leo avoids checking his phone while studying. 「avoidsの目的語」
+• Mia is good at reading old maps. 「前置詞atの目的語」
+• The fox is crossing the bridge. 「進行中の動作」
+• My favorite activity is sketching ruins. 「activityの内容説明」
+
+Contrast diagram for the be examples: video icon for progressive; equals sign for subject description. Red warning: after a preposition, do not use a bare to-infinitive in this pattern.
+
+Mini practice: correct “She is interested in to learn English.” Answer: “She is interested in learning English.” Reason: 「前置詞inの後ろは名詞相当の-ing」.
+
+Takeaway: 「前置詞の後ろは-ing、be＋-ingは意味で見分ける」. Dense but clear, examples, problem+answer.

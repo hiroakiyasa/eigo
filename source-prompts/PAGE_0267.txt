@@ -1,0 +1,24 @@
+Create a polished, content-dense educational English grammar infographic in portrait 9:16, matching the supplied cover's vivid blue, gold, white, and red explorer style. Use the exact same leopard explorer mascot navigating a six-zone time map, then holding a timeless base-form crystal. No page number, source name, watermark, logo, copied diagram, or copied source sentence.
+
+Top Japanese title: 「時表現は出来事を時間に置く」
+
+Upper central time map: six foundational zones made from three viewpoints across present and past:
+simple = stable fact/habit
+progressive = vivid action in progress
+perfect = movement or connection reaching back from a reference point
+Grid labels: present simple / past simple / present progressive / past progressive / present perfect / past perfect. Add a separate fan of future routes: will, be going to, present forms, explaining that English expresses future through several perspectives.
+
+Middle key idea: some clauses are deliberately “timeless” because they do not state a present or past fact. Show the verb base form outside the timeline.
+Imperatives:
+• Keep the gate closed. 「まだ実現していない指示」
+• Turn left at the fountain. 「行動を求める」
+Contrast: “Leo keeps the gate closed.” places a fact in present time, while “Keep...” does not report a fact.
+
+Lower advanced preview: wishes, demands, and proposals can also use the base form inside a that-clause because the desired event is not yet a fact.
+• The coach insisted that every player arrive early. 「到着するよう要求」
+• We requested that the room remain quiet. 「静かなままであるよう要求」
+Highlight arrive, remain as base forms even after singular subjects. Caption: 「三単現-sがない＝現在の事実を述べていない」.
+
+Mini practice: 「指示なので原形：___ the samples carefully.」 Answer: 「Label」. Reason: 「現在の事実ではなく、これから行う命令だから動詞原形」.
+
+Bottom takeaway ribbon: 「時制は事実を時間へ置く。未実現の指示は原形」. Dense but visually intuitive.

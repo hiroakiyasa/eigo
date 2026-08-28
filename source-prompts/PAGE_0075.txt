@@ -1,0 +1,14 @@
+Use case: scientific-educational; dense 9:16 portrait grammar page. Teach zero determiner and determiner position independently from source p.162–163; copy no wording, examples, figures, list, or layout.
+Input references: mascot reference and PAGE_0001 reference.
+Top title: 「限定詞なしは、輪郭なし」
+Central illustration: leopard explorer as a focus technician turns a lens wheel. A misty noun cloud becomes increasingly concrete as front-mounted filters “a / the / some / this” slide before the noun block.
+Mechanism: 「限定詞なし → 種類全体・材料・活動をぼんやり示す／品目だけを列挙」; 「限定詞 + 名詞 → 数量・特定・距離などを決める」; word-order rail 「限定詞 → 形容詞 → 名詞」 with note 「限定は名詞の前から」.
+Original examples:
+1. “Music helps me focus.” / 「音楽というもの全体」
+2. “We need rope, chalk, and tape.” / 「必要な品目を列挙」
+3. “A bright lantern hung outside.” / 「1つの不特定なランタン」
+4. “That lantern belongs to Mina.” / 「離れた特定のランタン」
+Mini practice: 「ミニ問題：ふだん飲む種類の話」 “I drink (tea / a tea) every morning.” 「答え：tea」 「飲み物の種類・材料として、輪郭を作らない。」
+Bottom ribbon: 「名詞の前のフィルターが、見え方を決める」
+Style: luminous adventure-library optics lab, blue/yellow/white, glossy filters and noun blocks, red only on order arrow, thick outlines, readable dense composition.
+Constraints: no page number, source identity, copied source content/layout, logo, citation, watermark, answer-writing space, random text, or photorealism. One mascot in focus-technician pose.

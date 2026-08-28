@@ -1,0 +1,18 @@
+Use case: scientific-educational
+Asset type: dense illustrated English tag-question page, portrait 9:16
+Primary request: Independently teach tag questions as a light question added to a statement: reverse polarity, use a pronoun and matching auxiliary, and distinguish rising uncertainty from falling confirmation. Include the special “aren’t I?” form. Rebuild pages 520–521 without copying source wording or examples.
+Input images: PAGE_0001 approved style; mascot_reference exact leopard explorer.
+Canvas: exact 941×1672, strict portrait 9:16, safe margins, no page number.
+Top Japanese title: 「文末にちょこっと確認」
+Central illustration: the mascot clips a tiny QUESTION caboose onto a long statement train, flipping a plus sign to minus and minus to plus.
+Mechanism diagram: 「肯定文 → 否定タグ」 / 「否定文 → 肯定タグ」; noun becomes pronoun; auxiliary matches. Intonation gauge: rising arrow＝本当に質問, falling arrow＝同意の念押し. Special badge: “I’m …, aren’t I?” not “amn’t I?”.
+Original example cards:
+1. “Mia knows the route, doesn’t she?” / 「肯定＋否定タグ」
+2. “The gate isn’t locked, is it?” / 「否定＋肯定タグ」
+3. “I’m early, aren’t I?” / 「I amの特別形」
+Mini practice: 「Leo can’t swim, ___ ___?」 Answer: “can he?” Reason: 「前が否定なので肯定タグ、Leoはheで受ける。」
+Bottom takeaway: 「反対の極性を軽く添えて、相手に選んでもらう」
+Style: glossy adventure railway hall, blue-gold-white-red, polarity switches and compact tag caboose, thick outlines, mascot once as a conductor.
+Typography: accurate English and bold readable Japanese.
+Constraints: no page number, source quotation/example/layout, source identity, logo, citation, watermark, or extra quiz.
+Avoid: oversized full question after statement, tiny intonation marks, dark station.

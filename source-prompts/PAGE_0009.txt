@@ -1,0 +1,24 @@
+Use case: scientific-educational. Create an information-dense portrait 9:16 page matching PAGE_0001. Same leopard detective in a bright adventure-library puzzle vault, tracing nouns to gaps. Entirely original examples, explanations and layout. No page number, source identity, logo or watermark.
+
+Top title: 「文の穴が、名詞を呼ぶ」
+
+Central lock-and-key diagram: a noun before a following clause fills one missing noun slot inside it. Clearly contrast object gap and subject gap.
+
+Main examples:
+• “the camera that Mia lost ___” 「Miaがなくしたカメラ」—「目的語の穴」
+• “the bird that ___ woke Leo” 「Leoを起こした鳥」—「主語の穴」
+
+Required table:
+「穴の位置｜元の文｜名詞の役目｜合体後」
+「動詞の後｜Mia lost the camera.｜目的語｜the camera that Mia lost」
+「動詞の前｜The bird woke Leo.｜主語｜the bird that woke Leo」
+「前置詞の後｜We spoke to the guide.｜前置詞の目的語｜the guide we spoke to」
+
+Add diagnostic steps: 「①後ろの文を読む ②足りない名詞を探す ③前の名詞を戻す」.
+Additional original example: “the bridge we crossed ___” 「私たちが渡った橋」.
+Mini check: In “the student who solved the puzzle,” where is the gap? Answer: before solved. Reason: 「studentがsolvedの主語。」
+Bottom ribbon: 「前の名詞と、後ろの空席を一本の線で結ぶ」
+
+Dense, visual, readable table, colored gap markers and arrows.
+
+後半ページ同等の高密度基準：中央イラスト＋仕組み図＋説明文＋独自英文4〜6本＋簡潔な和訳/解説＋ミニ問題・答え・一行理由、ページの85〜90%を学習内容で満たす、文字は読める大きさ

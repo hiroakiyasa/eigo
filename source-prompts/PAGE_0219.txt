@@ -1,0 +1,20 @@
+Create a polished content-rich educational English grammar page, portrait 9:16, matching the supplied cover's energetic explorer aesthetic. Same leopard mascot attaching a front label to a noun and projecting a moving film behind another noun. No page number, source identity, watermark, or logo.
+
+Top Japanese title: 「前の-ingは種類、後ろは動き」
+
+Central contrast diagram:
+-ing before noun = compact label that classifies purpose/type or salient characteristic;
+-ing after noun/object/clause = vivid scene showing who is doing what.
+
+Original examples with Japanese:
+• a sleeping bag 「寝るための袋＝用途」
+• a barking dog 「ほえている特徴で絞る」
+• Look at the dog sleeping by the fire. 「特定の犬の今の動作」
+• We saw Mia crossing the square. 「Mia＝横断中」
+• Leo entered the room carrying three boxes. 「入室と同時の動作」
+
+Show semantic warning: “sleeping bag” does not mean the bag itself is asleep. Add arrows from position to function.
+
+Mini practice: compare “a running shoe” and “the child running outside.” Answer: first = shoe for running/type; second = child's action. Reason: 「前は分類、後ろは場面説明」.
+
+Takeaway: 「置く場所で、ラベルか映像かが決まる」. Strong central label-versus-film visual, dense examples and answer.

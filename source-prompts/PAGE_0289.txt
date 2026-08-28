@@ -1,0 +1,10 @@
+Use case: scientific-educational; dense 9:16 portrait grammar page. Teach polite WILL YOU BE -ING questions, their possible hidden request, and BE TO for directed future from p.590–591.
+Input references: PAGE_0001 design and mascot identity.
+Top title: 「予定をそっと尋ね、道を示す」
+Central illustration: mascot as a courteous concierge asks through a soft-distance telescope “Will you be...?” while a small hidden-envelope request appears behind the question. A golden BE TO rail points to RULE, PLAN, and DESTINY stations.
+Mechanism: 「Will you be -ing?＝相手の成り行きを客観的に質問→丁寧」「行動を聞く理由から頼み事を感じさせることがある」「be to＝進むべき方向をtoで指す」「文脈で指示・予定・後の運命」.
+Original examples: “Will you be using the printer this afternoon?” / 「丁寧に利用予定を確認」; “Will you be passing the bakery?” / 「買い物の依頼を暗示しうる」; “All visitors are to wear badges.” / 「規則・指示」; “The two scientists were to meet again years later.” / 「後に再会する運命」.
+Mini problem: 「ミニ問題：控えめな予定確認」 “(Are you going to use / Will you be using) this desk later?” Answer 「Will you be using」. Reason 「意図へ踏み込まず、成り行きを客観的に尋ねる。」
+Bottom ribbon: 「距離を取る質問は丁寧に、toの線路は進路を示す」
+Style: glossy formal adventure-library concierge station, blue/gold/white/red, hidden envelope and golden rail, thick outlines.
+Constraints: exact 9:16; no page number, copied source examples/figures/text/layout, logo, citation, watermark, blank answer field, or photorealism. One mascot concierge.

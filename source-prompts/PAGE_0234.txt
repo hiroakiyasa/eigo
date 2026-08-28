@@ -1,0 +1,10 @@
+Use case: scientific-educational; dense 9:16 portrait grammar page. Explain four motivations for choosing passive voice from p.480–481 coverage.
+Input references: PAGE_0001 design and mascot identity.
+Top title: 「受動文を選ぶ4つの理由」
+Central illustration: mascot as an editor at a four-way control desk: UNKNOWN DOER fog, LIGHTER START balance scale, KEEP TOPIC spotlight rail, GENERAL OPINION megaphone.
+Mechanism panels: 「①行為者が不明・不要」「②長すぎる主語を避ける」「③文章の話題を同じ主語で保つ」「④発言者を伏せて一般性を出す」.
+Original examples: “The village library was built in 1925.” / 「建てた人より図書館が重要」; “I was encouraged by messages from many readers.” / 「Iを話題の中心に保つ」; “The new device was tested and then released.” / 「deviceを連続して主語に」; “It is widely believed that sleep supports memory.” / 「一般に信じられている」.
+Mini problem: 「ミニ問題：行為者が不明」 “Someone stole my umbrella.” Rewrite naturally. Answer 「My umbrella was stolen.」 Reason 「誰が盗んだか分からず、傘が話題だから。」
+Bottom ribbon: 「受動は“誰が”より“何がどうなった”を語る道具」
+Style: bright adventure-library editorial control room, blue/gold/white/red four panels, thick outlines, dense readable layout.
+Constraints: 9:16; no page number, copied content/layout, source identity, logo, citation, watermark, empty answer area, or photorealism. Exactly one mascot editor.

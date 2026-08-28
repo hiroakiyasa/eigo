@@ -1,0 +1,19 @@
+Use case: scientific-educational
+Asset type: dense 9:16 portrait comparative-pattern page
+Primary request: Independently teach clause comparison with an understood gap, ever, “comparative and comparative,” and “the comparative, the comparative.” Include the idea of linked change. Source pages 306–307 are coverage only; reuse nothing from the source.
+Input images: mascot appearance reference; PAGE_0001 design reference.
+Canvas: strict 9:16 portrait, no page number, full-bleed, safe margins.
+Top title: 「比較級で変化と比例を描く」
+Central illustration: mascot in a twin-graph navigator pose follows one rising line that grows repeatedly and two linked lines that rise together.
+Mechanism diagram: four routes: 「than + 文の穴」 「比較級 + ever＝今までより」 「比較級 and 比較級＝ますます」 「the 比較級, the 比較級＝〜ほど…」. Small tag 「理由＋all the 比較級＝その分だけ」.
+Original example cards:
+1. “The cave was darker than I expected.” / 「expectedの後ろに程度の穴」
+2. “I’m calmer than I’ve ever been.” / 「過去のどの時点よりも」
+3. “The wind grew stronger and stronger.” / 「変化が連続して進む」
+4. “The more we practice, the easier it becomes.” / 「練習量と易しさが連動」
+Mini practice box: 「ミニ確認：『ますます便利』は？」 「答え：more and more useful」 「more型はmoreを重ねる。」
+Bottom takeaway: 「比較級をつなぐと、変化の動きまで見える」
+Style: bright glossy adventure-library graph observatory, blue-gold-white, red linked lines, thick outlines, rich central visual and readable cards.
+Typography: exact English, bold Japanese.
+Constraints: no page number, source wording/example/graph/layout, source identity, logo, citation, watermark, or extra quiz. Mascot once in navigator pose.
+Avoid: overly technical graph, tiny labels, dark scene.

@@ -1,0 +1,19 @@
+Use case: scientific-educational
+Asset type: dense illustrated English multiword-preposition summary page, portrait 9:16
+Primary request: Independently organize the practical multiword prepositions and exclusions covered on pages 412–413: addition, exception, route, means, position, substitution, representation, opposite position, and topic reference. Do not reuse source sentences, diagrams, or arrangement.
+Input images: PAGE_0001 approved visual design; mascot_reference exact leopard explorer.
+Canvas: exact 941×1672 portrait, strict 9:16, full bleed, safe margins, no page number.
+Top Japanese title: 「複合前置詞の道具箱」
+Central illustration: the mascot opens a blue-and-gold explorer toolbox containing nine labeled instruments: BESIDES, EXCEPT FOR, BY WAY OF, BY MEANS OF, IN FRONT OF, INSTEAD OF, ON BEHALF OF, OPPOSITE, WITH REGARD TO.
+Mechanism diagram: color-coded functions—追加「besides / in addition to」; 除外「but / except / except for」; 経路「by way of」; 手段「by means of」; 場所「in front of / opposite」; 代替・代表「instead of / on behalf of」; 話題「with regard to / with respect to」. Note: except for can introduce a condition-like exception to a whole statement.
+Original example cards:
+1. “Besides English, Mia studies Spanish.” / 「英語に加えてスペイン語も」
+2. “We reached the village by way of the forest road.” / 「森の道を経由」
+3. “On behalf of the team, I thank you.” / 「チームを代表して」
+4. “The café is opposite the station.” / 「駅の反対側」
+Mini practice: 「The room was empty ___ one chair.」 Answer: 「except for」. Reason: 「部屋全体の説明に、1脚だけという例外を後から加える。」
+Bottom takeaway: 「複数語でも、追加・除外・経路・立場を1つの前置詞として示す」
+Style: bright glossy blue-gold-white-red adventure toolbox gallery, dimensional tools and route signs, thick outlines, information-dense balanced cards, mascot once kneeling beside the open toolbox.
+Typography: exact English and bold readable Japanese Gothic.
+Constraints: no page number, source quotation/example/layout, source identity, logo, citation, watermark, or extra exercise.
+Avoid: alphabetical dictionary list, tiny labels, brand references, dark storage room.

@@ -1,0 +1,19 @@
+Use case: scientific-educational
+Asset type: dense 9:16 portrait modification overview page
+Primary request: Independently introduce modification as adding precision to a sentence. Show typical targets of adjectives, adverbs, auxiliaries, and prepositional phrases, while stressing that placement and target create the function. Source pages 230–231 are coverage only; copy no source prose, examples, chart, or layout.
+Input images: mascot reference; PAGE_0001 approved design reference.
+Canvas: strict 9:16 portrait, no page number, full-bleed, safe margins.
+Top title: 「修飾は、情報を足す道具」
+Central illustration: mascot in an information-toolsmith pose upgrades a plain sentence rail with four colorful tool modules.
+Mechanism diagram: 「形容詞 → 名詞を詳しく」 「副詞 → 動詞・形容詞・文を詳しく」 「助動詞 → 動詞句に気持ち」 「前置詞句 → 場所・時間・関係」. Center note 「品詞名より、何を詳しくしているか」.
+Original example cards:
+1. “Mia carried a silver lantern.” / 「silverがlanternを限定」
+2. “Leo walked carefully.” / 「carefullyが歩き方を説明」
+3. “Mia may return tonight.” / 「mayが可能性を添える」
+4. “The key under the map is mine.” / 「under the mapがkeyの場所を説明」
+Mini practice box: 「ミニ確認：Leo spoke softly. softlyは何を詳しくする？」 「答え：spoke」 「話し方を後ろから説明する副詞。」
+Bottom takeaway: 「隣に置き、どの情報を足すかを見る」
+Style: glossy blue-yellow-white adventure-library workshop, dimensional modifier tools, thick outlines, central illustration + clear four-branch diagram + cards, limited red accents.
+Typography: accurate English and bold Japanese Gothic.
+Constraints: no page number, source wording/example/chart/layout, source identity, logo, citation, watermark, or extra exercise. Mascot once in toolsmith pose.
+Avoid: dry textbook table, tiny terminology, clutter without hierarchy.

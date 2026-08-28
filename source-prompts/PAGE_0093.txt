@@ -1,0 +1,14 @@
+Use case: scientific-educational; dense 9:16 portrait grammar page. Independently explain this/that/these/those as pointing by physical or psychological distance, degree use, and pronoun use. Source p.198–199 is coverage only.
+Input references: mascot identity and PAGE_0001 design.
+Top title: 「thisとthatは、距離を指す」
+Central illustration: leopard explorer as a compass-pointer stands inside a glowing near circle and points toward a far balcony. A story-memory portal brings a past event psychologically close with this.
+Mechanism: 「近い単数 this / 遠い単数 that / 近い複数 these / 遠い複数 those」. Add two branches 「名詞の前：this map」「単独：This is mine.」 and degree slider 「this close＝こんなに近く / that loud＝あんなに大きく」. Note 「話の中で近く感じる出来事にも this」.
+Original examples:
+1. “This compass fits in my pocket.” / 「手元の1つ」
+2. “Those lights belong to the harbor.” / 「離れた複数」
+3. “I was this close to winning.” / 「程度を指で示す」
+4. “Listen to this: the door opened by itself.” / 「これから言う内容を先取り」
+Mini problem: 「ミニ問題：遠くの複数なら？」 “Look at (this / those) clouds.” 「答え：those」 「遠くにある複数の雲を指す。」
+Bottom ribbon: 「場所だけでなく、心の距離も指し分ける」
+Style: bright adventure-library compass gallery, blue/yellow/white, glossy pointing beams, red only for near/far contrast, thick outlines, phone-readable.
+Constraints: no page number, copied source scenarios/examples/figures/text/layout, source identity, logo, citation, watermark, blank answer area, or photorealism. One mascot in pointer pose.

@@ -1,0 +1,18 @@
+Use case: scientific-educational
+Asset type: dense portrait summary-comparison page for an illustrated English grammar book
+Primary request: Contrast make, have, and let in object-complement patterns, and distinguish doing an action oneself from arranging for something to be done with “have + O + past participle”. Source pages 92–93 guide coverage only; all explanations, examples, scenes, questions, and layout must be original.
+Input images: Image 1 mascot identity reference only; Image 2 PAGE_0001 approved visual style only.
+Canvas: strict 9:16 portrait, one finished dense page, no page number.
+Top title (verbatim): 「make・have・let の力加減」
+Central original illustration: the leopard explorer in a control-panel pose operates three glowing levers in the adventure library: “make＝強く動かす”, “have＝頼んで整える”, “let＝自由にさせる”. A small service counter visually compares self-action with arranged service.
+Mechanism diagram: “make + O + 動詞原形” labeled 「強い働きかけ」; “have + O + 動詞原形” labeled 「人にしてもらう」; “let + O + 動詞原形” labeled 「するのを許す」; side card “have + O + 過去分詞＝Oを〜してもらう／Oが〜される経験”.
+Original example cards:
+1. “The joke made us laugh.” / 「笑う結果を生んだ」
+2. “I had Mina check the list.” / 「Minaに確認してもらった」
+3. “Dad let me steer the boat.” / 「操縦するのを許した」
+4. “We had the tent repaired.” / 「テントを修理してもらった」
+Mini practice box: 「ミニ問題　自分で直した？ 頼んだ？」 “I had my watch fixed.”
+Answer box: 「答え　誰かに直してもらった」 「watch＝fixed という状況を have した。」
+Bottom ribbon: 「同じ“させる”でも、働きかけ方が違う」
+Style: polished PAGE_0001 adventure-library control room, blue/yellow/white and gold, dimensional levers and grammar blocks, thick crisp outlines, red only for force contrast, one mascot, large accurate type.
+Constraints: include every specified learning item once; no source wording/examples/figures/layout, source identity, citation, logo, ISBN, watermark, page number, or extra prose; no photorealism, sparse poster, dark background, or tiny text.

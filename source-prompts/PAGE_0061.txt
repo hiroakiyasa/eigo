@@ -1,0 +1,9 @@
+Use case: scientific-educational; dense portrait 9:16 grammar page. Source p.134–135 for concepts only; all expression original.
+Top title: 「名詞は3回しぼり込む」
+Scene: adventure-library sorting telescope. Leopard explorer filters a cloud of objects through three rings.
+Mechanism rings: 「1 数えられる？ 可算 / 不可算」 「2 いくつ？ 単数 / 複数」 「3 どれ？ a・the・some・this」. Add quantity contrast 「many + 数」 vs 「much + 量」.
+Original examples: 「many postcards」 「much sunlight」 「I like birds.」一般; 「I like the bird by the window.」特定; 「We need some water.」具体的な量。
+Mini check: choose many/much in 「We don't get ___ snow here.」 Answer: much — snow is treated as amount.
+Takeaway: 「名詞の前で、数と具体性を決める」
+Include central illustration, diagram, 4 examples, concise Japanese, question+answer. PAGE_0001 style, mascot new pose, no page number/source identity.
+

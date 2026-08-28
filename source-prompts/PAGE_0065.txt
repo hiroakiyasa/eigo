@@ -1,0 +1,9 @@
+Use case: scientific-educational; dense 9:16 page. Source p.142–143 concepts only.
+Top title: 「数えられないものは、単位で数える」
+Scene: adventure-library café-laboratory. Leopard server measures liquids, slices, sheets, and pieces.
+Mechanism: container/shape/unit + of + mass noun.
+Original examples: 「two cups of tea」 「three slices of bread」 「a sheet of paper」 「four pieces of chocolate」 「five liters of water」 with simple Japanese labels.
+Mini check: complete 「two ___ of information」 choices pieces / informations. Answer: pieces — information itself does not become plural.
+Takeaway: 「入れ物・形・量を数えて、of でつなぐ」
+Central café illustration, mechanism diagram, 5 examples, question+answer; approved style, no page number/source marks.
+

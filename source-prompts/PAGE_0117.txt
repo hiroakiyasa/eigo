@@ -1,0 +1,18 @@
+Use case: scientific-educational
+Asset type: dense portrait nuanced-comparison page for an illustrated English grammar book
+Primary request: Teach past participles as productive state/result adjectives, including completed-event meanings, then clearly distinguish emotional -ing causes from -ed experiencers. Source pages 246–247 guide coverage only; copy nothing.
+Input images: mascot appearance only; PAGE_0001 design reference only.
+Canvas: strict 9:16 portrait, dense and phone-readable, no page number.
+Top title (verbatim): 「-ingは原因、-edは感じた人」
+Central illustration: the leopard explorer in an emotion-scientist pose watches a glowing movie screen send sparks toward a surprised viewer; arrows label cause and receiver. Side shelf shows fallen leaves and a retired captain as completed results.
+Mechanism diagram: “thing/event + -ing＝感情を起こす” → arrow → “person + -ed＝感情を起こされた”. Small result badge: “fallen / retired＝出来事が完了した状態”.
+Original example cards:
+1. “The maze was frustrating.” / 「迷路がいら立たせる原因」
+2. “We were frustrated.” / 「私たちがいら立ちを感じた」
+3. “The news is surprising.” / 「知らせが驚かせる」
+4. “Leo looked surprised.” / 「Leoが驚いた状態」
+Mini practice: 「ミニ問題　正しい語は？」 “I was (boring / bored) during the wait.”
+Answer: 「答え　bored」 「Iは退屈を感じた側なので-ed。」
+Bottom ribbon: 「何が感情を起こす？ 誰が感情を受ける？」
+Style: glossy PAGE_0001 adventure-library emotion lab, blue/yellow/white, gold arrows and dimensional word blocks, crisp outlines, red only on cause→person arrow, one mascot.
+Constraints: no source wording/examples/figures/layout/order, source title, citation, logo, ISBN, watermark, page number, or extra prose; no photorealism, dark background, or unreadable text.

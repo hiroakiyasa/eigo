@@ -1,0 +1,33 @@
+Create a polished, dense educational English grammar page in portrait 9:16. Match the supplied cover's blue-gold-white-red explorer aesthetic with a gold frame, two colorful trails, concise learning cards, and crisp typography. Use the exact same leopard explorer mascot standing at a fork: a forward-pointing TO trail and a vivid ongoing -ING trail. No page number, source name, watermark, logo, or copied source material.
+
+Top Japanese title: 「動詞が選ぶ to と-ing」
+
+Central fork diagram:
+TO trail = 「これからの行為へ向かう」
+-ING trail = 「具体的・経験済みの場面」
+
+TO-friendly verb constellation grouped by meaning: decide, hope, plan, promise, offer, refuse, manage. Original examples:
+• We decided to camp near the lake. 「これからキャンプすると決めた」
+• Nao promised not to share the password. 「今後しないと約束」
+
+-ING-friendly verb constellation: admit, avoid, enjoy, finish, mind, practice, suggest, consider. Original examples:
+• He admitted copying the file. 「実際の行為を認めた」
+• Would you mind closing the curtain? 「カーテンを閉める行為を気にする？」
+
+Meaning-change switchboard with paired examples:
+REMEMBER
+• Remember to charge the camera. 「これから充電するのを忘れない」
+• I remember charging the camera. 「充電した記憶がある」
+REGRET
+• We regret to announce the delay. 「これから知らせるのが残念」
+• She regrets ignoring the warning. 「実際に無視したことを後悔」
+TRY
+• Try restarting the tablet. 「方法として実際に試す」
+• I tried to lift the stone. 「持ち上げようと努力した」
+STOP
+• He stopped talking. 「話すのをやめた」
+• He stopped to talk. 「話すために立ち止まった」
+
+Mini practice: 「“鍵をかけた記憶がある” は？ remember ___ the door」 Answer: 「locking」. Reason: 「すでに起きた具体的な行為の記憶なので-ing」.
+
+Bottom takeaway: 「未来へ矢印ならto／リアルな場面なら-ing」. Dense but neatly organized and fully readable.

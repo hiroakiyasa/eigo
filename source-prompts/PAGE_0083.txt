@@ -1,0 +1,14 @@
+Use case: scientific-educational
+Asset type: dense portrait comparison page for an illustrated English grammar book
+Primary request: Teach three ways of making a general statement about a whole class: bare plural or uncountable noun, a/an plus singular representative, and the plus singular species/category. Emphasize that the bare plural is the everyday default. Source pages 178–179 guide coverage only; make all sentences and graphics original.
+Input images: mascot appearance only; PAGE_0001 design system only.
+Canvas: strict 9:16 portrait, full-bleed, dense, no page number.
+Top title (verbatim): 「“〜というもの”を語る3つの道」
+Central illustration: the leopard explorer in a telescope pose views a flock of glowing birds through three lenses: broad panorama, one representative sample, and formal species emblem.
+Mechanism diagram: three routes: “Birds fly south in winter.＝複数を広く見る【会話の基本】”; “A penguin cannot fly.＝代表1羽から全体へ”; “The tiger is a powerful hunter.＝種としてひとまとめ【やや硬い】”. Note: “不可算名詞も無冠詞で一般論: Music connects people.”
+Additional original example card: “I enjoy puzzles.” / 「特定の1問でなく、パズル全般」
+Mini practice: 「ミニ問題　自然な一般論は？」 choices “I like a cat.” / “I like cats.”
+Answer: 「答え　I like cats.」 「好みを広く言うなら無冠詞の複数形。」
+Bottom ribbon: 「迷ったら、可算名詞は複数・不可算名詞はそのまま」
+Style: PAGE_0001 blue-yellow-white adventure library observatory, dimensional lenses and grammar blocks, gold routes, crisp outlines, red only for the default route; mascot once, accurate type.
+Constraints: no copied source text/examples/figures/layout/order, source title, citation, logo, ISBN, watermark, page number, or extra prose; avoid photorealism, dark background, sparse poster, and tiny text.

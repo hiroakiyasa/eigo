@@ -1,0 +1,14 @@
+Use case: scientific-educational; dense 9:16 portrait synthesis page. Independently contrast it as a receiver with this/that as pointers, then teach situational it for weather, time, day/date, distance, ambient conditions, and “Who is it?”. Source p.212–213 is coverage only.
+Input references: mascot appearance and PAGE_0001 unified visual system.
+Top title: 「itは、ものも状況も受け止める」
+Central illustration: leopard explorer as a weather-station operator holds a wide glowing bowl labeled IT that receives a partner’s pointing beam and the surrounding sky, clock, calendar, doorway, and route.
+Mechanism: contrast 「this / that＝こちらから指す」 versus 「it＝相手の発言・既知の内容を受ける」. Situation wheel: 「天気」「明るさ・雰囲気」「時刻・曜日」「距離」「正体がまだ見えない相手」 all feed into it. Add contrast badge 「ドア越し：Who is it? / 目の前の人に：Who are you?」.
+Original examples:
+1. “What is that? — It’s a solar charger.” / 「相手のthatをitで受ける」
+2. “It’s getting chilly in here.” / 「周囲の状況」
+3. “It’s Friday, and it’s nearly six.” / 「曜日と時刻」
+4. “It’s two kilometers to the lighthouse.” / 「ここからの距離」
+Mini problem: 「ミニ問題：ドアがノックされたら？」 choices “Who is it?” / “Who are you?” 「答え：Who is it?」 「見えない相手が作る状況をitで受ける。」
+Bottom ribbon: 「目の前の空気ごと受けると、itが自然に出てくる」
+Style: cover-quality adventure-library weather observatory, blue/yellow/white, glossy receiving bowl and situation wheel, thick outlines, red only for pointer/receiver contrast, phone-readable.
+Constraints: no page number, copied source examples/figures/metaphor/prose/layout, source identity, logo, citation, watermark, blank answer field, or photorealism. One mascot in weather-operator pose.

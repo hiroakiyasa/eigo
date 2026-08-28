@@ -1,0 +1,18 @@
+Create a polished information-dense English grammar book page, portrait 9:16, matching the supplied cover's energetic explorer style. Same leopard mascot carrying four movable grammar capsules into sentence slots. No page number, source identity, watermark, or logo.
+
+Top Japanese title: 「文法パーツは配置で働く」
+
+Central sentence workshop: four slots labelled 主語 / 目的語 / 名詞の後ろ / 文全体への説明. Movable packages include -ing, to-infinitive, past participle, and clause. Explain that a package's position determines its job.
+
+Original examples:
+• Exploring old libraries is exciting. 「-ingが主語」
+• Mia enjoys exploring old libraries. 「-ingが目的語」
+• The child exploring the attic found a diary. 「childを後ろから説明」
+• To find the key, Leo checked every drawer. 「目的を文全体に追加」
+• The compass damaged in the storm was repaired. 「過去分詞がcompassを説明」
+
+Show minimal skeleton first, then attach packages with arrows. Stress that meaning comes from both internal form and sentence position.
+
+Mini practice: what is “Collecting stamps” in “Collecting stamps relaxes me”? Answer: subject; reason 「述語relaxesの前で名詞相当のまとまり」.
+
+Takeaway: 「形をひとかたまりにして、必要な席へ置く」. Dense workshop visual, examples, problem and answer.

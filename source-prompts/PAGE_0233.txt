@@ -1,0 +1,10 @@
+Use case: scientific-educational; dense 9:16 portrait grammar page. Introduce past participles and the passive as a change of viewpoint, based on p.478–479 coverage.
+Input references: PAGE_0001 design and mascot identity.
+Top title: 「“する”から“される”へ視点移動」
+Central illustration: mascot as a film director swivels a camera from an ACTION DOER to the RECEIVER. A transformation stage moves the active object into the subject spotlight and combines BE + past participle.
+Mechanism: 「過去分詞＝〜される視点」「能動：行為者→対象」「受動：対象を主語にして注目」「形＝主語 + be + 過去分詞」「行為者を言う必要があればby」.
+Original examples: “A wave knocked over the canoe.” / 「波がカヌーを倒した」; “The canoe was knocked over by a wave.” / 「カヌーに視点」; “Someone repaired the clock.” / 「誰かが時計を直した」; “The clock was repaired.” / 「時計の復旧が話題」.
+Mini problem: 「ミニ問題：窓を主役に」 “The wind broke the window.” Answer 「The window was broken by the wind.」 Reason 「対象the windowを主語のスポットへ移す。」
+Bottom ribbon: 「受動文は出来事を変えず、カメラ位置を変える」
+Style: glossy adventure-library movie studio, blue/gold/white/red camera beams, thick outlines, dense educational comparison.
+Constraints: exact 9:16; no page number, copied source examples/figures/text/layout, logo, citation, watermark, blank answer field, or photorealism. One mascot director.

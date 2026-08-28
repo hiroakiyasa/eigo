@@ -1,0 +1,19 @@
+Use case: scientific-educational
+Asset type: dense 9:16 portrait comparison-boundary page
+Primary request: Independently teach than as a boundary showing contrast and separation, plus rather than, superior/senior + to, and negative/any modifiers around comparatives. Source pages 302–303 are coverage only; use new examples and a new diagram.
+Input images: mascot appearance reference; PAGE_0001 design reference.
+Canvas: strict 9:16 portrait, no page number, safe margins.
+Top title: 「thanは差を見せる境界線」
+Central illustration: mascot in a contrast-gatekeeper pose compares two glowing level towers across a THAN gate, then points away from one choice toward another.
+Mechanism diagram: 「比較級 → than → 比較の基準」; branch 「rather than＝Aを離れてBを選ぶ」; exception tag 「superior / senior + to」; modifier strip 「not / no / any + 比較級」.
+Original example cards:
+1. “This bridge is safer than the old one.” / 「old oneを基準に差を示す」
+2. “I chose tea rather than coffee.” / 「coffeeではなくteaを選ぶ」
+3. “This design is superior to ours.” / 「superiorはtoと組む」
+4. “Are you feeling any better?” / 「少しでも改善したか」
+Mini practice box: 「ミニ確認：Mia runs faster than ___.”」 「答え：me」 「thanの後ろの代名詞は会話では目的格が自然。」
+Bottom takeaway: 「thanは、基準点からどれだけ離れたかを示す」
+Style: bright glossy adventure-library contrast gate, blue/gold/white, red boundary line, thick outlines, 3D level towers, dense but readable.
+Typography: exact English punctuation and Japanese.
+Constraints: no page number, copied source expression/layout, source identity, logo, citation, watermark, or extra quiz. Mascot once in gatekeeper pose.
+Avoid: tiny exception note, dark gate, giant character.

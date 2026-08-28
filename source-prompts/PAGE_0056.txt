@@ -1,0 +1,19 @@
+Use case: scientific-educational
+Asset type: dense 9:16 portrait comparison page
+Primary request: Independently distinguish look, see, watch, listen, and hear by action versus reception and by degree of attention. Source pages 124–125 are coverage only; copy no wording, examples, diagrams, or layout.
+Input images: mascot appearance reference; PAGE_0001 design reference.
+Canvas: strict 9:16 portrait, no page number, safe margins.
+Top title: 「見る・聞くは、動作か感覚か」
+Central illustration: mascot in a two-sided sensory-lab pose. On the left he actively points eyes and ears outward; on the right light and sound waves arrive at him. A focused watch beam sits between.
+Mechanism diagram: 2×2 matrix: 「自分から向ける：look / listen」 and 「向こうから入る：see / hear」, with 「watch＝集中して見続ける」 across the center.
+Original example cards:
+1. “Look at the tiny footprint.” / 「視線を自分から向ける」
+2. “I can see a tower beyond the trees.” / 「景色が目に入ってくる」
+3. “We watched the comet for an hour.” / 「集中して変化を見続ける」
+4. “Listen—the bell is ringing. I can hear it.” / 「耳を向ける→音が入る」
+Mini practice box: 「ミニ確認：『音楽に耳を傾ける』は listen / hear？」 「答え：listen」 「意識して耳を向ける動作だから。」
+Bottom takeaway: 「look・listen は動作、see・hear は感覚」
+Style: bright adventure-library sensory observatory, glossy wave diagrams, blue/yellow/white with small red focus beam, thick outlines, rich central scene and readable comparison cards.
+Typography: exact English punctuation, bold Japanese Gothic.
+Constraints: no page number, source expression/layout reuse, source identity, logo, citation, watermark, or extra quiz. Mascot once in a distinct lab pose.
+Avoid: confusing arrows, tiny captions, huge mascot, dark observatory.

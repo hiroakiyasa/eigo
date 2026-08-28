@@ -1,0 +1,20 @@
+Create a polished, content-rich English grammar book page in portrait 9:16, matching the supplied cover's vivid explorer design. Same leopard mascot plugging clause content into three sentence sockets. No page number, source name, watermark, or logo.
+
+Top Japanese title: 「節で中身を説明する」
+
+Central three-socket grammar board:
+1 after be: explains the subject's content;
+2 after thought/speech/question verbs: gives what is thought, said, known, asked;
+3 after a preposition in suitable patterns: noun-like wh content.
+
+Original examples:
+• The question is whether our team is ready. 「questionの中身」
+• I think that the north path is safer. 「考えている内容」
+• I remember where we hid the key. 「隠した場所」
+• Success depends on what we do next. 「次に何をするか」
+
+Show clause labels THAT = statement, WHETHER/IF = yes-or-no uncertainty, WH = specific missing information. Note that embedded questions use statement order.
+
+Mini practice: correct “Tell me where is the station.” Answer: “Tell me where the station is.” Reason: 「組み込み節では主語→動詞の順」.
+
+Takeaway: 「節は、主語や動詞が必要とする『中身』を届ける」. Rich socket diagram, examples, problem+answer.

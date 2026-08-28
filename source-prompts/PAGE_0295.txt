@@ -1,0 +1,14 @@
+Use case: scientific-educational
+Asset type: dense illustrated sequence-of-tenses page, portrait 9:16
+Primary request: Introduce backshifting in reported content. Show that a past reporting verb creates a past-time frame that normally pulls present forms one step back, while a present-perfect reporting frame remains anchored in the present. Create new metaphors, examples, and diagrams.
+Input images: PAGE_0001 approved visual style; mascot_reference exact leopard explorer.
+Canvas: exact 941×1672, strict 9:16, no page number.
+Top Japanese title: 「過去の箱に入れると時制も過去」
+Central illustration: the leopard archivist places a bright quote card into a blue PAST chest; inside gears change am→was, love→loved, will→would.
+Mechanism diagram: DIRECT NOW “Nora says: ‘I am busy.’” → LATER REPORT “Nora said she was busy.”; reporting verb is the outer time frame, reported clause is the inner card. Present perfect exception: “I’ve always believed this is useful.” anchored at NOW.
+Original example cards: “Ren said the shop closed at six.” / 「saidに合わせてclosed」; “I thought the puzzle was easy.” / 「thought→was」; “Aya promised she would send the photo.” / 「will→would」; “Where did you say you were from?” / 「瞬時の聞き返しでも一致」.
+Mini practice: 「Ken said, ‘I need a break.’ → Ken said he (needs / needed) a break.」 Answer: “needed”. Reason: 「過去のsaidがレポート内容を過去枠へ入れる。」
+Bottom takeaway: 「主節が過去なら、内容もまず一歩過去へ」
+Style: glossy blue-gold archive chest, red arrows, thick outlines, structured example cards, mascot once as fast archivist.
+Constraints: no page number, copied source diagram/sentence, source identity, logo, citation, watermark.
+Avoid: calling the shift a change in real-world truth, tiny conjugation labels.

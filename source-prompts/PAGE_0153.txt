@@ -1,0 +1,18 @@
+Use case: scientific-educational
+Asset type: dense portrait mechanism page for an illustrated English grammar book
+Primary request: Explain that not negates the content after it and teach basic sentence negation when a modal already exists: modal + not + base verb. Source pages 318–319 guide coverage only; invent all examples and visuals.
+Input images: mascot appearance only; PAGE_0001 design only.
+Canvas: strict 9:16 portrait, dense, no page number.
+Top title (verbatim): 「notは後ろを打ち消す」
+Central illustration: the leopard explorer in a red-stop-sign pose places a NOT shield immediately before glowing action blocks on a library conveyor.
+Mechanism diagram: “主語 → 助動詞 + not → 動詞原形”. Branch badges “can’t＝できない”, “mustn’t＝してはいけない”, “won’t＝するつもりがない”. Note: 「時・判断は助動詞、動詞は原形」.
+Original example cards:
+1. “I can’t lift this chest.” / 「canの可能性を否定」
+2. “You mustn’t touch the crystal.” / 「禁止を表す」
+3. “We won’t leave without you.” / 「未来の意志を否定」
+4. “It may not rain tonight.” / 「may notには一般的な短縮なし」
+Mini practice: 「ミニ問題　正しい形は？」 choices “She can’t swims.” / “She can’t swim.”
+Answer: 「答え　She can’t swim.」 「助動詞の後ろは動詞原形。」
+Bottom ribbon: 「助動詞があるなら、その直後にnot」
+Style: glossy PAGE_0001 adventure-library conveyor, blue/gold/white, dimensional blocks, red only for negation, thick outlines, one mascot, readable typography.
+Constraints: no source wording/examples/figures/layout/order, source identity, citation, logo, ISBN, watermark, page number, or added prose; no photorealism or tiny text.

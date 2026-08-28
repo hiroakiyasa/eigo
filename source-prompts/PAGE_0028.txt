@@ -1,0 +1,16 @@
+Use case: scientific-educational
+Asset type: dense 9:16 portrait English-grammar page
+Primary request: Independently explain the transitive sentence pattern as verb energy directly reaching one object, including noun-like object chunks and object pronouns. Source pages 68–69 are coverage only; create original prose, examples, mechanism, scene, and layout.
+Input images: mascot appearance reference and PAGE_0001 design reference.
+Canvas: strict 9:16 portrait, rich educational detail, no page number.
+Top title (verbatim): 「動詞の力が、目的語へ届く」
+Central illustration: the leopard explorer in an archer-scientist pose launches a bright red VERB energy arrow from a blue SUBJECT platform directly into a golden OBJECT target. The grammar rail reads 「主語＋動詞＋目的語」.
+Mechanism diagram: 「だれが／なにが」→「働きかける」→「何に？」. Add tags 「目的語は名詞の場所」「行動のまとまりも置ける」「代名詞は me / him / her / us / them」. Include a compact strength contrast: “I know her.” = 「本人を直接知る」 versus “I know about her.” = 「彼女について情報を知る」.
+Required original examples:
+1. “The magnet pulled the pin.” / 「pull の力が pin へ届く」
+2. “Leo enjoys solving riddles.” / 「solving riddles 全体が目的語」
+3. “The guide invited us.” / 「目的語の位置では us」
+Mini practice box: 「ミニ問題：目的語はどれ？」 “Mia opened the dusty chest.” 「答え：the dusty chest」 「opened の力が直接届く対象。」
+Bottom takeaway ribbon: 「動詞のあとで“何に？”を受け止めるのが目的語」
+Style: glossy blue-yellow-white adventure-library target hall, thick outlines, dimensional sentence rail, controlled red energy arrow, compact readable cards.
+Constraints: no page number, source marks, copied source examples/diagram/prose/layout, logo, citation, watermark, answer-writing field, violent imagery, or photorealism. One mascot in distinct archer-scientist pose.

@@ -1,0 +1,18 @@
+Use case: scientific-educational
+Asset type: dense portrait classification page for an illustrated English grammar book
+Primary request: Explain how article choice changes the scope of a noun, then organize the “other” family and the sound-based choice of a/an. Source pages 176–177 are coverage guidance only; create new examples, visual metaphors, and wording.
+Input images: mascot identity reference only; PAGE_0001 visual reference only.
+Canvas: strict 9:16 portrait, dense educational page, no page number.
+Top title (verbatim): 「決まり方で“ほか”を選ぶ」
+Central illustration: the leopard explorer in a compass-sorting pose at a four-way shelf of glowing artifacts: one remaining item, one extra item, all remaining items, and several unspecified items.
+Mechanism diagram: “the reason＝決まった1つ / a reason＝候補の1つ / the reasons＝決まった理由全部 / reasons＝限定しない複数”. Below, four concise badges: “the other＝残りの1つ”, “another＝もう1つ”, “the others＝残り全部”, “others＝ほかのいくつか”. Sound rule badge: “a + 子音の音 / an + 母音の音”.
+Original example cards:
+1. “This lamp is dim; try the other.” / 「2つなら残りは1つに決まる」
+2. “May I borrow another pen?” / 「候補からもう1本」
+3. “The others are inside the case.” / 「残りの品を全部」
+4. “It took an hour at a university lab.” / 「つづりでなく最初の音で判断」
+Mini practice: 「ミニ問題　a / an？」 “___ honest answer”
+Answer: 「答え　an」 「honest は h を発音せず、母音の音で始まる。」
+Bottom ribbon: 「the・a・複数形で、範囲がくっきり変わる」
+Style: approved blue-yellow-white adventure-library shelf puzzle, gold rails, dimensional badges, bold outlines, red only for decisive article cues, one mascot, phone-readable type.
+Constraints: original content only; no source wording/examples/figures/layout, citation, source identity, logo, ISBN, watermark, page number, or added prose; no photorealism or tiny lettering.

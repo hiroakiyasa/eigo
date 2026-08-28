@@ -1,0 +1,31 @@
+Create a polished, information-dense educational English grammar page in portrait 9:16, matching the supplied cover's unified blue-gold-white-red explorer aesthetic. Use the exact same leopard explorer mascot holding question-word signposts and chasing a vague IT bubble with a golden TO explanation arrow. No page number, source name, watermark, logo, copied art, or copied example.
+
+Top Japanese title: 「wh＋toとit＋toで情報完成」
+
+Upper section: WH-word + TO infinitive as a compact “question inside a sentence.” Show four signposts feeding into action arrows:
+• what to pack 「何を詰めるべきか」
+• when to leave 「いつ出発すべきか」
+• where to meet 「どこで会うべきか」
+• which route to take 「どの道を選ぶべきか」
+Original sentence examples:
+• I can’t decide what to pack. 「何を詰めるか決められない」
+• Show us where to place the tent. 「テントをどこに置くか教えて」
+• Please tell me which button to press. 「どのボタンを押すか教えて」
+Mechanism caption: 「whだけでは足りない → to doで“何をするか”を完成」.
+
+Lower main section: IT + adjective/judgment + TO explanation. Depict IT as a translucent placeholder bubble, then TO arrives with concrete content.
+Subject-pattern examples:
+• It is difficult to read this tiny map. 「難しい→何が？ 小さな地図を読むこと」
+• It is essential for every climber to carry water. 「誰が？ every climber」
+Object-pattern examples:
+• I found it useful to label every bag. 「役立つと思った→何が？ ラベルを付けること」
+• We thought it wise to turn back early. 「早く引き返すのが賢明と考えた」
+
+Build two formulas in gold frames:
+It + be + adjective + (for person) + to do
+verb + it + adjective + to do
+Add note: 「itは先に状況を受け、toが具体的内容を後から補う」.
+
+Mini practice: 「“誰に相談すべきか分からない” I don’t know ___ to ask.」 Answer: 「who」. Reason: 「尋ねる相手を表す疑問語＋to不定詞」.
+
+Bottom takeaway ribbon: 「足りない疑問語やitを、to不定詞が追いかけて完成させる」. Dense, coherent, crisp typography, high learning value.

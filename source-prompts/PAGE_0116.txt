@@ -1,0 +1,18 @@
+Use case: scientific-educational
+Asset type: dense portrait mechanism page for an illustrated English grammar book
+Primary request: Show how nouns, -ing forms, and past participles can function as modifiers; emphasize noun-noun category labels, -ing’s active/lively image, and past participle’s passive/result image. Source pages 244–245 guide coverage only; use new language, examples, visuals, and order.
+Input images: mascot identity reference only; PAGE_0001 visual-system reference only.
+Canvas: strict 9:16 portrait, full-bleed, no page number.
+Top title (verbatim): 「名詞も動詞も、形容詞になれる」
+Central illustration: the leopard explorer in a transformation-lab pose feeds noun, -ing, and past-participle crystals into a modifier machine that places them before or after noun blocks.
+Mechanism diagram: three lanes: “名詞＋名詞＝用途・種類”, “-ing＝自ら動く／働きかける”, “過去分詞＝〜された状態”. Note: 「名詞の前後という場所が修飾機能を与える」.
+Original example cards:
+1. “a mountain trail” / 「mountainがtrailの種類を示す」
+2. “a smiling guard” / 「guardがほほえんでいる」
+3. “The puzzle is confusing.” / 「人を迷わせる性質」
+4. “a locked cabinet” / 「鍵をかけられた状態」
+Mini practice: 「ミニ問題　“壊された橋”は？」 choices “a breaking bridge” / “a broken bridge”
+Answer: 「答え　a broken bridge」 「橋は壊す側でなく、壊された状態。」
+Bottom ribbon: 「-ingは動き、過去分詞は受けた結果を映す」
+Style: PAGE_0001 blue-yellow-white adventure-library laboratory, gold machine, glossy dimensional forms, bold outlines, red only for active/passive split, one mascot, readable text.
+Constraints: original examples and layout; no source wording/figures/order, identity, citation, logo, ISBN, watermark, page number, or extra prose; no photorealism or tiny type.

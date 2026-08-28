@@ -1,0 +1,18 @@
+Use case: scientific-educational
+Asset type: dense portrait mechanism page for an illustrated English grammar book
+Primary request: Explain verb–sentence-pattern compatibility, including verbs that work both without and with an object, plus the rise/raise and lie/lay contrasts. Source pages 82–83 are coverage guidance only; invent all teaching language, examples, graphics, and practice.
+Input images: Image 1 mascot identity reference only; Image 2 PAGE_0001 style reference only.
+Canvas: strict 9:16 portrait, full-bleed, no page number.
+Top title (verbatim): 「動詞には、得意な文型がある」
+Central original illustration: the leopard explorer in a key-testing pose tries verb-shaped keys in two glowing doors labeled 「自動型」 and 「他動型」 inside the adventure library.
+Mechanism diagram: left route “S + V” with icon 「主体が動く」; right route “S + V + O” with icon 「対象を動かす」. Pair cards “rise = 上がる / raise + O = Oを上げる” and “lie = 横たわる / lay + O = Oを置く”.
+Original example cards:
+1. “The curtain opened.” / 「カーテンが開いた」
+2. “Nia opened the treasure box.” / 「Niaが箱を開けた」
+3. “Mist rose above the lake.” / 「霧が上がった」
+4. “Leo raised the blue flag.” / 「旗を上げた」
+Mini practice box: 「ミニ問題　正しい語は？」 “Please ___ the notebook here.” choices “lie / lay”
+Answer box: 「答え　lay」 「notebook という目的語を置くから lay。」
+Bottom ribbon: 「目的語があるかを見れば、動詞の役割が見える」
+Style: PAGE_0001 blue-yellow-white adventure library, glossy dimensional doors and blocks, golden route lines, bold outlines, red only for the object cue; cute mascot once, accurate large text.
+Constraints: original examples/metaphor/layout; no source wording, figures, identity, citation, logo, ISBN, watermark, page number, or extra prose; no photorealism, sparse poster, dark background, or unreadable text.

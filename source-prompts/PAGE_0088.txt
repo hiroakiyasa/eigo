@@ -1,0 +1,18 @@
+Use case: scientific-educational
+Asset type: dense portrait contrast page for an illustrated English grammar book
+Primary request: Teach each as an item-by-item spotlight with flexible placement, contrast it with all and every, then introduce no as a forceful zero limiter for count and noncount nouns. Source pages 188–189 guide coverage only; invent every example and visual.
+Input images: mascot appearance only; PAGE_0001 design system only.
+Canvas: strict 9:16 portrait, dense educational composition, no page number.
+Top title (verbatim): 「eachは一つずつ、noはゼロ」
+Central illustration: the leopard explorer in a spotlight-inspector pose checks three compass crystals one at a time; beside them, a dramatic but bright ZERO gate closes an empty shelf.
+Mechanism diagram: “all＝ひとまとめ / every＝全体の全員を点検 / each＝個別を強く見る”. Placement strip: “Each ticket costs ¥500. / The tickets cost ¥500 each.” Zero panel: “no + 不可算 / 単数 / 複数”; note “単数は『1つとしてない』を強く響かせる”.
+Original example cards:
+1. “Each cabin has a radio.” / 「小屋を1軒ずつ確認」
+2. “We each carried a lantern.” / 「eachは主語の後ろにも置ける」
+3. “There is no milk left.” / 「残量はゼロ」
+4. “No visitors are allowed here.” / 「訪問者は一人も入れない」
+Mini practice: 「ミニ問題　1個ずつなら？」 “The gems weigh two grams (all / each).”
+Answer: 「答え　each」 「宝石それぞれの重さを示す。」
+Bottom ribbon: 「eachは個別の光、noは数量を0にする力」
+Style: glossy blue-yellow-white PAGE_0001 adventure library, gold spotlights and dimensional ZERO gate, crisp outlines, red only for zero, one mascot, large accurate text.
+Constraints: no copied source wording/examples/figures/layout/order, identity, citation, logo, ISBN, watermark, page number, or extra prose; no dark photorealism or unreadable text.

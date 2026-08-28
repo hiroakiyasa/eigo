@@ -1,0 +1,17 @@
+Create a polished, content-rich English grammar page in portrait 9:16, matching the supplied cover's vivid blue-and-gold style. Same leopard architect mascot constructing a sentence building layer by layer. No page number, source name, watermark, or logo.
+
+Top Japanese title: 「長い文は骨組みから組み立てる」
+
+Central construction diagram: 1 find the core subject + verb + object/complement; 2 add small modifiers; 3 attach larger free elements. Use color-coded structural layers rather than a fixed page template.
+
+Build-up sequence with original sentences:
+• Mia opened the box. 「骨組み」
+• Mia carefully opened the box on the shelf. 「様子＋場所」
+• Hoping to find a clue, Mia carefully opened the box on the shelf. 「気持ち・目的を追加」
+• The box hidden behind the books contained a key. 「過去分詞でboxを説明」
+
+Add a deconstruction strip: “Hoping to help, Leo carried the heavy bag upstairs.” Highlight core “Leo carried the bag”; label Hoping to help = background motive, heavy = noun modifier, upstairs = direction.
+
+Mini practice: find the core in “Surprised by the noise, Mina quickly closed the window.” Answer: “Mina closed the window.” Reason: 「残りは状態と様子を足す修飾」.
+
+Takeaway: 「まず骨格、あとから情報の層を重ねる」. Architect scene, step arrows, examples, question+answer.

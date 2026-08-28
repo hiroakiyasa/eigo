@@ -1,0 +1,18 @@
+Use case: scientific-educational
+Asset type: dense portrait intuitive-concept page for an illustrated English grammar book
+Primary request: Explain “some” as a softly visible but unspecified amount or group, usable with count and noncount nouns, and contrast its blur with several’s more concrete small number. Include related some-words and “some...others”. Source pages 180–181 guide coverage only; copy nothing.
+Input images: mascot reference only; PAGE_0001 style reference only.
+Canvas: strict 9:16 portrait, dense but clear, no page number.
+Top title (verbatim): 「someは、ぼんやり見える“ある”」
+Central illustration: the leopard explorer in a fog-lantern pose shines light on a softly outlined group of fireflies and a jar of honey inside the adventure library; exact quantities remain hidden.
+Mechanism diagram: glowing cloud “some + 複数可算名詞 / 不可算名詞”; branches “someone・something・somewhere＝誰か・何か・どこか” and “some A, others B＝AもいればBもいる”. Contrast lens: “some＝数を特定しない / several＝具体的な数個を思い浮かべる”.
+Original example cards:
+1. “Some fireflies entered the hall.” / 「何匹かは決めていない」
+2. “We need some honey for the tea.” / 「量をぼんやり示す」
+3. “Some prefer maps; others use stars.” / 「一方もいれば、ほかもいる」
+4. “I left my scarf somewhere.” / 「場所が特定できない」
+Mini practice: 「ミニ問題　自然なのは？」 “I need (some / a) information.”
+Answer: 「答え　some」 「information は不可算なので、量を some で示す。」
+Bottom ribbon: 「someは数字ではなく、“ある”という気配を置く」
+Style: glossy blue-yellow-white adventure-library fog chamber, gold lantern glow, dimensional cards, thick outlines, red only for count/noncount cue, one mascot, readable Gothic text.
+Constraints: fully original examples and layout; no source wording/figures, identity, citation, logo, ISBN, watermark, page number, or extra prose; no photorealism, dark page, sparse poster, or unreadable text.

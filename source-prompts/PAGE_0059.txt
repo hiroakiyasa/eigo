@@ -1,0 +1,19 @@
+Use case: scientific-educational
+Asset type: dense 9:16 portrait nuance page
+Primary request: Independently teach want as a felt lack and contrast it with the softer social choice would like. Source pages 130–131 are coverage only; do not reuse examples, source illustration, wording, or layout.
+Input images: mascot appearance reference; PAGE_0001 design reference.
+Canvas: strict 9:16 portrait, no page number, full-bleed, safe margins.
+Top title: 「want は、足りないから欲しい」
+Central illustration: mascot in a thoughtful wish-collector pose beside a puzzle with one missing golden piece. One direct bright beam is WANT; a softer courteous ribbon is WOULD LIKE.
+Mechanism diagram: 「欠けている」→「補いたい」→「want」, then a politeness filter transforms it into 「would like＝やわらかな希望」. Add pattern blocks 「want + 名詞」 「want + 人 + to 動詞」 「would like + 名詞 / to 動詞」.
+Original example cards:
+1. “I want a stronger flashlight.” / 「足りない物を直接求める」
+2. “Mia wants us to leave early.” / 「us が leave することを望む」
+3. “I’d like some hot tea, please.” / 「相手にやわらかく希望を伝える」
+4. “We’d like to join the tour.” / 「丁寧に行動の希望を示す」
+Mini practice box: 「ミニ確認：店で丁寧に水を頼むなら？」 「答え：I’d like some water, please.」 「would like が直接的な欲求をやわらげる。」
+Bottom takeaway: 「want は直接的、would like はやわらかい」
+Style: bright glossy adventure-library wish chamber, blue/yellow/white, gold missing piece, thick outlines, compact pattern blocks and example cards, limited red accent.
+Typography: exact English and Japanese; no extra text.
+Constraints: no page number, source reuse, source identity, logo, citation, watermark, or additional exercise. Mascot once in a distinct pose.
+Avoid: romance clichés, sparse poster, tiny copy, dark scene.

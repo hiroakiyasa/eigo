@@ -1,0 +1,18 @@
+Use case: scientific-educational
+Asset type: dense portrait position-and-meaning comparison page for an illustrated English grammar book
+Primary request: Teach adjectives specialized for pre-noun limitation versus post-be description, and show how certain, late, present, and old change nuance with position. Source pages 242–243 guide coverage only; independently create examples and graphics.
+Input images: mascot appearance only; PAGE_0001 style only.
+Canvas: strict 9:16 portrait, dense, no page number.
+Top title (verbatim): 「位置で変わる、形容詞の顔」
+Central illustration: the leopard explorer in a double-door curator pose turns reversible adjective medallions at a front-position gate and a description-position gate.
+Mechanism diagram: “前専門：only / main / former＝名詞を限定” and “後ろ専門：asleep / afraid / alive / awake / alone＝状態を説明”. Meaning-flip badges: “a certain visitor＝ある特定の訪問者 / I am certain.＝確信している”; “an old friend＝昔からの友人 / The friend is old.＝高齢”.
+Original example cards:
+1. “This is our main entrance.” / 「mainは前で種類を限定」
+2. “The baby is asleep.” / 「asleepは後ろで状態説明」
+3. “A certain musician called.” / 「具体的だが名を示さない」
+4. “I’m certain the door is locked.” / 「確信している」
+Mini practice: 「ミニ問題　自然なのは？」 choices “an asleep cat” / “The cat is asleep.”
+Answer: 「答え　The cat is asleep.」 「asleepは状態を後ろから説明する語。」
+Bottom ribbon: 「前は種類、後ろは状態。位置が意味を選ぶ」
+Style: polished PAGE_0001 adventure-library gallery, blue/yellow/white, dimensional medallions and gold gates, crisp outlines, red only for position contrast, mascot once.
+Constraints: no source wording/examples/figures/layout/order, source identity, citation, logo, ISBN, watermark, page number, or extra prose; avoid photorealism and tiny text.

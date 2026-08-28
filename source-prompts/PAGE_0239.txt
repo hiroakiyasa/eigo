@@ -1,0 +1,10 @@
+Use case: scientific-educational; dense 9:16 portrait grammar page. Teach passive object-complement forms with TO, asked/told to, and thought/said/reported to, based on p.490–491.
+Input references: PAGE_0001 design and mascot identity.
+Top title: 「受動文のあとをtoで補う」
+Central illustration: mascot as a sentence medic repairs incomplete passive clauses. Cards “was made”, “was asked”, “is believed”, “is reported” receive TO + action/state extensions.
+Mechanism: 「make + 人 + 原形→人 + be made + to原形」「ask/tell + 人 + to→人 + be asked/told + to」「thought/said/reported + to＝一般情報を人物中心で述べる」「wantはこの受動型にしない」.
+Original examples: “The campers were told to stay near the trail.” / 「道の近くにいるよう言われた」; “I was asked to introduce the speaker.” / 「講演者の紹介を頼まれた」; “The actor is believed to live abroad.” / 「海外在住だと思われている」; “The missing boat is reported to be safe.” / 「無事だと報じられている」.
+Mini problem: 「ミニ問題：makeの受動」 “The coach made us run. → We were made ___ run.” Answer 「to」. Reason 「能動では原形でも、受動のbe madeの後はto不定詞。」
+Bottom ribbon: 「“何をされた？”の不足をtoが後ろから満たす」
+Style: glossy adventure-library sentence clinic, blue/gold/white/red repair tools, thick outlines, dense readable examples.
+Constraints: exact 9:16; no page number, copied source wording/examples/figures/layout, logo, citation, watermark, blank answer field, or photorealism. One mascot medic.

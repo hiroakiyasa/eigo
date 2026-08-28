@@ -1,0 +1,17 @@
+Create a polished content-rich educational page, portrait 9:16, matching the supplied cover's vivid explorer design. Same leopard mascot operating a narrowing lens and a comma-shaped annotation bubble. No page number, source identity, watermark, or logo.
+
+Top Japanese title: 「カンマは注釈の合図」
+
+Central contrast: no comma = identifies which person/thing; commas = adds optional information to something already identified. Show a narrowing spotlight versus a detachable side-note bubble.
+
+Original pairs and examples:
+• The scientist who built this robot lives nearby. 「どの科学者かを限定」
+• Dr. Mina, who built this robot, lives nearby. 「Minaへの補足」
+• We stayed at Star Harbor, which Mia recommended. 「固有名詞への追加情報」
+• Leo, whose compass was broken, used the stars. 「所有関係を含む注釈」
+
+Rule badge: comma relative clauses use who / which / whose, not that; removing the comma clause should leave the main identification intact.
+
+Mini practice: correct “Kyoto, that I visited last spring, is beautiful.” Answer: “Kyoto, which I visited last spring, is beautiful.” Reason: 「カンマ付き注釈ではthatを使わない」.
+
+Takeaway: 「カンマなしは絞り込み、カンマありは『ところで』情報」. Dense comparison layout, clear punctuation, problem and answer.

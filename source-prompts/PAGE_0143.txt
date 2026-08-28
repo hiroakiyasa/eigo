@@ -1,0 +1,19 @@
+Use case: scientific-educational
+Asset type: dense 9:16 portrait spelling and irregular-form page
+Primary request: Independently explain two-syllable uncertainty, the safe use of more/most when unsure, the prohibition against double comparison, and core irregular forms. Source pages 298–299 are coverage only; reuse no source sentences, table, prose, or layout.
+Input images: mascot reference; PAGE_0001 style reference.
+Canvas: strict 9:16 portrait, no page number, full-bleed, safe margins.
+Top title: 「迷う語と不規則変化」
+Central illustration: mascot in a fork-road advisor pose stands between -er/-est and more/most paths; a special treasure chest holds irregular forms.
+Mechanism diagram: 「2音節で迷う → more / most が安全」; warning badge 「more + -er は重ねない」; irregular crystal set 「good/well → better → best」 「bad/badly → worse → worst」 「many/much → more → most」 「little → less → least」.
+Original example cards:
+1. “This lane is narrower than the highway.” / 「narrowは-er型が自然」
+2. “The second plan is more clever.” / 「2音節はmoreも使える」
+3. “Mia feels better today.” / 「good/wellの不規則比較級」
+4. “That was the worst storm all week.” / 「badの不規則最上級」
+Mini practice box: 「ミニ確認：more easier は正しい？」 「答え：× easier」 「moreと-erを二重に付けない。」
+Bottom takeaway: 「迷いは自然。二重比較を避け、不規則形を覚える」
+Style: bright glossy grammar crossroads, blue-gold-white-red, thick outlines, clear form crystals, central mascot + diagram + examples.
+Typography: exact English forms and bold Japanese.
+Constraints: no page number, source table/example/layout reuse, source identity, logo, citation, watermark, or extra quiz. Mascot once in advisor pose.
+Avoid: confusing arrows, tiny irregular list, dark cave.

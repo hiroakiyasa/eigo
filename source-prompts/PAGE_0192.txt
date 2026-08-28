@@ -1,0 +1,19 @@
+Use case: scientific-educational
+Asset type: dense illustrated English preposition book page, portrait 9:16
+Primary request: Independently teach IN as being inside and INTO as movement or change into an interior/state. Include useful phrase extensions without reproducing source wording or examples from pages 396–397.
+Input images: PAGE_0001 design reference; mascot_reference exact leopard explorer reference.
+Canvas: exact 941×1672, strict 9:16, safe margins, no page number.
+Top Japanese title: 「inは中、intoは中へ」
+Central illustration: the mascot is a fortress cartographer. One chamber labeled IN shows a settled object; a bright arrow labeled INTO enters another chamber and transforms a plain seed into a flower.
+Mechanism diagram: 「IN＝中にある静止」 vs 「INTO＝in＋to＝内部への方向」. INTO branches to 侵入・衝突・変化・説得・実行; IN phrase shelf shows fill in, hand in, give in, take in as different ways something enters a space or state.
+Original example cards:
+1. “Please fill in the missing date.” / 「空欄の中を情報で満たす」
+2. “Mia handed in her field report.” / 「決められた提出先へ入れる」
+3. “The caterpillar changed into a butterfly.” / 「別の状態の中へ変化」
+4. “Leo talked me into joining the expedition.” / 「話して参加する状態へ導いた」
+Mini practice: 「The fox ran (in / into) the cave.」 Answer: 「into」. Reason: 「洞窟の外から内部へ動いているから。」
+Bottom takeaway: 「場所の中ならin、動きや変化の行き先ならinto」
+Style: glossy blue-gold-white-red adventure fortress, transformation portal, thick outlines, dense readable panels, mascot once in an action cartographer pose.
+Typography: exact English, bold concise Japanese.
+Constraints: no page number, source reuse, copied figures, brand references, logo, citation, watermark, or extra quiz.
+Avoid: confusing arrow direction, tiny phrase list, dark dungeon.

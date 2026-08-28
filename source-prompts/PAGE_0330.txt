@@ -1,0 +1,38 @@
+Create a polished, content-dense educational English grammar infographic in portrait 9:16, matching the supplied cover's unified blue-gold-white-red explorer-book aesthetic. Use the exact same leopard explorer mascot conducting an orchestra of punctuation marks, each controlling pause length and information relationship. No page number, source name, watermark, logo, copied illustration, copied example, or copied layout.
+
+Top Japanese title: 「記号は文の休止と関係を示す」
+
+Central visual: a pause meter from short to long:
+comma , = short pause / internal separation
+semicolon ; = strong pause between closely related complete clauses
+period . = sentence ends
+Colon : branches sideways as “explanation follows.”
+
+Punctuation cards with original examples:
+
+PERIOD:
+• The gate is closed. 「文の終了」
+
+COMMA:
+• We packed water, fruit, maps, and batteries. 「リスト」
+• I wanted to continue, but the others were tired. 「節の区切り」
+• Ms. Arai, our guide, checked the weather. 「同格の挿入」
+
+SEMICOLON:
+• The north trail is flooded; the south trail remains open. 「独立した2文を密接につなぐ」
+Explain: stronger than a comma, more connected than a period.
+
+COLON:
+• We changed our plan: the bridge was unsafe. 「後ろに説明・理由を追加」
+• Bring three things: a hat, water, and a flashlight. 「具体的な一覧を導く」
+
+QUOTATION MARKS:
+• Leo said, “The cave is safe.” 「正確な発言」
+• She called it a “perfect” plan. 「皮肉・特別なニュアンス」
+Nested quote example: “Mina shouted, ‘Stop!’ before the door closed.” Use double outside, single inside.
+
+Quote punctuation note in a compact caution panel: common American style places periods and commas inside closing quotation marks; semicolons and colons stay outside. Question/exclamation marks depend on whether they belong to the quoted words or the whole sentence.
+
+Mini practice: 「密接な2つの完全な文をつなぐ：The rain stopped ___ the stars appeared.」 Answer: 「;」. Reason: 「両側が独立文で、意味関係を強く保ちたいのでセミコロン」.
+
+Bottom takeaway ribbon: 「記号を飾りにせず、読み手の呼吸と論理を設計する」. This is the final educational page: polished, celebratory but dense and fully readable.

@@ -1,0 +1,20 @@
+Use case: scientific-educational
+Asset type: dense portrait summary and section-transition page
+Primary request: Create an original, genuinely educational transition from the opening grammar map into sentence frameworks. Summarize how English meaning becomes word order, then preview the four functional parts. Source pages 44–47 are topic-sequence guidance only; copy no sentence, emblem, symbol, layout, or prose.
+Input images: Image 1 is the mascot appearance reference; Image 2 is PAGE_0001, the approved visual reference. Preserve mascot identity and the bright adventure-library style.
+Canvas: strict 9:16 portrait, one polished full-bleed page, dense and scan-friendly, safe margins, no page number.
+Top title (verbatim): 「文の骨組みへ出発！」
+Central illustration: the leopard explorer in a marching map-reader pose crosses a grand glowing arch from the “meaning” room into the “sentence” construction hall. The arch is built from four large colored blocks: 「主語」「動詞」「名詞」「説明」.
+Mechanism diagram: a compact three-step route with arrows: 「伝えたい場面」→「関係を選ぶ」→「語を順に置く」. Show a thought bubble becoming a stable sentence rail.
+Required original sentence snapshots, each with a compact function cue:
+1. “Birds sing.” / 「だれが＋どうする」
+2. “The soup smells wonderful.” / 「主語の状態を説明」
+3. “Mia opened the wooden box.” / 「動きが対象へ届く」
+4. “Leo gave the guide a lantern.” / 「人に物を手渡す」
+Preview labels (verbatim): 「主語＝話の中心」 「動詞＝動き・状態」 「名詞＝人・物・こと」 「説明＝中身をくわしく」
+Mini practice box (verbatim): 「ミニ確認：The stars shine. の動詞は？」 「答え：shine」 「主語 The stars の動きを伝える部分。」
+Bottom takeaway ribbon (verbatim): 「意味を選び、部品を並べれば、英文は組み立てられる」
+Style/medium: approved cover-like adventure-library visual language, rich blue/yellow/white, glossy dimensional word blocks, thick outlines, bright depth, central action illustration plus diagram and four compact sentence plaques. More educational than a decorative divider.
+Typography: accurate English, short bold Japanese, readable smartphone scale. Render only specified text.
+Constraints: include only the specified mini practice with answer and explanation; no page number, source title, source marks, logo, citation, copied example, copied composition, or watermark. Mascot appears once in a new marching pose.
+Avoid: empty transition page, huge title filling the page, tiny footnotes, clutter without hierarchy, dark mood.

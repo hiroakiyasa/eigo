@@ -1,0 +1,18 @@
+Use case: scientific-educational
+Asset type: dense portrait intuitive-introduction page for an illustrated English grammar book
+Primary request: Introduce modal auxiliaries as the speaker’s mental filter placed before a base verb, distinguish do/have from psychological modals, and show why one Japanese translation cannot capture modal nuance. Source pages 332–333 guide coverage only; create independent explanations, examples, imagery, and question.
+Input images: mascot identity reference only; PAGE_0001 approved visual style only.
+Canvas: strict 9:16 portrait, full-bleed, dense, no page number.
+Top title (verbatim): 「助動詞は、話し手の心のレンズ」
+Central illustration: the leopard explorer in a lens-maker pose inserts can, may, must, will lenses before one glowing base-verb scene in the adventure library; each lens changes certainty, permission, pressure, or intention.
+Mechanism diagram: “主語 → 助動詞 → 動詞原形” and four mental badges: “can＝実現可能”, “may＝控えめな可能性・許可”, “must＝強い圧力・確信”, “will＝意志・見通し”. Side shelf: “do＝疑問・否定などの形 / have＝完了 / 心理助動詞＝話し手の判断”.
+Original example cards:
+1. “I can solve this puzzle.” / 「できると見込む」
+2. “May I enter the archive?” / 「丁寧に許可を求める」
+3. “You must be exhausted.” / 「証拠から強く確信」
+4. “I will protect the compass.” / 「話し手の意志」
+Mini practice: 「ミニ問題　動詞の形は？」 “She may (comes / come) later.”
+Answer: 「答え　come」 「助動詞の後ろは動詞原形。」
+Bottom ribbon: 「訳語を暗記せず、話し手の気持ちを感じる」
+Style: polished PAGE_0001 blue-gold-white adventure-library lens laboratory, dimensional modal blocks, gold rays, crisp outlines, red only for speaker-mind cue, mascot once.
+Constraints: render every specified element once; no source wording/examples/figures/layout/order, source title, citation, logo, ISBN, watermark, page number, or extra prose; avoid photorealism, dark background, sparse poster, or tiny text.

@@ -1,0 +1,14 @@
+Use case: scientific-educational; dense 9:16 portrait grammar page. Independently teach already, yet, and ever from source p.276–277 without copying wording, examples, metaphors, figures, or layout.
+Input references: same mascot appearance and PAGE_0001 design system.
+Top title: 「完了・未完・いつでも」
+Central illustration: leopard explorer as a checkpoint keeper. ALREADY closes a completed golden gate, YET leaves a blue gate open for what may follow, EVER opens a starry timeline where any point can be selected.
+Mechanism: 「already＝予想より早く／もう完了」「yet＝今までには？・まだ未完」「ever＝どの時点でも」. Position strip: “have already + 過去分詞 / 疑問・否定の文末 yet / ever before 過去分詞”. Add extension chips 「and yet＝それでも」「hardly ever＝めったにない」「ever since＝それ以来ずっと」.
+Original examples:
+1. “The guests have already arrived.” / 「もう到着済み」
+2. “Have you checked the attic yet?” / 「今までに終わった？」
+3. “The answer hasn’t appeared yet.” / 「まだ現れていない」
+4. “Have you ever slept in a tree house?” / 「人生のどの時点でもよい」
+Mini problem: 「ミニ問題：“まだ終わっていない”」 “We haven’t finished (already / yet).” 「答え：yet」 「未完の状態がこの先へ続く。」
+Bottom ribbon: 「時間の点より、完了したかを感じ取る」
+Style: bright adventure-library checkpoint hall, blue/yellow/white, gold completed gate, red only for completion status, thick outlines, accurate readable type.
+Constraints: no page number, copied source content, source identity, logo, citation, watermark, answer field, extra filler, or photorealism. One mascot in checkpoint pose.

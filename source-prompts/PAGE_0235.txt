@@ -1,0 +1,10 @@
+Use case: scientific-educational; dense 9:16 portrait grammar page. Teach passive basics, optional BY, and the generalizing effect, based on p.482–483 coverage.
+Input references: PAGE_0001 design and mascot identity.
+Top title: 「be＋過去分詞で受動文」
+Central illustration: mascot as a formula chemist combines a BE vial and a PAST PARTICIPLE crystal around the subject; an optional BY capsule is added only when the agent matters. A crowd silhouette demonstrates general statements.
+Mechanism: 「主語＝行為を受ける対象」「be＝時・疑問・否定を担当」「過去分詞＝される説明」「by + 行為者＝必要なときだけ」; generality cue 「発言者を隠す→広く言われる印象」.
+Original examples: “The winners were chosen this morning.” / 「選ばれた事実が中心」; “The mural was painted by local children.” / 「行為者が大切なのでby」; “Coffee is grown in this region.” / 「生産者は不要」; “It is often said that practice builds confidence.” / 「一般論として提示」.
+Mini problem: 「ミニ問題：byは必要？」 “The road was closed ___.” Answer 「何も加えなくてよい」. Reason 「閉鎖した人が話題でなければ行為者は省く。」
+Bottom ribbon: 「byはセットではない。伝えたい行為者だけ加える」
+Style: glossy adventure-library grammar chemistry lab, blue/gold/white/red, formula blocks, thick outlines, dense clear typography.
+Constraints: exact 9:16; no page number, copied source examples/figures/text/layout, logo, citation, watermark, blank answer field, or photorealism. One mascot chemist.

@@ -1,0 +1,18 @@
+Use case: scientific-educational
+Asset type: dense portrait comparison page for an illustrated English grammar book
+Primary request: Teach multiword compound adjectives with hyphens, including singular unit nouns before a head noun, then contrast adjective stacking before a noun with coordinated descriptions after be. Source pages 238–239 guide coverage only; invent all examples and visuals.
+Input images: mascot appearance only; PAGE_0001 design only.
+Canvas: strict 9:16 portrait, dense, no page number.
+Top title (verbatim): 「ハイフンで、説明を1ブロックに」
+Central illustration: the leopard explorer in a block-builder pose locks several small word tiles together with golden hyphens, then places the single block before a noun gate.
+Mechanism diagram: “a ten-minute walk” with bracket 「10分の、を1つの形容詞に」 and rule “数＋単位＋形容詞では単位は単数形”. Contrast panel: “a bright cozy room ✓ / The room is bright and cozy ✓ / The room is bright cozy ✕”.
+Original example cards:
+1. “a three-day voyage” / 「前のdayに-sは付けない」
+2. “a snow-covered bridge” / 「複数語を一まとまりに」
+3. “The voyage was long but exciting.” / 「後ろでは接続詞で説明を結ぶ」
+4. “My brother is twelve years old.” / 「後ろの測定表現ではyears」
+Mini practice: 「ミニ問題　正しい形は？」 “a seven-(year / years)-old tree”
+Answer: 「答え　year」 「名詞の前で1つの複合形容詞になる。」
+Bottom ribbon: 「前ではハイフンで結束、後ろではand・butで連結」
+Style: glossy PAGE_0001 adventure-library workshop, blue/yellow/white, dimensional tiles and gold clamps, crisp outlines, red only for singular-unit cue, one mascot.
+Constraints: no copied source wording/examples/figures/layout/order, identity, citation, logo, ISBN, watermark, page number, or added prose; no photorealism, sparse poster, or tiny text.

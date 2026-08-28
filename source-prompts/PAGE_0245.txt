@@ -1,0 +1,17 @@
+Create a polished information-dense English grammar page in portrait 9:16, matching the supplied cover's blue-and-gold explorer style. Same leopard mascot balancing WHETHER choices and putting WH clauses into normal word order. No page number, source identity, watermark, or logo.
+
+Top Japanese title: 「whetherとwh節を名詞の席へ」
+
+Central split illustration. WHETHER balance holds A / not A and can serve as subject; avoid sentence-initial if for this formal noun-clause use. WH clause machine changes a direct question into statement order inside a larger sentence.
+
+Original examples:
+• Whether the bus will come is uncertain. 「来るかどうか」
+• Whether we stay or leave depends on the weather. 「残るか出るか」
+• Where Ken went remains a mystery. 「Kenがどこへ行ったか」
+• Our choice depends on how much time remains. 「どれほど時間が残るか」
+
+Contrast: “Where did Ken go?” direct question → “where Ken went” embedded clause. Show wh + subject + verb, no do-support or inversion.
+
+Mini practice: correct “Where did Ken go is unknown.” Answer: “Where Ken went is unknown.” Reason: 「wh節の中は通常語順」.
+
+Takeaway: 「二択はwhether、wh節は疑問語＋平叙語順」. Dense balance and word-order diagram, examples, answer.

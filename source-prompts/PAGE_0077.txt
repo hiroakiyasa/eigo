@@ -1,0 +1,14 @@
+Use case: scientific-educational; dense 9:16 portrait grammar page. Reconstruct independently the “uniquely determined” uses covered by source p.166–167: shared knowledge, ordinal/only/superlative cues, and one identifiable plural group.
+Input references: mascot appearance and PAGE_0001 design reference.
+Top title: 「1つに決まる合図を探す」
+Central illustration: leopard explorer as a clue detective uses a golden compass to find a single destination among many. Four clue towers glow: shared world knowledge, order, uniqueness, and group boundary.
+Mechanism: 「みんなの常識で1つ」「first / last で順番が1つ」「only で候補が1つ」「最上級で頂点が1つ」「the + 複数＝1つに決まるグループ」. Add caution 「an only child＝“ひとりっ子”という種類の1人」.
+Original examples:
+1. “The moon looked enormous tonight.” / 「私たちの月として1つ」
+2. “Riku was the last runner to finish.” / 「順番の最後は1人」
+3. “This is the only key that fits.” / 「合う鍵が1つ」
+4. “The Katos are hosting dinner.” / 「Kato家という1グループ」
+Mini practice: 「ミニ問題：a / the？」 “She is ___ tallest player on the team.” 「答え：the」 「最上級がチーム内の1人に決める。」
+Bottom ribbon: 「丸暗記せず、“ほかに選べる？”と考える」
+Style: glossy adventure-library detective observatory, blue/yellow/white, dimensional clue towers, thick outlines, limited red uniqueness marker.
+Constraints: no page number, copied examples/diagram/prose/layout, source identity, logo, citation, watermark, answer field, or photorealism. One mascot in detective pose.

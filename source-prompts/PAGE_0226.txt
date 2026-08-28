@@ -1,0 +1,27 @@
+Create a polished, information-rich educational English grammar page in portrait 9:16, matching the supplied cover's blue-gold-white-red explorer aesthetic. Use the exact same leopard explorer mascot as a careful detective, observing evidence through a magnifying glass and connecting an object to its description with a deliberate TO bridge. No page number, source name, watermark, logo, copied source artwork, or copied example.
+
+Top Japanese title: 「to beは慎重な“＝”を作る」
+
+Central comparison: direct equality bridge versus a longer TO BE observation bridge.
+Direct: Leo seems tired. 「会話的・直接」
+Deliberate: Leo seems to be tired. 「観察して慎重に結論」
+Caption: 「意味の骨格は同じでも、to beで思慮深く・ややフォーマル」.
+
+Subject-description patterns with original examples:
+• The route appears to be safe. 「安全そうに見える」
+• Our guess turned out to be correct. 「正しいと判明した」
+• The experiment proved to be useful. 「役立つと分かった」
+• We happened to be on the same train. 「偶然同じ列車にいた」
+Show alternative “It appears that the route is safe.” in a compact transformation strip.
+
+Object-description mechanism: OBJECT → to be → COMPLEMENT. Label 「目的語をどう考えるかを後ろから説明」.
+• I believed the message to be genuine. 「そのメッセージは本物だと信じた」
+• The judges found the design to be practical. 「その設計が実用的だと判断した」
+• We consider this trail to be the safest. 「この道が最も安全だと考える」
+Show conversational shorter form: “We consider this trail the safest.”
+
+Headline mini-card: “TEAM TO LAUNCH NEW APP” → “The team is to launch...” Explain that omitted be does not erase TO's forward-pointing meaning.
+
+Mini practice: 「慎重な観察の響きを加える：The plan seems ___ realistic.」 Answer: 「to be」. Reason: 「to beを挟むと、観察後の控えめな判断になる」.
+
+Bottom takeaway: 「to beは主語・目的語と説明を丁寧につなぐ橋」. Dense, precise, and readable.

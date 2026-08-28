@@ -1,0 +1,18 @@
+Use case: scientific-educational
+Asset type: dense portrait conversation-response page for an illustrated English grammar book
+Primary request: Teach responses to negative questions based on the responder’s actual positive or negative fact, not Japanese yes/no logic; show explicit not in “of course not/why not” and short substitution with not or so. Source pages 328–329 guide coverage only; create original dialogue and visuals.
+Input images: mascot identity reference only; PAGE_0001 design reference only.
+Canvas: strict 9:16 portrait, full-bleed, dense, no page number.
+Top title (verbatim): 「否定質問でも、事実でYes・No」
+Central illustration: the leopard explorer in a conversation-referee pose stands between bright YES and NO response gates in an adventure-library dialogue arena.
+Mechanism diagram: question “Don’t you need it?” branches by reality: “必要 → Yes, I do.” / “不要 → No, I don’t.” Note: 「質問のnotに合わせず、自分の事実に合わせる」. Short-answer shelf: “Of course not. / Why not? / I hope not. / I’m afraid so. / Not yet.”
+Original example cards:
+1. “Aren’t you tired? — Yes, I am.” / 「疲れている事実ならYes」
+2. “Aren’t you tired? — No, I’m not.” / 「疲れていないならNo」
+3. “Will the trail close? — I hope not.” / 「閉じないことを望む」
+4. “Did the plan fail? — I’m afraid so.” / 「前の肯定内容をsoで受ける」
+Mini practice: 「ミニ問題　泳げるなら？」 “Can’t you swim? — (Yes, I can. / No, I can’t.)”
+Answer: 「答え　Yes, I can.」 「泳げるという肯定の事実にYes。」
+Bottom ribbon: 「Yesは肯定の事実、Noは否定の事実」
+Style: glossy PAGE_0001 adventure-library dialogue arena, blue/gold/white, dimensional speech cards, thick outlines, red only for not, mascot once.
+Constraints: original examples and layout; no source wording/figures/order, identity, citation, logo, ISBN, watermark, page number, or extra prose; avoid photorealism, dark background, and tiny text.

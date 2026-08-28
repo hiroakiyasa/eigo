@@ -1,0 +1,10 @@
+Use case: scientific-educational; dense 9:16 portrait grammar page. Teach passive variants of giving patterns and object-complement patterns from p.488–489 coverage.
+Input references: PAGE_0001 design and mascot identity.
+Top title: 「2つの目的語を受動文にする」
+Central illustration: mascot as a gift-distribution conductor moves either PERSON or THING into the subject spotlight. A second stage transforms CALL/PAINT/SEE + object + complement into passive subject + complement.
+Mechanism: 「人を主語：person + be given/offered + thing」「物を主語：thing + be given/sent + to person」「文末に重要情報を置くと自然」「目的語説明：objectを主語にして説明語句を残す」.
+Original examples: “Lena was offered a scholarship.” / 「レナが奨学金を提示された」; “A replacement key was sent to me.” / 「交換鍵が私に送られた」; “The puppy was named Comet.” / 「子犬はコメットと名付けられた」; “The walls were painted pale blue.” / 「壁は淡い青に塗られた」.
+Mini problem: 「ミニ問題：物を主語に」 “They gave the winner a medal.” Answer 「A medal was given to the winner.」 Reason 「物を主語にしたら受け手をtoで示すのが自然。」
+Bottom ribbon: 「誰を主役にするかで、受動文の形を選ぶ」
+Style: bright adventure-library gift station and color studio, blue/gold/white/red, thick outlines, dense comparison panels.
+Constraints: 9:16; no page number, copied examples/figures/text/layout, source identity, logo, citation, watermark, empty answer area, or photorealism. One mascot conductor.

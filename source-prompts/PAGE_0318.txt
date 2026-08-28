@@ -1,0 +1,27 @@
+Create a polished, information-rich educational English grammar infographic in portrait 9:16, matching the supplied cover's blue-gold-white-red explorer aesthetic. Use the exact same leopard explorer mascot replacing duplicated cargo crates with compact substitute tokens labeled ONE, DO, and SO. No page number, source name, watermark, logo, copied example, or copied diagram.
+
+Top Japanese title: 「代用で繰り返しを軽くする」
+
+Central before/after mechanism: a heavy sentence repeats the same noun or action; a small token replaces it while meaning remains connected. Core rule: 「一度出た内容を短い形で受け、文章を滑らかにする」.
+
+Noun substitution:
+ONE / ONES replace countable nouns.
+• This lantern is dim. Give me a brighter one. 「a brighter lantern」
+• The wooden boxes are heavy; the plastic ones are lighter. 「plastic boxes」
+Add caution: uncountable nouns are not normally replaced by one in the same way.
+
+Verb-phrase substitution ladder:
+• “Will you label every bag?” — “I’ll do so now.” 「前の行為を丁寧に丸ごと受ける」
+• Rina checked the map, and I did it too. 「くだけた具体的行為」
+• Don’t move the marker. Ken did that yesterday. 「その行為を指して受ける」
+• I rarely cook, but my brother does. 「doesだけでcookを機械的に代用」
+Explain nuance: do so is explicit/formal; do it/that is more conversational; bare do/does/did is the leanest grammatical substitute.
+
+Add a substitution-selection flow:
+noun? → one/ones
+action with “do” meaning? → do so / do it / do that
+same verb phrase after auxiliary support? → do/does/did
+
+Mini practice: 「red backpacksの繰り返しを避ける：I prefer the blue ___.」 Answer: 「ones」. Reason: 「複数の可算名詞backpacksを形容詞blueとonesで受ける」.
+
+Bottom takeaway: 「代用語は短くても、前の内容への線を切らない」. Dense, precise, and readable.

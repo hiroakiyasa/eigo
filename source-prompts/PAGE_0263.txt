@@ -1,0 +1,27 @@
+Create a polished, information-dense educational English grammar infographic in portrait 9:16, matching the supplied cover's vivid blue, gold, white, and red explorer style. Use the exact same leopard explorer mascot flipping an auxiliary tile over the subject with energetic sparks, then agreeing on two mirrored tracks. No page number, source name, watermark, logo, copied diagram, or copied example.
+
+Top Japanese title: 「倒置は感情のジャンプ」
+
+Central mechanism: normal order SUBJECT + AUXILIARY transforms into AUXILIARY + SUBJECT. Caption: 「助動詞が主語を飛び越えると、疑問以外にも強い感情・勢いが生まれる」.
+
+Emphatic inversion examples:
+• Am I relieved! 「ああ、本当にほっとした！」
+• Did we choose the wrong path! 「なんて間違った道を選んだんだ！」
+Show their calmer alternatives “I’m extremely relieved.” and “We really chose the wrong path.”
+
+Agreement mirror:
+Positive statement → SO + auxiliary + subject
+• “I collect old maps.” — “So does Leo.” 「Leoもそう」
+Negative statement → NEITHER + auxiliary + subject
+• “I haven’t seen the comet.” — “Neither have I.” 「私も見ていない」
+Add an auxiliary-matching mini chart: am→am, do→do/does/did, have→have/has, can→can.
+
+Lower panel: negative expression moves to the front, inversion follows to match its emotional force.
+• Never have I tasted such spicy curry! 「こんな辛いカレーは初めて」
+• Rarely do we see the lake this calm. 「これほど穏やかな湖はめったに見ない」
+• Little did they know the cave was occupied. 「彼らはほとんど知らなかった」
+Formula: NEGATIVE FRONT + AUX + SUBJECT + VERB.
+
+Mini practice: 「“I can’t swim.” に勢いよく同意」 Answer: 「Neither can I.」 Reason: 「否定への同意はNeither、助動詞canを主語Iの前へ」.
+
+Bottom takeaway ribbon: 「前に出した感情を、倒置の語順が追いかける」. Dense but clean, accurate typography.

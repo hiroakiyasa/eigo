@@ -1,0 +1,25 @@
+Create a polished, information-dense educational English grammar book page in portrait 9:16, matching the supplied cover's vivid explorer design. Same leopard mascot, mapping an apple around a treasure chest using glowing relation arrows. No page number, source identity, watermark, or logo.
+
+Top Japanese title: 「前置詞は関係を描く小さな地図」
+
+Central illustration: one chest with an apple on, in, behind, and by it in four mini-scenes. Teach the standard form “preposition + noun/noun phrase” and explain that the preposition comes before its object to specify a relation.
+
+Original examples:
+• The compass is on the desk. 「机の上」
+• The key is in the pouch. 「袋の中」
+• A bicycle is behind the gate. 「門の後ろ」
+• Wait by the fountain. 「噴水のそば」
+
+Add AT expansion map from the core image “point”: time point, place point, target/aspect point.
+• at six thirty 「6時30分という時点」
+• at the entrance 「入口という地点」
+• good at puzzles 「パズルという点で得意」
+Explain that one spatial image can extend metaphorically; learners should connect meanings rather than memorize unrelated translations.
+
+Pronoun case panel: with us / for her / between them, not subject forms. Phrase examples:
+• Come with us. 「私たちと一緒に」
+• This gift is for her. 「彼女のため」
+
+Mini practice: 「『駅という地点で』は？ Meet me ___ the station.」 Answer: at. Reason: 「待ち合わせ地点を点として示す」.
+
+Takeaway: 「前置詞の核イメージを、時間・場所・比喩へ広げる」. Rich central map, examples, mini problem.

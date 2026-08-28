@@ -1,0 +1,19 @@
+Use case: scientific-educational
+Asset type: dense illustrated English WH-subject and phrase page, portrait 9:16
+Primary request: Independently teach subject WH questions with no inversion and singular verb agreement, plus larger WH phrases such as how old, how tall, how much/many, what kind of, whose + noun, and which + range. Reconstruct pages 530–531 without copying source examples or figures.
+Input images: PAGE_0001 design reference; mascot_reference exact leopard explorer.
+Canvas: exact 941×1672, strict 9:16, safe margins, no page number.
+Top Japanese title: 「主語の穴と大きなwh」
+Central illustration: the mascot places WHO directly into an empty subject throne—no auxiliary flip—then assembles large WH blocks from smaller word tiles.
+Mechanism diagram: subject gap 「Who/What＋verb…？」 no inversion because there is no separate subject to swap; who/what treated as singular in present tense. WH phrase builder: HOW＋old/tall/much/many; WHAT KIND OF＋noun; WHOSE＋noun; WHICH＋noun/range.
+Original example cards:
+1. “Who knows the secret path?” / 「whoが主語、knowsは単数扱い」
+2. “What makes this compass glow?” / 「whatが主語、倒置なし」
+3. “How many lanterns do we need?” / 「how many＋複数名詞を一まとまりで前へ」
+4. “What kind of books does Mia collect?” / 「大きなwh句を文頭へ」
+Mini practice: 「___ opened the gate? Who did / Who」 Answer: “Who opened the gate?” Reason: 「主語を尋ねるためdo倒置はしない。」
+Bottom takeaway: 「主語のwhはその場に置き、複合whは丸ごと前へ」
+Style: bright glossy blue-gold-white-red grammar throne room, building blocks and subject seat, thick outlines, dense readable layout, mascot once as a master builder.
+Typography: exact English and concise Japanese.
+Constraints: no page number, source reuse, copied figure, source identity, logo, citation, watermark, or extra quiz.
+Avoid: incorrect “Who does know”, tiny phrase tiles, dark palace.

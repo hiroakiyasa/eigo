@@ -1,0 +1,18 @@
+Use case: scientific-educational
+Asset type: dense portrait mechanism page for an illustrated English grammar book
+Primary request: Teach adjective placement before a noun, determiners before adjectives, combining adjectives, and the natural adjective order based on closeness to the noun. Source pages 236–237 guide coverage only; use wholly original text, examples, and illustration.
+Input images: mascot identity reference only; PAGE_0001 style reference only.
+Canvas: strict 9:16 portrait, full-bleed, no page number.
+Top title (verbatim): 「形容詞の列車、名詞へ近づく順」
+Central illustration: the leopard explorer in a station-conductor pose arranges colored adjective train cars toward a noun engine inside the adventure library.
+Mechanism diagram: “限定詞 → 評価 → 大きさ → 新旧 → 色 → 出身 → 材料 → 名詞”. Note: 「名詞に本質的な情報ほど近く置く」. Connector badge: “kind but careless guide”.
+Original example cards:
+1. “that clever young pilot” / 「評価→年齢→名詞」
+2. “a beautiful small wooden box” / 「評価→大きさ→材料→名詞」
+3. “my old blue hiking bag” / 「限定詞が先頭」
+4. “a calm but curious child” / 「butで性質を並べる」
+Mini practice: 「ミニ問題　自然な順は？」 choices “a metal round shield” / “a round metal shield”
+Answer: 「答え　a round metal shield」 「材料metalは名詞shieldに近い。」
+Bottom ribbon: 「主観は遠く、材質・所属は名詞の近く」
+Style: PAGE_0001 blue-yellow-white adventure-library railway, gold tracks, dimensional adjective cars, bold outlines, red only for noun-nearness cue, mascot once, readable type.
+Constraints: original content only; no source wording/examples/figures/layout, citation, source identity, logo, ISBN, watermark, page number, or extra prose; avoid photorealism and tiny lettering.

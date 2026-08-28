@@ -1,0 +1,19 @@
+Use case: scientific-educational
+Asset type: dense 9:16 portrait naming mechanism page
+Primary request: Independently explain why some names contain the: a name made from ordinary descriptive words often needs the to mark one identifiable entity, while a proper-name-plus-facility pattern can already feel name-like without the. Source pages 224–225 are coverage only; use original fictional names and layout.
+Input images: mascot reference; PAGE_0001 style reference.
+Canvas: strict 9:16 portrait, no page number, safe margins.
+Top title: 「名前にtheが付く理由」
+Central illustration: mascot in a signboard-builder pose compares two gates. One gate “Orion Library” glows as a name by itself; another ordinary-word sign receives a golden THE seal to become one clear landmark.
+Mechanism diagram: 「固有名＋施設名 → 名前らしさが強い → 通常theなし」 versus 「一般語だけの名称 → 1つに決める印としてthe」. Add note 「正式名称は最終確認」.
+Original example cards:
+1. “We met at Maple Station.” / 「固有名＋Station」
+2. “Orion University opened a new lab.” / 「固有名＋University」
+3. “They toured the Moonlight Museum.” / 「一般語の名称をtheで1つに」
+4. “The Silver Arch shines at night.” / 「説明的な語だけの名前」
+Mini practice box: 「ミニ確認：___ Rivergate Park は？」 「答え：Rivergate Park」 「固有名Rivergateが先頭で名前を示す。」
+Bottom takeaway: 「theは“これは1つの名前”という輪郭を与える」
+Style: bright glossy adventure-library sign workshop, blue/yellow/white, golden THE seal, thick outlines, compact comparison and examples, limited red emphasis.
+Typography: exact English and Japanese.
+Constraints: fictional names only; no page number, source wording/name/example/diagram/layout, source identity, logo, citation, watermark, or extra quiz. Mascot once in builder pose.
+Avoid: real corporate branding, tiny signs, dark scene, absolutist claim that ignores official naming.

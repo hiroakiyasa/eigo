@@ -1,0 +1,19 @@
+Use case: scientific-educational
+Asset type: dense 9:16 portrait superlative-core page
+Primary request: Independently teach the superlative as selecting one highest degree, the usual the, cases about one object’s own changing state where the may be omitted, most meaning “very,” and in vs of for comparison range. Source pages 312–313 are coverage only; copy no examples, wording, figures, or layout.
+Input images: mascot reference; PAGE_0001 approved design reference.
+Canvas: strict 9:16 portrait, no page number, full-bleed, safe margins.
+Top title: 「最上級は1つに決める」
+Central illustration: mascot in a gold-crown referee pose selects the peak of several level towers. A side timeline shows one road changing width, and two range gates show IN and OF.
+Mechanism diagram: 「複数から1つ → the + -est / most」; 「1つの物の中の最高点 → the省略可」; 「most＝veryならtheなし」; range fork 「in＋場所・集団」 「of＋数・並んだ集合」.
+Original example cards:
+1. “Mia found the shortest route.” / 「複数のrouteから1つ」
+2. “Which engine runs the most quietly?” / 「副詞もmostで最上級」
+3. “This path is narrowest near the gate.” / 「1本の道の中の最高点」
+4. “That was a most helpful answer.” / 「most＝とても、最上級ではない」
+Mini practice box: 「ミニ確認：the oldest ___ the five はin / of？」 「答え：of」 「5つという並んだ集合の中だから。」
+Bottom takeaway: 「1つに決まるならthe。範囲と意味を見て外すこともある」
+Style: glossy blue-gold-white-red adventure-library crown arena, dimensional towers and range gates, thick outlines, central illustration + diagram + four cards.
+Typography: exact English and bold Japanese Gothic.
+Constraints: no page number, source expression/example/diagram/layout, source identity, logo, citation, watermark, or extra exercise. Mascot once in referee pose.
+Avoid: copied podium art, tiny range labels, dark arena.

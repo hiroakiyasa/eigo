@@ -1,0 +1,10 @@
+Use case: scientific-educational; dense 9:16 portrait grammar page. Teach WHO clauses with subject holes and object holes, including the feeling of selecting one person, from p.418–419 coverage.
+Input references: PAGE_0001 design and mascot identity.
+Top title: 「whoで“どの人？”を選び出す」
+Central illustration: mascot as a spotlight director selects one person from a crowd, then places that person into either a SUBJECT seat or OBJECT seat on a sentence stage.
+Mechanism: left rail 「主語の穴：who + 動詞…」; right rail 「目的語の穴：who + 主語 + 動詞 ___」; key cue 「あるべき人が文のどこにいないかを見る」.
+Original examples: “The student who designed this poster is twelve.” / 「このポスターをデザインした生徒」; “The guide who we met at the gate speaks four languages.” / 「門で会った案内人」; “Is she the doctor who you wrote to?” / 「君が手紙を書いた医師」.
+Mini problem: 「ミニ問題：主語の穴はどっち？」 A “the runner who won the race” B “the runner who I cheered for” Answer 「A」. Reason 「wonの前に主語がなく、runnerがそこに入る。」
+Bottom ribbon: 「人を選び、空いている席へ案内するのがwho」
+Style: bright adventure-library spotlight theater, blue/gold/white with red seat markers, thick outlines, clear comparison.
+Constraints: 9:16; no page number, copied text/examples/figures/layout, source identity, logo, citation, watermark, blank answer area, or photorealism. One mascot in director pose.

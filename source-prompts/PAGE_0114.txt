@@ -1,0 +1,18 @@
+Use case: scientific-educational
+Asset type: dense portrait explanation page for an illustrated English grammar book
+Primary request: Explain why adjectives often come after indefinite pronouns, superlatives, nouns in there-sentences, and measurements: the earlier phrase feels incomplete and invites a clarifying description. Source pages 240–241 guide coverage only; create new examples, wording, diagram, and imagery.
+Input images: mascot identity only; PAGE_0001 visual reference only.
+Canvas: strict 9:16 portrait, full-bleed, dense but readable, no page number.
+Top title (verbatim): 「“まだ足りない”が後ろの説明を呼ぶ」
+Central illustration: the leopard explorer in a clue-completer pose follows an unfinished glowing sentence bridge; missing-information gaps pull description blocks from behind.
+Mechanism diagram: “somebody / something / everything + 形容詞”, “the 最上級 + imaginable”, “There is 名詞 + available”, “数値 + tall / wide / long”. Central arrow: 「名詞だけでは不足 → 後ろで補う」.
+Original example cards:
+1. “I need something warm.” / 「何か、だけでは足りずwarmを追加」
+2. “That is the safest route available.” / 「使える中で最も安全」
+3. “There are two seats empty.” / 「seatsの状態を後追い説明」
+4. “The tower is 40 meters tall.” / 「40mの何かをtallで明示」
+Mini practice: 「ミニ問題　語順を直そう」 “an useful something”
+Answer: 「答え　something useful」 「-thingの内容は後ろから説明する。」
+Bottom ribbon: 「言い切れない感覚が、説明を後ろへ伸ばす」
+Style: PAGE_0001 blue-yellow-white adventure-library bridge, gold arrows, dimensional gap-and-fill blocks, bold outlines, red only for missing-information cues, one mascot, clear type.
+Constraints: original content; no source wording/examples/figures/layout, citation, source identity, logo, ISBN, watermark, page number, or extra prose; no photorealism or unreadable text.

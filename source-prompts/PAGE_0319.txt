@@ -1,0 +1,30 @@
+Create a polished, content-dense educational English grammar page in portrait 9:16. Match the supplied cover's vivid blue, gold, white, and red explorer-book aesthetic. Use the exact same leopard explorer mascot catching entire ideas in an SO crystal and then removing obvious repeated boxes from dialogue. No page number, source name, watermark, logo, copied source wording, or copied artwork.
+
+Top Japanese title: 「soで内容を受け、省略で流れを速く」
+
+Upper central mechanism: SO acts as a compact pointer to previously stated information.
+
+Different targets:
+Adjective/state:
+• The crew looked exhausted, and they had every reason to be so. 「so＝exhausted」
+Adverb/degree:
+• Aya solved it quickly, and Leo even more so. 「so＝quickly」
+Whole proposition:
+• The rain may stop by noon. If so, we’ll leave then. 「so＝雨が止むこと」
+Thought/report pattern:
+• “Is the gate locked?” — “I think so.” 「そうだと思う」
+• “Will the shop reopen?” — “I hope so.” 「そうなると願う」
+Negative receiver: “I hope not.” / “I think not.” when the proposition is negated.
+
+Lower section introduces ellipsis as a disappearing repeated train car. Core rule: 「前後から100%復元できる重なりだけを省く」.
+Dialogue before/after:
+• “Who can carry the tent?” — “Mika can (carry the tent).”
+• “Has Leo finished the checklist?” — “Yes, he has (finished it).”
+• “Is the water warm?” — “It is (warm).”
+Show that auxiliary, perfect have, or be remains as the grammatical anchor.
+
+Add a safety badge: do not omit information merely because it feels repetitive; the listener must be able to recover it instantly.
+
+Mini practice: 「“I don’t think the path is safe.” をso/notで短く受ける：I hope ___.」 Answer: 「not」. Reason: 「安全ではないという否定の文内容をnotで受ける」.
+
+Bottom takeaway ribbon: 「soは内容の代用、ellipsisは復元できる重なりの削除」. Dense but orderly.

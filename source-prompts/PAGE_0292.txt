@@ -1,0 +1,15 @@
+Use case: scientific-educational
+Asset type: dense illustrated unreal-expression and conditional page, portrait 9:16
+Primary request: Teach past regret with wish + past perfect, then organize if only, as if, suppose/imagine, and it’s time as expressions that naturally invite unreal distance. Introduce the two-part unreal if sentence. Rephrase and illustrate independently.
+Input images: PAGE_0001 style reference; mascot_reference exact leopard explorer.
+Canvas: exact 941×1672, strict 9:16, safe margins, no page number.
+Top Japanese title: 「後悔と仮定の合図」
+Central illustration: the mascot turns a time compass back from NOW to BEFORE, then opens four glowing signposts labeled IF ONLY, AS IF, SUPPOSE, IT’S TIME.
+Mechanism diagram: present regret = wish＋past; past regret = wish＋had＋past participle. Two-lane conditional preview: IF lane “past form / unreal setup” + RESULT lane “would＋verb / quiet result.”
+Original example cards: “I wish I had checked the weather.” / 「確認しなかった後悔」; “If only the rain would stop!” / 「止んでほしい強い願い」; “Kai talks as if he owned the castle.” / 「実際には所有していない」; “It’s time we left the museum.” / 「まだ出ていないが、もう出る頃」.
+Small suppose bubble: “Suppose you found a hidden door—what would you do?” / 「可能性の低い想像を開く」
+Mini practice: 「昨日もっと早く寝ればよかった：I wish I (slept / had slept) earlier.」 Answer: “had slept”. Reason: 「過去の事実よりさらに一段前へ。」
+Bottom takeaway: 「今の反事実は過去形、過去の後悔は過去完了」
+Style: blue-gold-white-red time-temple adventure, thick outlines, four clean signposts, dense cards, one mascot spinning a time compass.
+Constraints: no page number, source wording/image reuse, brand, logo, citation, watermark.
+Avoid: confusing if only with ordinary only, unreadable signposts, extra quiz.

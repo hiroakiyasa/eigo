@@ -1,0 +1,10 @@
+Use case: scientific-educational. Asset: dense 9:16 portrait grammar page.
+Topic source: p.112–113, concepts only; independently reconstruct.
+Top title: 「既知の場所と、新登場を分ける」
+Scene: adventure-library casting room. Leopard director compares a known character already on stage with a surprise newcomer entering through a There doorway; a GO motion trail leads out of the room.
+Mechanism A: known person starts ordinary be sentence: 「Mia is in the garden.」 New surprise may use there: 「Oh, there's Kai!」
+Mechanism B core verb go: movement away / progress / change. Original examples: 「Leo went outside.」 「This old radio still goes.」 「The sky went dark.」
+Mini check: known Mia's location—choose 「There is Mia in the garden. / Mia is in the garden.」 Answer: second — 「すでに知っている人を普通に主語へ」.
+Takeaway: 「新情報か既知情報か、動きがどこへ向かうかを見る」
+Dense approved style with illustration, mechanism, 4 examples, problem+answer; no page number/source identity.
+

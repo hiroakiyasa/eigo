@@ -1,0 +1,11 @@
+Use case: scientific-educational. Asset: dense 9:16 portrait grammar page.
+Topic source: p.98–99, concepts only; no reuse.
+Top title: 「思った内容は、後ろの文で説明」
+Scene: adventure-library broadcast desk. Leopard reporter speaks a short lead phrase; a large content scene unfolds behind it.
+Mechanism: 「I think ...」→「何を？」→ content clause; 「Mia said ...」→「何を？」→ content clause. Show optional “that” as a guide bridge, and a past-to-past time alignment rail.
+Original examples: 「I think the path is safe.」 「Mia said that the shop was closed.」 「I'm glad you came.」
+Short explanations: report content, that guides listener, past reporting often pulls embedded tense back.
+Mini check: Choose 「Leo said the train (is / was) late.」 Answer: 「was — 過去の said に時をそろえる基本形」.
+Takeaway: 「言い足りない気持ちが、後ろの文を呼ぶ」
+Approved dense visual style, no page number, copied example, source identity, logo, watermark.
+

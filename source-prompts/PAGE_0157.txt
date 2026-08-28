@@ -1,0 +1,18 @@
+Use case: scientific-educational
+Asset type: dense portrait mechanism-and-nuance page for an illustrated English grammar book
+Primary request: Teach negative raising with light opinion verbs such as think, believe, suppose, expect, and seem; explain its early signal and softer tone, while warning that meaning-rich verbs such as fear and hope do not transfer negation freely. Source pages 326–327 guide coverage only; copy nothing.
+Input images: mascot appearance only; PAGE_0001 style reference only.
+Canvas: strict 9:16 portrait, dense, no page number.
+Top title (verbatim): 「“思わない”へnotを前倒し」
+Central illustration: the leopard explorer in an elevator-guide pose lifts a red NOT block from a lower clause to the front opinion-verb floor of the adventure library.
+Mechanism diagram: “I think [it isn’t safe]” → natural soft route → “I don’t think [it is safe]”. Approved verbs: think / believe / suppose / expect. Warning gate: fear / hope carry their own meaning, so moving not may change the message.
+Original example cards:
+1. “I don’t think this path is safe.” / 「安全ではないと思う、をやわらかく先出し」
+2. “We don’t expect the shop to open.” / 「開くとは予想しない」
+3. “I fear the bridge will not hold.” / 「fear自体は否定せず、内容を否定」
+4. “I still think it is NOT fair.” / 「強く否定したい時は内容側を強調」
+Mini practice: 「ミニ問題　自然でやわらかいのは？」 choices “I think it isn’t enough.” / “I don’t think it is enough.”
+Answer: 「答え　I don’t think it is enough.」 「thinkではnotの前倒しが自然で、立場も早く伝わる。」
+Bottom ribbon: 「意見の向きを先に示し、相手を準備させる」
+Style: PAGE_0001 blue-gold-white adventure-library elevator, glowing clause floors, bold outlines, red only for moving NOT, one mascot, accurate readable type.
+Constraints: no source wording/examples/figures/layout/order, identity, citation, logo, ISBN, watermark, page number, or extra prose; no photorealism or tiny lettering.

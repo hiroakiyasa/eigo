@@ -1,0 +1,19 @@
+Use case: scientific-educational
+Asset type: dense illustrated English WH-question mechanism page, portrait 9:16
+Primary request: Independently teach the three-step WH-question mechanism: make a gap, select a WH word for the missing information, and use question inversion except for subject questions. Practice basic what/who/which/whose objects. Reconstruct pages 526–527 without source reuse.
+Input images: PAGE_0001 design reference; mascot_reference exact leopard explorer.
+Canvas: exact 941×1672, strict 9:16, safe margins, no page number.
+Top Japanese title: 「穴を作ってwhで指定」
+Central illustration: the mascot excavates a glowing missing puzzle slot from a sentence bridge, labels it with a WH marker, then flips AUX and SUBJECT at a gate.
+Mechanism diagram: 1「知りたい箇所を穴に」→2「who/what/which/whoseで種類指定」→3「WH＋AUX＋S＋V？」. Contrast tiny panel: embedded WH clause keeps normal order because it is not directly asking.
+Original example cards:
+1. “Mia found ___.” → “What did Mia find?” / 「物の穴」
+2. “Leo invited ___.” → “Who did Leo invite?” / 「人の穴」
+3. “Which route do you prefer, red or blue?” / 「選択肢から選ぶ」
+4. “Whose backpack is this?” / 「持ち主を尋ねる」
+Mini practice: 「You chose ___. 人を尋ねる疑問文は？」 Answer: “Who did you choose?” Reason: 「人の目的語をwhoで指定し、didで倒置する。」
+Bottom takeaway: 「wh疑問文は、穴の種類を示して相手に埋めてもらう」
+Style: vivid glossy blue-gold-white-red puzzle excavation hall, dimensional gap blocks and inversion gate, thick outlines, compact examples, mascot once in an archaeologist pose.
+Typography: exact English and concise Japanese.
+Constraints: no page number, copied source example/diagram, source identity, logo, citation, watermark, or extra exercise.
+Avoid: missing inversion in direct questions, tiny puzzle text, dark cave.

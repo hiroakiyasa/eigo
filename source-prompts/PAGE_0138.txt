@@ -1,0 +1,14 @@
+Use case: scientific-educational; dense 9:16 portrait comparison-grammar page. Source p.284–285 guides coverage only; independently introduce the three comparison routes and teach basic as...as.
+Input references: mascot appearance and PAGE_0001 visual system.
+Top title: 「比較には3つのルート」
+Central illustration: leopard explorer as a mountain-guide at three trails: equality bridge, comparative slope, superlative summit. The equality bridge uses two AS pillars holding one level beam.
+Mechanism: 「as + 原級 + as＝同じレベル」「比較級 + than＝より高い／低い」「the + 最上級＝集団の頂点」. Focus the lesson on equality: first AS sets the level, second AS names the comparison target. Caution 「as tall as は“両方とも背が高い”とは限らず、同じ高さだけ」.
+Original examples:
+1. “This rope is as strong as that one.” / 「強さが同じレベル」
+2. “Mina runs as smoothly as her coach.” / 「副詞の様子も比較できる」
+3. “The blue trail is steeper than the green trail.” / 「比較級で差を示す」
+4. “Leo chose the shortest route.” / 「集団の中の最上級」
+Mini problem: 「ミニ問題：同じくらい静か」 “The library is ___ quiet ___ the museum.” 「答え：as / as」 「原級quietを2つのasで挟む。」
+Bottom ribbon: 「比べたい性質を決めて、対応する道を選ぶ」
+Style: PAGE_0001 mountain-library world, blue/yellow/white, gold level bridge, red route markers, thick outlines, dense but clear.
+Constraints: no page number, copied source examples/diagram/text/layout, source marks, logo, citation, watermark, answer field, or photorealism. One mascot in mountain-guide pose.

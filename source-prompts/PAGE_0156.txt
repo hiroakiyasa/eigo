@@ -1,0 +1,18 @@
+Use case: scientific-educational
+Asset type: dense portrait nuance page for an illustrated English grammar book
+Primary request: Explain partial negation: not placed before strong expressions such as really, always, necessarily, completely, all, and many softens an absolute claim; contrast it with placing the strong word before not. Source pages 324–325 guide coverage only; make all examples and visuals original.
+Input images: mascot identity reference only; PAGE_0001 visual-system reference only.
+Canvas: strict 9:16 portrait, full-bleed, dense, no page number.
+Top title (verbatim): 「not＋強い語で、やわらかく否定」
+Central illustration: the leopard explorer in a dimmer-switch pose turns down a brilliant “100%” lamp with a NOT filter inside the adventure library.
+Mechanism diagram: “not → always / really / necessarily / completely / all” labeled 「100%を否定＝部分否定」. Contrast pair: “I don’t really agree.＝強くは同意しない” versus “I really don’t agree.＝本当に同意しない”.
+Original example cards:
+1. “That is not always true.” / 「いつも正しいとは限らない」
+2. “The task isn’t completely finished.” / 「完全に終わったわけではない」
+3. “Not every door is locked.” / 「全部が施錠中ではない」
+4. “She isn’t very confident yet.” / 「断定を和らげる」
+Mini practice: 「ミニ問題　“必ずしも危険ではない”は？」 choices “It is necessarily not dangerous.” / “It is not necessarily dangerous.”
+Answer: 「答え　It is not necessarily dangerous.」 「notがnecessarilyの100%感を弱める。」
+Bottom ribbon: 「強い断定を少し下げると、会話がやわらかくなる」
+Style: glossy PAGE_0001 adventure-library light lab, blue/gold/white, dimensional 100% dial, thick outlines, red only on not filter, one mascot.
+Constraints: original content; no source wording/examples/figures/layout, source title, citation, logo, ISBN, watermark, page number, or extra prose; avoid photorealism and tiny text.

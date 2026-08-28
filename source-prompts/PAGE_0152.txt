@@ -1,0 +1,18 @@
+Use case: scientific-educational
+Asset type: dense portrait transition-and-intuition page for an illustrated English grammar book
+Primary request: Create an original bridge from comparison to negation: review how “even the best” can make a concession, then introduce not as a front-position limiter that turns the following content off. Source pages 316–317 are chapter-transition imagery only; do not imitate them.
+Input images: mascot identity reference only; PAGE_0001 style reference only.
+Canvas: strict 9:16 portrait, full-bleed, no page number.
+Top title (verbatim): 「頂点の先は、“ちがう”を伝える力」
+Central illustration: the leopard explorer in a gate-switch pose descends from a superlative summit into a bright logic library, flipping a glowing NOT switch before a sentence rail.
+Mechanism diagram: upper route “Even the strongest bridge can shake.＝最も強くても例外はある”; lower route “NOT → 後ろの内容を0に近づける”. Three target blocks: “not ready / not here / not for children”.
+Original example cards:
+1. “Even the kindest person gets angry.” / 「最高レベルでも例外はある」
+2. “The boat is not ready.” / 「readyを打ち消す」
+3. “Not today.” / 「todayを打ち消す」
+4. “This path is not for beginners.” / 「for beginnersを否定」
+Mini practice: 「ミニ問題　何を否定？」 “The key is not in the box.”
+Answer: 「答え　in the box」 「notは直後の場所説明を打ち消す。」
+Bottom ribbon: 「notは、消したい内容のすぐ前に置く」
+Style: PAGE_0001 blue-gold-white adventure-library transition gate, glossy blocks, gold route, bold outlines, red only for NOT switch, one mascot.
+Constraints: independently authored page; no source wording, chapter-door artwork, copied layout, citation, identity, logo, ISBN, watermark, page number, or extra prose; avoid photorealism and tiny type.

@@ -1,0 +1,24 @@
+Use case: scientific-educational. Create an information-rich portrait 9:16 page matching PAGE_0001. Same leopard theater director moves sentence blocks and spotlights their purpose. Entirely original wording and layout. No page number, source identity, logo or watermark.
+
+Top title: 「並びを動かすと、気持ちが見える」
+
+Teach three reasons English changes normal order: question, focus/scene setting, and strong emphasis. Show before/after arrows.
+
+Required examples:
+• “You are ready.” → “Are you ready?” 「助動詞beを前へ：知りたい」
+• “Leo found a clue this morning.” → “This morning, Leo found a clue.” 「時を前へ：朝を舞台にする」
+• “I had never seen such a view.” → “Never had I seen such a view.” 「否定語を前へ：強い驚き・強調」
+
+Required table:
+「動かすもの｜目的｜目印」
+「助動詞・be｜質問｜主語の前」
+「時・場所｜場面設定｜文頭＋カンマ」
+「否定語｜強調｜文頭＋倒置」
+
+Explanation note: 「語順の変化は飾りではなく、話し手がどこへ視線を向けるかを示す。」
+Mini check: Why is “Tomorrow, we begin the journey” fronted? Answer: 「tomorrowを先に舞台として示すため。」
+Bottom ribbon: 「いつもの席から動いた語には、話し手の意図がある」
+
+Dense spotlight scene, three transformations, table, mini check, accurate text.
+
+後半ページ同等の高密度基準：中央イラスト＋仕組み図＋説明文＋独自英文4〜6本＋簡潔な和訳/解説＋ミニ問題・答え・一行理由、ページの85〜90%を学習内容で満たす、文字は読める大きさ。

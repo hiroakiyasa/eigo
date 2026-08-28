@@ -1,0 +1,19 @@
+Use case: scientific-educational
+Asset type: dense 9:16 portrait nuance-map page
+Primary request: Independently organize emotional and idiomatic uses of more/less: no more than vs not more than, no less than, not any more/longer, know better, and none the comparative. Source pages 310–311 are coverage only; reuse no wording, examples, imagery, or layout.
+Input images: mascot appearance reference; PAGE_0001 style reference.
+Canvas: strict 9:16 portrait, no page number, safe margins.
+Top title: 「more・lessに感情をのせる」
+Central illustration: mascot in an emotion-meter keeper pose adjusts neutral NOT and emphatic NO levers on a quantity console; side tools show a stopping line and a wisdom badge.
+Mechanism diagram: 「no more than＝〜しか」 vs 「not more than＝〜以下」; 「no less than＝〜も」; 「not ... any more/longer＝もう〜ない」; 「know better＝分別がある」; 「none the 比較級＝少しも変化なし」.
+Original example cards:
+1. “No more than six guests came.” / 「6人しか、という少なさ」
+2. “The box weighs not more than ten kilos.” / 「中立的に10キロ以下」
+3. “The hall held no less than five hundred books.” / 「500冊も、という多さ」
+4. “I’m still none the wiser.” / 「説明後も少しも理解が増えない」
+Mini practice box: 「ミニ確認：You should know better than to touch that. は？」 「答え：触るほど分別がないはずではない」 「betterが“もっとわきまえている”を表す。」
+Bottom takeaway: 「noは強い感情、notは平らな事実」
+Style: bright glossy adventure-library emotion console, blue-gold-white with red emphasis, thick outlines, precise labels, dense but scan-friendly.
+Typography: exact English and readable Japanese.
+Constraints: no page number, source content/layout reuse, source identity, logo, citation, watermark, or extra quiz. Mascot once in keeper pose.
+Avoid: tiny idiom list, dark emotional scene, copied chart.

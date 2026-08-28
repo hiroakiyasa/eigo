@@ -1,0 +1,14 @@
+Use case: scientific-educational; dense 9:16 portrait grammar page. Independently teach the broad “strong relationship” meaning of possessives, the English body-part pattern, and object case as the form that points to a target. Source p.208–209 is topic coverage only.
+Input references: mascot appearance and PAGE_0001 visual reference.
+Top title: 「所有より広い、“強いつながり”」
+Central illustration: leopard explorer as a relationship cartographer draws glowing bonds from people and things to events, roles, and body parts. A second pointer hand marks object-pronoun targets.
+Mechanism: possessive network 「所有」「本人がする出来事」「関係する活動・役割」. Body-part route 「動詞 + 人（目的格）+ 前置詞 + the + 部位」 with nonviolent example. Object-case routes 「動詞の後ろ」「前置詞の後ろ」「短い返答で自分を指す」.
+Original examples:
+1. “The museum’s reopening drew a crowd.” / 「博物館が再開した出来事」
+2. “Our children’s safety comes first.” / 「子どもに強く関係する安全」
+3. “The nurse tapped him on the shoulder.” / 「まずhim、次に部位をtheで指定」
+4. “Who wants the last cookie? — Me!” / 「自分を指す短い返答」
+Mini problem: 「ミニ問題：正しい形は？」 “Mia traveled with (they / them).” 「答え：them」 「前置詞withの後ろは目的格。」
+Bottom ribbon: 「つながりは所有格、矢印の先は目的格」
+Style: bright adventure-library relationship map room, glossy bonds and pointer arrows, blue/yellow/white, limited red target cue, thick outlines.
+Constraints: no page number, copied source scenarios/examples/diagram/text/layout, source marks, logo, citation, watermark, blank answer area, violent action, or photorealism. One mascot in cartographer pose.

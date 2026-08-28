@@ -1,0 +1,11 @@
+Use case: scientific-educational. Asset: dense 9:16 portrait grammar page.
+Topic source: p.96–97, concepts only; reconstruct independently.
+Top title: 「目的語を、to の先へ向かわせる」
+Scene: adventure-library launch track. Leopard explorer points an arrow from a person block to an action gate.
+Mechanism: 「動詞＋人＋to do」 with arrow label 「人が行動へ向かう」. Group three triggers: 「頼む・命じる」, 「望む・期待する」, 「許す・促す」.
+Original examples: 「I asked Ren to open the window.」 「We expect the team to arrive early.」 「The guide allowed us to take photos.」
+Japanese explanations under each, concise and original.
+Mini check: Complete 「Mia told Leo ___ quietly.」 choices wait / to wait. Answer: 「to wait — Leo が待つ行動へ向かう」.
+Takeaway: 「to は目的語の未来の行動を指す」
+Dense but readable approved cover style, central arrow illustration, 2–4 examples, no page number or source marks.
+

@@ -1,0 +1,18 @@
+Use case: scientific-educational
+Asset type: dense portrait explanation page for an illustrated English grammar book
+Primary request: Explain that the subject-description pattern also works with meaningful linking verbs, whose own image overlaps A=B: change, continuation, and sensory impression. Source pages 76–77 guide coverage only; recreate nothing verbatim.
+Input images: Image 1 mascot appearance only; Image 2 PAGE_0001 visual style only.
+Canvas: strict 9:16 portrait, full-bleed, dense, readable, no page number.
+Top title (verbatim): 「A＝Bに、動詞の色を重ねる」
+Central original illustration: the leopard explorer in a paint-mixer pose overlays translucent verb-color lenses on a glowing equality scale “A = B” in an adventure-library laboratory.
+Mechanism diagram: “A → linking verb → B” above three colored routes: 「変化」 become / get / turn, 「そのまま」 stay / remain / keep, 「感覚」 look / sound / feel. Brief note: 「BはAを説明。動詞が変化や印象を足す。」
+Original example cards:
+1. “The sky turned orange.” / 「空＝オレンジ色へ変化」
+2. “Please remain seated.” / 「あなた＝座った状態のまま」
+3. “This pillow feels soft.” / 「枕＝やわらかく感じる」
+4. “Our plan became simple.” / 「計画＝簡単になった」
+Mini practice box: 「ミニ問題　意味に合う動詞は？」 “The soup ___ delicious.” choices “sounds / runs”
+Answer box: 「答え　sounds」 「味の印象を、soup＝delicious と結ぶ。」
+Bottom ribbon: 「まず A＝B。次に動詞のニュアンス！」
+Style: same glossy blue-yellow-white adventure library, gold rails, dimensional blocks, bold outlines, red only on equality symbol; mascot once in a new pose.
+Constraints: all text legible; original composition and examples; no copied wording/layout/figure, source name, logo, citation, watermark, ISBN, or page number; no extra prose; no dark background, photorealism, sparse poster, or tiny text.

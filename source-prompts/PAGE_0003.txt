@@ -1,0 +1,26 @@
+Use case: scientific-educational. Create an information-dense portrait 9:16 page matching PAGE_0001's polished blue-gold-white adventure-library style. Same leopard explorer, new compass pose. Original wording, examples, diagrams, and composition only. No page number, source identity, logo or watermark.
+
+Top title: 「英語の4つの地図」
+
+Central illustration: four glowing routes from one English sentence compass. Add a compact table that makes the four maps practical.
+
+Four routes with explanation and original example:
+1 「文の骨組み」—「誰が＋どうするを先に置く」— “Birds sing.”
+2 「情報を足す」—「前でしぼり、後ろで説明」— “a red kite / The kite is red.”
+3 「並びを動かす」—「質問・強調の気持ちを示す」— “You are ready. → Are you ready?”
+4 「時間を見る」—「出来事を今・過去・未来へ置く」— “We explore. / We explored. / We will explore.”
+
+Required comparison table:
+「地図｜最初の質問｜見る目印」
+「骨組み｜誰がどうする？｜主語・動詞」
+「修飾｜どの？どんな？｜前後の情報」
+「配置｜なぜ動いた？｜疑問・焦点」
+「時間｜いつの視点？｜動詞の形」
+
+Mechanism note: 「迷ったら、①骨組み→②修飾→③配置→④時間の順に見る。」
+Mini check: “The small dog barked loudly.” 最初に残す骨組みは？ Answer: “The dog barked.” Reason: 「smallとloudlyは追加情報。」
+Bottom ribbon: 「全体の地図があると、長い文も迷わない」
+
+Dense, crisp, phone-legible; central route illustration, 4 example cards, table, mini check. Mascot once only.
+
+後半ページ同等の高密度基準：中央イラスト＋仕組み図＋説明文＋独自英文4〜6本＋簡潔な和訳/解説＋ミニ問題・答え・一行理由、ページの85〜90%を学習内容で満たす、文字は読める大きさ

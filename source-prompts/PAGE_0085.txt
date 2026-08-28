@@ -1,0 +1,18 @@
+Use case: scientific-educational
+Asset type: dense portrait nuance page for an illustrated English grammar book
+Primary request: Teach warm offering/request uses of some, normal plural behavior with count nouns, the special evasive or dismissive nuance of some plus singular, and introduce any as opening free choice. Source pages 182–183 guide coverage only; independently reconstruct everything.
+Input images: mascot identity only; PAGE_0001 visual system only.
+Canvas: strict 9:16 portrait, full-bleed, high information density, no page number.
+Top title (verbatim): 「someの温かさ、anyの自由」
+Central illustration: the leopard explorer in a café-host pose offers a tray of cocoa on one side; on the other, an open treasure-card fan labeled “any” invites free choice. A shadowy “some person” silhouette sits in a small nuance panel.
+Mechanism diagram: “some＝あるよ、と差し出す” versus “any＝どれを選んでも自由”. Add small advanced badge: “some + 単数＝誰だかぼかす／重視しない”.
+Original example cards:
+1. “Would you like some cocoa?” / 「用意できるよ、という温かい提案」
+2. “Could I have some napkins?” / 「必要な量をやわらかく求める」
+3. “Some traveler left this note.” / 「誰なのか、あえてぼかす」
+4. “Choose any badge you like.” / 「どれでも自由に選べる」
+Mini practice: 「ミニ問題　すすめる気持ちなら？」 “Would you like (some / any) soup?”
+Answer: 「答え　some」 「差し出す準備がある提案では some が自然。」
+Bottom ribbon: 「someは“こちらにある”、anyは“選択を開く”」
+Style: PAGE_0001 blue-yellow-white adventure-library café, gold glow, dimensional word blocks, crisp thick outlines, red only on some/any contrast, one mascot, accurate large text.
+Constraints: no copied source wording/examples/figures/layout/order, source identity, citation, logo, ISBN, watermark, page number, or extra prose; no photorealism, dark background, or tiny type.

@@ -1,0 +1,18 @@
+Use case: scientific-educational
+Asset type: dense portrait comparison page for an illustrated English grammar book
+Primary request: Show how a verb’s image and its sentence pattern work together: one verb can expand meaning, and similar Japanese translations may require different English patterns. Include look/see, arrive/reach, and discuss. Source pages 84–85 guide coverage only; copy no wording, examples, diagrams, or order.
+Input images: mascot appearance only; PAGE_0001 style only.
+Canvas: strict 9:16 portrait, one complete dense page, no page number.
+Top title (verbatim): 「日本語訳より、動詞の動きを見る」
+Central original illustration: the leopard explorer in a lens-comparison pose studies animated route holograms in the adventure library: an eye turning “toward” a target versus vision “catching” it, and a traveler arriving “at” a gate versus reaching it directly.
+Mechanism diagram: paired routes “look at + O＝目を向ける / see + O＝視界がとらえる”; “arrive at/in + 場所＝到着という動作 / reach + 場所＝目的地に届く”; warning badge “discuss + topic（about 不要）”.
+Original example cards:
+1. “Look at the silver bird.” / 「視線を鳥へ向ける」
+2. “I saw a fox near the bridge.” / 「視界がキツネをとらえた」
+3. “We arrived at the museum early.” / 「到着した場所を at で示す」
+4. “They reached the cabin before dusk.” / 「小屋へ直接たどり着く」
+Mini practice box: 「ミニ問題　自然なのは？」 “Let’s discuss (the route / about the route).”
+Answer box: 「答え　the route」 「discuss は話題を直接目的語にとる。」
+Bottom ribbon: 「訳が同じでも、英語の動きは同じとは限らない」
+Style: glossy blue-yellow-white adventure-library hologram scene, gold routes, dimensional blocks, thick crisp outlines, red only for preposition contrast; large exact Japanese/English.
+Constraints: one mascot, original composition, no source examples/text/layout/figures, identity, quote, citation, logo, ISBN, watermark, page number, or extra prose; avoid photorealism and tiny text.

@@ -1,0 +1,25 @@
+Create a polished, information-dense educational English grammar infographic in portrait 9:16. Match the supplied cover's vivid blue, gold, white, and red explorer aesthetic: rounded gold border, deep-blue panels, white cards, red highlights, crisp textbook typography. Use the exact same cute leopard explorer mascot in three poses: moving an -ing scene beside a noun, assigning a different subject, and looking backward on a timeline. No page number, source name, watermark, logo, copied illustration, copied sentence, or copied layout.
+
+Top Japanese title: 「文を説明する-ingの上級技」
+
+Central mechanism: a complete main-clause train with an attached glowing “-ing scene” car. Caption: 「-ingは主文に同時進行の場面を足す」. Show three placement choices:
+• sentence end = natural added scene
+• sentence beginning = dramatic setup
+• beside a noun = that noun is described more directly
+
+Original examples:
+• The hikers reached camp, carrying wet backpacks. 「濡れた荷物を背負いながら到着」
+• Crossing the rope bridge, I heard a strange call. 「橋を渡る場面を先に見せる」
+• Leo, waving both paws, welcomed the class. 「Leoの直後に動作を差し込む」
+
+Advanced mechanism 1 「主語が違うなら、-ing側にも主語」. Use two character tracks:
+• The guide checked the map, the children waiting quietly. 「確認するのはguide、待つのはchildren」
+Warning comparison: without “the children,” the waiting action would normally attach to the main subject.
+
+Advanced mechanism 2 「主文より前なら Having + 過去分詞」. Show a two-step timeline:
+• Having packed the equipment, we left before sunrise. 「装備を詰め終えてから出発」
+Formula: Having + past participle → earlier event; main clause → later event.
+
+Mini practice: 「主語の違いを明確に：The bell rang, ___ rushing outside.」 Answer: 「the students」. Full answer: “The bell rang, the students rushing outside.” Reason: 「鳴る主語はbell、飛び出す主語はstudents」.
+
+Bottom takeaway ribbon: 「置き場所・動作主・時間の前後を図で整理」. Dense but orderly, accurate English and Japanese, highly readable.

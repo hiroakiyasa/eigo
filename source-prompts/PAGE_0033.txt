@@ -1,0 +1,18 @@
+Use case: scientific-educational
+Asset type: dense portrait transition-and-intuition page for an illustrated English grammar book
+Primary request: Bridge from remaining appearance/result linking verbs to the new double-object “giving” pattern, showing that sentence patterns contribute meaning. Source pages 78–79 are coverage guidance only; use wholly original wording, sentences, graphics, and order.
+Input images: Image 1 mascot appearance reference only; Image 2 PAGE_0001 design reference only.
+Canvas: strict 9:16 portrait, full-bleed, dense but scan-friendly, no page number.
+Top title (verbatim): 「文型が、意味のルートを作る」
+Central original illustration: a two-level adventure-library junction. On the upper “A=B” balcony, the leopard explorer in a signal-controller pose connects a subject and result; below, a conveyor marked “人 → もの” delivers a glowing parcel. One mascot only.
+Mechanism diagrams: upper rail “A → seem / prove / turn out → B” with note 「見え方・判明も A＝B」; lower rail “主語 → 動詞 → 人 → もの” with note 「人に、ものを渡す並び」. Add an arrow showing “型が意味を案内”.
+Original example cards:
+1. “The trail seemed safe.” / 「道＝安全そう」
+2. “Her idea proved useful.” / 「案＝役立つと判明」
+3. “Kai sent his sister a postcard.” / 「妹に→はがきを渡す」
+4. “The guide taught us a song.” / 「私たちに→歌を教える」
+Mini practice box: 「ミニ問題　語順を選ぼう」 “Mina showed (a photo / me) first.”
+Answer box: 「答え　me → a photo」 「授与型は“人→もの”の順。」
+Bottom ribbon: 「単語だけでなく、並びそのものにも意味がある」
+Style: high-polish PAGE_0001 adventure library, blue/yellow/white, dimensional blocks, gold track junction, bold outlines, red only on “人→もの”; large Japanese Gothic and accurate English.
+Constraints: render all specified text once, original visual, no source identity, copied example, quotation, citation, logo, watermark, ISBN, or page number; no extra prose, no photorealism, no generic worksheet, no cramped unreadable text.

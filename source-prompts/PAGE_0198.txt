@@ -1,0 +1,19 @@
+Use case: scientific-educational
+Asset type: dense illustrated English preposition book page, portrait 9:16
+Primary request: Independently teach WITH as connection: company, possession, tool/material, cause, simultaneous accompanying circumstance, harmony, agreement, relation, and ease. Reconstruct coverage pages 408–409 without copying source wording, examples, figures, or layout.
+Input images: PAGE_0001 approved design; mascot_reference exact leopard explorer.
+Canvas: exact 941×1672 portrait, strict 9:16, full bleed, safe margins, no page number.
+Top Japanese title: 「withで状況をつなぐ」
+Central illustration: the mascot is a connection engineer holding a glowing WITH hub whose cables link a companion, camera tool, smiling face, matching colors, and relation badge.
+Mechanism diagram: central 「WITH＝一緒・つながり」 branches to 人/所持・道具/材料・原因→結果・同時状況. Accompanying pattern 「with＋名詞＋説明語句」 with adjective/preposition phrase/-ing/past participle options. Phrase rail: agree with 人, go with, have to do with, with ease.
+Original example cards:
+1. “I took the picture with a small camera.” / 「道具とのつながり」
+2. “Mia returned with a smile on her face.” / 「戻る場面と笑顔が同時」
+3. “Blue goes well with gold.” / 「2色が一緒に調和する」
+4. “This clue has nothing to do with the key.” / 「keyとの関係はない」
+Mini practice: 「人に同意する：agree (with / to) a person」 Answer: 「with」. Reason: 「人と考えがつながるから。提案への同意はagree to。」
+Bottom takeaway: 「withは、人・物・道具・状況を同じ場面につなぐ」
+Style: vivid glossy connection laboratory, blue-gold-white-red, dimensional cables and hub, thick outlines, compact example cards, mascot once as an energetic engineer.
+Typography: exact English and readable Japanese Gothic.
+Constraints: no page number, source reuse, copied phrase list, trademarked object, source identity, logo, citation, watermark, or extra exercise.
+Avoid: multiple mascot clones, tiny simultaneous-structure text, dark circuitry.
