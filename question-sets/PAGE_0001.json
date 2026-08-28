@@ -1,0 +1,678 @@
+{
+  "schemaVersion": 1,
+  "page": {
+    "number": 1,
+    "id": "grammar-master-0001",
+    "title": "英文法クエスト",
+    "image": "pages/PAGE_0001.webp",
+    "sourcePrompt": "source-prompts/PAGE_0001.txt"
+  },
+  "analysis": {
+    "summaryJa": "このページは個別文法を詳説する本文ではなく、英語を『見て・わかって・使える』ようにする冒険の入口である。画像に見えるNOUN・VERB・ADJECTIVEの語ブロック、文を順に並べるレール、矢印、発話や時間を示す図を根拠に、名詞・動詞・形容詞の役割、基本語順、主語と動詞の一致、形容詞の位置、助動詞後の動詞原形を基礎範囲として40問に展開した。",
+    "grammarPoints": [
+      "名詞が主語・目的語・冠詞や所有限定詞の後ろに置かれること",
+      "動詞が文の述語となり、現在形では主語に応じて形が変わること",
+      "形容詞が名詞の前、またはbe・look・feel・becomeなどの後ろで名詞を説明すること",
+      "英語の基本語順が主語＋動詞＋目的語を中心に組み立てられること",
+      "can・couldなどの助動詞の直後には動詞原形を置くこと",
+      "同じ語族の名詞・動詞・形容詞・副詞を文中の席から選び分けること"
+    ],
+    "visualEvidence": [
+      "大きな題名『英文法クエスト』と副題『見て・わかって・使える！』が、理解から運用までをこの図鑑の目的として示している",
+      "NOUN・VERB・ADJECTIVEと表示された語ブロックが、単語には異なる役割があることを視覚化している",
+      "単語ブロックが文のレール上に並び、矢印が先へ続く構図が、英語では配置と順序が意味を作ることを示している",
+      "開いた英語の本、吹き出し、時計、方向矢印が、読むだけでなく会話や時間を含む場面で使う学習を示している",
+      "探検家のキャラクターが文ブロックの道を指しており、基礎部品から文を組み立てる入口として描かれている"
+    ],
+    "commonTraps": [
+      "冠詞や所有限定詞の後ろで、名詞ではなく動詞・形容詞を選ぶ",
+      "単数主語なのに現在形動詞へ-sを付けない、または複数主語に単数形を使う",
+      "look・feel・becomeなどの後ろで形容詞ではなく副詞を使う",
+      "日本語の語順につられて主語・動詞・目的語の順を崩す",
+      "can・couldの後ろに三単現・過去形・-ing形を置く",
+      "形容詞と副詞の修飾先を取り違え、名詞を副詞で説明したり動作を形容詞で説明したりする"
+    ]
+  },
+  "questions": [
+    {
+      "id": "PAGE_0001_Q01",
+      "format": "part5-cloze",
+      "prompt": "The revised ------- lists the times and rooms for every training session.",
+      "choices": {
+        "A": "scheduled",
+        "B": "scheduling",
+        "C": "schedule",
+        "D": "schedules"
+      },
+      "correctAnswer": "C",
+      "translationJa": "改訂された予定表には、すべての研修の時刻と部屋が記載されています。",
+      "explanationJa": "空所は文の主語になる単数名詞です。scheduleなら後ろの単数動詞listsと対応し、『予定表』という自然な意味になります。",
+      "focus": "名詞が主語になる位置",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0001_Q02",
+      "format": "part5-cloze",
+      "prompt": "The hotel lobby looks ------- after the lighting was replaced.",
+      "choices": {
+        "A": "brighter",
+        "B": "brightly",
+        "C": "brightness",
+        "D": "brighten"
+      },
+      "correctAnswer": "A",
+      "translationJa": "照明を交換した後、ホテルのロビーは以前より明るく見えます。",
+      "explanationJa": "lookはここでは『～に見える』という連結動詞で、後ろには主語の状態を説明する形容詞brighterが必要です。",
+      "focus": "連結動詞の後ろの形容詞",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0001_Q03",
+      "format": "part5-cloze",
+      "prompt": "Ms. Chen ------- the weekly sales report every Friday afternoon.",
+      "choices": {
+        "A": "review",
+        "B": "reviewed",
+        "C": "reviewing",
+        "D": "reviews"
+      },
+      "correctAnswer": "D",
+      "translationJa": "チェンさんは毎週金曜日の午後に週間売上報告書を確認します。",
+      "explanationJa": "every Friday afternoonは習慣を示すため現在形を使います。主語Ms. Chenは三人称単数なのでreviewsが正解です。",
+      "focus": "現在形の主語と動詞の一致",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0001_Q04",
+      "format": "part5-cloze",
+      "prompt": "The company ordered a ------- printer for the reception desk.",
+      "choices": {
+        "A": "compactly",
+        "B": "compact",
+        "C": "compactness",
+        "D": "compacted"
+      },
+      "correctAnswer": "B",
+      "translationJa": "会社は受付カウンター用に小型のプリンターを注文しました。",
+      "explanationJa": "printerという名詞を前から説明する形容詞compactが必要です。compactlyは副詞、compactnessは名詞です。",
+      "focus": "名詞の前に置く形容詞",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0001_Q05",
+      "format": "part5-cloze",
+      "prompt": "All visitors must show their ------- at the security desk.",
+      "choices": {
+        "A": "identification",
+        "B": "identify",
+        "C": "identifiable",
+        "D": "identified"
+      },
+      "correctAnswer": "A",
+      "translationJa": "すべての来訪者は警備受付で身分証明書を提示しなければなりません。",
+      "explanationJa": "所有限定詞theirの後ろには名詞が必要です。show their identificationで『身分証明書を提示する』となります。",
+      "focus": "所有限定詞の後ろの名詞",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0001_Q06",
+      "format": "part5-cloze",
+      "prompt": "The new software ------- customer requests into four categories automatically.",
+      "choices": {
+        "A": "sorting",
+        "B": "sort",
+        "C": "sorts",
+        "D": "sorted"
+      },
+      "correctAnswer": "C",
+      "translationJa": "新しいソフトウェアは顧客からの依頼を自動的に4つの分類に分けます。",
+      "explanationJa": "主語softwareは単数で、製品の通常機能を述べているため現在形sortsを使います。",
+      "focus": "単数主語に対応する現在形動詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0001_Q07",
+      "format": "part5-cloze",
+      "prompt": "The conference room is ------- enough to hold sixty participants.",
+      "choices": {
+        "A": "space",
+        "B": "spacious",
+        "C": "spaciously",
+        "D": "spaciousness"
+      },
+      "correctAnswer": "B",
+      "translationJa": "その会議室は60人の参加者を収容できるほど広々としています。",
+      "explanationJa": "be動詞isの後ろでroomの状態を説明する形容詞spaciousが必要です。enoughはその形容詞の程度を補います。",
+      "focus": "be動詞の補語になる形容詞",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0001_Q08",
+      "format": "part5-cloze",
+      "prompt": "Our technician can ------- the display before the store opens.",
+      "choices": {
+        "A": "repairs",
+        "B": "repaired",
+        "C": "repairing",
+        "D": "repair"
+      },
+      "correctAnswer": "D",
+      "translationJa": "当社の技術者は開店前にディスプレーを修理できます。",
+      "explanationJa": "助動詞canの直後には主語や時制にかかわらず動詞原形を置くため、repairが正解です。",
+      "focus": "can＋動詞原形",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0001_Q09",
+      "format": "part5-cloze",
+      "prompt": "The ------- from the supplier arrived at the warehouse this morning.",
+      "choices": {
+        "A": "ship",
+        "B": "shipped",
+        "C": "shipment",
+        "D": "shipping"
+      },
+      "correctAnswer": "C",
+      "translationJa": "仕入先からの荷物は今朝、倉庫に到着しました。",
+      "explanationJa": "Theの後ろでfrom the supplierに修飾され、arrivedの主語になる具体的な名詞shipmentが必要です。",
+      "focus": "冠詞の後ろで主語になる名詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0001_Q10",
+      "format": "part5-cloze",
+      "prompt": "The manager found the revised proposal ------- and approved it immediately.",
+      "choices": {
+        "A": "practical",
+        "B": "practically",
+        "C": "practicality",
+        "D": "practice"
+      },
+      "correctAnswer": "A",
+      "translationJa": "部長は改訂案が実用的だと判断し、すぐに承認しました。",
+      "explanationJa": "find＋目的語＋形容詞で『目的語が～だと分かる・判断する』を表します。proposalを説明するpracticalが正解です。",
+      "focus": "目的語を説明する形容詞",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0001_Q11",
+      "format": "correct-sentence",
+      "prompt": "Choose the grammatically correct sentence about organizing office files.",
+      "choices": {
+        "A": "The assistant the files organized by date.",
+        "B": "The assistant organized the files by date.",
+        "C": "The assistant organized by date the files was.",
+        "D": "The assistant the organized files by date."
+      },
+      "correctAnswer": "B",
+      "translationJa": "アシスタントはファイルを日付順に整理しました。",
+      "explanationJa": "基本語順は主語The assistant＋動詞organized＋目的語the filesで、その後に方法を表すby dateを置きます。",
+      "focus": "S＋V＋Oの基本語順",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0001_Q12",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence describing the new brochures.",
+      "choices": {
+        "A": "The new brochures is informative.",
+        "B": "The new brochures are information.",
+        "C": "The new brochures are informatively.",
+        "D": "The new brochures are informative."
+      },
+      "correctAnswer": "D",
+      "translationJa": "新しいパンフレットは有益です。",
+      "explanationJa": "複数主語brochuresにはareを使い、その後ろには主語の性質を表す形容詞informativeを置きます。",
+      "focus": "複数主語とbe動詞・形容詞補語",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0001_Q13",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about the document courier.",
+      "choices": {
+        "A": "A reliable courier delivers the documents each afternoon.",
+        "B": "A reliably courier delivers the documents each afternoon.",
+        "C": "A reliability courier delivers the documents each afternoon.",
+        "D": "A reliable courier deliver the documents each afternoon."
+      },
+      "correctAnswer": "A",
+      "translationJa": "信頼できる配達員が毎日午後に書類を届けます。",
+      "explanationJa": "courierを修飾する形容詞reliableと、三人称単数主語に対応する動詞deliversの組み合わせが正しい文です。",
+      "focus": "形容詞による名詞修飾と三単現",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0001_Q14",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about approving an expense.",
+      "choices": {
+        "A": "Our supervisor can approves the expense today.",
+        "B": "Our supervisor can approved the expense today.",
+        "C": "Our supervisor can approve the expense today.",
+        "D": "Our supervisor can approving the expense today."
+      },
+      "correctAnswer": "C",
+      "translationJa": "上司は今日その経費を承認できます。",
+      "explanationJa": "助動詞canの後ろは動詞原形approveです。approves、approved、approvingはcanの直後には置けません。",
+      "focus": "助動詞の後ろの動詞原形",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0001_Q15",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about replacing a cable.",
+      "choices": {
+        "A": "The technician replaced quick the damaged cable.",
+        "B": "The technician replaced the damage cable quickly.",
+        "C": "The technician quickly replacement the damaged cable.",
+        "D": "The technician replaced the damaged cable quickly."
+      },
+      "correctAnswer": "D",
+      "translationJa": "技術者は損傷したケーブルを素早く交換しました。",
+      "explanationJa": "damagedは名詞cableを修飾する形容詞相当、quicklyは動詞replacedを修飾する副詞です。両方の位置と形が正しいのはDです。",
+      "focus": "形容詞と副詞の役割の区別",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0001_Q16",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence describing a machine's normal operation.",
+      "choices": {
+        "A": "This machine is operate quietly.",
+        "B": "This machine operates quietly.",
+        "C": "This machine operating quiet every morning.",
+        "D": "This machine operates quietness."
+      },
+      "correctAnswer": "B",
+      "translationJa": "この機械は静かに作動します。",
+      "explanationJa": "単数主語This machineに現在形operatesを用い、その動作の様子を副詞quietlyで説明します。",
+      "focus": "述語動詞と動作を修飾する副詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0001_Q17",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about instructions given to a team.",
+      "choices": {
+        "A": "The director gave the team clearly instructions.",
+        "B": "The director gave clear the team instructions.",
+        "C": "The director gave the team clear instructions.",
+        "D": "The director the team gave instructions clear."
+      },
+      "correctAnswer": "C",
+      "translationJa": "部長はチームに明確な指示を与えました。",
+      "explanationJa": "give＋人＋物の語順でthe teamの後ろにclear instructionsを置き、形容詞clearは名詞instructionsの直前に置きます。",
+      "focus": "S＋V＋人＋物と形容詞の位置",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0001_Q18",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence describing the renovated office.",
+      "choices": {
+        "A": "The renovated office feels more comfortable.",
+        "B": "The renovated office feels more comfortably.",
+        "C": "The renovated office feel more comfortable.",
+        "D": "The renovated office is feel more comfortable."
+      },
+      "correctAnswer": "A",
+      "translationJa": "改装されたオフィスは以前より快適に感じられます。",
+      "explanationJa": "feelは連結動詞として主語officeの状態を説明するため形容詞comfortableを取ります。単数主語なのでfeelsです。",
+      "focus": "連結動詞feel＋形容詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0001_Q19",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence reporting room availability.",
+      "choices": {
+        "A": "The email confirm that the room is available.",
+        "B": "The email confirming that the room is available.",
+        "C": "The email confirmation that the room is available.",
+        "D": "The email confirms that the room is available."
+      },
+      "correctAnswer": "D",
+      "translationJa": "そのメールは部屋が利用可能であることを確認しています。",
+      "explanationJa": "単数主語The emailには現在形confirmsが必要で、that以下が確認内容を表します。ほかは述語動詞が完成していません。",
+      "focus": "主語に対応する述語動詞と内容節",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0001_Q20",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about preparing an invoice.",
+      "choices": {
+        "A": "The accountant prepared accurate the invoice.",
+        "B": "The accountant prepared an accurate invoice.",
+        "C": "The accountant prepared an accurately invoice.",
+        "D": "The accountant prepared a accuracy invoice."
+      },
+      "correctAnswer": "B",
+      "translationJa": "会計担当者は正確な請求書を作成しました。",
+      "explanationJa": "単数可算名詞invoiceには冠詞anが必要で、名詞の前には形容詞accurateを置きます。",
+      "focus": "冠詞＋形容詞＋名詞の並び",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0001_Q21",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The new sign is easy to read.\"",
+      "choices": {
+        "A": "People read the new sign only when it is easy.",
+        "B": "The new sign reads every visitor easily.",
+        "C": "The new sign is easy but cannot be read.",
+        "D": "People can read the new sign easily."
+      },
+      "correctAnswer": "D",
+      "translationJa": "人々はその新しい看板を簡単に読むことができます。",
+      "explanationJa": "be easy to readは『読むのが容易だ』という意味で、People can read ... easilyと同じ内容を表します。",
+      "focus": "形容詞easyと副詞easilyの言い換え",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0001_Q22",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"A helpful guide answered our questions.\"",
+      "choices": {
+        "A": "Our questions helped the guide answer.",
+        "B": "The guide who answered our questions was helpful.",
+        "C": "We answered a helpful guide's questions.",
+        "D": "The guide asked us several helpful questions."
+      },
+      "correctAnswer": "B",
+      "translationJa": "私たちの質問に答えてくれた案内係は親切でした。",
+      "explanationJa": "元の文のhelpfulはguideを説明しています。Bは関係節で同じ人物を特定し、その人物がhelpfulだったと述べています。",
+      "focus": "形容詞の前置修飾と補語の言い換え",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0001_Q23",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The manager made the instructions clear.\"",
+      "choices": {
+        "A": "The manager removed the instructions.",
+        "B": "The instructions made the manager clear.",
+        "C": "The manager explained the instructions clearly.",
+        "D": "The manager said the instructions were unnecessary."
+      },
+      "correctAnswer": "C",
+      "translationJa": "部長は指示を明確に説明しました。",
+      "explanationJa": "make＋目的語＋clearは『目的語を明確な状態にする』です。explained ... clearlyが同じ結果を自然に表します。",
+      "focus": "目的語補語の形容詞と副詞による言い換え",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0001_Q24",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The delivery arrived before the scheduled time.\"",
+      "choices": {
+        "A": "The delivery arrived early.",
+        "B": "The delivery was scheduled after it arrived.",
+        "C": "The delivery arrived at the scheduled time.",
+        "D": "The delivery did not arrive."
+      },
+      "correctAnswer": "A",
+      "translationJa": "配送品は早く到着しました。",
+      "explanationJa": "before the scheduled timeは予定時刻より前、つまりarrived earlyと同じ意味です。",
+      "focus": "時間を表す句と形容・副詞的意味",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0001_Q25",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The room became quiet after the announcement.\"",
+      "choices": {
+        "A": "The announcement made the room noisier.",
+        "B": "The room was no longer noisy after the announcement.",
+        "C": "The announcement was too quiet for the room.",
+        "D": "The room became noisy before the announcement."
+      },
+      "correctAnswer": "B",
+      "translationJa": "その部屋は発表の後、もう騒がしくなくなりました。",
+      "explanationJa": "became quietは『静かな状態になった』なので、was no longer noisyが同じ状態変化を表します。",
+      "focus": "連結動詞become＋形容詞の意味",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0001_Q26",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The technician can fix the scanner today.\"",
+      "choices": {
+        "A": "The technician fixed the scanner yesterday.",
+        "B": "The scanner can repair the technician today.",
+        "C": "The technician is required to replace the scanner today.",
+        "D": "The technician is able to repair the scanner today."
+      },
+      "correctAnswer": "D",
+      "translationJa": "その技術者は今日スキャナーを修理することができます。",
+      "explanationJa": "can fixは能力・可能を表し、is able to repairと同じ意味です。主語と目的語の関係も一致しています。",
+      "focus": "canとbe able toの基本的言い換え",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0001_Q27",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The blue folder contains the signed contract.\"",
+      "choices": {
+        "A": "The signed contract is in the blue folder.",
+        "B": "The blue contract is signed inside a folder.",
+        "C": "The folder and the contract are both unsigned.",
+        "D": "The blue folder is inside the signed contract."
+      },
+      "correctAnswer": "A",
+      "translationJa": "署名済みの契約書は青いフォルダーの中にあります。",
+      "explanationJa": "containsは『中に含んでいる』なので、contract is in the folderと同じ位置関係を表します。形容詞blueとsignedの修飾先も同じです。",
+      "focus": "形容詞の修飾先とSVOの関係",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0001_Q28",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The committee considers the plan practical.\"",
+      "choices": {
+        "A": "The committee has not discussed the plan.",
+        "B": "The plan gives practical advice to the committee.",
+        "C": "In the committee's opinion, the plan is practical.",
+        "D": "The committee considers a different plan."
+      },
+      "correctAnswer": "C",
+      "translationJa": "委員会の見解では、その計画は実用的です。",
+      "explanationJa": "consider＋目的語＋practicalは『その計画が実用的だと考える』です。Cはその判断内容をbe動詞文で表しています。",
+      "focus": "目的語補語とbe動詞文の言い換え",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0001_Q29",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"An unexpected delay changed our schedule.\"",
+      "choices": {
+        "A": "Our schedule changed because of an unexpected delay.",
+        "B": "Our schedule prevented the delay.",
+        "C": "The delay happened because the schedule changed.",
+        "D": "The schedule changed without any delay."
+      },
+      "correctAnswer": "A",
+      "translationJa": "予期しない遅れのため、私たちの予定が変更されました。",
+      "explanationJa": "元の文ではunexpected delayが変化の原因です。Aはbecause ofを使って同じ因果関係を保っています。",
+      "focus": "名詞主語と原因句による言い換え",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0001_Q30",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The receptionist speaks English clearly.\"",
+      "choices": {
+        "A": "The receptionist speaks only written English.",
+        "B": "The receptionist's English is difficult to understand.",
+        "C": "The receptionist does not speak English.",
+        "D": "The receptionist's English is easy to understand."
+      },
+      "correctAnswer": "D",
+      "translationJa": "受付担当者の英語は理解しやすいです。",
+      "explanationJa": "speaks English clearlyは聞き手にとって理解しやすい話し方を表すため、English is easy to understandが最も近い意味です。",
+      "focus": "副詞clearlyと形容詞easyの意味対応",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0001_Q31",
+      "format": "context-completion",
+      "prompt": "The lobby renovation is complete. It now looks ------- and more welcoming to visitors.",
+      "choices": {
+        "A": "modernly",
+        "B": "modernity",
+        "C": "modern",
+        "D": "modernize"
+      },
+      "correctAnswer": "C",
+      "translationJa": "ロビーの改装が完了しました。今では現代的で、来訪者をより温かく迎える雰囲気に見えます。",
+      "explanationJa": "lookの後ろでlobbyの状態を説明し、andで形容詞welcomingと並ぶため、形容詞modernが必要です。",
+      "focus": "連結動詞と並列される形容詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0001_Q32",
+      "format": "context-completion",
+      "prompt": "Mr. Ito checks all invoices before payment. Whenever information is missing, he ------- the problem to the purchasing team.",
+      "choices": {
+        "A": "report",
+        "B": "reports",
+        "C": "reporting",
+        "D": "reported"
+      },
+      "correctAnswer": "B",
+      "translationJa": "伊藤さんは支払い前にすべての請求書を確認します。情報が不足しているときはいつでも、その問題を購買チームに報告します。",
+      "explanationJa": "前文とWheneverが反復する業務を示します。主語heは三人称単数なので現在形reportsが正解です。",
+      "focus": "文脈に合う現在形と三単現",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0001_Q33",
+      "format": "context-completion",
+      "prompt": "We need a label for each storage box. Please write a short ------- of its contents on the front.",
+      "choices": {
+        "A": "describe",
+        "B": "descriptive",
+        "C": "descriptively",
+        "D": "description"
+      },
+      "correctAnswer": "D",
+      "translationJa": "各収納箱にラベルが必要です。前面に中身の短い説明を書いてください。",
+      "explanationJa": "冠詞aと形容詞shortの後ろには名詞が必要です。description of its contentsで『中身の説明』となります。",
+      "focus": "冠詞＋形容詞の後ろの名詞",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0001_Q34",
+      "format": "context-completion",
+      "prompt": "The projector stopped working during the seminar. Fortunately, a technician could ------- it within minutes.",
+      "choices": {
+        "A": "repair",
+        "B": "repairs",
+        "C": "repaired",
+        "D": "repairing"
+      },
+      "correctAnswer": "A",
+      "translationJa": "セミナー中にプロジェクターが動かなくなりました。幸い、技術者が数分以内に修理できました。",
+      "explanationJa": "couldはcanの過去形の助動詞なので、直後には動詞原形repairを置きます。",
+      "focus": "could＋動詞原形",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0001_Q35",
+      "format": "context-completion",
+      "prompt": "The hotel sent us a ------- map of the conference area. It clearly marks every meeting room and exit.",
+      "choices": {
+        "A": "detail",
+        "B": "detailing",
+        "C": "detailed",
+        "D": "details"
+      },
+      "correctAnswer": "C",
+      "translationJa": "ホテルは会議エリアの詳細な地図を送ってくれました。その地図にはすべての会議室と出口が明確に記されています。",
+      "explanationJa": "mapを前から説明する形容詞detailedが必要です。次文のclearly marksも、情報量の多い地図だという文脈を支えます。",
+      "focus": "文脈から選ぶ名詞前の形容詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0001_Q36",
+      "format": "context-completion",
+      "prompt": "The customer's message is still open on the service screen. It currently ------- a request to change the delivery date.",
+      "choices": {
+        "A": "contain",
+        "B": "contains",
+        "C": "containing",
+        "D": "contained"
+      },
+      "correctAnswer": "B",
+      "translationJa": "顧客のメッセージは今もサービス画面に開かれています。現在、その中には配送日を変更してほしいという依頼が含まれています。",
+      "explanationJa": "currentlyと前文のis still openが現在の内容を示します。主語Itは単数なのでcontainsが正解です。",
+      "focus": "現在の状態を述べる単数動詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0001_Q37",
+      "format": "context-completion",
+      "prompt": "The office has two entrances. The side entrance is ------- to wheelchair users and has an automatic door.",
+      "choices": {
+        "A": "accessible",
+        "B": "access",
+        "C": "accessibly",
+        "D": "accessibility"
+      },
+      "correctAnswer": "A",
+      "translationJa": "そのオフィスには入口が2つあります。横の入口は車いす利用者が利用でき、自動ドアがあります。",
+      "explanationJa": "be動詞isの後ろでentranceの性質を説明する形容詞accessibleを使います。accessible to peopleで『人が利用できる』です。",
+      "focus": "be動詞の後ろの形容詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0001_Q38",
+      "format": "context-completion",
+      "prompt": "Maria prepared the travel documents. She placed the passport and tickets in a ------- folder so they would be easy to find.",
+      "choices": {
+        "A": "redness",
+        "B": "redden",
+        "C": "redly",
+        "D": "red"
+      },
+      "correctAnswer": "D",
+      "translationJa": "マリアは渡航書類を準備しました。見つけやすいように、パスポートと切符を赤いフォルダーに入れました。",
+      "explanationJa": "folderを前から説明する色の形容詞redが必要です。冠詞a＋形容詞＋名詞の順になります。",
+      "focus": "色を表す形容詞の位置",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0001_Q39",
+      "format": "context-completion",
+      "prompt": "Our team needs someone to lead the product tour. Ms. Lopez is a confident ------- and has guided many visitors.",
+      "choices": {
+        "A": "present",
+        "B": "presenter",
+        "C": "presenting",
+        "D": "presented"
+      },
+      "correctAnswer": "B",
+      "translationJa": "私たちのチームには製品ツアーを案内する人が必要です。ロペスさんは自信のある説明者で、多くの来訪者を案内してきました。",
+      "explanationJa": "冠詞aと形容詞confidentの後ろには人を表す名詞presenterが必要です。前文のsomeoneとも対応します。",
+      "focus": "人を表す名詞の選択",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0001_Q40",
+      "format": "context-completion",
+      "prompt": "The safety notice uses short sentences and large letters. As a result, employees can ------- it quickly.",
+      "choices": {
+        "A": "understanding",
+        "B": "understood",
+        "C": "understand",
+        "D": "understands"
+      },
+      "correctAnswer": "C",
+      "translationJa": "安全掲示は短い文と大きな文字を使っています。そのため、従業員はすぐに内容を理解できます。",
+      "explanationJa": "canの後ろには動詞原形understandを置きます。前文のshort sentencesとlarge lettersが理解しやすさの根拠です。",
+      "focus": "文脈判断を伴うcan＋動詞原形",
+      "difficulty": "basic"
+    }
+  ]
+}

@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": null,
+  "updatedAt": "2026-08-28T16:21:01.741Z",
   "totalPages": 330,
-  "completedPages": 0,
+  "completedPages": 1,
   "questionsPerPage": 40,
   "totalPlannedQuestions": 13200,
   "pages": [
@@ -10,9 +10,9 @@
       "number": 1,
       "id": "grammar-master-0001",
       "title": "英文法クエスト",
-      "status": "pending",
+      "status": "complete",
       "output": "question-sets/PAGE_0001.json",
-      "completedAt": null
+      "completedAt": "2026-08-28T16:21:01.741Z"
     },
     {
       "number": 2,

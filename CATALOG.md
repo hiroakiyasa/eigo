@@ -6,7 +6,7 @@
 
 | ページ | タイトル | 画像 | 制作原稿 | 問題 |
 |---:|---|---|---|---|
-| 1 | 英文法クエスト | [PAGE_0001](pages/PAGE_0001.webp) | [原稿](source-prompts/PAGE_0001.txt) | `pending` |
+| 1 | 英文法クエスト | [PAGE_0001](pages/PAGE_0001.webp) | [原稿](source-prompts/PAGE_0001.txt) | [40問](question-sets/PAGE_0001.json) |
 | 2 | 冒険の進め方 | [PAGE_0002](pages/PAGE_0002.webp) | [原稿](source-prompts/PAGE_0002.txt) | `pending` |
 | 3 | 英語の4つの地図 | [PAGE_0003](pages/PAGE_0003.webp) | [原稿](source-prompts/PAGE_0003.txt) | `pending` |
 | 4 | 並び方で意味が決まる | [PAGE_0004](pages/PAGE_0004.webp) | [原稿](source-prompts/PAGE_0004.txt) | `pending` |
