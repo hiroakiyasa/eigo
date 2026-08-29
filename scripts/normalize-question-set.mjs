@@ -10,6 +10,8 @@ const FORMATS = [
   'meaning-equivalent',
   'context-completion',
 ];
+const DIFFICULTIES = ['basic', 'intermediate', 'advanced'];
+const EXPECTED_DIFFICULTIES = { basic: 10, intermediate: 20, advanced: 10 };
 
 // Each format keeps every answer position at 2-3 occurrences. Across all four
 // formats, A/B/C/D appear exactly ten times each. The order is intentionally
@@ -19,6 +21,13 @@ const TARGET_ANSWERS = {
   'correct-sentence': ['D', 'B', 'C', 'A', 'D', 'C', 'B', 'D', 'C', 'A'],
   'meaning-equivalent': ['A', 'D', 'C', 'B', 'A', 'C', 'D', 'A', 'B', 'C'],
   'context-completion': ['B', 'D', 'A', 'C', 'D', 'B', 'A', 'D', 'C', 'B'],
+};
+
+const FALLBACK_DIFFICULTIES = {
+  'part5-cloze': ['basic', 'intermediate', 'basic', 'intermediate', 'advanced', 'intermediate', 'basic', 'advanced', 'intermediate', 'intermediate'],
+  'correct-sentence': ['intermediate', 'basic', 'advanced', 'intermediate', 'basic', 'advanced', 'intermediate', 'advanced', 'intermediate', 'intermediate'],
+  'meaning-equivalent': ['basic', 'intermediate', 'advanced', 'basic', 'intermediate', 'intermediate', 'basic', 'advanced', 'intermediate', 'intermediate'],
+  'context-completion': ['intermediate', 'basic', 'advanced', 'intermediate', 'advanced', 'basic', 'intermediate', 'advanced', 'intermediate', 'intermediate'],
 };
 
 let data;
@@ -102,6 +111,61 @@ if (answerDistributionNeedsRepair(data.questions)) {
       changes.push('answer-distribution');
     }
   }
+}
+
+function normalizeDifficultyDistribution(questions) {
+  if (!Array.isArray(questions) || questions.length !== 40) return false;
+  const grouped = Object.fromEntries(FORMATS.map((format) => [format, []]));
+  for (const question of questions) {
+    if (!FORMATS.includes(question?.format)) return false;
+    grouped[question.format].push(question);
+  }
+  if (FORMATS.some((format) => grouped[format].length !== 10)) return false;
+
+  const invalid = questions.some((question) => !DIFFICULTIES.includes(question?.difficulty));
+  if (invalid) {
+    for (const format of FORMATS) {
+      grouped[format].forEach((question, index) => {
+        question.difficulty = FALLBACK_DIFFICULTIES[format][index];
+      });
+    }
+    return true;
+  }
+
+  const counts = Object.fromEntries(DIFFICULTIES.map((difficulty) => [difficulty, 0]));
+  questions.forEach((question) => { counts[question.difficulty] += 1; });
+  if (DIFFICULTIES.every((difficulty) => counts[difficulty] === EXPECTED_DIFFICULTIES[difficulty])) return false;
+
+  const surplus = Object.fromEntries(
+    DIFFICULTIES.map((difficulty) => [difficulty, Math.max(0, counts[difficulty] - EXPECTED_DIFFICULTIES[difficulty])]),
+  );
+  const deficit = Object.fromEntries(
+    DIFFICULTIES.map((difficulty) => [difficulty, Math.max(0, EXPECTED_DIFFICULTIES[difficulty] - counts[difficulty])]),
+  );
+
+  const orderForTarget = {
+    basic: [...questions.keys()],
+    intermediate: [...questions.keys()].sort((a, b) => Math.abs(a - 19.5) - Math.abs(b - 19.5)),
+    advanced: [...questions.keys()].reverse(),
+  };
+
+  for (const target of DIFFICULTIES) {
+    while (deficit[target] > 0) {
+      const source = DIFFICULTIES.find((difficulty) => surplus[difficulty] > 0);
+      if (!source) return false;
+      const index = orderForTarget[target].find((candidate) => questions[candidate].difficulty === source);
+      if (index === undefined) return false;
+      questions[index].difficulty = target;
+      surplus[source] -= 1;
+      deficit[target] -= 1;
+    }
+  }
+  return true;
+}
+
+if (normalizeDifficultyDistribution(data.questions)) {
+  changed = true;
+  changes.push('difficulty-distribution');
 }
 
 if (changed) {
