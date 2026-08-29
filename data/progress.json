@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-29T03:57:09.276Z",
+  "updatedAt": "2026-08-29T04:01:22.515Z",
   "totalPages": 330,
-  "completedPages": 50,
+  "completedPages": 51,
   "questionsPerPage": 40,
   "totalPlannedQuestions": 13200,
   "pages": [
@@ -418,9 +418,9 @@
       "number": 52,
       "id": "grammar-master-0052",
       "title": "力と方向で動詞をつかむ",
-      "status": "pending",
+      "status": "complete",
       "output": "question-sets/PAGE_0052.json",
-      "completedAt": null
+      "completedAt": "2026-08-29T04:01:22.515Z"
     },
     {
       "number": 53,
