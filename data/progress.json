@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-29T05:03:05.705Z",
+  "updatedAt": "2026-08-29T05:05:06.272Z",
   "totalPages": 330,
-  "completedPages": 55,
+  "completedPages": 56,
   "questionsPerPage": 40,
   "totalPlannedQuestions": 13200,
   "pages": [
@@ -458,9 +458,9 @@
       "number": 57,
       "id": "grammar-master-0057",
       "title": "感じる動詞・伝える動詞",
-      "status": "pending",
+      "status": "complete",
       "output": "question-sets/PAGE_0057.json",
-      "completedAt": null
+      "completedAt": "2026-08-29T05:05:06.272Z"
     },
     {
       "number": 58,
