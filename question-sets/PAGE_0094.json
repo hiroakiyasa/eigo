@@ -1,0 +1,676 @@
+{
+  "schemaVersion": 1,
+  "page": {
+    "number": 94,
+    "id": "grammar-master-0094",
+    "title": "thatは導く、限定詞は受ける",
+    "image": "pages/PAGE_0094.webp",
+    "sourcePrompt": "source-prompts/PAGE_0094.txt"
+  },
+  "analysis": {
+    "summaryJa": "thatは遠くの物を指すだけでなく、動詞が表す考えの内容、名詞の具体的な中身、名詞を後ろから説明する節へ注意を導く。一方some・any・both・eachなど多くの限定詞は、既知の名詞を省いて代名詞的に単独使用でき、特定集合の一部を示すときはX of＋the／these／代名詞を用いる。noは単独にできずnoneへ形を変える。",
+    "grammarPoints": [
+      "指示代名詞that",
+      "動詞の内容を導く接続詞that",
+      "同格のthat節と関係代名詞that",
+      "some・any・both・eachの単独用法",
+      "X of＋特定集合",
+      "no＋名詞と単独noneの区別"
+    ],
+    "visualEvidence": [
+      "THATの矢印が物・考えの内容・名詞の中身・後ろの説明へ分岐する図",
+      "some booksからsomeなど名詞が消えても残るカード",
+      "X of＋特定グループの枠",
+      "単独noは不可でnoneを使うという警告"
+    ],
+    "commonTraps": [
+      "接続詞thatと指示語thatを混同する",
+      "同格that節を関係節と誤認する",
+      "特定集合の前でofを落とす",
+      "noを名詞なしで使う",
+      "ofの後ろに限定のない裸複数を置く"
+    ]
+  },
+  "questions": [
+    {
+      "id": "PAGE_0094_Q01",
+      "format": "part5-cloze",
+      "prompt": "The director confirmed ------- the new branch would open in May.",
+      "choices": {
+        "A": "what",
+        "B": "those",
+        "C": "that",
+        "D": "some"
+      },
+      "correctAnswer": "C",
+      "translationJa": "部長は新支店が5月に開業することを確認しました。",
+      "explanationJa": "confirmedの内容となる完全な節を導く接続詞thatが必要です。",
+      "focus": "動詞の内容を導くthat",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0094_Q02",
+      "format": "part5-cloze",
+      "prompt": "The report ------- arrived this morning contains the final figures.",
+      "choices": {
+        "A": "that",
+        "B": "what",
+        "C": "those",
+        "D": "some"
+      },
+      "correctAnswer": "A",
+      "translationJa": "今朝届いた報告書には最終数値が記載されています。",
+      "explanationJa": "先行詞reportを後ろから説明し、関係節内の主語になる関係代名詞thatです。",
+      "focus": "主格関係代名詞that",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0094_Q03",
+      "format": "part5-cloze",
+      "prompt": "The news ------- the contract had been renewed relieved the team.",
+      "choices": {
+        "A": "what",
+        "B": "those",
+        "C": "some",
+        "D": "that"
+      },
+      "correctAnswer": "D",
+      "translationJa": "契約が更新されたという知らせにチームは安心しました。",
+      "explanationJa": "newsの具体的な中身を完全な節で説明する同格のthatです。",
+      "focus": "同格のthat節",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0094_Q04",
+      "format": "part5-cloze",
+      "prompt": "The samples on this tray are defective, but ------- over there passed inspection.",
+      "choices": {
+        "A": "that",
+        "B": "those",
+        "C": "some",
+        "D": "any"
+      },
+      "correctAnswer": "B",
+      "translationJa": "このトレーのサンプルは不良ですが、向こうのものは検査に合格しました。",
+      "explanationJa": "遠くの複数samplesを名詞なしで受ける指示代名詞thoseが適切です。",
+      "focus": "指示代名詞those",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0094_Q05",
+      "format": "part5-cloze",
+      "prompt": "We need more labels; do you have -------?",
+      "choices": {
+        "A": "any",
+        "B": "no",
+        "C": "every",
+        "D": "much"
+      },
+      "correctAnswer": "A",
+      "translationJa": "ラベルがもっと必要です。何枚かありますか。",
+      "explanationJa": "既出の複数labelsを繰り返さず、疑問文でanyを単独使用します。",
+      "focus": "anyの単独用法",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0094_Q06",
+      "format": "part5-cloze",
+      "prompt": "Four routes were proposed, and ------- are suitable for large trucks.",
+      "choices": {
+        "A": "no",
+        "B": "every",
+        "C": "some",
+        "D": "much"
+      },
+      "correctAnswer": "C",
+      "translationJa": "4つの経路が提案され、そのうちいくつかは大型トラックに適しています。",
+      "explanationJa": "既知の複数routesの一部をsomeが単独で受けます。",
+      "focus": "someの単独用法",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0094_Q07",
+      "format": "part5-cloze",
+      "prompt": "We tested the two microphones, and ------- worked clearly.",
+      "choices": {
+        "A": "each of",
+        "B": "both",
+        "C": "no",
+        "D": "every"
+      },
+      "correctAnswer": "B",
+      "translationJa": "2本のマイクを試したところ、両方とも明瞭に作動しました。",
+      "explanationJa": "既出の二つを名詞なしで受け、複数動詞workedと結ぶbothです。",
+      "focus": "bothの単独用法",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0094_Q08",
+      "format": "part5-cloze",
+      "prompt": "The six desks were checked; ------- of them needs a new cable.",
+      "choices": {
+        "A": "every",
+        "B": "no",
+        "C": "all",
+        "D": "each"
+      },
+      "correctAnswer": "D",
+      "translationJa": "6台の机を確認したところ、それぞれに新しいケーブルが必要です。",
+      "explanationJa": "特定集合themの各構成員をEach ofで表し、単数動詞needsを取ります。",
+      "focus": "each of＋代名詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0094_Q09",
+      "format": "part5-cloze",
+      "prompt": "The survey offered three dates, but ------- of them suited the trainer.",
+      "choices": {
+        "A": "no",
+        "B": "not",
+        "C": "none",
+        "D": "neither"
+      },
+      "correctAnswer": "C",
+      "translationJa": "調査では3つの日程を提示しましたが、講師に都合のよいものは一つもありませんでした。",
+      "explanationJa": "三つ以上の特定集合をゼロとして単独で受けるnone ofを使います。",
+      "focus": "none ofとnoの区別",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0094_Q10",
+      "format": "part5-cloze",
+      "prompt": "The assumption ------- all clients prefer email may be incorrect.",
+      "choices": {
+        "A": "that",
+        "B": "what",
+        "C": "which of",
+        "D": "those"
+      },
+      "correctAnswer": "A",
+      "translationJa": "すべての顧客がメールを好むという想定は誤っているかもしれません。",
+      "explanationJa": "assumptionの中身を示す完全な節を同格thatが導きます。",
+      "focus": "抽象名詞＋同格that",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0094_Q11",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence reporting a belief.",
+      "choices": {
+        "A": "We believe that is the revised plan practical.",
+        "B": "We believe that the revised plan is practical.",
+        "C": "We believe what the revised plan is practical.",
+        "D": "We believe those the revised plan is practical."
+      },
+      "correctAnswer": "B",
+      "translationJa": "改訂案は実用的だと私たちは考えています。",
+      "explanationJa": "believeの内容をS＋Vの語順の完全なthat節で示します。",
+      "focus": "内容節thatの語順",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0094_Q12",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence identifying a document.",
+      "choices": {
+        "A": "The form that it requires a signature is on the counter.",
+        "B": "The form what requires a signature is on the counter.",
+        "C": "The form that requires a signature are on the counter.",
+        "D": "The form that requires a signature is on the counter."
+      },
+      "correctAnswer": "D",
+      "translationJa": "署名を必要とする用紙はカウンターにあります。",
+      "explanationJa": "thatが関係節の主語なのでitを重ねず、単数formにisを合わせます。",
+      "focus": "関係代名詞that",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0094_Q13",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence explaining the content of a rumor.",
+      "choices": {
+        "A": "The rumor that the store would close proved false.",
+        "B": "The rumor that would close the store proved false.",
+        "C": "The rumor what the store would close proved false.",
+        "D": "The rumor that the store would close it proved false."
+      },
+      "correctAnswer": "A",
+      "translationJa": "その店が閉店するといううわさは誤りだと分かりました。",
+      "explanationJa": "that以下はrumorの内容を示す完全な同格節です。",
+      "focus": "同格that節",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0094_Q14",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence using a determiner without repeating a noun.",
+      "choices": {
+        "A": "We ordered ten chairs, but only no arrived.",
+        "B": "We ordered ten chairs, but only every arrived.",
+        "C": "We ordered ten chairs, but only some arrived.",
+        "D": "We ordered ten chairs, but only some chairs they arrived."
+      },
+      "correctAnswer": "C",
+      "translationJa": "椅子を10脚注文しましたが、届いたのは一部だけでした。",
+      "explanationJa": "someが既出のchairsを単独で受け、名詞や代名詞を重ねません。",
+      "focus": "単独some",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0094_Q15",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about two known alternatives.",
+      "choices": {
+        "A": "The two entrances are unlocked, so you may use every.",
+        "B": "The two entrances are unlocked, so you may use no.",
+        "C": "The two entrances are unlocked, so you may use either entrance it.",
+        "D": "The two entrances are unlocked, so you may use either."
+      },
+      "correctAnswer": "D",
+      "translationJa": "2つの入口は解錠されているので、どちらを使ってもかまいません。",
+      "explanationJa": "eitherが既知の二つのentrancesを単独で受けます。",
+      "focus": "単独either",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0094_Q16",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence selecting part of a specific group.",
+      "choices": {
+        "A": "Some of applicants have prior experience.",
+        "B": "Some of the applicants have prior experience.",
+        "C": "Some the applicants have prior experience.",
+        "D": "Some of the applicant has prior experience, meaning several."
+      },
+      "correctAnswer": "B",
+      "translationJa": "その応募者たちのうち何人かは経験があります。",
+      "explanationJa": "特定集合the applicantsの一部はsome of the＋複数で示します。",
+      "focus": "some of＋特定集合",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0094_Q17",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence referring to all members of a pair.",
+      "choices": {
+        "A": "Both of they have confirmed attendance.",
+        "B": "Both them has confirmed attendance.",
+        "C": "Both of them have confirmed attendance.",
+        "D": "Every of them have confirmed attendance."
+      },
+      "correctAnswer": "C",
+      "translationJa": "彼ら2人は両方とも出席を確認済みです。",
+      "explanationJa": "前置詞ofの後ろは目的格themで、both of themは複数扱いです。",
+      "focus": "both of＋目的格代名詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0094_Q18",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence meaning zero items without a following noun.",
+      "choices": {
+        "A": "We requested three quotes, but none arrived.",
+        "B": "We requested three quotes, but no arrived.",
+        "C": "We requested three quotes, but not arrived.",
+        "D": "We requested three quotes, but none quote arrived."
+      },
+      "correctAnswer": "A",
+      "translationJa": "見積もりを3件依頼しましたが、一件も届きませんでした。",
+      "explanationJa": "名詞を伴わずゼロを受けるときはnoではなくnoneを使います。",
+      "focus": "noとnoneの区別",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0094_Q19",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence with each of.",
+      "choices": {
+        "A": "Each of these devices have a warranty label.",
+        "B": "Every of these devices has a warranty label.",
+        "C": "Each these devices has a warranty label.",
+        "D": "Each of these devices has a warranty label."
+      },
+      "correctAnswer": "D",
+      "translationJa": "これらの装置には一台ずつ保証ラベルがあります。",
+      "explanationJa": "each of＋限定された複数集合は単数動詞hasを取ります。",
+      "focus": "each ofの一致",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0094_Q20",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence contrasting that functions.",
+      "choices": {
+        "A": "I know that the package that it arrived yesterday is yours.",
+        "B": "I know that the package that arrived yesterday is yours.",
+        "C": "I know what the package that arrived yesterday is yours.",
+        "D": "I know those the package what arrived yesterday is yours."
+      },
+      "correctAnswer": "B",
+      "translationJa": "昨日届いた荷物があなたのものだと知っています。",
+      "explanationJa": "最初のthatはknowの内容節、二つ目はpackageを説明する関係代名詞です。",
+      "focus": "内容節thatと関係that",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0094_Q21",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"I heard that the meeting was canceled.\"",
+      "choices": {
+        "A": "I heard the canceled meeting itself speak.",
+        "B": "I canceled the meeting after hearing it.",
+        "C": "I heard which meeting to schedule.",
+        "D": "I heard the news of the meeting’s cancellation."
+      },
+      "correctAnswer": "D",
+      "translationJa": "会議中止の知らせを聞きました。",
+      "explanationJa": "that節はheardの内容を示し、名詞句the news of ...で言い換えられます。",
+      "focus": "内容that節の言い換え",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0094_Q22",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The claim that the device is safe needs evidence.\"",
+      "choices": {
+        "A": "A safe device made a claim.",
+        "B": "The claim’s content is that the device is safe, and it needs evidence.",
+        "C": "The claim identifies a device that needs evidence.",
+        "D": "Evidence has already proved the claim."
+      },
+      "correctAnswer": "B",
+      "translationJa": "その装置は安全だという主張には根拠が必要です。",
+      "explanationJa": "同格that節はclaimの具体的内容を説明します。",
+      "focus": "同格thatの意味",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0094_Q23",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The files that are encrypted need passwords.\"",
+      "choices": {
+        "A": "All files are encrypted and password-free.",
+        "B": "Passwords encrypted the files.",
+        "C": "The encrypted files need passwords.",
+        "D": "The files need to encrypt passwords."
+      },
+      "correctAnswer": "C",
+      "translationJa": "暗号化されているファイルにはパスワードが必要です。",
+      "explanationJa": "関係節that are encryptedは形容詞encryptedで短く言い換えられます。",
+      "focus": "関係that節の言い換え",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0094_Q24",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"We have batteries, but we need more.\" \"I have some.\"",
+      "choices": {
+        "A": "The speaker has an unspecified number of batteries.",
+        "B": "The speaker has no batteries.",
+        "C": "The speaker has every battery in existence.",
+        "D": "The speaker has only battery chargers."
+      },
+      "correctAnswer": "A",
+      "translationJa": "話し手は電池をいくつか持っています。",
+      "explanationJa": "単独someは文脈上既出の複数batteriesを受けます。",
+      "focus": "単独someの指示内容",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0094_Q25",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"Which of the two rooms is free?\" \"Both.\"",
+      "choices": {
+        "A": "Only one room is free.",
+        "B": "The two rooms are both free.",
+        "C": "Neither room is free.",
+        "D": "Every room in the building is free."
+      },
+      "correctAnswer": "B",
+      "translationJa": "2つの部屋は両方とも空いています。",
+      "explanationJa": "単独bothは直前の二つのroomsを受けます。",
+      "focus": "単独bothの意味",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0094_Q26",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"Some of these orders are urgent.\"",
+      "choices": {
+        "A": "Orders in general are all urgent.",
+        "B": "None of these orders is urgent.",
+        "C": "One unspecified order outside the set is urgent.",
+        "D": "A portion of this specific set of orders is urgent."
+      },
+      "correctAnswer": "D",
+      "translationJa": "これらの注文という特定集合の一部が緊急です。",
+      "explanationJa": "some of theseは境界の見える集合の一部を選びます。",
+      "focus": "some of＋特定集合の意味",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0094_Q27",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"Each of us has a key.\"",
+      "choices": {
+        "A": "Every person in our group has a key.",
+        "B": "Our group shares one key only.",
+        "C": "No one in our group has a key.",
+        "D": "Some people outside our group have keys."
+      },
+      "correctAnswer": "A",
+      "translationJa": "私たちの一人ひとりが鍵を持っています。",
+      "explanationJa": "each of usは特定集団usの各構成員を示します。",
+      "focus": "each of usの意味",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0094_Q28",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"None of the printers works.\"",
+      "choices": {
+        "A": "Every printer works.",
+        "B": "One printer definitely works.",
+        "C": "No printer in the specified group works.",
+        "D": "Printers outside the group cannot work."
+      },
+      "correctAnswer": "C",
+      "translationJa": "そのプリンター群の中で作動するものは一台もありません。",
+      "explanationJa": "none of the printersは特定集合内の数量ゼロを表します。",
+      "focus": "none ofの意味",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0094_Q29",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"That over there is our shuttle.\"",
+      "choices": {
+        "A": "The distant vehicle being indicated is our shuttle.",
+        "B": "This vehicle beside me is our shuttle.",
+        "C": "All distant vehicles are our shuttles.",
+        "D": "Our shuttle indicates a distant place."
+      },
+      "correctAnswer": "A",
+      "translationJa": "向こうにある、指し示している車両が私たちの送迎車です。",
+      "explanationJa": "単独thatは話し手から遠い一つの物を指します。",
+      "focus": "指示代名詞thatの意味",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0094_Q30",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The fact that sales rose pleased investors.\"",
+      "choices": {
+        "A": "Investors caused sales to fall.",
+        "B": "The fact was an investor that rose.",
+        "C": "Sales rose because investors were displeased.",
+        "D": "Investors were pleased by the fact of rising sales."
+      },
+      "correctAnswer": "D",
+      "translationJa": "売上が伸びたという事実を投資家は喜びました。",
+      "explanationJa": "同格that節がfactの内容を示し、of＋動名詞相当で言い換えられます。",
+      "focus": "fact＋同格that",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0094_Q31",
+      "format": "context-completion",
+      "prompt": "The manager reviewed the forecast. She concluded ------- demand would increase next quarter.",
+      "choices": {
+        "A": "what",
+        "B": "those",
+        "C": "that",
+        "D": "some"
+      },
+      "correctAnswer": "C",
+      "translationJa": "部長は予測を確認し、次四半期に需要が増えると結論づけました。",
+      "explanationJa": "concludedの内容を完全な節で示す接続詞thatが必要です。",
+      "focus": "文脈上の内容that節",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0094_Q32",
+      "format": "context-completion",
+      "prompt": "Several boxes arrived today. The box ------- contains replacement parts should go to maintenance.",
+      "choices": {
+        "A": "what",
+        "B": "that",
+        "C": "those",
+        "D": "some"
+      },
+      "correctAnswer": "B",
+      "translationJa": "今日いくつか箱が届きました。交換部品が入っている箱は保守部門へ回してください。",
+      "explanationJa": "boxを特定し、関係節内の主語となるthatが適切です。",
+      "focus": "文脈上の関係that",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0094_Q33",
+      "format": "context-completion",
+      "prompt": "The announcement surprised everyone. The announcement ------- the office would relocate was unexpected.",
+      "choices": {
+        "A": "what",
+        "B": "those",
+        "C": "some",
+        "D": "that"
+      },
+      "correctAnswer": "D",
+      "translationJa": "発表は全員を驚かせました。事務所が移転するという発表は予想外でした。",
+      "explanationJa": "announcementの具体的内容を同格that節が説明します。",
+      "focus": "文脈上の同格that",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0094_Q34",
+      "format": "context-completion",
+      "prompt": "We have five spare adapters in this drawer. You may take ------- if your team needs extras.",
+      "choices": {
+        "A": "some",
+        "B": "no",
+        "C": "every",
+        "D": "much"
+      },
+      "correctAnswer": "A",
+      "translationJa": "この引き出しに予備アダプターが5個あります。チームで追加分が必要なら、いくつか取ってかまいません。",
+      "explanationJa": "既出の複数adaptersを単独someが受け、不特定の一部を表します。",
+      "focus": "単独someで名詞を受ける",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0094_Q35",
+      "format": "context-completion",
+      "prompt": "Two conference rooms were reserved, and ------- have video equipment.",
+      "choices": {
+        "A": "every",
+        "B": "no",
+        "C": "both",
+        "D": "much"
+      },
+      "correctAnswer": "C",
+      "translationJa": "会議室を2室予約し、両方に映像設備があります。",
+      "explanationJa": "既出の二つのroomsを単独bothが受け、複数動詞haveと結び付きます。",
+      "focus": "文脈上の単独both",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0094_Q36",
+      "format": "context-completion",
+      "prompt": "The courier brought several envelopes. Are ------- for the finance team?",
+      "choices": {
+        "A": "no",
+        "B": "any",
+        "C": "every",
+        "D": "much"
+      },
+      "correctAnswer": "B",
+      "translationJa": "配達員が封筒を何通か持ってきました。財務チーム宛てのものはありますか。",
+      "explanationJa": "既出複数envelopesを疑問文でanyが単独で受けます。",
+      "focus": "文脈上の単独any",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0094_Q37",
+      "format": "context-completion",
+      "prompt": "The committee considered six designs. Some of ------- were too expensive to produce.",
+      "choices": {
+        "A": "them",
+        "B": "they",
+        "C": "their",
+        "D": "those design"
+      },
+      "correctAnswer": "A",
+      "translationJa": "委員会は6つのデザインを検討し、そのうちいくつかは製造費が高すぎました。",
+      "explanationJa": "前置詞ofの後ろで既出designsを受ける目的格themが必要です。",
+      "focus": "some of them",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0094_Q38",
+      "format": "context-completion",
+      "prompt": "There are three elevators in this wing, but ------- of them is operating during maintenance.",
+      "choices": {
+        "A": "no",
+        "B": "not",
+        "C": "neither",
+        "D": "none"
+      },
+      "correctAnswer": "D",
+      "translationJa": "この棟にはエレベーターが3基ありますが、保守中は一基も動いていません。",
+      "explanationJa": "三つの特定集合をゼロで受けるためnone of themを使います。",
+      "focus": "三つ以上のnone of",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0094_Q39",
+      "format": "context-completion",
+      "prompt": "The two finalists gave presentations. ------- of the finalists answered every question clearly.",
+      "choices": {
+        "A": "Every",
+        "B": "Both",
+        "C": "No",
+        "D": "Much"
+      },
+      "correctAnswer": "B",
+      "translationJa": "最終候補者2人が発表し、両者ともすべての質問に明確に答えました。",
+      "explanationJa": "特定の二人全体をBoth of＋複数で受けます。",
+      "focus": "both of the＋特定集合",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0094_Q40",
+      "format": "context-completion",
+      "prompt": "The policy contains several exceptions. We understand some, but not -------.",
+      "choices": {
+        "A": "no",
+        "B": "every",
+        "C": "all",
+        "D": "much"
+      },
+      "correctAnswer": "C",
+      "translationJa": "その方針にはいくつか例外があり、一部は理解していますが全部ではありません。",
+      "explanationJa": "既出の複数exceptionsを単独allが受け、not allで部分否定を作ります。",
+      "focus": "単独allと部分否定",
+      "difficulty": "advanced"
+    }
+  ]
+}
