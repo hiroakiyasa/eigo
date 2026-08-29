@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-29T05:37:47.481Z",
+  "updatedAt": "2026-08-29T05:38:04.231Z",
   "totalPages": 330,
-  "completedPages": 116,
+  "completedPages": 117,
   "questionsPerPage": 40,
   "totalPlannedQuestions": 13200,
   "pages": [
@@ -2378,9 +2378,9 @@
       "number": 297,
       "id": "grammar-master-0297",
       "title": "助動詞の時制シフト",
-      "status": "pending",
+      "status": "complete",
       "output": "question-sets/PAGE_0297.json",
-      "completedAt": null
+      "completedAt": "2026-08-29T05:38:04.231Z"
     },
     {
       "number": 298,
