@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-29T02:52:58.465Z",
+  "updatedAt": "2026-08-29T02:55:21.836Z",
   "totalPages": 330,
-  "completedPages": 43,
+  "completedPages": 44,
   "questionsPerPage": 40,
   "totalPlannedQuestions": 13200,
   "pages": [
@@ -362,9 +362,9 @@
       "number": 45,
       "id": "grammar-master-0045",
       "title": "遠回し疑問は、語順を戻す",
-      "status": "pending",
+      "status": "complete",
       "output": "question-sets/PAGE_0045.json",
-      "completedAt": null
+      "completedAt": "2026-08-29T02:55:21.836Z"
     },
     {
       "number": 46,

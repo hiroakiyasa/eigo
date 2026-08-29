@@ -55,7 +55,7 @@
 | 42 | 目的語を、to の先へ向かわせる | [PAGE_0042](pages/PAGE_0042.webp) | [原稿](source-prompts/PAGE_0042.txt) | [40問](question-sets/PAGE_0042.json) |
 | 43 | 思った内容は、後ろの文で説明 | [PAGE_0043](pages/PAGE_0043.webp) | [原稿](source-prompts/PAGE_0043.txt) | [40問](question-sets/PAGE_0043.json) |
 | 44 | 内容は that・whether・wh で選ぶ | [PAGE_0044](pages/PAGE_0044.webp) | [原稿](source-prompts/PAGE_0044.txt) | [40問](question-sets/PAGE_0044.json) |
-| 45 | 遠回し疑問は、語順を戻す | [PAGE_0045](pages/PAGE_0045.webp) | [原稿](source-prompts/PAGE_0045.txt) | `pending` |
+| 45 | 遠回し疑問は、語順を戻す | [PAGE_0045](pages/PAGE_0045.webp) | [原稿](source-prompts/PAGE_0045.txt) | [40問](question-sets/PAGE_0045.json) |
 | 46 | 伝言は今、命令はまっすぐ | [PAGE_0046](pages/PAGE_0046.webp) | [原稿](source-prompts/PAGE_0046.txt) | `pending` |
 | 47 | 命令・禁止・誘いを使い分ける | [PAGE_0047](pages/PAGE_0047.webp) | [原稿](source-prompts/PAGE_0047.txt) | `pending` |
 | 48 | 依頼は、何枚オブラートを重ねる？ | [PAGE_0048](pages/PAGE_0048.webp) | [原稿](source-prompts/PAGE_0048.txt) | `pending` |
