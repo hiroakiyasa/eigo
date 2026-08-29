@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-29T09:01:33.350Z",
+  "updatedAt": "2026-08-29T09:03:15.566Z",
   "totalPages": 330,
-  "completedPages": 320,
+  "completedPages": 323,
   "questionsPerPage": 40,
   "totalPlannedQuestions": 13200,
   "pages": [
@@ -1658,9 +1658,9 @@
       "number": 207,
       "id": "grammar-master-0207",
       "title": "目的語なら省略できる、主語なら必要",
-      "status": "pending",
+      "status": "complete",
       "output": "question-sets/PAGE_0207.json",
-      "completedAt": null
+      "completedAt": "2026-08-29T09:03:13.313Z"
     },
     {
       "number": 208,
@@ -1866,9 +1866,9 @@
       "number": 233,
       "id": "grammar-master-0233",
       "title": "“する”から“される”へ視点移動",
-      "status": "pending",
+      "status": "complete",
       "output": "question-sets/PAGE_0233.json",
-      "completedAt": null
+      "completedAt": "2026-08-29T09:03:14.922Z"
     },
     {
       "number": 234,
@@ -1962,9 +1962,9 @@
       "number": 245,
       "id": "grammar-master-0245",
       "title": "whetherとwh節を名詞の席へ",
-      "status": "pending",
+      "status": "complete",
       "output": "question-sets/PAGE_0245.json",
-      "completedAt": null
+      "completedAt": "2026-08-29T09:03:15.566Z"
     },
     {
       "number": 246,

@@ -242,7 +242,7 @@
 | 204 | 穴の場所とwhoseの持ち物 | [PAGE_0204](pages/PAGE_0204.webp) | [原稿](source-prompts/PAGE_0204.txt) | [40問](question-sets/PAGE_0204.json) |
 | 205 | 人はwhom、ものはwhich？ | [PAGE_0205](pages/PAGE_0205.webp) | [原稿](source-prompts/PAGE_0205.txt) | [40問](question-sets/PAGE_0205.json) |
 | 206 | whichで“どのもの？”を説明 | [PAGE_0206](pages/PAGE_0206.webp) | [原稿](source-prompts/PAGE_0206.txt) | [40問](question-sets/PAGE_0206.json) |
-| 207 | 目的語なら省略できる、主語なら必要 | [PAGE_0207](pages/PAGE_0207.webp) | [原稿](source-prompts/PAGE_0207.txt) | `pending` |
+| 207 | 目的語なら省略できる、主語なら必要 | [PAGE_0207](pages/PAGE_0207.webp) | [原稿](source-prompts/PAGE_0207.txt) | [40問](question-sets/PAGE_0207.json) |
 | 208 | thatは、選ばずスムーズにつなぐ | [PAGE_0208](pages/PAGE_0208.webp) | [原稿](source-prompts/PAGE_0208.txt) | [40問](question-sets/PAGE_0208.json) |
 | 209 | カンマの注釈とwhereの場所案内 | [PAGE_0209](pages/PAGE_0209.webp) | [原稿](source-prompts/PAGE_0209.txt) | [40問](question-sets/PAGE_0209.json) |
 | 210 | where・when・whyで背景を説明 | [PAGE_0210](pages/PAGE_0210.webp) | [原稿](source-prompts/PAGE_0210.txt) | [40問](question-sets/PAGE_0210.json) |
@@ -273,7 +273,7 @@
 | 230 | wh＋toとit＋toで情報完成 | [PAGE_0230](pages/PAGE_0230.webp) | [原稿](source-prompts/PAGE_0230.txt) | [40問](question-sets/PAGE_0230.json) |
 | 231 | 長いtoは、後ろへ送る | [PAGE_0231](pages/PAGE_0231.webp) | [原稿](source-prompts/PAGE_0231.txt) | [40問](question-sets/PAGE_0231.json) |
 | 232 | toの前後で時間と否定を整える | [PAGE_0232](pages/PAGE_0232.webp) | [原稿](source-prompts/PAGE_0232.txt) | [40問](question-sets/PAGE_0232.json) |
-| 233 | “する”から“される”へ視点移動 | [PAGE_0233](pages/PAGE_0233.webp) | [原稿](source-prompts/PAGE_0233.txt) | `pending` |
+| 233 | “する”から“される”へ視点移動 | [PAGE_0233](pages/PAGE_0233.webp) | [原稿](source-prompts/PAGE_0233.txt) | [40問](question-sets/PAGE_0233.json) |
 | 234 | 受動文を選ぶ4つの理由 | [PAGE_0234](pages/PAGE_0234.webp) | [原稿](source-prompts/PAGE_0234.txt) | `pending` |
 | 235 | be＋過去分詞で受動文 | [PAGE_0235](pages/PAGE_0235.webp) | [原稿](source-prompts/PAGE_0235.txt) | `pending` |
 | 236 | beを変えれば、受動も自由自在 | [PAGE_0236](pages/PAGE_0236.webp) | [原稿](source-prompts/PAGE_0236.txt) | [40問](question-sets/PAGE_0236.json) |
@@ -285,7 +285,7 @@
 | 242 | 過去分詞は前で分類、後ろで説明 | [PAGE_0242](pages/PAGE_0242.webp) | [原稿](source-prompts/PAGE_0242.txt) | [40問](question-sets/PAGE_0242.json) |
 | 243 | 過去分詞で背景を先に描く | [PAGE_0243](pages/PAGE_0243.webp) | [原稿](source-prompts/PAGE_0243.txt) | [40問](question-sets/PAGE_0243.json) |
 | 244 | 節をひとまとまりの主語にする | [PAGE_0244](pages/PAGE_0244.webp) | [原稿](source-prompts/PAGE_0244.txt) | [40問](question-sets/PAGE_0244.json) |
-| 245 | whetherとwh節を名詞の席へ | [PAGE_0245](pages/PAGE_0245.webp) | [原稿](source-prompts/PAGE_0245.txt) | `pending` |
+| 245 | whetherとwh節を名詞の席へ | [PAGE_0245](pages/PAGE_0245.webp) | [原稿](source-prompts/PAGE_0245.txt) | [40問](question-sets/PAGE_0245.json) |
 | 246 | 節で中身を説明する | [PAGE_0246](pages/PAGE_0246.webp) | [原稿](source-prompts/PAGE_0246.txt) | `pending` |
 | 247 | whatは『もの・こと』を包む | [PAGE_0247](pages/PAGE_0247.webp) | [原稿](source-prompts/PAGE_0247.txt) | `pending` |
 | 248 | どんな条件でも結論は同じ | [PAGE_0248](pages/PAGE_0248.webp) | [原稿](source-prompts/PAGE_0248.txt) | `pending` |
