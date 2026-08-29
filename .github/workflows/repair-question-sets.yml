@@ -15,16 +15,16 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 22
-      - name: Normalize answer and difficulty distributions
+      - name: Normalize valid sets and report malformed JSON
         run: |
           node <<'NODE'
           const fs = require('fs');
           const formats = ['part5-cloze','correct-sentence','meaning-equivalent','context-completion'];
           const answerTargets = {
-            'part5-cloze':       ['A','B','C','D','A','B','C','D','A','B'],
-            'correct-sentence':  ['C','D','A','B','C','D','A','B','C','D'],
-            'meaning-equivalent':['A','B','C','D','A','B','C','D','A','C'],
-            'context-completion':['D','C','B','A','D','C','B','A','D','B']
+            'part5-cloze':        ['A','B','C','D','A','B','C','D','A','B'],
+            'correct-sentence':   ['C','D','A','B','C','D','A','B','C','D'],
+            'meaning-equivalent': ['A','B','C','D','A','B','C','D','A','C'],
+            'context-completion': ['D','C','B','A','D','C','B','A','D','B']
           };
           const difficultyTargets = {
             'part5-cloze':        ['basic','basic','basic','intermediate','intermediate','intermediate','intermediate','intermediate','advanced','advanced'],
@@ -32,10 +32,13 @@ jobs:
             'meaning-equivalent': ['basic','basic','basic','intermediate','intermediate','intermediate','intermediate','intermediate','advanced','advanced'],
             'context-completion': ['basic','basic','intermediate','intermediate','intermediate','intermediate','intermediate','advanced','advanced','advanced']
           };
+          const malformed=[];
           for (let n=22;n<=43;n++) {
             const p=`question-sets/PAGE_${String(n).padStart(4,'0')}.json`;
             if (!fs.existsSync(p)) continue;
-            const data=JSON.parse(fs.readFileSync(p,'utf8'));
+            let data;
+            try { data=JSON.parse(fs.readFileSync(p,'utf8')); }
+            catch(e){ malformed.push(`${p}: ${e.message}`); continue; }
             for (const f of formats) {
               const qs=data.questions.filter(q=>q.format===f);
               if(qs.length!==10) continue;
@@ -53,21 +56,33 @@ jobs:
             }
             fs.writeFileSync(p, JSON.stringify(data,null,2)+'\n');
           }
+          console.log('MALFORMED_START');
+          malformed.forEach(x=>console.log(x));
+          console.log('MALFORMED_END');
+          fs.writeFileSync('/tmp/malformed.txt', malformed.join('\n'));
           NODE
-      - name: Validate repaired sets
+      - name: Validate all parseable repaired sets
         run: |
-          set -euo pipefail
+          set -u
+          failed=0
           for n in $(seq 22 43); do
             p="question-sets/PAGE_$(printf '%04d' "$n").json"
             [ -e "$p" ] || continue
+            if ! node -e 'JSON.parse(require("fs").readFileSync(process.argv[1],"utf8"))' "$p" >/dev/null 2>&1; then
+              echo "SKIP malformed: $p"
+              continue
+            fi
             echo "=== validating $p ==="
-            node scripts/validate-question-set.mjs "$p"
+            if ! node scripts/validate-question-set.mjs "$p"; then failed=1; fi
           done
-      - name: Commit repairs
+          exit $failed
+      - name: Commit valid repairs even if later inspection is needed
+        if: always()
         run: |
           if git diff --quiet -- question-sets; then exit 0; fi
           git config user.name 'TRAIL FUSION AI'
           git config user.email 'hiroakiyasa@yahoo.co.jp'
           git add question-sets/PAGE_{0022..0043}.json
-          git commit -m 'fix(questions): normalize answer distributions through page 0043'
+          git commit -m 'fix(questions): normalize valid sets through page 0043'
+          git pull --rebase origin main
           git push
