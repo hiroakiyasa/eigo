@@ -1,1 +1,679 @@
-/tmp/s19_generated/PAGE_0317.json
+{
+  "schemaVersion": 1,
+  "page": {
+    "number": 317,
+    "id": "grammar-master-0317",
+    "title": "接続表現から“流れを整える”へ",
+    "image": "pages/PAGE_0317.webp",
+    "sourcePrompt": "source-prompts/PAGE_0317.txt"
+  },
+  "analysis": {
+    "summaryJa": "このまとめでは、目的・譲歩・対比・時間・同一性という論理に応じて接続表現を選び、その後で文章の重なりを整える。toとso thatは目的、althoughとdespiteは譲歩、whereasとon the other handは対比、when・while・sinceは時間、asは同時や役割を示す。読みやすい流れにはoneやsoなどの代用、省略、コンマや挿入句による必要な注釈を使う。",
+    "grammarPoints": [
+      "目的を示すto / so that",
+      "譲歩を示すalthough / despite",
+      "対比を示すwhereas / on the other hand",
+      "時間を置くwhen / while / since",
+      "同時・役割を表すas",
+      "one・so・助動詞による代用と自然な省略",
+      "挿入句・コンマによる注釈"
+    ],
+    "visualEvidence": [
+      "五色の分岐路が接続関係を用途別に示している",
+      "目的・譲歩・対比・時間・同一性の各カードに短い例がある",
+      "重い反復荷物から軽い車列への変化が文章整理を表す",
+      "one・so・auxiliary・コンマの札が代用と注釈の道具を示す",
+      "診断ストリップが接続から重なり探索・代用省略・注釈へ進む"
+    ],
+    "commonTraps": [
+      "目的節に別主語があるのにtoだけでつなぐ",
+      "althoughとdespiteの後続形を混同する",
+      "whereasとon the contraryの機能を混同する",
+      "同じ名詞や動詞を不自然に繰り返す",
+      "省略で主語や時制の対応が不明になる",
+      "注釈を句読点なしで挿入して文構造を壊す"
+    ]
+  },
+  "questions": [
+    {
+      "id": "PAGE_0317_Q01",
+      "format": "part5-cloze",
+      "prompt": "The company added weekend support ------- customers could receive help outside business hours.",
+      "choices": {
+        "A": "to",
+        "B": "although",
+        "C": "so that",
+        "D": "despite"
+      },
+      "correctAnswer": "C",
+      "translationJa": "顧客が営業時間外にも支援を受けられるよう、会社は週末対応を追加しました。",
+      "explanationJa": "目的節に主語customersがあるためso thatが適切です。",
+      "focus": "目的のso that",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0317_Q02",
+      "format": "part5-cloze",
+      "prompt": "------- the installation took longer than expected, the system was ready before opening time.",
+      "choices": {
+        "A": "Although",
+        "B": "Despite",
+        "C": "Because of",
+        "D": "Until"
+      },
+      "correctAnswer": "A",
+      "translationJa": "設置には予想以上に時間がかかりましたが、開店時刻前にシステムは準備できました。",
+      "explanationJa": "後ろが完全な節で譲歩を示すAlthoughが適切です。",
+      "focus": "譲歩のalthough",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0317_Q03",
+      "format": "part5-cloze",
+      "prompt": "The city office accepts walk-ins, ------- the airport office requires reservations.",
+      "choices": {
+        "A": "when",
+        "B": "because",
+        "C": "until",
+        "D": "whereas"
+      },
+      "correctAnswer": "D",
+      "translationJa": "市内事務所は予約なしで受け付ける一方、空港事務所は予約が必要です。",
+      "explanationJa": "二つの事務所の方針を対比するwhereasが合います。",
+      "focus": "対比のwhereas",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0317_Q04",
+      "format": "part5-cloze",
+      "prompt": "Please call the service desk ------- the warning light appears.",
+      "choices": {
+        "A": "whereas",
+        "B": "when",
+        "C": "despite",
+        "D": "so that"
+      },
+      "correctAnswer": "B",
+      "translationJa": "警告灯が表示されたときはサービス窓口へ電話してください。",
+      "explanationJa": "出来事が起きる場合を時間上に置くwhenです。",
+      "focus": "時間・場合のwhen",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0317_Q05",
+      "format": "part5-cloze",
+      "prompt": "------- the elevator doors closed, the floor indicator changed to 12.",
+      "choices": {
+        "A": "As",
+        "B": "Like",
+        "C": "Because of",
+        "D": "Unless"
+      },
+      "correctAnswer": "A",
+      "translationJa": "エレベーターの扉が閉まるのと同時に、階表示が12へ変わりました。",
+      "explanationJa": "二つの瞬間を密着させるAsが適切です。",
+      "focus": "同時のas",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0317_Q06",
+      "format": "part5-cloze",
+      "prompt": "We need a larger meeting room, not a smaller -------.",
+      "choices": {
+        "A": "so",
+        "B": "do",
+        "C": "one",
+        "D": "that"
+      },
+      "correctAnswer": "C",
+      "translationJa": "私たちに必要なのは小さい会議室ではなく、より大きい会議室です。",
+      "explanationJa": "既出の可算名詞roomをoneで代用して反復を避けます。",
+      "focus": "oneによる名詞代用",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0317_Q07",
+      "format": "part5-cloze",
+      "prompt": "Mina expects the delivery to arrive today, and I think ------- too.",
+      "choices": {
+        "A": "one",
+        "B": "so",
+        "C": "do",
+        "D": "it"
+      },
+      "correctAnswer": "B",
+      "translationJa": "ミナは配送が今日届くと予想しており、私もそう思います。",
+      "explanationJa": "前の節内容全体をthink soで代用します。",
+      "focus": "soによる節内容代用",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0317_Q08",
+      "format": "part5-cloze",
+      "prompt": "The east branch processes more applications than the west branch -------.",
+      "choices": {
+        "A": "is",
+        "B": "has been",
+        "C": "one",
+        "D": "does"
+      },
+      "correctAnswer": "D",
+      "translationJa": "東支店は西支店より多くの申請を処理します。",
+      "explanationJa": "既出動詞processesを助動詞doesで代用します。",
+      "focus": "助動詞による動詞代用",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0317_Q09",
+      "format": "part5-cloze",
+      "prompt": "The new route is longer. -------, it avoids the busiest intersection.",
+      "choices": {
+        "A": "On the other hand",
+        "B": "On the contrary",
+        "C": "Therefore",
+        "D": "Similarly"
+      },
+      "correctAnswer": "A",
+      "translationJa": "新経路はより長いです。一方で、最も混雑する交差点を避けられます。",
+      "explanationJa": "一つの欠点を否定せず別の利点を加える表現です。",
+      "focus": "on the other hand",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0317_Q10",
+      "format": "part5-cloze",
+      "prompt": "The regional director, ------- joined the company in 2010, will lead the briefing.",
+      "choices": {
+        "A": "which",
+        "B": "who",
+        "C": "where",
+        "D": "what"
+      },
+      "correctAnswer": "B",
+      "translationJa": "2010年に入社した地域統括責任者が説明会を担当します。",
+      "explanationJa": "人について補足注釈を加える非制限用法のwhoが適切です。",
+      "focus": "コンマ付き関係節の注釈",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0317_Q11",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that correctly expresses purpose with a separate subject.",
+      "choices": {
+        "A": "We marked the box to the courier could identify it.",
+        "B": "We marked the box so that identify it the courier.",
+        "C": "We marked the box despite the courier could identify it.",
+        "D": "We marked the box so that the courier could identify it."
+      },
+      "correctAnswer": "D",
+      "translationJa": "配達員が識別できるよう、箱に印を付けました。",
+      "explanationJa": "目的節に別主語the courierがあるためso that＋節が正しいです。",
+      "focus": "so that＋別主語",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0317_Q12",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that correctly uses a noun-following concession.",
+      "choices": {
+        "A": "Although the noise, the customer completed the call.",
+        "B": "Despite the noise, the customer completed the call.",
+        "C": "Despite of the noise, the customer completed the call.",
+        "D": "Despite the office was noisy, the customer completed the call."
+      },
+      "correctAnswer": "B",
+      "translationJa": "騒音にもかかわらず、顧客は通話を終えました。",
+      "explanationJa": "Despiteはofなしで名詞句the noiseを直接受けます。",
+      "focus": "despite＋名詞",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0317_Q13",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that correctly contrasts two situations.",
+      "choices": {
+        "A": "The first plan saves time, whereas the second cost.",
+        "B": "Whereas the first plan time, the second reduces cost.",
+        "C": "The first plan saves time, whereas the second reduces cost.",
+        "D": "The first plan whereas saves time the second reduces cost."
+      },
+      "correctAnswer": "C",
+      "translationJa": "第1案は時間を節約する一方、第2案は費用を減らします。",
+      "explanationJa": "whereasの前後に完全な比較節を置いています。",
+      "focus": "whereasの正用",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0317_Q14",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that correctly avoids repeating a countable noun.",
+      "choices": {
+        "A": "This printer is faster than the old one.",
+        "B": "This printer is faster than the old so.",
+        "C": "This printer is faster than the old does.",
+        "D": "This printer is faster than old one printer."
+      },
+      "correctAnswer": "A",
+      "translationJa": "このプリンターは旧型より高速です。",
+      "explanationJa": "oneが既出の可算名詞printerを自然に代用しています。",
+      "focus": "oneによる代用",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0317_Q15",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that correctly substitutes for a previous clause.",
+      "choices": {
+        "A": "“Will the client approve the revision?” “I think one.”",
+        "B": "“Will the client approve the revision?” “I think do.”",
+        "C": "“Will the client approve the revision?” “I so think the revision.”",
+        "D": "“Will the client approve the revision?” “I think so.”"
+      },
+      "correctAnswer": "D",
+      "translationJa": "「顧客は改訂を承認しますか」「そう思います」",
+      "explanationJa": "think soのsoが前の命題全体を受けています。",
+      "focus": "think so",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0317_Q16",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence with natural comparative ellipsis.",
+      "choices": {
+        "A": "Our team completed more inspections than the other team completed more inspections.",
+        "B": "Our team did completed more inspections than the other team.",
+        "C": "Our team completed more inspections than the other team did.",
+        "D": "Our team completed more inspections than did the other team completed."
+      },
+      "correctAnswer": "C",
+      "translationJa": "私たちのチームは他チームより多くの検査を完了しました。",
+      "explanationJa": "didがcompleted inspectionsを代用し、不自然な反復を避けています。",
+      "focus": "比較節の助動詞代用",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0317_Q17",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence with a correctly punctuated annotation.",
+      "choices": {
+        "A": "Ms. Park our new operations manager will visit the warehouse.",
+        "B": "Ms. Park, our new operations manager, will visit the warehouse.",
+        "C": "Ms. Park, our new operations manager will visit, the warehouse.",
+        "D": "Ms. Park our, new operations manager, will visit the warehouse."
+      },
+      "correctAnswer": "B",
+      "translationJa": "新任の業務管理者であるパクさんが倉庫を訪れます。",
+      "explanationJa": "同格の補足情報を一対のコンマで囲んでいます。",
+      "focus": "同格注釈のコンマ",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0317_Q18",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that correctly uses a time connector.",
+      "choices": {
+        "A": "Call the supervisor when the inspection will be complete.",
+        "B": "Call when the supervisor the inspection complete.",
+        "C": "When complete the inspection, will call the supervisor.",
+        "D": "Call the supervisor when the inspection is complete."
+      },
+      "correctAnswer": "D",
+      "translationJa": "検査が完了したら監督者へ電話してください。",
+      "explanationJa": "未来のwhen節を現在形isで正しく表しています。",
+      "focus": "whenと未来時間節",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0317_Q19",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that correctly uses “as” for an actual role.",
+      "choices": {
+        "A": "Like the shift leader, I am officially responsible for recording every incident.",
+        "B": "As like the shift leader, I must record every incident.",
+        "C": "As the shift leader, I must record every incident.",
+        "D": "As the shift leader is, every incident I must record."
+      },
+      "correctAnswer": "C",
+      "translationJa": "シフト責任者として、私はすべての出来事を記録しなければなりません。",
+      "explanationJa": "話者の実際の役割をAs＋名詞で示しています。",
+      "focus": "役割のas",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0317_Q20",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that naturally omits repeated material.",
+      "choices": {
+        "A": "Mina ordered the vegetarian meal, and Leo the fish.",
+        "B": "Mina ordered the vegetarian meal, and Leo ordered.",
+        "C": "Mina ordered, and Leo the fish ordered the vegetarian meal.",
+        "D": "Mina the vegetarian meal, and Leo did the fish."
+      },
+      "correctAnswer": "A",
+      "translationJa": "ミナは菜食料理を、レオは魚料理を注文しました。",
+      "explanationJa": "第二節で文脈から明らかなorderedを省略して対比を簡潔にしています。",
+      "focus": "動詞の省略",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0317_Q21",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “We left early so that Nao could catch the last train.”",
+      "choices": {
+        "A": "Our early departure was intended to help Nao catch the last train.",
+        "B": "Nao missed the train because we left too late on purpose.",
+        "C": "We left after the last train had already departed.",
+        "D": "The train left early in order to avoid Nao."
+      },
+      "correctAnswer": "A",
+      "translationJa": "私たちが早く出た目的は、ナオが終電に乗れるようにすることでした。",
+      "explanationJa": "so that節が示す目的をwas intended toで言い換えています。",
+      "focus": "目的のso thatの意味",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0317_Q22",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “Although the office was crowded, service was quick.”",
+      "choices": {
+        "A": "Service was slow because the office was empty.",
+        "B": "The crowd disappeared before service began.",
+        "C": "Quick service caused the office to close.",
+        "D": "Service was quick despite the crowd in the office."
+      },
+      "correctAnswer": "D",
+      "translationJa": "事務所が混雑していたにもかかわらず、対応は迅速でした。",
+      "explanationJa": "although＋節をdespite＋名詞句へ変えた同義文です。",
+      "focus": "譲歩表現の変換",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0317_Q23",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “The basic plan is cheap, whereas the premium plan is flexible.”",
+      "choices": {
+        "A": "Both plans have identical prices and features.",
+        "B": "The premium plan is cheap because it has no flexibility.",
+        "C": "The two plans have different advantages: price and flexibility.",
+        "D": "Neither plan offers any advantage."
+      },
+      "correctAnswer": "C",
+      "translationJa": "二つのプランには、価格と柔軟性という異なる利点があります。",
+      "explanationJa": "whereasが二つの面を対比しています。",
+      "focus": "対比のwhereasの意味",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0317_Q24",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “Contact us when you receive the replacement.”",
+      "choices": {
+        "A": "Contact us long before any replacement is shipped.",
+        "B": "Contact us at the time the replacement arrives.",
+        "C": "The replacement arrives because you contacted us.",
+        "D": "Never contact us after delivery."
+      },
+      "correctAnswer": "B",
+      "translationJa": "交換品が届いた時点でご連絡ください。",
+      "explanationJa": "whenが連絡する出来事を到着時点に置いています。",
+      "focus": "時間のwhenの意味",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0317_Q25",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “As the train departed, the platform lights dimmed.”",
+      "choices": {
+        "A": "The train’s departure and the dimming lights occurred at nearly the same time.",
+        "B": "The lights dimmed long before the train reached the platform.",
+        "C": "The train departed because all lights remained bright.",
+        "D": "The platform closed in order to stop the train."
+      },
+      "correctAnswer": "A",
+      "translationJa": "列車の出発とホーム照明が暗くなることはほぼ同時に起きました。",
+      "explanationJa": "asが二つの瞬間を密着して示しています。",
+      "focus": "同時のasの意味",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0317_Q26",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “I prefer the blue folder to the red one.”",
+      "choices": {
+        "A": "I prefer the blue color to every folder.",
+        "B": "The red folder is the only one I prefer.",
+        "C": "I prefer the blue folder to the red folder.",
+        "D": "I do not compare the two folders."
+      },
+      "correctAnswer": "C",
+      "translationJa": "私は赤いフォルダーより青いフォルダーを好みます。",
+      "explanationJa": "oneは直前の可算名詞folderを代用しているため完全形と同義です。",
+      "focus": "oneの指示内容",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0317_Q27",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “Aya expects sales to rise, and I do too.”",
+      "choices": {
+        "A": "Only Aya expects sales to fall.",
+        "B": "I expect Aya to leave the sales team.",
+        "C": "Neither of us has any expectation about sales.",
+        "D": "Aya and I both expect sales to rise."
+      },
+      "correctAnswer": "D",
+      "translationJa": "アヤも私も売上が増えると予想しています。",
+      "explanationJa": "doが前の動詞句expects sales to riseを代用しています。",
+      "focus": "doによる動詞句代用",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0317_Q28",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “Mr. Lee, the branch manager, approved the request.”",
+      "choices": {
+        "A": "Mr. Lee approved the request, and he is the branch manager.",
+        "B": "The branch manager rejected Mr. Lee’s request.",
+        "C": "Mr. Lee approved a request to hire a different manager.",
+        "D": "The identity of the person who approved it is unknown."
+      },
+      "correctAnswer": "A",
+      "translationJa": "リーさんが申請を承認し、彼は支店長です。",
+      "explanationJa": "コンマで囲まれた同格がMr. Leeの役職を補足しています。",
+      "focus": "同格注釈の意味",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0317_Q29",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “The first route is shorter. On the other hand, the second is safer.”",
+      "choices": {
+        "A": "The first route is both shorter and safer in every way.",
+        "B": "One route saves distance, while the other offers greater safety.",
+        "C": "The second route is unsafe because it is shorter.",
+        "D": "The two routes have no meaningful difference."
+      },
+      "correctAnswer": "B",
+      "translationJa": "一方の経路は距離が短く、もう一方はより安全です。",
+      "explanationJa": "on the other handが別の面の利点を加えています。",
+      "focus": "別側面の対比",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0317_Q30",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “Mina can process refunds faster than Leo can.”",
+      "choices": {
+        "A": "Leo processes refunds faster than Mina.",
+        "B": "Neither person is able to process a refund.",
+        "C": "Mina is faster than Leo at processing refunds.",
+        "D": "Mina and Leo always take exactly the same time."
+      },
+      "correctAnswer": "C",
+      "translationJa": "ミナはレオより返金処理が速いです。",
+      "explanationJa": "canがprocess refundsを代用した比較節の意味を明示しています。",
+      "focus": "助動詞代用の意味",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0317_Q31",
+      "format": "context-completion",
+      "prompt": "We placed the notice near the elevator ------- every visitor could see it.",
+      "choices": {
+        "A": "to",
+        "B": "so that",
+        "C": "although",
+        "D": "despite"
+      },
+      "correctAnswer": "B",
+      "translationJa": "すべての来訪者に見えるよう、エレベーター付近に掲示しました。",
+      "explanationJa": "目的節に主語every visitorがあるためso thatです。",
+      "focus": "目的表現の選択",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0317_Q32",
+      "format": "context-completion",
+      "prompt": "------- the temporary closure, all scheduled appointments were completed online.",
+      "choices": {
+        "A": "Although",
+        "B": "Because",
+        "C": "Unless",
+        "D": "Despite"
+      },
+      "correctAnswer": "D",
+      "translationJa": "一時閉鎖にもかかわらず、予定されていた予約はすべてオンラインで完了しました。",
+      "explanationJa": "名詞句the temporary closureを受ける譲歩のDespiteです。",
+      "focus": "despite＋名詞句",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0317_Q33",
+      "format": "context-completion",
+      "prompt": "The north lot is closer to the entrance, ------- the south lot has more spaces.",
+      "choices": {
+        "A": "whereas",
+        "B": "when",
+        "C": "because",
+        "D": "until"
+      },
+      "correctAnswer": "A",
+      "translationJa": "北駐車場は入口に近い一方、南駐車場は台数が多いです。",
+      "explanationJa": "二つの駐車場の特徴を対比するwhereasです。",
+      "focus": "whereasと二面対比",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0317_Q34",
+      "format": "context-completion",
+      "prompt": "The system sends a confirmation email ------- a reservation is completed.",
+      "choices": {
+        "A": "whereas",
+        "B": "despite",
+        "C": "when",
+        "D": "so that"
+      },
+      "correctAnswer": "C",
+      "translationJa": "予約が完了すると、システムが確認メールを送ります。",
+      "explanationJa": "反復する手続きの時間位置をwhenで示します。",
+      "focus": "whenと自動処理",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0317_Q35",
+      "format": "context-completion",
+      "prompt": "------- the final guest left, the staff locked the main entrance.",
+      "choices": {
+        "A": "Like",
+        "B": "Because of",
+        "C": "Unless",
+        "D": "As"
+      },
+      "correctAnswer": "D",
+      "translationJa": "最後の来客が退出するのと同時に、スタッフは正面入口を施錠しました。",
+      "explanationJa": "退出と施錠の密着した時間関係をAsで示します。",
+      "focus": "asと密着同時",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0317_Q36",
+      "format": "context-completion",
+      "prompt": "We ordered two projectors because the venue’s ------- was not bright enough.",
+      "choices": {
+        "A": "so",
+        "B": "one",
+        "C": "did",
+        "D": "that"
+      },
+      "correctAnswer": "B",
+      "translationJa": "会場のプロジェクターが十分明るくなかったため、2台注文しました。",
+      "explanationJa": "所有格の後で既出の単数可算名詞projectorをoneが代用します。",
+      "focus": "oneと所有格",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0317_Q37",
+      "format": "context-completion",
+      "prompt": "The supplier says the replacement will arrive tomorrow, and we hope -------.",
+      "choices": {
+        "A": "so",
+        "B": "one",
+        "C": "do",
+        "D": "that"
+      },
+      "correctAnswer": "A",
+      "translationJa": "供給業者は交換品が明日届くと言っており、私たちもそう願っています。",
+      "explanationJa": "hope soのsoが前の命題全体を受けます。",
+      "focus": "hope so",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0317_Q38",
+      "format": "context-completion",
+      "prompt": "The express team handles more packages per hour than the standard team -------.",
+      "choices": {
+        "A": "is",
+        "B": "one",
+        "C": "so",
+        "D": "does"
+      },
+      "correctAnswer": "D",
+      "translationJa": "速達チームは標準チームより1時間当たり多くの荷物を処理します。",
+      "explanationJa": "doesがhandles packagesを代用して反復を避けます。",
+      "focus": "比較節のdoes",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0317_Q39",
+      "format": "context-completion",
+      "prompt": "The service center, ------- opened last month, now operates seven days a week.",
+      "choices": {
+        "A": "who",
+        "B": "where",
+        "C": "which",
+        "D": "what"
+      },
+      "correctAnswer": "C",
+      "translationJa": "先月開設されたサービスセンターは現在週7日営業です。",
+      "explanationJa": "物を先行詞とする非制限関係節の注釈にはwhichを使います。",
+      "focus": "whichによる注釈",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0317_Q40",
+      "format": "context-completion",
+      "prompt": "The software is inexpensive. -------, it requires extensive staff training.",
+      "choices": {
+        "A": "On the contrary",
+        "B": "On the other hand",
+        "C": "Therefore",
+        "D": "Similarly"
+      },
+      "correctAnswer": "B",
+      "translationJa": "そのソフトウェアは安価です。一方で、広範な職員研修が必要です。",
+      "explanationJa": "安価という利点を否定せず別の欠点を加える表現です。",
+      "focus": "on the other handと流れ",
+      "difficulty": "intermediate"
+    }
+  ]
+}
