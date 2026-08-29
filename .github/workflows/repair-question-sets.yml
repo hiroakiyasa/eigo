@@ -1,4 +1,4 @@
-name: Rebuild malformed question sets 0032-0035
+name: Rebuild malformed question sets 0036-0039
 on:
   push:
     paths:
@@ -22,7 +22,7 @@ jobs:
           function extractObjects(s){const qpos=s.indexOf('"questions":[');let i=s.indexOf('[',qpos)+1,out=[];while(i<s.length){while(i<s.length&&/[\s,]/.test(s[i]))i++;if(s[i]!=='{')break;const st=i;let d=0,str=false,esc=false,done=false;for(;i<s.length;i++){const c=s[i];if(str){if(esc)esc=false;else if(c==='\\')esc=true;else if(c==='"')str=false;continue;}if(c==='"'){str=true;continue;}if(c==='{')d++;else if(c==='}'){d--;if(d===0){out.push(JSON.parse(s.slice(st,i+1)));i++;done=true;break;}}}if(!done)break;}return out;}
           const answerTargets={'part5-cloze':['A','B','C','D','A','B','C','D','A','B'],'correct-sentence':['C','D','A','B','C','D','A','B','C','D'],'meaning-equivalent':['A','B','C','D','A','B','C','D','A','C'],'context-completion':['D','C','B','A','D','C','B','A','D','B']};
           const diffTargets={'part5-cloze':['basic','basic','basic','intermediate','intermediate','intermediate','intermediate','intermediate','advanced','advanced'],'correct-sentence':['basic','basic','intermediate','intermediate','intermediate','intermediate','intermediate','advanced','advanced','advanced'],'meaning-equivalent':['basic','basic','basic','intermediate','intermediate','intermediate','intermediate','intermediate','advanced','advanced'],'context-completion':['basic','basic','intermediate','intermediate','intermediate','intermediate','intermediate','advanced','advanced','advanced']};
-          for(let n=32;n<=35;n++){
+          for(let n=36;n<=39;n++){
             const id=String(n).padStart(4,'0'),p=`question-sets/PAGE_${id}.json`,s=fs.readFileSync(p,'utf8'),qpos=s.indexOf('"questions":[');
             const base=JSON.parse(s.slice(0,qpos)+'"questions":[]}');
             base.questions=extractObjects(s).concat(JSON.parse(fs.readFileSync(`.repair/PAGE_${id}-tail.json`,'utf8')));
@@ -33,12 +33,12 @@ jobs:
       - name: Validate rebuilt sets
         run: |
           set -euo pipefail
-          for n in $(seq 32 35); do node scripts/validate-question-set.mjs "question-sets/PAGE_$(printf '%04d' "$n").json"; done
+          for n in $(seq 36 39); do node scripts/validate-question-set.mjs "question-sets/PAGE_$(printf '%04d' "$n").json"; done
       - name: Commit repaired pages
         run: |
           git config user.name 'TRAIL FUSION AI'
           git config user.email 'hiroakiyasa@yahoo.co.jp'
-          git add question-sets/PAGE_{0032..0035}.json
-          git commit -m 'fix(questions): rebuild pages 0032 through 0035'
+          git add question-sets/PAGE_{0036..0039}.json
+          git commit -m 'fix(questions): rebuild pages 0036 through 0039'
           git pull --rebase origin main
           git push
