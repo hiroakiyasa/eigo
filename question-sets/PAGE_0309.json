@@ -1,1 +1,674 @@
-/tmp/s19_generated/PAGE_0309.json
+{
+  "schemaVersion": 1,
+  "page": {
+    "number": 309,
+    "id": "grammar-master-0309",
+    "title": "理由を結ぶbecause・as・since",
+    "image": "pages/PAGE_0309.webp",
+    "sourcePrompt": "source-prompts/PAGE_0309.txt"
+  },
+  "analysis": {
+    "summaryJa": "becauseは聞き手が求める理由を明確に焦点化し、asとsinceは既知または自然に共有できる理由を背景として添える。会話ではBecause節だけでWhyへの直接回答ができ、That's becauseは直前の結果を受けて原因を説明する。in thatは「〜という点で」を表し、文語的なforは独立節の後から理由を補う。",
+    "grammarPoints": [
+      "becauseによる明確な原因提示とWhyへの直接回答",
+      "asとsinceによる軽い・共有済みの背景理由",
+      "That's becauseによる直前の結果の原因説明",
+      "in thatによる評価の根拠となる側面の限定",
+      "forによる文語的・後置的な理由の補足"
+    ],
+    "visualEvidence": [
+      "赤いSTRONG LINKの橋がbecauseの強い原因焦点を示している",
+      "青いSOFT LINKの橋がasとsinceの背景的な理由を示している",
+      "会話カードがBecauseだけの直接返答とThat’s becauseの説明導入を対比している",
+      "例文表がbecause・as・since・in that・forの役割を色分けしている"
+    ],
+    "commonTraps": [
+      "Whyへの直接回答でasやsinceだけを使う",
+      "That's becauseの後に原因ではなく結果を置く",
+      "in thatを単なるbecauseと同じ意味で無差別に使う",
+      "文語的forを文頭の従属接続詞として使う"
+    ]
+  },
+  "questions": [
+    {
+      "id": "PAGE_0309_Q01",
+      "format": "part5-cloze",
+      "prompt": "The client renewed the service contract ------- our support team resolved every issue promptly.",
+      "choices": {
+        "A": "although",
+        "B": "unless",
+        "C": "because",
+        "D": "until"
+      },
+      "correctAnswer": "C",
+      "translationJa": "当社のサポートチームがすべての問題を迅速に解決したため、顧客はサービス契約を更新しました。",
+      "explanationJa": "契約更新の具体的な原因を明確に示すためbecauseが唯一適切です。",
+      "focus": "becauseによる原因の焦点化",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0309_Q02",
+      "format": "part5-cloze",
+      "prompt": "------- all department heads have approved the proposal, we can send it to the director today.",
+      "choices": {
+        "A": "Since",
+        "B": "Unless",
+        "C": "While",
+        "D": "Even though"
+      },
+      "correctAnswer": "A",
+      "translationJa": "全部門長が提案を承認済みなので、本日それを取締役へ送れます。",
+      "explanationJa": "共有済みの承認を背景理由として提示するのでSinceが適切です。",
+      "focus": "sinceによる共有済みの理由",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0309_Q03",
+      "format": "part5-cloze",
+      "prompt": "The express option is valuable ------- it guarantees delivery before noon.",
+      "choices": {
+        "A": "even if",
+        "B": "so that",
+        "C": "as soon as",
+        "D": "in that"
+      },
+      "correctAnswer": "D",
+      "translationJa": "速達オプションは正午前の配達を保証するという点で価値があります。",
+      "explanationJa": "価値がある具体的な側面を限定する表現はin thatです。",
+      "focus": "in thatで評価の側面を示す",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0309_Q04",
+      "format": "part5-cloze",
+      "prompt": "The outdoor reception was moved indoors ------- thunderstorms were forecast for the afternoon.",
+      "choices": {
+        "A": "whereas",
+        "B": "because",
+        "C": "provided that",
+        "D": "in order that"
+      },
+      "correctAnswer": "B",
+      "translationJa": "午後に雷雨が予報されていたため、屋外レセプションは屋内へ移されました。",
+      "explanationJa": "移動という判断の直接的な理由を表すbecauseが適切です。",
+      "focus": "becauseと直接原因",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0309_Q05",
+      "format": "part5-cloze",
+      "prompt": "The loading dock will close early, ------- very few deliveries are expected after 5 p.m.",
+      "choices": {
+        "A": "for",
+        "B": "but",
+        "C": "or",
+        "D": "yet"
+      },
+      "correctAnswer": "A",
+      "translationJa": "午後5時以降はほとんど配送が見込まれないので、搬入口は早めに閉まります。",
+      "explanationJa": "コンマ後から判断理由を補う文語的な等位接続詞forが適切です。",
+      "focus": "forによる後置理由",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0309_Q06",
+      "format": "part5-cloze",
+      "prompt": "------- the orientation materials are already online, new hires may review them before Monday.",
+      "choices": {
+        "A": "Despite",
+        "B": "Whether",
+        "C": "As",
+        "D": "So that"
+      },
+      "correctAnswer": "C",
+      "translationJa": "オリエンテーション資料はすでにオンラインにあるので、新入社員は月曜日前に確認できます。",
+      "explanationJa": "既知の状況を軽い背景理由として置くAsが最適です。",
+      "focus": "asによる背景理由",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0309_Q07",
+      "format": "part5-cloze",
+      "prompt": "Mika took a taxi to the airport ------- the first train had been canceled.",
+      "choices": {
+        "A": "if",
+        "B": "because",
+        "C": "though",
+        "D": "once"
+      },
+      "correctAnswer": "B",
+      "translationJa": "始発列車が運休になっていたため、ミカは空港までタクシーに乗りました。",
+      "explanationJa": "タクシーを選んだ明確な原因を示すためbecauseを使います。",
+      "focus": "becauseと過去の原因",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0309_Q08",
+      "format": "part5-cloze",
+      "prompt": "The new booking system is efficient ------- it processes group reservations automatically.",
+      "choices": {
+        "A": "now that",
+        "B": "even though",
+        "C": "as if",
+        "D": "in that"
+      },
+      "correctAnswer": "D",
+      "translationJa": "新しい予約システムは団体予約を自動処理するという点で効率的です。",
+      "explanationJa": "効率的だと評価する特定の点を示すのはin thatです。",
+      "focus": "in thatの限定的理由",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0309_Q09",
+      "format": "part5-cloze",
+      "prompt": "------- the board has reached a final decision, the announcement will be released this afternoon.",
+      "choices": {
+        "A": "Since",
+        "B": "Unless",
+        "C": "Before",
+        "D": "Despite"
+      },
+      "correctAnswer": "A",
+      "translationJa": "取締役会が最終決定に達したので、発表は本日午後に公開されます。",
+      "explanationJa": "決定済みの事実を前提となる背景理由として示すSinceが適切です。",
+      "focus": "sinceと共有前提",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0309_Q10",
+      "format": "part5-cloze",
+      "prompt": "The courier could not obtain a signature ------- no one was present at the reception desk.",
+      "choices": {
+        "A": "wherever",
+        "B": "because",
+        "C": "so that",
+        "D": "despite"
+      },
+      "correctAnswer": "B",
+      "translationJa": "受付に誰もいなかったため、配達員は署名を得られませんでした。",
+      "explanationJa": "署名を得られなかった具体的な原因を導く接続詞はbecauseです。",
+      "focus": "becauseと否定的結果の原因",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0309_Q11",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that correctly gives a direct answer to a why-question.",
+      "choices": {
+        "A": "“Why was the workshop postponed?” — “As the trainer became ill.”",
+        "B": "“Why was the workshop postponed?” — “Since of the trainer’s illness.”",
+        "C": "“Why was the workshop postponed?” — “That’s why the trainer became ill.”",
+        "D": "“Why was the workshop postponed?” — “Because the trainer became ill.”"
+      },
+      "correctAnswer": "D",
+      "translationJa": "「なぜ研修会は延期されたのですか」「講師が病気になったからです」",
+      "explanationJa": "Whyへの独立した直接回答ではBecause節が自然で正しい形です。",
+      "focus": "Becauseによる直接返答",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0309_Q12",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence using a background reason.",
+      "choices": {
+        "A": "Since of the finalized agenda, we can print the meeting packets.",
+        "B": "Since the agenda is already finalized, we can print the meeting packets.",
+        "C": "Since the agenda already finalized, we can print the meeting packets.",
+        "D": "Since already the agenda is finalized, because we can print the meeting packets."
+      },
+      "correctAnswer": "B",
+      "translationJa": "議題はすでに確定しているので、会議資料を印刷できます。",
+      "explanationJa": "Sinceの後には主語と動詞を備えた理由節が続きます。",
+      "focus": "since＋完全な節",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0309_Q13",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence in which “in that” is used correctly.",
+      "choices": {
+        "A": "The software is convenient in that of remote invoice approval.",
+        "B": "The software is convenient in that to approve invoices remotely.",
+        "C": "The software is convenient in that users can approve invoices remotely.",
+        "D": "In that the software is convenient, users remotely approve invoices because."
+      },
+      "correctAnswer": "C",
+      "translationJa": "そのソフトウェアは、利用者が遠隔で請求書を承認できるという点で便利です。",
+      "explanationJa": "in thatの後の節が「便利である具体的な点」を説明しています。",
+      "focus": "in thatの正用",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0309_Q14",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that correctly explains a preceding result.",
+      "choices": {
+        "A": "Our electricity bill fell this month. That’s because we installed efficient lighting.",
+        "B": "Our electricity bill fell this month. That’s because of we installed efficient lighting.",
+        "C": "Our electricity bill fell this month because. That’s we installed efficient lighting.",
+        "D": "Because our electricity bill fell this month. That’s why efficient lighting installed."
+      },
+      "correctAnswer": "A",
+      "translationJa": "今月は電気料金が下がりました。それは省エネ照明を設置したからです。",
+      "explanationJa": "That’s becauseの後に、直前の結果を生んだ原因の節が続いています。",
+      "focus": "That's becauseと原因",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0309_Q15",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence with the clearest cause-and-effect relationship.",
+      "choices": {
+        "A": "The shipment was returned although the address label was incomplete.",
+        "B": "The shipment was returned until the address label was incomplete.",
+        "C": "The shipment was returned so that the address label was incomplete.",
+        "D": "The shipment was returned because the address label was incomplete."
+      },
+      "correctAnswer": "D",
+      "translationJa": "住所ラベルが不完全だったため、荷物は返送されました。",
+      "explanationJa": "返送の原因を明確に述べる接続詞becauseが文意に合います。",
+      "focus": "becauseの明確な因果",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0309_Q16",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that uses literary “for” correctly.",
+      "choices": {
+        "A": "For the last guest had not yet left, the security guard remained at the entrance.",
+        "B": "The security guard remained for the entrance, the last guest had not yet left.",
+        "C": "The security guard remained at the entrance, for the last guest had not yet left.",
+        "D": "The security guard for remained at the entrance because the last guest."
+      },
+      "correctAnswer": "C",
+      "translationJa": "最後の客がまだ退出していなかったので、警備員は入口に残りました。",
+      "explanationJa": "理由を後から補足するforは独立節の後にコンマを置いて使えます。",
+      "focus": "理由を補うforの語順",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0309_Q17",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that presents an assumed reason naturally.",
+      "choices": {
+        "A": "As of the venue has limited parking, visitors are encouraged to use the shuttle.",
+        "B": "As the venue has limited parking, visitors are encouraged to use the shuttle.",
+        "C": "As the venue limited parking, visitors are encouraged using the shuttle.",
+        "D": "The venue has limited parking as visitors are encouraged to use the shuttle."
+      },
+      "correctAnswer": "B",
+      "translationJa": "会場の駐車場には限りがあるため、来場者にはシャトル利用が推奨されています。",
+      "explanationJa": "会場事情を背景として先に置くAs節の構造が正しい文です。",
+      "focus": "asによる導入理由",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0309_Q18",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that correctly distinguishes a result from its cause.",
+      "choices": {
+        "A": "Sales increased in June. That’s why the company launched a referral campaign in May.",
+        "B": "Sales increased in June. Because that’s the referral campaign launched in May.",
+        "C": "That’s because sales increased in June, so the company had launched a campaign in May.",
+        "D": "Sales increased in June. That’s because the company launched a referral campaign in May."
+      },
+      "correctAnswer": "D",
+      "translationJa": "6月に売上が増えました。それは会社が5月に紹介キャンペーンを開始したからです。",
+      "explanationJa": "増加という結果の後で、その原因をThat’s because節が説明しています。",
+      "focus": "that's becauseと時系列",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0309_Q19",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence in which the reason connector is grammatically complete.",
+      "choices": {
+        "A": "Because of the maintenance team found a leak, the pool will remain closed today.",
+        "B": "Because finding the maintenance team a leak, the pool will remain closed today.",
+        "C": "Because the maintenance team found a leak, the pool will remain closed today.",
+        "D": "The pool because the maintenance team found a leak will remain closed today."
+      },
+      "correctAnswer": "C",
+      "translationJa": "保守チームが漏水を発見したため、プールは本日閉鎖されたままです。",
+      "explanationJa": "becauseの後には主語the maintenance teamと動詞foundを含む節が続きます。",
+      "focus": "because＋節",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0309_Q20",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that correctly uses “since” as a reason connector.",
+      "choices": {
+        "A": "Since everyone received the revised schedule yesterday, we will not distribute another copy.",
+        "B": "Since of everyone received the revised schedule yesterday, we will not distribute another copy.",
+        "C": "Since everyone receiving the revised schedule yesterday, we will not distribute another copy.",
+        "D": "Since yesterday everyone the revised schedule, because we will not distribute another copy."
+      },
+      "correctAnswer": "A",
+      "translationJa": "全員が昨日改訂日程を受け取ったので、別の写しは配布しません。",
+      "explanationJa": "共有済みの事実を完全なSince節で示しており、文法と意味の両方が自然です。",
+      "focus": "sinceによる理由節",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0309_Q21",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “The store closed early because there were no customers.”",
+      "choices": {
+        "A": "The absence of customers was the reason the store closed early.",
+        "B": "The store closed early so that no customers could enter.",
+        "C": "Although customers were present, the store closed early.",
+        "D": "No customers came because the store remained open late."
+      },
+      "correctAnswer": "A",
+      "translationJa": "客がいなかったことが、店が早く閉まった理由でした。",
+      "explanationJa": "because節の内容をthe reasonとして言い換えても同じ因果関係になります。",
+      "focus": "becauseの因果の言い換え",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0309_Q22",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “Since all seats are reserved, registration is now closed.”",
+      "choices": {
+        "A": "Registration will stay open unless every seat is reserved.",
+        "B": "Seats were reserved in order to close the registration desk.",
+        "C": "Registration is closed even though many seats remain available.",
+        "D": "Registration is now closed because every seat has already been reserved."
+      },
+      "correctAnswer": "D",
+      "translationJa": "すべての席がすでに予約済みなので、現在は登録を締め切っています。",
+      "explanationJa": "理由を背景化するSinceは、この文脈ではbecauseで同じ因果を表せます。",
+      "focus": "sinceからbecauseへの言い換え",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0309_Q23",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “The plan is practical in that it requires no additional staff.”",
+      "choices": {
+        "A": "The plan is practical only after additional employees are hired.",
+        "B": "The plan requires no staff because it is not practical.",
+        "C": "One practical aspect of the plan is that it needs no extra employees.",
+        "D": "Additional staff members consider the plan practical."
+      },
+      "correctAnswer": "C",
+      "translationJa": "その計画の実用的な点の一つは、追加の従業員を必要としないことです。",
+      "explanationJa": "in thatは評価が成り立つ具体的な側面を示すため、この言い換えが同義です。",
+      "focus": "in thatの意味",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0309_Q24",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “The lobby is crowded. That’s because two conferences are being held today.”",
+      "choices": {
+        "A": "The crowded lobby is the reason two conferences were canceled.",
+        "B": "Two conferences taking place today explain why the lobby is crowded.",
+        "C": "Two conferences will be held despite the empty lobby.",
+        "D": "The lobby was crowded so that two conferences could begin."
+      },
+      "correctAnswer": "B",
+      "translationJa": "本日二つの会議が行われていることが、ロビーが混雑している理由です。",
+      "explanationJa": "That’s becauseの後半が前半の結果に対する原因を示しています。",
+      "focus": "that's becauseの言い換え",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0309_Q25",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “As the forms are available online, applicants need not visit the office.”",
+      "choices": {
+        "A": "Applicants can avoid an office visit because they can obtain the forms online.",
+        "B": "Applicants must visit the office before forms become available online.",
+        "C": "The forms are online although applicants cannot obtain them.",
+        "D": "The office visit causes the forms to become unavailable."
+      },
+      "correctAnswer": "A",
+      "translationJa": "申請者はオンラインで用紙を入手できるので、窓口へ行かずに済みます。",
+      "explanationJa": "As節が示す背景理由をbecause節に置き換えた同義文です。",
+      "focus": "asの背景理由の言い換え",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0309_Q26",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “The route is safer in that it avoids the construction zone.”",
+      "choices": {
+        "A": "The route is safe only while construction is taking place on it.",
+        "B": "The construction zone is safer because the route enters it.",
+        "C": "The route’s safety advantage is that it does not pass through the construction area.",
+        "D": "Avoiding the route is the main purpose of the construction project."
+      },
+      "correctAnswer": "C",
+      "translationJa": "その経路の安全上の利点は、工事区域を通らないことです。",
+      "explanationJa": "in that以下がsaferという評価の根拠となる一面を説明しています。",
+      "focus": "in thatと評価根拠",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0309_Q27",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “We left the office early because the roads were becoming icy.”",
+      "choices": {
+        "A": "We left early in order to make the roads icy.",
+        "B": "We stayed at the office although the roads were clear.",
+        "C": "The roads became icy after our usual late departure.",
+        "D": "The increasingly icy roads caused us to leave the office early."
+      },
+      "correctAnswer": "D",
+      "translationJa": "道路が凍結し始めていたことが、私たちが早く退社した原因でした。",
+      "explanationJa": "becauseで示された原因を主語にした因果文でも意味が保たれます。",
+      "focus": "because節の名詞化",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0309_Q28",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “The manager stayed, for several customers still needed assistance.”",
+      "choices": {
+        "A": "The manager remained because some customers still required help.",
+        "B": "Several customers stayed in order to assist the manager.",
+        "C": "The manager left although customers requested assistance.",
+        "D": "Customers no longer needed help, so the manager remained."
+      },
+      "correctAnswer": "A",
+      "translationJa": "何人かの顧客がまだ支援を必要としていたため、管理者は残りました。",
+      "explanationJa": "理由を後置するforは、この文ではbecauseと同じ因果を表します。",
+      "focus": "理由のforの言い換え",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0309_Q29",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “Because the invoice was incorrect, payment was delayed.”",
+      "choices": {
+        "A": "The invoice was corrected after the payment arrived early.",
+        "B": "Payment was postponed as a result of an error on the invoice.",
+        "C": "Payment was made promptly despite an invoice error.",
+        "D": "The payment delay caused the invoice to be accurate."
+      },
+      "correctAnswer": "B",
+      "translationJa": "請求書の誤りの結果、支払いは延期されました。",
+      "explanationJa": "because節の原因をas a result ofで表した同義文です。",
+      "focus": "becauseと結果表現",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0309_Q30",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “Since you have already completed the safety course, you may enter the laboratory.”",
+      "choices": {
+        "A": "You must leave the laboratory until you begin the safety course.",
+        "B": "You completed the safety course in order to close the laboratory.",
+        "C": "You may enter the laboratory because your safety training is already complete.",
+        "D": "You may enter even though the required course is unfinished."
+      },
+      "correctAnswer": "C",
+      "translationJa": "安全研修がすでに完了しているため、実験室へ入れます。",
+      "explanationJa": "完了済みの前提を示すSinceをbecauseで明示した文が同義です。",
+      "focus": "sinceと既知の完了理由",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0309_Q31",
+      "format": "context-completion",
+      "prompt": "“Why did the purchasing team choose Metro Office Supply?” “------- it offered the shortest delivery time.”",
+      "choices": {
+        "A": "As",
+        "B": "Because",
+        "C": "Since",
+        "D": "Although"
+      },
+      "correctAnswer": "B",
+      "translationJa": "「なぜ購買チームはメトロ事務用品を選んだのですか」「納期が最も短かったからです」",
+      "explanationJa": "Whyへの直接回答として節を単独で導けるBecauseが適切です。",
+      "focus": "WhyへのBecause回答",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0309_Q32",
+      "format": "context-completion",
+      "prompt": "The west entrance is closed this morning. ------- maintenance workers are replacing the automatic doors.",
+      "choices": {
+        "A": "That’s why",
+        "B": "Even though",
+        "C": "In order that",
+        "D": "That’s because"
+      },
+      "correctAnswer": "D",
+      "translationJa": "西側入口は今朝閉鎖されています。それは保守作業員が自動ドアを交換しているためです。",
+      "explanationJa": "前文の結果を受け、その原因を説明するThat’s becauseが適切です。",
+      "focus": "That's becauseの談話機能",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0309_Q33",
+      "format": "context-completion",
+      "prompt": "All participants have received the access code. ------- everyone is ready, the webinar can begin on schedule.",
+      "choices": {
+        "A": "Since",
+        "B": "Unless",
+        "C": "Despite",
+        "D": "Whereas"
+      },
+      "correctAnswer": "A",
+      "translationJa": "参加者全員がアクセスコードを受け取りました。全員の準備ができているので、ウェビナーは予定どおり開始できます。",
+      "explanationJa": "前文から共有できる状況を背景理由として受けるSinceが自然です。",
+      "focus": "sinceと前文共有情報",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0309_Q34",
+      "format": "context-completion",
+      "prompt": "The consultant’s report is especially helpful ------- it identifies the source of each cost increase.",
+      "choices": {
+        "A": "so that",
+        "B": "as though",
+        "C": "in that",
+        "D": "even if"
+      },
+      "correctAnswer": "C",
+      "translationJa": "コンサルタントの報告書は、各費用増加の原因を特定しているという点で特に役立ちます。",
+      "explanationJa": "helpfulという評価が成り立つ具体的な側面をin that節が示します。",
+      "focus": "in thatと文脈上の評価",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0309_Q35",
+      "format": "context-completion",
+      "prompt": "The museum will not extend today’s hours, ------- only a small number of evening visitors are expected.",
+      "choices": {
+        "A": "yet",
+        "B": "or",
+        "C": "nor",
+        "D": "for"
+      },
+      "correctAnswer": "D",
+      "translationJa": "夜間の来館者が少数しか見込まれないため、博物館は本日の開館時間を延長しません。",
+      "explanationJa": "完全な文の後で判断理由を文語的に補うforが適切です。",
+      "focus": "forの後置説明",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0309_Q36",
+      "format": "context-completion",
+      "prompt": "The annual report is ready for distribution. ------- the figures have been approved by the auditor, no further review is required.",
+      "choices": {
+        "A": "Until",
+        "B": "Since",
+        "C": "Unless",
+        "D": "Even if"
+      },
+      "correctAnswer": "B",
+      "translationJa": "年次報告書は配布準備が整っています。数値は監査人の承認済みなので、追加確認は不要です。",
+      "explanationJa": "承認済みという共有事実を理由の背景として示すSinceが合います。",
+      "focus": "sinceと承認済み事実",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0309_Q37",
+      "format": "context-completion",
+      "prompt": "“Why is Room 4 unavailable after lunch?” “------- the facilities team will test the fire alarm there.”",
+      "choices": {
+        "A": "Because",
+        "B": "While",
+        "C": "As",
+        "D": "Before"
+      },
+      "correctAnswer": "A",
+      "translationJa": "「なぜ第4会議室は昼食後に使えないのですか」「施設チームがそこで火災警報器を試験するからです」",
+      "explanationJa": "質問された理由を直接答える会話なのでBecauseを選びます。",
+      "focus": "直接回答のbecause",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0309_Q38",
+      "format": "context-completion",
+      "prompt": "The premium membership is flexible ------- members may pause it for up to three months.",
+      "choices": {
+        "A": "because of",
+        "B": "as soon as",
+        "C": "provided that",
+        "D": "in that"
+      },
+      "correctAnswer": "D",
+      "translationJa": "プレミアム会員制度は、会員が最長3か月休止できるという点で柔軟です。",
+      "explanationJa": "柔軟性の具体的な側面を完全な節で示すin thatが唯一適切です。",
+      "focus": "in that＋完全な節",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0309_Q39",
+      "format": "context-completion",
+      "prompt": "Attendance increased this quarter. ------- the company began offering the training online.",
+      "choices": {
+        "A": "That’s why",
+        "B": "Even so",
+        "C": "That’s because",
+        "D": "On the other hand"
+      },
+      "correctAnswer": "C",
+      "translationJa": "今四半期は出席者が増えました。それは会社が研修をオンライン提供し始めたためです。",
+      "explanationJa": "出席増という結果の原因を後文で説明するためThat’s becauseです。",
+      "focus": "result＋That's because",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0309_Q40",
+      "format": "context-completion",
+      "prompt": "The backup generator was activated ------- a storm had interrupted the building’s power supply.",
+      "choices": {
+        "A": "although",
+        "B": "because",
+        "C": "unless",
+        "D": "so that"
+      },
+      "correctAnswer": "B",
+      "translationJa": "嵐が建物への電力供給を中断したため、非常用発電機が作動しました。",
+      "explanationJa": "発電機作動の明確な原因を示すbecauseが文脈に合います。",
+      "focus": "becauseと過去完了の原因",
+      "difficulty": "intermediate"
+    }
+  ]
+}
