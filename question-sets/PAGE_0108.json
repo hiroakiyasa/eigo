@@ -1,0 +1,576 @@
+{
+  "schemaVersion": 1,
+  "page": {
+    "number": 108,
+    "id": "grammar-master-0108",
+    "title": "名前から、修飾の冒険へ",
+    "image": "pages/PAGE_0108.webp",
+    "sourcePrompt": "source-prompts/PAGE_0108.txt"
+  },
+  "analysis": {
+    "summaryJa": "このページは固有名詞の冠詞選択を総まとめし、単独の山・湖・固有名付き施設は通常無冠詞、山脈・諸島・海・川・説明的なA of B名称はtheを伴いやすいという対比を確認する。同時に、名詞や文へ情報を足す次章『修飾』への橋渡しとして、形容詞を名詞の前に置く形と前置詞句を名詞の後ろへ置く形も扱う。",
+    "grammarPoints": [
+      "Mount＋固有名、Lake＋固有名、固有名＋University・Towerなどは通常無冠詞で使うこと",
+      "山脈・諸島・海・川など、広い地形や集合を示す名称にはtheを使うこと",
+      "A of B型や説明語中心の組織・施設・国名はtheで一つに特定すること",
+      "固有名詞の冠詞は意味だけでなく名称の形から判断し、正式表記も確認すること",
+      "形容詞は名詞の前から種類や性質をしぼり、前置詞句は名詞の後ろから追加説明できること"
+    ],
+    "visualEvidence": [
+      "名称の館から修飾の谷へ向かう道が、冠詞学習のまとめから次章への移行を示している",
+      "一つの峰と連なる山々が並び、Mount＋固有名の無冠詞とthe＋複数山名の対比を表している",
+      "判断コンパスが『固有の1地点』と『説明的名称・複数のまとまり』を別方向へ導いている",
+      "明るい塔に形容詞の情報が追加され、名前の後にさらに詳しい情報を足せることを示している",
+      "下部の矢印が『名前の形を見る』から『情報を足す位置を見る』へ学習視点を移している"
+    ],
+    "commonTraps": [
+      "MountやLakeを含む単独の固有名へ機械的にtheを付ける",
+      "複数形のMountains・Islandsを無冠詞にし、集合を示すtheを落とす",
+      "固有名＋施設名と説明的なA of B名称を同じ冠詞規則で処理する",
+      "名称の一部に普通名詞があるだけでaを選び、固有の一つの名称である点を見落とす",
+      "修飾語を名詞から離れた不自然な位置へ置き、何を説明しているか不明にする"
+    ]
+  },
+  "questions": [
+    {
+      "id": "PAGE_0108_Q01",
+      "format": "part5-cloze",
+      "prompt": "The field team reached ------- Mount Alder shortly before noon.",
+      "choices": {"A": "the", "B": "a", "C": "no article", "D": "an"},
+      "correctAnswer": "C",
+      "translationJa": "調査チームは正午少し前にアルダー山へ到着しました。",
+      "explanationJa": "Mount＋固有名で表す単独の山名は通常無冠詞なので、Mount Alderをそのまま置きます。",
+      "focus": "単独峰名の無冠詞",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0108_Q02",
+      "format": "part5-cloze",
+      "prompt": "A storm is moving toward ------- Alder Mountains from the west.",
+      "choices": {"A": "the", "B": "no article", "C": "an", "D": "a"},
+      "correctAnswer": "A",
+      "translationJa": "嵐が西からアルダー山脈へ近づいています。",
+      "explanationJa": "複数の山を一つの山脈として示す名称にはtheを使うため、the Alder Mountainsが正解です。",
+      "focus": "山脈名とthe",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0108_Q03",
+      "format": "part5-cloze",
+      "prompt": "The workshop will be held at ------- Northwind Tower on the second floor.",
+      "choices": {"A": "a", "B": "the", "C": "an", "D": "no article"},
+      "correctAnswer": "D",
+      "translationJa": "研修会はノースウィンド・タワーの2階で開かれます。",
+      "explanationJa": "Northwindという固有名＋Towerの施設名は名称として十分に特定され、通常は無冠詞です。",
+      "focus": "固有名＋施設名の無冠詞",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0108_Q04",
+      "format": "part5-cloze",
+      "prompt": "The archive belongs to ------- Society of Industrial Designers.",
+      "choices": {"A": "no article", "B": "the", "C": "a", "D": "an"},
+      "correctAnswer": "B",
+      "translationJa": "その資料館は工業デザイナー協会に属しています。",
+      "explanationJa": "Society of Industrial Designersはof句で範囲が定まる説明的な組織名なのでtheが必要です。",
+      "focus": "A of B組織名のthe",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0108_Q05",
+      "format": "part5-cloze",
+      "prompt": "Our research vessel entered ------- Jade Ocean early this morning.",
+      "choices": {"A": "an", "B": "no article", "C": "the", "D": "a"},
+      "correctAnswer": "C",
+      "translationJa": "当社の調査船は今朝早くジェイド洋へ入りました。",
+      "explanationJa": "Oceanを含む海洋名は広い自然地形を一つの全体として捉えるためtheを伴います。",
+      "focus": "海洋名とthe",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0108_Q06",
+      "format": "part5-cloze",
+      "prompt": "The hiking route ends at ------- Lake Mirren near the northern lodge.",
+      "choices": {"A": "the", "B": "a", "C": "an", "D": "no article"},
+      "correctAnswer": "D",
+      "translationJa": "ハイキングルートは北側ロッジ近くのミレン湖で終わります。",
+      "explanationJa": "Lake＋固有名で表す一つの湖名は通常無冠詞なのでLake Mirrenが正しい形です。",
+      "focus": "湖名の無冠詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0108_Q07",
+      "format": "part5-cloze",
+      "prompt": "The express train follows ------- Vela River for most of the journey.",
+      "choices": {"A": "the", "B": "a", "C": "no article", "D": "an"},
+      "correctAnswer": "A",
+      "translationJa": "特急列車は行程の大半でベラ川に沿って走ります。",
+      "explanationJa": "川の名称は流れ全体を一つの地形として示すため、the Vela Riverとします。",
+      "focus": "川名とthe",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0108_Q08",
+      "format": "part5-cloze",
+      "prompt": "Ms. Park teaches supply-chain management at ------- Halcyon College.",
+      "choices": {"A": "the", "B": "no article", "C": "an", "D": "a"},
+      "correctAnswer": "B",
+      "translationJa": "パークさんはハルシオン大学でサプライチェーン管理を教えています。",
+      "explanationJa": "Halcyonという固有名＋Collegeの学校名は通常無冠詞で用います。",
+      "focus": "固有名＋Collegeの無冠詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0108_Q09",
+      "format": "part5-cloze",
+      "prompt": "Please submit the expense form through the ------- portal shown in the email.",
+      "choices": {"A": "portal secure online", "B": "securely online", "C": "online securely", "D": "secure online"},
+      "correctAnswer": "D",
+      "translationJa": "メールに示された安全なオンラインポータルから経費精算書を提出してください。",
+      "explanationJa": "secureとonlineが名詞portalを前から修飾します。形容詞的な語を名詞の前にまとめるsecure online portalが自然です。",
+      "focus": "名詞前の複合修飾",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0108_Q10",
+      "format": "part5-cloze",
+      "prompt": "The office ------- will handle all lost-property inquiries during the event.",
+      "choices": {"A": "near the east gate", "B": "nearly the east gate", "C": "the east gate near", "D": "near east gate the"},
+      "correctAnswer": "A",
+      "translationJa": "東門近くの事務所がイベント中のすべての遺失物問い合わせに対応します。",
+      "explanationJa": "前置詞句near the east gateを名詞officeの直後に置くと、どの事務所かを後ろから自然に説明できます。",
+      "focus": "名詞後ろの前置詞句修飾",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0108_Q11",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about a single mountain.",
+      "choices": {
+        "A": "The Mount Luma is visible from our hotel.",
+        "B": "Mount Luma is visible from our hotel.",
+        "C": "A Mount Luma is visible from our hotel.",
+        "D": "Mount the Luma is visible from our hotel."
+      },
+      "correctAnswer": "B",
+      "translationJa": "当ホテルからルマ山が見えます。",
+      "explanationJa": "単独峰の固有名Mount Lumaは通常無冠詞なのでBが正しい文です。",
+      "focus": "Mount＋固有名",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0108_Q12",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about a mountain range.",
+      "choices": {
+        "A": "Luma Mountains extend along the eastern border.",
+        "B": "A Luma Mountains extends along the eastern border.",
+        "C": "The Mount Luma extend along the eastern border.",
+        "D": "The Luma Mountains extend along the eastern border."
+      },
+      "correctAnswer": "D",
+      "translationJa": "ルマ山脈は東部の境界に沿って延びています。",
+      "explanationJa": "複数の山を一つの山脈として示すthe Luma Mountainsと複数動詞extendの組合せが正しいです。",
+      "focus": "山脈名と主語動詞一致",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0108_Q13",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about a museum with an of-name.",
+      "choices": {
+        "A": "We toured the Museum of Maritime Tools after the meeting.",
+        "B": "We toured Museum of Maritime Tools after the meeting.",
+        "C": "We toured a Museum of the Maritime Tools after meeting.",
+        "D": "We toured the Maritime Tools of Museum after the meeting."
+      },
+      "correctAnswer": "A",
+      "translationJa": "私たちは会議後に海事工具博物館を見学しました。",
+      "explanationJa": "Museum of Maritime ToolsはA of B型の施設名なので、先頭にtheを置くAが正解です。",
+      "focus": "A of B施設名",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0108_Q14",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about a university announcement.",
+      "choices": {
+        "A": "The Aster University announced a new program.",
+        "B": "A Aster University announced the new program.",
+        "C": "Aster University announced a new program.",
+        "D": "Aster the University announced a new program."
+      },
+      "correctAnswer": "C",
+      "translationJa": "アスター大学は新しいプログラムを発表しました。",
+      "explanationJa": "固有名Aster＋Universityは通常無冠詞で用いるためCが正しい文です。",
+      "focus": "大学名の無冠詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0108_Q15",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about a group of islands.",
+      "choices": {
+        "A": "Our ferry serves Opal Islands every weekday.",
+        "B": "Our ferry serves the Opal Islands every weekday.",
+        "C": "Our ferry serves an Opal Islands every weekday.",
+        "D": "Our ferry serves the Opal Island every weekdays."
+      },
+      "correctAnswer": "B",
+      "translationJa": "当社のフェリーは平日毎日オパール諸島へ運航しています。",
+      "explanationJa": "複数の島を一群として示すthe Opal Islandsが正しく、every weekdayも単数形です。",
+      "focus": "諸島名とthe",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0108_Q16",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence contrasting one lake with a lake district.",
+      "choices": {
+        "A": "Lake Sora is south of the Sora Lakes.",
+        "B": "The Lake Sora is south of Sora Lakes.",
+        "C": "Lake the Sora is south of a Sora Lakes.",
+        "D": "The Lake Sora is south of the Sora Lake."
+      },
+      "correctAnswer": "A",
+      "translationJa": "ソラ湖はソラ湖群の南にあります。",
+      "explanationJa": "単独湖Lake Soraは無冠詞、複数の湖をまとめるthe Sora Lakesにはtheを用います。",
+      "focus": "湖と湖群の冠詞対比",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0108_Q17",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about a descriptive country name.",
+      "choices": {
+        "A": "Our office exports equipment to Republic of Varen.",
+        "B": "Our office exports equipment to a Republic of Varen.",
+        "C": "Our office exports equipment to Varen the Republic.",
+        "D": "Our office exports equipment to the Republic of Varen."
+      },
+      "correctAnswer": "D",
+      "translationJa": "当社はバレン共和国へ機器を輸出しています。",
+      "explanationJa": "Republic of Varenは説明的なA of B型の国名なのでtheを伴います。",
+      "focus": "説明的な国名のthe",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0108_Q18",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence describing a renovated landmark.",
+      "choices": {
+        "A": "The newly Northwind Tower renovated opens Friday.",
+        "B": "The Northwind Tower newly renovation opens Friday.",
+        "C": "The newly renovated Northwind Tower opens Friday.",
+        "D": "The renovated newly Northwind Tower open Friday."
+      },
+      "correctAnswer": "C",
+      "translationJa": "新しく改装されたノースウィンド・タワーは金曜日に開館します。",
+      "explanationJa": "副詞newlyが過去分詞renovatedを修飾し、そのまとまりが名詞Northwind Towerを前から説明するCが自然です。",
+      "focus": "副詞＋分詞による名詞前修飾",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0108_Q19",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence in which both modifiers clearly describe their targets.",
+      "choices": {
+        "A": "The blue signs near the lobby direct visitors to the hall.",
+        "B": "The signs blue the lobby near direct visitors to the hall.",
+        "C": "The near signs blue lobby directs visitors to hall.",
+        "D": "The signs near direct the blue lobby visitors to the hall."
+      },
+      "correctAnswer": "A",
+      "translationJa": "ロビー近くの青い案内板が来訪者をホールへ導きます。",
+      "explanationJa": "blueはsignsを前から、near the lobbyはsignsを後ろから説明し、修飾先が明確なAが正解です。",
+      "focus": "前置修飾と後置修飾の組合せ",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0108_Q20",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about a report and its arrival.",
+      "choices": {
+        "A": "The unexpectedly report from Harbor Office arrived.",
+        "B": "The report arrived from the Harbor Office unexpected.",
+        "C": "The from Harbor Office report unexpectedly arrival.",
+        "D": "The report from the Harbor Office arrived unexpectedly."
+      },
+      "correctAnswer": "D",
+      "translationJa": "港湾事務所からの報告書は予想外に届きました。",
+      "explanationJa": "from the Harbor Officeがreportを後ろから説明し、unexpectedlyが動詞arrivedを修飾するDが正しい配置です。",
+      "focus": "前置詞句と副詞の修飾先",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0108_Q21",
+      "format": "meaning-equivalent",
+      "prompt": "We climbed Mount Cora before the inspection. Choose the sentence with the same meaning.",
+      "choices": {
+        "A": "Our climb before the inspection took us up Mount Cora.",
+        "B": "We inspected the Cora Mountains without climbing.",
+        "C": "Mount Cora climbed us before the inspection.",
+        "D": "We climbed a mountain range after the inspection."
+      },
+      "correctAnswer": "A",
+      "translationJa": "点検前の登山で私たちはコラ山を登りました。",
+      "explanationJa": "climbedを名詞climbとtook us upで言い換え、単独峰名Mount Coraを無冠詞のまま保つAが同義です。",
+      "focus": "単独峰名を保つ言い換え",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0108_Q22",
+      "format": "meaning-equivalent",
+      "prompt": "The Cora Mountains are north of the city. Choose the sentence with the same meaning.",
+      "choices": {
+        "A": "The city is north of Mount Cora.",
+        "B": "Cora Mountains are inside the city.",
+        "C": "The city is south of the Cora Mountains.",
+        "D": "The mountain range lies south of every city."
+      },
+      "correctAnswer": "C",
+      "translationJa": "その市はコラ山脈の南にあります。",
+      "explanationJa": "山脈が市の北にあるなら、市は山脈の南です。the Cora Mountainsの冠詞も正しく維持されています。",
+      "focus": "山脈名と位置関係の言い換え",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0108_Q23",
+      "format": "meaning-equivalent",
+      "prompt": "The Library of Aviation History opened last spring. Choose the sentence with the same meaning.",
+      "choices": {
+        "A": "Aviation History Library will close next spring.",
+        "B": "Last spring was when the Library of Aviation History opened.",
+        "C": "The library has never opened to the public.",
+        "D": "A library opened before aviation history began."
+      },
+      "correctAnswer": "B",
+      "translationJa": "航空史図書館が開館したのは昨春です。",
+      "explanationJa": "opened last springを強調構文風のwhen節で言い換えただけで、施設名the Library of Aviation Historyも保たれています。",
+      "focus": "A of B施設名を含む時の言い換え",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0108_Q24",
+      "format": "meaning-equivalent",
+      "prompt": "Vega University is beside the Science Hall. Choose the sentence with the same meaning.",
+      "choices": {
+        "A": "The Vega University is far from Science Hall.",
+        "B": "The Science Hall is inside Vega University.",
+        "C": "Vega University replaced the Science Hall.",
+        "D": "The Science Hall is next to Vega University."
+      },
+      "correctAnswer": "D",
+      "translationJa": "サイエンスホールはベガ大学の隣にあります。",
+      "explanationJa": "besideをnext toに言い換えて位置関係を逆向きに述べています。Vega Universityは無冠詞です。",
+      "focus": "無冠詞の大学名を含む位置表現",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0108_Q25",
+      "format": "meaning-equivalent",
+      "prompt": "The ferry crossed the Amber Sea during the night. Choose the sentence with the same meaning.",
+      "choices": {
+        "A": "The ferry traveled across the Amber Sea overnight.",
+        "B": "The Amber Sea crossed the ferry at noon.",
+        "C": "The ferry stayed outside Amber Sea all night.",
+        "D": "A ferry crossed an amber-colored pond."
+      },
+      "correctAnswer": "A",
+      "translationJa": "フェリーは一晩かけてアンバー海を横断しました。",
+      "explanationJa": "during the nightとovernight、crossedとtraveled acrossが対応し、海名のtheも保持するAが同義です。",
+      "focus": "海名のtheを保つ言い換え",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0108_Q26",
+      "format": "meaning-equivalent",
+      "prompt": "Lake Niko is deeper than Lake Mara. Choose the sentence with the same meaning.",
+      "choices": {
+        "A": "Lake Mara is deeper than Lake Niko.",
+        "B": "Lake Mara is not as deep as Lake Niko.",
+        "C": "The Lake Niko and the Lake Mara are equally deep.",
+        "D": "The two lakes have no measurable depth."
+      },
+      "correctAnswer": "B",
+      "translationJa": "マラ湖はニコ湖ほど深くありません。",
+      "explanationJa": "比較級deeper thanをnot as deep asで同じ意味にし、二つのLake＋固有名は無冠詞にします。",
+      "focus": "湖名と比較表現",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0108_Q27",
+      "format": "meaning-equivalent",
+      "prompt": "The Pine Islands include six inhabited islands. Choose the sentence with the same meaning.",
+      "choices": {
+        "A": "Pine Island has no permanent residents.",
+        "B": "Six islands are outside the Pine Islands.",
+        "C": "Every island in the group is uninhabited.",
+        "D": "Six of the islands in the Pine Islands are inhabited."
+      },
+      "correctAnswer": "D",
+      "translationJa": "パイン諸島のうち6島には人が住んでいます。",
+      "explanationJa": "include six inhabited islandsをSix of the islands ... are inhabitedと置き換え、諸島名のtheも維持しています。",
+      "focus": "諸島名と数量表現",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0108_Q28",
+      "format": "meaning-equivalent",
+      "prompt": "The quiet office near the station is ours. Choose the sentence with the same meaning.",
+      "choices": {
+        "A": "Our station is near a noisy office.",
+        "B": "The office belongs to the station.",
+        "C": "Our office is the quiet one near the station.",
+        "D": "We own every office in the station."
+      },
+      "correctAnswer": "C",
+      "translationJa": "駅の近くにある静かな事務所が私たちの事務所です。",
+      "explanationJa": "quietとnear the stationが同じofficeを修飾する関係を保ち、oursをour officeに展開したCが同義です。",
+      "focus": "前後の修飾を保つ言い換え",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0108_Q29",
+      "format": "meaning-equivalent",
+      "prompt": "The director signed the revised contract yesterday. Choose the sentence with the same meaning.",
+      "choices": {
+        "A": "The contract revised the director yesterday.",
+        "B": "Yesterday, the revised contract was signed by the director.",
+        "C": "The director will revise an unsigned contract tomorrow.",
+        "D": "The signed director revised yesterday's contract."
+      },
+      "correctAnswer": "B",
+      "translationJa": "昨日、改訂済み契約書は部長によって署名されました。",
+      "explanationJa": "能動態を受動態に変えただけで、revisedがcontractを前から修飾する関係も同じです。",
+      "focus": "形容詞的分詞を保つ受動態",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0108_Q30",
+      "format": "meaning-equivalent",
+      "prompt": "A temporary desk in the lobby will serve visitors. Choose the sentence with the same meaning.",
+      "choices": {
+        "A": "Visitors will move the lobby to a permanent desk.",
+        "B": "The temporary lobby will serve a desk.",
+        "C": "The desk located in the lobby is temporary and will serve visitors.",
+        "D": "No desk in the lobby will be available to visitors."
+      },
+      "correctAnswer": "C",
+      "translationJa": "ロビーに設置された仮設受付が来訪者に対応します。",
+      "explanationJa": "in the lobbyをlocated in the lobbyへ展開し、temporaryがdeskを説明する関係と未来の内容を保つCが同義です。",
+      "focus": "前置詞句修飾の展開",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0108_Q31",
+      "format": "context-completion",
+      "prompt": "Tomorrow's tour begins at ------- Mount Elda. Please meet the guide beside the southern trail marker.",
+      "choices": {"A": "a", "B": "the", "C": "an", "D": "no article"},
+      "correctAnswer": "D",
+      "translationJa": "明日のツアーはエルダ山から始まります。南側の登山道標識の横でガイドと合流してください。",
+      "explanationJa": "Mount＋固有名で表す単独の山名は通常無冠詞です。",
+      "focus": "旅行案内での単独峰名",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0108_Q32",
+      "format": "context-completion",
+      "prompt": "The airport bus crosses ------- Kestrel River just before the final stop. Keep your ticket until you leave the bus.",
+      "choices": {"A": "no article", "B": "the", "C": "an", "D": "a"},
+      "correctAnswer": "B",
+      "translationJa": "空港バスは終点の直前にケストレル川を渡ります。降車するまで乗車券をお持ちください。",
+      "explanationJa": "川名は流れ全体を一つの地形として捉えるため、the Kestrel Riverとします。",
+      "focus": "交通案内での川名",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0108_Q33",
+      "format": "context-completion",
+      "prompt": "The guest lecture will take place at ------- Nova University. Online participants will receive a link this afternoon.",
+      "choices": {"A": "the", "B": "a", "C": "no article", "D": "an"},
+      "correctAnswer": "C",
+      "translationJa": "特別講義はノバ大学で行われます。オンライン参加者には本日午後リンクが送られます。",
+      "explanationJa": "固有名Nova＋Universityは通常無冠詞で用います。",
+      "focus": "大学名の無冠詞",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0108_Q34",
+      "format": "context-completion",
+      "prompt": "Roads through ------- Rowan Mountains may close after 8 P.M. Drivers should check the traffic bulletin before departure.",
+      "choices": {"A": "the", "B": "no article", "C": "a", "D": "an"},
+      "correctAnswer": "A",
+      "translationJa": "ローワン山脈を通る道路は午後8時以降に閉鎖される可能性があります。運転者は出発前に交通情報を確認してください。",
+      "explanationJa": "複数の山を一つの山脈として示すthe Rowan Mountainsが必要です。",
+      "focus": "山脈名と道路案内",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0108_Q35",
+      "format": "context-completion",
+      "prompt": "Your application has been forwarded to ------- Center of Applied Robotics. A coordinator will contact you within three days.",
+      "choices": {"A": "an", "B": "no article", "C": "a", "D": "the"},
+      "correctAnswer": "D",
+      "translationJa": "申請書は応用ロボット工学センターへ転送されました。担当者が3日以内に連絡します。",
+      "explanationJa": "Center of Applied Roboticsは説明的なA of B型の施設名なのでtheを置きます。",
+      "focus": "説明的施設名のthe",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0108_Q36",
+      "format": "context-completion",
+      "prompt": "The conference shuttle departs from ------- Lake Arin Hotel at 7:40. Seats are available on a first-come basis.",
+      "choices": {"A": "the", "B": "a", "C": "no article", "D": "an"},
+      "correctAnswer": "C",
+      "translationJa": "会議用シャトルは7時40分にレイク・アリン・ホテルを出発します。座席は先着順です。",
+      "explanationJa": "Lake Arinが固有名称の一部としてHotelを限定する施設名なので、ここでは無冠詞で扱います。",
+      "focus": "固有名を含むホテル名",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0108_Q37",
+      "format": "context-completion",
+      "prompt": "The relief shipment will be divided among ------- Meridian Islands. Local offices will arrange the final delivery.",
+      "choices": {"A": "no article", "B": "the", "C": "a", "D": "an"},
+      "correctAnswer": "B",
+      "translationJa": "救援物資はメリディアン諸島へ分配されます。各地の事務所が最終配送を手配します。",
+      "explanationJa": "複数の島を一つのまとまりとして指すthe Meridian Islandsが正解です。",
+      "focus": "諸島名と配送文脈",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0108_Q38",
+      "format": "context-completion",
+      "prompt": "The ------- schedule on the customer portal includes the new pickup times. Please discard the printed copy from last week.",
+      "choices": {"A": "revised", "B": "revision", "C": "revise", "D": "revisingly"},
+      "correctAnswer": "A",
+      "translationJa": "顧客ポータル上の改訂済み予定表には新しい集荷時刻が記載されています。先週の印刷版は破棄してください。",
+      "explanationJa": "名詞scheduleを前から説明する形容詞的な過去分詞revisedが必要です。",
+      "focus": "分詞による名詞前修飾",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0108_Q39",
+      "format": "context-completion",
+      "prompt": "We have reserved a ------- for the client presentation. The room now includes a larger display and improved lighting.",
+      "choices": {"A": "conference newly room renovated", "B": "new renovation conference room", "C": "newly renovated conference room", "D": "conference room newly renovating"},
+      "correctAnswer": "C",
+      "translationJa": "顧客向けプレゼンテーションのため、新しく改装された会議室を予約しました。その部屋には大型ディスプレーと改善された照明が備わっています。",
+      "explanationJa": "newlyがrenovatedを修飾し、そのまとまりがconference roomを前から説明する語順が自然です。",
+      "focus": "複数語の前置修飾",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0108_Q40",
+      "format": "context-completion",
+      "prompt": "Please use the package ------- for the afternoon demonstration. The box on the upper shelf contains spare parts instead.",
+      "choices": {"A": "carefully lower shelf", "B": "on the lower shelf", "C": "the lower shelf on", "D": "on lower the shelf"},
+      "correctAnswer": "B",
+      "translationJa": "午後の実演には下段の棚にある荷物を使用してください。上段の棚の箱には代わりに予備部品が入っています。",
+      "explanationJa": "前置詞句on the lower shelfをpackageの直後に置くと、どの荷物かを後ろから明確に説明できます。",
+      "focus": "前置詞句による後置修飾",
+      "difficulty": "advanced"
+    }
+  ]
+}
