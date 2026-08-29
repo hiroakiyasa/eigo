@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-29T01:18:38.124Z",
+  "updatedAt": "2026-08-29T02:17:59.557Z",
   "totalPages": 330,
-  "completedPages": 14,
+  "completedPages": 42,
   "questionsPerPage": 40,
   "totalPlannedQuestions": 13200,
   "pages": [
@@ -130,225 +130,225 @@
       "number": 16,
       "id": "grammar-master-0016",
       "title": "on は、接して支える",
-      "status": "pending",
+      "status": "complete",
       "output": "question-sets/PAGE_0016.json",
-      "completedAt": null
+      "completedAt": "2026-08-29T02:17:56.570Z"
     },
     {
       "number": 17,
       "id": "grammar-master-0017",
       "title": "文の骨組みへ出発！",
-      "status": "pending",
+      "status": "complete",
       "output": "question-sets/PAGE_0017.json",
-      "completedAt": null
+      "completedAt": "2026-08-29T02:17:56.680Z"
     },
     {
       "number": 18,
       "id": "grammar-master-0018",
       "title": "英文は、部品で組み立てる",
-      "status": "pending",
+      "status": "complete",
       "output": "question-sets/PAGE_0018.json",
-      "completedAt": null
+      "completedAt": "2026-08-29T02:17:56.791Z"
     },
     {
       "number": 19,
       "id": "grammar-master-0019",
       "title": "意味から、文のレールを選ぶ",
-      "status": "pending",
+      "status": "complete",
       "output": "question-sets/PAGE_0019.json",
-      "completedAt": null
+      "completedAt": "2026-08-29T02:17:56.900Z"
     },
     {
       "number": 20,
       "id": "grammar-master-0020",
       "title": "主語は、文の出発点",
-      "status": "pending",
+      "status": "complete",
       "output": "question-sets/PAGE_0020.json",
-      "completedAt": null
+      "completedAt": "2026-08-29T02:17:57.010Z"
     },
     {
       "number": 21,
       "id": "grammar-master-0021",
       "title": "主語は、どんな形でもなれる",
-      "status": "pending",
+      "status": "complete",
       "output": "question-sets/PAGE_0021.json",
-      "completedAt": null
+      "completedAt": "2026-08-29T02:17:57.126Z"
     },
     {
       "number": 22,
       "id": "grammar-master-0022",
       "title": "“もの”を主語にすると近道",
-      "status": "pending",
+      "status": "complete",
       "output": "question-sets/PAGE_0022.json",
-      "completedAt": null
+      "completedAt": "2026-08-29T02:17:57.237Z"
     },
     {
       "number": 23,
       "id": "grammar-master-0023",
       "title": "動詞には、2つのチーム",
-      "status": "pending",
+      "status": "complete",
       "output": "question-sets/PAGE_0023.json",
-      "completedAt": null
+      "completedAt": "2026-08-29T02:17:57.352Z"
     },
     {
       "number": 24,
       "id": "grammar-master-0024",
       "title": "現在形は、主語を見て変身",
-      "status": "pending",
+      "status": "complete",
       "output": "question-sets/PAGE_0024.json",
-      "completedAt": null
+      "completedAt": "2026-08-29T02:17:57.468Z"
     },
     {
       "number": 25,
       "id": "grammar-master-0025",
       "title": "-s と was / were の合図",
-      "status": "pending",
+      "status": "complete",
       "output": "question-sets/PAGE_0025.json",
-      "completedAt": null
+      "completedAt": "2026-08-29T02:17:57.580Z"
     },
     {
       "number": 26,
       "id": "grammar-master-0026",
       "title": "過去の足あと、動く -ing",
-      "status": "pending",
+      "status": "complete",
       "output": "question-sets/PAGE_0026.json",
-      "completedAt": null
+      "completedAt": "2026-08-29T02:17:57.692Z"
     },
     {
       "number": 27,
       "id": "grammar-master-0027",
       "title": "変化形は、役目を変える",
-      "status": "pending",
+      "status": "complete",
       "output": "question-sets/PAGE_0027.json",
-      "completedAt": null
+      "completedAt": "2026-08-29T02:17:57.806Z"
     },
     {
       "number": 28,
       "id": "grammar-master-0028",
       "title": "動詞の力が、目的語へ届く",
-      "status": "pending",
+      "status": "complete",
       "output": "question-sets/PAGE_0028.json",
-      "completedAt": null
+      "completedAt": "2026-08-29T02:17:57.914Z"
     },
     {
       "number": 29,
       "id": "grammar-master-0029",
       "title": "動作だけなら、自動型",
-      "status": "pending",
+      "status": "complete",
       "output": "question-sets/PAGE_0029.json",
-      "completedAt": null
+      "completedAt": "2026-08-29T02:17:58.023Z"
     },
     {
       "number": 30,
       "id": "grammar-master-0030",
       "title": "届く？つなぐ？説明する？",
-      "status": "pending",
+      "status": "complete",
       "output": "question-sets/PAGE_0030.json",
-      "completedAt": null
+      "completedAt": "2026-08-29T02:17:58.133Z"
     },
     {
       "number": 31,
       "id": "grammar-master-0031",
       "title": "be動詞は、説明をつなぐ橋",
-      "status": "pending",
+      "status": "complete",
       "output": "question-sets/PAGE_0031.json",
-      "completedAt": null
+      "completedAt": "2026-08-29T02:17:58.245Z"
     },
     {
       "number": 32,
       "id": "grammar-master-0032",
       "title": "A＝Bに、動詞の色を重ねる",
-      "status": "pending",
+      "status": "complete",
       "output": "question-sets/PAGE_0032.json",
-      "completedAt": null
+      "completedAt": "2026-08-29T02:17:58.357Z"
     },
     {
       "number": 33,
       "id": "grammar-master-0033",
       "title": "文型が、意味のルートを作る",
-      "status": "pending",
+      "status": "complete",
       "output": "question-sets/PAGE_0033.json",
-      "completedAt": null
+      "completedAt": "2026-08-29T02:17:58.468Z"
     },
     {
       "number": 34,
       "id": "grammar-master-0034",
       "title": "渡す型と to・for の分かれ道",
-      "status": "pending",
+      "status": "complete",
       "output": "question-sets/PAGE_0034.json",
-      "completedAt": null
+      "completedAt": "2026-08-29T02:17:58.581Z"
     },
     {
       "number": 35,
       "id": "grammar-master-0035",
       "title": "動詞には、得意な文型がある",
-      "status": "pending",
+      "status": "complete",
       "output": "question-sets/PAGE_0035.json",
-      "completedAt": null
+      "completedAt": "2026-08-29T02:17:58.690Z"
     },
     {
       "number": 36,
       "id": "grammar-master-0036",
       "title": "日本語訳より、動詞の動きを見る",
-      "status": "pending",
+      "status": "complete",
       "output": "question-sets/PAGE_0036.json",
-      "completedAt": null
+      "completedAt": "2026-08-29T02:17:58.799Z"
     },
     {
       "number": 37,
       "id": "grammar-master-0037",
       "title": "直接つかむ？ 前置詞でつなぐ？",
-      "status": "pending",
+      "status": "complete",
       "output": "question-sets/PAGE_0037.json",
-      "completedAt": null
+      "completedAt": "2026-08-29T02:17:58.906Z"
     },
     {
       "number": 38,
       "id": "grammar-master-0038",
       "title": "目的語の後ろに、説明を足す",
-      "status": "pending",
+      "status": "complete",
       "output": "question-sets/PAGE_0038.json",
-      "completedAt": null
+      "completedAt": "2026-08-29T02:17:59.012Z"
     },
     {
       "number": 39,
       "id": "grammar-master-0039",
       "title": "見た場面を、そのまま文にする",
-      "status": "pending",
+      "status": "complete",
       "output": "question-sets/PAGE_0039.json",
-      "completedAt": null
+      "completedAt": "2026-08-29T02:17:59.122Z"
     },
     {
       "number": 40,
       "id": "grammar-master-0040",
       "title": "make・have・let の力加減",
-      "status": "pending",
+      "status": "complete",
       "output": "question-sets/PAGE_0040.json",
-      "completedAt": null
+      "completedAt": "2026-08-29T02:17:59.228Z"
     },
     {
       "number": 41,
       "id": "grammar-master-0041",
       "title": "4つの『させる』は力が違う",
-      "status": "pending",
+      "status": "complete",
       "output": "question-sets/PAGE_0041.json",
-      "completedAt": null
+      "completedAt": "2026-08-29T02:17:59.338Z"
     },
     {
       "number": 42,
       "id": "grammar-master-0042",
       "title": "目的語を、to の先へ向かわせる",
-      "status": "pending",
+      "status": "complete",
       "output": "question-sets/PAGE_0042.json",
-      "completedAt": null
+      "completedAt": "2026-08-29T02:17:59.448Z"
     },
     {
       "number": 43,
       "id": "grammar-master-0043",
       "title": "思った内容は、後ろの文で説明",
-      "status": "pending",
+      "status": "complete",
       "output": "question-sets/PAGE_0043.json",
-      "completedAt": null
+      "completedAt": "2026-08-29T02:17:59.557Z"
     },
     {
       "number": 44,
