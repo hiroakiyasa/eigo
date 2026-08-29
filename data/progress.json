@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-29T05:33:18.428Z",
+  "updatedAt": "2026-08-29T05:34:03.717Z",
   "totalPages": 330,
-  "completedPages": 107,
+  "completedPages": 108,
   "questionsPerPage": 40,
   "totalPlannedQuestions": 13200,
   "pages": [
@@ -1578,9 +1578,9 @@
       "number": 197,
       "id": "grammar-master-0197",
       "title": "方向・通過・下を描く",
-      "status": "pending",
+      "status": "complete",
       "output": "question-sets/PAGE_0197.json",
-      "completedAt": null
+      "completedAt": "2026-08-29T05:34:03.717Z"
     },
     {
       "number": 198,
