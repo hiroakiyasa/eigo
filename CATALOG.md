@@ -132,7 +132,7 @@
 | 109 | 修飾は、情報を足す道具 | [PAGE_0109](pages/PAGE_0109.webp) | [原稿](source-prompts/PAGE_0109.txt) | `pending` |
 | 110 | 前はしぼる、後ろは説明 | [PAGE_0110](pages/PAGE_0110.webp) | [原稿](source-prompts/PAGE_0110.txt) | [40問](question-sets/PAGE_0110.json) |
 | 111 | 形容詞は、名詞の前後で働く | [PAGE_0111](pages/PAGE_0111.webp) | [原稿](source-prompts/PAGE_0111.txt) | [40問](question-sets/PAGE_0111.json) |
-| 112 | 形容詞の列車、名詞へ近づく順 | [PAGE_0112](pages/PAGE_0112.webp) | [原稿](source-prompts/PAGE_0112.txt) | `pending` |
+| 112 | 形容詞の列車、名詞へ近づく順 | [PAGE_0112](pages/PAGE_0112.webp) | [原稿](source-prompts/PAGE_0112.txt) | [40問](question-sets/PAGE_0112.json) |
 | 113 | ハイフンで、説明を1ブロックに | [PAGE_0113](pages/PAGE_0113.webp) | [原稿](source-prompts/PAGE_0113.txt) | `pending` |
 | 114 | “まだ足りない”が後ろの説明を呼ぶ | [PAGE_0114](pages/PAGE_0114.webp) | [原稿](source-prompts/PAGE_0114.txt) | `pending` |
 | 115 | 位置で変わる、形容詞の顔 | [PAGE_0115](pages/PAGE_0115.webp) | [原稿](source-prompts/PAGE_0115.txt) | `pending` |
