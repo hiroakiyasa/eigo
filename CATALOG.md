@@ -59,7 +59,7 @@
 | 46 | 伝言は今、命令はまっすぐ | [PAGE_0046](pages/PAGE_0046.webp) | [原稿](source-prompts/PAGE_0046.txt) | [40問](question-sets/PAGE_0046.json) |
 | 47 | 命令・禁止・誘いを使い分ける | [PAGE_0047](pages/PAGE_0047.webp) | [原稿](source-prompts/PAGE_0047.txt) | [40問](question-sets/PAGE_0047.json) |
 | 48 | 依頼は、何枚オブラートを重ねる？ | [PAGE_0048](pages/PAGE_0048.webp) | [原稿](source-prompts/PAGE_0048.txt) | [40問](question-sets/PAGE_0048.json) |
-| 49 | There で、新しい登場人物を呼ぶ | [PAGE_0049](pages/PAGE_0049.webp) | [原稿](source-prompts/PAGE_0049.txt) | `pending` |
+| 49 | There で、新しい登場人物を呼ぶ | [PAGE_0049](pages/PAGE_0049.webp) | [原稿](source-prompts/PAGE_0049.txt) | [40問](question-sets/PAGE_0049.json) |
 | 50 | 既知の場所と、新登場を分ける | [PAGE_0050](pages/PAGE_0050.webp) | [原稿](source-prompts/PAGE_0050.txt) | `pending` |
 | 51 | 動きの向きを見よう | [PAGE_0051](pages/PAGE_0051.webp) | [原稿](source-prompts/PAGE_0051.txt) | `pending` |
 | 52 | 力と方向で動詞をつかむ | [PAGE_0052](pages/PAGE_0052.webp) | [原稿](source-prompts/PAGE_0052.txt) | `pending` |

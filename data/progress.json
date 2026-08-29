@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-29T03:51:08.265Z",
+  "updatedAt": "2026-08-29T03:53:10.353Z",
   "totalPages": 330,
-  "completedPages": 47,
+  "completedPages": 48,
   "questionsPerPage": 40,
   "totalPlannedQuestions": 13200,
   "pages": [
@@ -394,9 +394,9 @@
       "number": 49,
       "id": "grammar-master-0049",
       "title": "There で、新しい登場人物を呼ぶ",
-      "status": "pending",
+      "status": "complete",
       "output": "question-sets/PAGE_0049.json",
-      "completedAt": null
+      "completedAt": "2026-08-29T03:53:10.353Z"
     },
     {
       "number": 50,
