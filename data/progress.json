@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-29T09:07:32.183Z",
+  "updatedAt": "2026-08-29T09:09:52.412Z",
   "totalPages": 330,
-  "completedPages": 327,
+  "completedPages": 328,
   "questionsPerPage": 40,
   "totalPlannedQuestions": 13200,
   "pages": [
@@ -1986,9 +1986,9 @@
       "number": 248,
       "id": "grammar-master-0248",
       "title": "どんな条件でも結論は同じ",
-      "status": "pending",
+      "status": "complete",
       "output": "question-sets/PAGE_0248.json",
-      "completedAt": null
+      "completedAt": "2026-08-29T09:09:52.412Z"
     },
     {
       "number": 249,
