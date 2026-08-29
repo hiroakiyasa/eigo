@@ -1,0 +1,677 @@
+{
+  "schemaVersion": 1,
+  "page": {
+    "number": 233,
+    "id": "grammar-master-0233",
+    "title": "“する”から“される”へ視点移動",
+    "image": "pages/PAGE_0233.webp",
+    "sourcePrompt": "source-prompts/PAGE_0233.txt"
+  },
+  "analysis": {
+    "summaryJa": "受動態は出来事自体を変えず、行為を受ける対象へ視点を移す。能動文の目的語を受動文の主語へ置き、主語＋be動詞＋過去分詞で「〜される」を表す。時制・疑問・否定はbe動詞が担い、行為者が重要な場合だけby＋行為者を加える。",
+    "grammarPoints": [
+      "能動文の目的語を受動文の主語へ移すこと",
+      "主語＋be＋過去分詞の基本形",
+      "be動詞による時制・否定・疑問",
+      "by＋行為者の任意追加",
+      "不規則な過去分詞の使用",
+      "出来事を保った能動・受動の相互変換"
+    ],
+    "visualEvidence": [
+      "カメラがACTION DOERからRECEIVERへ向きを変えている",
+      "変換台が対象を主語のスポットへ移している",
+      "BEと過去分詞のブロックが受動の形を構成している",
+      "二組の能動・受動対比が出来事の同一性を示す",
+      "byの札が行為者を必要時だけ加えると示す"
+    ],
+    "commonTraps": [
+      "受動文でbe動詞を落とす",
+      "過去形と過去分詞を混同する",
+      "能動文の主語をそのまま受動文の主語にする",
+      "byの後に目的格でない代名詞を置く",
+      "自動詞を目的語なしで受動化する"
+    ]
+  },
+  "questions": [
+    {
+      "id": "PAGE_0233_Q01",
+      "format": "part5-cloze",
+      "prompt": "All visitor badges ------- at the reception desk each morning.",
+      "choices": {
+        "A": "issue",
+        "B": "are issuing",
+        "C": "are issued",
+        "D": "have issue"
+      },
+      "correctAnswer": "C",
+      "translationJa": "すべての来訪者証は毎朝受付で発行されます。",
+      "explanationJa": "badgesが発行される対象なのでare issuedの受動態です。",
+      "focus": "現在受動態",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0233_Q02",
+      "format": "part5-cloze",
+      "prompt": "The damaged window ------- by a maintenance crew yesterday afternoon.",
+      "choices": {
+        "A": "was replaced",
+        "B": "replaced",
+        "C": "was replacing",
+        "D": "has replace"
+      },
+      "correctAnswer": "A",
+      "translationJa": "破損した窓は昨日午後、保守班によって交換されました。",
+      "explanationJa": "過去の受動なのでwas＋過去分詞replacedです。",
+      "focus": "過去受動態",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0233_Q03",
+      "format": "part5-cloze",
+      "prompt": "The final report will ------- to all department heads on Monday.",
+      "choices": {
+        "A": "send",
+        "B": "be sending",
+        "C": "sent",
+        "D": "be sent"
+      },
+      "correctAnswer": "D",
+      "translationJa": "最終報告書は月曜日に全部門長へ送付されます。",
+      "explanationJa": "助動詞willの後はbe＋過去分詞で受動態を作ります。",
+      "focus": "will be＋過去分詞",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0233_Q04",
+      "format": "part5-cloze",
+      "prompt": "The conference room is being ------- for the afternoon presentation.",
+      "choices": {
+        "A": "prepare",
+        "B": "prepared",
+        "C": "preparing",
+        "D": "prepares"
+      },
+      "correctAnswer": "B",
+      "translationJa": "会議室は午後の発表に向けて準備中です。",
+      "explanationJa": "進行中の受動はis being＋過去分詞preparedです。",
+      "focus": "現在進行受動",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0233_Q05",
+      "format": "part5-cloze",
+      "prompt": "The new access code has already ------- to registered participants.",
+      "choices": {
+        "A": "been given",
+        "B": "gave",
+        "C": "being give",
+        "D": "be gave"
+      },
+      "correctAnswer": "A",
+      "translationJa": "新しいアクセスコードは登録参加者へすでに提供されました。",
+      "explanationJa": "現在完了受動はhas been＋過去分詞givenです。",
+      "focus": "現在完了受動",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0233_Q06",
+      "format": "part5-cloze",
+      "prompt": "The mural was designed ------- a local artist whose work appears in the lobby.",
+      "choices": {
+        "A": "from",
+        "B": "with",
+        "C": "by",
+        "D": "at"
+      },
+      "correctAnswer": "C",
+      "translationJa": "その壁画はロビーにも作品がある地元芸術家によってデザインされました。",
+      "explanationJa": "重要な行為者を示す前置詞はbyです。",
+      "focus": "by＋行為者",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0233_Q07",
+      "format": "part5-cloze",
+      "prompt": "The invoices ------- before payment can be authorized.",
+      "choices": {
+        "A": "must check",
+        "B": "must be checked",
+        "C": "must be checking",
+        "D": "must checked"
+      },
+      "correctAnswer": "B",
+      "translationJa": "支払いを承認する前に請求書を確認しなければなりません。",
+      "explanationJa": "助動詞mustの受動はmust be＋過去分詞です。",
+      "focus": "must be＋過去分詞",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0233_Q08",
+      "format": "part5-cloze",
+      "prompt": "The missing equipment was ------- in a storage closet on the third floor.",
+      "choices": {
+        "A": "find",
+        "B": "finding",
+        "C": "founded",
+        "D": "found"
+      },
+      "correctAnswer": "D",
+      "translationJa": "紛失していた機器は3階の倉庫で見つかりました。",
+      "explanationJa": "findの過去分詞はfoundで、was foundが受動を作ります。",
+      "focus": "不規則過去分詞found",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0233_Q09",
+      "format": "part5-cloze",
+      "prompt": "The customer’s address was not ------- correctly on the shipping label.",
+      "choices": {
+        "A": "written",
+        "B": "wrote",
+        "C": "write",
+        "D": "writing"
+      },
+      "correctAnswer": "A",
+      "translationJa": "顧客の住所は配送ラベルに正しく書かれていませんでした。",
+      "explanationJa": "writeの過去分詞writtenをwas notの後に置きます。",
+      "focus": "否定受動とwritten",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0233_Q10",
+      "format": "part5-cloze",
+      "prompt": "When ------- the safety guidelines last updated?",
+      "choices": {
+        "A": "did",
+        "B": "were",
+        "C": "was",
+        "D": "have"
+      },
+      "correctAnswer": "B",
+      "translationJa": "安全指針が最後に更新されたのはいつですか。",
+      "explanationJa": "複数主語guidelinesの過去受動疑問なのでwereを前置します。",
+      "focus": "受動疑問文",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0233_Q11",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that correctly focuses on the item receiving the action.",
+      "choices": {
+        "A": "The replacement parts delivered before noon.",
+        "B": "The replacement parts were deliver before noon.",
+        "C": "The replacement parts were delivering the courier before noon.",
+        "D": "The replacement parts were delivered before noon."
+      },
+      "correctAnswer": "D",
+      "translationJa": "交換部品は正午前に配達されました。",
+      "explanationJa": "対象partsを主語にしwere＋過去分詞deliveredを使っています。",
+      "focus": "受動態の基本形",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0233_Q12",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct passive version of “The technician repaired the scanner.”",
+      "choices": {
+        "A": "The technician was repaired by the scanner.",
+        "B": "The scanner was repaired by the technician.",
+        "C": "The scanner repaired the technician.",
+        "D": "The scanner was repair by the technician."
+      },
+      "correctAnswer": "B",
+      "translationJa": "スキャナーは技術者によって修理されました。",
+      "explanationJa": "能動文の目的語scannerを主語へ移しwas repairedとしています。",
+      "focus": "能動から受動への変換",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0233_Q13",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence with the correct irregular past participle.",
+      "choices": {
+        "A": "The access card was took from the desk.",
+        "B": "The access card taken was from the desk by.",
+        "C": "The access card was taken from the desk.",
+        "D": "The access card was taking from the desk."
+      },
+      "correctAnswer": "C",
+      "translationJa": "アクセスカードは机から持ち去られました。",
+      "explanationJa": "takeの過去分詞はtakenなのでwas takenが正しいです。",
+      "focus": "過去分詞taken",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0233_Q14",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that correctly forms a passive question.",
+      "choices": {
+        "A": "Was the package inspected at the border?",
+        "B": "Did the package was inspected at the border?",
+        "C": "Was inspected the package at the border?",
+        "D": "The package was inspect at the border?"
+      },
+      "correctAnswer": "A",
+      "translationJa": "その荷物は国境で検査されましたか。",
+      "explanationJa": "be動詞Wasを主語の前に置き、過去分詞inspectedを使います。",
+      "focus": "受動態の疑問文",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0233_Q15",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence with the correct negative passive form.",
+      "choices": {
+        "A": "The files did not deleted during the update.",
+        "B": "The files were not delete during the update.",
+        "C": "The files not were deleting during the update.",
+        "D": "The files were not deleted during the update."
+      },
+      "correctAnswer": "D",
+      "translationJa": "ファイルは更新中に削除されませんでした。",
+      "explanationJa": "were not＋過去分詞deletedが過去受動の否定形です。",
+      "focus": "受動態の否定",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0233_Q16",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that correctly adds an important agent.",
+      "choices": {
+        "A": "The award was presented from the company president.",
+        "B": "The award presented by the company president was.",
+        "C": "The award was presented by the company president.",
+        "D": "The company president was presented by the award."
+      },
+      "correctAnswer": "C",
+      "translationJa": "賞は社長によって授与されました。",
+      "explanationJa": "行為者が重要なのでby the company presidentを加えています。",
+      "focus": "by＋重要な行為者",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0233_Q17",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct future passive sentence.",
+      "choices": {
+        "A": "The results will announce at tomorrow’s meeting.",
+        "B": "The results will be announced at tomorrow’s meeting.",
+        "C": "The results will be announce at tomorrow’s meeting.",
+        "D": "The results will announced be tomorrow."
+      },
+      "correctAnswer": "B",
+      "translationJa": "結果は明日の会議で発表されます。",
+      "explanationJa": "will be＋過去分詞announcedが未来受動の形です。",
+      "focus": "未来受動態",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0233_Q18",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that preserves the event in “A courier collected the samples.”",
+      "choices": {
+        "A": "A courier was collected by the samples.",
+        "B": "The samples collected a courier.",
+        "C": "The samples were collecting by a courier.",
+        "D": "The samples were collected by a courier."
+      },
+      "correctAnswer": "D",
+      "translationJa": "試料は配達員によって回収されました。",
+      "explanationJa": "対象samplesを主語へ移しても元の出来事と役割を保っています。",
+      "focus": "出来事を保つ受動化",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0233_Q19",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct present perfect passive sentence.",
+      "choices": {
+        "A": "The meeting schedule has changed by someone twice.",
+        "B": "The meeting schedule has been change twice.",
+        "C": "The meeting schedule has been changed twice.",
+        "D": "The meeting schedule is been changed twice."
+      },
+      "correctAnswer": "C",
+      "translationJa": "会議日程は2度変更されました。",
+      "explanationJa": "has been＋過去分詞changedが現在完了受動です。",
+      "focus": "現在完了受動態",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0233_Q20",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence with the correct ongoing passive form.",
+      "choices": {
+        "A": "The lobby is being renovated this week.",
+        "B": "The lobby is renovating this week.",
+        "C": "The lobby is been renovated this week.",
+        "D": "The lobby being is renovate this week."
+      },
+      "correctAnswer": "A",
+      "translationJa": "ロビーは今週改装中です。",
+      "explanationJa": "is being＋過去分詞renovatedで進行中の受動を表します。",
+      "focus": "進行受動態",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0233_Q21",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “The manager approved the request.”",
+      "choices": {
+        "A": "The request was approved by the manager.",
+        "B": "The manager was approved by the request.",
+        "C": "The request approved a different manager.",
+        "D": "No approval was given to the request."
+      },
+      "correctAnswer": "A",
+      "translationJa": "申請は管理者によって承認されました。",
+      "explanationJa": "目的語requestを主語にした受動文でも出来事は同じです。",
+      "focus": "能動・受動の同義",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0233_Q22",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “The documents were copied before the meeting.”",
+      "choices": {
+        "A": "The documents copied someone after the meeting.",
+        "B": "Someone destroyed the documents before copying them.",
+        "C": "The meeting was copied by the documents.",
+        "D": "Someone copied the documents before the meeting."
+      },
+      "correctAnswer": "D",
+      "translationJa": "誰かが会議前に書類を複写しました。",
+      "explanationJa": "行為者不明の受動文をsomeone主語の能動文へ戻しています。",
+      "focus": "受動から能動へ",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0233_Q23",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “A local firm built the new warehouse.”",
+      "choices": {
+        "A": "The local firm was built inside the warehouse.",
+        "B": "The warehouse built a local firm.",
+        "C": "The new warehouse was built by a local firm.",
+        "D": "A new warehouse hired the local firm."
+      },
+      "correctAnswer": "C",
+      "translationJa": "新しい倉庫は地元企業によって建設されました。",
+      "explanationJa": "能動の対象warehouseへ視点を移した同義の受動文です。",
+      "focus": "builtの受動化",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0233_Q24",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “The package has been opened.”",
+      "choices": {
+        "A": "The package has opened another item.",
+        "B": "Someone has opened the package.",
+        "C": "Someone will keep the package sealed.",
+        "D": "The package is opening someone."
+      },
+      "correctAnswer": "B",
+      "translationJa": "誰かがその荷物を開封しました。",
+      "explanationJa": "現在完了受動を不特定の行為者someoneを用いて能動化しています。",
+      "focus": "現在完了受動の同義",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0233_Q25",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “The staff will inspect every room.”",
+      "choices": {
+        "A": "Every room will be inspected by the staff.",
+        "B": "Every room will inspect the staff.",
+        "C": "The staff will be inspected by every room.",
+        "D": "No room will receive an inspection."
+      },
+      "correctAnswer": "A",
+      "translationJa": "すべての部屋がスタッフによって検査されます。",
+      "explanationJa": "will inspectをwill be inspectedへ変えて対象を主語にしています。",
+      "focus": "未来の能動・受動",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0233_Q26",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “The password was written on the card.”",
+      "choices": {
+        "A": "The password wrote a card for someone.",
+        "B": "Someone erased every password from the card.",
+        "C": "Someone wrote the password on the card.",
+        "D": "The card was writing the password itself."
+      },
+      "correctAnswer": "C",
+      "translationJa": "誰かがカードにパスワードを書きました。",
+      "explanationJa": "過去受動was writtenをsomeone主語の能動過去へ戻しています。",
+      "focus": "writtenの能動化",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0233_Q27",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “The storm damaged several signs.”",
+      "choices": {
+        "A": "Several signs damaged the storm.",
+        "B": "The storm was damaged by signs.",
+        "C": "The signs prevented all storm damage.",
+        "D": "Several signs were damaged by the storm."
+      },
+      "correctAnswer": "D",
+      "translationJa": "複数の標識が嵐によって破損しました。",
+      "explanationJa": "対象signsを主語にした受動文で因果関係を保っています。",
+      "focus": "対象への視点移動",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0233_Q28",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “The application is being reviewed.”",
+      "choices": {
+        "A": "Someone is reviewing the application now.",
+        "B": "The application is reviewing an employee.",
+        "C": "Someone completed the review long ago.",
+        "D": "The application will never receive a review."
+      },
+      "correctAnswer": "A",
+      "translationJa": "誰かが現在その申請を審査しています。",
+      "explanationJa": "is being reviewedは現在進行中の受動的な審査です。",
+      "focus": "進行受動の言い換え",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0233_Q29",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “The committee chose three finalists.”",
+      "choices": {
+        "A": "Three finalists chose the committee.",
+        "B": "Three finalists were chosen by the committee.",
+        "C": "The committee was chosen by three buildings.",
+        "D": "No finalists were selected."
+      },
+      "correctAnswer": "B",
+      "translationJa": "3人の最終候補者が委員会によって選ばれました。",
+      "explanationJa": "chooseの過去分詞chosenを用いて対象へ視点を移しています。",
+      "focus": "chosenの受動態",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0233_Q30",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “The equipment must be tested before use.”",
+      "choices": {
+        "A": "The equipment must test its users first.",
+        "B": "Testing is forbidden before the equipment is used.",
+        "C": "Someone must test the equipment before anyone uses it.",
+        "D": "Users must avoid testing all equipment."
+      },
+      "correctAnswer": "C",
+      "translationJa": "使用前に誰かが機器を試験しなければなりません。",
+      "explanationJa": "must be testedを不特定行為者の能動文へ展開しています。",
+      "focus": "助動詞受動の同義",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0233_Q31",
+      "format": "context-completion",
+      "prompt": "The reception area has new furniture. All chairs ------- by a local manufacturer.",
+      "choices": {
+        "A": "made",
+        "B": "were made",
+        "C": "were making",
+        "D": "have make"
+      },
+      "correctAnswer": "B",
+      "translationJa": "受付区域には新しい家具があります。すべての椅子は地元メーカーが製造しました。",
+      "explanationJa": "chairsが製造される対象なのでwere madeです。",
+      "focus": "過去受動とmade",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0233_Q32",
+      "format": "context-completion",
+      "prompt": "The online store received the order this morning. The item will ------- this afternoon.",
+      "choices": {
+        "A": "ship",
+        "B": "be shipping",
+        "C": "shipped",
+        "D": "be shipped"
+      },
+      "correctAnswer": "D",
+      "translationJa": "オンライン店は今朝注文を受けました。商品は本日午後に発送されます。",
+      "explanationJa": "未来受動will be shippedが文脈に合います。",
+      "focus": "will be shipped",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0233_Q33",
+      "format": "context-completion",
+      "prompt": "A pipe burst overnight. The water supply has ------- until repairs are complete.",
+      "choices": {
+        "A": "been stopped",
+        "B": "stopped itself",
+        "C": "been stop",
+        "D": "being stopped yesterday"
+      },
+      "correctAnswer": "A",
+      "translationJa": "夜間に管が破裂しました。修理完了まで給水が停止されています。",
+      "explanationJa": "現在までの結果をhas been stoppedで表します。",
+      "focus": "現在完了受動",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0233_Q34",
+      "format": "context-completion",
+      "prompt": "The artist attended the opening ceremony. The main entrance mural was painted ------- her.",
+      "choices": {
+        "A": "from",
+        "B": "with",
+        "C": "by",
+        "D": "at"
+      },
+      "correctAnswer": "C",
+      "translationJa": "芸術家は開会式に出席しました。正面入口の壁画は彼女が描きました。",
+      "explanationJa": "前文で重要な行為者をby herで明示します。",
+      "focus": "by＋代名詞目的格",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0233_Q35",
+      "format": "context-completion",
+      "prompt": "The maintenance team is still inside the elevator. It is being ------- now.",
+      "choices": {
+        "A": "inspect",
+        "B": "inspection",
+        "C": "inspecting passengers",
+        "D": "inspected"
+      },
+      "correctAnswer": "D",
+      "translationJa": "保守チームはまだエレベーター内にいます。現在点検中です。",
+      "explanationJa": "進行受動is being inspectedが適切です。",
+      "focus": "being＋過去分詞",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0233_Q36",
+      "format": "context-completion",
+      "prompt": "No employee remembers moving the key. It may have been ------- accidentally.",
+      "choices": {
+        "A": "took",
+        "B": "taken",
+        "C": "taking",
+        "D": "take"
+      },
+      "correctAnswer": "B",
+      "translationJa": "鍵を動かした記憶がある従業員はいません。誤って持ち去られた可能性があります。",
+      "explanationJa": "may have beenの後にtakeの過去分詞takenを置きます。",
+      "focus": "助動詞完了受動",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0233_Q37",
+      "format": "context-completion",
+      "prompt": "The board meets tomorrow morning. The proposal must be ------- before then.",
+      "choices": {
+        "A": "written",
+        "B": "wrote",
+        "C": "write",
+        "D": "writing"
+      },
+      "correctAnswer": "A",
+      "translationJa": "取締役会は明朝開かれます。それまでに提案書を書かなければなりません。",
+      "explanationJa": "must beの後にwriteの過去分詞writtenが必要です。",
+      "focus": "must be written",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0233_Q38",
+      "format": "context-completion",
+      "prompt": "The alarm did not sound during the test. Was the battery ------- correctly?",
+      "choices": {
+        "A": "install",
+        "B": "installing",
+        "C": "was install",
+        "D": "installed"
+      },
+      "correctAnswer": "D",
+      "translationJa": "試験中に警報が鳴りませんでした。電池は正しく取り付けられていましたか。",
+      "explanationJa": "受動疑問Was＋主語＋過去分詞を完成するinstalledです。",
+      "focus": "受動疑問の補完",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0233_Q39",
+      "format": "context-completion",
+      "prompt": "The company posted the results online. They were also ------- to every applicant by email.",
+      "choices": {
+        "A": "send",
+        "B": "sending",
+        "C": "sent",
+        "D": "sended"
+      },
+      "correctAnswer": "C",
+      "translationJa": "会社は結果をオンライン掲載し、各応募者へメールでも送付しました。",
+      "explanationJa": "theyが送られる対象なのでwere sentです。",
+      "focus": "過去分詞sent",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0233_Q40",
+      "format": "context-completion",
+      "prompt": "The road is closed near the station. Drivers are being ------- to an alternate route.",
+      "choices": {
+        "A": "direct",
+        "B": "directed",
+        "C": "direction",
+        "D": "directing"
+      },
+      "correctAnswer": "B",
+      "translationJa": "駅付近の道路は閉鎖されています。運転手は別経路へ案内されています。",
+      "explanationJa": "現在進行受動are being directedが適切です。",
+      "focus": "are being directed",
+      "difficulty": "intermediate"
+    }
+  ]
+}
