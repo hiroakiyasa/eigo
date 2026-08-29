@@ -1,0 +1,575 @@
+{
+  "schemaVersion": 1,
+  "page": {
+    "number": 118,
+    "id": "grammar-master-0118",
+    "title": "修飾の地図：形容詞から副詞へ",
+    "image": "pages/PAGE_0118.webp",
+    "sourcePrompt": "source-prompts/PAGE_0118.txt"
+  },
+  "analysis": {
+    "summaryJa": "このページは、形容詞が名詞や主語・目的語の性質を示す一方、副詞が動詞、形容詞、別の副詞、さらに文全体を修飾するという『修飾先の地図』を扱う。名詞の前後に置く形容詞と、意味を加えたい語の近くに置く副詞を見分ける力を、職場の説明、配送、監査、会議、顧客対応の場面で測る。語尾だけで判断せず、どの語へ矢印が向くかを確認する40問とした。",
+    "grammarPoints": [
+      "形容詞は名詞を限定し、連結動詞の後ろで主語の性質や状態を説明する",
+      "副詞は動詞の動作の仕方・程度・時などを説明する",
+      "副詞は形容詞や別の副詞の程度を強めたり弱めたりする",
+      "文副詞は文全体に話し手の判断や態度を加える",
+      "修飾語の品詞は語形ではなく、実際に何を修飾しているかで決める"
+    ],
+    "visualEvidence": [
+      "名詞へ向かう形容詞の矢印と、動詞へ向かう副詞の矢印が修飾先の違いを示している",
+      "副詞から形容詞、副詞から別の副詞へ伸びる枝が、副詞の広い修飾範囲を表している",
+      "文全体を囲む位置の副詞が、話し手の態度を文全体に重ねる働きを示している",
+      "前置と後置の位置コンパスが、名詞を限定する形容詞と説明する形容詞の基本位置を示している"
+    ],
+    "commonTraps": [
+      "名詞の直前で副詞を単独使用し、名詞を直接修飾しようとする",
+      "動作の仕方を表す箇所で形容詞を選び、動詞を修飾できなくする",
+      "連結動詞の後ろで副詞を選び、主語の状態説明を崩す",
+      "形容詞を強める語に形容詞形を置き、highly practicalなどの副詞構造を見落とす",
+      "文頭の評価語を主語だけの修飾と誤解し、文全体への作用を見落とす"
+    ]
+  },
+  "questions": [
+    {
+      "id": "PAGE_0118_Q01",
+      "format": "part5-cloze",
+      "prompt": "The receptionist gave each visitor a ------- explanation of the check-in procedure.",
+      "choices": {"A": "clearly", "B": "clarity", "C": "clear", "D": "clearing"},
+      "correctAnswer": "C",
+      "translationJa": "受付担当者は各来訪者に、受付手順を分かりやすく説明しました。",
+      "explanationJa": "空所は名詞explanationの性質を示すため、形容詞clearが必要です。clearlyは動詞などを修飾する副詞です。",
+      "focus": "名詞を前から修飾する形容詞",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0118_Q02",
+      "format": "part5-cloze",
+      "prompt": "The receptionist explained the revised check-in procedure -------.",
+      "choices": {"A": "clearly", "B": "clear", "C": "clarity", "D": "clearest"},
+      "correctAnswer": "A",
+      "translationJa": "受付担当者は改訂された受付手順を明確に説明しました。",
+      "explanationJa": "空所は動詞explainedの仕方を説明するため、副詞clearlyが正解です。",
+      "focus": "動詞を修飾する様態副詞",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0118_Q03",
+      "format": "part5-cloze",
+      "prompt": "The updated scheduling software is ------- easy to configure.",
+      "choices": {"A": "surprising", "B": "surprised", "C": "surprise", "D": "surprisingly"},
+      "correctAnswer": "D",
+      "translationJa": "更新された日程管理ソフトは、驚くほど設定が簡単です。",
+      "explanationJa": "surprisinglyは形容詞easyの程度を説明する副詞です。ソフト自体の性質を直接述べる形容詞ではありません。",
+      "focus": "形容詞を修飾する副詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0118_Q04",
+      "format": "part5-cloze",
+      "prompt": "The delivery truck moved ------- through the narrow service entrance.",
+      "choices": {"A": "slow", "B": "slowly", "C": "slowness", "D": "slower"},
+      "correctAnswer": "B",
+      "translationJa": "配送トラックは狭い業務用入口をゆっくり進みました。",
+      "explanationJa": "movedという動作の仕方を説明するので副詞slowlyを用います。",
+      "focus": "移動動詞を修飾する副詞",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0118_Q05",
+      "format": "part5-cloze",
+      "prompt": "The director sounded ------- confident about meeting the revised deadline.",
+      "choices": {"A": "unusually", "B": "unusual", "C": "unusualness", "D": "more unusual"},
+      "correctAnswer": "A",
+      "translationJa": "部長は改訂された期限に間に合うことについて、いつになく自信がある様子でした。",
+      "explanationJa": "confidentはdirectorの状態を表す形容詞で、その程度を副詞unusuallyが修飾します。",
+      "focus": "連結動詞後の形容詞を強める副詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0118_Q06",
+      "format": "part5-cloze",
+      "prompt": "The support team responded ------- quickly to the network failure.",
+      "choices": {"A": "remarkable", "B": "remark", "C": "remarkably", "D": "remarking"},
+      "correctAnswer": "C",
+      "translationJa": "サポートチームはネットワーク障害に驚くほど迅速に対応しました。",
+      "explanationJa": "quicklyはrespondedを修飾する副詞で、さらにremarkablyがquicklyの程度を修飾します。",
+      "focus": "副詞を修飾する副詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0118_Q07",
+      "format": "part5-cloze",
+      "prompt": "-------, the conference room will be unavailable during the client visit.",
+      "choices": {"A": "Unfortunate", "B": "Unfortunately", "C": "Misfortune", "D": "More unfortunate"},
+      "correctAnswer": "B",
+      "translationJa": "残念ながら、顧客訪問中は会議室を利用できません。",
+      "explanationJa": "文全体の内容に対する話し手の評価を加えるため、文副詞Unfortunatelyを文頭に置きます。",
+      "focus": "文全体を修飾する評価副詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0118_Q08",
+      "format": "part5-cloze",
+      "prompt": "The report includes a ------- detailed comparison of the three distribution options.",
+      "choices": {"A": "height", "B": "higher", "C": "high", "D": "highly"},
+      "correctAnswer": "D",
+      "translationJa": "その報告書には3つの流通案について非常に詳細な比較が含まれています。",
+      "explanationJa": "detailedがcomparisonを修飾し、その程度を副詞highlyが修飾します。high detailedとは通常言いません。",
+      "focus": "highly＋過去分詞形容詞",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0118_Q09",
+      "format": "part5-cloze",
+      "prompt": "We need an ------- accurate inventory count before negotiating with the insurer.",
+      "choices": {"A": "extremely", "B": "extreme", "C": "extremity", "D": "extremes"},
+      "correctAnswer": "A",
+      "translationJa": "保険会社と交渉する前に、極めて正確な在庫数が必要です。",
+      "explanationJa": "accurateはinventory countを修飾する形容詞で、その程度をextremelyが示します。冠詞anは名詞句全体にかかります。",
+      "focus": "冠詞内の副詞＋形容詞＋名詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0118_Q10",
+      "format": "part5-cloze",
+      "prompt": "The final estimate was ------- different from the preliminary figure because fuel costs had risen.",
+      "choices": {"A": "material", "B": "materially", "C": "materiality", "D": "materials"},
+      "correctAnswer": "B",
+      "translationJa": "燃料費が上昇したため、最終見積額は暫定値と実質的に異なっていました。",
+      "explanationJa": "differentは形容詞で、差が重要な程度であることを副詞materiallyが説明します。material differentでは品詞関係が成立しません。",
+      "focus": "形容詞differentを修飾する専門的副詞",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0118_Q11",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about a technician's manner of work.",
+      "choices": {
+        "A": "The technician completed careful the repair.",
+        "B": "The technician completed the repair carefully.",
+        "C": "The technician carefully was the repair complete.",
+        "D": "The technician completed the carefully repair."
+      },
+      "correctAnswer": "B",
+      "translationJa": "技術者は慎重に修理を完了しました。",
+      "explanationJa": "carefullyは動詞句completed the repairの仕方を説明し、目的語の後ろに自然に置かれています。",
+      "focus": "動詞＋目的語の後ろの様態副詞",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0118_Q12",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence expressing the speaker's favorable judgment.",
+      "choices": {
+        "A": "Fortunate, the replacement parts arrived before noon.",
+        "B": "The fortunately replacement parts arrived before noon.",
+        "C": "The replacement parts arrived fortunate before noon.",
+        "D": "Fortunately, the replacement parts arrived before noon."
+      },
+      "correctAnswer": "D",
+      "translationJa": "幸い、交換部品は正午前に到着しました。",
+      "explanationJa": "Fortunatelyは到着したという文全体を評価する文副詞で、文頭をコンマで区切ります。",
+      "focus": "文副詞とコンマ",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0118_Q13",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence describing a waiting area.",
+      "choices": {
+        "A": "The office has a quiet waiting area.",
+        "B": "The office has a quietly waiting area.",
+        "C": "The office quiet has a waiting area.",
+        "D": "The office has a waiting area quietness."
+      },
+      "correctAnswer": "A",
+      "translationJa": "その事務所には静かな待合スペースがあります。",
+      "explanationJa": "quietは名詞句waiting areaの性質を表す形容詞です。quietlyは動作を説明する副詞です。",
+      "focus": "複合名詞を修飾する形容詞",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0118_Q14",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence describing a proposal's financial appeal.",
+      "choices": {
+        "A": "The proposal is financial attractively to small retailers.",
+        "B": "The proposal financially is attraction to small retailers.",
+        "C": "The proposal is financially attractive to small retailers.",
+        "D": "The proposal is financial attractive to small retailers."
+      },
+      "correctAnswer": "C",
+      "translationJa": "その提案は小規模小売店にとって財務面で魅力的です。",
+      "explanationJa": "attractiveがproposalの性質を示し、副詞financiallyが『財務面で』という観点を加えます。",
+      "focus": "副詞＋叙述形容詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0118_Q15",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about the speed of an assistant's response.",
+      "choices": {
+        "A": "The assistant answered the question surprising quick.",
+        "B": "The assistant answered the question surprisingly quickly.",
+        "C": "The assistant answered surprisingly the quickly question.",
+        "D": "The assistant surprising answered the question quickly."
+      },
+      "correctAnswer": "B",
+      "translationJa": "助手はその質問に驚くほど素早く答えました。",
+      "explanationJa": "quicklyがansweredを修飾し、surprisinglyがquicklyの程度をさらに説明します。副詞が二段階で矢印を作ります。",
+      "focus": "副詞による別の副詞の修飾",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0118_Q16",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about a lobby after construction work.",
+      "choices": {
+        "A": "The new renovated lobby opened on Monday.",
+        "B": "The newly renovation lobby opened on Monday.",
+        "C": "The newly renovated lobby opened on Monday.",
+        "D": "The lobby newly was renovated opened on Monday."
+      },
+      "correctAnswer": "C",
+      "translationJa": "新しく改装されたロビーは月曜日にオープンしました。",
+      "explanationJa": "renovatedはlobbyを説明する過去分詞形容詞で、副詞newlyが改装の新しさを修飾します。",
+      "focus": "副詞＋分詞形容詞＋名詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0118_Q17",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about the importance of survey findings.",
+      "choices": {
+        "A": "The survey findings are statistic significance.",
+        "B": "The survey findings statistically are significance.",
+        "C": "The survey findings are statistical significantly.",
+        "D": "The survey findings are statistically significant."
+      },
+      "correctAnswer": "D",
+      "translationJa": "その調査結果は統計的に有意です。",
+      "explanationJa": "significantはfindingsの性質を示す形容詞で、statisticallyがどの観点で有意かを修飾します。",
+      "focus": "観点を示す副詞と形容詞",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0118_Q18",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about driving on an icy road.",
+      "choices": {
+        "A": "The courier drove carefully on the icy road.",
+        "B": "The courier drove careful on the icy road.",
+        "C": "The careful courier drove on the road icily careful.",
+        "D": "The courier carefully was on the icy road drive."
+      },
+      "correctAnswer": "A",
+      "translationJa": "配達員は凍結した道路を慎重に運転しました。",
+      "explanationJa": "carefullyはdroveの様態を表します。icyはroadを修飾する形容詞で、両者の修飾先が異なります。",
+      "focus": "同一文内の形容詞と副詞の修飾先",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0118_Q19",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence with correct modification at both the sentence and adjective levels.",
+      "choices": {
+        "A": "Frank, the warranty terms are unnecessary complicated.",
+        "B": "Frankly, the warranty terms are unnecessary complication.",
+        "C": "Frankly, the warranty terms are unnecessarily complicated.",
+        "D": "Frankly the warranty unnecessarily terms are complicatedly."
+      },
+      "correctAnswer": "C",
+      "translationJa": "率直に言えば、その保証条件は不必要に複雑です。",
+      "explanationJa": "Franklyは文全体への態度、unnecessarilyは形容詞complicatedへの程度評価です。二つの副詞の修飾範囲を区別します。",
+      "focus": "文副詞と形容詞修飾副詞の併用",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0118_Q20",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence with a properly layered modifier before a noun.",
+      "choices": {
+        "A": "The remarkable well-prepared team handled the inspection.",
+        "B": "The remarkably well-prepared team handled the inspection.",
+        "C": "The remarkably good-prepared team handled the inspection.",
+        "D": "The team remarkably well preparedly handled the inspection."
+      },
+      "correctAnswer": "B",
+      "translationJa": "非常によく準備されたチームが検査に対応しました。",
+      "explanationJa": "well-preparedがteamを修飾し、remarkablyがその形容詞句全体の程度を強めます。remarkableならteamを直接修飾する別構造になります。",
+      "focus": "多層修飾remarkably well-prepared",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0118_Q21",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The analyst gave a careful explanation.\"",
+      "choices": {
+        "A": "The analyst explained why caution was unnecessary.",
+        "B": "The analyst's explanation was delayed.",
+        "C": "The analyst carefully checked someone else's explanation.",
+        "D": "The analyst explained the matter carefully."
+      },
+      "correctAnswer": "D",
+      "translationJa": "分析担当者はその件を慎重に説明しました。",
+      "explanationJa": "形容詞carefulが名詞explanationを修飾する構造は、副詞carefullyで動詞explainedを修飾する構造に言い換えられます。",
+      "focus": "形容詞＋名詞から動詞＋副詞への変換",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0118_Q22",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The machine operates quietly.\"",
+      "choices": {
+        "A": "The machine stops whenever the room is quiet.",
+        "B": "The machine's operation is quiet.",
+        "C": "The machine operator speaks quietly.",
+        "D": "The machine requires a quiet operator."
+      },
+      "correctAnswer": "B",
+      "translationJa": "その機械の運転音は静かです。",
+      "explanationJa": "quietlyが動詞operatesの様態を示す内容を、名詞operationと形容詞quietで表し直しています。",
+      "focus": "様態副詞と対応する形容詞表現",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0118_Q23",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"Fortunately, nobody was injured in the warehouse incident.\"",
+      "choices": {
+        "A": "Nobody considered the warehouse fortunate.",
+        "B": "The injured workers were fortunate to leave the warehouse.",
+        "C": "It was fortunate that the incident caused no injuries.",
+        "D": "The warehouse incident was caused by nobody."
+      },
+      "correctAnswer": "C",
+      "translationJa": "その倉庫事故でけが人が出なかったのは幸いでした。",
+      "explanationJa": "文副詞Fortunatelyによる文全体への評価を、It was fortunate that節で明示しています。",
+      "focus": "文副詞とIt is形容詞that節の対応",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0118_Q24",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The shipment arrived unexpectedly.\"",
+      "choices": {
+        "A": "The shipment's arrival was unexpected.",
+        "B": "The shipment arrived at an unknown address.",
+        "C": "The supplier expected the shipment to be late.",
+        "D": "The shipment contained an unexpected item."
+      },
+      "correctAnswer": "A",
+      "translationJa": "その貨物の到着は予想外でした。",
+      "explanationJa": "unexpectedlyがarrivedを修飾する内容を、名詞arrivalと形容詞unexpectedで表しています。",
+      "focus": "副詞表現から形容詞表現への転換",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0118_Q25",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The proposal is highly practical.\"",
+      "choices": {
+        "A": "The proposal was written by senior managers.",
+        "B": "The proposal is practical only at a high cost.",
+        "C": "The proposal requires more practical details.",
+        "D": "The proposal is very useful and workable."
+      },
+      "correctAnswer": "D",
+      "translationJa": "その提案は非常に実用的で、実行可能です。",
+      "explanationJa": "highlyはpracticalの程度を強めます。Dのveryが同じ強い程度を示し、useful and workableがpracticalを言い換えています。",
+      "focus": "程度副詞highlyの意味",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0118_Q26",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The team worked extremely efficiently.\"",
+      "choices": {
+        "A": "The team worked for an extremely long time.",
+        "B": "The team's efficiency created extra work.",
+        "C": "The team's way of working was exceptionally efficient.",
+        "D": "The team avoided the most efficient process."
+      },
+      "correctAnswer": "C",
+      "translationJa": "そのチームの仕事の進め方は非常に効率的でした。",
+      "explanationJa": "extremelyがefficientlyを強める二層の副詞構造を、exceptionally＋形容詞efficientで言い換えています。",
+      "focus": "程度副詞＋様態副詞の言い換え",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0118_Q27",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The new branch is conveniently located.\"",
+      "choices": {
+        "A": "The branch has convenient office equipment.",
+        "B": "The location of the new branch is convenient.",
+        "C": "The branch relocated its customers conveniently.",
+        "D": "The new branch is located inside a convenience store."
+      },
+      "correctAnswer": "B",
+      "translationJa": "新支店は便利な場所にあります。",
+      "explanationJa": "convenientlyはlocatedという位置状態を説明します。Bはlocationを名詞化し、convenientを形容詞として用いて同じ意味を表します。",
+      "focus": "副詞＋分詞から形容詞＋名詞への変換",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0118_Q28",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The manager answered unusually calmly.\"",
+      "choices": {
+        "A": "The manager gave the usual answer in a calm voice.",
+        "B": "The manager's answer made everyone unusually calm.",
+        "C": "The manager calmly refused to give an answer.",
+        "D": "The manager's calm manner of answering was unusual."
+      },
+      "correctAnswer": "D",
+      "translationJa": "部長の落ち着いた答え方は普段と違っていました。",
+      "explanationJa": "calmlyがansweredを修飾し、unusuallyがcalmlyを強めています。Dはcalm mannerとwas unusualに分けて二層の意味を保持します。",
+      "focus": "二層副詞の意味範囲の展開",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0118_Q29",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"Honestly, I cannot recommend this vendor.\"",
+      "choices": {
+        "A": "This vendor cannot make an honest recommendation.",
+        "B": "I cannot recommend that the vendor be more honest.",
+        "C": "To be honest, I do not think this vendor should be recommended.",
+        "D": "I recommend that the vendor answer honestly."
+      },
+      "correctAnswer": "C",
+      "translationJa": "正直に言うと、この仕入先は勧められないと思います。",
+      "explanationJa": "Honestlyはrecommendのやり方ではなく、発言全体に対する話し手の態度です。To be honestが同じ文修飾を表します。",
+      "focus": "文副詞の修飾範囲",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0118_Q30",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"Ms. Young is a quick learner.\"",
+      "choices": {
+        "A": "Ms. Young learns new procedures quickly.",
+        "B": "Ms. Young learns only short procedures.",
+        "C": "Ms. Young teaches quick learners.",
+        "D": "Ms. Young quickly became a teacher."
+      },
+      "correctAnswer": "A",
+      "translationJa": "ヤングさんは新しい手順を素早く習得します。",
+      "explanationJa": "形容詞quickがlearnerの性質を示す内容を、副詞quicklyで動詞learnsの様態として言い換えています。",
+      "focus": "形容詞quickと副詞quicklyの対応",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0118_Q31",
+      "format": "context-completion",
+      "prompt": "Before submitting the budget, Ms. Chen checked every total twice and compared it with the receipts. She prepared the figures -------.",
+      "choices": {"A": "carefully", "B": "careful", "C": "carefulness", "D": "more careful"},
+      "correctAnswer": "A",
+      "translationJa": "予算を提出する前に、チェンさんは合計を2回確認し、領収書と照合しました。彼女は数値を慎重に作成しました。",
+      "explanationJa": "二重確認という文脈から、preparedの仕方を示す副詞carefullyが適切です。",
+      "focus": "文脈から様態副詞を選ぶ",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0118_Q32",
+      "format": "context-completion",
+      "prompt": "The electronic model uses fewer parts and requires less assembly time. Its production cost is ------- lower than that of the previous model.",
+      "choices": {"A": "significance", "B": "significant", "C": "signify", "D": "significantly"},
+      "correctAnswer": "D",
+      "translationJa": "電子式モデルは部品点数が少なく、組立時間も短くて済みます。その生産費は旧モデルより大幅に低くなっています。",
+      "explanationJa": "lowerは比較級形容詞で、差の程度を副詞significantlyが修飾します。",
+      "focus": "比較級を修飾する程度副詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0118_Q33",
+      "format": "context-completion",
+      "prompt": "The clinic added padded chairs and a water dispenser near reception. Patients now have a ------- place to wait.",
+      "choices": {"A": "comfortably", "B": "comfortable", "C": "comfort", "D": "comforting"},
+      "correctAnswer": "B",
+      "translationJa": "診療所は受付付近にクッション付きの椅子と給水機を設置しました。患者は今では快適な場所で待てます。",
+      "explanationJa": "空所は名詞placeの性質を表すため、形容詞comfortableを用います。",
+      "focus": "名詞の性質を示す形容詞",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0118_Q34",
+      "format": "context-completion",
+      "prompt": "The supplier no longer sends paper bills. All invoices are delivered ------- through the customer portal.",
+      "choices": {"A": "electronic", "B": "electronics", "C": "electronically", "D": "electrify"},
+      "correctAnswer": "C",
+      "translationJa": "仕入先は紙の請求書を送らなくなりました。すべての請求書は顧客ポータルを通じて電子的に配信されます。",
+      "explanationJa": "deliveredという配信方法を説明するので副詞electronicallyが必要です。",
+      "focus": "受動態の動作を修飾する副詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0118_Q35",
+      "format": "context-completion",
+      "prompt": "Management had expected strong opposition to the new shift plan. The employees' response, however, was ------- positive.",
+      "choices": {"A": "unexpectedly", "B": "unexpected", "C": "expectation", "D": "unexpectedness"},
+      "correctAnswer": "A",
+      "translationJa": "経営陣は新しい勤務計画への強い反対を予想していました。しかし、従業員の反応は予想外に好意的でした。",
+      "explanationJa": "positiveはresponseの性質を示す形容詞で、unexpectedlyがその程度・評価を修飾します。",
+      "focus": "叙述形容詞を修飾する副詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0118_Q36",
+      "format": "context-completion",
+      "prompt": "Forecasts show enough demand to cover operating expenses within six months. The expansion plan appears ------- viable.",
+      "choices": {"A": "commerce", "B": "commercial", "C": "commercialize", "D": "commercially"},
+      "correctAnswer": "D",
+      "translationJa": "予測では、6か月以内に営業費用を賄える需要が見込まれています。拡張計画は商業的に実行可能なようです。",
+      "explanationJa": "viableはplanの実行可能性を表す形容詞です。commerciallyが『商業面で』という評価軸を加えます。",
+      "focus": "評価軸を示す副詞＋形容詞",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0118_Q37",
+      "format": "context-completion",
+      "prompt": "Although the audit covered twelve departments, the reviewers finished two days early. They completed the work ------- quickly.",
+      "choices": {"A": "remarkable", "B": "remark", "C": "remarkably", "D": "remarking"},
+      "correctAnswer": "C",
+      "translationJa": "監査は12部門を対象としていましたが、審査員は2日早く終了しました。彼らは驚くほど速く作業を完了しました。",
+      "explanationJa": "quicklyがcompletedの様態を表し、remarkablyがその速さの程度を強めます。",
+      "focus": "副詞を強める程度副詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0118_Q38",
+      "format": "context-completion",
+      "prompt": "A water leak has made the auditorium unsafe, and no comparable room is available. -------, tonight's awards ceremony must be postponed.",
+      "choices": {"A": "Regrettably", "B": "Regrettable", "C": "Regret", "D": "Regretting"},
+      "correctAnswer": "A",
+      "translationJa": "漏水で講堂が危険な状態となり、同等の会場もありません。残念ながら、今夜の表彰式は延期しなければなりません。",
+      "explanationJa": "延期という文全体に対する話し手の残念な評価なので、文副詞Regrettablyが適切です。",
+      "focus": "因果文脈を受ける文副詞",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0118_Q39",
+      "format": "context-completion",
+      "prompt": "Every shelf had a visible label, and the emergency routes were completely clear. The inspector found the warehouse ------- well organized.",
+      "choices": {"A": "unusual", "B": "unusualness", "C": "more unusual", "D": "unusually"},
+      "correctAnswer": "D",
+      "translationJa": "すべての棚に見やすい表示があり、避難経路も完全に確保されていました。検査官は倉庫が並外れてよく整理されていると判断しました。",
+      "explanationJa": "well organizedがwarehouseの状態を表す形容詞句で、unusuallyがその程度を修飾します。find＋目的語＋形容詞句の構造です。",
+      "focus": "目的格補語内の多層修飾",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0118_Q40",
+      "format": "context-completion",
+      "prompt": "Three first-time users followed the setup guide without assistance. The instructions are ------- clear for beginners.",
+      "choices": {"A": "sufficient", "B": "sufficiently", "C": "sufficiency", "D": "suffice"},
+      "correctAnswer": "B",
+      "translationJa": "初めて利用する3人が補助なしで設定ガイドに従えました。その説明は初心者にも十分明確です。",
+      "explanationJa": "clearはinstructionsの性質を表す形容詞で、sufficientlyが必要な程度を満たすことを示します。",
+      "focus": "sufficiently＋形容詞",
+      "difficulty": "intermediate"
+    }
+  ]
+}
