@@ -1,1 +1,673 @@
-{"schemaVersion":1,"page":{"number":35,"id":"grammar-master-0035","title":"動詞には、得意な文型がある","image":"pages/PAGE_0035.webp","sourcePrompt":"source-prompts/PAGE_0035.txt"},"analysis":{"summaryJa":"動詞には自動型S+Vと他動型S+V+Oの相性があり、openのように両方で使える動詞もある。特にrise/raise、lie/layは目的語の有無によって選び分ける。","grammarPoints":["自動型と他動型","同一動詞の自他両用","riseとraise","lieとlay","目的語の有無による動詞選択"],"visualEvidence":["自動型・他動型の2つの扉","主体が動く／対象を動かすの対比","rise/raiseとlie/layのペアカード"],"commonTraps":["riseに目的語を直接置く","raiseを目的語なしで使う","lieとlayを混同する","動詞後の前置詞句を目的語と誤認する"]},"questions":[{"id":"PAGE_0035_Q01","format":"part5-cloze","prompt":"The loading-bay door ------- automatically at 7 A.M.","choices":{"A":"opened","B":"raised the door itself","C":"laid","D":"rose it"},"correctAnswer":"A","translationJa":"荷捌き場のドアは午前7時に自動で開きました。","explanationJa":"door自身が開くのでopenの自動型です。","focus":"openの自動用法","difficulty":"basic"},{"id":"PAGE_0035_Q02","format":"part5-cloze","prompt":"The security guard ------- the side door for the delivery crew.","choices":{"A":"rose","B":"opened","C":"lay","D":"arrived"},"correctAnswer":"B","translationJa":"警備員は配送スタッフのために側面ドアを開けました。","explanationJa":"guardがdoorへ作用するのでopenの他動型です。","focus":"open＋目的語","difficulty":"basic"},{"id":"PAGE_0035_Q03","format":"part5-cloze","prompt":"Fuel prices ------- sharply during the holiday period.","choices":{"A":"raised fuel prices","B":"laid","C":"rose","D":"raised themself"},"correctAnswer":"C","translationJa":"休暇期間中、燃料価格は急激に上昇しました。","explanationJa":"prices自身が上がるので目的語を取らないriseの過去形roseです。","focus":"rise＝上がる","difficulty":"basic"},{"id":"PAGE_0035_Q04","format":"part5-cloze","prompt":"The supplier ------- its delivery fee by five percent.","choices":{"A":"rose","B":"lay","C":"lied","D":"raised"},"correctAnswer":"D","translationJa":"仕入先は配送料を5%引き上げました。","explanationJa":"delivery feeという目的語を上げるためraiseの過去形raisedです。","focus":"raise＋O","difficulty":"basic"},{"id":"PAGE_0035_Q05","format":"part5-cloze","prompt":"Several unopened boxes ------- near the service entrance overnight.","choices":{"A":"lay","B":"laid the floor","C":"raised","D":"rose them"},"correctAnswer":"A","translationJa":"未開封の箱が一晩、サービス入口付近に置かれていました。","explanationJa":"boxes自身が横たわる状態なのでlieの過去形layです。","focus":"lieの過去形lay","difficulty":"intermediate"},{"id":"PAGE_0035_Q06","format":"part5-cloze","prompt":"Please ------- the signed forms on my desk before you leave.","choices":{"A":"lie","B":"lay","C":"rise","D":"sit themself"},"correctAnswer":"B","translationJa":"帰る前に署名済み用紙を私の机に置いてください。","explanationJa":"formsという目的語を置くので他動詞layを使います。","focus":"lay＋O","difficulty":"intermediate"},{"id":"PAGE_0035_Q07","format":"part5-cloze","prompt":"The curtain ------- slowly as the presentation began.","choices":{"A":"raised the curtain","B":"laid","C":"rose","D":"raised it"},"correctAnswer":"C","translationJa":"発表が始まるとカーテンはゆっくり上がりました。","explanationJa":"curtain自身が上がるのでriseの過去形roseです。","focus":"rise自動型","difficulty":"intermediate"},{"id":"PAGE_0035_Q08","format":"part5-cloze","prompt":"The technician ------- the platform to the required height.","choices":{"A":"rose","B":"lay","C":"arose","D":"raised"},"correctAnswer":"D","translationJa":"技術者は台を必要な高さまで上げました。","explanationJa":"platformへ働きかけて上げるのでraisedを使います。","focus":"raise他動型","difficulty":"intermediate"},{"id":"PAGE_0035_Q09","format":"part5-cloze","prompt":"Although the verb is followed by a location phrase, “The package lay on the counter” uses ------- because package is not a direct object.","choices":{"A":"an intransitive pattern","B":"a transitive raise pattern","C":"two direct objects","D":"an object complement"},"correctAnswer":"A","translationJa":"on the counterが続いてもpackage layは自動型です。","explanationJa":"on the counterは場所の前置詞句で、layが作用する目的語ではありません。","focus":"前置詞句と自動型","difficulty":"advanced"},{"id":"PAGE_0035_Q10","format":"part5-cloze","prompt":"To express that management caused salaries to increase, the correct verb is ------- because “salaries” is its object.","choices":{"A":"rise","B":"raise","C":"lie","D":"arise"},"correctAnswer":"B","translationJa":"経営側が給与を上げたと表すならraiseを使います。","explanationJa":"salariesという対象を上げる他動詞が必要です。","focus":"目的語から動詞選択","difficulty":"advanced"},{"id":"PAGE_0035_Q11","format":"correct-sentence","prompt":"Choose the correct intransitive sentence.","choices":{"A":"The temperature rose overnight.","B":"The temperature raised overnight.","C":"The temperature rose the room.","D":"The temperature raised itself the room."},"correctAnswer":"A","translationJa":"気温は一晩で上がりました。","explanationJa":"temperature自身が上昇するのでriseを使います。","focus":"rise自動詞","difficulty":"basic"},{"id":"PAGE_0035_Q12","format":"correct-sentence","prompt":"Choose the correct transitive sentence.","choices":{"A":"The company rose prices in April.","B":"The company raised in April.","C":"The company rise prices in April.","D":"The company raised prices in April."},"correctAnswer":"D","translationJa":"会社は4月に価格を引き上げました。","explanationJa":"pricesを上げるのでraise＋目的語です。","focus":"raise他動詞","difficulty":"basic"},{"id":"PAGE_0035_Q13","format":"correct-sentence","prompt":"Choose the correct sentence meaning that the folder was resting on the table.","choices":{"A":"The folder laid on the table by itself.","B":"The folder lay on the table.","C":"The folder raised on the table.","D":"The folder lay the table."},"correctAnswer":"B","translationJa":"フォルダーはテーブルの上に置かれていました。","explanationJa":"lie（横たわる）の過去形はlayです。","focus":"lie-lay-lain","difficulty":"intermediate"},{"id":"PAGE_0035_Q14","format":"correct-sentence","prompt":"Choose the correct sentence meaning that someone placed the folder on the table.","choices":{"A":"She lay the folder on the table.","B":"She rose the folder on the table.","C":"She laid the folder on the table.","D":"She lain the folder on the table."},"correctAnswer":"C","translationJa":"彼女はフォルダーをテーブルに置きました。","explanationJa":"目的語folderを置くlayの過去形laidを使います。","focus":"lay-laid-laid","difficulty":"intermediate"},{"id":"PAGE_0035_Q15","format":"correct-sentence","prompt":"Choose the sentence where “open” is used intransitively.","choices":{"A":"The store opens at nine.","B":"The manager opens the store at nine.","C":"The clerk opens the package.","D":"The technician opens the panel."},"correctAnswer":"A","translationJa":"店は9時に開店します。","explanationJa":"store自身が開く意味で目的語がありません。","focus":"自他両用open","difficulty":"intermediate"},{"id":"PAGE_0035_Q16","format":"correct-sentence","prompt":"Choose the sentence where “open” is used transitively.","choices":{"A":"The gate opened slowly.","B":"The office opens early.","C":"The box opened during transport.","D":"The employee opened the gate."},"correctAnswer":"D","translationJa":"従業員が門を開けました。","explanationJa":"employeeの動作がgateへ直接届く他動型です。","focus":"他動型open","difficulty":"intermediate"},{"id":"PAGE_0035_Q17","format":"correct-sentence","prompt":"Choose the correct sentence about an object changing position by itself.","choices":{"A":"The balloon raised above the stage.","B":"The balloon rose above the stage.","C":"The balloon raised the stage above.","D":"The balloon laid above the stage."},"correctAnswer":"B","translationJa":"風船はステージの上へ上がりました。","explanationJa":"balloon自身が上がるのでroseです。","focus":"rise vs raise","difficulty":"intermediate"},{"id":"PAGE_0035_Q18","format":"correct-sentence","prompt":"Choose the sentence where the object requirement determines the verb.","choices":{"A":"Please rise the screen slightly.","B":"Please lie the screen flat.","C":"Please raise the screen slightly.","D":"Please rise slightly the screen."},"correctAnswer":"C","translationJa":"スクリーンを少し上げてください。","explanationJa":"screenという目的語を上げるためraiseが必要です。","focus":"目的語による選択","difficulty":"advanced"},{"id":"PAGE_0035_Q19","format":"correct-sentence","prompt":"Choose the correct sentence using the past participle of “lie” meaning rest horizontally.","choices":{"A":"The cables have lain unused for months.","B":"The cables have laid unused for months.","C":"The cables have lied unused for months.","D":"The cables have lay unused for months."},"correctAnswer":"A","translationJa":"そのケーブルは何か月も使われず横たわったままです。","explanationJa":"lie-lay-lainの過去分詞lainを使います。","focus":"lieの活用","difficulty":"advanced"},{"id":"PAGE_0035_Q20","format":"correct-sentence","prompt":"Choose the correct sentence using the past participle of “lay” meaning put something down.","choices":{"A":"The staff have lain the mats on the floor.","B":"The staff have lay the mats on the floor.","C":"The staff have lied the mats on the floor.","D":"The staff have laid the mats on the floor."},"correctAnswer":"D","translationJa":"スタッフは床にマットを敷きました。","explanationJa":"目的語matsを置くlay-laid-laidの過去分詞laidです。","focus":"layの活用","difficulty":"advanced"},{"id":"PAGE_0035_Q21","format":"meaning-equivalent","prompt":"Choose the sentence closest in meaning to: “Sales rose in June.”","choices":{"A":"Sales increased by themselves/in the intransitive pattern.","B":"Someone directly raised an object called June.","C":"Sales placed June down.","D":"June was the direct object of rose."},"correctAnswer":"A","translationJa":"売上は6月に上昇しました。","explanationJa":"sales自身の変化なので自動型です。","focus":"riseの意味","difficulty":"basic"},{"id":"PAGE_0035_Q22","format":"meaning-equivalent","prompt":"Choose the sentence closest in meaning to: “The company raised its prices.”","choices":{"A":"Prices rose with no cause expressed.","B":"The company caused its prices to go up.","C":"Prices placed the company down.","D":"The company lay prices."},"correctAnswer":"B","translationJa":"会社が価格を上昇させました。","explanationJa":"raiseは対象を上げる使役的な他動詞です。","focus":"raiseの意味","difficulty":"basic"},{"id":"PAGE_0035_Q23","format":"meaning-equivalent","prompt":"Choose the sentence closest in meaning to: “The documents lay on the counter.”","choices":{"A":"Someone placed the counter on documents.","B":"Documents raised the counter.","C":"The documents were resting on the counter.","D":"The documents put the counter down."},"correctAnswer":"C","translationJa":"書類はカウンターの上に置かれていました。","explanationJa":"layはlieの過去形で、主語自身が横たわる状態です。","focus":"lieの意味","difficulty":"basic"},{"id":"PAGE_0035_Q24","format":"meaning-equivalent","prompt":"Choose the sentence closest in meaning to: “She laid the documents on the counter.”","choices":{"A":"The documents rested there without an actor.","B":"The documents raised her.","C":"She rose above the documents.","D":"She put the documents on the counter."},"correctAnswer":"D","translationJa":"彼女は書類をカウンターに置きました。","explanationJa":"laidは目的語を置く他動詞layの過去形です。","focus":"layの意味","difficulty":"intermediate"},{"id":"PAGE_0035_Q25","format":"meaning-equivalent","prompt":"Choose the sentence closest in structure to: “The window closed suddenly.”","choices":{"A":"window itself underwent the closing event with no direct object.","B":"window acted on another object.","C":"suddenly is a direct object.","D":"closed requires an object here."},"correctAnswer":"A","translationJa":"window自身が閉じる出来事が起き、直接目的語はありません。","explanationJa":"closeの自動用法です。","focus":"自他両用動詞","difficulty":"intermediate"},{"id":"PAGE_0035_Q26","format":"meaning-equivalent","prompt":"Choose the sentence closest in structure to: “The clerk closed the window.”","choices":{"A":"window closed by itself.","B":"The clerk caused the window to close.","C":"window is a location phrase.","D":"clerk rose the window."},"correctAnswer":"B","translationJa":"店員が窓を閉じるよう作用しました。","explanationJa":"closeの他動用法でwindowが目的語です。","focus":"他動用法","difficulty":"intermediate"},{"id":"PAGE_0035_Q27","format":"meaning-equivalent","prompt":"Choose the sentence closest in meaning to: “The river rose after the storm.”","choices":{"A":"Someone raised the river as an object.","B":"The storm laid the river down.","C":"The river's level went up after the storm.","D":"river raised the storm."},"correctAnswer":"C","translationJa":"嵐の後、川の水位が上がりました。","explanationJa":"river自身の水位上昇なのでriseです。","focus":"riseの自然用法","difficulty":"intermediate"},{"id":"PAGE_0035_Q28","format":"meaning-equivalent","prompt":"Choose the sentence closest in meaning to: “The operator raised the barrier.”","choices":{"A":"The barrier rose with no actor.","B":"The barrier lay down.","C":"The operator rested on the barrier.","D":"The operator caused the barrier to move upward."},"correctAnswer":"D","translationJa":"操作者が遮断機を上方へ動かしました。","explanationJa":"barrierを目的語として上げるraiseです。","focus":"raiseの作用","difficulty":"intermediate"},{"id":"PAGE_0035_Q29","format":"meaning-equivalent","prompt":"Choose the best analysis of “A problem arose during testing.”","choices":{"A":"A problem came into existence/appeared without a direct object.","B":"testing raised a problem as stated object.","C":"problem laid testing
+{
+  "schemaVersion": 1,
+  "page": {
+    "number": 35,
+    "id": "grammar-master-0035",
+    "title": "動詞には、得意な文型がある",
+    "image": "pages/PAGE_0035.webp",
+    "sourcePrompt": "source-prompts/PAGE_0035.txt"
+  },
+  "analysis": {
+    "summaryJa": "動詞には自動型S+Vと他動型S+V+Oの相性があり、openのように両方で使える動詞もある。特にrise/raise、lie/layは目的語の有無によって選び分ける。",
+    "grammarPoints": [
+      "自動型と他動型",
+      "同一動詞の自他両用",
+      "riseとraise",
+      "lieとlay",
+      "目的語の有無による動詞選択"
+    ],
+    "visualEvidence": [
+      "自動型・他動型の2つの扉",
+      "主体が動く／対象を動かすの対比",
+      "rise/raiseとlie/layのペアカード"
+    ],
+    "commonTraps": [
+      "riseに目的語を直接置く",
+      "raiseを目的語なしで使う",
+      "lieとlayを混同する",
+      "動詞後の前置詞句を目的語と誤認する"
+    ]
+  },
+  "questions": [
+    {
+      "id": "PAGE_0035_Q01",
+      "format": "part5-cloze",
+      "prompt": "The loading-bay door ------- automatically at 7 A.M.",
+      "choices": {
+        "A": "opened",
+        "B": "raised the door itself",
+        "C": "laid",
+        "D": "rose it"
+      },
+      "correctAnswer": "A",
+      "translationJa": "荷捌き場のドアは午前7時に自動で開きました。",
+      "explanationJa": "door自身が開くのでopenの自動型です。",
+      "focus": "openの自動用法",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0035_Q02",
+      "format": "part5-cloze",
+      "prompt": "The security guard ------- the side door for the delivery crew.",
+      "choices": {
+        "A": "rose",
+        "B": "opened",
+        "C": "lay",
+        "D": "arrived"
+      },
+      "correctAnswer": "B",
+      "translationJa": "警備員は配送スタッフのために側面ドアを開けました。",
+      "explanationJa": "guardがdoorへ作用するのでopenの他動型です。",
+      "focus": "open＋目的語",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0035_Q03",
+      "format": "part5-cloze",
+      "prompt": "Fuel prices ------- sharply during the holiday period.",
+      "choices": {
+        "A": "raised fuel prices",
+        "B": "laid",
+        "C": "rose",
+        "D": "raised themself"
+      },
+      "correctAnswer": "C",
+      "translationJa": "休暇期間中、燃料価格は急激に上昇しました。",
+      "explanationJa": "prices自身が上がるので目的語を取らないriseの過去形roseです。",
+      "focus": "rise＝上がる",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0035_Q04",
+      "format": "part5-cloze",
+      "prompt": "The supplier ------- its delivery fee by five percent.",
+      "choices": {
+        "A": "rose",
+        "B": "lay",
+        "C": "lied",
+        "D": "raised"
+      },
+      "correctAnswer": "D",
+      "translationJa": "仕入先は配送料を5%引き上げました。",
+      "explanationJa": "delivery feeという目的語を上げるためraiseの過去形raisedです。",
+      "focus": "raise＋O",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0035_Q05",
+      "format": "part5-cloze",
+      "prompt": "Several unopened boxes ------- near the service entrance overnight.",
+      "choices": {
+        "A": "lay",
+        "B": "laid the floor",
+        "C": "raised",
+        "D": "rose them"
+      },
+      "correctAnswer": "A",
+      "translationJa": "未開封の箱が一晩、サービス入口付近に置かれていました。",
+      "explanationJa": "boxes自身が横たわる状態なのでlieの過去形layです。",
+      "focus": "lieの過去形lay",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0035_Q06",
+      "format": "part5-cloze",
+      "prompt": "Please ------- the signed forms on my desk before you leave.",
+      "choices": {
+        "A": "lie",
+        "B": "lay",
+        "C": "rise",
+        "D": "sit themself"
+      },
+      "correctAnswer": "B",
+      "translationJa": "帰る前に署名済み用紙を私の机に置いてください。",
+      "explanationJa": "formsという目的語を置くので他動詞layを使います。",
+      "focus": "lay＋O",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0035_Q07",
+      "format": "part5-cloze",
+      "prompt": "The curtain ------- slowly as the presentation began.",
+      "choices": {
+        "A": "raised the curtain",
+        "B": "laid",
+        "C": "rose",
+        "D": "raised it"
+      },
+      "correctAnswer": "C",
+      "translationJa": "発表が始まるとカーテンはゆっくり上がりました。",
+      "explanationJa": "curtain自身が上がるのでriseの過去形roseです。",
+      "focus": "rise自動型",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0035_Q08",
+      "format": "part5-cloze",
+      "prompt": "The technician ------- the platform to the required height.",
+      "choices": {
+        "A": "rose",
+        "B": "lay",
+        "C": "arose",
+        "D": "raised"
+      },
+      "correctAnswer": "D",
+      "translationJa": "技術者は台を必要な高さまで上げました。",
+      "explanationJa": "platformへ働きかけて上げるのでraisedを使います。",
+      "focus": "raise他動型",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0035_Q09",
+      "format": "part5-cloze",
+      "prompt": "Although the verb is followed by a location phrase, “The package lay on the counter” uses ------- because package is not a direct object.",
+      "choices": {
+        "A": "an intransitive pattern",
+        "B": "a transitive raise pattern",
+        "C": "two direct objects",
+        "D": "an object complement"
+      },
+      "correctAnswer": "A",
+      "translationJa": "on the counterが続いてもpackage layは自動型です。",
+      "explanationJa": "on the counterは場所の前置詞句で、layが作用する目的語ではありません。",
+      "focus": "前置詞句と自動型",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0035_Q10",
+      "format": "part5-cloze",
+      "prompt": "To express that management caused salaries to increase, the correct verb is ------- because “salaries” is its object.",
+      "choices": {
+        "A": "rise",
+        "B": "raise",
+        "C": "lie",
+        "D": "arise"
+      },
+      "correctAnswer": "B",
+      "translationJa": "経営側が給与を上げたと表すならraiseを使います。",
+      "explanationJa": "salariesという対象を上げる他動詞が必要です。",
+      "focus": "目的語から動詞選択",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0035_Q11",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct intransitive sentence.",
+      "choices": {
+        "A": "The temperature rose the room.",
+        "B": "The temperature raised overnight.",
+        "C": "The temperature rose overnight.",
+        "D": "The temperature raised itself the room."
+      },
+      "correctAnswer": "C",
+      "translationJa": "気温は一晩で上がりました。",
+      "explanationJa": "temperature自身が上昇するのでriseを使います。",
+      "focus": "rise自動詞",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0035_Q12",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct transitive sentence.",
+      "choices": {
+        "A": "The company rose prices in April.",
+        "B": "The company raised in April.",
+        "C": "The company rise prices in April.",
+        "D": "The company raised prices in April."
+      },
+      "correctAnswer": "D",
+      "translationJa": "会社は4月に価格を引き上げました。",
+      "explanationJa": "pricesを上げるのでraise＋目的語です。",
+      "focus": "raise他動詞",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0035_Q13",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence meaning that the folder was resting on the table.",
+      "choices": {
+        "A": "The folder lay on the table.",
+        "B": "The folder laid on the table by itself.",
+        "C": "The folder raised on the table.",
+        "D": "The folder lay the table."
+      },
+      "correctAnswer": "A",
+      "translationJa": "フォルダーはテーブルの上に置かれていました。",
+      "explanationJa": "lie（横たわる）の過去形はlayです。",
+      "focus": "lie-lay-lain",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0035_Q14",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence meaning that someone placed the folder on the table.",
+      "choices": {
+        "A": "She lay the folder on the table.",
+        "B": "She laid the folder on the table.",
+        "C": "She rose the folder on the table.",
+        "D": "She lain the folder on the table."
+      },
+      "correctAnswer": "B",
+      "translationJa": "彼女はフォルダーをテーブルに置きました。",
+      "explanationJa": "目的語folderを置くlayの過去形laidを使います。",
+      "focus": "lay-laid-laid",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0035_Q15",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence where “open” is used intransitively.",
+      "choices": {
+        "A": "The clerk opens the package.",
+        "B": "The manager opens the store at nine.",
+        "C": "The store opens at nine.",
+        "D": "The technician opens the panel."
+      },
+      "correctAnswer": "C",
+      "translationJa": "店は9時に開店します。",
+      "explanationJa": "store自身が開く意味で目的語がありません。",
+      "focus": "自他両用open",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0035_Q16",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence where “open” is used transitively.",
+      "choices": {
+        "A": "The gate opened slowly.",
+        "B": "The office opens early.",
+        "C": "The box opened during transport.",
+        "D": "The employee opened the gate."
+      },
+      "correctAnswer": "D",
+      "translationJa": "従業員が門を開けました。",
+      "explanationJa": "employeeの動作がgateへ直接届く他動型です。",
+      "focus": "他動型open",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0035_Q17",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about an object changing position by itself.",
+      "choices": {
+        "A": "The balloon rose above the stage.",
+        "B": "The balloon raised above the stage.",
+        "C": "The balloon raised the stage above.",
+        "D": "The balloon laid above the stage."
+      },
+      "correctAnswer": "A",
+      "translationJa": "風船はステージの上へ上がりました。",
+      "explanationJa": "balloon自身が上がるのでroseです。",
+      "focus": "rise vs raise",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0035_Q18",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence where the object requirement determines the verb.",
+      "choices": {
+        "A": "Please rise the screen slightly.",
+        "B": "Please raise the screen slightly.",
+        "C": "Please lie the screen flat.",
+        "D": "Please rise slightly the screen."
+      },
+      "correctAnswer": "B",
+      "translationJa": "スクリーンを少し上げてください。",
+      "explanationJa": "screenという目的語を上げるためraiseが必要です。",
+      "focus": "目的語による選択",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0035_Q19",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence using the past participle of “lie” meaning rest horizontally.",
+      "choices": {
+        "A": "The cables have lied unused for months.",
+        "B": "The cables have laid unused for months.",
+        "C": "The cables have lain unused for months.",
+        "D": "The cables have lay unused for months."
+      },
+      "correctAnswer": "C",
+      "translationJa": "そのケーブルは何か月も使われず横たわったままです。",
+      "explanationJa": "lie-lay-lainの過去分詞lainを使います。",
+      "focus": "lieの活用",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0035_Q20",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence using the past participle of “lay” meaning put something down.",
+      "choices": {
+        "A": "The staff have lain the mats on the floor.",
+        "B": "The staff have lay the mats on the floor.",
+        "C": "The staff have lied the mats on the floor.",
+        "D": "The staff have laid the mats on the floor."
+      },
+      "correctAnswer": "D",
+      "translationJa": "スタッフは床にマットを敷きました。",
+      "explanationJa": "目的語matsを置くlay-laid-laidの過去分詞laidです。",
+      "focus": "layの活用",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0035_Q21",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “Sales rose in June.”",
+      "choices": {
+        "A": "Sales increased by themselves/in the intransitive pattern.",
+        "B": "Someone directly raised an object called June.",
+        "C": "Sales placed June down.",
+        "D": "June was the direct object of rose."
+      },
+      "correctAnswer": "A",
+      "translationJa": "売上は6月に上昇しました。",
+      "explanationJa": "sales自身の変化なので自動型です。",
+      "focus": "riseの意味",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0035_Q22",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “The company raised its prices.”",
+      "choices": {
+        "A": "Prices rose with no cause expressed.",
+        "B": "The company caused its prices to go up.",
+        "C": "Prices placed the company down.",
+        "D": "The company lay prices."
+      },
+      "correctAnswer": "B",
+      "translationJa": "会社が価格を上昇させました。",
+      "explanationJa": "raiseは対象を上げる使役的な他動詞です。",
+      "focus": "raiseの意味",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0035_Q23",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “The documents lay on the counter.”",
+      "choices": {
+        "A": "Someone placed the counter on documents.",
+        "B": "Documents raised the counter.",
+        "C": "The documents were resting on the counter.",
+        "D": "The documents put the counter down."
+      },
+      "correctAnswer": "C",
+      "translationJa": "書類はカウンターの上に置かれていました。",
+      "explanationJa": "layはlieの過去形で、主語自身が横たわる状態です。",
+      "focus": "lieの意味",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0035_Q24",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “She laid the documents on the counter.”",
+      "choices": {
+        "A": "The documents rested there without an actor.",
+        "B": "The documents raised her.",
+        "C": "She rose above the documents.",
+        "D": "She put the documents on the counter."
+      },
+      "correctAnswer": "D",
+      "translationJa": "彼女は書類をカウンターに置きました。",
+      "explanationJa": "laidは目的語を置く他動詞layの過去形です。",
+      "focus": "layの意味",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0035_Q25",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in structure to: “The window closed suddenly.”",
+      "choices": {
+        "A": "window itself underwent the closing event with no direct object.",
+        "B": "window acted on another object.",
+        "C": "suddenly is a direct object.",
+        "D": "closed requires an object here."
+      },
+      "correctAnswer": "A",
+      "translationJa": "window自身が閉じる出来事が起き、直接目的語はありません。",
+      "explanationJa": "closeの自動用法です。",
+      "focus": "自他両用動詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0035_Q26",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in structure to: “The clerk closed the window.”",
+      "choices": {
+        "A": "window closed by itself.",
+        "B": "The clerk caused the window to close.",
+        "C": "window is a location phrase.",
+        "D": "clerk rose the window."
+      },
+      "correctAnswer": "B",
+      "translationJa": "店員が窓を閉じるよう作用しました。",
+      "explanationJa": "closeの他動用法でwindowが目的語です。",
+      "focus": "他動用法",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0035_Q27",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “The river rose after the storm.”",
+      "choices": {
+        "A": "Someone raised the river as an object.",
+        "B": "The storm laid the river down.",
+        "C": "The river's level went up after the storm.",
+        "D": "river raised the storm."
+      },
+      "correctAnswer": "C",
+      "translationJa": "嵐の後、川の水位が上がりました。",
+      "explanationJa": "river自身の水位上昇なのでriseです。",
+      "focus": "riseの自然用法",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0035_Q28",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “The operator raised the barrier.”",
+      "choices": {
+        "A": "The barrier rose with no actor.",
+        "B": "The barrier lay down.",
+        "C": "The operator rested on the barrier.",
+        "D": "The operator caused the barrier to move upward."
+      },
+      "correctAnswer": "D",
+      "translationJa": "操作者が遮断機を上方へ動かしました。",
+      "explanationJa": "barrierを目的語として上げるraiseです。",
+      "focus": "raiseの作用",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0035_Q29",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the best analysis of: “A problem arose during testing.”",
+      "choices": {
+        "A": "A problem appeared without a direct object.",
+        "B": "testing raised the problem in this sentence.",
+        "C": "problem laid testing down.",
+        "D": "arose requires an object."
+      },
+      "correctAnswer": "A",
+      "translationJa": "問題が試験中に発生しました。",
+      "explanationJa": "ariseは自動詞で、問題自身が現れる意味です。",
+      "focus": "arise自動詞",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0035_Q30",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “Please lay the cable here.”",
+      "choices": {
+        "A": "Please lie here yourself.",
+        "B": "Please let the cable rise.",
+        "C": "Please put the cable here.",
+        "D": "Please raise the cable's price."
+      },
+      "correctAnswer": "C",
+      "translationJa": "ケーブルをここに置いてください。",
+      "explanationJa": "layは目的語を置く他動詞です。",
+      "focus": "lay＋目的語",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0035_Q31",
+      "format": "context-completion",
+      "prompt": "The screen ------- slowly as the presentation began.",
+      "choices": {
+        "A": "opened it",
+        "B": "raised",
+        "C": "laid",
+        "D": "rose"
+      },
+      "correctAnswer": "D",
+      "translationJa": "発表が始まるとスクリーンはゆっくり上がりました。",
+      "explanationJa": "screen自身が上がるのでroseです。",
+      "focus": "rise自動詞",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0035_Q32",
+      "format": "context-completion",
+      "prompt": "The technician ------- the screen to the required height.",
+      "choices": {
+        "A": "lain",
+        "B": "rose",
+        "C": "raised",
+        "D": "lay"
+      },
+      "correctAnswer": "C",
+      "translationJa": "技術者はスクリーンを必要な高さまで上げました。",
+      "explanationJa": "screenという目的語を上げるのでraisedです。",
+      "focus": "raise他動詞",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0035_Q33",
+      "format": "context-completion",
+      "prompt": "The folder ------- on the reception counter for several hours.",
+      "choices": {
+        "A": "laid",
+        "B": "lay",
+        "C": "raised",
+        "D": "rose"
+      },
+      "correctAnswer": "B",
+      "translationJa": "フォルダーは数時間受付カウンターに置かれていました。",
+      "explanationJa": "folder自身が横たわるlieの過去形layです。",
+      "focus": "lie過去形",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0035_Q34",
+      "format": "context-completion",
+      "prompt": "Please ------- the signed contract on my desk.",
+      "choices": {
+        "A": "lay",
+        "B": "lie",
+        "C": "rise",
+        "D": "arise"
+      },
+      "correctAnswer": "A",
+      "translationJa": "署名済み契約書を私の机に置いてください。",
+      "explanationJa": "contractという目的語を置くのでlayです。",
+      "focus": "lay＋O",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0035_Q35",
+      "format": "context-completion",
+      "prompt": "The automatic gate ------- at 8 A.M. every weekday.",
+      "choices": {
+        "A": "lays",
+        "B": "opens the guard",
+        "C": "raises the gate itself",
+        "D": "opens"
+      },
+      "correctAnswer": "D",
+      "translationJa": "自動ゲートは平日の午前8時に開きます。",
+      "explanationJa": "gate自身が開くopenの自動用法です。",
+      "focus": "open自動用法",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0035_Q36",
+      "format": "context-completion",
+      "prompt": "The security guard ------- the gate for the delivery truck.",
+      "choices": {
+        "A": "lay",
+        "B": "rose",
+        "C": "opened",
+        "D": "arrived"
+      },
+      "correctAnswer": "C",
+      "translationJa": "警備員は配送トラックのためにゲートを開けました。",
+      "explanationJa": "guardがgateへ作用するopenの他動用法です。",
+      "focus": "open他動用法",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0035_Q37",
+      "format": "context-completion",
+      "prompt": "Operating costs ------- after the company switched suppliers.",
+      "choices": {
+        "A": "raised",
+        "B": "fell",
+        "C": "laid",
+        "D": "opened them"
+      },
+      "correctAnswer": "B",
+      "translationJa": "仕入先変更後、運用費は下がりました。",
+      "explanationJa": "costs自身が変化する自動詞型です。",
+      "focus": "主体自身の変化",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0035_Q38",
+      "format": "context-completion",
+      "prompt": "Management ------- the travel allowance last April.",
+      "choices": {
+        "A": "raised",
+        "B": "rose",
+        "C": "lain",
+        "D": "arose"
+      },
+      "correctAnswer": "A",
+      "translationJa": "経営側は昨年4月に出張手当を引き上げました。",
+      "explanationJa": "allowanceという目的語を上げるためraisedです。",
+      "focus": "raise＋目的語",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0035_Q39",
+      "format": "context-completion",
+      "prompt": "The unused equipment has ------- in storage since January.",
+      "choices": {
+        "A": "lied",
+        "B": "laid",
+        "C": "lay",
+        "D": "lain"
+      },
+      "correctAnswer": "D",
+      "translationJa": "未使用設備は1月から保管場所に置かれたままです。",
+      "explanationJa": "lie-lay-lainの過去分詞lainを使います。",
+      "focus": "lie活用",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0035_Q40",
+      "format": "context-completion",
+      "prompt": "The staff have ------- protective mats across the floor.",
+      "choices": {
+        "A": "lain",
+        "B": "laid",
+        "C": "lay",
+        "D": "lied"
+      },
+      "correctAnswer": "B",
+      "translationJa": "スタッフは床一面に保護マットを敷きました。",
+      "explanationJa": "目的語matsを置くlay-laid-laidの過去分詞laidです。",
+      "focus": "lay活用",
+      "difficulty": "advanced"
+    }
+  ]
+}

@@ -1,1 +1,673 @@
-{"schemaVersion":1,"page":{"number":33,"id":"grammar-master-0033","title":"文型が、意味のルートを作る","image":"pages/PAGE_0033.webp","sourcePrompt":"source-prompts/PAGE_0033.txt"},"analysis":{"summaryJa":"文型そのものが意味を案内することを、A＝Bを作るseem/prove/turn out等の連結動詞と、SVOOの『人→もの』授与型を対比して学ぶ。","grammarPoints":["seem＋補語","prove＋補語","turn out＋補語","SVOOの人→もの語順","send/show/teach等の授与動詞"],"visualEvidence":["上段A=Bレールと下段人→ものコンベア","型が意味を案内する矢印","人→ものの順序強調"],"commonTraps":["連結動詞後を目的語と考える","SVOOで物→人の順にする","目的格代名詞を誤る","授与型とtoを使う書換えを混同する"]},"questions":[{"id":"PAGE_0033_Q01","format":"part5-cloze","prompt":"The revised route seems ------- for first-time visitors.","choices":{"A":"safe","B":"safely","C":"the visitors","D":"safety object"},"correctAnswer":"A","translationJa":"改訂された経路は初めての来訪者にも安全そうです。","explanationJa":"seemsは主語routeと形容詞safeを結び、見え方を表します。","focus":"seem＋補語","difficulty":"basic"},{"id":"PAGE_0033_Q02","format":"part5-cloze","prompt":"The temporary solution proved ------- during the system outage.","choices":{"A":"usefully","B":"effective","C":"the engineers","D":"effect"},"correctAnswer":"B","translationJa":"その暫定策はシステム停止中に有効だと判明しました。","explanationJa":"provedは判明の連結動詞でeffectiveがsolutionを説明します。","focus":"prove＋補語","difficulty":"basic"},{"id":"PAGE_0033_Q03","format":"part5-cloze","prompt":"The coordinator sent ------- the updated venue map.","choices":{"A":"we","B":"our","C":"us","D":"ours"},"correctAnswer":"C","translationJa":"調整担当者は私たちに更新された会場地図を送りました。","explanationJa":"SVOOの人の位置には目的格usを置きます。","focus":"SVOOの人","difficulty":"basic"},{"id":"PAGE_0033_Q04","format":"part5-cloze","prompt":"The trainer taught the new employees ------- during orientation.","choices":{"A":"to them first as object","B":"carefully only","C":"were procedures","D":"a simple safety routine"},"correctAnswer":"D","translationJa":"講師はオリエンテーションで新入社員に簡単な安全手順を教えました。","explanationJa":"the new employeesが人、a simple safety routineが物・内容の位置です。","focus":"teach＋人＋内容","difficulty":"basic"},{"id":"PAGE_0033_Q05","format":"part5-cloze","prompt":"The initial estimate turned out ------- after the supplier revised its prices.","choices":{"A":"inaccurate","B":"inaccurately","C":"the price","D":"an error directly"},"correctAnswer":"A","translationJa":"仕入先が価格を改定した後、当初の見積もりは不正確だったと判明しました。","explanationJa":"turned outが判明を表し、inaccurateがestimateを説明します。","focus":"turn out＋形容詞","difficulty":"intermediate"},{"id":"PAGE_0033_Q06","format":"part5-cloze","prompt":"Please show ------- the revised seating chart before the doors open.","choices":{"A":"she","B":"her","C":"hers","D":"herself is"},"correctAnswer":"B","translationJa":"開場前に彼女へ改訂座席表を見せてください。","explanationJa":"show＋人＋ものの人の位置なので目的格herです。","focus":"show＋人＋もの","difficulty":"intermediate"},{"id":"PAGE_0033_Q07","format":"part5-cloze","prompt":"The company offered each participant ------- after the workshop.","choices":{"A":"to a certificate","B":"certified","C":"a certificate","D":"was a certificate"},"correctAnswer":"C","translationJa":"会社は研修後、各参加者に修了証を提供しました。","explanationJa":"each participantが受け手で、その後ろに渡す物a certificateを置きます。","focus":"offer＋人＋もの","difficulty":"intermediate"},{"id":"PAGE_0033_Q08","format":"part5-cloze","prompt":"The new check-in process appears ------- than the previous one.","choices":{"A":"efficiency","B":"efficiently","C":"the guests","D":"simpler"},"correctAnswer":"D","translationJa":"新しいチェックイン手順は以前より簡単に見えます。","explanationJa":"appearsは連結動詞で比較級simplerがprocessを説明します。","focus":"appear＋補語","difficulty":"intermediate"},{"id":"PAGE_0033_Q09","format":"part5-cloze","prompt":"The data initially seemed inconsistent but later proved ------- after the duplicate records were removed.","choices":{"A":"reliable","B":"reliably","C":"the analyst","D":"reliability as object"},"correctAnswer":"A","translationJa":"データは当初不整合に見えましたが、重複記録を除くと信頼できると判明しました。","explanationJa":"provedがdata＝reliableという判明結果を示します。","focus":"連結動詞の連鎖","difficulty":"advanced"},{"id":"PAGE_0033_Q10","format":"part5-cloze","prompt":"In “The guide taught us a shortcut,” the order after taught is -------.","choices":{"A":"thing then person","B":"person then thing","C":"complement then subject","D":"preposition then adjective"},"correctAnswer":"B","translationJa":"taughtの後ろは『人→もの・内容』の順です。","explanationJa":"usが受け手、a shortcutが教える内容でSVOOを作ります。","focus":"授与型の構造分析","difficulty":"advanced"},{"id":"PAGE_0033_Q11","format":"correct-sentence","prompt":"Choose the correct linking-verb sentence.","choices":{"A":"The plan seems practical.","B":"The plan seems practically.","C":"The plan seems the team.","D":"The plan seems a direct object practical."},"correctAnswer":"A","translationJa":"その計画は実用的に思えます。","explanationJa":"practicalがplanを説明しseemsが印象を加えます。","focus":"seemのA=B","difficulty":"basic"},{"id":"PAGE_0033_Q12","format":"correct-sentence","prompt":"Choose the correct double-object sentence.","choices":{"A":"The clerk gave a receipt the customer.","B":"The clerk gave the customer to a receipt.","C":"The clerk gave was the customer a receipt.","D":"The clerk gave the customer a receipt."},"correctAnswer":"D","translationJa":"店員は顧客に領収書を渡しました。","explanationJa":"授与型は動詞の後ろに人the customer、ものa receiptの順です。","focus":"give＋人＋もの","difficulty":"basic"},{"id":"PAGE_0033_Q13","format":"correct-sentence","prompt":"Choose the correct sentence with “prove” as a linking verb.","choices":{"A":"The method proved successfully.","B":"The method proved successful.","C":"The method proved the staff as object.","D":"The method proved to successful."},"correctAnswer":"B","translationJa":"その方法は成功だと判明しました。","explanationJa":"successfulがmethodの結果・性質を説明します。","focus":"prove＋形容詞","difficulty":"intermediate"},{"id":"PAGE_0033_Q14","format":"correct-sentence","prompt":"Choose the correct sentence with an object pronoun as recipient.","choices":{"A":"The supervisor showed we the schedule.","B":"The supervisor showed our the schedule.","C":"The supervisor showed us the schedule.","D":"The supervisor showed ours the schedule."},"correctAnswer":"C","translationJa":"上司は私たちに日程表を見せました。","explanationJa":"受け手の位置には目的格usを使います。","focus":"目的格受け手","difficulty":"intermediate"},{"id":"PAGE_0033_Q15","format":"correct-sentence","prompt":"Choose the sentence where the final adjective describes the subject.","choices":{"A":"The result turned out favorable.","B":"The result turned out favorably as complement.","C":"The result turned out the manager.","D":"The result turned out a direct object."},"correctAnswer":"A","translationJa":"結果は好ましいと判明しました。","explanationJa":"favorableはresultを説明する補語です。","focus":"turn outの補語","difficulty":"intermediate"},{"id":"PAGE_0033_Q16","format":"correct-sentence","prompt":"Choose the natural SVOO sentence.","choices":{"A":"The hotel offered a discount us.","B":"The hotel offered to us a discount in SVOO order.","C":"The hotel offered we a discount.","D":"The hotel offered us a discount."},"correctAnswer":"D","translationJa":"ホテルは私たちに割引を提供しました。","explanationJa":"人us→ものa discountの順で並べます。","focus":"offer SVOO","difficulty":"intermediate"},{"id":"PAGE_0033_Q17","format":"correct-sentence","prompt":"Choose the sentence where the pattern itself clearly conveys transfer of information.","choices":{"A":"The trainer explained the rule to us.","B":"The trainer taught us the rule.","C":"The trainer spoke about the rule.","D":"The trainer remained patient."},"correctAnswer":"B","translationJa":"講師は私たちにその規則を教えました。","explanationJa":"taught＋人＋内容の並び自体が受け手への情報移動を示します。","focus":"文型が示す意味","difficulty":"intermediate"},{"id":"PAGE_0033_Q18","format":"correct-sentence","prompt":"Choose the correct analysis of “The assumption proved wrong.”","choices":{"A":"wrong is a direct object.","B":"proved transfers wrong to assumption.","C":"wrong describes assumption; proved adds the meaning 'was found to be'.","D":"wrong is an adverb."},"correctAnswer":"C","translationJa":"wrongがassumptionを説明し、provedが『そうだと判明した』を加えます。","explanationJa":"A=Bに判明のニュアンスを重ねたSVCです。","focus":"連結動詞分析","difficulty":"advanced"},{"id":"PAGE_0033_Q19","format":"correct-sentence","prompt":"Choose the correct sentence when the recipient is a pronoun.","choices":{"A":"The office sent them a confirmation email.","B":"The office sent they a confirmation email.","C":"The office sent their a confirmation email.","D":"The office sent a confirmation email them without to."},"correctAnswer":"A","translationJa":"事務局は彼らに確認メールを送りました。","explanationJa":"recipient位置には目的格themを置きます。","focus":"代名詞＋SVOO","difficulty":"advanced"},{"id":"PAGE_0033_Q20","format":"correct-sentence","prompt":"Choose the sentence where changing the word order would require a preposition.","choices":{"A":"The room seemed quiet.","B":"The guide gave us directions.","C":"The data proved accurate.","D":"The weather turned cold."},"correctAnswer":"B","translationJa":"guide gave us directionsは、物を先にするならgave directions to usのようにtoが必要です。","explanationJa":"SVOOの人→ものをSVO＋to人へ書き換える関係を問います。","focus":"授与型とto書換え","difficulty":"advanced"},{"id":"PAGE_0033_Q21","format":"meaning-equivalent","prompt":"Choose the sentence closest in structure to: “The route seems safe.”","choices":{"A":"safe describes the route, while seems adds an impression.","B":"route sends an action to safe.","C":"safe is an object.","D":"seems means transfer."},"correctAnswer":"A","translationJa":"safeがrouteを説明し、seemsが『そう見える』という印象を加えます。","explanationJa":"A=B型に見え方のニュアンスを重ねています。","focus":"seemの意味","difficulty":"basic"},{"id":"PAGE_0033_Q22","format":"meaning-equivalent","prompt":"Choose the sentence closest in meaning to: “The clerk gave me a key.”","choices":{"A":"A key described me.","B":"I received a key from the clerk.","C":"The clerk became a key.","D":"I gave the clerk a key."},"correctAnswer":"B","translationJa":"私は店員から鍵を受け取りました。","explanationJa":"meが受け手、a keyが移動する物です。","focus":"授与関係","difficulty":"basic"},{"id":"PAGE_0033_Q23","format":"meaning-equivalent","prompt":"Choose the sentence closest in structure to: “The idea proved useful.”","choices":{"A":"idea used useful as an object.","B":"useful is an adverb.","C":"The idea was found to be useful.","D":"idea gave useful to someone."},"correctAnswer":"C","translationJa":"その案は役立つことが判明しました。","explanationJa":"proveが『～だと判明する』を表す連結動詞です。","focus":"proveの意味","difficulty":"basic"},{"id":"PAGE_0033_Q24","format":"meaning-equivalent","prompt":"Choose the sentence closest in meaning to: “The trainer taught us a new procedure.”","choices":{"A":"The procedure described us.","B":"We taught the trainer.","C":"The trainer only talked near us.","D":"We received instruction in a new procedure from the trainer."},"correctAnswer":"D","translationJa":"私たちは講師から新しい手順を教わりました。","explanationJa":"usへの情報移動をSVOOが表しています。","focus":"teachの授与意味","difficulty":"intermediate"},{"id":"PAGE_0033_Q25","format":"meaning-equivalent","prompt":"Choose the sentence closest in structure to: “The estimate turned out accurate.”","choices":{"A":"accurate describes the estimate as the eventual finding.","B":"estimate transferred accurate.","C":"accurate is an object.","D":"turn out means give."},"correctAnswer":"A","translationJa":"accurateが最終的に判明したestimateの状態を説明します。","explanationJa":"turn outは判明結果のA=Bを作ります。","focus":"turn out","difficulty":"intermediate"},{"id":"PAGE_0033_Q26","format":"meaning-equivalent","prompt":"Choose the sentence closest in meaning to: “The company sent her a replacement card.”","choices":{"A":"She sent the company a card.","B":"She received a replacement card from the company.","C":"The card described her.","D":"The company became a card."},"correctAnswer":"B","translationJa":"彼女は会社から交換カードを受け取りました。","explanationJa":"herが受け手、replacement cardが移動する物です。","focus":"sendの授与関係","difficulty":"intermediate"},{"id":"PAGE_0033_Q27","format":"meaning-equivalent","prompt":"Choose the sentence closest in structure to: “The design appears modern.”","choices":{"A":"modern receives an action.","B":"design sends modern to someone.","C":"modern describes the design's appearance.","D":"appears is a giving verb."},"correctAnswer":"C","translationJa":"modernがdesignの見え方を説明します。","explanationJa":"appearは印象のA=B関係を作ります。","focus":"appear＋補語","difficulty":"intermediate"},{"id":"PAGE_0033_Q28","format":"meaning-equivalent","prompt":"Choose the sentence closest in meaning to: “The receptionist showed me the form.”","choices":{"A":"I became the form.","B":"The form described me.","C":"I showed the receptionist the form.","D":"The receptionist caused me to see the form."},"correctAnswer":"D","translationJa":"受付担当者は私にその用紙を見せました。","explanationJa":"show＋人＋ものは受け手へ
+{
+  "schemaVersion": 1,
+  "page": {
+    "number": 33,
+    "id": "grammar-master-0033",
+    "title": "文型が、意味のルートを作る",
+    "image": "pages/PAGE_0033.webp",
+    "sourcePrompt": "source-prompts/PAGE_0033.txt"
+  },
+  "analysis": {
+    "summaryJa": "文型そのものが意味を案内することを、A＝Bを作るseem/prove/turn out等の連結動詞と、SVOOの『人→もの』授与型を対比して学ぶ。",
+    "grammarPoints": [
+      "seem＋補語",
+      "prove＋補語",
+      "turn out＋補語",
+      "SVOOの人→もの語順",
+      "send/show/teach等の授与動詞"
+    ],
+    "visualEvidence": [
+      "上段A=Bレールと下段人→ものコンベア",
+      "型が意味を案内する矢印",
+      "人→ものの順序強調"
+    ],
+    "commonTraps": [
+      "連結動詞後を目的語と考える",
+      "SVOOで物→人の順にする",
+      "目的格代名詞を誤る",
+      "授与型とtoを使う書換えを混同する"
+    ]
+  },
+  "questions": [
+    {
+      "id": "PAGE_0033_Q01",
+      "format": "part5-cloze",
+      "prompt": "The revised route seems ------- for first-time visitors.",
+      "choices": {
+        "A": "safe",
+        "B": "safely",
+        "C": "the visitors",
+        "D": "safety object"
+      },
+      "correctAnswer": "A",
+      "translationJa": "改訂された経路は初めての来訪者にも安全そうです。",
+      "explanationJa": "seemsは主語routeと形容詞safeを結び、見え方を表します。",
+      "focus": "seem＋補語",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0033_Q02",
+      "format": "part5-cloze",
+      "prompt": "The temporary solution proved ------- during the system outage.",
+      "choices": {
+        "A": "usefully",
+        "B": "effective",
+        "C": "the engineers",
+        "D": "effect"
+      },
+      "correctAnswer": "B",
+      "translationJa": "その暫定策はシステム停止中に有効だと判明しました。",
+      "explanationJa": "provedは判明の連結動詞でeffectiveがsolutionを説明します。",
+      "focus": "prove＋補語",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0033_Q03",
+      "format": "part5-cloze",
+      "prompt": "The coordinator sent ------- the updated venue map.",
+      "choices": {
+        "A": "we",
+        "B": "our",
+        "C": "us",
+        "D": "ours"
+      },
+      "correctAnswer": "C",
+      "translationJa": "調整担当者は私たちに更新された会場地図を送りました。",
+      "explanationJa": "SVOOの人の位置には目的格usを置きます。",
+      "focus": "SVOOの人",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0033_Q04",
+      "format": "part5-cloze",
+      "prompt": "The trainer taught the new employees ------- during orientation.",
+      "choices": {
+        "A": "to them first as object",
+        "B": "carefully only",
+        "C": "were procedures",
+        "D": "a simple safety routine"
+      },
+      "correctAnswer": "D",
+      "translationJa": "講師はオリエンテーションで新入社員に簡単な安全手順を教えました。",
+      "explanationJa": "the new employeesが人、a simple safety routineが物・内容の位置です。",
+      "focus": "teach＋人＋内容",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0033_Q05",
+      "format": "part5-cloze",
+      "prompt": "The initial estimate turned out ------- after the supplier revised its prices.",
+      "choices": {
+        "A": "inaccurate",
+        "B": "inaccurately",
+        "C": "the price",
+        "D": "an error directly"
+      },
+      "correctAnswer": "A",
+      "translationJa": "仕入先が価格を改定した後、当初の見積もりは不正確だったと判明しました。",
+      "explanationJa": "turned outが判明を表し、inaccurateがestimateを説明します。",
+      "focus": "turn out＋形容詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0033_Q06",
+      "format": "part5-cloze",
+      "prompt": "Please show ------- the revised seating chart before the doors open.",
+      "choices": {
+        "A": "she",
+        "B": "her",
+        "C": "hers",
+        "D": "herself is"
+      },
+      "correctAnswer": "B",
+      "translationJa": "開場前に彼女へ改訂座席表を見せてください。",
+      "explanationJa": "show＋人＋ものの人の位置なので目的格herです。",
+      "focus": "show＋人＋もの",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0033_Q07",
+      "format": "part5-cloze",
+      "prompt": "The company offered each participant ------- after the workshop.",
+      "choices": {
+        "A": "to a certificate",
+        "B": "certified",
+        "C": "a certificate",
+        "D": "was a certificate"
+      },
+      "correctAnswer": "C",
+      "translationJa": "会社は研修後、各参加者に修了証を提供しました。",
+      "explanationJa": "each participantが受け手で、その後ろに渡す物a certificateを置きます。",
+      "focus": "offer＋人＋もの",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0033_Q08",
+      "format": "part5-cloze",
+      "prompt": "The new check-in process appears ------- than the previous one.",
+      "choices": {
+        "A": "efficiency",
+        "B": "efficiently",
+        "C": "the guests",
+        "D": "simpler"
+      },
+      "correctAnswer": "D",
+      "translationJa": "新しいチェックイン手順は以前より簡単に見えます。",
+      "explanationJa": "appearsは連結動詞で比較級simplerがprocessを説明します。",
+      "focus": "appear＋補語",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0033_Q09",
+      "format": "part5-cloze",
+      "prompt": "The data initially seemed inconsistent but later proved ------- after the duplicate records were removed.",
+      "choices": {
+        "A": "reliable",
+        "B": "reliably",
+        "C": "the analyst",
+        "D": "reliability as object"
+      },
+      "correctAnswer": "A",
+      "translationJa": "データは当初不整合に見えましたが、重複記録を除くと信頼できると判明しました。",
+      "explanationJa": "provedがdata＝reliableという判明結果を示します。",
+      "focus": "連結動詞の連鎖",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0033_Q10",
+      "format": "part5-cloze",
+      "prompt": "In “The guide taught us a shortcut,” the order after taught is -------.",
+      "choices": {
+        "A": "thing then person",
+        "B": "person then thing",
+        "C": "complement then subject",
+        "D": "preposition then adjective"
+      },
+      "correctAnswer": "B",
+      "translationJa": "taughtの後ろは『人→もの・内容』の順です。",
+      "explanationJa": "usが受け手、a shortcutが教える内容でSVOOを作ります。",
+      "focus": "授与型の構造分析",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0033_Q11",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct linking-verb sentence.",
+      "choices": {
+        "A": "The plan seems the team.",
+        "B": "The plan seems practically.",
+        "C": "The plan seems practical.",
+        "D": "The plan seems a direct object practical."
+      },
+      "correctAnswer": "C",
+      "translationJa": "その計画は実用的に思えます。",
+      "explanationJa": "practicalがplanを説明しseemsが印象を加えます。",
+      "focus": "seemのA=B",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0033_Q12",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct double-object sentence.",
+      "choices": {
+        "A": "The clerk gave a receipt the customer.",
+        "B": "The clerk gave the customer to a receipt.",
+        "C": "The clerk gave was the customer a receipt.",
+        "D": "The clerk gave the customer a receipt."
+      },
+      "correctAnswer": "D",
+      "translationJa": "店員は顧客に領収書を渡しました。",
+      "explanationJa": "授与型は動詞の後ろに人the customer、ものa receiptの順です。",
+      "focus": "give＋人＋もの",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0033_Q13",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence with “prove” as a linking verb.",
+      "choices": {
+        "A": "The method proved successful.",
+        "B": "The method proved successfully.",
+        "C": "The method proved the staff as object.",
+        "D": "The method proved to successful."
+      },
+      "correctAnswer": "A",
+      "translationJa": "その方法は成功だと判明しました。",
+      "explanationJa": "successfulがmethodの結果・性質を説明します。",
+      "focus": "prove＋形容詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0033_Q14",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence with an object pronoun as recipient.",
+      "choices": {
+        "A": "The supervisor showed we the schedule.",
+        "B": "The supervisor showed us the schedule.",
+        "C": "The supervisor showed our the schedule.",
+        "D": "The supervisor showed ours the schedule."
+      },
+      "correctAnswer": "B",
+      "translationJa": "上司は私たちに日程表を見せました。",
+      "explanationJa": "受け手の位置には目的格usを使います。",
+      "focus": "目的格受け手",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0033_Q15",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence where the final adjective describes the subject.",
+      "choices": {
+        "A": "The result turned out the manager.",
+        "B": "The result turned out favorably as complement.",
+        "C": "The result turned out favorable.",
+        "D": "The result turned out a direct object."
+      },
+      "correctAnswer": "C",
+      "translationJa": "結果は好ましいと判明しました。",
+      "explanationJa": "favorableはresultを説明する補語です。",
+      "focus": "turn outの補語",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0033_Q16",
+      "format": "correct-sentence",
+      "prompt": "Choose the natural SVOO sentence.",
+      "choices": {
+        "A": "The hotel offered a discount us.",
+        "B": "The hotel offered to us a discount in SVOO order.",
+        "C": "The hotel offered we a discount.",
+        "D": "The hotel offered us a discount."
+      },
+      "correctAnswer": "D",
+      "translationJa": "ホテルは私たちに割引を提供しました。",
+      "explanationJa": "人us→ものa discountの順で並べます。",
+      "focus": "offer SVOO",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0033_Q17",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence where the pattern itself clearly conveys transfer of information.",
+      "choices": {
+        "A": "The trainer taught us the rule.",
+        "B": "The trainer explained the rule to us.",
+        "C": "The trainer spoke about the rule.",
+        "D": "The trainer remained patient."
+      },
+      "correctAnswer": "A",
+      "translationJa": "講師は私たちにその規則を教えました。",
+      "explanationJa": "taught＋人＋内容の並び自体が受け手への情報移動を示します。",
+      "focus": "文型が示す意味",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0033_Q18",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct analysis of “The assumption proved wrong.”",
+      "choices": {
+        "A": "wrong is a direct object.",
+        "B": "wrong describes assumption; proved adds the meaning 'was found to be'.",
+        "C": "proved transfers wrong to assumption.",
+        "D": "wrong is an adverb."
+      },
+      "correctAnswer": "B",
+      "translationJa": "wrongがassumptionを説明し、provedが『そうだと判明した』を加えます。",
+      "explanationJa": "A=Bに判明のニュアンスを重ねたSVCです。",
+      "focus": "連結動詞分析",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0033_Q19",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence when the recipient is a pronoun.",
+      "choices": {
+        "A": "The office sent their a confirmation email.",
+        "B": "The office sent they a confirmation email.",
+        "C": "The office sent them a confirmation email.",
+        "D": "The office sent a confirmation email them without to."
+      },
+      "correctAnswer": "C",
+      "translationJa": "事務局は彼らに確認メールを送りました。",
+      "explanationJa": "recipient位置には目的格themを置きます。",
+      "focus": "代名詞＋SVOO",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0033_Q20",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence where changing the word order would require a preposition.",
+      "choices": {
+        "A": "The room seemed quiet.",
+        "B": "The weather turned cold.",
+        "C": "The data proved accurate.",
+        "D": "The guide gave us directions."
+      },
+      "correctAnswer": "D",
+      "translationJa": "guide gave us directionsは、物を先にするならgave directions to usのようにtoが必要です。",
+      "explanationJa": "SVOOの人→ものをSVO＋to人へ書き換える関係を問います。",
+      "focus": "授与型とto書換え",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0033_Q21",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in structure to: “The route seems safe.”",
+      "choices": {
+        "A": "safe describes the route, while seems adds an impression.",
+        "B": "route sends an action to safe.",
+        "C": "safe is an object.",
+        "D": "seems means transfer."
+      },
+      "correctAnswer": "A",
+      "translationJa": "safeがrouteを説明し、seemsが『そう見える』という印象を加えます。",
+      "explanationJa": "A=B型に見え方のニュアンスを重ねています。",
+      "focus": "seemの意味",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0033_Q22",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “The clerk gave me a key.”",
+      "choices": {
+        "A": "A key described me.",
+        "B": "I received a key from the clerk.",
+        "C": "The clerk became a key.",
+        "D": "I gave the clerk a key."
+      },
+      "correctAnswer": "B",
+      "translationJa": "私は店員から鍵を受け取りました。",
+      "explanationJa": "meが受け手、a keyが移動する物です。",
+      "focus": "授与関係",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0033_Q23",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in structure to: “The idea proved useful.”",
+      "choices": {
+        "A": "idea used useful as an object.",
+        "B": "useful is an adverb.",
+        "C": "The idea was found to be useful.",
+        "D": "idea gave useful to someone."
+      },
+      "correctAnswer": "C",
+      "translationJa": "その案は役立つことが判明しました。",
+      "explanationJa": "proveが『～だと判明する』を表す連結動詞です。",
+      "focus": "proveの意味",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0033_Q24",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “The trainer taught us a new procedure.”",
+      "choices": {
+        "A": "The procedure described us.",
+        "B": "We taught the trainer.",
+        "C": "The trainer only talked near us.",
+        "D": "We received instruction in a new procedure from the trainer."
+      },
+      "correctAnswer": "D",
+      "translationJa": "私たちは講師から新しい手順を教わりました。",
+      "explanationJa": "usへの情報移動をSVOOが表しています。",
+      "focus": "teachの授与意味",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0033_Q25",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in structure to: “The estimate turned out accurate.”",
+      "choices": {
+        "A": "accurate describes the estimate as the eventual finding.",
+        "B": "estimate transferred accurate.",
+        "C": "accurate is an object.",
+        "D": "turn out means give."
+      },
+      "correctAnswer": "A",
+      "translationJa": "accurateが最終的に判明したestimateの状態を説明します。",
+      "explanationJa": "turn outは判明結果のA=Bを作ります。",
+      "focus": "turn out",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0033_Q26",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “The company sent her a replacement card.”",
+      "choices": {
+        "A": "She sent the company a card.",
+        "B": "She received a replacement card from the company.",
+        "C": "The card described her.",
+        "D": "The company became a card."
+      },
+      "correctAnswer": "B",
+      "translationJa": "彼女は会社から交換カードを受け取りました。",
+      "explanationJa": "herが受け手、replacement cardが移動する物です。",
+      "focus": "sendの授与関係",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0033_Q27",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in structure to: “The design appears modern.”",
+      "choices": {
+        "A": "modern receives an action.",
+        "B": "design sends modern to someone.",
+        "C": "modern describes the design's appearance.",
+        "D": "appears is a giving verb."
+      },
+      "correctAnswer": "C",
+      "translationJa": "modernがdesignの見え方を説明します。",
+      "explanationJa": "appearは印象のA=B関係を作ります。",
+      "focus": "appear＋補語",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0033_Q28",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “The receptionist showed me the form.”",
+      "choices": {
+        "A": "I became the form.",
+        "B": "The form described me.",
+        "C": "I showed the receptionist the form.",
+        "D": "The receptionist caused me to see the form."
+      },
+      "correctAnswer": "D",
+      "translationJa": "受付担当者は私にその用紙を見せました。",
+      "explanationJa": "show＋人＋ものは受け手へ情報・物を渡す授与型です。",
+      "focus": "showの授与意味",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0033_Q29",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the best analysis of: “The result proved accurate.”",
+      "choices": {
+        "A": "accurate describes result, and proved adds the idea that this became known.",
+        "B": "result gave accurate to someone.",
+        "C": "accurate is a direct object.",
+        "D": "proved means permission."
+      },
+      "correctAnswer": "A",
+      "translationJa": "accurateがresultを説明し、provedが『そうだと判明した』を加えます。",
+      "explanationJa": "A＝Bの関係に判明のニュアンスを重ねています。",
+      "focus": "prove＋補語",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0033_Q30",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “The company sent us samples.”",
+      "choices": {
+        "A": "samples described us.",
+        "B": "We sent the company samples.",
+        "C": "We received samples from the company.",
+        "D": "company became samples."
+      },
+      "correctAnswer": "C",
+      "translationJa": "私たちは会社からサンプルを受け取りました。",
+      "explanationJa": "usが受け手、samplesが移動するものです。",
+      "focus": "SVOO授与関係",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0033_Q31",
+      "format": "context-completion",
+      "prompt": "The consultant's advice proved ------- during the negotiation.",
+      "choices": {
+        "A": "usefulness",
+        "B": "usefully",
+        "C": "the client",
+        "D": "useful"
+      },
+      "correctAnswer": "D",
+      "translationJa": "コンサルタントの助言は交渉中に役立つと判明しました。",
+      "explanationJa": "provedの後ろでusefulがadviceを説明します。",
+      "focus": "prove＋補語",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0033_Q32",
+      "format": "context-completion",
+      "prompt": "The clerk gave ------- a printed receipt after payment.",
+      "choices": {
+        "A": "my",
+        "B": "I",
+        "C": "me",
+        "D": "mine"
+      },
+      "correctAnswer": "C",
+      "translationJa": "店員は支払い後、私に印刷した領収書を渡しました。",
+      "explanationJa": "受け手位置には目的格meを使います。",
+      "focus": "give＋人＋もの",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0033_Q33",
+      "format": "context-completion",
+      "prompt": "The revised schedule seems ------- for both departments.",
+      "choices": {
+        "A": "practically",
+        "B": "practical",
+        "C": "the teams",
+        "D": "practice"
+      },
+      "correctAnswer": "B",
+      "translationJa": "改訂日程は両部署にとって実用的に思えます。",
+      "explanationJa": "seemsがscheduleとpracticalを結びます。",
+      "focus": "seem＋補語",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0033_Q34",
+      "format": "context-completion",
+      "prompt": "The trainer taught ------- a simpler way to record expenses.",
+      "choices": {
+        "A": "us",
+        "B": "we",
+        "C": "our",
+        "D": "ours"
+      },
+      "correctAnswer": "A",
+      "translationJa": "講師は私たちに経費記録のより簡単な方法を教えました。",
+      "explanationJa": "teach＋人＋内容の人の位置にはusです。",
+      "focus": "teach＋人＋もの",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0033_Q35",
+      "format": "context-completion",
+      "prompt": "The initial estimate turned out ------- after the supplier changed its rates.",
+      "choices": {
+        "A": "error object",
+        "B": "wrongly as complement",
+        "C": "the supplier",
+        "D": "wrong"
+      },
+      "correctAnswer": "D",
+      "translationJa": "仕入先の料金変更後、当初見積もりは誤りだったと判明しました。",
+      "explanationJa": "turned outがestimate＝wrongという判明結果を示します。",
+      "focus": "turn out＋補語",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0033_Q36",
+      "format": "context-completion",
+      "prompt": "Please show ------- the updated seating chart before guests arrive.",
+      "choices": {
+        "A": "hers",
+        "B": "she",
+        "C": "her",
+        "D": "herself is"
+      },
+      "correctAnswer": "C",
+      "translationJa": "来客到着前に彼女へ更新座席表を見せてください。",
+      "explanationJa": "showの受け手には目的格herを使います。",
+      "focus": "show＋人＋もの",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0033_Q37",
+      "format": "context-completion",
+      "prompt": "The hotel offered ------- a late checkout at no extra charge.",
+      "choices": {
+        "A": "they",
+        "B": "them",
+        "C": "their",
+        "D": "theirs"
+      },
+      "correctAnswer": "B",
+      "translationJa": "ホテルは彼らに追加料金なしのレイトチェックアウトを提供しました。",
+      "explanationJa": "offerの受け手には目的格themを使います。",
+      "focus": "offer＋人＋もの",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0033_Q38",
+      "format": "context-completion",
+      "prompt": "The final design appears ------- than the first draft.",
+      "choices": {
+        "A": "cleaner",
+        "B": "cleanly as complement",
+        "C": "the designer",
+        "D": "cleanliness"
+      },
+      "correctAnswer": "A",
+      "translationJa": "最終デザインは初稿よりすっきり見えます。",
+      "explanationJa": "appearsの後ろでcleanerがdesignを説明します。",
+      "focus": "appear＋比較級",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0033_Q39",
+      "format": "context-completion",
+      "prompt": "The office sent ------- a confirmation email with the new access code.",
+      "choices": {
+        "A": "theirs",
+        "B": "they",
+        "C": "their",
+        "D": "them"
+      },
+      "correctAnswer": "D",
+      "translationJa": "事務局は彼らに新しいアクセスコード付き確認メールを送りました。",
+      "explanationJa": "SVOOの受け手位置には目的格themです。",
+      "focus": "send＋人＋もの",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0033_Q40",
+      "format": "context-completion",
+      "prompt": "The assumption proved ------- once the test data were reviewed.",
+      "choices": {
+        "A": "incorrectly",
+        "B": "incorrect",
+        "C": "the analyst",
+        "D": "error"
+      },
+      "correctAnswer": "B",
+      "translationJa": "試験データを確認すると、その仮定は誤りだと判明しました。",
+      "explanationJa": "provedがassumptionとincorrectを結びます。",
+      "focus": "proveの判明意味",
+      "difficulty": "advanced"
+    }
+  ]
+}
