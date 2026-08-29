@@ -26,6 +26,7 @@ jobs:
             const id=String(n).padStart(4,'0'),p=`question-sets/PAGE_${id}.json`,s=fs.readFileSync(p,'utf8'),qpos=s.indexOf('"questions":[');
             const base=JSON.parse(s.slice(0,qpos)+'"questions":[]}');
             base.questions=extractObjects(s).concat(JSON.parse(fs.readFileSync(`.repair/PAGE_${id}-tail.json`,'utf8')));
+            if(n===41){const q=base.questions.find(x=>x.id==='PAGE_0041_Q28');q.prompt='Choose the sentence closest in meaning to: “After several discussions, we got the landlord to lower the fee.”';q.translationJa='何度か話し合った末、私たちは家主に働きかけて料金を下げてもらいました。';}
             for(const f of Object.keys(answerTargets)){const qs=base.questions.filter(q=>q.format===f);if(qs.length!==10)throw new Error(`${id} ${f} count ${qs.length}`);qs.forEach((q,i)=>{const want=answerTargets[f][i],old=q.correctAnswer;if(old!==want){const t=q.choices[want];q.choices[want]=q.choices[old];q.choices[old]=t;q.correctAnswer=want;}q.difficulty=diffTargets[f][i];});}
             fs.writeFileSync(p,JSON.stringify(base,null,2)+'\n');
           }
