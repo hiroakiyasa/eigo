@@ -1,40 +1,58 @@
-name: Inspect malformed question sets
+name: Rebuild malformed question sets 0028-0031
 on:
   push:
     paths:
       - '.github/workflows/repair-question-sets.yml'
+permissions:
+  contents: write
 jobs:
-  inspect:
+  repair:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       - uses: actions/setup-node@v4
         with:
           node-version: 22
-      - name: Count complete question objects
+      - name: Rebuild from salvage plus recovery tails
         run: |
           node <<'NODE'
           const fs=require('fs');
           function extractObjects(s){
-            const qpos=s.indexOf('"questions":['); if(qpos<0)return [];
-            let i=s.indexOf('[',qpos)+1,out=[];
-            while(i<s.length){
-              while(i<s.length && /[\s,]/.test(s[i])) i++;
-              if(s[i]!== '{') break;
-              const start=i; let depth=0,str=false,esc=false,done=false;
-              for(;i<s.length;i++){
-                const c=s[i];
-                if(str){ if(esc)esc=false; else if(c==='\\')esc=true; else if(c==='"')str=false; continue; }
-                if(c==='"'){str=true;continue;}
-                if(c==='{')depth++; else if(c==='}'){depth--; if(depth===0){out.push(s.slice(start,i+1)); i++; done=true; break;}}
-              }
-              if(!done) break;
-            }
-            return out;
+            const qpos=s.indexOf('"questions":['); let i=s.indexOf('[',qpos)+1,out=[];
+            while(i<s.length){while(i<s.length&&/[\s,]/.test(s[i]))i++;if(s[i]!=='{')break;const st=i;let d=0,str=false,esc=false,done=false;for(;i<s.length;i++){const c=s[i];if(str){if(esc)esc=false;else if(c==='\\')esc=true;else if(c==='"')str=false;continue;}if(c==='"'){str=true;continue;}if(c==='{')d++;else if(c==='}'){d--;if(d===0){out.push(JSON.parse(s.slice(st,i+1)));i++;done=true;break;}}}if(!done)break;}return out;
           }
-          for(let n=28;n<=43;n++){
-            const p=`question-sets/PAGE_${String(n).padStart(4,'0')}.json`,s=fs.readFileSync(p,'utf8'),objs=extractObjects(s);
-            let ids=[]; for(const o of objs){try{ids.push(JSON.parse(o).id)}catch{}}
-            console.log(`${p} complete=${ids.length} last=${ids.at(-1)||'none'}`);
+          const answerTargets={
+            'part5-cloze':['A','B','C','D','A','B','C','D','A','B'],
+            'correct-sentence':['C','D','A','B','C','D','A','B','C','D'],
+            'meaning-equivalent':['A','B','C','D','A','B','C','D','A','C'],
+            'context-completion':['D','C','B','A','D','C','B','A','D','B']};
+          const diffTargets={
+            'part5-cloze':['basic','basic','basic','intermediate','intermediate','intermediate','intermediate','intermediate','advanced','advanced'],
+            'correct-sentence':['basic','basic','intermediate','intermediate','intermediate','intermediate','intermediate','advanced','advanced','advanced'],
+            'meaning-equivalent':['basic','basic','basic','intermediate','intermediate','intermediate','intermediate','intermediate','advanced','advanced'],
+            'context-completion':['basic','basic','intermediate','intermediate','intermediate','intermediate','intermediate','advanced','advanced','advanced']};
+          for(let n=28;n<=31;n++){
+            const id=String(n).padStart(4,'0'),p=`question-sets/PAGE_${id}.json`,s=fs.readFileSync(p,'utf8'),qpos=s.indexOf('"questions":[');
+            const base=JSON.parse(s.slice(0,qpos)+'"questions":[]}');
+            base.questions=extractObjects(s).concat(JSON.parse(fs.readFileSync(`.repair/PAGE_${id}-tail.json`,'utf8')));
+            for(const f of Object.keys(answerTargets)){
+              const qs=base.questions.filter(q=>q.format===f); if(qs.length!==10) throw new Error(`${id} ${f} count ${qs.length}`);
+              qs.forEach((q,i)=>{const want=answerTargets[f][i],old=q.correctAnswer;if(old!==want){const t=q.choices[want];q.choices[want]=q.choices[old];q.choices[old]=t;q.correctAnswer=want;}q.difficulty=diffTargets[f][i];});
+            }
+            fs.writeFileSync(p,JSON.stringify(base,null,2)+'\n');
           }
           NODE
+      - name: Validate rebuilt sets
+        run: |
+          set -euo pipefail
+          for n in $(seq 28 31); do node scripts/validate-question-set.mjs "question-sets/PAGE_$(printf '%04d' "$n").json"; done
+      - name: Commit repaired pages
+        run: |
+          git config user.name 'TRAIL FUSION AI'
+          git config user.email 'hiroakiyasa@yahoo.co.jp'
+          git add question-sets/PAGE_{0028..0031}.json
+          git commit -m 'fix(questions): rebuild pages 0028 through 0031'
+          git pull --rebase origin main
+          git push
