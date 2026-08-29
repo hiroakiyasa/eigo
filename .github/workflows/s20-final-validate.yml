@@ -1,0 +1,25 @@
+name: S20 final validation
+
+on:
+  push:
+    branches: [s20-page-0321-check]
+    paths:
+      - '.github/workflows/s20-final-validate.yml'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Validate all S20 question sets
+        run: |
+          set -euo pipefail
+          for number in $(seq 318 330); do
+            page=$(printf '%04d' "$number")
+            node scripts/validate-question-set.mjs "question-sets/PAGE_${page}.json"
+          done
