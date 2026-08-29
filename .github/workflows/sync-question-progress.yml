@@ -8,6 +8,10 @@ on:
       - '.github/workflows/sync-question-progress.yml'
   workflow_dispatch:
 
+concurrency:
+  group: sync-question-progress-main
+  cancel-in-progress: false
+
 permissions:
   contents: write
 
@@ -17,35 +21,60 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
+          ref: main
           fetch-depth: 0
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
-      - name: Validate and mark completed question sets
+      - name: Validate, mark completed, and publish progress
         shell: bash
         run: |
           set -euo pipefail
-          for file in question-sets/PAGE_*.json; do
-            [ -e "$file" ] || continue
-            page="$(basename "$file" .json)"
-            number=$((10#${page#PAGE_}))
-            status="$(node -e 'const fs=require("fs"); const p=JSON.parse(fs.readFileSync("data/progress.json","utf8")); const n=Number(process.argv[1]); console.log(p.pages.find(x=>x.number===n)?.status ?? "missing")' "$number")"
-            if [ "$status" = "pending" ]; then
-              node scripts/validate-question-set.mjs "$file"
-              node scripts/mark-complete.mjs "$page"
-            fi
-          done
-          node scripts/validate-repository.mjs
-      - name: Commit progress files
-        shell: bash
-        run: |
-          set -euo pipefail
-          if git diff --quiet -- data/progress.json CATALOG.md; then
-            echo 'No progress changes.'
-            exit 0
-          fi
+
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add data/progress.json CATALOG.md
-          git commit -m 'chore(progress): sync completed question sets'
-          git push
+
+          max_attempts=30
+          for attempt in $(seq 1 "$max_attempts"); do
+            echo "Sync attempt ${attempt}/${max_attempts}"
+
+            # Parallel question-set commits may advance main while this job is queued
+            # or running. Always recompute progress from the latest remote main.
+            git fetch origin main
+            git reset --hard origin/main
+
+            for file in question-sets/PAGE_*.json; do
+              [ -e "$file" ] || continue
+              page="$(basename "$file" .json)"
+              number=$((10#${page#PAGE_}))
+              status="$(node -e 'const fs=require("fs"); const p=JSON.parse(fs.readFileSync("data/progress.json","utf8")); const n=Number(process.argv[1]); console.log(p.pages.find(x=>x.number===n)?.status ?? "missing")' "$number")"
+              if [ "$status" = "pending" ]; then
+                node scripts/validate-question-set.mjs "$file"
+                node scripts/mark-complete.mjs "$page"
+              fi
+            done
+
+            node scripts/validate-repository.mjs
+
+            if git diff --quiet -- data/progress.json CATALOG.md; then
+              echo 'No progress changes.'
+              exit 0
+            fi
+
+            git add data/progress.json CATALOG.md
+            git commit -m 'chore(progress): sync completed question sets'
+
+            if git push origin HEAD:main; then
+              echo 'Progress sync pushed successfully.'
+              exit 0
+            fi
+
+            # A parallel page commit advanced main after validation. Discard this
+            # local sync commit, fetch the new head, and rebuild both files.
+            sleep_seconds=$(( attempt < 5 ? attempt : 5 ))
+            echo "main advanced during sync; retrying after ${sleep_seconds}s"
+            sleep "$sleep_seconds"
+          done
+
+          echo "Failed to publish progress after ${max_attempts} attempts."
+          exit 1

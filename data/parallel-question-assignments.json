@@ -1,0 +1,164 @@
+{
+  "version": 1,
+  "repository": "hiroakiyasa/eigo",
+  "generatedAt": "2026-08-29",
+  "basis": {
+    "completedThrough": 53,
+    "firstAssignedPage": 54,
+    "lastAssignedPage": 330,
+    "excludedPages": [
+      2
+    ],
+    "assignedPageCount": 277,
+    "sessionCount": 20,
+    "maxNewPagesPerExecution": 5
+  },
+  "sourceOfTruth": {
+    "progress": "data/progress.json",
+    "outputs": "question-sets/PAGE_NNNN.json",
+    "masterPrompt": "docs/PARALLEL_SESSION_SYSTEM_PROMPT.md",
+    "workflow": ".github/workflows/sync-question-progress.yml"
+  },
+  "sessions": [
+    {
+      "sessionId": "S01",
+      "startPage": 54,
+      "endPage": 67,
+      "pageCount": 14,
+      "batches": [[54, 58], [59, 63], [64, 67]]
+    },
+    {
+      "sessionId": "S02",
+      "startPage": 68,
+      "endPage": 81,
+      "pageCount": 14,
+      "batches": [[68, 72], [73, 77], [78, 81]]
+    },
+    {
+      "sessionId": "S03",
+      "startPage": 82,
+      "endPage": 95,
+      "pageCount": 14,
+      "batches": [[82, 86], [87, 91], [92, 95]]
+    },
+    {
+      "sessionId": "S04",
+      "startPage": 96,
+      "endPage": 109,
+      "pageCount": 14,
+      "batches": [[96, 100], [101, 105], [106, 109]]
+    },
+    {
+      "sessionId": "S05",
+      "startPage": 110,
+      "endPage": 123,
+      "pageCount": 14,
+      "batches": [[110, 114], [115, 119], [120, 123]]
+    },
+    {
+      "sessionId": "S06",
+      "startPage": 124,
+      "endPage": 137,
+      "pageCount": 14,
+      "batches": [[124, 128], [129, 133], [134, 137]]
+    },
+    {
+      "sessionId": "S07",
+      "startPage": 138,
+      "endPage": 151,
+      "pageCount": 14,
+      "batches": [[138, 142], [143, 147], [148, 151]]
+    },
+    {
+      "sessionId": "S08",
+      "startPage": 152,
+      "endPage": 165,
+      "pageCount": 14,
+      "batches": [[152, 156], [157, 161], [162, 165]]
+    },
+    {
+      "sessionId": "S09",
+      "startPage": 166,
+      "endPage": 179,
+      "pageCount": 14,
+      "batches": [[166, 170], [171, 175], [176, 179]]
+    },
+    {
+      "sessionId": "S10",
+      "startPage": 180,
+      "endPage": 193,
+      "pageCount": 14,
+      "batches": [[180, 184], [185, 189], [190, 193]]
+    },
+    {
+      "sessionId": "S11",
+      "startPage": 194,
+      "endPage": 207,
+      "pageCount": 14,
+      "batches": [[194, 198], [199, 203], [204, 207]]
+    },
+    {
+      "sessionId": "S12",
+      "startPage": 208,
+      "endPage": 221,
+      "pageCount": 14,
+      "batches": [[208, 212], [213, 217], [218, 221]]
+    },
+    {
+      "sessionId": "S13",
+      "startPage": 222,
+      "endPage": 235,
+      "pageCount": 14,
+      "batches": [[222, 226], [227, 231], [232, 235]]
+    },
+    {
+      "sessionId": "S14",
+      "startPage": 236,
+      "endPage": 249,
+      "pageCount": 14,
+      "batches": [[236, 240], [241, 245], [246, 249]]
+    },
+    {
+      "sessionId": "S15",
+      "startPage": 250,
+      "endPage": 263,
+      "pageCount": 14,
+      "batches": [[250, 254], [255, 259], [260, 263]]
+    },
+    {
+      "sessionId": "S16",
+      "startPage": 264,
+      "endPage": 277,
+      "pageCount": 14,
+      "batches": [[264, 268], [269, 273], [274, 277]]
+    },
+    {
+      "sessionId": "S17",
+      "startPage": 278,
+      "endPage": 291,
+      "pageCount": 14,
+      "batches": [[278, 282], [283, 287], [288, 291]]
+    },
+    {
+      "sessionId": "S18",
+      "startPage": 292,
+      "endPage": 304,
+      "pageCount": 13,
+      "batches": [[292, 296], [297, 301], [302, 304]]
+    },
+    {
+      "sessionId": "S19",
+      "startPage": 305,
+      "endPage": 317,
+      "pageCount": 13,
+      "batches": [[305, 309], [310, 314], [315, 317]]
+    },
+    {
+      "sessionId": "S20",
+      "startPage": 318,
+      "endPage": 330,
+      "pageCount": 13,
+      "batches": [[318, 322], [323, 327], [328, 330]]
+    }
+  ]
+}
