@@ -1,1 +1,677 @@
-/tmp/s19_generated/PAGE_0315.json
+{
+  "schemaVersion": 1,
+  "page": {
+    "number": 315,
+    "id": "grammar-master-0315",
+    "title": "asの核は“＝・ぴったり同時”",
+    "image": "pages/PAGE_0315.webp",
+    "sourcePrompt": "source-prompts/PAGE_0315.txt"
+  },
+  "analysis": {
+    "summaryJa": "asは二つの出来事を同じ流れに重ねる感覚を核とし、瞬間が密着する同時性や、同じ場面から自然に生じる弱い背景理由を表す。whenは出来事を時間上に位置づけ、becauseは原因を強く焦点化する。asには同時と理由の両方が自然な文脈もある。now thatは現在成立した状況を理由として次の判断へつなぐ。",
+    "grammarPoints": [
+      "asによる二つの瞬間の密着",
+      "whenによる単なる時間位置との違い",
+      "asによる弱い背景理由",
+      "becauseによる明示的な原因焦点",
+      "asの時間・理由の自然な曖昧さ",
+      "now thatによる現在状況＋理由"
+    ],
+    "visualEvidence": [
+      "噛み合う歯車がasの密着した同時性を表している",
+      "離れた歯車と時間ピンがwhenの位置づけを示す",
+      "橋の閉鎖からトンネルへ向かう図がasの背景理由を示す",
+      "嵐の場面が同時と理由の自然な重なりを示す",
+      "NOWとTHATの足し算が現在状況を理由化している"
+    ],
+    "commonTraps": [
+      "asを常にbecauseとだけ訳す",
+      "whenとasの時間的な密着度を区別しない",
+      "理由を強く答えるWhy応答に弱いasを使う",
+      "now thatを単なる時間のnowと解釈する",
+      "asの曖昧さを文脈なしに一義へ固定する"
+    ]
+  },
+  "questions": [
+    {
+      "id": "PAGE_0315_Q01",
+      "format": "part5-cloze",
+      "prompt": "The lobby lights came on ------- the evening reception began.",
+      "choices": {
+        "A": "because of",
+        "B": "unless",
+        "C": "as",
+        "D": "despite"
+      },
+      "correctAnswer": "C",
+      "translationJa": "夕方のレセプションが始まるのと同時に、ロビーの照明が点きました。",
+      "explanationJa": "二つの瞬間を密着して描くasが適切です。",
+      "focus": "asと密着同時",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0315_Q02",
+      "format": "part5-cloze",
+      "prompt": "------- the access road is closed, delivery trucks must use the south gate.",
+      "choices": {
+        "A": "As",
+        "B": "Even though",
+        "C": "Until",
+        "D": "So that"
+      },
+      "correctAnswer": "A",
+      "translationJa": "進入路が閉鎖されているので、配送トラックは南門を使わなければなりません。",
+      "explanationJa": "閉鎖状況を背景理由として穏やかに示すAsが適切です。",
+      "focus": "asと背景理由",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0315_Q03",
+      "format": "part5-cloze",
+      "prompt": "The automatic doors opened ------- I reached for the handle.",
+      "choices": {
+        "A": "since",
+        "B": "because of",
+        "C": "until",
+        "D": "as"
+      },
+      "correctAnswer": "D",
+      "translationJa": "私が取っ手に手を伸ばすのと同時に、自動ドアが開きました。",
+      "explanationJa": "手を伸ばす瞬間と開く瞬間を密着させるasです。",
+      "focus": "asと瞬間的同時",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0315_Q04",
+      "format": "part5-cloze",
+      "prompt": "------- everyone has completed the survey, we can discuss the results.",
+      "choices": {
+        "A": "Even if",
+        "B": "Now that",
+        "C": "Until",
+        "D": "Whereas"
+      },
+      "correctAnswer": "B",
+      "translationJa": "今や全員が調査を終えたので、結果を話し合えます。",
+      "explanationJa": "現在成立した状況を判断理由にするNow thatが適切です。",
+      "focus": "now that＋現在状況",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0315_Q05",
+      "format": "part5-cloze",
+      "prompt": "The crowd grew quieter ------- the speaker approached the microphone.",
+      "choices": {
+        "A": "as",
+        "B": "because of",
+        "C": "unless",
+        "D": "despite"
+      },
+      "correctAnswer": "A",
+      "translationJa": "講演者がマイクに近づくにつれて、群衆は静かになりました。",
+      "explanationJa": "二つの変化が同じ流れで進むことをasが示します。",
+      "focus": "asと並行変化",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0315_Q06",
+      "format": "part5-cloze",
+      "prompt": "------- the deadline was only two days away, the manager approved overtime.",
+      "choices": {
+        "A": "Although",
+        "B": "Until",
+        "C": "As",
+        "D": "In order that"
+      },
+      "correctAnswer": "C",
+      "translationJa": "締切まで2日しかなかったので、管理者は残業を承認しました。",
+      "explanationJa": "時間的状況を判断の背景理由として置くAsが自然です。",
+      "focus": "asの弱い理由",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0315_Q07",
+      "format": "part5-cloze",
+      "prompt": "My phone vibrated ------- I stepped into the elevator.",
+      "choices": {
+        "A": "because",
+        "B": "as",
+        "C": "since",
+        "D": "until"
+      },
+      "correctAnswer": "B",
+      "translationJa": "私がエレベーターに乗り込んだ瞬間、携帯電話が振動しました。",
+      "explanationJa": "二つの短い出来事の密着を表すasが適切です。",
+      "focus": "asと同時発生",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0315_Q08",
+      "format": "part5-cloze",
+      "prompt": "------- the new system is fully operational, paper requests are no longer accepted.",
+      "choices": {
+        "A": "Even though",
+        "B": "Before",
+        "C": "Unless",
+        "D": "Now that"
+      },
+      "correctAnswer": "D",
+      "translationJa": "今や新システムが完全稼働しているので、紙の申請は受け付けていません。",
+      "explanationJa": "新たに成立した現在状況を理由にするNow thatです。",
+      "focus": "now thatと制度変更",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0315_Q09",
+      "format": "part5-cloze",
+      "prompt": "The outdoor signs became harder to read ------- the rain intensified.",
+      "choices": {
+        "A": "as",
+        "B": "because of",
+        "C": "whereas",
+        "D": "until"
+      },
+      "correctAnswer": "A",
+      "translationJa": "雨が強まるにつれて、屋外標識は読みづらくなりました。",
+      "explanationJa": "雨の変化と可読性の変化が並行するためasです。",
+      "focus": "asと比例変化",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0315_Q10",
+      "format": "part5-cloze",
+      "prompt": "------- seating is limited, advance reservations are strongly recommended.",
+      "choices": {
+        "A": "Despite",
+        "B": "As",
+        "C": "Once",
+        "D": "So that"
+      },
+      "correctAnswer": "B",
+      "translationJa": "座席数が限られているため、事前予約を強くお勧めします。",
+      "explanationJa": "既知の施設事情を背景理由として示すAsが合います。",
+      "focus": "asと案内の背景理由",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0315_Q11",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that naturally presents two closely timed events.",
+      "choices": {
+        "A": "The alarm sounded as of the technician opened the panel.",
+        "B": "The alarm sounded because of the technician opened the panel.",
+        "C": "As the technician opening the panel, the alarm sounded because of.",
+        "D": "The alarm sounded as the technician opened the panel."
+      },
+      "correctAnswer": "D",
+      "translationJa": "技術者がパネルを開けた瞬間に警報が鳴りました。",
+      "explanationJa": "as節が二つの瞬間を密着して結ぶ正しい構造です。",
+      "focus": "asの時間節",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0315_Q12",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that correctly uses “now that”.",
+      "choices": {
+        "A": "Now the budget that has been approved, hiring can begin.",
+        "B": "Now that the budget has been approved, hiring can begin.",
+        "C": "Now that of the approved budget, hiring can begin.",
+        "D": "Now that the budget approved, because hiring can begin."
+      },
+      "correctAnswer": "B",
+      "translationJa": "今や予算が承認されたので、採用を始められます。",
+      "explanationJa": "Now thatの後に現在成立した状況を表す完全な節があります。",
+      "focus": "now thatの構造",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0315_Q13",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that naturally gives a background reason with “as”.",
+      "choices": {
+        "A": "As of the main entrance is under repair, visitors should use the side door.",
+        "B": "As the main entrance under repair, visitors should use the side door.",
+        "C": "As the main entrance is under repair, visitors should use the side door.",
+        "D": "Visitors as should use the side door the entrance under repair."
+      },
+      "correctAnswer": "C",
+      "translationJa": "正面玄関が修理中なので、来訪者は側面入口を使ってください。",
+      "explanationJa": "As節が施設事情を背景理由として自然に導いています。",
+      "focus": "asの理由節",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0315_Q14",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence in which “when” simply locates a past period.",
+      "choices": {
+        "A": "I often visited clients when I worked in Osaka.",
+        "B": "I often visited clients as of I worked in Osaka.",
+        "C": "I often visited clients because of I worked in Osaka.",
+        "D": "When working did I in Osaka, clients often visited."
+      },
+      "correctAnswer": "A",
+      "translationJa": "大阪で働いていた時期、私はよく顧客を訪問しました。",
+      "explanationJa": "when節が過去の期間を時間上に位置づける正しい文です。",
+      "focus": "whenと期間位置",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0315_Q15",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that correctly describes parallel change.",
+      "choices": {
+        "A": "As demand increasing, the factory added more evening shifts.",
+        "B": "Because of demand increased, the factory added more shifts.",
+        "C": "As the demand increase did, more shifts the factory added.",
+        "D": "As demand increased, the factory added more evening shifts."
+      },
+      "correctAnswer": "D",
+      "translationJa": "需要が増すにつれて、工場は夕方シフトを増やしました。",
+      "explanationJa": "asが需要増とシフト増を同じ進行の中で結んでいます。",
+      "focus": "asと並行変化",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0315_Q16",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence where the time-and-reason overlap is grammatically natural.",
+      "choices": {
+        "A": "As of the storm approached, the staff moved the tables indoors.",
+        "B": "The storm as approaching, indoors the staff moved because.",
+        "C": "As the storm approached, the staff moved the tables indoors.",
+        "D": "As the storm to approach, the staff moved the tables indoors."
+      },
+      "correctAnswer": "C",
+      "translationJa": "嵐が近づく中、スタッフはテーブルを屋内へ移しました。",
+      "explanationJa": "as節は同時進行とも背景理由とも読める自然な場面を作っています。",
+      "focus": "asの自然な曖昧さ",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0315_Q17",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that correctly emphasizes a direct cause.",
+      "choices": {
+        "A": "The shipment was rejected because of the seal was broken.",
+        "B": "The shipment was rejected because the seal was broken.",
+        "C": "The shipment was rejected as of the broken seal.",
+        "D": "Because the broken seal, the shipment was rejected."
+      },
+      "correctAnswer": "B",
+      "translationJa": "封印が破損していたため、荷物は受け取りを拒否されました。",
+      "explanationJa": "具体的な原因を強く焦点化するbecause＋節が正しいです。",
+      "focus": "becauseと原因焦点",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0315_Q18",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that correctly uses “as” for close simultaneity.",
+      "choices": {
+        "A": "The screen went dark as of I clicked the confirmation button.",
+        "B": "The screen went dark despite I clicked the button.",
+        "C": "As I clicking the button, the screen went dark because of.",
+        "D": "The screen went dark as I clicked the confirmation button."
+      },
+      "correctAnswer": "D",
+      "translationJa": "確認ボタンをクリックした瞬間、画面が暗くなりました。",
+      "explanationJa": "二つの短い瞬間が接触するようにasで結ばれています。",
+      "focus": "asと瞬間密着",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0315_Q19",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that correctly links a new present situation to a decision.",
+      "choices": {
+        "A": "Now that the repairs complete, the pool will reopen tomorrow.",
+        "B": "Now the repairs that are complete, the pool will reopen.",
+        "C": "Now that the repairs are complete, the pool will reopen tomorrow.",
+        "D": "Because of now that repairs, the pool will reopen tomorrow."
+      },
+      "correctAnswer": "C",
+      "translationJa": "今や修理が完了したので、プールは明日再開します。",
+      "explanationJa": "現在の完了状況を理由に次の判断を述べるNow thatが正しく使われています。",
+      "focus": "now thatと意思決定",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0315_Q20",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence in which “as” gently introduces an assumed reason.",
+      "choices": {
+        "A": "As you already have the receipt, no additional proof is required.",
+        "B": "As of you already have the receipt, no additional proof is required.",
+        "C": "As already the receipt, you require no proof.",
+        "D": "You as have the receipt because no proof required."
+      },
+      "correctAnswer": "A",
+      "translationJa": "すでに領収書をお持ちなので、追加の証明は不要です。",
+      "explanationJa": "聞き手と共有できる事情をAs節で背景として提示しています。",
+      "focus": "asと共有背景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0315_Q21",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “The doors closed as the train began to move.”",
+      "choices": {
+        "A": "The doors closed at almost the same moment the train started moving.",
+        "B": "The train moved because the doors had remained open all day.",
+        "C": "The doors closed long after the train reached its destination.",
+        "D": "The train stopped in order to keep the doors open."
+      },
+      "correctAnswer": "A",
+      "translationJa": "列車が動き始めるのとほぼ同時にドアが閉まりました。",
+      "explanationJa": "時間のasは二つの瞬間の密着した同時性を表します。",
+      "focus": "asの同時性の意味",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0315_Q22",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “As the road is flooded, buses are using a different route.”",
+      "choices": {
+        "A": "Buses flooded the road after changing their route.",
+        "B": "The road is open although all buses have stopped.",
+        "C": "Buses changed routes in order to cause flooding.",
+        "D": "Buses are taking another route because the road is flooded."
+      },
+      "correctAnswer": "D",
+      "translationJa": "道路が冠水しているため、バスは別経路を使っています。",
+      "explanationJa": "背景理由のasをbecauseで明示的に言い換えています。",
+      "focus": "asからbecauseへ",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0315_Q23",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “Now that the contract is signed, work can start.”",
+      "choices": {
+        "A": "Work must stop before the contract is signed.",
+        "B": "The contract will be canceled because work has ended.",
+        "C": "The completed contract now makes it possible to begin work.",
+        "D": "Work began long ago despite there being no agreement."
+      },
+      "correctAnswer": "C",
+      "translationJa": "契約が締結された現在、作業を開始できます。",
+      "explanationJa": "Now thatは現在成立した契約を開始可能の理由として示します。",
+      "focus": "now thatの意味",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0315_Q24",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “As prices rose, customers bought fewer premium items.”",
+      "choices": {
+        "A": "Customers bought more premium items before prices changed.",
+        "B": "Customer purchases of premium items declined while prices were increasing.",
+        "C": "Prices fell because premium purchases increased.",
+        "D": "Purchases and prices remained completely unchanged."
+      },
+      "correctAnswer": "B",
+      "translationJa": "価格が上がるにつれて、上位商品の購入は減りました。",
+      "explanationJa": "asが二つの変化の並行を示しているためwhileで同義にできます。",
+      "focus": "asと並行変化",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0315_Q25",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “My phone rang as I entered the conference room.”",
+      "choices": {
+        "A": "The call came just when I stepped into the conference room.",
+        "B": "The call ended long before I approached the room.",
+        "C": "I entered because my phone had no signal.",
+        "D": "The conference room rang after everyone left."
+      },
+      "correctAnswer": "A",
+      "translationJa": "会議室に入ったちょうどその時、電話が鳴りました。",
+      "explanationJa": "asの密着した同時をjust whenで表しています。",
+      "focus": "asからjust whenへ",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0315_Q26",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “As the elevator is being inspected, please use the stairs.”",
+      "choices": {
+        "A": "Inspect the stairs after using the elevator.",
+        "B": "The elevator is available despite the inspection.",
+        "C": "Please take the stairs because the elevator is under inspection.",
+        "D": "Use the stairs in order to begin an elevator inspection."
+      },
+      "correctAnswer": "C",
+      "translationJa": "エレベーターが点検中なので、階段を使ってください。",
+      "explanationJa": "理由のasをbecauseへ置き換えた同義文です。",
+      "focus": "背景理由asの言い換え",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0315_Q27",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “I felt nervous when I first presented to the board.”",
+      "choices": {
+        "A": "I felt nervous continuously while no presentation occurred.",
+        "B": "The board presented because I was no longer nervous.",
+        "C": "My nervousness caused the board meeting to be canceled.",
+        "D": "My first board presentation was the occasion on which I felt nervous."
+      },
+      "correctAnswer": "D",
+      "translationJa": "初めて取締役会で発表した時が、緊張した場面でした。",
+      "explanationJa": "whenが感情を特定の過去場面に位置づけています。",
+      "focus": "whenの時間位置",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0315_Q28",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “As the sun set, the outdoor signs became easier to see.”",
+      "choices": {
+        "A": "The signs became easier to see at the same time daylight faded.",
+        "B": "The signs disappeared before sunset began.",
+        "C": "Daylight increased because the signs were removed.",
+        "D": "The signs were invisible long after all lights came on."
+      },
+      "correctAnswer": "A",
+      "translationJa": "日光が弱まるのと同時に、屋外標識が見やすくなりました。",
+      "explanationJa": "asが二つの進行を密接に重ねています。",
+      "focus": "asと密接な進行",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0315_Q29",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “Now that everyone is connected, the video meeting can begin.”",
+      "choices": {
+        "A": "The meeting ended before participants connected.",
+        "B": "Because all participants are currently online, we can start the meeting.",
+        "C": "Participants will disconnect in order to delay the meeting.",
+        "D": "The meeting cannot start although everyone is online."
+      },
+      "correctAnswer": "B",
+      "translationJa": "全参加者が現在オンラインなので、会議を始められます。",
+      "explanationJa": "Now thatが現在状況を理由としていることをbecauseで言い換えています。",
+      "focus": "now thatとbecause",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0315_Q30",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “The system is useful because it detects duplicate payments.”",
+      "choices": {
+        "A": "The system is useful although it cannot detect any payment.",
+        "B": "Duplicate payments make the system unnecessary.",
+        "C": "Detecting duplicate payments is the specific reason the system is useful.",
+        "D": "The system detects payments in order to become less useful."
+      },
+      "correctAnswer": "C",
+      "translationJa": "重複支払いを検出できることが、そのシステムが有用な具体的理由です。",
+      "explanationJa": "becauseが有用性の原因を直接焦点化しています。",
+      "focus": "becauseの原因焦点",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0315_Q31",
+      "format": "context-completion",
+      "prompt": "The loading-bay door opened ------- the truck backed toward it.",
+      "choices": {
+        "A": "because of",
+        "B": "as",
+        "C": "unless",
+        "D": "despite"
+      },
+      "correctAnswer": "B",
+      "translationJa": "トラックが搬入口へ後退するのと同時に、その扉が開きました。",
+      "explanationJa": "後退と開扉の密着した同時性を表すasが適切です。",
+      "focus": "asと密着動作",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0315_Q32",
+      "format": "context-completion",
+      "prompt": "------- the final figures are now available, we can complete the annual report.",
+      "choices": {
+        "A": "Even if",
+        "B": "Until",
+        "C": "Whereas",
+        "D": "Now that"
+      },
+      "correctAnswer": "D",
+      "translationJa": "今や最終数値が利用できるので、年次報告書を完成できます。",
+      "explanationJa": "新たに成立した現在状況を理由にするNow thatです。",
+      "focus": "now thatと現在の利用可能性",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0315_Q33",
+      "format": "context-completion",
+      "prompt": "------- the parking garage is full, guests are being directed to the east lot.",
+      "choices": {
+        "A": "As",
+        "B": "Despite",
+        "C": "Once",
+        "D": "So that"
+      },
+      "correctAnswer": "A",
+      "translationJa": "駐車棟が満車なので、来客は東駐車場へ案内されています。",
+      "explanationJa": "施設の現状を背景理由として導くAsが合います。",
+      "focus": "asと案内背景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0315_Q34",
+      "format": "context-completion",
+      "prompt": "The audience applauded ------- the presenter displayed the final results.",
+      "choices": {
+        "A": "because of",
+        "B": "until",
+        "C": "as",
+        "D": "unless"
+      },
+      "correctAnswer": "C",
+      "translationJa": "発表者が最終結果を映すのと同時に、聴衆が拍手しました。",
+      "explanationJa": "表示と拍手の瞬間を重ねるasが適切です。",
+      "focus": "asと瞬間の重なり",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0315_Q35",
+      "format": "context-completion",
+      "prompt": "------- staffing levels improved, waiting times gradually fell.",
+      "choices": {
+        "A": "Because of",
+        "B": "Despite",
+        "C": "Until",
+        "D": "As"
+      },
+      "correctAnswer": "D",
+      "translationJa": "人員配置が改善するにつれて、待ち時間は徐々に減りました。",
+      "explanationJa": "二つの変化が並行して進むためAsを選びます。",
+      "focus": "asと比例的変化",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0315_Q36",
+      "format": "context-completion",
+      "prompt": "The meeting room is available again. ------- the ventilation repair is complete, reservations may resume.",
+      "choices": {
+        "A": "Even though",
+        "B": "Now that",
+        "C": "Before",
+        "D": "Unless"
+      },
+      "correctAnswer": "B",
+      "translationJa": "会議室が再び利用できます。今や換気修理が完了したので、予約を再開できます。",
+      "explanationJa": "現在完了した修理を再開の理由にするNow thatです。",
+      "focus": "now thatと再開",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0315_Q37",
+      "format": "context-completion",
+      "prompt": "The courier called ------- she reached the building entrance.",
+      "choices": {
+        "A": "as",
+        "B": "because of",
+        "C": "whereas",
+        "D": "until"
+      },
+      "correctAnswer": "A",
+      "translationJa": "配達員は建物入口に着いた瞬間に電話しました。",
+      "explanationJa": "到着と電話を密着して描くasが適切です。",
+      "focus": "asと到着時点",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0315_Q38",
+      "format": "context-completion",
+      "prompt": "------- the client needs a detailed cost breakdown, I have attached the full estimate.",
+      "choices": {
+        "A": "Although",
+        "B": "Until",
+        "C": "In order that",
+        "D": "As"
+      },
+      "correctAnswer": "D",
+      "translationJa": "顧客が詳細な費用内訳を必要としているので、完全な見積書を添付しました。",
+      "explanationJa": "相手と共有できる必要事情を背景理由として示すAsです。",
+      "focus": "asと背景事情",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0315_Q39",
+      "format": "context-completion",
+      "prompt": "The corridor became brighter ------- the morning sun rose above the neighboring building.",
+      "choices": {
+        "A": "because of",
+        "B": "unless",
+        "C": "as",
+        "D": "despite"
+      },
+      "correctAnswer": "C",
+      "translationJa": "朝日が隣の建物の上に昇るにつれて、廊下は明るくなりました。",
+      "explanationJa": "日の出と明るさの変化が同時進行するためasです。",
+      "focus": "asと同時変化",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0315_Q40",
+      "format": "context-completion",
+      "prompt": "------- the audit has ended, the archived files can be returned to storage.",
+      "choices": {
+        "A": "Even if",
+        "B": "Now that",
+        "C": "Until",
+        "D": "Whereas"
+      },
+      "correctAnswer": "B",
+      "translationJa": "監査が終わった現在、保管資料を倉庫へ戻せます。",
+      "explanationJa": "現在成立した監査終了を理由にするNow thatが適切です。",
+      "focus": "now thatと完了後判断",
+      "difficulty": "intermediate"
+    }
+  ]
+}
