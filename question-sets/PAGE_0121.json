@@ -1,0 +1,600 @@
+{
+  "schemaVersion": 1,
+  "page": {
+    "number": 121,
+    "id": "grammar-master-0121",
+    "title": "場所と様子を置く順番",
+    "image": "pages/PAGE_0121.webp",
+    "sourcePrompt": "source-prompts/PAGE_0121.txt"
+  },
+  "analysis": {
+    "summaryJa": "このページは、動作の様子、場所、時を文末に並べるときの情報順序を扱う。基本ルートは『動詞＋目的語＋様子＋場所＋時』で、動作に密接な様子を先に、場面の枠となる場所と時を後ろへ置く。また、home・abroadは前置詞なしの場所副詞として使い、場所表現を文頭へ出して場面を先に示すこともできる。現在分詞・過去分詞による付帯状態も含めて確認する。",
+    "grammarPoints": [
+      "様態副詞は通常、動詞の後ろ、目的語がある場合は目的語の後ろに置く",
+      "様子・場所・時がそろう場合は、原則として様子→場所→時の順に置く",
+      "home・abroadは方向・場所副詞として前置詞なしで用いる",
+      "場所表現を文頭へ移し、場面を先に設定することができる",
+      "現在分詞・過去分詞句は、主語や目的語の同時の様子・状態を補足できる"
+    ],
+    "visualEvidence": [
+      "動詞から目的語、様子、場所、時へ続くレールが、情報を近いものから広いものへ並べる基本ルートを示している",
+      "家と地球のアイコンがhome・abroadを前置詞なしで使う場所副詞として示している",
+      "場所の枠が文頭へ移動する矢印が、場面設定のための前置を表している",
+      "人物に寄り添う-ing・-edの札が、動作と同時の様子や受けた状態を補足する働きを示している"
+    ],
+    "commonTraps": [
+      "目的語の前に様態副詞を割り込み、不自然な語順にする",
+      "様子・場所・時を時→場所→様子の順に並べる",
+      "go to homeやwork in abroadのようにhome・abroadへ不要な前置詞を付ける",
+      "文頭の場所表現を主語と誤認する",
+      "分詞句の意味上の主語を主節の主語と一致させず、ぶら下がり修飾にする"
+    ]
+  },
+  "questions": [
+    {
+      "id": "PAGE_0121_Q01",
+      "format": "part5-cloze",
+      "prompt": "Most employees returned ------- after the evening seminar.",
+      "choices": {"A": "to home", "B": "at home", "C": "home", "D": "homewardly"},
+      "correctAnswer": "C",
+      "translationJa": "ほとんどの従業員は夜の研修後、帰宅しました。",
+      "explanationJa": "return homeではhomeが方向を示す副詞として働くため、toを付けません。",
+      "focus": "return homeと不要な前置詞",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0121_Q02",
+      "format": "part5-cloze",
+      "prompt": "The design company plans to expand ------- next year.",
+      "choices": {"A": "abroad", "B": "in abroad", "C": "to abroad", "D": "abroadly"},
+      "correctAnswer": "A",
+      "translationJa": "その設計会社は来年、海外へ事業を拡大する予定です。",
+      "explanationJa": "abroadは『海外へ・海外で』を表す場所副詞なので、inやtoを前に置きません。",
+      "focus": "場所副詞abroad",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0121_Q03",
+      "format": "part5-cloze",
+      "prompt": "The technician installed the new sensor ------- in the testing laboratory yesterday.",
+      "choices": {"A": "careful", "B": "carefulness", "C": "more careful", "D": "carefully"},
+      "correctAnswer": "D",
+      "translationJa": "技術者は昨日、試験研究室で新しいセンサーを慎重に取り付けました。",
+      "explanationJa": "目的語the new sensorの後に様子carefully、場所in the testing laboratory、時yesterdayが並びます。",
+      "focus": "目的語＋様子＋場所＋時",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0121_Q04",
+      "format": "part5-cloze",
+      "prompt": "The receptionist greeted the overseas visitors -------.",
+      "choices": {"A": "warm", "B": "warmly", "C": "warmth", "D": "warmer"},
+      "correctAnswer": "B",
+      "translationJa": "受付担当者は海外からの来訪者を温かく迎えました。",
+      "explanationJa": "目的語the overseas visitorsの後ろで、greetedの仕方を副詞warmlyが説明します。",
+      "focus": "目的語後の様態副詞",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0121_Q05",
+      "format": "part5-cloze",
+      "prompt": "The courier placed the labeled cartons ------- in the storage room.",
+      "choices": {"A": "neatly", "B": "neat", "C": "neatness", "D": "neaten"},
+      "correctAnswer": "A",
+      "translationJa": "配達員はラベル付きの箱を保管室に整然と置きました。",
+      "explanationJa": "placedの目的語の後に、配置の様子neatly、続いて場所in the storage roomを置きます。",
+      "focus": "様子→場所",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0121_Q06",
+      "format": "part5-cloze",
+      "prompt": "The project team discussed the supplier's proposal ------- at headquarters this morning.",
+      "choices": {"A": "thorough", "B": "thoroughness", "C": "thoroughly", "D": "through"},
+      "correctAnswer": "C",
+      "translationJa": "プロジェクトチームは今朝、本社で仕入先の提案を徹底的に検討しました。",
+      "explanationJa": "目的語the supplier's proposalの後に様子thoroughly、場所at headquarters、時this morningを並べます。",
+      "focus": "様子＋場所＋時の基本ルート",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0121_Q07",
+      "format": "part5-cloze",
+      "prompt": "-------, a temporary information desk has been set up for conference guests.",
+      "choices": {"A": "Nearness the entrance", "B": "Near the entrance", "C": "Nearly the entrance", "D": "The entrance near"},
+      "correctAnswer": "B",
+      "translationJa": "入口の近くには、会議参加者向けの臨時案内所が設置されています。",
+      "explanationJa": "場所句Near the entranceを文頭へ出して、読者に場面を先に示しています。",
+      "focus": "場所表現による場面設定",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0121_Q08",
+      "format": "part5-cloze",
+      "prompt": "The manager entered the interview room -------, carrying two folders under her arm.",
+      "choices": {"A": "quiet", "B": "quietness", "C": "quieter", "D": "quietly"},
+      "correctAnswer": "D",
+      "translationJa": "部長は2冊のフォルダーを脇に抱え、静かに面接室へ入りました。",
+      "explanationJa": "quietlyはenteredの様子を示し、carrying以下の現在分詞句が同時の付帯動作を補足します。",
+      "focus": "様態副詞と現在分詞の付帯動作",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0121_Q09",
+      "format": "part5-cloze",
+      "prompt": "Staff members left the building ------- through the rear exit at noon.",
+      "choices": {"A": "quickly", "B": "quick", "C": "quickness", "D": "quicken"},
+      "correctAnswer": "A",
+      "translationJa": "職員は正午に裏口から素早く建物を出ました。",
+      "explanationJa": "left the buildingの後に様子quickly、経路・場所through the rear exit、時at noonが続きます。",
+      "focus": "様子→経路→時",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0121_Q10",
+      "format": "part5-cloze",
+      "prompt": "After the legal review, the contracts were filed ------- in the locked cabinet.",
+      "choices": {"A": "alphabetical", "B": "alphabetically", "C": "alphabet", "D": "alphabetize"},
+      "correctAnswer": "B",
+      "translationJa": "法務確認後、契約書は施錠された保管庫にアルファベット順で整理されました。",
+      "explanationJa": "filedの整理方法をalphabeticallyが示し、その後ろに保管場所in the locked cabinetを置きます。",
+      "focus": "受動態の様子→場所",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0121_Q11",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about interns' international travel.",
+      "choices": {
+        "A": "The interns traveled to abroad last summer.",
+        "B": "The interns traveled abroad last summer.",
+        "C": "The interns abroadly traveled in last summer.",
+        "D": "The interns traveled in abroad the last summer."
+      },
+      "correctAnswer": "B",
+      "translationJa": "実習生たちは昨夏、海外へ行きました。",
+      "explanationJa": "abroadは前置詞なしの場所副詞で、後ろに時last summerを置きます。",
+      "focus": "abroad→時",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0121_Q12",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence with the natural order of object, manner, place, and time.",
+      "choices": {
+        "A": "The driver carefully unloaded at the site this morning the equipment.",
+        "B": "The driver unloaded this morning the equipment carefully at the site.",
+        "C": "The driver unloaded at the site the equipment this morning carefully.",
+        "D": "The driver unloaded the equipment carefully at the site this morning."
+      },
+      "correctAnswer": "D",
+      "translationJa": "運転手は今朝、現場で装置を慎重に荷下ろししました。",
+      "explanationJa": "目的語the equipmentの後に様子carefully、場所at the site、時this morningを並べます。",
+      "focus": "目的語＋様子＋場所＋時",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0121_Q13",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence telling employees what to do after a meeting.",
+      "choices": {
+        "A": "Please go home after the meeting.",
+        "B": "Please go to home after the meeting.",
+        "C": "Please go at home after the meeting.",
+        "D": "Please home go after meeting the."
+      },
+      "correctAnswer": "A",
+      "translationJa": "会議後は帰宅してください。",
+      "explanationJa": "go homeではhomeが方向副詞なのでtoを取りません。",
+      "focus": "go homeの固定語順",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0121_Q14",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that naturally sets the scene before giving new information.",
+      "choices": {
+        "A": "At the far end is available the hall a service desk.",
+        "B": "The far end of the hall, a service desk available is.",
+        "C": "At the far end of the hall, a service desk is available.",
+        "D": "At far the end hall, available a service desk is."
+      },
+      "correctAnswer": "C",
+      "translationJa": "廊下の突き当たりにサービスデスクがあります。",
+      "explanationJa": "At the far end of the hallを文頭に置き、場所の場面を示してから新情報a service deskを提示しています。",
+      "focus": "文頭場所句＋新情報",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0121_Q15",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about arranging product samples.",
+      "choices": {
+        "A": "The assistant arranged neatly the samples on the table.",
+        "B": "The assistant arranged the samples neatly on the table.",
+        "C": "The assistant arranged on the table neatly the samples.",
+        "D": "The assistant neat arranged the samples table on."
+      },
+      "correctAnswer": "B",
+      "translationJa": "助手は商品サンプルを机の上に整然と並べました。",
+      "explanationJa": "他動詞arrangedの目的語を先に置き、その後ろに様子neatly、場所on the tableを続けます。",
+      "focus": "目的語を分断しない様態副詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0121_Q16",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence with a natural order for manner and place.",
+      "choices": {
+        "A": "The spokesperson calmly outside the courthouse answered the reporters.",
+        "B": "The spokesperson answered calmly the reporters outside the courthouse.",
+        "C": "The spokesperson answered the reporters calmly outside the courthouse.",
+        "D": "The spokesperson answered outside the reporters calmly courthouse."
+      },
+      "correctAnswer": "C",
+      "translationJa": "広報担当者は裁判所の外で記者たちに落ち着いて答えました。",
+      "explanationJa": "目的語the reportersの後に様子calmly、場所outside the courthouseを置きます。",
+      "focus": "目的語＋様子＋場所",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0121_Q17",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence in which a participle correctly describes a simultaneous state.",
+      "choices": {
+        "A": "Smiling the guests entered the gallery them.",
+        "B": "The guests entered smilingly the gallery.",
+        "C": "The gallery entered the guests smiling.",
+        "D": "The guests entered the gallery smiling."
+      },
+      "correctAnswer": "D",
+      "translationJa": "来賓たちは笑顔でギャラリーに入りました。",
+      "explanationJa": "smilingは主語the guestsが入場中に見せていた同時の様子を補足します。意味上の主語が一致しています。",
+      "focus": "現在分詞による主語の付帯状態",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0121_Q18",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence describing equipment left without supervision.",
+      "choices": {
+        "A": "The testing unit stood unattended in the corridor.",
+        "B": "The testing unit stood unattendedly the corridor.",
+        "C": "Unattending the testing unit stood in corridor.",
+        "D": "The corridor stood the testing unit unattended it."
+      },
+      "correctAnswer": "A",
+      "translationJa": "試験装置は廊下に監視されないまま置かれていました。",
+      "explanationJa": "unattendedはtesting unitが人に見守られていない状態を表す過去分詞形容詞で、その後ろに場所を置きます。",
+      "focus": "過去分詞による結果・付帯状態",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0121_Q19",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence with a correctly attached supplementary participle phrase.",
+      "choices": {
+        "A": "Accompanied the inspector, the plant was walked through by the technician.",
+        "B": "The technician accompanied walked through the plant by the inspector.",
+        "C": "The technician walked through the plant accompanied by the inspector.",
+        "D": "Walking through the plant, the inspector accompanied was the technician."
+      },
+      "correctAnswer": "C",
+      "translationJa": "技術者は検査官に付き添われて工場内を歩きました。",
+      "explanationJa": "accompanied by the inspectorは主語the technicianが受ける付帯状態を表し、主節の後ろで自然に補足します。",
+      "focus": "過去分詞句の意味上の主語",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0121_Q20",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence with the natural order of object, manner, place, and duration.",
+      "choices": {
+        "A": "The team reviewed systematically all afternoon the files in the records office.",
+        "B": "The team reviewed the files systematically in the records office all afternoon.",
+        "C": "The team all afternoon reviewed in the records office systematically the files.",
+        "D": "The team reviewed in the records office the files all afternoon systematic."
+      },
+      "correctAnswer": "B",
+      "translationJa": "チームは午後ずっと、記録保管室でファイルを体系的に確認しました。",
+      "explanationJa": "目的語the files、様子systematically、場所in the records office、時間all afternoonの順です。",
+      "focus": "四要素の文末配列",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0121_Q21",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"Ms. Bell spoke confidently at the conference yesterday.\"",
+      "choices": {
+        "A": "Ms. Bell gained confidence after yesterday's conference.",
+        "B": "The conference spoke confidently about Ms. Bell.",
+        "C": "Ms. Bell attended yesterday's conference without speaking.",
+        "D": "Yesterday, Ms. Bell delivered her remarks with confidence at the conference."
+      },
+      "correctAnswer": "D",
+      "translationJa": "昨日、ベルさんは会議で自信を持って発言しました。",
+      "explanationJa": "confidentlyがwith confidence、at the conferenceとyesterdayがそれぞれ同じ場所・時を表します。",
+      "focus": "様子・場所・時を保つ言い換え",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0121_Q22",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The employees went home after the ceremony.\"",
+      "choices": {
+        "A": "The employees attended a ceremony at home.",
+        "B": "The employees returned to their residences after the ceremony.",
+        "C": "The ceremony was moved to the employees' homes.",
+        "D": "The employees stayed after the ceremony ended."
+      },
+      "correctAnswer": "B",
+      "translationJa": "従業員たちは式典後、それぞれの住居へ戻りました。",
+      "explanationJa": "homeは方向副詞で、『自宅へ』を意味します。returned to their residencesが内容を明示しています。",
+      "focus": "方向副詞homeの意味",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0121_Q23",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"Abroad, the brand is best known for its repair service.\"",
+      "choices": {
+        "A": "The brand repairs only products imported from abroad.",
+        "B": "The company is planning to close its overseas service centers.",
+        "C": "In foreign markets, the brand is especially recognized for its repair service.",
+        "D": "The repair service is unknown outside the company's home country."
+      },
+      "correctAnswer": "C",
+      "translationJa": "海外市場では、そのブランドは修理サービスで特によく知られています。",
+      "explanationJa": "文頭のAbroadが場面を海外に設定しており、In foreign marketsが同じ場所枠を明示します。",
+      "focus": "文頭の場所副詞による場面設定",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0121_Q24",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The guard closed the gate quietly.\"",
+      "choices": {
+        "A": "The guard closed the gate without making much noise.",
+        "B": "The quiet guard left the gate open.",
+        "C": "The gate automatically closed behind the guard.",
+        "D": "The guard asked everyone near the gate to be quiet."
+      },
+      "correctAnswer": "A",
+      "translationJa": "警備員は大きな音を立てずに門を閉めました。",
+      "explanationJa": "quietlyはclosedの様子を示し、without making much noiseが同じ意味です。",
+      "focus": "様態副詞quietlyの言い換え",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0121_Q25",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"Near the elevators, visitors can find a building directory.\"",
+      "choices": {
+        "A": "The elevators are listed in the visitor directory.",
+        "B": "Visitors must use the directory before entering the elevators.",
+        "C": "A directory shows visitors where the elevators are located.",
+        "D": "A building directory is available close to the elevators."
+      },
+      "correctAnswer": "D",
+      "translationJa": "建物案内板はエレベーターの近くにあります。",
+      "explanationJa": "文頭のNear the elevatorsは、directoryがある場所を先に設定しています。Dは通常語順で同じ内容を表します。",
+      "focus": "前置された場所句の通常語順への変換",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0121_Q26",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The crew loaded the crates efficiently at Dock 4 before noon.\"",
+      "choices": {
+        "A": "The crew waited at Dock 4 until after noon.",
+        "B": "The crates improved the efficiency of Dock 4.",
+        "C": "Before noon, the crew loaded the crates at Dock 4 in an efficient manner.",
+        "D": "The crew moved four crates away from the dock."
+      },
+      "correctAnswer": "C",
+      "translationJa": "乗組員は正午前に4番埠頭で効率よく箱を積み込みました。",
+      "explanationJa": "efficiently、at Dock 4、before noonという様子・場所・時をすべて保持しています。",
+      "focus": "様子・場所・時の意味保持",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0121_Q27",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The manager left the room smiling.\"",
+      "choices": {
+        "A": "The manager left because the room was smiling.",
+        "B": "The manager was smiling as she left the room.",
+        "C": "The manager told everyone in the room to smile.",
+        "D": "The smiling room was left to the manager."
+      },
+      "correctAnswer": "B",
+      "translationJa": "部長は部屋を出るとき笑っていました。",
+      "explanationJa": "smilingは主語the managerの退出と同時の状態です。as she leftで同時性を明示できます。",
+      "focus": "現在分詞付帯状態の節への展開",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0121_Q28",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The backup files were stored securely off site overnight.\"",
+      "choices": {
+        "A": "The files were copied at night but remained in the office.",
+        "B": "The backup site was closed securely before night.",
+        "C": "The files were stored off site only after security failed.",
+        "D": "During the night, the backup files were kept safely at an external location."
+      },
+      "correctAnswer": "D",
+      "translationJa": "夜間、バックアップファイルは外部の場所で安全に保管されました。",
+      "explanationJa": "securely、off site、overnightをそれぞれsafely、at an external location、during the nightで言い換えています。",
+      "focus": "様子・場所・時間幅の言い換え",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0121_Q29",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"Surrounded by technicians, the prototype remained on the platform.\"",
+      "choices": {
+        "A": "The prototype moved around the technicians on the platform.",
+        "B": "The technicians removed the prototype from the platform.",
+        "C": "The prototype stayed on the platform with technicians all around it.",
+        "D": "The platform surrounded the technicians and the prototype."
+      },
+      "correctAnswer": "C",
+      "translationJa": "試作品は周囲を技術者に囲まれた状態で台の上に留まりました。",
+      "explanationJa": "Surrounded by techniciansはprototypeが受ける状態です。with technicians all around itがその付帯状況を展開しています。",
+      "focus": "文頭過去分詞句の意味上の主語",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0121_Q30",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The consultant works abroad.\"",
+      "choices": {
+        "A": "The consultant works in another country.",
+        "B": "The consultant works for a foreign-language department at home.",
+        "C": "The consultant travels only within the home country.",
+        "D": "The consultant advises companies that import products."
+      },
+      "correctAnswer": "A",
+      "translationJa": "そのコンサルタントは外国で働いています。",
+      "explanationJa": "abroadは『自国以外で』という場所を示し、in another countryが同じ意味です。",
+      "focus": "abroadの場所意味",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0121_Q31",
+      "format": "context-completion",
+      "prompt": "The building closes immediately after the awards ceremony, and no late work is scheduled. Employees should go ------- when the event ends.",
+      "choices": {"A": "home", "B": "to home", "C": "at home", "D": "in home"},
+      "correctAnswer": "A",
+      "translationJa": "表彰式の直後に建物は閉まり、残業の予定もありません。行事終了後、従業員は帰宅してください。",
+      "explanationJa": "帰る方向を示すhomeは副詞なのでgo homeとし、toを付けません。",
+      "focus": "文脈に合うgo home",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0121_Q32",
+      "format": "context-completion",
+      "prompt": "The instrument is extremely fragile, and the new laboratory opened this morning. The crew moved it -------.",
+      "choices": {
+        "A": "this morning carefully into the new laboratory",
+        "B": "into carefully the new laboratory this morning",
+        "C": "the new laboratory this morning into carefully",
+        "D": "carefully into the new laboratory this morning"
+      },
+      "correctAnswer": "D",
+      "translationJa": "その計器は非常に壊れやすく、新しい研究室は今朝開設されました。作業員は今朝、それを慎重に新研究室へ運びました。",
+      "explanationJa": "目的語itの後に様子carefully、移動先into the new laboratory、時this morningを並べます。",
+      "focus": "代名詞目的語＋様子＋場所＋時",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0121_Q33",
+      "format": "context-completion",
+      "prompt": "The company will open offices in three other countries. Several experienced staff members have volunteered to work -------.",
+      "choices": {"A": "in abroad", "B": "abroad", "C": "to abroad", "D": "foreignly"},
+      "correctAnswer": "B",
+      "translationJa": "会社はほかの3か国に事務所を開設します。経験豊富な職員数名が海外勤務を志願しました。",
+      "explanationJa": "複数の外国で働くという文脈なので場所副詞abroadが適切で、inは不要です。",
+      "focus": "work abroad",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0121_Q34",
+      "format": "context-completion",
+      "prompt": "First-time visitors often miss the side corridor because the signs are small. -------, a larger direction board will be installed.",
+      "choices": {"A": "Nearly the lobby entrance", "B": "The lobby entrance near", "C": "Near the lobby entrance", "D": "Nearness to lobby entrance"},
+      "correctAnswer": "C",
+      "translationJa": "初めての来訪者は標識が小さいため、脇の廊下を見落としがちです。ロビー入口の近くに、より大きな案内板を設置します。",
+      "explanationJa": "Near the lobby entranceを文頭に置き、設置場所を場面として先に示します。",
+      "focus": "文頭の場所設定",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0121_Q35",
+      "format": "context-completion",
+      "prompt": "Every label faces forward, and products of the same size are grouped together. The staff arranged the boxes ------- on the shelves.",
+      "choices": {"A": "neatly", "B": "neat", "C": "neatness", "D": "neatened"},
+      "correctAnswer": "A",
+      "translationJa": "すべてのラベルは正面を向き、同じ大きさの商品はまとめられています。職員は棚に箱を整然と並べました。",
+      "explanationJa": "整った配置という文脈からarrangedの様子を示すneatlyを選び、場所on the shelvesが後に続きます。",
+      "focus": "文脈に基づく様態副詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0121_Q36",
+      "format": "context-completion",
+      "prompt": "Although reporters asked several difficult questions, the witness did not raise his voice. He answered them -------.",
+      "choices": {
+        "A": "outside the building after the hearing calmly",
+        "B": "after the hearing calmly outside the building",
+        "C": "outside calmly after the hearing the building",
+        "D": "calmly outside the building after the hearing"
+      },
+      "correctAnswer": "D",
+      "translationJa": "記者たちが難しい質問をいくつもしましたが、証人は声を荒らげませんでした。彼は審理後、建物の外で落ち着いて質問に答えました。",
+      "explanationJa": "目的語themの後に様子calmly、場所outside the building、時after the hearingを置きます。",
+      "focus": "代名詞目的語後の様子→場所→時",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0121_Q37",
+      "format": "context-completion",
+      "prompt": "The employees applauded as the chief executive stepped onto the stage. She entered the hall -------.",
+      "choices": {"A": "smile", "B": "smiled", "C": "smiling", "D": "to smiled"},
+      "correctAnswer": "C",
+      "translationJa": "最高経営責任者が舞台に上がると従業員は拍手しました。彼女は笑顔で会場に入りました。",
+      "explanationJa": "smilingは主語sheが入場している間の同時の様子を現在分詞で補足します。",
+      "focus": "現在分詞の付帯状態",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0121_Q38",
+      "format": "context-completion",
+      "prompt": "The records contain confidential customer data, so copies were moved to an external backup center before the storm. They were stored -------.",
+      "choices": {
+        "A": "securely off site overnight",
+        "B": "overnight securely off site",
+        "C": "off overnight site securely",
+        "D": "secure off site in overnight"
+      },
+      "correctAnswer": "A",
+      "translationJa": "記録には機密顧客データが含まれるため、嵐の前に複製が外部バックアップセンターへ移されました。それらは夜間、外部で安全に保管されました。",
+      "explanationJa": "様子securely、場所off site、時overnightの順に並べます。",
+      "focus": "様子→場所→時間幅",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0121_Q39",
+      "format": "context-completion",
+      "prompt": "During the morning inspection, the crew found the generator still operating with no employee nearby. It was running -------.",
+      "choices": {
+        "A": "yesterday unattended behind the warehouse",
+        "B": "behind unattended the warehouse yesterday",
+        "C": "the warehouse yesterday behind unattendedly",
+        "D": "unattended behind the warehouse yesterday"
+      },
+      "correctAnswer": "D",
+      "translationJa": "朝の点検中、作業員は近くに従業員がいないまま発電機が動いているのを発見しました。それは昨日、倉庫の裏で無人のまま稼働していました。",
+      "explanationJa": "unattendedが発電機の付帯状態、behind the warehouseが場所、yesterdayが時を示します。",
+      "focus": "分詞状態→場所→時",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0121_Q40",
+      "format": "context-completion",
+      "prompt": "Lunch began at noon, and the caterer had promised that no participant would have to wait. The staff delivered the trays -------.",
+      "choices": {
+        "A": "to the conference room at noon prompt",
+        "B": "promptly to the conference room at noon",
+        "C": "at noon promptly the conference room to",
+        "D": "the conference room promptly at noon to"
+      },
+      "correctAnswer": "B",
+      "translationJa": "昼食は正午に始まり、ケータリング業者は参加者を待たせないと約束していました。職員は正午に会議室へ料理トレーを速やかに届けました。",
+      "explanationJa": "目的語the traysの後に様子promptly、届け先to the conference room、時at noonを置きます。",
+      "focus": "様子＋移動先＋時",
+      "difficulty": "intermediate"
+    }
+  ]
+}
