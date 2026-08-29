@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-29T04:58:32.503Z",
+  "updatedAt": "2026-08-29T05:03:05.705Z",
   "totalPages": 330,
-  "completedPages": 54,
+  "completedPages": 55,
   "questionsPerPage": 40,
   "totalPlannedQuestions": 13200,
   "pages": [
@@ -450,9 +450,9 @@
       "number": 56,
       "id": "grammar-master-0056",
       "title": "見る・聞くは、動作か感覚か",
-      "status": "pending",
+      "status": "complete",
       "output": "question-sets/PAGE_0056.json",
-      "completedAt": null
+      "completedAt": "2026-08-29T05:03:05.705Z"
     },
     {
       "number": 57,
