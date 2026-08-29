@@ -1,0 +1,86 @@
+=== main head ===
+304ade283a3c9e204fcb81c501ea9e3fe65c52cf
+
+=== PAGE_0278 validator ===
+ok: PAGE_0278 has 40 valid questions
+exit=0
+
+=== pending page validators ===
+--- question-sets/PAGE_0082.json exit=1 ---
+/home/runner/work/eigo/eigo/question-sets/PAGE_0082.json:
+- invalid JSON: Unexpected token '/', "/mnt/data/"... is not valid JSON
+--- question-sets/PAGE_0309.json exit=1 ---
+/home/runner/work/eigo/eigo/question-sets/PAGE_0309.json:
+- invalid JSON: Unexpected token '/', "/tmp/s19_g"... is not valid JSON
+--- question-sets/PAGE_0310.json exit=1 ---
+/home/runner/work/eigo/eigo/question-sets/PAGE_0310.json:
+- invalid JSON: Unexpected token '/', "/tmp/s19_g"... is not valid JSON
+--- question-sets/PAGE_0311.json exit=1 ---
+/home/runner/work/eigo/eigo/question-sets/PAGE_0311.json:
+- invalid JSON: Unexpected token '/', "/tmp/s19_g"... is not valid JSON
+--- question-sets/PAGE_0312.json exit=1 ---
+/home/runner/work/eigo/eigo/question-sets/PAGE_0312.json:
+- invalid JSON: Unexpected token '/', "/tmp/s19_g"... is not valid JSON
+--- question-sets/PAGE_0313.json exit=1 ---
+/home/runner/work/eigo/eigo/question-sets/PAGE_0313.json:
+- invalid JSON: Unexpected token '/', "/tmp/s19_g"... is not valid JSON
+--- question-sets/PAGE_0314.json exit=1 ---
+/home/runner/work/eigo/eigo/question-sets/PAGE_0314.json:
+- invalid JSON: Unexpected token '/', "/tmp/s19_g"... is not valid JSON
+--- question-sets/PAGE_0315.json exit=1 ---
+/home/runner/work/eigo/eigo/question-sets/PAGE_0315.json:
+- invalid JSON: Unexpected token '/', "/tmp/s19_g"... is not valid JSON
+--- question-sets/PAGE_0316.json exit=1 ---
+/home/runner/work/eigo/eigo/question-sets/PAGE_0316.json:
+- invalid JSON: Unexpected token '/', "/tmp/s19_g"... is not valid JSON
+--- question-sets/PAGE_0317.json exit=1 ---
+/home/runner/work/eigo/eigo/question-sets/PAGE_0317.json:
+- invalid JSON: Unexpected token '/', "/tmp/s19_g"... is not valid JSON
+
+=== repository validator ===
+- PAGE_0066 has output but progress is pending; validate and mark complete
+- PAGE_0067 has output but progress is pending; validate and mark complete
+- PAGE_0069 has output but progress is pending; validate and mark complete
+- PAGE_0070 has output but progress is pending; validate and mark complete
+- PAGE_0071 has output but progress is pending; validate and mark complete
+- PAGE_0072 has output but progress is pending; validate and mark complete
+- PAGE_0082 has output but progress is pending; validate and mark complete
+- PAGE_0117 has output but progress is pending; validate and mark complete
+- PAGE_0126 has output but progress is pending; validate and mark complete
+- PAGE_0127 has output but progress is pending; validate and mark complete
+- PAGE_0128 has output but progress is pending; validate and mark complete
+- PAGE_0129 has output but progress is pending; validate and mark complete
+- PAGE_0130 has output but progress is pending; validate and mark complete
+- PAGE_0152 has output but progress is pending; validate and mark complete
+- PAGE_0153 has output but progress is pending; validate and mark complete
+- PAGE_0188 has output but progress is pending; validate and mark complete
+- PAGE_0189 has output but progress is pending; validate and mark complete
+- PAGE_0190 has output but progress is pending; validate and mark complete
+- PAGE_0191 has output but progress is pending; validate and mark complete
+- PAGE_0210 has output but progress is pending; validate and mark complete
+- PAGE_0241 has output but progress is pending; validate and mark complete
+- PAGE_0268 has output but progress is pending; validate and mark complete
+- PAGE_0278 has output but progress is pending; validate and mark complete
+- PAGE_0298 has output but progress is pending; validate and mark complete
+- PAGE_0309 has output but progress is pending; validate and mark complete
+- PAGE_0310 has output but progress is pending; validate and mark complete
+- PAGE_0311 has output but progress is pending; validate and mark complete
+- PAGE_0312 has output but progress is pending; validate and mark complete
+- PAGE_0313 has output but progress is pending; validate and mark complete
+- PAGE_0314 has output but progress is pending; validate and mark complete
+- PAGE_0315 has output but progress is pending; validate and mark complete
+- PAGE_0316 has output but progress is pending; validate and mark complete
+- PAGE_0317 has output but progress is pending; validate and mark complete
+- PAGE_0320 has output but progress is pending; validate and mark complete
+- PAGE_0321 has output but progress is pending; validate and mark complete
+- PAGE_0082.json: invalid JSON: Unexpected token '/', "/mnt/data/"... is not valid JSON
+- PAGE_0309.json: invalid JSON: Unexpected token '/', "/tmp/s19_g"... is not valid JSON
+- PAGE_0310.json: invalid JSON: Unexpected token '/', "/tmp/s19_g"... is not valid JSON
+- PAGE_0311.json: invalid JSON: Unexpected token '/', "/tmp/s19_g"... is not valid JSON
+- PAGE_0312.json: invalid JSON: Unexpected token '/', "/tmp/s19_g"... is not valid JSON
+- PAGE_0313.json: invalid JSON: Unexpected token '/', "/tmp/s19_g"... is not valid JSON
+- PAGE_0314.json: invalid JSON: Unexpected token '/', "/tmp/s19_g"... is not valid JSON
+- PAGE_0315.json: invalid JSON: Unexpected token '/', "/tmp/s19_g"... is not valid JSON
+- PAGE_0316.json: invalid JSON: Unexpected token '/', "/tmp/s19_g"... is not valid JSON
+- PAGE_0317.json: invalid JSON: Unexpected token '/', "/tmp/s19_g"... is not valid JSON
+exit=1
