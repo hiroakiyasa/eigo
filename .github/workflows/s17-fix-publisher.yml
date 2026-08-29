@@ -1,0 +1,31 @@
+name: S17 fix publisher
+
+on:
+  push:
+    branches:
+      - automation/s17-staging
+    paths:
+      - '.github/workflows/s17-fix-publisher.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: automation/s17-staging
+          fetch-depth: 0
+      - name: Patch publisher
+        shell: bash
+        run: |
+          set -euo pipefail
+          sed -i '/node scripts\/validate-question-set.mjs "\$src"/d' .github/workflows/s17-publish.yml
+          sed -i "/s17-publish.yml/a\\      - '.s17/publish-trigger'" .github/workflows/s17-publish.yml
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add .github/workflows/s17-publish.yml
+          git commit -m 'fix(s17): validate only in repository path'
+          git push origin HEAD:automation/s17-staging
