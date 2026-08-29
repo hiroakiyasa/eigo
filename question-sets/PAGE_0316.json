@@ -1,1 +1,677 @@
-/tmp/s19_generated/PAGE_0316.json
+{
+  "schemaVersion": 1,
+  "page": {
+    "number": 316,
+    "id": "grammar-master-0316",
+    "title": "asはイコール、likeは類似",
+    "image": "pages/PAGE_0316.webp",
+    "sourcePrompt": "source-prompts/PAGE_0316.txt"
+  },
+  "analysis": {
+    "summaryJa": "asは「同一・役割・とおり」という等号の感覚を持ち、実際の立場、AをBとみなす判断、指示どおりの方法、二つの変化の並行を表す。likeは同一ではなく外見や方法の類似を表す。As your adviserは実際に助言者である立場、Like your adviserは助言者に似た別人という違いになる。",
+    "grammarPoints": [
+      "as＋役割による実際の立場",
+      "regard / describe / treat A as Bの判断",
+      "as＋節による指示どおりの方法",
+      "as expectedなどの省略表現",
+      "like＋名詞による類似",
+      "as＋変化で「〜につれて」"
+    ],
+    "visualEvidence": [
+      "中央の等号がasの同一性を示している",
+      "IDカードが実際の役割としてのasを示す",
+      "鏡がlikeの類似を表している",
+      "二本のグラフがasによる並行変化を示す",
+      "両親の比較図がLikeとAsで人物関係が変わることを示す"
+    ],
+    "commonTraps": [
+      "実際の役割にlikeを使う",
+      "単なる類似にasを使って同一性を示してしまう",
+      "regard A as Bのasを省く",
+      "as I showed youの後を名詞句だけにする",
+      "asの比例変化を理由だけに解釈する"
+    ]
+  },
+  "questions": [
+    {
+      "id": "PAGE_0316_Q01",
+      "format": "part5-cloze",
+      "prompt": "------- the project coordinator, Ms. Ito will approve all schedule changes.",
+      "choices": {
+        "A": "Like",
+        "B": "While",
+        "C": "As",
+        "D": "Because of"
+      },
+      "correctAnswer": "C",
+      "translationJa": "プロジェクト調整役として、伊藤さんがすべての日程変更を承認します。",
+      "explanationJa": "実際の役割を示すためAsが適切です。",
+      "focus": "as＋実際の役割",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0316_Q02",
+      "format": "part5-cloze",
+      "prompt": "The committee regards the revised policy ------- a practical compromise.",
+      "choices": {
+        "A": "as",
+        "B": "like",
+        "C": "for",
+        "D": "with"
+      },
+      "correctAnswer": "A",
+      "translationJa": "委員会は改訂方針を現実的な妥協案とみなしています。",
+      "explanationJa": "regard A as Bという判断の固定構造です。",
+      "focus": "regard A as B",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0316_Q03",
+      "format": "part5-cloze",
+      "prompt": "The new terminal is shaped ------- a curved sail.",
+      "choices": {
+        "A": "as",
+        "B": "during",
+        "C": "because",
+        "D": "like"
+      },
+      "correctAnswer": "D",
+      "translationJa": "新ターミナルは湾曲した帆のような形をしています。",
+      "explanationJa": "外見の類似を表すためlike＋名詞が適切です。",
+      "focus": "likeと外見の類似",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0316_Q04",
+      "format": "part5-cloze",
+      "prompt": "Please arrange the sample boxes ------- I demonstrated during the training session.",
+      "choices": {
+        "A": "like",
+        "B": "as",
+        "C": "because of",
+        "D": "despite"
+      },
+      "correctAnswer": "B",
+      "translationJa": "研修で私が実演したとおりに、試料箱を並べてください。",
+      "explanationJa": "完全な節を伴い「示したとおり」を表すasが正解です。",
+      "focus": "as＋方法の節",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0316_Q05",
+      "format": "part5-cloze",
+      "prompt": "------- expected, demand for the weekend service increased during the holiday period.",
+      "choices": {
+        "A": "As",
+        "B": "Like",
+        "C": "Although",
+        "D": "Until"
+      },
+      "correctAnswer": "A",
+      "translationJa": "予想どおり、連休期間には週末サービスの需要が増えました。",
+      "explanationJa": "as expectedという「予想されたとおり」の省略表現です。",
+      "focus": "as expected",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0316_Q06",
+      "format": "part5-cloze",
+      "prompt": "The cloud above the factory looked ------- a column of smoke, but it was only steam.",
+      "choices": {
+        "A": "as",
+        "B": "for",
+        "C": "like",
+        "D": "by"
+      },
+      "correctAnswer": "C",
+      "translationJa": "工場上空の雲は煙の柱のように見えましたが、ただの蒸気でした。",
+      "explanationJa": "実体は異なるが外見が似ているためlikeです。",
+      "focus": "look like",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0316_Q07",
+      "format": "part5-cloze",
+      "prompt": "------- online orders grew, the warehouse added more packing stations.",
+      "choices": {
+        "A": "Like",
+        "B": "As",
+        "C": "Despite",
+        "D": "Until"
+      },
+      "correctAnswer": "B",
+      "translationJa": "オンライン注文が増えるにつれて、倉庫は梱包台を増設しました。",
+      "explanationJa": "二つの変化が並行して進むことをAsが示します。",
+      "focus": "asと比例変化",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0316_Q08",
+      "format": "part5-cloze",
+      "prompt": "Employees should treat every complaint ------- an opportunity to improve service.",
+      "choices": {
+        "A": "like",
+        "B": "from",
+        "C": "about",
+        "D": "as"
+      },
+      "correctAnswer": "D",
+      "translationJa": "従業員はすべての苦情をサービス改善の機会として扱うべきです。",
+      "explanationJa": "treat A as BでAをBとして扱う判断を表します。",
+      "focus": "treat A as B",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0316_Q09",
+      "format": "part5-cloze",
+      "prompt": "Fold the protective cover ------- this before placing it in the case.",
+      "choices": {
+        "A": "like",
+        "B": "as",
+        "C": "for",
+        "D": "because"
+      },
+      "correctAnswer": "A",
+      "translationJa": "ケースへ入れる前に、保護カバーをこのように折ってください。",
+      "explanationJa": "指示物thisとの方法の類似はlike thisで表します。",
+      "focus": "like this",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0316_Q10",
+      "format": "part5-cloze",
+      "prompt": "The company described the interruption ------- a temporary maintenance issue.",
+      "choices": {
+        "A": "like",
+        "B": "as",
+        "C": "with",
+        "D": "from"
+      },
+      "correctAnswer": "B",
+      "translationJa": "会社は中断を一時的な保守上の問題と説明しました。",
+      "explanationJa": "describe A as Bで分類・判断を示すためasです。",
+      "focus": "describe A as B",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0316_Q11",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that correctly identifies an actual role.",
+      "choices": {
+        "A": "Like your account manager, I am the person officially assigned to your account.",
+        "B": "As like your account manager, I will review the issue.",
+        "C": "As your account manager is, I review personally the billing.",
+        "D": "As your account manager, I will review the billing issue personally."
+      },
+      "correctAnswer": "D",
+      "translationJa": "担当アカウント管理者として、請求の問題を私が直接確認します。",
+      "explanationJa": "話者が実際にその役割であるためAs＋役割が正しいです。",
+      "focus": "asと実際の立場",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0316_Q12",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that correctly expresses similarity.",
+      "choices": {
+        "A": "The new material feels as natural leather.",
+        "B": "The new material feels like natural leather.",
+        "C": "The new material as feels like natural leather.",
+        "D": "Like the new material feels natural leather as."
+      },
+      "correctAnswer": "B",
+      "translationJa": "新素材は天然皮革のような感触です。",
+      "explanationJa": "別物どうしの感触の類似をfeel like＋名詞で表しています。",
+      "focus": "feel likeと類似",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0316_Q13",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that correctly uses “regard”.",
+      "choices": {
+        "A": "Investors regard the merger like a positive development.",
+        "B": "Investors regard as the merger a positive development.",
+        "C": "Investors regard the merger as a positive development.",
+        "D": "Investors regard the merger to a positive development."
+      },
+      "correctAnswer": "C",
+      "translationJa": "投資家は合併を前向きな展開とみなしています。",
+      "explanationJa": "regard A as Bの語順が正しく使われています。",
+      "focus": "regard A as Bの語順",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0316_Q14",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that means “do it in the manner I explained.”",
+      "choices": {
+        "A": "Complete the form as I explained during orientation.",
+        "B": "Complete the form like I explained it as a role.",
+        "C": "Complete as the form I explained during orientation.",
+        "D": "Complete the form as of my explanation during orientation."
+      },
+      "correctAnswer": "A",
+      "translationJa": "オリエンテーションで説明したとおりに用紙を記入してください。",
+      "explanationJa": "as＋節が説明どおりの方法を示す正しい文です。",
+      "focus": "方法のas",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0316_Q15",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that correctly uses a reduced “as” phrase.",
+      "choices": {
+        "A": "Like expected, the afternoon session attracted the largest audience.",
+        "B": "As expecting, the afternoon session attracted the largest audience.",
+        "C": "Expected as, the afternoon session attracted the largest audience.",
+        "D": "As expected, the afternoon session attracted the largest audience."
+      },
+      "correctAnswer": "D",
+      "translationJa": "予想どおり、午後の部が最大の聴衆を集めました。",
+      "explanationJa": "as expectedは「予想されたとおり」の定型的な省略表現です。",
+      "focus": "as expectedの正用",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0316_Q16",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that correctly describes parallel change.",
+      "choices": {
+        "A": "Like fuel prices rose, transportation costs increased.",
+        "B": "As fuel prices rising, transportation costs increased.",
+        "C": "As fuel prices rose, transportation costs increased.",
+        "D": "Transportation costs as increased fuel prices rose."
+      },
+      "correctAnswer": "C",
+      "translationJa": "燃料価格が上がるにつれて、輸送費も増加しました。",
+      "explanationJa": "二つの変化をasで並行して示しています。",
+      "focus": "asと二変化",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0316_Q17",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence in which “like” means resemblance, not identity.",
+      "choices": {
+        "A": "This portable speaker looks as a small lantern.",
+        "B": "This portable speaker looks like a small lantern.",
+        "C": "As a small lantern, the speaker only resembles one but is not used as one.",
+        "D": "This speaker like looks a lantern small."
+      },
+      "correctAnswer": "B",
+      "translationJa": "この携帯スピーカーは小さなランタンのように見えます。",
+      "explanationJa": "実際にはランタンではなく形が似ているためlooks likeが正しいです。",
+      "focus": "look likeと非同一",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0316_Q18",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that correctly uses “treat A as B”.",
+      "choices": {
+        "A": "The system treats a missing signature like an incomplete application officially classified.",
+        "B": "The system treats as a missing signature an incomplete application.",
+        "C": "The system treats a missing signature for an incomplete application.",
+        "D": "The system treats a missing signature as an incomplete application."
+      },
+      "correctAnswer": "D",
+      "translationJa": "システムは署名の欠落を不完全な申請として扱います。",
+      "explanationJa": "分類上の同一視をtreat A as Bで表しています。",
+      "focus": "treat A as Bの正用",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0316_Q19",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that correctly distinguishes role from resemblance.",
+      "choices": {
+        "A": "Like the event host, Leo was officially the event host.",
+        "B": "As like the host, Leo welcomed every guest.",
+        "C": "As the event host, Leo welcomed every guest at the entrance.",
+        "D": "Leo as welcomed the event host every guest."
+      },
+      "correctAnswer": "C",
+      "translationJa": "イベント司会者として、レオは入口ですべての来客を迎えました。",
+      "explanationJa": "レオ自身が実際の司会者なのでAsを用います。",
+      "focus": "asと役割同一性",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0316_Q20",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that correctly uses “like this”.",
+      "choices": {
+        "A": "Hold the scanner like this to read the barcode.",
+        "B": "Hold the scanner as this to read the barcode.",
+        "C": "Hold like the scanner this to read the barcode.",
+        "D": "As this scanner hold, read the barcode."
+      },
+      "correctAnswer": "A",
+      "translationJa": "バーコードを読むにはスキャナーをこのように持ってください。",
+      "explanationJa": "目の前の方法との類似をlike thisで自然に示しています。",
+      "focus": "like thisの方法",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0316_Q21",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “As the safety officer, Mina must inspect the equipment.”",
+      "choices": {
+        "A": "Mina must inspect the equipment because that duty belongs to her actual role.",
+        "B": "Mina merely resembles the safety officer but has no such duty.",
+        "C": "The equipment acts in the role of Mina.",
+        "D": "Mina inspects only objects that look like safety officers."
+      },
+      "correctAnswer": "A",
+      "translationJa": "ミナは実際の安全担当者として、その職務で機器を検査しなければなりません。",
+      "explanationJa": "役割のasは話者・主語が実際にその立場であることを示します。",
+      "focus": "as＋役割の意味",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0316_Q22",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “The building looks like a ship.”",
+      "choices": {
+        "A": "The building is officially used in the role of a ship.",
+        "B": "The ship considers the building identical to itself.",
+        "C": "The building became a ship as prices rose.",
+        "D": "The building resembles a ship in appearance."
+      },
+      "correctAnswer": "D",
+      "translationJa": "その建物は外見が船に似ています。",
+      "explanationJa": "likeは同一性ではなく類似を表します。",
+      "focus": "likeの類似意味",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0316_Q23",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “We regard punctuality as essential.”",
+      "choices": {
+        "A": "We think punctuality merely resembles something essential.",
+        "B": "Punctuality decreased as the meeting continued.",
+        "C": "We consider punctuality to be essential.",
+        "D": "We avoid considering punctuality at all."
+      },
+      "correctAnswer": "C",
+      "translationJa": "私たちは時間厳守を不可欠だと考えています。",
+      "explanationJa": "regard A as Bはconsider A to be Bと同義です。",
+      "focus": "regard asの言い換え",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0316_Q24",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “Arrange the chairs as the diagram shows.”",
+      "choices": {
+        "A": "Make the chairs resemble the material of the diagram.",
+        "B": "Put the chairs in the arrangement indicated by the diagram.",
+        "C": "Use the diagram as an actual chair.",
+        "D": "Ignore the diagram and arrange the chairs differently."
+      },
+      "correctAnswer": "B",
+      "translationJa": "図が示す配置どおりに椅子を置いてください。",
+      "explanationJa": "方法のasは図の指示に一致させることを示します。",
+      "focus": "as＋節の方法",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0316_Q25",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “As demand fell, delivery times became shorter.”",
+      "choices": {
+        "A": "Delivery times shortened while demand was decreasing.",
+        "B": "Demand increased after delivery times became longer.",
+        "C": "Delivery times and demand never changed.",
+        "D": "Short deliveries caused demand to rise sharply."
+      },
+      "correctAnswer": "A",
+      "translationJa": "需要が減るにつれて、配送時間は短くなりました。",
+      "explanationJa": "変化のasは二つの推移が並行することを表します。",
+      "focus": "asと並行推移",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0316_Q26",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “As expected, the new café was busy on opening day.”",
+      "choices": {
+        "A": "The crowd was surprising because nobody expected visitors.",
+        "B": "The café looked like an expectation rather than a business.",
+        "C": "The café’s opening-day crowd matched what people had predicted.",
+        "D": "The café closed before opening day because it was empty."
+      },
+      "correctAnswer": "C",
+      "translationJa": "新しいカフェの開店日の混雑は予想どおりでした。",
+      "explanationJa": "as expectedは結果が予想と一致したことを示します。",
+      "focus": "as expectedの意味",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0316_Q27",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “Treat this email as confidential.”",
+      "choices": {
+        "A": "Make the email look similar to a public notice.",
+        "B": "Share the email because it is not confidential.",
+        "C": "Delete every email that resembles this one.",
+        "D": "Handle this email as information that must not be shared."
+      },
+      "correctAnswer": "D",
+      "translationJa": "このメールを共有してはいけない情報として扱ってください。",
+      "explanationJa": "treat A as Bが情報を機密として分類する意味です。",
+      "focus": "treat asの意味",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0316_Q28",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “Fold the brochure like this.”",
+      "choices": {
+        "A": "Use the demonstrated fold as a model for the brochure.",
+        "B": "Treat the brochure as if it were actually this object.",
+        "C": "Fold the model because the brochure is identical to it.",
+        "D": "Ignore the demonstrated method and roll the brochure."
+      },
+      "correctAnswer": "A",
+      "translationJa": "示された折り方を見本にしてパンフレットを折ってください。",
+      "explanationJa": "like thisは示された方法との類似を求めています。",
+      "focus": "like thisの言い換え",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0316_Q29",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “The report describes the delay as unavoidable.”",
+      "choices": {
+        "A": "The report says the delay resembles an avoidable event.",
+        "B": "The report characterizes the delay as something that could not be prevented.",
+        "C": "The delay describes the report as unfinished.",
+        "D": "The report prevented the delay from occurring."
+      },
+      "correctAnswer": "B",
+      "translationJa": "報告書は遅延を避けられなかったものと位置づけています。",
+      "explanationJa": "describe A as Bの判断内容をcharacterizeで言い換えています。",
+      "focus": "describe asの意味",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0316_Q30",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “Like the previous model, this printer supports wireless connections.”",
+      "choices": {
+        "A": "This printer is being used in the official role of the previous model.",
+        "B": "Only the previous model lacks wireless support.",
+        "C": "This printer and the previous model share the wireless feature.",
+        "D": "The printers are identical in every possible respect."
+      },
+      "correctAnswer": "C",
+      "translationJa": "このプリンターと旧機種には無線機能という共通点があります。",
+      "explanationJa": "likeは特定の点の類似を表し完全な同一を意味しません。",
+      "focus": "likeと共通点",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0316_Q31",
+      "format": "context-completion",
+      "prompt": "------- the lead designer, Mr. Chen will make the final decision on colors.",
+      "choices": {
+        "A": "Like",
+        "B": "As",
+        "C": "While",
+        "D": "Because of"
+      },
+      "correctAnswer": "B",
+      "translationJa": "主任デザイナーとして、チェンさんが色の最終決定を行います。",
+      "explanationJa": "チェンさんの実際の役割を示すためAsです。",
+      "focus": "as＋職務",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0316_Q32",
+      "format": "context-completion",
+      "prompt": "The committee classified the incident ------- a minor safety violation.",
+      "choices": {
+        "A": "like",
+        "B": "for",
+        "C": "with",
+        "D": "as"
+      },
+      "correctAnswer": "D",
+      "translationJa": "委員会はその出来事を軽微な安全違反と分類しました。",
+      "explanationJa": "classify A as Bという分類の構造です。",
+      "focus": "classify A as B",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0316_Q33",
+      "format": "context-completion",
+      "prompt": "The new reception desk is curved ------- a crescent moon.",
+      "choices": {
+        "A": "like",
+        "B": "as",
+        "C": "during",
+        "D": "because"
+      },
+      "correctAnswer": "A",
+      "translationJa": "新しい受付カウンターは三日月のように湾曲しています。",
+      "explanationJa": "外形の類似をlike＋名詞で示します。",
+      "focus": "likeと形の類似",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0316_Q34",
+      "format": "context-completion",
+      "prompt": "Please configure the settings ------- the manual instructs.",
+      "choices": {
+        "A": "like",
+        "B": "because of",
+        "C": "as",
+        "D": "despite"
+      },
+      "correctAnswer": "C",
+      "translationJa": "説明書の指示どおりに設定してください。",
+      "explanationJa": "完全な節the manual instructsを受ける方法のasです。",
+      "focus": "as＋指示節",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0316_Q35",
+      "format": "context-completion",
+      "prompt": "------- anticipated, the morning train was crowded before the holiday.",
+      "choices": {
+        "A": "Like",
+        "B": "Although",
+        "C": "Until",
+        "D": "As"
+      },
+      "correctAnswer": "D",
+      "translationJa": "予想どおり、連休前の朝の列車は混雑していました。",
+      "explanationJa": "予想との一致を示すAs anticipatedが適切です。",
+      "focus": "as anticipated",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0316_Q36",
+      "format": "context-completion",
+      "prompt": "The portable heater is designed ------- a small suitcase, making it easy to carry.",
+      "choices": {
+        "A": "as",
+        "B": "like",
+        "C": "for",
+        "D": "by"
+      },
+      "correctAnswer": "B",
+      "translationJa": "携帯暖房器は小さなスーツケースのように設計され、持ち運びやすくなっています。",
+      "explanationJa": "外見・形状の類似を示すlikeが合います。",
+      "focus": "likeとデザイン類似",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0316_Q37",
+      "format": "context-completion",
+      "prompt": "------- membership increased, the gym extended its weekend hours.",
+      "choices": {
+        "A": "As",
+        "B": "Like",
+        "C": "Despite",
+        "D": "Until"
+      },
+      "correctAnswer": "A",
+      "translationJa": "会員数が増えるにつれて、ジムは週末営業時間を延長しました。",
+      "explanationJa": "会員増と営業時間拡大の並行変化をAsで表します。",
+      "focus": "asと並行変化",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0316_Q38",
+      "format": "context-completion",
+      "prompt": "The insurer treated the damaged package ------- a total loss.",
+      "choices": {
+        "A": "like",
+        "B": "from",
+        "C": "about",
+        "D": "as"
+      },
+      "correctAnswer": "D",
+      "translationJa": "保険会社は破損した荷物を全損として扱いました。",
+      "explanationJa": "treat A as Bの判断・分類なのでasです。",
+      "focus": "treat asと保険判断",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0316_Q39",
+      "format": "context-completion",
+      "prompt": "Hold the identification card ------- this so the camera can scan it.",
+      "choices": {
+        "A": "as",
+        "B": "for",
+        "C": "like",
+        "D": "because"
+      },
+      "correctAnswer": "C",
+      "translationJa": "カメラが読み取れるよう、身分証をこのように持ってください。",
+      "explanationJa": "示された持ち方との類似をlike thisで表します。",
+      "focus": "like thisと操作方法",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0316_Q40",
+      "format": "context-completion",
+      "prompt": "The article presents remote work ------- a long-term change rather than a temporary trend.",
+      "choices": {
+        "A": "like",
+        "B": "as",
+        "C": "with",
+        "D": "from"
+      },
+      "correctAnswer": "B",
+      "translationJa": "記事は遠隔勤務を一時的流行ではなく長期的変化として提示しています。",
+      "explanationJa": "present A as Bで見方・位置づけを表すためasです。",
+      "focus": "present A as B",
+      "difficulty": "intermediate"
+    }
+  ]
+}
