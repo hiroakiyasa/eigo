@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-29T05:05:06.272Z",
+  "updatedAt": "2026-08-29T05:07:09.753Z",
   "totalPages": 330,
-  "completedPages": 56,
+  "completedPages": 57,
   "questionsPerPage": 40,
   "totalPlannedQuestions": 13200,
   "pages": [
@@ -466,9 +466,9 @@
       "number": 58,
       "id": "grammar-master-0058",
       "title": "情報は、頭と心を旅する",
-      "status": "pending",
+      "status": "complete",
       "output": "question-sets/PAGE_0058.json",
-      "completedAt": null
+      "completedAt": "2026-08-29T05:07:09.753Z"
     },
     {
       "number": 59,

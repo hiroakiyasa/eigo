@@ -68,7 +68,7 @@
 | 55 | 作る・持つ・許す・見る | [PAGE_0055](pages/PAGE_0055.webp) | [原稿](source-prompts/PAGE_0055.txt) | [40問](question-sets/PAGE_0055.json) |
 | 56 | 見る・聞くは、動作か感覚か | [PAGE_0056](pages/PAGE_0056.webp) | [原稿](source-prompts/PAGE_0056.txt) | [40問](question-sets/PAGE_0056.json) |
 | 57 | 感じる動詞・伝える動詞 | [PAGE_0057](pages/PAGE_0057.webp) | [原稿](source-prompts/PAGE_0057.txt) | [40問](question-sets/PAGE_0057.json) |
-| 58 | 情報は、頭と心を旅する | [PAGE_0058](pages/PAGE_0058.webp) | [原稿](source-prompts/PAGE_0058.txt) | `pending` |
+| 58 | 情報は、頭と心を旅する | [PAGE_0058](pages/PAGE_0058.webp) | [原稿](source-prompts/PAGE_0058.txt) | [40問](question-sets/PAGE_0058.json) |
 | 59 | want は、足りないから欲しい | [PAGE_0059](pages/PAGE_0059.webp) | [原稿](source-prompts/PAGE_0059.txt) | `pending` |
 
 ## 名詞の世界（60〜108）
