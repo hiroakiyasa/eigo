@@ -193,7 +193,7 @@
 | 165 | mayは、可能性のドアも開く | [PAGE_0165](pages/PAGE_0165.webp) | [原稿](source-prompts/PAGE_0165.txt) | `pending` |
 | 166 | willは、未来を見通す力 | [PAGE_0166](pages/PAGE_0166.webp) | [原稿](source-prompts/PAGE_0166.txt) | [40問](question-sets/PAGE_0166.json) |
 | 167 | willは、“今決めた”意志 | [PAGE_0167](pages/PAGE_0167.webp) | [原稿](source-prompts/PAGE_0167.txt) | [40問](question-sets/PAGE_0167.json) |
-| 168 | canは、内にある可能性 | [PAGE_0168](pages/PAGE_0168.webp) | [原稿](source-prompts/PAGE_0168.txt) | `pending` |
+| 168 | canは、内にある可能性 | [PAGE_0168](pages/PAGE_0168.webp) | [原稿](source-prompts/PAGE_0168.txt) | [40問](question-sets/PAGE_0168.json) |
 | 169 | canで性質と限界を見抜く | [PAGE_0169](pages/PAGE_0169.webp) | [原稿](source-prompts/PAGE_0169.txt) | `pending` |
 | 170 | shallは、進むべき一本道 | [PAGE_0170](pages/PAGE_0170.webp) | [原稿](source-prompts/PAGE_0170.txt) | `pending` |
 | 171 | 誘いの shall と助言の should | [PAGE_0171](pages/PAGE_0171.webp) | [原稿](source-prompts/PAGE_0171.txt) | `pending` |
@@ -243,7 +243,7 @@
 | 205 | 人はwhom、ものはwhich？ | [PAGE_0205](pages/PAGE_0205.webp) | [原稿](source-prompts/PAGE_0205.txt) | `pending` |
 | 206 | whichで“どのもの？”を説明 | [PAGE_0206](pages/PAGE_0206.webp) | [原稿](source-prompts/PAGE_0206.txt) | `pending` |
 | 207 | 目的語なら省略できる、主語なら必要 | [PAGE_0207](pages/PAGE_0207.webp) | [原稿](source-prompts/PAGE_0207.txt) | `pending` |
-| 208 | thatは、選ばずスムーズにつなぐ | [PAGE_0208](pages/PAGE_0208.webp) | [原稿](source-prompts/PAGE_0208.txt) | `pending` |
+| 208 | thatは、選ばずスムーズにつなぐ | [PAGE_0208](pages/PAGE_0208.webp) | [原稿](source-prompts/PAGE_0208.txt) | [40問](question-sets/PAGE_0208.json) |
 | 209 | カンマの注釈とwhereの場所案内 | [PAGE_0209](pages/PAGE_0209.webp) | [原稿](source-prompts/PAGE_0209.txt) | `pending` |
 | 210 | where・when・whyで背景を説明 | [PAGE_0210](pages/PAGE_0210.webp) | [原稿](source-prompts/PAGE_0210.txt) | `pending` |
 | 211 | wh語なしでも後ろから説明 | [PAGE_0211](pages/PAGE_0211.webp) | [原稿](source-prompts/PAGE_0211.txt) | `pending` |
