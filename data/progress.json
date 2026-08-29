@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-29T03:55:21.913Z",
+  "updatedAt": "2026-08-29T03:57:09.276Z",
   "totalPages": 330,
-  "completedPages": 49,
+  "completedPages": 50,
   "questionsPerPage": 40,
   "totalPlannedQuestions": 13200,
   "pages": [
@@ -410,9 +410,9 @@
       "number": 51,
       "id": "grammar-master-0051",
       "title": "動きの向きを見よう",
-      "status": "pending",
+      "status": "complete",
       "output": "question-sets/PAGE_0051.json",
-      "completedAt": null
+      "completedAt": "2026-08-29T03:57:09.276Z"
     },
     {
       "number": 52,
