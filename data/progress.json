@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-29T05:22:21.208Z",
+  "updatedAt": "2026-08-29T05:22:41.521Z",
   "totalPages": 330,
-  "completedPages": 81,
+  "completedPages": 83,
   "questionsPerPage": 40,
   "totalPlannedQuestions": 13200,
   "pages": [
@@ -1898,9 +1898,9 @@
       "number": 237,
       "id": "grammar-master-0237",
       "title": "性質は能動形、前置詞はイメージで",
-      "status": "pending",
+      "status": "complete",
       "output": "question-sets/PAGE_0237.json",
-      "completedAt": null
+      "completedAt": "2026-08-29T05:22:41.309Z"
     },
     {
       "number": 238,
@@ -2354,9 +2354,9 @@
       "number": 294,
       "id": "grammar-master-0294",
       "title": "過去の原因、今の結果",
-      "status": "pending",
+      "status": "complete",
       "output": "question-sets/PAGE_0294.json",
-      "completedAt": null
+      "completedAt": "2026-08-29T05:22:41.521Z"
     },
     {
       "number": 295,
