@@ -211,7 +211,7 @@
 |---:|---|---|---|---|
 | 179 | 前置詞は関係を描く小さな地図 | [PAGE_0179](pages/PAGE_0179.webp) | [原稿](source-prompts/PAGE_0179.txt) | `pending` |
 | 180 | 前置詞句は置き場所で働きが決まる | [PAGE_0180](pages/PAGE_0180.webp) | [原稿](source-prompts/PAGE_0180.txt) | [40問](question-sets/PAGE_0180.json) |
-| 181 | 句動詞は“まとまり方”で見抜く | [PAGE_0181](pages/PAGE_0181.webp) | [原稿](source-prompts/PAGE_0181.txt) | `pending` |
+| 181 | 句動詞は“まとまり方”で見抜く | [PAGE_0181](pages/PAGE_0181.webp) | [原稿](source-prompts/PAGE_0181.txt) | [40問](question-sets/PAGE_0181.json) |
 | 182 | 代名詞は句動詞の真ん中へ | [PAGE_0182](pages/PAGE_0182.webp) | [原稿](source-prompts/PAGE_0182.txt) | `pending` |
 | 183 | at・in・onは同じ場所でも変わる | [PAGE_0183](pages/PAGE_0183.webp) | [原稿](source-prompts/PAGE_0183.txt) | `pending` |
 | 184 | 前置詞は“感じた景色”で選ぶ | [PAGE_0184](pages/PAGE_0184.webp) | [原稿](source-prompts/PAGE_0184.txt) | `pending` |
