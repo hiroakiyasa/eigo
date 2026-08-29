@@ -1,0 +1,674 @@
+{
+  "schemaVersion": 1,
+  "page": {
+    "number": 86,
+    "id": "grammar-master-0086",
+    "title": "anyは、選択肢を全部ひらく",
+    "image": "pages/PAGE_0086.webp",
+    "sourcePrompt": "source-prompts/PAGE_0086.txt"
+  },
+  "analysis": {
+    "summaryJa": "anyは候補を一つに絞らず「どれであっても」という開かれた範囲を作る。そのため、一つでも存在するかを尋ねる疑問、否定語の作用域内で一つもないことを示す否定、どんな場合でも条件に入れるif節、自由選択の肯定文で働く。全員否定ではnot ... anyまたはno oneを用い、anyone ... notの誤順序を避ける。",
+    "grammarPoints": [
+      "疑問文のany＋複数可算名詞／不可算名詞",
+      "not ... anyでゼロを表す否定の作用域",
+      "if節のanyで条件範囲を広く取る",
+      "肯定文のany＋単数名詞で自由選択を表す",
+      "anyoneを主語にした部分否定とno oneによる全否定の区別"
+    ],
+    "visualEvidence": [
+      "ANYから疑問・NOT・IFへ枝分かれする経路図",
+      "NOTの後ろにanyを置く語順の警告表示",
+      "開いた多数の道がanyの非限定性を示す",
+      "質問の扉・否定の障壁・ifの門が各用法を整理する"
+    ],
+    "commonTraps": [
+      "疑問・否定文でsomeを無条件に選ぶ",
+      "notの前にanyを置いて全否定のつもりになる",
+      "anyの後ろの可算名詞を単数・複数で取り違える",
+      "if節のanyを自由選択だけの意味に限定する"
+    ]
+  },
+  "questions": [
+    {
+      "id": "PAGE_0086_Q01",
+      "format": "part5-cloze",
+      "prompt": "Do you have ------- questions about the revised schedule?",
+      "choices": {
+        "A": "some",
+        "B": "every",
+        "C": "any",
+        "D": "much"
+      },
+      "correctAnswer": "C",
+      "translationJa": "改訂日程について何か質問はありますか。",
+      "explanationJa": "不特定の質問が一つでもあるかを尋ねるためany questionsを使います。",
+      "focus": "疑問文のany＋複数名詞",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0086_Q02",
+      "format": "part5-cloze",
+      "prompt": "The warehouse does not have ------- space for another container.",
+      "choices": {
+        "A": "any",
+        "B": "some",
+        "C": "many",
+        "D": "a few"
+      },
+      "correctAnswer": "A",
+      "translationJa": "倉庫には追加のコンテナを置くスペースがまったくありません。",
+      "explanationJa": "notの作用域内で不可算名詞spaceをゼロにするnot have anyの形です。",
+      "focus": "否定文のnot ... any",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0086_Q03",
+      "format": "part5-cloze",
+      "prompt": "If you notice ------- damage, photograph it before unpacking.",
+      "choices": {
+        "A": "some",
+        "B": "many",
+        "C": "every",
+        "D": "any"
+      },
+      "correctAnswer": "D",
+      "translationJa": "何らかの損傷に気づいたら、開梱前に写真を撮ってください。",
+      "explanationJa": "損傷の種類や程度を限定せず条件に入れるためif節でanyを使います。",
+      "focus": "if節のany",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0086_Q04",
+      "format": "part5-cloze",
+      "prompt": "Guests may take ------- available shuttle to the airport.",
+      "choices": {
+        "A": "some",
+        "B": "any",
+        "C": "every",
+        "D": "much"
+      },
+      "correctAnswer": "B",
+      "translationJa": "宿泊客は空港行きの利用可能な送迎バスならどれに乗ってもかまいません。",
+      "explanationJa": "候補のどの一つでもよいという自由選択なのでany＋単数名詞です。",
+      "focus": "肯定文の自由選択any",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0086_Q05",
+      "format": "part5-cloze",
+      "prompt": "We did not receive ------- notice of the delivery delay.",
+      "choices": {
+        "A": "any",
+        "B": "some",
+        "C": "many",
+        "D": "each"
+      },
+      "correctAnswer": "A",
+      "translationJa": "配送遅延についての通知は一切受け取りませんでした。",
+      "explanationJa": "否定語did notの後ろでnoticeの存在を一つも認めないanyを使います。",
+      "focus": "否定の作用域とany",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0086_Q06",
+      "format": "part5-cloze",
+      "prompt": "Are there ------- lockers available near the lobby?",
+      "choices": {
+        "A": "some",
+        "B": "much",
+        "C": "any",
+        "D": "every"
+      },
+      "correctAnswer": "C",
+      "translationJa": "ロビーの近くに利用できるロッカーはありますか。",
+      "explanationJa": "複数ロッカーが一つでも存在するかを尋ねる標準的な疑問文です。",
+      "focus": "存在疑問のany",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0086_Q07",
+      "format": "part5-cloze",
+      "prompt": "If ------- customer requests a receipt, print one immediately.",
+      "choices": {
+        "A": "some",
+        "B": "any",
+        "C": "all",
+        "D": "much"
+      },
+      "correctAnswer": "B",
+      "translationJa": "どのお客様であれ領収書を求めた場合は、すぐに印刷してください。",
+      "explanationJa": "条件に当てはまる顧客を限定しないためany customerを使います。",
+      "focus": "if＋any＋単数名詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0086_Q08",
+      "format": "part5-cloze",
+      "prompt": "You can ask ------- staff member wearing a blue badge.",
+      "choices": {
+        "A": "some",
+        "B": "many",
+        "C": "every",
+        "D": "any"
+      },
+      "correctAnswer": "D",
+      "translationJa": "青いバッジを着けている職員なら誰に尋ねてもかまいません。",
+      "explanationJa": "青いバッジという条件内でどの一人でもよい自由選択です。",
+      "focus": "修飾付きanyの自由選択",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0086_Q09",
+      "format": "part5-cloze",
+      "prompt": "The audit found hardly ------- errors in the expense records.",
+      "choices": {
+        "A": "some",
+        "B": "many",
+        "C": "any",
+        "D": "every"
+      },
+      "correctAnswer": "C",
+      "translationJa": "監査では経費記録に誤りはほとんど見つかりませんでした。",
+      "explanationJa": "hardlyは準否定語で、hardly anyが「ほとんど～ない」を表します。",
+      "focus": "hardly any",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0086_Q10",
+      "format": "part5-cloze",
+      "prompt": "Because the doors are locked, no one can enter; ------- cannot enter is unnatural for full negation.",
+      "choices": {
+        "A": "anyone",
+        "B": "someone",
+        "C": "everyone",
+        "D": "none"
+      },
+      "correctAnswer": "A",
+      "translationJa": "ドアが施錠されているので誰も入れません。全員否定をanyone cannotで表すのは不自然です。",
+      "explanationJa": "全員否定はno one can enterまたはnot ... anyoneとし、anyone cannotの部分否定的な語順を避けます。",
+      "focus": "no oneとanyoneの語順",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0086_Q11",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence asking about available appointments.",
+      "choices": {
+        "A": "Are there some appointment open on Friday?",
+        "B": "Are there any appointments open on Friday?",
+        "C": "Are there much appointments open on Friday?",
+        "D": "Are there any appointment open on Friday?"
+      },
+      "correctAnswer": "B",
+      "translationJa": "金曜日に空いている予約枠はありますか。",
+      "explanationJa": "存在を尋ねる疑問文ではanyを使い、複数動詞areにはappointmentsを合わせます。",
+      "focus": "疑問文のanyと数の一致",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0086_Q12",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence denying the existence of complaints.",
+      "choices": {
+        "A": "We have any not received complaints this month.",
+        "B": "We have not received some complaint, meaning none.",
+        "C": "We have not received much complaints this month.",
+        "D": "We have not received any complaints this month."
+      },
+      "correctAnswer": "D",
+      "translationJa": "今月、苦情は一件も受けていません。",
+      "explanationJa": "not received any complaintsで、否定の範囲内にanyを置いてゼロを表します。",
+      "focus": "not ... anyの語順",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0086_Q13",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence stating a broad condition.",
+      "choices": {
+        "A": "If any alarm sounds, leave the building at once.",
+        "B": "If some alarm sounds, regardless of which one, leave at once.",
+        "C": "Any alarm if sounds, leave the building at once.",
+        "D": "If much alarm sounds, leave the building at once."
+      },
+      "correctAnswer": "A",
+      "translationJa": "どの警報であれ鳴った場合は、すぐ建物から出てください。",
+      "explanationJa": "if節内のany alarmが、条件に含む警報を限定しません。",
+      "focus": "条件節のany",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0086_Q14",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence allowing unrestricted selection.",
+      "choices": {
+        "A": "Participants may join every workshop at the same time.",
+        "B": "Participants may join some workshop, with all choices equally allowed.",
+        "C": "Participants may join any workshop that still has space.",
+        "D": "Participants may join much workshop that still has space."
+      },
+      "correctAnswer": "C",
+      "translationJa": "参加者は空きのある研修ならどれに参加してもかまいません。",
+      "explanationJa": "that節で候補を絞った後、そのどれでもよいことをanyで示します。",
+      "focus": "any＋関係節の自由選択",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0086_Q15",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about a lack of information.",
+      "choices": {
+        "A": "The notice any does not provide contact information.",
+        "B": "The notice does not provide many contact information.",
+        "C": "The notice does not provide an contact information.",
+        "D": "The notice does not provide any contact information."
+      },
+      "correctAnswer": "D",
+      "translationJa": "その通知には連絡先情報がまったく記載されていません。",
+      "explanationJa": "不可算informationを否定するnot provide anyの語順が正しいです。",
+      "focus": "any＋不可算名詞の否定",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0086_Q16",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence asking whether supplies remain.",
+      "choices": {
+        "A": "Do we have many printer paper left?",
+        "B": "Do we have any printer paper left?",
+        "C": "Do we have an printer paper left?",
+        "D": "Do we have every printer paper left?"
+      },
+      "correctAnswer": "B",
+      "translationJa": "プリンター用紙は残っていますか。",
+      "explanationJa": "不可算のprinter paperが少しでもあるかを尋ねるのでanyを用います。",
+      "focus": "疑問文のany＋不可算名詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0086_Q17",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence giving a universal permission.",
+      "choices": {
+        "A": "You may park in all unreserved space at once.",
+        "B": "You may park in much unreserved space.",
+        "C": "You may park in any unreserved space.",
+        "D": "You may park in any unreserved spaces for one car."
+      },
+      "correctAnswer": "C",
+      "translationJa": "予約されていない区画ならどこに駐車してもかまいません。",
+      "explanationJa": "一台が候補のどの一つを選んでもよいためany＋単数spaceが自然です。",
+      "focus": "許可とany＋単数",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0086_Q18",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence meaning that nobody is authorized.",
+      "choices": {
+        "A": "No one is authorized to alter the signed contract.",
+        "B": "Anyone is not authorized to alter the signed contract.",
+        "C": "Someone is not authorized, meaning nobody is.",
+        "D": "Everyone is not authorized, with an unambiguous full negation."
+      },
+      "correctAnswer": "A",
+      "translationJa": "署名済み契約書を変更する権限は誰にもありません。",
+      "explanationJa": "明確な全員否定にはNo oneを主語にします。Anyone is notは通常その意味を自然には表しません。",
+      "focus": "no oneによる全否定",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0086_Q19",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence using any under a negative-like word.",
+      "choices": {
+        "A": "The report scarcely contains some useful details, meaning none.",
+        "B": "The report contains scarcely many useful detail.",
+        "C": "The report contains any scarcely useful detail.",
+        "D": "The report contains scarcely any useful detail."
+      },
+      "correctAnswer": "D",
+      "translationJa": "その報告書には役立つ詳細がほとんどありません。",
+      "explanationJa": "scarcelyは否定に近い意味を持つためscarcely anyが自然です。",
+      "focus": "scarcely any",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0086_Q20",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence covering all possible cases.",
+      "choices": {
+        "A": "If you encounter every difficulty, contact the support desk.",
+        "B": "If you encounter any difficulty, contact the support desk.",
+        "C": "If any you encounter difficulty, contact the support desk.",
+        "D": "If you encounter much difficulties, contact the support desk."
+      },
+      "correctAnswer": "B",
+      "translationJa": "どのような問題でも生じたら、サポート窓口へ連絡してください。",
+      "explanationJa": "if節でany difficultyとすると、種類を問わず問題を条件に含められます。",
+      "focus": "条件範囲を広げるany",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0086_Q21",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"Do you have any receipts?\"",
+      "choices": {
+        "A": "The speaker knows that several receipts exist.",
+        "B": "The speaker is offering receipts.",
+        "C": "The speaker requires every receipt to be destroyed.",
+        "D": "The speaker is asking whether at least one receipt exists."
+      },
+      "correctAnswer": "D",
+      "translationJa": "話し手は領収書が一枚でも存在するか尋ねています。",
+      "explanationJa": "疑問文のanyは、不特定の候補から一つ以上の存在を問います。",
+      "focus": "疑問anyの存在確認",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0086_Q22",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"We do not have any vacancies.\"",
+      "choices": {
+        "A": "We have several unspecified vacancies.",
+        "B": "We have no vacancies.",
+        "C": "Every vacancy is open.",
+        "D": "We have hardly filled the vacancies."
+      },
+      "correctAnswer": "B",
+      "translationJa": "空きは一つもありません。",
+      "explanationJa": "not ... anyはno＋名詞と同じく数量ゼロを表します。",
+      "focus": "not anyとnoの言い換え",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0086_Q23",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"If you receive any update, notify me.\"",
+      "choices": {
+        "A": "Notify me only if you receive a particular update.",
+        "B": "Do not notify me when an update arrives.",
+        "C": "Notify me regardless of what update you receive.",
+        "D": "Notify every update instead of me."
+      },
+      "correctAnswer": "C",
+      "translationJa": "どのような更新情報を受け取っても私に知らせてください。",
+      "explanationJa": "if節のanyは更新情報の種類を限定せず条件範囲を広げます。",
+      "focus": "if anyの非限定性",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0086_Q24",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"Choose any payment method.\"",
+      "choices": {
+        "A": "Every payment method is an acceptable option.",
+        "B": "All payment methods must be used together.",
+        "C": "Only cash is acceptable.",
+        "D": "No payment method can be chosen."
+      },
+      "correctAnswer": "A",
+      "translationJa": "支払い方法はどれを選んでも受け入れられます。",
+      "explanationJa": "肯定文のanyは自由選択を表し、every option is acceptableと言い換えられます。",
+      "focus": "自由選択anyの言い換え",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0086_Q25",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"There is not any milk in the refrigerator.\"",
+      "choices": {
+        "A": "There is some milk in the refrigerator.",
+        "B": "There is no milk in the refrigerator.",
+        "C": "Every carton is in the refrigerator.",
+        "D": "There is little but definitely some milk."
+      },
+      "correctAnswer": "B",
+      "translationJa": "冷蔵庫に牛乳はまったくありません。",
+      "explanationJa": "not any milkは不可算名詞の量がゼロであることを表します。",
+      "focus": "not any＋不可算名詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0086_Q26",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"Any employee can submit a suggestion.\"",
+      "choices": {
+        "A": "Every employee must submit a suggestion.",
+        "B": "Only one named employee may submit a suggestion.",
+        "C": "No employee may submit a suggestion.",
+        "D": "It does not matter which employee submits a suggestion."
+      },
+      "correctAnswer": "D",
+      "translationJa": "どの従業員でも提案を提出できます。",
+      "explanationJa": "肯定文のany employeeは、誰を選んでも許可されることを表します。",
+      "focus": "any＋単数の許可",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0086_Q27",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"Hardly any seats remain.\"",
+      "choices": {
+        "A": "Almost no seats remain.",
+        "B": "Many seats remain.",
+        "C": "Every seat remains available.",
+        "D": "A particular seat remains."
+      },
+      "correctAnswer": "A",
+      "translationJa": "残っている席はほとんどありません。",
+      "explanationJa": "hardly anyはalmost noと同じく、ほぼゼロの数量を表します。",
+      "focus": "hardly anyとalmost no",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0086_Q28",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"No one answered the hotline.\"",
+      "choices": {
+        "A": "Someone answered the hotline.",
+        "B": "Everyone answered the hotline.",
+        "C": "The hotline was not answered by anyone.",
+        "D": "Anyone did not answer only one call."
+      },
+      "correctAnswer": "C",
+      "translationJa": "誰もホットラインに応答しませんでした。",
+      "explanationJa": "no oneの全否定は、not ... anyoneを用いた受動文でも同じ意味になります。",
+      "focus": "no oneとnot anyone",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0086_Q29",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"Are there any risks?\"",
+      "choices": {
+        "A": "The speaker wants to know whether even one risk exists.",
+        "B": "The speaker confirms that all risks are gone.",
+        "C": "The speaker offers several risks.",
+        "D": "The speaker permits any risk to occur."
+      },
+      "correctAnswer": "A",
+      "translationJa": "話し手は危険が一つでもあるか知りたいのです。",
+      "explanationJa": "疑問文のany risksは、不特定の危険の存在を尋ねます。",
+      "focus": "疑問文のanyの意味",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0086_Q30",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"If any package is damaged, set it aside.\"",
+      "choices": {
+        "A": "Set aside one preselected package only.",
+        "B": "Set aside all packages whether damaged or not.",
+        "C": "Do not set aside damaged packages.",
+        "D": "Set aside every package that happens to be damaged."
+      },
+      "correctAnswer": "D",
+      "translationJa": "損傷している荷物は、どれであっても脇に置いてください。",
+      "explanationJa": "if any package is damagedは、該当する荷物を例外なく条件に含めます。",
+      "focus": "if anyとevery該当物",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0086_Q31",
+      "format": "context-completion",
+      "prompt": "The help desk is checking the new account. Have you received ------- confirmation email yet?",
+      "choices": {
+        "A": "some",
+        "B": "every",
+        "C": "any",
+        "D": "much"
+      },
+      "correctAnswer": "C",
+      "translationJa": "ヘルプデスクは新しいアカウントを確認しています。確認メールは何か届きましたか。",
+      "explanationJa": "メールが一通でも届いたかを尋ねるためany confirmation emailを使います。",
+      "focus": "疑問文のany＋単数",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0086_Q32",
+      "format": "context-completion",
+      "prompt": "The courier visited twice, but the office was closed. We did not receive ------- packages today.",
+      "choices": {
+        "A": "some",
+        "B": "any",
+        "C": "much",
+        "D": "every"
+      },
+      "correctAnswer": "B",
+      "translationJa": "配達員は2度来ましたが、事務所は閉まっていました。今日は荷物を一つも受け取りませんでした。",
+      "explanationJa": "否定文で複数packagesの数量をゼロにするanyが適切です。",
+      "focus": "否定文のany＋複数",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0086_Q33",
+      "format": "context-completion",
+      "prompt": "Please inspect the seal before signing. If you see ------- sign of tampering, refuse the delivery.",
+      "choices": {
+        "A": "some",
+        "B": "all",
+        "C": "many",
+        "D": "any"
+      },
+      "correctAnswer": "D",
+      "translationJa": "署名する前に封印を確認してください。改ざんの兆候が少しでもあれば受け取りを拒否してください。",
+      "explanationJa": "どの兆候も条件に含めるif＋any signの形です。",
+      "focus": "条件節のany＋単数",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0086_Q34",
+      "format": "context-completion",
+      "prompt": "All guides have the same training and radio. Ask ------- guide for directions to the hall.",
+      "choices": {
+        "A": "any",
+        "B": "some",
+        "C": "every",
+        "D": "many"
+      },
+      "correctAnswer": "A",
+      "translationJa": "案内係は全員同じ研修を受け無線を持っています。ホールへの道はどの案内係に尋ねてもかまいません。",
+      "explanationJa": "誰を選んでもよいという自由選択のany guideです。",
+      "focus": "anyの自由選択",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0086_Q35",
+      "format": "context-completion",
+      "prompt": "The server log is complete. It does not show ------- interruption during the payment process.",
+      "choices": {
+        "A": "some",
+        "B": "much",
+        "C": "any",
+        "D": "each"
+      },
+      "correctAnswer": "C",
+      "translationJa": "サーバーログは完全です。支払い処理中の中断は一切示されていません。",
+      "explanationJa": "否定されたshowの目的語としてany interruptionを置き、存在ゼロを表します。",
+      "focus": "not＋動詞＋any",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0086_Q36",
+      "format": "context-completion",
+      "prompt": "We can adjust the booking before noon. Are there ------- dates that would suit your team better?",
+      "choices": {
+        "A": "some",
+        "B": "any",
+        "C": "much",
+        "D": "every"
+      },
+      "correctAnswer": "B",
+      "translationJa": "正午までなら予約を調整できます。御社のチームにもっと都合のよい日はありますか。",
+      "explanationJa": "候補日が一つでもあるかを開かれた質問で尋ねるany datesが自然です。",
+      "focus": "疑問anyと候補",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0086_Q37",
+      "format": "context-completion",
+      "prompt": "The warranty covers manufacturing defects. If ------- part fails under normal use, we will replace it.",
+      "choices": {
+        "A": "any",
+        "B": "some",
+        "C": "each",
+        "D": "much"
+      },
+      "correctAnswer": "A",
+      "translationJa": "保証は製造上の欠陥を対象とします。通常使用でどの部品が故障しても交換します。",
+      "explanationJa": "故障する部品を限定せず条件に含めるany partが適切です。",
+      "focus": "if anyの包括性",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0086_Q38",
+      "format": "context-completion",
+      "prompt": "The policy applies equally to all branches. Managers may select ------- approved vendor on the list.",
+      "choices": {
+        "A": "some",
+        "B": "every",
+        "C": "many",
+        "D": "any"
+      },
+      "correctAnswer": "D",
+      "translationJa": "その方針は全支店に等しく適用されます。管理職は一覧の承認業者をどこでも選べます。",
+      "explanationJa": "承認済み一覧内で自由に一社を選べるためany vendorです。",
+      "focus": "範囲内の自由選択any",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0086_Q39",
+      "format": "context-completion",
+      "prompt": "Security reviewed the entire recording. Scarcely ------- movement was visible near the rear door.",
+      "choices": {
+        "A": "some",
+        "B": "any",
+        "C": "many",
+        "D": "every"
+      },
+      "correctAnswer": "B",
+      "translationJa": "警備担当が録画全体を確認しました。裏口付近には動きがほとんど見えませんでした。",
+      "explanationJa": "準否定語scarcelyの後ろではscarcely any movementが自然です。",
+      "focus": "準否定とany",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0086_Q40",
+      "format": "context-completion",
+      "prompt": "The entrance is sealed during repairs. ------- may not enter can suggest partial negation, so the notice says, “No one may enter.”",
+      "choices": {
+        "A": "Someone",
+        "B": "Everyone",
+        "C": "Anyone",
+        "D": "None"
+      },
+      "correctAnswer": "C",
+      "translationJa": "修理中は入口が封鎖されています。部分否定に聞こえ得るAnyone may not enterではなく、掲示はNo one may enterとしています。",
+      "explanationJa": "全員を明確に否定するにはno oneを使い、anyoneを否定語の左に置くのを避けます。",
+      "focus": "否定の作用域と語順",
+      "difficulty": "advanced"
+    }
+  ]
+}
