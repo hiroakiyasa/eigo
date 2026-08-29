@@ -28,13 +28,13 @@ jobs:
             fi
           done
           node scripts/validate-repository.mjs
-      - name: Remove temporary repair scaffolding and commit final state
+      - name: Remove temporary repair scaffolding and push final state
         run: |
+          set -euo pipefail
           git config user.name 'TRAIL FUSION AI'
           git config user.email 'hiroakiyasa@yahoo.co.jp'
-          rm -rf .repair
+          git rm -r .repair
           git rm .github/workflows/repair-question-sets.yml
           git add data/progress.json CATALOG.md
           git commit -m 'fix(questions): finalize repaired sets through page 0043'
-          git pull --rebase origin main
-          git push
+          git push origin HEAD:main
