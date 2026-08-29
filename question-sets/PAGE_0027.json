@@ -1,1 +1,679 @@
-{"schemaVersion":1,"page":{"number":27,"id":"grammar-master-0027","title":"変化形は、役目を変える","image":"pages/PAGE_0027.webp","sourcePrompt":"source-prompts/PAGE_0027.txt"},"analysis":{"summaryJa":"このページは、動詞の形が変わると文中の役目も変わることを扱う。-ingは綴り規則を伴って進行・修飾・名詞化に使われ、過去分詞はhaveと組むと過去を今へつなぐ完了、beと組むと『～される』という受け身を作る。また基本動詞は日本語訳を一語で固定せず、核イメージから意味の広がりを捉える。","grammarPoints":["基本的な+ingの作り方","語尾eを取って-ingを付ける","短母音＋子音を重ねて-ingを付ける","ieをyに変えて-ingを付ける","have＋過去分詞で現在完了を作る","be＋過去分詞で受け身を作る","go等の基本動詞を核イメージから理解する"],"visualEvidence":["source-jsonはread→reading / make→making / swim→swimming / tie→tyingを4規則として示す","write→writingを進行中の例に使う","have writtenで今につながる完了を示す","was writtenで受け身を示す","goを『今いる所から離れて進む』という核イメージで捉える"],"commonTraps":["makeingのようにeを残す","swimingのように子音重複を忘れる","tieingのようにie→yを忘れる","haveの後ろを過去形にする","受け身でbeを落とす","基本動詞を日本語一語に固定して文脈の意味を見失う"]},"questions":[{"id":"PAGE_0027_Q01","format":"part5-cloze","prompt":"The analyst is ------- the revised contract now.","choices":{"A":"reading","B":"readed","C":"read","D":"reads"},"correctAnswer":"A","translationJa":"分析担当者は今、修正版契約書を読んでいます。","explanationJa":"readはそのまま+ingでreadingです。","focus":"基本＋ing","difficulty":"basic"},{"id":"PAGE_0027_Q02","format":"part5-cloze","prompt":"The design team is ------- a new prototype this week.","choices":{"A":"makeing","B":"making","C":"made","D":"makes"},"correctAnswer":"B","translationJa":"設計チームは今週、新しい試作品を作っています。","explanationJa":"makeは語尾eを取ってmakingです。","focus":"eを取る-ing","difficulty":"basic"},{"id":"PAGE_0027_Q03","format":"part5-cloze","prompt":"The athlete is ------- in the hotel pool before breakfast.","choices":{"A":"swiming","B":"swimed","C":"swimming","D":"swims"},"correctAnswer":"C","translationJa":"選手は朝食前にホテルのプールで泳いでいます。","explanationJa":"swimは短母音＋子音mなのでmを重ねてswimmingです。","focus":"子音重複-ing","difficulty":"basic"},{"id":"PAGE_0027_Q04","format":"part5-cloze","prompt":"The assistant is ------- the cables together before shipment.","choices":{"A":"tieing","B":"tied","C":"ties","D":"tying"},"correctAnswer":"D","translationJa":"アシスタントは出荷前にケーブルを結んでいます。","explanationJa":"tieはieをyに変えてtyingです。","focus":"ie→ying","difficulty":"intermediate"},{"id":"PAGE_0027_Q05","format":"part5-cloze","prompt":"We have ------- all three inspection reports today.","choices":{"A":"completed","B":"complete","C":"completing","D":"completes"},"correctAnswer":"A","translationJa":"今日、3件の検査報告書をすべて完成させました。","explanationJa":"haveの後ろには過去分詞completedを置きます。","focus":"have＋過去分詞","difficulty":"intermediate"},{"id":"PAGE_0027_Q06","format":"part5-cloze","prompt":"The new safety notice was ------- near the loading bay.","choices":{"A":"post","B":"posted","C":"posting","D":"posts"},"correctAnswer":"B","translationJa":"新しい安全掲示は積み込み場近くに掲示されました。","explanationJa":"was＋過去分詞postedで受け身を作ります。","focus":"be＋過去分詞","difficulty":"intermediate"},{"id":"PAGE_0027_Q07","format":"part5-cloze","prompt":"The technician is ------- the sensor into the control unit.","choices":{"A":"installing","B":"install","C":"installed","D":"installs"},"correctAnswer":"A","translationJa":"技術者はセンサーを制御装置へ取り付けています。","explanationJa":"installは通常+ingでinstallingです。","focus":"-ing綴り","difficulty":"intermediate"},{"id":"PAGE_0027_Q08","format":"part5-cloze","prompt":"The package has been ------- to the correct department.","choices":{"A":"send","B":"sending","C":"sent","D":"sends"},"correctAnswer":"C","translationJa":"荷物は正しい部署へ送られました。","explanationJa":"has been＋過去分詞sentで現在完了の受け身です。","focus":"過去分詞の複合役割","difficulty":"intermediate"},{"id":"PAGE_0027_Q09","format":"part5-cloze","prompt":"The warning light went ------- after the technician reset the system.","choices":{"A":"toward","B":"out","C":"forward","D":"inside"},"correctAnswer":"B","translationJa":"技術者がシステムをリセットすると警告灯は消えました。","explanationJa":"goの『元の状態・場所から離れて進む』核イメージがgo out＝消えるへ広がります。","focus":"goの核イメージ","difficulty":"advanced"},{"id":"PAGE_0027_Q10","format":"part5-cloze","prompt":"The revised manual has been ------- in six languages.","choices":{"A":"write","B":"wrote","C":"writing","D":"written"},"correctAnswer":"D","translationJa":"改訂版マニュアルは6言語で書かれています。","explanationJa":"has been＋過去分詞writtenで受け身の完了を表します。","focus":"不規則過去分詞","difficulty":"advanced"},{"id":"PAGE_0027_Q11","format":"correct-sentence","prompt":"Choose the correct -ing form of “make”.","choices":{"A":"The team is makeing a prototype.","B":"The team is makking a prototype.","C":"The team is making a prototype.","D":"The team is made a prototype."},"correctAnswer":"C","translationJa":"チームは試作品を作っています。","explanationJa":"makeはeを取ってmakingです。","focus":"e脱落","difficulty":"basic"},{"id":"PAGE_0027_Q12","format":"correct-sentence","prompt":"Choose the correct -ing form of “swim”.","choices":{"A":"The guest is swiming in the pool.","B":"The guest is swimmed in the pool.","C":"The guest is swims in the pool.","D":"The guest is swimming in the pool."},"correctAnswer":"D","translationJa":"宿泊客はプールで泳いでいます。","explanationJa":"swimはmを重ねてswimmingです。","focus":"子音重複","difficulty":"basic"},{"id":"PAGE_0027_Q13","format":"correct-sentence","prompt":"Choose the correct -ing form of “tie”.","choices":{"A":"The worker is tying the cables together.","B":"The worker is tieing the cables together.","C":"The worker is tied the cables together.","D":"The worker is ties the cables together."},"correctAnswer":"A","translationJa":"作業員はケーブルを結んでいます。","explanationJa":"tieはieをyに変えてtyingです。","focus":"ie→y","difficulty":"intermediate"},{"id":"PAGE_0027_Q14","format":"correct-sentence","prompt":"Choose the correct present-perfect sentence.","choices":{"A":"We have wrote three reports today.","B":"We have written three reports today.","C":"We have writing three reports today.","D":"We have write three reports today."},"correctAnswer":"B","translationJa":"今日は報告書を3件書きました。","explanationJa":"haveの後ろにはwriteの過去分詞writtenを置きます。","focus":"have＋written","difficulty":"intermediate"},{"id":"PAGE_0027_Q15","format":"correct-sentence","prompt":"Choose the correct passive sentence.","choices":{"A":"The memo wrote by the manager.","B":"The memo was wrote by the manager.","C":"The memo was written by the manager.","D":"The memo was writing by the manager."},"correctAnswer":"C","translationJa":"そのメモは部長によって書かれました。","explanationJa":"受け身はbe＋過去分詞writtenです。","focus":"受け身","difficulty":"intermediate"},{"id":"PAGE_0027_Q16","format":"correct-sentence","prompt":"Choose the correct sentence using -ing after a regular base verb.","choices":{"A":"The machine is operated now.","B":"The machine operating now.","C":"The machine is operates now.","D":"The machine is operating now."},"correctAnswer":"D","translationJa":"その機械は今作動しています。","explanationJa":"進行中の能動動作はis operatingです。","focus":"進行形","difficulty":"intermediate"},{"id":"PAGE_0027_Q17","format":"correct-sentence","prompt":"Choose the sentence where the past participle expresses a result connected to now.","choices":{"A":"I have finished the inspection.","B":"I am finishing yesterday.","C":"I finished tomorrow.","D":"I have finish the inspection."},"correctAnswer":"A","translationJa":"検査を完了しており、その結果が現在にあります。","explanationJa":"have＋finishedで過去の完了を現在へつなぎます。","focus":"完了の過去分詞","difficulty":"intermediate"},{"id":"PAGE_0027_Q18","format":"correct-sentence","prompt":"Choose the sentence where the past participle expresses a passive result.","choices":{"A":"The gate has open the staff.","B":"The gate was opened at eight.","C":"The gate was opening by the staff as passive form.","D":"The gate opened by staff was it."},"correctAnswer":"B","translationJa":"門は8時に開けられました。","explanationJa":"was＋openedで受け身を表します。","focus":"受け身の過去分詞","difficulty":"advanced"},{"id":"PAGE_0027_Q19","format":"correct-sentence","prompt":"Choose the sentence that naturally reflects the core image of “go” as movement away/onward.","choices":{"A":"The fog went away before noon.","B":"The fog went the manager a report.","C":"The fog was go by noon.","D":"The fog went knowing the report."},"correctAnswer":"A","translationJa":"霧は正午前に消えていきました。","explanationJa":"go awayは『今いる所から離れて進む』イメージの自然な拡張です。","focus":"goの意味拡張","difficulty":"advanced"},{"id":"PAGE_0027_Q20","format":"correct-sentence","prompt":"Choose the sentence that correctly combines perfect and passive forms.","choices":{"A":"The contract has sign by both parties.","B":"The contract has been signed by both parties.","C":"The contract has been signing by both parties.","D":"The contract is have signed by both parties."},"correctAnswer":"B","translationJa":"契約書は両当事者によって署名済みです。","explanationJa":"has been＋過去分詞signedで現在完了受け身です。","focus":"完了受け身","difficulty":"advanced"},{"id":"PAGE_0027_Q21","format":"meaning-equivalent","prompt":"Choose the correct -ing form of “read”.","choices":{"A":"reading","B":"readding","C":"readying","D":"readed"},"correctAnswer":"A","translationJa":"readの-ing形はreadingです。","explanationJa":"通常はそのまま+ingです。","focus":"基本-ing","difficulty":"basic"},{"id":"PAGE_0027_Q22","format":"meaning-equivalent","prompt":"Choose the correct -ing form of “write”.","choices":{"A":"writeing","B":"writting","C":"writing","D":"writed"},"correctAnswer":"C","translationJa":"writeの-ing形はwritingです。","explanationJa":"語尾eを取って-ingを付けます。","focus":"e脱落-ing","difficulty":"basic"},{"id":"PAGE_0027_Q23","format":"meaning-equivalent","prompt":"Choose the correct -ing form of “run”.","choices":{"A":"runing","B":"running","C":"runingg","D":"raning"},"correctAnswer":"B","translationJa":"runの-ing形はrunningです。","explanationJa":"短母音＋子音nなのでnを重ねます。","focus":"子音重複-ing","difficulty":"basic"},{"id":"PAGE_0027_Q24","format":"meaning-equivalent","prompt":"Choose the correct -ing form of “lie” when it means reclining.","choices":{"A":"lieing","B":"liening","C":"lied","D":"lying"},"correctAnswer":"D","translationJa":"lieの-ing形はlyingです。","explanationJa":"ieをyに変えて-ingを付けます。","focus":"ie→ying","difficulty":"intermediate"},{"id":"PAGE_0027_Q25","format":"meaning-equivalent","prompt":"What is the role of “written” in “I have written the report”?","choices":{"A":"It combines with have to connect a completed action to the present.","B":"It is the subject noun phrase.","C":"It shows an action currently in progress.","D":"It directly describes report as an adjective only."},"correctAnswer":"A","translationJa":"writtenはhaveと組んで完了を現在につなぎます。","explanationJa":"過去分詞の現在完了での役割です。","focus":"完了の過去分詞","difficulty":"intermediate"},{"id":"PAGE_0027_Q26","format":"meaning-equivalent","prompt":"What is the role of “written” in “The report was written yesterday”?","choices":{"A":"It makes a present-perfect active form.","B":"It is an -ing noun.","C":"It combines with be to show that the report received the action.","D":"It means the report wrote something."},"correctAnswer":"C","translationJa":"writtenはbeと組んでreportが書かれたことを示します。","explanationJa":"受け身では主語が動作を受けます。","focus":"受け身の過去分詞","difficulty":"intermediate"},{"id":"PAGE_0027_Q27","format":"meaning-equivalent","prompt":"Choose the sentence closest in meaning to: “The note was printed in blue ink.”","choices":{"A":"Someone printed the note in blue ink.","B":"The note printed someone.","C":"The note is printing itself now.","D":"Blue ink has a note."},"correctAnswer":"A","translationJa":"誰かがそのメモを青インクで印刷しました。","explanationJa":"受け身文を対応する能動の意味に言い換えています。","focus":"受け身の意味","difficulty":"intermediate"},{"id":"PAGE_0027_Q28","format":"meaning-equivalent","prompt":"Choose the sentence closest in meaning to: “The lights went out.”","choices":{"A":"The lights walked outdoors.","B":"The lights were newly installed.","C":"The lights stopped shining and became off.","D":"The lights wrote a report."},"correctAnswer":"C","translationJa":"照明が消えました。","explanationJa":"go outは元の点灯状態から離れて消える意味へ広がります。","focus":"goの核イメージ","difficulty":"intermediate"},{"id":"PAGE_0027_Q29","format":"meaning-equivalent","prompt":"Which construction uses a past participle to connect past completion with now?","choices":{"A":"have + past participle","B":"be + -ing","C":"do + base verb","D":"to + base verb"},"correctAnswer":"A","translationJa":"have＋過去分詞が過去の完了を今へつなぎます。","explanationJa":"現在完了の基本構造です。","focus":"形の機能識別","difficulty":"advanced"},{"id":"PAGE_0027_Q30","format":"meaning-equivalent","prompt":"Which construction uses a past participle to show that the subject receives an action?","choices":{"A":"have + -ing","B":"do + past tense","C":"to + past participle","D":"be + past participle"},"correctAnswer":"D","translationJa":"be＋過去分詞が受け身を作ります。","explanationJa":"主語が動作を受ける関係を表します。","focus":"受け身構造識別","difficulty":"advanced"},{"id":"PAGE_0027_Q31","format":"context-completion","prompt":"The client is on the phone now. Ms. Sato is ------- notes during the call.","choices":{"A":"writeing","B":"writing","C":"written","D":"wrote"},"correctAnswer":"B","translationJa":"顧客と通話中で、佐藤さんは通話中にメモを書いています。","explanationJa":"writeはeを取ってwritingです。","focus":"e脱落-ing","difficulty":"basic"},{"id":"PAGE_0027_Q32","format":"context-completion","prompt":"The pool is open before breakfast. Several guests are ------- now.","choices":{"A":"swiming","B":"swam","C":"swims","D":"swimming"},"correctAnswer":"D","translationJa":"プールは朝食前から開いており、数人の宿泊客が今泳いでいます。","explanationJa":"swimはmを重ねてswimmingです。","focus":"子音重複-ing","difficulty":"basic"},{"id":"PAGE_0027_Q33","format":"context-completion","prompt":"The legal team finished its review. It has ------- the final wording.","choices":{"A":"approved","B":"approve","C":"approving","D":"approves"},"correctAnswer":"A","translationJa":"法務チームは確認を終え、最終文言を承認済みです。","explanationJa":"hasの後ろには過去分詞approvedを置きます。","focus":"現在完了","difficulty":"intermediate"},{"id":"PAGE_0027_Q34","format":"context-completion","prompt":"The package is ready for shipment. The address label has been ------- to the box.","choices":{"A":"attach","B":"attaching","C":"attaches","D":"attached"},"correctAnswer":"D","translationJa":"荷物は出荷準備ができ、住所ラベルは箱に取り付け済みです。","explanationJa":"has been＋過去分詞attachedで完了受け身です。","focus":"完了受け身","difficulty":"intermediate"},{"id":"PAGE_0027_Q35","format":"context-completion","prompt":"The child dropped one shoelace. A staff member is ------- it again.","choices":{"A":"tieing","B":"tying","C":"tied","D":"ties"},"correctAnswer":"B","translationJa":"子どもの靴ひもがほどけ、スタッフが結び直しています。","explanationJa":"tieはieをyに変えてtyingです。","focus":"ie→ying","difficulty":"intermediate"},{"id":"PAGE_0027_Q36","format":"context-completion","prompt":"The factory uses a new line. The parts are being ------- automatically.","choices":{"A":"assemble","B":"assembling","C":"assembled","D":"assembles"},"correctAnswer":"C","translationJa":"工場は新ラインを使い、部品は自動で組み立てられています。","explanationJa":"are being＋過去分詞assembledで進行中の受け身です。","focus":"進行受け身","difficulty":"intermediate"},{"id":"PAGE_0027_Q37","format":"context-completion","prompt":"The new route avoids downtown traffic. The shuttle now goes ------- the river instead.","choices":{"A":"away only","B":"inside","C":"off as stop","D":"along"},"correctAnswer":"D","translationJa":"新経路は中心街の渋滞を避け、シャトルは代わりに川沿いを進みます。","explanationJa":"goの核イメージ『進む』にalongを組み合わせ経路を表します。","focus":"goの核イメージ応用","difficulty":"intermediate"},{"id":"PAGE_0027_Q38","format":"context-completion","prompt":"The meeting ended early. Everyone has ------- the room already.","choices":{"A":"leave","B":"left","C":"leaving","D":"leaves"},"correctAnswer":"B","translationJa":"会議は早く終わり、全員すでに部屋を出ています。","explanationJa":"has/haveの後ろにはleaveの過去分詞leftを使います。","focus":"不規則過去分詞","difficulty":"advanced"},{"id":"PAGE_0027_Q39","format":"context-completion","prompt":"The original contract cannot be changed. It was ------- by both companies last month.","choices":{"A":"signed","B":"sign","C":"signing","D":"signs"},"correctAnswer":"A","translationJa":"元の契約書は変更できず、先月両社により署名されました。","explanationJa":"was＋過去分詞signedで受け身を作ります。","focus":"受け身高度運用","difficulty":"advanced"},{"id":"PAGE_0027_Q40","format":"context-completion","prompt":"The alarm stopped after maintenance. The warning sound has ------- away completely.","choices":{"A":"go","B":"gone","C":"going","D":"went"},"correctAnswer":"B","translationJa":"保守後に警報が止まり、警告音は完全に消えました。","explanationJa":"has＋goの過去分詞goneで、go awayの『離れて消える』意味を表します。","focus":"goneと核イメージ","difficulty":"advanced"}]}
+{
+  "schemaVersion": 1,
+  "page": {
+    "number": 27,
+    "id": "grammar-master-0027",
+    "title": "変化形は、役目を変える",
+    "image": "pages/PAGE_0027.webp",
+    "sourcePrompt": "source-prompts/PAGE_0027.txt"
+  },
+  "analysis": {
+    "summaryJa": "このページは、動詞の形が変わると文中の役目も変わることを扱う。-ingは綴り規則を伴って進行・修飾・名詞化に使われ、過去分詞はhaveと組むと過去を今へつなぐ完了、beと組むと『～される』という受け身を作る。また基本動詞は日本語訳を一語で固定せず、核イメージから意味の広がりを捉える。",
+    "grammarPoints": [
+      "基本的な+ingの作り方",
+      "語尾eを取って-ingを付ける",
+      "短母音＋子音を重ねて-ingを付ける",
+      "ieをyに変えて-ingを付ける",
+      "have＋過去分詞で現在完了を作る",
+      "be＋過去分詞で受け身を作る",
+      "go等の基本動詞を核イメージから理解する"
+    ],
+    "visualEvidence": [
+      "source-jsonはread→reading / make→making / swim→swimming / tie→tyingを4規則として示す",
+      "write→writingを進行中の例に使う",
+      "have writtenで今につながる完了を示す",
+      "was writtenで受け身を示す",
+      "goを『今いる所から離れて進む』という核イメージで捉える"
+    ],
+    "commonTraps": [
+      "makeingのようにeを残す",
+      "swimingのように子音重複を忘れる",
+      "tieingのようにie→yを忘れる",
+      "haveの後ろを過去形にする",
+      "受け身でbeを落とす",
+      "基本動詞を日本語一語に固定して文脈の意味を見失う"
+    ]
+  },
+  "questions": [
+    {
+      "id": "PAGE_0027_Q01",
+      "format": "part5-cloze",
+      "prompt": "The analyst is ------- the revised contract now.",
+      "choices": {
+        "A": "reading",
+        "B": "readed",
+        "C": "read",
+        "D": "reads"
+      },
+      "correctAnswer": "A",
+      "translationJa": "分析担当者は今、修正版契約書を読んでいます。",
+      "explanationJa": "readはそのまま+ingでreadingです。",
+      "focus": "基本＋ing",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0027_Q02",
+      "format": "part5-cloze",
+      "prompt": "The design team is ------- a new prototype this week.",
+      "choices": {
+        "A": "makeing",
+        "B": "making",
+        "C": "made",
+        "D": "makes"
+      },
+      "correctAnswer": "B",
+      "translationJa": "設計チームは今週、新しい試作品を作っています。",
+      "explanationJa": "makeは語尾eを取ってmakingです。",
+      "focus": "eを取る-ing",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0027_Q03",
+      "format": "part5-cloze",
+      "prompt": "The athlete is ------- in the hotel pool before breakfast.",
+      "choices": {
+        "A": "swiming",
+        "B": "swimed",
+        "C": "swimming",
+        "D": "swims"
+      },
+      "correctAnswer": "C",
+      "translationJa": "選手は朝食前にホテルのプールで泳いでいます。",
+      "explanationJa": "swimは短母音＋子音mなのでmを重ねてswimmingです。",
+      "focus": "子音重複-ing",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0027_Q04",
+      "format": "part5-cloze",
+      "prompt": "The assistant is ------- the cables together before shipment.",
+      "choices": {
+        "A": "tieing",
+        "B": "tied",
+        "C": "ties",
+        "D": "tying"
+      },
+      "correctAnswer": "D",
+      "translationJa": "アシスタントは出荷前にケーブルを結んでいます。",
+      "explanationJa": "tieはieをyに変えてtyingです。",
+      "focus": "ie→ying",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0027_Q05",
+      "format": "part5-cloze",
+      "prompt": "We have ------- all three inspection reports today.",
+      "choices": {
+        "A": "completed",
+        "B": "complete",
+        "C": "completing",
+        "D": "completes"
+      },
+      "correctAnswer": "A",
+      "translationJa": "今日、3件の検査報告書をすべて完成させました。",
+      "explanationJa": "haveの後ろには過去分詞completedを置きます。",
+      "focus": "have＋過去分詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0027_Q06",
+      "format": "part5-cloze",
+      "prompt": "The new safety notice was ------- near the loading bay.",
+      "choices": {
+        "A": "post",
+        "B": "posted",
+        "C": "posting",
+        "D": "posts"
+      },
+      "correctAnswer": "B",
+      "translationJa": "新しい安全掲示は積み込み場近くに掲示されました。",
+      "explanationJa": "was＋過去分詞postedで受け身を作ります。",
+      "focus": "be＋過去分詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0027_Q07",
+      "format": "part5-cloze",
+      "prompt": "The technician is ------- the sensor into the control unit.",
+      "choices": {
+        "A": "installed",
+        "B": "install",
+        "C": "installing",
+        "D": "installs"
+      },
+      "correctAnswer": "C",
+      "translationJa": "技術者はセンサーを制御装置へ取り付けています。",
+      "explanationJa": "installは通常+ingでinstallingです。",
+      "focus": "-ing綴り",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0027_Q08",
+      "format": "part5-cloze",
+      "prompt": "The package has been ------- to the correct department.",
+      "choices": {
+        "A": "send",
+        "B": "sending",
+        "C": "sends",
+        "D": "sent"
+      },
+      "correctAnswer": "D",
+      "translationJa": "荷物は正しい部署へ送られました。",
+      "explanationJa": "has been＋過去分詞sentで現在完了の受け身です。",
+      "focus": "過去分詞の複合役割",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0027_Q09",
+      "format": "part5-cloze",
+      "prompt": "The warning light went ------- after the technician reset the system.",
+      "choices": {
+        "A": "out",
+        "B": "toward",
+        "C": "forward",
+        "D": "inside"
+      },
+      "correctAnswer": "A",
+      "translationJa": "技術者がシステムをリセットすると警告灯は消えました。",
+      "explanationJa": "goの『元の状態・場所から離れて進む』核イメージがgo out＝消えるへ広がります。",
+      "focus": "goの核イメージ",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0027_Q10",
+      "format": "part5-cloze",
+      "prompt": "The revised manual has been ------- in six languages.",
+      "choices": {
+        "A": "write",
+        "B": "written",
+        "C": "writing",
+        "D": "wrote"
+      },
+      "correctAnswer": "B",
+      "translationJa": "改訂版マニュアルは6言語で書かれています。",
+      "explanationJa": "has been＋過去分詞writtenで受け身の完了を表します。",
+      "focus": "不規則過去分詞",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0027_Q11",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct -ing form of “make”.",
+      "choices": {
+        "A": "The team is makeing a prototype.",
+        "B": "The team is makking a prototype.",
+        "C": "The team is making a prototype.",
+        "D": "The team is made a prototype."
+      },
+      "correctAnswer": "C",
+      "translationJa": "チームは試作品を作っています。",
+      "explanationJa": "makeはeを取ってmakingです。",
+      "focus": "e脱落",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0027_Q12",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct -ing form of “swim”.",
+      "choices": {
+        "A": "The guest is swiming in the pool.",
+        "B": "The guest is swimmed in the pool.",
+        "C": "The guest is swims in the pool.",
+        "D": "The guest is swimming in the pool."
+      },
+      "correctAnswer": "D",
+      "translationJa": "宿泊客はプールで泳いでいます。",
+      "explanationJa": "swimはmを重ねてswimmingです。",
+      "focus": "子音重複",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0027_Q13",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct -ing form of “tie”.",
+      "choices": {
+        "A": "The worker is tying the cables together.",
+        "B": "The worker is tieing the cables together.",
+        "C": "The worker is tied the cables together.",
+        "D": "The worker is ties the cables together."
+      },
+      "correctAnswer": "A",
+      "translationJa": "作業員はケーブルを結んでいます。",
+      "explanationJa": "tieはieをyに変えてtyingです。",
+      "focus": "ie→y",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0027_Q14",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct present-perfect sentence.",
+      "choices": {
+        "A": "We have wrote three reports today.",
+        "B": "We have written three reports today.",
+        "C": "We have writing three reports today.",
+        "D": "We have write three reports today."
+      },
+      "correctAnswer": "B",
+      "translationJa": "今日は報告書を3件書きました。",
+      "explanationJa": "haveの後ろにはwriteの過去分詞writtenを置きます。",
+      "focus": "have＋written",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0027_Q15",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct passive sentence.",
+      "choices": {
+        "A": "The memo wrote by the manager.",
+        "B": "The memo was wrote by the manager.",
+        "C": "The memo was written by the manager.",
+        "D": "The memo was writing by the manager."
+      },
+      "correctAnswer": "C",
+      "translationJa": "そのメモは部長によって書かれました。",
+      "explanationJa": "受け身はbe＋過去分詞writtenです。",
+      "focus": "受け身",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0027_Q16",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence using -ing after a regular base verb.",
+      "choices": {
+        "A": "The machine is operated now.",
+        "B": "The machine operating now.",
+        "C": "The machine is operates now.",
+        "D": "The machine is operating now."
+      },
+      "correctAnswer": "D",
+      "translationJa": "その機械は今作動しています。",
+      "explanationJa": "進行中の能動動作はis operatingです。",
+      "focus": "進行形",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0027_Q17",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence where the past participle expresses a result connected to now.",
+      "choices": {
+        "A": "I have finished the inspection.",
+        "B": "I am finishing yesterday.",
+        "C": "I finished tomorrow.",
+        "D": "I have finish the inspection."
+      },
+      "correctAnswer": "A",
+      "translationJa": "検査を完了しており、その結果が現在にあります。",
+      "explanationJa": "have＋finishedで過去の完了を現在へつなぎます。",
+      "focus": "完了の過去分詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0027_Q18",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence where the past participle expresses a passive result.",
+      "choices": {
+        "A": "The gate has open the staff.",
+        "B": "The gate was opened at eight.",
+        "C": "The gate was opening by the staff as passive form.",
+        "D": "The gate opened by staff was it."
+      },
+      "correctAnswer": "B",
+      "translationJa": "門は8時に開けられました。",
+      "explanationJa": "was＋openedで受け身を表します。",
+      "focus": "受け身の過去分詞",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0027_Q19",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that naturally reflects the core image of “go” as movement away/onward.",
+      "choices": {
+        "A": "The fog was go by noon.",
+        "B": "The fog went the manager a report.",
+        "C": "The fog went away before noon.",
+        "D": "The fog went knowing the report."
+      },
+      "correctAnswer": "C",
+      "translationJa": "霧は正午前に消えていきました。",
+      "explanationJa": "go awayは『今いる所から離れて進む』イメージの自然な拡張です。",
+      "focus": "goの意味拡張",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0027_Q20",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that correctly combines perfect and passive forms.",
+      "choices": {
+        "A": "The contract has sign by both parties.",
+        "B": "The contract is have signed by both parties.",
+        "C": "The contract has been signing by both parties.",
+        "D": "The contract has been signed by both parties."
+      },
+      "correctAnswer": "D",
+      "translationJa": "契約書は両当事者によって署名済みです。",
+      "explanationJa": "has been＋過去分詞signedで現在完了受け身です。",
+      "focus": "完了受け身",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0027_Q21",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the correct -ing form of “read”.",
+      "choices": {
+        "A": "reading",
+        "B": "readding",
+        "C": "readying",
+        "D": "readed"
+      },
+      "correctAnswer": "A",
+      "translationJa": "readの-ing形はreadingです。",
+      "explanationJa": "通常はそのまま+ingです。",
+      "focus": "基本-ing",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0027_Q22",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the correct -ing form of “write”.",
+      "choices": {
+        "A": "writeing",
+        "B": "writing",
+        "C": "writting",
+        "D": "writed"
+      },
+      "correctAnswer": "B",
+      "translationJa": "writeの-ing形はwritingです。",
+      "explanationJa": "語尾eを取って-ingを付けます。",
+      "focus": "e脱落-ing",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0027_Q23",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the correct -ing form of “run”.",
+      "choices": {
+        "A": "runing",
+        "B": "runingg",
+        "C": "running",
+        "D": "raning"
+      },
+      "correctAnswer": "C",
+      "translationJa": "runの-ing形はrunningです。",
+      "explanationJa": "短母音＋子音nなのでnを重ねます。",
+      "focus": "子音重複-ing",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0027_Q24",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the correct -ing form of “lie” when it means reclining.",
+      "choices": {
+        "A": "lieing",
+        "B": "liening",
+        "C": "lied",
+        "D": "lying"
+      },
+      "correctAnswer": "D",
+      "translationJa": "lieの-ing形はlyingです。",
+      "explanationJa": "ieをyに変えて-ingを付けます。",
+      "focus": "ie→ying",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0027_Q25",
+      "format": "meaning-equivalent",
+      "prompt": "What is the role of “written” in “I have written the report”?",
+      "choices": {
+        "A": "It combines with have to connect a completed action to the present.",
+        "B": "It is the subject noun phrase.",
+        "C": "It shows an action currently in progress.",
+        "D": "It directly describes report as an adjective only."
+      },
+      "correctAnswer": "A",
+      "translationJa": "writtenはhaveと組んで完了を現在につなぎます。",
+      "explanationJa": "過去分詞の現在完了での役割です。",
+      "focus": "完了の過去分詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0027_Q26",
+      "format": "meaning-equivalent",
+      "prompt": "What is the role of “written” in “The report was written yesterday”?",
+      "choices": {
+        "A": "It makes a present-perfect active form.",
+        "B": "It combines with be to show that the report received the action.",
+        "C": "It is an -ing noun.",
+        "D": "It means the report wrote something."
+      },
+      "correctAnswer": "B",
+      "translationJa": "writtenはbeと組んでreportが書かれたことを示します。",
+      "explanationJa": "受け身では主語が動作を受けます。",
+      "focus": "受け身の過去分詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0027_Q27",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “The note was printed in blue ink.”",
+      "choices": {
+        "A": "The note is printing itself now.",
+        "B": "The note printed someone.",
+        "C": "Someone printed the note in blue ink.",
+        "D": "Blue ink has a note."
+      },
+      "correctAnswer": "C",
+      "translationJa": "誰かがそのメモを青インクで印刷しました。",
+      "explanationJa": "受け身文を対応する能動の意味に言い換えています。",
+      "focus": "受け身の意味",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0027_Q28",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “The lights went out.”",
+      "choices": {
+        "A": "The lights walked outdoors.",
+        "B": "The lights were newly installed.",
+        "C": "The lights wrote a report.",
+        "D": "The lights stopped shining and became off."
+      },
+      "correctAnswer": "D",
+      "translationJa": "照明が消えました。",
+      "explanationJa": "go outは元の点灯状態から離れて消える意味へ広がります。",
+      "focus": "goの核イメージ",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0027_Q29",
+      "format": "meaning-equivalent",
+      "prompt": "Which construction uses a past participle to connect past completion with now?",
+      "choices": {
+        "A": "have + past participle",
+        "B": "be + -ing",
+        "C": "do + base verb",
+        "D": "to + base verb"
+      },
+      "correctAnswer": "A",
+      "translationJa": "have＋過去分詞が過去の完了を今へつなぎます。",
+      "explanationJa": "現在完了の基本構造です。",
+      "focus": "形の機能識別",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0027_Q30",
+      "format": "meaning-equivalent",
+      "prompt": "Which construction uses a past participle to show that the subject receives an action?",
+      "choices": {
+        "A": "have + -ing",
+        "B": "do + past tense",
+        "C": "be + past participle",
+        "D": "to + past participle"
+      },
+      "correctAnswer": "C",
+      "translationJa": "be＋過去分詞が受け身を作ります。",
+      "explanationJa": "主語が動作を受ける関係を表します。",
+      "focus": "受け身構造識別",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0027_Q31",
+      "format": "context-completion",
+      "prompt": "The client is on the phone now. Ms. Sato is ------- notes during the call.",
+      "choices": {
+        "A": "writeing",
+        "B": "wrote",
+        "C": "written",
+        "D": "writing"
+      },
+      "correctAnswer": "D",
+      "translationJa": "顧客と通話中で、佐藤さんは通話中にメモを書いています。",
+      "explanationJa": "writeはeを取ってwritingです。",
+      "focus": "e脱落-ing",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0027_Q32",
+      "format": "context-completion",
+      "prompt": "The pool is open before breakfast. Several guests are ------- now.",
+      "choices": {
+        "A": "swiming",
+        "B": "swam",
+        "C": "swimming",
+        "D": "swims"
+      },
+      "correctAnswer": "C",
+      "translationJa": "プールは朝食前から開いており、数人の宿泊客が今泳いでいます。",
+      "explanationJa": "swimはmを重ねてswimmingです。",
+      "focus": "子音重複-ing",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0027_Q33",
+      "format": "context-completion",
+      "prompt": "The legal team finished its review. It has ------- the final wording.",
+      "choices": {
+        "A": "approve",
+        "B": "approved",
+        "C": "approving",
+        "D": "approves"
+      },
+      "correctAnswer": "B",
+      "translationJa": "法務チームは確認を終え、最終文言を承認済みです。",
+      "explanationJa": "hasの後ろには過去分詞approvedを置きます。",
+      "focus": "現在完了",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0027_Q34",
+      "format": "context-completion",
+      "prompt": "The package is ready for shipment. The address label has been ------- to the box.",
+      "choices": {
+        "A": "attached",
+        "B": "attaching",
+        "C": "attaches",
+        "D": "attach"
+      },
+      "correctAnswer": "A",
+      "translationJa": "荷物は出荷準備ができ、住所ラベルは箱に取り付け済みです。",
+      "explanationJa": "has been＋過去分詞attachedで完了受け身です。",
+      "focus": "完了受け身",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0027_Q35",
+      "format": "context-completion",
+      "prompt": "The child dropped one shoelace. A staff member is ------- it again.",
+      "choices": {
+        "A": "tieing",
+        "B": "ties",
+        "C": "tied",
+        "D": "tying"
+      },
+      "correctAnswer": "D",
+      "translationJa": "子どもの靴ひもがほどけ、スタッフが結び直しています。",
+      "explanationJa": "tieはieをyに変えてtyingです。",
+      "focus": "ie→ying",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0027_Q36",
+      "format": "context-completion",
+      "prompt": "The factory uses a new line. The parts are being ------- automatically.",
+      "choices": {
+        "A": "assemble",
+        "B": "assembling",
+        "C": "assembled",
+        "D": "assembles"
+      },
+      "correctAnswer": "C",
+      "translationJa": "工場は新ラインを使い、部品は自動で組み立てられています。",
+      "explanationJa": "are being＋過去分詞assembledで進行中の受け身です。",
+      "focus": "進行受け身",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0027_Q37",
+      "format": "context-completion",
+      "prompt": "The new route avoids downtown traffic. The shuttle now goes ------- the river instead.",
+      "choices": {
+        "A": "away only",
+        "B": "along",
+        "C": "off as stop",
+        "D": "inside"
+      },
+      "correctAnswer": "B",
+      "translationJa": "新経路は中心街の渋滞を避け、シャトルは代わりに川沿いを進みます。",
+      "explanationJa": "goの核イメージ『進む』にalongを組み合わせ経路を表します。",
+      "focus": "goの核イメージ応用",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0027_Q38",
+      "format": "context-completion",
+      "prompt": "The meeting ended early. Everyone has ------- the room already.",
+      "choices": {
+        "A": "left",
+        "B": "leave",
+        "C": "leaving",
+        "D": "leaves"
+      },
+      "correctAnswer": "A",
+      "translationJa": "会議は早く終わり、全員すでに部屋を出ています。",
+      "explanationJa": "has/haveの後ろにはleaveの過去分詞leftを使います。",
+      "focus": "不規則過去分詞",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0027_Q39",
+      "format": "context-completion",
+      "prompt": "The original contract cannot be changed. It was ------- by both companies last month.",
+      "choices": {
+        "A": "signs",
+        "B": "sign",
+        "C": "signing",
+        "D": "signed"
+      },
+      "correctAnswer": "D",
+      "translationJa": "元の契約書は変更できず、先月両社により署名されました。",
+      "explanationJa": "was＋過去分詞signedで受け身を作ります。",
+      "focus": "受け身高度運用",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0027_Q40",
+      "format": "context-completion",
+      "prompt": "The alarm stopped after maintenance. The warning sound has ------- away completely.",
+      "choices": {
+        "A": "go",
+        "B": "gone",
+        "C": "going",
+        "D": "went"
+      },
+      "correctAnswer": "B",
+      "translationJa": "保守後に警報が止まり、警告音は完全に消えました。",
+      "explanationJa": "has＋goの過去分詞goneで、go awayの『離れて消える』意味を表します。",
+      "focus": "goneと核イメージ",
+      "difficulty": "advanced"
+    }
+  ]
+}

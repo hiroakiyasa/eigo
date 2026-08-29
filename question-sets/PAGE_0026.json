@@ -1,1 +1,678 @@
-{"schemaVersion":1,"page":{"number":26,"id":"grammar-master-0026","title":"過去の足あと、動く -ing","image":"pages/PAGE_0026.webp","sourcePrompt":"source-prompts/PAGE_0026.txt"},"analysis":{"summaryJa":"このページは、過去を示す形として規則動詞の-ed系変化と不規則動詞の形そのものの変化を整理し、さらに-ing形を『動きの途中を生き生き見せる形』として、進行形の一部・名詞を説明する分詞・行動を『～すること』として扱う動名詞の3役へ広げる。","grammarPoints":["規則過去形の基本-edと-e終わりの+d","子音字+yの過去形を-iedにする","短母音＋子音終わりで子音を重ねて-edを付ける","buy→bought等の不規則過去形を使う","be＋-ingで進行中を表す","-ingで名詞を前後から説明する","-ing句を名詞的な行動のまとまりとして使う"],"visualEvidence":["source-jsonは規則-edの足跡と不規則な形変化の足跡を対比する","plan→plannedで子音字を重ねる規則を示す","buy→boughtで不規則変化を示す","was runningで進行、Collecting shellsで主語としての-ingを示す","stop→stoppedをミニ問題で確認する"],"commonTraps":["planed/stopedのように子音重複を忘れる","studyedのようにy→iedを忘れる","buyed等の不規則動詞を-ed化する","進行形でbe動詞を落とす","-ingが必ず進行形だと思い名詞修飾・動名詞を見落とす"]},"questions":[{"id":"PAGE_0026_Q01","format":"part5-cloze","prompt":"The team ------- the new layout yesterday afternoon.","choices":{"A":"planned","B":"planed","C":"planning","D":"plans"},"correctAnswer":"A","translationJa":"チームは昨日午後、新しいレイアウトを計画しました。","explanationJa":"planは短母音＋子音nで終わるためnを重ねてplannedです。","focus":"子音重複＋ed","difficulty":"basic"},{"id":"PAGE_0026_Q02","format":"part5-cloze","prompt":"Ms. Kim ------- a replacement cable at the airport shop.","choices":{"A":"buyed","B":"bought","C":"buying","D":"buys"},"correctAnswer":"B","translationJa":"キムさんは空港の店で交換用ケーブルを買いました。","explanationJa":"buyの過去形は不規則変化boughtです。","focus":"不規則過去形","difficulty":"basic"},{"id":"PAGE_0026_Q03","format":"part5-cloze","prompt":"The courier ------- the van near the loading dock ten minutes ago.","choices":{"A":"stoped","B":"stopping","C":"stopped","D":"stops"},"correctAnswer":"C","translationJa":"宅配業者は10分前に積み込み場近くでバンを止めました。","explanationJa":"stopは短母音＋子音pなのでpを重ねてstoppedです。","focus":"stop→stopped","difficulty":"basic"},{"id":"PAGE_0026_Q04","format":"part5-cloze","prompt":"The assistant ------- the client’s reply before updating the schedule.","choices":{"A":"studiedly","B":"studyed","C":"studying","D":"studied"},"correctAnswer":"D","translationJa":"アシスタントは日程更新前に顧客の返答をよく検討しました。","explanationJa":"studyは子音字+yなのでyをiに変えてstudiedです。","focus":"y→ied","difficulty":"intermediate"},{"id":"PAGE_0026_Q05","format":"part5-cloze","prompt":"The printer ------- automatically after the technician changed the setting.","choices":{"A":"restarted","B":"restartted","C":"restarting","D":"restarts"},"correctAnswer":"A","translationJa":"技術者が設定を変更した後、プリンターは自動で再起動しました。","explanationJa":"restartは通常の規則動詞なので-edを付けます。","focus":"規則＋ed","difficulty":"intermediate"},{"id":"PAGE_0026_Q06","format":"part5-cloze","prompt":"We ------- the conference room door before leaving last night.","choices":{"A":"closeed","B":"closed","C":"closing","D":"closes"},"correctAnswer":"B","translationJa":"昨夜帰る前に会議室のドアを閉めました。","explanationJa":"closeはeで終わるので+dでclosedです。","focus":"e＋d","difficulty":"intermediate"},{"id":"PAGE_0026_Q07","format":"part5-cloze","prompt":"The technician is ------- the sensor right now.","choices":{"A":"testing","B":"tested","C":"test","D":"tests"},"correctAnswer":"A","translationJa":"技術者は今センサーを試験中です。","explanationJa":"is＋-ingで現在進行中の動作を表します。","focus":"進行形の-ing","difficulty":"intermediate"},{"id":"PAGE_0026_Q08","format":"part5-cloze","prompt":"The ------- warning light indicates a network problem.","choices":{"A":"flashed","B":"flash","C":"flashing","D":"flashes"},"correctAnswer":"C","translationJa":"点滅している警告灯はネットワーク問題を示しています。","explanationJa":"flashingが名詞warning lightの動いている特徴を説明します。","focus":"-ingの名詞修飾","difficulty":"intermediate"},{"id":"PAGE_0026_Q09","format":"part5-cloze","prompt":"------- customer comments helps the team improve the service.","choices":{"A":"Reviewed","B":"Reviewing","C":"Review","D":"Reviews"},"correctAnswer":"B","translationJa":"顧客コメントを確認することはサービス改善に役立ちます。","explanationJa":"Reviewing customer comments全体が行動を表す主語です。","focus":"動名詞主語","difficulty":"advanced"},{"id":"PAGE_0026_Q10","format":"part5-cloze","prompt":"The manager ------- the correct file after searching for several minutes.","choices":{"A":"finded","B":"finding","C":"finds","D":"found"},"correctAnswer":"D","translationJa":"部長は数分探した後、正しいファイルを見つけました。","explanationJa":"findの過去形は不規則変化foundです。","focus":"find→found","difficulty":"advanced"},{"id":"PAGE_0026_Q11","format":"correct-sentence","prompt":"Choose the correct past form of “plan”.","choices":{"A":"We planed the event yesterday.","B":"We planning the event yesterday.","C":"We planned the event yesterday.","D":"We plans the event yesterday."},"correctAnswer":"C","translationJa":"私たちは昨日イベントを計画しました。","explanationJa":"planはnを重ねてplannedです。","focus":"子音重複","difficulty":"basic"},{"id":"PAGE_0026_Q12","format":"correct-sentence","prompt":"Choose the correct past form of “study”.","choices":{"A":"She studyed the report carefully.","B":"She studying the report carefully.","C":"She studys the report carefully yesterday.","D":"She studied the report carefully."},"correctAnswer":"D","translationJa":"彼女は報告書を注意深く検討しました。","explanationJa":"studyはyをiに変えてstudiedです。","focus":"y→ied","difficulty":"basic"},{"id":"PAGE_0026_Q13","format":"correct-sentence","prompt":"Choose the correct irregular past sentence.","choices":{"A":"The buyer bought two sample units.","B":"The buyer buyed two sample units.","C":"The buyer buying two sample units yesterday.","D":"The buyer buys two sample units yesterday."},"correctAnswer":"A","translationJa":"買い手はサンプル機を2台購入しました。","explanationJa":"buyの過去形はboughtです。","focus":"buy→bought","difficulty":"intermediate"},{"id":"PAGE_0026_Q14","format":"correct-sentence","prompt":"Choose the correct sentence describing an action in progress.","choices":{"A":"The engineer testing the machine now.","B":"The engineer is testing the machine now.","C":"The engineer is tested the machine now.","D":"The engineer tests the machine right now only."},"correctAnswer":"B","translationJa":"技術者は今機械を試験しています。","explanationJa":"進行形はbe＋-ingです。","focus":"進行形","difficulty":"intermediate"},{"id":"PAGE_0026_Q15","format":"correct-sentence","prompt":"Choose the sentence where -ing describes a noun.","choices":{"A":"The sign is flash yesterday.","B":"The sign flashed the light.","C":"A flashing sign marks the entrance.","D":"Flashing is sign the entrance."},"correctAnswer":"C","translationJa":"点滅する標識が入口を示しています。","explanationJa":"flashingが名詞signを説明します。","focus":"現在分詞の修飾","difficulty":"intermediate"},{"id":"PAGE_0026_Q16","format":"correct-sentence","prompt":"Choose the sentence where -ing acts as a noun-like subject.","choices":{"A":"Check email regularly saves time.","B":"Checked email regularly saves time.","C":"Emails checking regularly save time.","D":"Checking email regularly saves time."},"correctAnswer":"D","translationJa":"定期的にメールを確認することは時間節約になります。","explanationJa":"Checking email regularly全体が主語です。","focus":"動名詞","difficulty":"intermediate"},{"id":"PAGE_0026_Q17","format":"correct-sentence","prompt":"Choose the correct past form of “stop”.","choices":{"A":"The bus stopped outside the hotel.","B":"The bus stoped outside the hotel.","C":"The bus stopping outside the hotel yesterday.","D":"The bus stops outside yesterday."},"correctAnswer":"A","translationJa":"バスはホテルの外で止まりました。","explanationJa":"stopはpを重ねてstoppedです。","focus":"stop→stopped","difficulty":"intermediate"},{"id":"PAGE_0026_Q18","format":"correct-sentence","prompt":"Choose the correct irregular past form of “take”.","choices":{"A":"She taked the morning train.","B":"She took the morning train.","C":"She taking the morning train yesterday.","D":"She takes the morning train yesterday."},"correctAnswer":"B","translationJa":"彼女は朝の電車に乗りました。","explanationJa":"takeの過去形は不規則変化tookです。","focus":"take→took","difficulty":"advanced"},{"id":"PAGE_0026_Q19","format":"correct-sentence","prompt":"Choose the sentence where the -ing phrase describes an ongoing scene.","choices":{"A":"The staff were carrying boxes when I arrived.","B":"The staff carried boxes every day now.","C":"The staff were carried boxes when I arrived.","D":"The staff carrying boxes was the verb only."},"correctAnswer":"A","translationJa":"私が着いた時、スタッフは箱を運んでいるところでした。","explanationJa":"were carryingで過去の途中の動作を表します。","focus":"過去進行","difficulty":"advanced"},{"id":"PAGE_0026_Q20","format":"correct-sentence","prompt":"Choose the sentence that correctly uses -ing as a noun-like object.","choices":{"A":"The manager enjoys to read reports only here.","B":"The manager enjoys reading industry reports.","C":"The manager enjoys read industry reports.","D":"The manager enjoys readed reports."},"correctAnswer":"B","translationJa":"部長は業界報告書を読むことを楽しみます。","explanationJa":"reading industry reportsがenjoysの目的語として名詞的に働きます。","focus":"動名詞目的語","difficulty":"advanced"},{"id":"PAGE_0026_Q21","format":"meaning-equivalent","prompt":"Choose the correct past form of “start”.","choices":{"A":"started","B":"startted","C":"startied","D":"starting"},"correctAnswer":"A","translationJa":"startの過去形はstartedです。","explanationJa":"通常の規則動詞なので-edを付けます。","focus":"規則過去","difficulty":"basic"},{"id":"PAGE_0026_Q22","format":"meaning-equivalent","prompt":"Choose the correct past form of “move”.","choices":{"A":"moveed","B":"moving","C":"moved","D":"movied"},"correctAnswer":"C","translationJa":"moveの過去形はmovedです。","explanationJa":"eで終わるので+dです。","focus":"e＋d","difficulty":"basic"},{"id":"PAGE_0026_Q23","format":"meaning-equivalent","prompt":"Choose the correct past form of “carry”.","choices":{"A":"carrys","B":"carried","C":"carryed","D":"carrying"},"correctAnswer":"B","translationJa":"carryの過去形はcarriedです。","explanationJa":"子音字+yなのでyをiに変えて-edです。","focus":"y→ied","difficulty":"basic"},{"id":"PAGE_0026_Q24","format":"meaning-equivalent","prompt":"Choose the correct past form of “run”.","choices":{"A":"runned","B":"running","C":"runs","D":"ran"},"correctAnswer":"D","translationJa":"runの過去形はranです。","explanationJa":"runは不規則変化します。","focus":"run→ran","difficulty":"intermediate"},{"id":"PAGE_0026_Q25","format":"meaning-equivalent","prompt":"What does “The machine is running” mainly show?","choices":{"A":"The machine’s action is in progress now.","B":"The machine always runs every day only.","C":"Running is an adjective before a noun here.","D":"The action finished yesterday."},"correctAnswer":"A","translationJa":"機械の動作が今進行中であることを示します。","explanationJa":"be＋-ingは進行中の場面を表します。","focus":"進行の意味","difficulty":"intermediate"},{"id":"PAGE_0026_Q26","format":"meaning-equivalent","prompt":"What is the role of “waiting” in “the waiting customers”?","choices":{"A":"It is the sentence’s main past verb.","B":"It marks completed time.","C":"It describes the noun customers.","D":"It replaces the subject completely."},"correctAnswer":"C","translationJa":"waitingは名詞customersを説明します。","explanationJa":"-ing形が名詞の動いている特徴を示しています。","focus":"名詞修飾","difficulty":"intermediate"},{"id":"PAGE_0026_Q27","format":"meaning-equivalent","prompt":"What is the role of “Checking the schedule” in “Checking the schedule prevents mistakes”?","choices":{"A":"It is the subject noun-like chunk.","B":"It is the past tense verb.","C":"It describes mistakes.","D":"It is an adverb."},"correctAnswer":"A","translationJa":"Checking the schedule全体が主語です。","explanationJa":"行動を『確認すること』として名詞的に扱っています。","focus":"動名詞主語","difficulty":"intermediate"},{"id":"PAGE_0026_Q28","format":"meaning-equivalent","prompt":"Choose the sentence closest in meaning to: “A man carrying a toolbox entered the room.”","choices":{"A":"A toolbox carried the man into the room.","B":"The man finished carrying yesterday.","C":"A man who was carrying a toolbox entered the room.","D":"Carrying was the room."},"correctAnswer":"C","translationJa":"工具箱を運んでいる男性が部屋に入りました。","explanationJa":"carrying a toolboxがmanを説明する現在分詞句です。","focus":"後置修飾-ing","difficulty":"intermediate"},{"id":"PAGE_0026_Q29","format":"meaning-equivalent","prompt":"Which form correctly shows a regular past spelling change after a short vowel plus final consonant?","choices":{"A":"stopped","B":"stoped","C":"stopied","D":"stopping"},"correctAnswer":"A","translationJa":"正しい過去形はstoppedです。","explanationJa":"短母音＋子音のstopはpを重ねます。","focus":"子音重複規則","difficulty":"advanced"},{"id":"PAGE_0026_Q30","format":"meaning-equivalent","prompt":"Which statement correctly compares past and -ing forms?","choices":{"A":"Both always mean completed past time.","B":"-ing is always a noun and never part of a verb.","C":"Past forms never change irregularly.","D":"Past forms can mark completed time, while -ing can show an ongoing action or take other roles."},"correctAnswer":"D","translationJa":"過去形は完了した過去を示し、-ingは進行や他の役割を持てます。","explanationJa":"ページの2つの形変化の役割差を正しくまとめています。","focus":"形と役割の総合理解","difficulty":"advanced"},{"id":"PAGE_0026_Q31","format":"context-completion","prompt":"The shipment arrived late yesterday. The driver ------- outside the warehouse for thirty minutes.","choices":{"A":"waitting","B":"waited","C":"waiting","D":"waits"},"correctAnswer":"B","translationJa":"荷物は昨日遅れて到着し、運転手は倉庫外で30分待ちました。","explanationJa":"完結した過去なので規則過去形waitedです。","focus":"過去形","difficulty":"basic"},{"id":"PAGE_0026_Q32","format":"context-completion","prompt":"The meeting started at two. At 2:15, the manager was ------- the new policy.","choices":{"A":"explain","B":"explained","C":"explains","D":"explaining"},"correctAnswer":"D","translationJa":"会議は2時開始で、2時15分には部長が新方針を説明中でした。","explanationJa":"was＋-ingで過去の途中の動作を表します。","focus":"過去進行","difficulty":"basic"},{"id":"PAGE_0026_Q33","format":"context-completion","prompt":"The client needed a replacement. We ------- a new unit yesterday.","choices":{"A":"shipped","B":"shipping","C":"ships","D":"shiped"},"correctAnswer":"A","translationJa":"顧客が交換品を必要としていたので、昨日新しい装置を発送しました。","explanationJa":"shipは短母音＋子音ではないため通常のshipped綴りです。","focus":"規則過去形","difficulty":"intermediate"},{"id":"PAGE_0026_Q34","format":"context-completion","prompt":"The office bought new furniture last month. It ------- several adjustable desks.","choices":{"A":"buyed","B":"buying","C":"boughts","D":"bought"},"correctAnswer":"D","translationJa":"事務所は先月新しい家具を購入し、調整可能な机を数台買いました。","explanationJa":"buyの過去形はboughtです。","focus":"不規則過去","difficulty":"intermediate"},{"id":"PAGE_0026_Q35","format":"context-completion","prompt":"The lobby is crowded. Several customers are ------- near the service desk.","choices":{"A":"waited","B":"waiting","C":"wait","D":"waits"},"correctAnswer":"B","translationJa":"ロビーは混雑しており、数人の顧客がサービスデスク近くで待っています。","explanationJa":"are＋waitingで現在進行中を表します。","focus":"現在進行","difficulty":"intermediate"},{"id":"PAGE_0026_Q36","format":"context-completion","prompt":"The security team noticed a ------- warning light on the control panel.","choices":{"A":"flashed","B":"flash","C":"flashing","D":"flashes"},"correctAnswer":"C","translationJa":"警備チームは制御盤上の点滅している警告灯に気づきました。","explanationJa":"flashingがwarning lightを説明します。","focus":"-ing修飾","difficulty":"intermediate"},{"id":"PAGE_0026_Q37","format":"context-completion","prompt":"The company wants fewer errors. ------- every order twice is one possible solution.","choices":{"A":"Checked","B":"Check","C":"Checks","D":"Checking"},"correctAnswer":"D","translationJa":"会社はミスを減らしたく、各注文を2回確認することが一つの解決策です。","explanationJa":"Checking every order twice全体が主語です。","focus":"動名詞主語","difficulty":"intermediate"},{"id":"PAGE_0026_Q38","format":"context-completion","prompt":"The technician could not find the fault at first, but she eventually ------- the loose connector.","choices":{"A":"finded","B":"found","C":"finding","D":"finds"},"correctAnswer":"B","translationJa":"技術者は最初故障を見つけられませんでしたが、最終的に緩んだコネクタを発見しました。","explanationJa":"findの過去形はfoundです。","focus":"不規則変化","difficulty":"advanced"},{"id":"PAGE_0026_Q39","format":"context-completion","prompt":"The event schedule changed yesterday. The coordinator ------- all attendees before noon.","choices":{"A":"notified","B":"notifyed","C":"notifying","D":"notifies"},"correctAnswer":"A","translationJa":"昨日イベント日程が変わり、担当者は正午前に全参加者へ通知しました。","explanationJa":"notifyは子音字+yなのでyをiに変えてnotifiedです。","focus":"y→ied高度運用","difficulty":"advanced"},{"id":"PAGE_0026_Q40","format":"context-completion","prompt":"The camera captured a worker ------- a safety barrier into position.","choices":{"A":"moved","B":"moving","C":"moves","D":"moveed"},"correctAnswer":"B","translationJa":"カメラは作業員が安全柵を所定位置へ動かしている場面を捉えました。","explanationJa":"moving a safety barrierがworkerの進行中の動作を説明します。","focus":"-ingによる場面描写","difficulty":"advanced"}]}
+{
+  "schemaVersion": 1,
+  "page": {
+    "number": 26,
+    "id": "grammar-master-0026",
+    "title": "過去の足あと、動く -ing",
+    "image": "pages/PAGE_0026.webp",
+    "sourcePrompt": "source-prompts/PAGE_0026.txt"
+  },
+  "analysis": {
+    "summaryJa": "このページは、過去を示す形として規則動詞の-ed系変化と不規則動詞の形そのものの変化を整理し、さらに-ing形を『動きの途中を生き生き見せる形』として、進行形の一部・名詞を説明する分詞・行動を『～すること』として扱う動名詞の3役へ広げる。",
+    "grammarPoints": [
+      "規則過去形の基本-edと-e終わりの+d",
+      "子音字+yの過去形を-iedにする",
+      "短母音＋子音終わりで子音を重ねて-edを付ける",
+      "buy→bought等の不規則過去形を使う",
+      "be＋-ingで進行中を表す",
+      "-ingで名詞を前後から説明する",
+      "-ing句を名詞的な行動のまとまりとして使う"
+    ],
+    "visualEvidence": [
+      "source-jsonは規則-edの足跡と不規則な形変化の足跡を対比する",
+      "plan→plannedで子音字を重ねる規則を示す",
+      "buy→boughtで不規則変化を示す",
+      "was runningで進行、Collecting shellsで主語としての-ingを示す",
+      "stop→stoppedをミニ問題で確認する"
+    ],
+    "commonTraps": [
+      "planed/stopedのように子音重複を忘れる",
+      "studyedのようにy→iedを忘れる",
+      "buyed等の不規則動詞を-ed化する",
+      "進行形でbe動詞を落とす",
+      "-ingが必ず進行形だと思い名詞修飾・動名詞を見落とす"
+    ]
+  },
+  "questions": [
+    {
+      "id": "PAGE_0026_Q01",
+      "format": "part5-cloze",
+      "prompt": "The team ------- the new layout yesterday afternoon.",
+      "choices": {
+        "A": "planned",
+        "B": "planed",
+        "C": "planning",
+        "D": "plans"
+      },
+      "correctAnswer": "A",
+      "translationJa": "チームは昨日午後、新しいレイアウトを計画しました。",
+      "explanationJa": "planは短母音＋子音nで終わるためnを重ねてplannedです。",
+      "focus": "子音重複＋ed",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0026_Q02",
+      "format": "part5-cloze",
+      "prompt": "Ms. Kim ------- a replacement cable at the airport shop.",
+      "choices": {
+        "A": "buyed",
+        "B": "bought",
+        "C": "buying",
+        "D": "buys"
+      },
+      "correctAnswer": "B",
+      "translationJa": "キムさんは空港の店で交換用ケーブルを買いました。",
+      "explanationJa": "buyの過去形は不規則変化boughtです。",
+      "focus": "不規則過去形",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0026_Q03",
+      "format": "part5-cloze",
+      "prompt": "The courier ------- the van near the loading dock ten minutes ago.",
+      "choices": {
+        "A": "stoped",
+        "B": "stopping",
+        "C": "stopped",
+        "D": "stops"
+      },
+      "correctAnswer": "C",
+      "translationJa": "宅配業者は10分前に積み込み場近くでバンを止めました。",
+      "explanationJa": "stopは短母音＋子音pなのでpを重ねてstoppedです。",
+      "focus": "stop→stopped",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0026_Q04",
+      "format": "part5-cloze",
+      "prompt": "The assistant ------- the client’s reply before updating the schedule.",
+      "choices": {
+        "A": "studiedly",
+        "B": "studyed",
+        "C": "studying",
+        "D": "studied"
+      },
+      "correctAnswer": "D",
+      "translationJa": "アシスタントは日程更新前に顧客の返答をよく検討しました。",
+      "explanationJa": "studyは子音字+yなのでyをiに変えてstudiedです。",
+      "focus": "y→ied",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0026_Q05",
+      "format": "part5-cloze",
+      "prompt": "The printer ------- automatically after the technician changed the setting.",
+      "choices": {
+        "A": "restarted",
+        "B": "restartted",
+        "C": "restarting",
+        "D": "restarts"
+      },
+      "correctAnswer": "A",
+      "translationJa": "技術者が設定を変更した後、プリンターは自動で再起動しました。",
+      "explanationJa": "restartは通常の規則動詞なので-edを付けます。",
+      "focus": "規則＋ed",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0026_Q06",
+      "format": "part5-cloze",
+      "prompt": "We ------- the conference room door before leaving last night.",
+      "choices": {
+        "A": "closeed",
+        "B": "closed",
+        "C": "closing",
+        "D": "closes"
+      },
+      "correctAnswer": "B",
+      "translationJa": "昨夜帰る前に会議室のドアを閉めました。",
+      "explanationJa": "closeはeで終わるので+dでclosedです。",
+      "focus": "e＋d",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0026_Q07",
+      "format": "part5-cloze",
+      "prompt": "The technician is ------- the sensor right now.",
+      "choices": {
+        "A": "test",
+        "B": "tested",
+        "C": "testing",
+        "D": "tests"
+      },
+      "correctAnswer": "C",
+      "translationJa": "技術者は今センサーを試験中です。",
+      "explanationJa": "is＋-ingで現在進行中の動作を表します。",
+      "focus": "進行形の-ing",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0026_Q08",
+      "format": "part5-cloze",
+      "prompt": "The ------- warning light indicates a network problem.",
+      "choices": {
+        "A": "flashed",
+        "B": "flash",
+        "C": "flashes",
+        "D": "flashing"
+      },
+      "correctAnswer": "D",
+      "translationJa": "点滅している警告灯はネットワーク問題を示しています。",
+      "explanationJa": "flashingが名詞warning lightの動いている特徴を説明します。",
+      "focus": "-ingの名詞修飾",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0026_Q09",
+      "format": "part5-cloze",
+      "prompt": "------- customer comments helps the team improve the service.",
+      "choices": {
+        "A": "Reviewing",
+        "B": "Reviewed",
+        "C": "Review",
+        "D": "Reviews"
+      },
+      "correctAnswer": "A",
+      "translationJa": "顧客コメントを確認することはサービス改善に役立ちます。",
+      "explanationJa": "Reviewing customer comments全体が行動を表す主語です。",
+      "focus": "動名詞主語",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0026_Q10",
+      "format": "part5-cloze",
+      "prompt": "The manager ------- the correct file after searching for several minutes.",
+      "choices": {
+        "A": "finded",
+        "B": "found",
+        "C": "finds",
+        "D": "finding"
+      },
+      "correctAnswer": "B",
+      "translationJa": "部長は数分探した後、正しいファイルを見つけました。",
+      "explanationJa": "findの過去形は不規則変化foundです。",
+      "focus": "find→found",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0026_Q11",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct past form of “plan”.",
+      "choices": {
+        "A": "We planed the event yesterday.",
+        "B": "We planning the event yesterday.",
+        "C": "We planned the event yesterday.",
+        "D": "We plans the event yesterday."
+      },
+      "correctAnswer": "C",
+      "translationJa": "私たちは昨日イベントを計画しました。",
+      "explanationJa": "planはnを重ねてplannedです。",
+      "focus": "子音重複",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0026_Q12",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct past form of “study”.",
+      "choices": {
+        "A": "She studyed the report carefully.",
+        "B": "She studying the report carefully.",
+        "C": "She studys the report carefully yesterday.",
+        "D": "She studied the report carefully."
+      },
+      "correctAnswer": "D",
+      "translationJa": "彼女は報告書を注意深く検討しました。",
+      "explanationJa": "studyはyをiに変えてstudiedです。",
+      "focus": "y→ied",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0026_Q13",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct irregular past sentence.",
+      "choices": {
+        "A": "The buyer bought two sample units.",
+        "B": "The buyer buyed two sample units.",
+        "C": "The buyer buying two sample units yesterday.",
+        "D": "The buyer buys two sample units yesterday."
+      },
+      "correctAnswer": "A",
+      "translationJa": "買い手はサンプル機を2台購入しました。",
+      "explanationJa": "buyの過去形はboughtです。",
+      "focus": "buy→bought",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0026_Q14",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence describing an action in progress.",
+      "choices": {
+        "A": "The engineer testing the machine now.",
+        "B": "The engineer is testing the machine now.",
+        "C": "The engineer is tested the machine now.",
+        "D": "The engineer tests the machine right now only."
+      },
+      "correctAnswer": "B",
+      "translationJa": "技術者は今機械を試験しています。",
+      "explanationJa": "進行形はbe＋-ingです。",
+      "focus": "進行形",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0026_Q15",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence where -ing describes a noun.",
+      "choices": {
+        "A": "The sign is flash yesterday.",
+        "B": "The sign flashed the light.",
+        "C": "A flashing sign marks the entrance.",
+        "D": "Flashing is sign the entrance."
+      },
+      "correctAnswer": "C",
+      "translationJa": "点滅する標識が入口を示しています。",
+      "explanationJa": "flashingが名詞signを説明します。",
+      "focus": "現在分詞の修飾",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0026_Q16",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence where -ing acts as a noun-like subject.",
+      "choices": {
+        "A": "Check email regularly saves time.",
+        "B": "Checked email regularly saves time.",
+        "C": "Emails checking regularly save time.",
+        "D": "Checking email regularly saves time."
+      },
+      "correctAnswer": "D",
+      "translationJa": "定期的にメールを確認することは時間節約になります。",
+      "explanationJa": "Checking email regularly全体が主語です。",
+      "focus": "動名詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0026_Q17",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct past form of “stop”.",
+      "choices": {
+        "A": "The bus stopped outside the hotel.",
+        "B": "The bus stoped outside the hotel.",
+        "C": "The bus stopping outside the hotel yesterday.",
+        "D": "The bus stops outside yesterday."
+      },
+      "correctAnswer": "A",
+      "translationJa": "バスはホテルの外で止まりました。",
+      "explanationJa": "stopはpを重ねてstoppedです。",
+      "focus": "stop→stopped",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0026_Q18",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct irregular past form of “take”.",
+      "choices": {
+        "A": "She taked the morning train.",
+        "B": "She took the morning train.",
+        "C": "She taking the morning train yesterday.",
+        "D": "She takes the morning train yesterday."
+      },
+      "correctAnswer": "B",
+      "translationJa": "彼女は朝の電車に乗りました。",
+      "explanationJa": "takeの過去形は不規則変化tookです。",
+      "focus": "take→took",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0026_Q19",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence where the -ing phrase describes an ongoing scene.",
+      "choices": {
+        "A": "The staff were carried boxes when I arrived.",
+        "B": "The staff carried boxes every day now.",
+        "C": "The staff were carrying boxes when I arrived.",
+        "D": "The staff carrying boxes was the verb only."
+      },
+      "correctAnswer": "C",
+      "translationJa": "私が着いた時、スタッフは箱を運んでいるところでした。",
+      "explanationJa": "were carryingで過去の途中の動作を表します。",
+      "focus": "過去進行",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0026_Q20",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that correctly uses -ing as a noun-like object.",
+      "choices": {
+        "A": "The manager enjoys to read reports only here.",
+        "B": "The manager enjoys readed reports.",
+        "C": "The manager enjoys read industry reports.",
+        "D": "The manager enjoys reading industry reports."
+      },
+      "correctAnswer": "D",
+      "translationJa": "部長は業界報告書を読むことを楽しみます。",
+      "explanationJa": "reading industry reportsがenjoysの目的語として名詞的に働きます。",
+      "focus": "動名詞目的語",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0026_Q21",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the correct past form of “start”.",
+      "choices": {
+        "A": "started",
+        "B": "startted",
+        "C": "startied",
+        "D": "starting"
+      },
+      "correctAnswer": "A",
+      "translationJa": "startの過去形はstartedです。",
+      "explanationJa": "通常の規則動詞なので-edを付けます。",
+      "focus": "規則過去",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0026_Q22",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the correct past form of “move”.",
+      "choices": {
+        "A": "moveed",
+        "B": "moved",
+        "C": "moving",
+        "D": "movied"
+      },
+      "correctAnswer": "B",
+      "translationJa": "moveの過去形はmovedです。",
+      "explanationJa": "eで終わるので+dです。",
+      "focus": "e＋d",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0026_Q23",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the correct past form of “carry”.",
+      "choices": {
+        "A": "carrys",
+        "B": "carryed",
+        "C": "carried",
+        "D": "carrying"
+      },
+      "correctAnswer": "C",
+      "translationJa": "carryの過去形はcarriedです。",
+      "explanationJa": "子音字+yなのでyをiに変えて-edです。",
+      "focus": "y→ied",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0026_Q24",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the correct past form of “run”.",
+      "choices": {
+        "A": "runned",
+        "B": "running",
+        "C": "runs",
+        "D": "ran"
+      },
+      "correctAnswer": "D",
+      "translationJa": "runの過去形はranです。",
+      "explanationJa": "runは不規則変化します。",
+      "focus": "run→ran",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0026_Q25",
+      "format": "meaning-equivalent",
+      "prompt": "What does “The machine is running” mainly show?",
+      "choices": {
+        "A": "The machine’s action is in progress now.",
+        "B": "The machine always runs every day only.",
+        "C": "Running is an adjective before a noun here.",
+        "D": "The action finished yesterday."
+      },
+      "correctAnswer": "A",
+      "translationJa": "機械の動作が今進行中であることを示します。",
+      "explanationJa": "be＋-ingは進行中の場面を表します。",
+      "focus": "進行の意味",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0026_Q26",
+      "format": "meaning-equivalent",
+      "prompt": "What is the role of “waiting” in “the waiting customers”?",
+      "choices": {
+        "A": "It is the sentence’s main past verb.",
+        "B": "It describes the noun customers.",
+        "C": "It marks completed time.",
+        "D": "It replaces the subject completely."
+      },
+      "correctAnswer": "B",
+      "translationJa": "waitingは名詞customersを説明します。",
+      "explanationJa": "-ing形が名詞の動いている特徴を示しています。",
+      "focus": "名詞修飾",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0026_Q27",
+      "format": "meaning-equivalent",
+      "prompt": "What is the role of “Checking the schedule” in “Checking the schedule prevents mistakes”?",
+      "choices": {
+        "A": "It describes mistakes.",
+        "B": "It is the past tense verb.",
+        "C": "It is the subject noun-like chunk.",
+        "D": "It is an adverb."
+      },
+      "correctAnswer": "C",
+      "translationJa": "Checking the schedule全体が主語です。",
+      "explanationJa": "行動を『確認すること』として名詞的に扱っています。",
+      "focus": "動名詞主語",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0026_Q28",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “A man carrying a toolbox entered the room.”",
+      "choices": {
+        "A": "A toolbox carried the man into the room.",
+        "B": "The man finished carrying yesterday.",
+        "C": "Carrying was the room.",
+        "D": "A man who was carrying a toolbox entered the room."
+      },
+      "correctAnswer": "D",
+      "translationJa": "工具箱を運んでいる男性が部屋に入りました。",
+      "explanationJa": "carrying a toolboxがmanを説明する現在分詞句です。",
+      "focus": "後置修飾-ing",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0026_Q29",
+      "format": "meaning-equivalent",
+      "prompt": "Which form correctly shows a regular past spelling change after a short vowel plus final consonant?",
+      "choices": {
+        "A": "stopped",
+        "B": "stoped",
+        "C": "stopied",
+        "D": "stopping"
+      },
+      "correctAnswer": "A",
+      "translationJa": "正しい過去形はstoppedです。",
+      "explanationJa": "短母音＋子音のstopはpを重ねます。",
+      "focus": "子音重複規則",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0026_Q30",
+      "format": "meaning-equivalent",
+      "prompt": "Which statement correctly compares past and -ing forms?",
+      "choices": {
+        "A": "Both always mean completed past time.",
+        "B": "-ing is always a noun and never part of a verb.",
+        "C": "Past forms can mark completed time, while -ing can show an ongoing action or take other roles.",
+        "D": "Past forms never change irregularly."
+      },
+      "correctAnswer": "C",
+      "translationJa": "過去形は完了した過去を示し、-ingは進行や他の役割を持てます。",
+      "explanationJa": "ページの2つの形変化の役割差を正しくまとめています。",
+      "focus": "形と役割の総合理解",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0026_Q31",
+      "format": "context-completion",
+      "prompt": "The shipment arrived late yesterday. The driver ------- outside the warehouse for thirty minutes.",
+      "choices": {
+        "A": "waitting",
+        "B": "waits",
+        "C": "waiting",
+        "D": "waited"
+      },
+      "correctAnswer": "D",
+      "translationJa": "荷物は昨日遅れて到着し、運転手は倉庫外で30分待ちました。",
+      "explanationJa": "完結した過去なので規則過去形waitedです。",
+      "focus": "過去形",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0026_Q32",
+      "format": "context-completion",
+      "prompt": "The meeting started at two. At 2:15, the manager was ------- the new policy.",
+      "choices": {
+        "A": "explain",
+        "B": "explained",
+        "C": "explaining",
+        "D": "explains"
+      },
+      "correctAnswer": "C",
+      "translationJa": "会議は2時開始で、2時15分には部長が新方針を説明中でした。",
+      "explanationJa": "was＋-ingで過去の途中の動作を表します。",
+      "focus": "過去進行",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0026_Q33",
+      "format": "context-completion",
+      "prompt": "The client needed a replacement. We ------- a new unit yesterday.",
+      "choices": {
+        "A": "shipping",
+        "B": "shipped",
+        "C": "ships",
+        "D": "shiped"
+      },
+      "correctAnswer": "B",
+      "translationJa": "顧客が交換品を必要としていたので、昨日新しい装置を発送しました。",
+      "explanationJa": "shipは短母音＋子音ではないため通常のshipped綴りです。",
+      "focus": "規則過去形",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0026_Q34",
+      "format": "context-completion",
+      "prompt": "The office bought new furniture last month. It ------- several adjustable desks.",
+      "choices": {
+        "A": "bought",
+        "B": "buying",
+        "C": "boughts",
+        "D": "buyed"
+      },
+      "correctAnswer": "A",
+      "translationJa": "事務所は先月新しい家具を購入し、調整可能な机を数台買いました。",
+      "explanationJa": "buyの過去形はboughtです。",
+      "focus": "不規則過去",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0026_Q35",
+      "format": "context-completion",
+      "prompt": "The lobby is crowded. Several customers are ------- near the service desk.",
+      "choices": {
+        "A": "waited",
+        "B": "waits",
+        "C": "wait",
+        "D": "waiting"
+      },
+      "correctAnswer": "D",
+      "translationJa": "ロビーは混雑しており、数人の顧客がサービスデスク近くで待っています。",
+      "explanationJa": "are＋waitingで現在進行中を表します。",
+      "focus": "現在進行",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0026_Q36",
+      "format": "context-completion",
+      "prompt": "The security team noticed a ------- warning light on the control panel.",
+      "choices": {
+        "A": "flashed",
+        "B": "flash",
+        "C": "flashing",
+        "D": "flashes"
+      },
+      "correctAnswer": "C",
+      "translationJa": "警備チームは制御盤上の点滅している警告灯に気づきました。",
+      "explanationJa": "flashingがwarning lightを説明します。",
+      "focus": "-ing修飾",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0026_Q37",
+      "format": "context-completion",
+      "prompt": "The company wants fewer errors. ------- every order twice is one possible solution.",
+      "choices": {
+        "A": "Checked",
+        "B": "Checking",
+        "C": "Checks",
+        "D": "Check"
+      },
+      "correctAnswer": "B",
+      "translationJa": "会社はミスを減らしたく、各注文を2回確認することが一つの解決策です。",
+      "explanationJa": "Checking every order twice全体が主語です。",
+      "focus": "動名詞主語",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0026_Q38",
+      "format": "context-completion",
+      "prompt": "The technician could not find the fault at first, but she eventually ------- the loose connector.",
+      "choices": {
+        "A": "found",
+        "B": "finded",
+        "C": "finding",
+        "D": "finds"
+      },
+      "correctAnswer": "A",
+      "translationJa": "技術者は最初故障を見つけられませんでしたが、最終的に緩んだコネクタを発見しました。",
+      "explanationJa": "findの過去形はfoundです。",
+      "focus": "不規則変化",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0026_Q39",
+      "format": "context-completion",
+      "prompt": "The event schedule changed yesterday. The coordinator ------- all attendees before noon.",
+      "choices": {
+        "A": "notifies",
+        "B": "notifyed",
+        "C": "notifying",
+        "D": "notified"
+      },
+      "correctAnswer": "D",
+      "translationJa": "昨日イベント日程が変わり、担当者は正午前に全参加者へ通知しました。",
+      "explanationJa": "notifyは子音字+yなのでyをiに変えてnotifiedです。",
+      "focus": "y→ied高度運用",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0026_Q40",
+      "format": "context-completion",
+      "prompt": "The camera captured a worker ------- a safety barrier into position.",
+      "choices": {
+        "A": "moved",
+        "B": "moving",
+        "C": "moves",
+        "D": "moveed"
+      },
+      "correctAnswer": "B",
+      "translationJa": "カメラは作業員が安全柵を所定位置へ動かしている場面を捉えました。",
+      "explanationJa": "moving a safety barrierがworkerの進行中の動作を説明します。",
+      "focus": "-ingによる場面描写",
+      "difficulty": "advanced"
+    }
+  ]
+}
