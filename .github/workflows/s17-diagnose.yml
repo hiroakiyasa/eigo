@@ -1,0 +1,67 @@
+name: S17 validation diagnostics
+
+on:
+  push:
+    branches:
+      - automation/s17-staging
+    paths:
+      - '.github/workflows/s17-diagnose.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  diagnose:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Capture validation output
+        shell: bash
+        run: |
+          set +e
+          report=/tmp/s17-validation-diagnostic.txt
+          {
+            echo '=== main head ==='
+            git rev-parse HEAD
+            echo
+            echo '=== PAGE_0278 validator ==='
+            node scripts/validate-question-set.mjs question-sets/PAGE_0278.json
+            echo "exit=$?"
+            echo
+            echo '=== pending page validators ==='
+            node - <<'NODE'
+          const fs = require('fs');
+          const { spawnSync } = require('child_process');
+          const progress = JSON.parse(fs.readFileSync('data/progress.json','utf8'));
+          for (const item of progress.pages.filter((p) => p.status === 'pending')) {
+            const file = `question-sets/PAGE_${String(item.number).padStart(4,'0')}.json`;
+            if (!fs.existsSync(file)) continue;
+            const result = spawnSync(process.execPath, ['scripts/validate-question-set.mjs', file], {encoding:'utf8'});
+            if (result.status !== 0) {
+              console.log(`--- ${file} exit=${result.status} ---`);
+              process.stdout.write(result.stdout || '');
+              process.stdout.write(result.stderr || '');
+            }
+          }
+          NODE
+            echo
+            echo '=== repository validator ==='
+            node scripts/validate-repository.mjs
+            echo "exit=$?"
+          } > "$report" 2>&1
+
+          git fetch origin automation/s17-staging
+          git checkout -B automation/s17-staging origin/automation/s17-staging
+          mkdir -p .s17
+          cp "$report" .s17/validation-diagnostic.txt
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add .s17/validation-diagnostic.txt
+          git commit -m 'chore(s17): record validation diagnostics'
+          git push origin HEAD:automation/s17-staging
