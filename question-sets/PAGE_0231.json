@@ -1,0 +1,675 @@
+{
+  "schemaVersion": 1,
+  "page": {
+    "number": 231,
+    "id": "grammar-master-0231",
+    "title": "長いtoは、後ろへ送る",
+    "image": "pages/PAGE_0231.webp",
+    "sourcePrompt": "source-prompts/PAGE_0231.txt"
+  },
+  "analysis": {
+    "summaryJa": "長いto不定詞の内容を文頭や目的語位置に置くと重くなるため、形式主語・形式目的語itで先に軽い骨格を作り、具体的なto句を後ろへ送る。too＋形容詞＋toは限度を超えて実行できない意味を表し、to have＋過去分詞は述語の基準時より前に完了した出来事を示す。",
+    "grammarPoints": [
+      "It is＋形容詞＋toによる形式主語",
+      "find / make / consider it＋補語＋toによる形式目的語",
+      "too＋形容詞＋toによる実行不能",
+      "to have＋過去分詞による基準時以前",
+      "意味上の主語を示すfor＋人＋to"
+    ],
+    "visualEvidence": [
+      "駅の軽いIT車両が長いTO節を後部へ送っている",
+      "形式主語と形式目的語の二つの構造が別ホームに示されている",
+      "TOOの限度計が行為不能の境界を越えている",
+      "to have＋過去分詞の線が基準時より前を指している"
+    ],
+    "commonTraps": [
+      "長いto句を常に文頭主語にして不自然に重くする",
+      "形式目的語構文でitを落とす",
+      "too ... toを単なるveryと同じ意味にする",
+      "to have doneの出来事を基準時より後と読む",
+      "形式主語itを具体物の代名詞と誤解する"
+    ]
+  },
+  "questions": [
+    {
+      "id": "PAGE_0231_Q01",
+      "format": "part5-cloze",
+      "prompt": "------- is essential to back up customer records before updating the system.",
+      "choices": {
+        "A": "There",
+        "B": "That",
+        "C": "It",
+        "D": "What"
+      },
+      "correctAnswer": "C",
+      "translationJa": "システム更新前に顧客記録をバックアップすることが不可欠です。",
+      "explanationJa": "長いto不定詞を後置する形式主語Itが必要です。",
+      "focus": "形式主語It",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0231_Q02",
+      "format": "part5-cloze",
+      "prompt": "The review team found ------- helpful to compare the two contracts line by line.",
+      "choices": {
+        "A": "it",
+        "B": "that",
+        "C": "there",
+        "D": "them"
+      },
+      "correctAnswer": "A",
+      "translationJa": "審査チームは二つの契約書を一行ずつ比較することが有益だと分かりました。",
+      "explanationJa": "found it helpful toの形式目的語構文が成立します。",
+      "focus": "find it＋補語＋to",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0231_Q03",
+      "format": "part5-cloze",
+      "prompt": "The package was too heavy ------- one employee to lift safely.",
+      "choices": {
+        "A": "of",
+        "B": "that",
+        "C": "with",
+        "D": "for"
+      },
+      "correctAnswer": "D",
+      "translationJa": "その荷物は従業員一人が安全に持ち上げるには重すぎました。",
+      "explanationJa": "too ... for＋人＋toで不定詞の意味上の主語を示します。",
+      "focus": "too ... for A to",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0231_Q04",
+      "format": "part5-cloze",
+      "prompt": "Ms. Kato was pleased ------- received the client’s approval before the deadline.",
+      "choices": {
+        "A": "having",
+        "B": "to have",
+        "C": "to be",
+        "D": "have"
+      },
+      "correctAnswer": "B",
+      "translationJa": "加藤さんは期限前に顧客の承認を得ていたことを喜びました。",
+      "explanationJa": "承認は喜んだ基準時より前なのでto have receivedです。",
+      "focus": "完了不定詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0231_Q05",
+      "format": "part5-cloze",
+      "prompt": "The instructions are too unclear ------- without further explanation.",
+      "choices": {
+        "A": "to follow",
+        "B": "following",
+        "C": "to be followed by us clearly",
+        "D": "that we follow them easily"
+      },
+      "correctAnswer": "A",
+      "translationJa": "その説明書は不明瞭すぎて、追加説明なしには従えません。",
+      "explanationJa": "too＋形容詞＋toは限度超過による実行不能を表します。",
+      "focus": "too ... toの不能",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0231_Q06",
+      "format": "part5-cloze",
+      "prompt": "The new layout makes ------- easier for visitors to locate the reception desk.",
+      "choices": {
+        "A": "there",
+        "B": "that",
+        "C": "it",
+        "D": "them"
+      },
+      "correctAnswer": "C",
+      "translationJa": "新しい配置により、来訪者が受付を見つけやすくなります。",
+      "explanationJa": "makes it easier for A toのitは後続不定詞を受ける形式目的語です。",
+      "focus": "make it＋補語＋for A to",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0231_Q07",
+      "format": "part5-cloze",
+      "prompt": "------- was difficult to schedule all five interviews on the same day.",
+      "choices": {
+        "A": "There",
+        "B": "It",
+        "C": "Those",
+        "D": "Which"
+      },
+      "correctAnswer": "B",
+      "translationJa": "5件すべての面接を同じ日に設定するのは困難でした。",
+      "explanationJa": "長い主語内容を後ろへ送りItで文を開始します。",
+      "focus": "It was＋形容詞＋to",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0231_Q08",
+      "format": "part5-cloze",
+      "prompt": "The consultant appears ------- similar problems at several other branches.",
+      "choices": {
+        "A": "to encounter tomorrow",
+        "B": "encountering now because",
+        "C": "to be encounter",
+        "D": "to have encountered"
+      },
+      "correctAnswer": "D",
+      "translationJa": "そのコンサルタントは他の複数支店で似た問題に遭遇したことがあるようです。",
+      "explanationJa": "遭遇は現在のappearsより前なので完了不定詞が適切です。",
+      "focus": "appear to have done",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0231_Q09",
+      "format": "part5-cloze",
+      "prompt": "Management considers ------- necessary to replace the aging alarm system this year.",
+      "choices": {
+        "A": "it",
+        "B": "that",
+        "C": "there",
+        "D": "one"
+      },
+      "correctAnswer": "A",
+      "translationJa": "経営陣は今年、老朽化した警報装置を交換する必要があると考えています。",
+      "explanationJa": "considers it necessary toの形式目的語構文です。",
+      "focus": "consider it＋補語＋to",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0231_Q10",
+      "format": "part5-cloze",
+      "prompt": "The corridor is too narrow ------- two delivery carts to pass each other.",
+      "choices": {
+        "A": "of",
+        "B": "for",
+        "C": "with",
+        "D": "that"
+      },
+      "correctAnswer": "B",
+      "translationJa": "その廊下は配送カート2台がすれ違うには狭すぎます。",
+      "explanationJa": "too narrow for A to passで実行不能と意味上の主語を示します。",
+      "focus": "too ... for A to",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0231_Q11",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence with a natural postponed infinitive subject.",
+      "choices": {
+        "A": "To submit expense reports online it is convenient.",
+        "B": "There is convenient to submit expense reports online.",
+        "C": "It convenient is submit expense reports to online.",
+        "D": "It is convenient to submit expense reports online."
+      },
+      "correctAnswer": "D",
+      "translationJa": "経費報告書をオンライン提出するのは便利です。",
+      "explanationJa": "It is＋形容詞＋toの自然な形式主語構文です。",
+      "focus": "形式主語の語順",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0231_Q12",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that correctly uses a formal object.",
+      "choices": {
+        "A": "We found difficult to verify it the handwritten serial number.",
+        "B": "We found it difficult to verify the handwritten serial number.",
+        "C": "We found that difficult verify the handwritten serial number.",
+        "D": "We found it difficulty to verified the handwritten number."
+      },
+      "correctAnswer": "B",
+      "translationJa": "手書きの製造番号を確認するのは難しいと分かりました。",
+      "explanationJa": "find it difficult toでitが形式目的語、difficultが補語です。",
+      "focus": "形式目的語it",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0231_Q13",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that correctly expresses inability caused by an excessive degree.",
+      "choices": {
+        "A": "The cabinet is very tall for me to reach the top shelf successfully.",
+        "B": "The cabinet is too tall that I can reach the top shelf.",
+        "C": "The cabinet is too tall for me to reach the top shelf.",
+        "D": "The cabinet too tall for me reaching the top shelf."
+      },
+      "correctAnswer": "C",
+      "translationJa": "その戸棚は高すぎて、私は最上段に手が届きません。",
+      "explanationJa": "too tall for me to reachが限度を超えた不能を表します。",
+      "focus": "too ... toと意味上の主語",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0231_Q14",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence with a correct perfect infinitive.",
+      "choices": {
+        "A": "The applicant claims to have submitted the form last Friday.",
+        "B": "The applicant claims to submitted the form last Friday.",
+        "C": "The applicant claims having submit the form last Friday.",
+        "D": "The applicant claims to have submit the form last Friday."
+      },
+      "correctAnswer": "A",
+      "translationJa": "応募者は先週金曜日に用紙を提出したと主張しています。",
+      "explanationJa": "提出は現在のclaimsより前なのでto have submittedが正しいです。",
+      "focus": "claim to have done",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0231_Q15",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that correctly uses “make it” before an infinitive.",
+      "choices": {
+        "A": "The color coding makes easy it identify urgent orders.",
+        "B": "The color coding makes that easy to identifying urgent orders.",
+        "C": "The color coding it makes easy identify urgent orders.",
+        "D": "The color coding makes it easy to identify urgent orders."
+      },
+      "correctAnswer": "D",
+      "translationJa": "色分けにより緊急注文を簡単に識別できます。",
+      "explanationJa": "make it easy toの骨格が正しい形です。",
+      "focus": "make it easy to",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0231_Q16",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence in which the infinitive event happened earlier.",
+      "choices": {
+        "A": "The manager was relieved to find the invoice tomorrow.",
+        "B": "The manager relieved to having found the invoice.",
+        "C": "The manager was relieved to have found the missing invoice.",
+        "D": "The manager was relieved have found to the invoice."
+      },
+      "correctAnswer": "C",
+      "translationJa": "管理者は紛失していた請求書を見つけていたことに安堵しました。",
+      "explanationJa": "発見が安堵より前に完了しているため完了不定詞です。",
+      "focus": "感情形容詞＋完了不定詞",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0231_Q17",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence with the correct “too ... to” structure.",
+      "choices": {
+        "A": "The print is too small reading without a magnifier.",
+        "B": "The print is too small to read without a magnifier.",
+        "C": "The print is so small to read it without a magnifier.",
+        "D": "The print too is small to be read it."
+      },
+      "correctAnswer": "B",
+      "translationJa": "その文字は小さすぎて拡大鏡なしでは読めません。",
+      "explanationJa": "too small to readは目的語が主語と一致する自然な構造です。",
+      "focus": "too＋形容詞＋to",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0231_Q18",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that correctly postpones a long subject.",
+      "choices": {
+        "A": "To ship the equipment without insurance would it be risky.",
+        "B": "There would risky to ship the equipment without insurance.",
+        "C": "It would be risk to shipping the equipment uninsured.",
+        "D": "It would be risky to ship the equipment without insurance."
+      },
+      "correctAnswer": "D",
+      "translationJa": "保険なしで機器を発送するのは危険でしょう。",
+      "explanationJa": "仮の主語Itを置き、具体的内容をto句で後置しています。",
+      "focus": "形式主語と助動詞",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0231_Q19",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence with a correct “consider it” pattern.",
+      "choices": {
+        "A": "The board considers important it publish the results promptly.",
+        "B": "The board considers that important to publishing results.",
+        "C": "The board considers it important to publish the results promptly.",
+        "D": "The board it considers important publish promptly the results."
+      },
+      "correctAnswer": "C",
+      "translationJa": "取締役会は結果を速やかに公表することが重要だと考えています。",
+      "explanationJa": "consider it important toの形式目的語構文が正しいです。",
+      "focus": "consider it important to",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0231_Q20",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that correctly contrasts the reference time.",
+      "choices": {
+        "A": "The engineer seems to have solved the issue before the meeting began.",
+        "B": "The engineer seems to solved the issue before the meeting began.",
+        "C": "The engineer seems having solve the issue before the meeting.",
+        "D": "The engineer seems to have solving the issue before the meeting."
+      },
+      "correctAnswer": "A",
+      "translationJa": "技師は会議開始前に問題を解決していたようです。",
+      "explanationJa": "解決が現在のseemsより前なのでto have solvedを使います。",
+      "focus": "seem to have done",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0231_Q21",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “It is important to confirm the delivery address.”",
+      "choices": {
+        "A": "Confirming the delivery address is important.",
+        "B": "The delivery address confirms something important.",
+        "C": "It is impossible to change any delivery address.",
+        "D": "The address was confirmed because delivery was unimportant."
+      },
+      "correctAnswer": "A",
+      "translationJa": "配送先住所を確認することは重要です。",
+      "explanationJa": "形式主語itの実質的内容はto confirm以下です。",
+      "focus": "形式主語の実質内容",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0231_Q22",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “We found it useful to create a shared calendar.”",
+      "choices": {
+        "A": "We found a calendar that had been lost.",
+        "B": "The calendar was too useful for anyone to share.",
+        "C": "We created it because the calendar was useless.",
+        "D": "Creating a shared calendar proved useful to us."
+      },
+      "correctAnswer": "D",
+      "translationJa": "共有カレンダーを作ることが私たちには有用だと分かりました。",
+      "explanationJa": "形式目的語itが受けるto句を動名詞主語へ展開しています。",
+      "focus": "find it useful toの言い換え",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0231_Q23",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “The box is too large to fit in the locker.”",
+      "choices": {
+        "A": "The locker is large enough to hold the box.",
+        "B": "The box fits in the locker despite its size.",
+        "C": "The box cannot fit in the locker because of its size.",
+        "D": "The box was made large in order to enter the locker."
+      },
+      "correctAnswer": "C",
+      "translationJa": "その箱は大きさのためロッカーに入りません。",
+      "explanationJa": "too large toが大きさによる実行不能を表します。",
+      "focus": "too ... toの意味",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0231_Q24",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “Nora was happy to have completed the audit early.”",
+      "choices": {
+        "A": "Nora felt happy before she began the audit.",
+        "B": "Nora completed the audit early and later felt happy about it.",
+        "C": "Nora will complete the audit after her happiness ends.",
+        "D": "The audit remained incomplete although Nora was happy."
+      },
+      "correctAnswer": "B",
+      "translationJa": "ノラは早く監査を完了し、その後そのことを喜びました。",
+      "explanationJa": "to have completedは感情の基準時より前の完了を示します。",
+      "focus": "完了不定詞の時間関係",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0231_Q25",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “It took patience to resolve the complaint.”",
+      "choices": {
+        "A": "Resolving the complaint required patience.",
+        "B": "The complaint was resolved too quickly to require patience.",
+        "C": "Patience created a complaint that remained unresolved.",
+        "D": "It was impossible for anyone to discuss the complaint."
+      },
+      "correctAnswer": "A",
+      "translationJa": "苦情を解決するには忍耐が必要でした。",
+      "explanationJa": "形式主語的なit構文の内容を動名詞主語で言い換えています。",
+      "focus": "itと後置内容",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0231_Q26",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “The shelf is too high for customers to reach.”",
+      "choices": {
+        "A": "Customers can easily reach the very high shelf.",
+        "B": "The shelf is low enough for every customer.",
+        "C": "Customers cannot reach the shelf because it is excessively high.",
+        "D": "Customers raised the shelf after reaching it."
+      },
+      "correctAnswer": "C",
+      "translationJa": "棚が高すぎるため顧客は手が届きません。",
+      "explanationJa": "too high for customers toが不能の原因を示します。",
+      "focus": "too ... for A toの意味",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0231_Q27",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “The director appears to have left the office.”",
+      "choices": {
+        "A": "The director appears now in order to leave later.",
+        "B": "The director is certainly still working in the office.",
+        "C": "Leaving the office will make the director appear tomorrow.",
+        "D": "It seems that the director left the office earlier."
+      },
+      "correctAnswer": "D",
+      "translationJa": "取締役は先ほど事務所を出たようです。",
+      "explanationJa": "完了不定詞がappearの基準時より前の退出を表します。",
+      "focus": "appear to have doneの意味",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0231_Q28",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “The app makes it simple to track each shipment.”",
+      "choices": {
+        "A": "The app simplifies the task of tracking every shipment.",
+        "B": "The app makes every shipment impossible to track.",
+        "C": "Tracking creates an app that is too simple to use.",
+        "D": "The app tracks only tasks rather than shipments."
+      },
+      "correctAnswer": "A",
+      "translationJa": "そのアプリは各配送の追跡作業を簡単にします。",
+      "explanationJa": "make it simple toの内容をsimplifies the taskで表しています。",
+      "focus": "make it simple toの同義",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0231_Q29",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “It was generous of the hotel to offer a free upgrade.”",
+      "choices": {
+        "A": "The hotel was too expensive to offer any upgrade.",
+        "B": "Offering a free upgrade was generous behavior by the hotel.",
+        "C": "The upgrade made the hotel less generous.",
+        "D": "Guests offered the hotel a free room."
+      },
+      "correctAnswer": "B",
+      "translationJa": "無料アップグレードの提供はホテルの寛大な対応でした。",
+      "explanationJa": "of the hotelが行為者の性質を評価する形式主語構文です。",
+      "focus": "It is＋形容詞＋of A to",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0231_Q30",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “The report is too technical for new employees to understand.”",
+      "choices": {
+        "A": "New employees understand the report because it is simple.",
+        "B": "The report is technical enough to train everyone easily.",
+        "C": "New employees cannot understand the report because it is excessively technical.",
+        "D": "Employees wrote the report after understanding every detail."
+      },
+      "correctAnswer": "C",
+      "translationJa": "報告書が専門的すぎるため、新入社員には理解できません。",
+      "explanationJa": "too technical for A toは程度超過による不能を表します。",
+      "focus": "too ... toの言い換え",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0231_Q31",
+      "format": "context-completion",
+      "prompt": "The online form contains twelve sections. ------- may take first-time applicants an hour to complete it.",
+      "choices": {
+        "A": "There",
+        "B": "It",
+        "C": "That",
+        "D": "They"
+      },
+      "correctAnswer": "B",
+      "translationJa": "オンライン用紙は12項目あります。初めての応募者が記入するには1時間かかることがあります。",
+      "explanationJa": "後続不定詞を受ける形式主語Itが必要です。",
+      "focus": "It takes A time to",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0231_Q32",
+      "format": "context-completion",
+      "prompt": "The labels use large, clear text. We found ------- easy to sort the packages quickly.",
+      "choices": {
+        "A": "there",
+        "B": "that",
+        "C": "them",
+        "D": "it"
+      },
+      "correctAnswer": "D",
+      "translationJa": "ラベルは大きく明瞭な文字です。そのため荷物を素早く仕分けしやすいと分かりました。",
+      "explanationJa": "found it easy toの形式目的語構文です。",
+      "focus": "find it easy to",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0231_Q33",
+      "format": "context-completion",
+      "prompt": "The doorway is only seventy centimeters wide. It is too narrow ------- the new cabinet to pass through.",
+      "choices": {
+        "A": "for",
+        "B": "of",
+        "C": "with",
+        "D": "that"
+      },
+      "correctAnswer": "A",
+      "translationJa": "戸口は幅70センチしかありません。新しい戸棚が通るには狭すぎます。",
+      "explanationJa": "too narrow for the cabinet toで意味上の主語を示します。",
+      "focus": "too ... for A to",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0231_Q34",
+      "format": "context-completion",
+      "prompt": "The records were already in the archive when the audit began. The assistant was glad ------- them in advance.",
+      "choices": {
+        "A": "to organize tomorrow",
+        "B": "organizing after that",
+        "C": "to have organized",
+        "D": "to be organize"
+      },
+      "correctAnswer": "C",
+      "translationJa": "監査開始時には記録はすでに保管されていました。助手は事前に整理しておいてよかったと思いました。",
+      "explanationJa": "整理がgladの基準時より前なので完了不定詞です。",
+      "focus": "to have doneと前文時系列",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0231_Q35",
+      "format": "context-completion",
+      "prompt": "The manual has more than four hundred pages. Management considers ------- impractical to print a copy for every employee.",
+      "choices": {
+        "A": "that",
+        "B": "there",
+        "C": "one",
+        "D": "it"
+      },
+      "correctAnswer": "D",
+      "translationJa": "手引きは400ページ以上あります。全員分を印刷するのは非現実的だと経営陣は考えています。",
+      "explanationJa": "considers it impractical toの形式目的語構文です。",
+      "focus": "consider it impractical to",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0231_Q36",
+      "format": "context-completion",
+      "prompt": "The soup has just come off the stove. It is too hot ------- immediately.",
+      "choices": {
+        "A": "serving",
+        "B": "to serve",
+        "C": "that we serve it safely",
+        "D": "for served"
+      },
+      "correctAnswer": "B",
+      "translationJa": "スープは今コンロから下ろしたばかりです。熱すぎてすぐには提供できません。",
+      "explanationJa": "too hot to serveが温度による不能を示します。",
+      "focus": "too hot to",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0231_Q37",
+      "format": "context-completion",
+      "prompt": "The supplier sent the replacement before noon. It appears ------- our urgent request promptly.",
+      "choices": {
+        "A": "to have handled",
+        "B": "to handle next week",
+        "C": "handling because",
+        "D": "to be handled"
+      },
+      "correctAnswer": "A",
+      "translationJa": "供給業者は正午前に交換品を送りました。緊急依頼に迅速に対応したようです。",
+      "explanationJa": "対応が現在のappearsより前なので完了不定詞です。",
+      "focus": "appear to have handled",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0231_Q38",
+      "format": "context-completion",
+      "prompt": "Several visitors use wheelchairs. The renovation will make ------- safer for them to enter the lobby.",
+      "choices": {
+        "A": "there",
+        "B": "that",
+        "C": "those",
+        "D": "it"
+      },
+      "correctAnswer": "D",
+      "translationJa": "車いす利用者が複数います。改修により、その人たちがより安全にロビーへ入れるようになります。",
+      "explanationJa": "make it safer for A toで後続内容を後置します。",
+      "focus": "make it safer for A to",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0231_Q39",
+      "format": "context-completion",
+      "prompt": "The final estimate includes all taxes and fees. ------- is useful to review the total before approving it.",
+      "choices": {
+        "A": "There",
+        "B": "What",
+        "C": "It",
+        "D": "Those"
+      },
+      "correctAnswer": "C",
+      "translationJa": "最終見積もりには税金と手数料がすべて含まれます。承認前に合計を確認すると有益です。",
+      "explanationJa": "to review以下を受ける形式主語Itが適切です。",
+      "focus": "形式主語と文脈",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0231_Q40",
+      "format": "context-completion",
+      "prompt": "The storage room ceiling is low. The assembled display is too tall ------- inside.",
+      "choices": {
+        "A": "moving",
+        "B": "to move",
+        "C": "that staff can move it",
+        "D": "for moved"
+      },
+      "correctAnswer": "B",
+      "translationJa": "倉庫の天井は低く、組み立て済み展示物は高すぎて中へ運べません。",
+      "explanationJa": "too tall to moveで限度超過による不能を表します。",
+      "focus": "too ... toと文脈不能",
+      "difficulty": "intermediate"
+    }
+  ]
+}
