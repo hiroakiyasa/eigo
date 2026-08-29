@@ -346,7 +346,7 @@
 | 293 | もしもの二段ロケット | [PAGE_0293](pages/PAGE_0293.webp) | [原稿](source-prompts/PAGE_0293.txt) | [40問](question-sets/PAGE_0293.json) |
 | 294 | 過去の原因、今の結果 | [PAGE_0294](pages/PAGE_0294.webp) | [原稿](source-prompts/PAGE_0294.txt) | [40問](question-sets/PAGE_0294.json) |
 | 295 | 過去の箱に入れると時制も過去 | [PAGE_0295](pages/PAGE_0295.webp) | [原稿](source-prompts/PAGE_0295.txt) | [40問](question-sets/PAGE_0295.json) |
-| 296 | 報告より前なら had＋過去分詞 | [PAGE_0296](pages/PAGE_0296.webp) | [原稿](source-prompts/PAGE_0296.txt) | `pending` |
+| 296 | 報告より前なら had＋過去分詞 | [PAGE_0296](pages/PAGE_0296.webp) | [原稿](source-prompts/PAGE_0296.txt) | [40問](question-sets/PAGE_0296.json) |
 | 297 | 助動詞の時制シフト | [PAGE_0297](pages/PAGE_0297.webp) | [原稿](source-prompts/PAGE_0297.txt) | `pending` |
 | 298 | 今も本当なら時制を保てる | [PAGE_0298](pages/PAGE_0298.webp) | [原稿](source-prompts/PAGE_0298.txt) | `pending` |
 | 299 | 過去の物語は細部も過去色 | [PAGE_0299](pages/PAGE_0299.webp) | [原稿](source-prompts/PAGE_0299.txt) | `pending` |

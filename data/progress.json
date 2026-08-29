@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-29T05:34:31.930Z",
+  "updatedAt": "2026-08-29T05:34:52.062Z",
   "totalPages": 330,
-  "completedPages": 110,
+  "completedPages": 111,
   "questionsPerPage": 40,
   "totalPlannedQuestions": 13200,
   "pages": [
@@ -2370,9 +2370,9 @@
       "number": 296,
       "id": "grammar-master-0296",
       "title": "報告より前なら had＋過去分詞",
-      "status": "pending",
+      "status": "complete",
       "output": "question-sets/PAGE_0296.json",
-      "completedAt": null
+      "completedAt": "2026-08-29T05:34:52.062Z"
     },
     {
       "number": 297,
