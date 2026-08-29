@@ -226,7 +226,7 @@
 | 193 | ofはリンク、onは接触 | [PAGE_0193](pages/PAGE_0193.webp) | [原稿](source-prompts/PAGE_0193.txt) | `pending` |
 | 194 | onは線・活動・支え | [PAGE_0194](pages/PAGE_0194.webp) | [原稿](source-prompts/PAGE_0194.txt) | [40問](question-sets/PAGE_0194.json) |
 | 195 | 時の点・日・幅とover | [PAGE_0195](pages/PAGE_0195.webp) | [原稿](source-prompts/PAGE_0195.txt) | [40問](question-sets/PAGE_0195.json) |
-| 196 | overで越え、toで到達 | [PAGE_0196](pages/PAGE_0196.webp) | [原稿](source-prompts/PAGE_0196.txt) | `pending` |
+| 196 | overで越え、toで到達 | [PAGE_0196](pages/PAGE_0196.webp) | [原稿](source-prompts/PAGE_0196.txt) | [40問](question-sets/PAGE_0196.json) |
 | 197 | 方向・通過・下を描く | [PAGE_0197](pages/PAGE_0197.webp) | [原稿](source-prompts/PAGE_0197.txt) | `pending` |
 | 198 | withで状況をつなぐ | [PAGE_0198](pages/PAGE_0198.webp) | [原稿](source-prompts/PAGE_0198.txt) | `pending` |
 | 199 | 範囲・不在・話題を示す | [PAGE_0199](pages/PAGE_0199.webp) | [原稿](source-prompts/PAGE_0199.txt) | `pending` |
