@@ -1,0 +1,575 @@
+{
+  "schemaVersion": 1,
+  "page": {
+    "number": 119,
+    "id": "grammar-master-0119",
+    "title": "副詞は、文の景色を変える",
+    "image": "pages/PAGE_0119.webp",
+    "sourcePrompt": "source-prompts/PAGE_0119.txt"
+  },
+  "analysis": {
+    "summaryJa": "このページは、副詞が名詞以外の要素へ情報を加え、文の見え方を変える働きを扱う。いつ、どこで、どの程度、どの頻度で起きるかに加え、話し手が内容をどう評価しているかも副詞で示せる。時間・場所は文末、程度は修飾対象の近く、頻度は一般動詞の前やbe動詞・助動詞の後、態度副詞は文頭という基本配置を、自然な業務場面の40問で確認する。",
+    "grammarPoints": [
+      "時間副詞・時間表現は出来事がいつ起こるかを示す",
+      "場所副詞は動作・状態がどこで成立するかを示す",
+      "程度副詞は形容詞、副詞、比較級、動詞などの強さや範囲を調整する",
+      "頻度副詞は一般動詞の前、be動詞の後、助動詞と本動詞の間を基本位置とする",
+      "態度副詞は文全体に話し手の判断、確信、驚き、率直さなどを加える"
+    ],
+    "visualEvidence": [
+      "文の周囲に配置された時計、場所の印、目盛り、反復記号、吹き出しが副詞の五つの役割を示している",
+      "動詞だけでなく形容詞や文全体へ矢印が伸び、副詞が広い範囲を修飾できることを表している",
+      "頻度を表す目盛りがalwaysからneverまでの段階を示し、出来事の反復度を可視化している",
+      "文頭の吹き出しが、話し手の評価を出来事全体へ重ねる態度副詞を示している"
+    ],
+    "commonTraps": [
+      "頻度副詞をbe動詞の前に置く、または一般動詞の後ろへ不自然に置く",
+      "形容詞を直接強める箇所で形容詞形を選び、副詞の修飾関係を壊す",
+      "場所副詞here・there・upstairs・nearbyの前に不要な前置詞を置く",
+      "文副詞を動作の様態副詞と誤解し、発言全体への評価を見落とす",
+      "almost・nearlyなどの程度範囲を取り違え、出来事が完了した意味にしてしまう"
+    ]
+  },
+  "questions": [
+    {
+      "id": "PAGE_0119_Q01",
+      "format": "part5-cloze",
+      "prompt": "The safety committee meets ------- to review incidents reported during the week.",
+      "choices": {"A": "regular", "B": "regularity", "C": "regularly", "D": "regulate"},
+      "correctAnswer": "C",
+      "translationJa": "安全委員会は、その週に報告された事案を確認するため定期的に会合を開きます。",
+      "explanationJa": "meetsの頻度を説明するため副詞regularlyを用います。regularは名詞の性質を表す形容詞です。",
+      "focus": "頻度を表す副詞",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0119_Q02",
+      "format": "part5-cloze",
+      "prompt": "Please leave oversized parcels ------- until a warehouse employee arrives.",
+      "choices": {"A": "outside", "B": "outer", "C": "outward", "D": "outsider"},
+      "correctAnswer": "A",
+      "translationJa": "倉庫担当者が来るまで、大型荷物は外に置いてください。",
+      "explanationJa": "leave parcelsという動作が行われる場所を副詞outsideが示します。前置詞を伴わず単独で使えます。",
+      "focus": "場所副詞outside",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0119_Q03",
+      "format": "part5-cloze",
+      "prompt": "Ms. Ito has ------- missed a client deadline during her ten years with the firm.",
+      "choices": {"A": "rare", "B": "rarity", "C": "rarest", "D": "rarely"},
+      "correctAnswer": "D",
+      "translationJa": "伊藤さんはこの会社での10年間、顧客の期限に遅れたことがほとんどありません。",
+      "explanationJa": "現在完了has missedの頻度を示すrarelyは、助動詞hasと過去分詞missedの間に置きます。",
+      "focus": "助動詞と本動詞の間の頻度副詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0119_Q04",
+      "format": "part5-cloze",
+      "prompt": "The renovated exhibition hall opens ------- at nine o'clock.",
+      "choices": {"A": "near", "B": "tomorrow", "C": "almost", "D": "usually"},
+      "correctAnswer": "B",
+      "translationJa": "改装された展示ホールは明日の9時に開館します。",
+      "explanationJa": "tomorrowは開館する時を示す時間副詞で、文末の具体時刻と自然に結びつきます。",
+      "focus": "時間副詞tomorrow",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0119_Q05",
+      "format": "part5-cloze",
+      "prompt": "The renewal fee is ------- higher this year because additional support is included.",
+      "choices": {"A": "considerably", "B": "considerable", "C": "consideration", "D": "considering"},
+      "correctAnswer": "A",
+      "translationJa": "追加サポートが含まれるため、今年の更新料はかなり高くなっています。",
+      "explanationJa": "比較級higherの差の程度を副詞considerablyが修飾します。",
+      "focus": "比較級を修飾する程度副詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0119_Q06",
+      "format": "part5-cloze",
+      "prompt": "-------, the software update caused no interruption to customer service.",
+      "choices": {"A": "Fortunate", "B": "Fortune", "C": "Fortunately", "D": "More fortunate"},
+      "correctAnswer": "C",
+      "translationJa": "幸い、ソフトウェア更新による顧客サービスの中断はありませんでした。",
+      "explanationJa": "中断がなかったという文全体を好ましく評価する文副詞Fortunatelyが必要です。",
+      "focus": "話し手の評価を表す文副詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0119_Q07",
+      "format": "part5-cloze",
+      "prompt": "The west warehouse is ------- closed while the ventilation system is inspected.",
+      "choices": {"A": "temporary", "B": "temporarily", "C": "temporariness", "D": "temporaries"},
+      "correctAnswer": "B",
+      "translationJa": "換気設備の検査中、西倉庫は一時的に閉鎖されています。",
+      "explanationJa": "closedという状態が続く時間的な範囲を副詞temporarilyが限定します。",
+      "focus": "状態の期間を示す副詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0119_Q08",
+      "format": "part5-cloze",
+      "prompt": "The board ------- rejected the expansion plan but reconsidered it after receiving new demand forecasts.",
+      "choices": {"A": "initial", "B": "initiate", "C": "initiality", "D": "initially"},
+      "correctAnswer": "D",
+      "translationJa": "取締役会は当初、拡張計画を却下しましたが、新しい需要予測を受けて再検討しました。",
+      "explanationJa": "initiallyはrejectedが最初の段階で起きたことを示す時間・段階副詞です。一般動詞rejectedの前に置かれています。",
+      "focus": "段階を表す副詞initially",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0119_Q09",
+      "format": "part5-cloze",
+      "prompt": "Visitors may wait ------- until a guide is available to take them through the laboratory.",
+      "choices": {"A": "here", "B": "this", "C": "where", "D": "place"},
+      "correctAnswer": "A",
+      "translationJa": "案内係が研究所内を案内できるようになるまで、来訪者はこちらでお待ちいただけます。",
+      "explanationJa": "waitが行われる場所を示す場所副詞hereが適切です。前置詞atは不要です。",
+      "focus": "場所副詞hereの単独使用",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0119_Q10",
+      "format": "part5-cloze",
+      "prompt": "Online sales have ------- recovered since the payment system was repaired in June.",
+      "choices": {"A": "gradual", "B": "gradually", "C": "gradation", "D": "graduate"},
+      "correctAnswer": "B",
+      "translationJa": "6月に決済システムが修復されて以来、オンライン売上は徐々に回復しています。",
+      "explanationJa": "recoveredという変化の進み方をgraduallyが説明し、現在完了の助動詞haveと過去分詞の間に置かれています。",
+      "focus": "変化の進行度を示す副詞",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0119_Q11",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about the time of a courier's arrival.",
+      "choices": {
+        "A": "The courier arrived earlyness.",
+        "B": "The courier arrived early.",
+        "C": "The early courier arrivedly.",
+        "D": "The courier early was arrive."
+      },
+      "correctAnswer": "B",
+      "translationJa": "配達員は早く到着しました。",
+      "explanationJa": "earlyは形容詞と副詞が同形で、ここではarrivedの時を説明する副詞です。earlylyとはしません。",
+      "focus": "形容詞・副詞同形のearly",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0119_Q12",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence describing a regular review practice.",
+      "choices": {
+        "A": "We review usually the customer survey on Fridays.",
+        "B": "We are review the customer survey usually on Fridays.",
+        "C": "We usual review the customer survey on Fridays.",
+        "D": "We usually review the customer survey on Fridays."
+      },
+      "correctAnswer": "D",
+      "translationJa": "私たちは通常、金曜日に顧客アンケートを確認します。",
+      "explanationJa": "頻度副詞usuallyは一般動詞reviewの前に置くのが基本です。",
+      "focus": "一般動詞の前の頻度副詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0119_Q13",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence indicating where spare keys are kept.",
+      "choices": {
+        "A": "The spare keys are upstairs.",
+        "B": "The spare keys are at upstairs.",
+        "C": "The upstairs are the spare keys.",
+        "D": "The spare keys upstairsly are."
+      },
+      "correctAnswer": "A",
+      "translationJa": "予備鍵は上の階にあります。",
+      "explanationJa": "upstairsは場所副詞としてbe動詞の後ろに置け、前置詞atを必要としません。",
+      "focus": "場所副詞upstairsと不要な前置詞",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0119_Q14",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that correctly expresses the speaker's judgment about a plan.",
+      "choices": {
+        "A": "Clear, the current plan needs additional funding.",
+        "B": "The clearly current plan needs additional funding.",
+        "C": "Clearly, the current plan needs additional funding.",
+        "D": "The current plan needs clearly additional funding."
+      },
+      "correctAnswer": "C",
+      "translationJa": "明らかに、現在の計画には追加資金が必要です。",
+      "explanationJa": "Clearlyは発言内容全体に話し手の確信を加える文副詞です。文頭をコンマで区切ります。",
+      "focus": "確信を示す文副詞Clearly",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0119_Q15",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about sensitive measuring equipment.",
+      "choices": {
+        "A": "The equipment is extreme sensitively to heat.",
+        "B": "The equipment is extremely sensitive to heat.",
+        "C": "The equipment extremely is sensitivity to heat.",
+        "D": "The extreme equipment is sensitively to heat."
+      },
+      "correctAnswer": "B",
+      "translationJa": "その装置は熱に極めて敏感です。",
+      "explanationJa": "sensitiveがequipmentの性質を表し、その程度を副詞extremelyが強めます。",
+      "focus": "程度副詞＋形容詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0119_Q16",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence indicating the technicians' location.",
+      "choices": {
+        "A": "The technicians are working at nearby.",
+        "B": "The nearby technicians are working place.",
+        "C": "The technicians are working nearby.",
+        "D": "The technicians nearby are work."
+      },
+      "correctAnswer": "C",
+      "translationJa": "技術者たちは近くで作業しています。",
+      "explanationJa": "nearbyはworkingの場所を示す副詞として単独で使えます。at nearbyは誤りです。",
+      "focus": "場所副詞nearby",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0119_Q17",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about the board's repeated support.",
+      "choices": {
+        "A": "The board consistently has supported the training program.",
+        "B": "The board has supported consistently the training program.",
+        "C": "The board has consistent supported the training program.",
+        "D": "The board has consistently supported the training program."
+      },
+      "correctAnswer": "D",
+      "translationJa": "取締役会は一貫して研修制度を支持してきました。",
+      "explanationJa": "現在完了では頻度・継続性を示すconsistentlyを助動詞hasと過去分詞supportedの間に置くのが自然です。",
+      "focus": "完了形内の頻度・継続副詞",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0119_Q18",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence announcing when a clinic will reopen.",
+      "choices": {
+        "A": "The clinic will reopen next Monday.",
+        "B": "The clinic will reopen on next Monday.",
+        "C": "The clinic next Monday will reopening.",
+        "D": "The clinic will next be Monday reopened."
+      },
+      "correctAnswer": "A",
+      "translationJa": "診療所は次の月曜日に再開します。",
+      "explanationJa": "next Mondayはそれ自体で時間表現となるため、通常は前置詞onを付けません。",
+      "focus": "nextを伴う時間表現と前置詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0119_Q19",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence with a correct attitude adverb and focus marker.",
+      "choices": {
+        "A": "Surprising, even the smallest branch exceeded its target.",
+        "B": "The surprisingly smallest branch even exceeded its target.",
+        "C": "Surprisingly, even the smallest branch exceeded its target.",
+        "D": "The smallest branch exceeded surprisingly even its target."
+      },
+      "correctAnswer": "C",
+      "translationJa": "驚いたことに、最小の支店でさえ目標を上回りました。",
+      "explanationJa": "Surprisinglyは出来事全体への驚きを示し、evenはthe smallest branchに焦点を当てます。それぞれの修飾範囲が明確です。",
+      "focus": "態度副詞と焦点副詞の範囲",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0119_Q20",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence with correctly layered degree modification.",
+      "choices": {
+        "A": "The revised process works considerable more efficient.",
+        "B": "The revised process works considerably more efficiently.",
+        "C": "The revised process considerably works more efficient.",
+        "D": "The revised process works considerable efficiently more."
+      },
+      "correctAnswer": "B",
+      "translationJa": "改訂された工程は、以前よりかなり効率よく機能します。",
+      "explanationJa": "efficientlyがworksの様態、moreが比較、considerablyがその差の程度を示します。三層の修飾関係が成立しています。",
+      "focus": "程度＋比較＋様態の多層副詞",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0119_Q21",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The design team occasionally works remotely.\"",
+      "choices": {
+        "A": "The team always works away from the office.",
+        "B": "The team rarely performs any design work.",
+        "C": "The team is moving permanently to a remote office.",
+        "D": "The team works away from the office from time to time."
+      },
+      "correctAnswer": "D",
+      "translationJa": "設計チームは時々オフィス外で勤務します。",
+      "explanationJa": "occasionallyは『時々』という低めの頻度で、from time to timeが同じ意味です。",
+      "focus": "頻度副詞occasionallyの言い換え",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0119_Q22",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The visitor is waiting downstairs.\"",
+      "choices": {
+        "A": "The visitor is waiting outside the building.",
+        "B": "The visitor is waiting on a lower floor.",
+        "C": "The visitor is walking down the stairs.",
+        "D": "The visitor is waiting beneath a desk."
+      },
+      "correctAnswer": "B",
+      "translationJa": "来訪者は下の階で待っています。",
+      "explanationJa": "downstairsは『階下で・下の階に』という場所を示します。移動中という意味ではありません。",
+      "focus": "場所副詞downstairsの意味",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0119_Q23",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"Frankly, the proposed schedule is unrealistic.\"",
+      "choices": {
+        "A": "The schedule contains an unrealistic statement by Frank.",
+        "B": "The proposal asks everyone to speak frankly.",
+        "C": "To be frank, I do not believe the schedule can work.",
+        "D": "The schedule was frankly proposed yesterday."
+      },
+      "correctAnswer": "C",
+      "translationJa": "率直に言えば、その日程が実行可能だとは思いません。",
+      "explanationJa": "Franklyは発言全体への話し手の率直な態度を表し、To be frankが同じ働きをします。",
+      "focus": "態度副詞Franklyの言い換え",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0119_Q24",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"We will announce the selection results tomorrow.\"",
+      "choices": {
+        "A": "The selection results will be announced the following day.",
+        "B": "The results were announced one day earlier.",
+        "C": "Tomorrow's selection will be postponed.",
+        "D": "We announce selection results every day."
+      },
+      "correctAnswer": "A",
+      "translationJa": "選考結果は翌日に発表されます。",
+      "explanationJa": "tomorrowは発話時点の翌日を示し、the following dayが同じ時間関係を表します。",
+      "focus": "時間副詞tomorrowの言い換え",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0119_Q25",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"Shipping costs rose sharply in April.\"",
+      "choices": {
+        "A": "Shipping costs increased little by little throughout April.",
+        "B": "Shipping costs reached their highest level before April.",
+        "C": "The April shipping schedule became shorter.",
+        "D": "There was a sudden and substantial increase in shipping costs in April."
+      },
+      "correctAnswer": "D",
+      "translationJa": "4月に輸送費が急激かつ大幅に上昇しました。",
+      "explanationJa": "sharplyは変化が急で大きいことを表します。Dがその様態・程度を名詞表現で展開しています。",
+      "focus": "変化を表す副詞sharply",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0119_Q26",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The inspection report is almost ready.\"",
+      "choices": {
+        "A": "The report was prepared much earlier than expected.",
+        "B": "The report is ready for only one inspector.",
+        "C": "The report is nearly, but not completely, finished.",
+        "D": "The inspection is unlikely to be reported."
+      },
+      "correctAnswer": "C",
+      "translationJa": "検査報告書はほぼ完成していますが、完全には終わっていません。",
+      "explanationJa": "almostは完了点に近いものの、まだ到達していない程度を表します。",
+      "focus": "程度副詞almostの到達範囲",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0119_Q27",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"Ms. Park has never used the old expense system.\"",
+      "choices": {
+        "A": "Ms. Park stopped using the old system recently.",
+        "B": "At no time has Ms. Park used the old expense system.",
+        "C": "Ms. Park uses the old system less frequently now.",
+        "D": "Ms. Park has used every expense system except the new one."
+      },
+      "correctAnswer": "B",
+      "translationJa": "パークさんは一度も旧経費システムを使ったことがありません。",
+      "explanationJa": "neverは経験の頻度がゼロであることを示し、at no timeが同じ意味を表します。",
+      "focus": "頻度ゼロを示すnever",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0119_Q28",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"Apparently, the supplier misunderstood the specification.\"",
+      "choices": {
+        "A": "The supplier openly admitted changing the specification.",
+        "B": "The specification was apparently written by the supplier.",
+        "C": "The supplier was instructed to ignore the specification.",
+        "D": "The available evidence suggests that the supplier misunderstood the specification."
+      },
+      "correctAnswer": "D",
+      "translationJa": "得られている状況から判断すると、仕入先は仕様を誤解したようです。",
+      "explanationJa": "Apparentlyは見聞きした証拠に基づく話し手の推定を表します。Dがその判断根拠を明示しています。",
+      "focus": "推定を示す態度副詞Apparently",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0119_Q29",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The airport branch performed exceptionally well last quarter.\"",
+      "choices": {
+        "A": "The airport branch performed only one unusual task.",
+        "B": "The branch's airport services were acceptable.",
+        "C": "The branch's performance was far above the normal standard.",
+        "D": "The branch performed well except at the airport."
+      },
+      "correctAnswer": "C",
+      "translationJa": "空港支店の前四半期の業績は通常水準を大きく上回りました。",
+      "explanationJa": "exceptionallyはwellの程度が通常を大きく超えることを示します。",
+      "focus": "程度副詞exceptionally",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0119_Q30",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"Conference guests may park nearby.\"",
+      "choices": {
+        "A": "Guests may use a parking area close to the conference venue.",
+        "B": "Guests must park inside the conference hall.",
+        "C": "Only people living nearby may attend the conference.",
+        "D": "The conference will be held near a guest parking office."
+      },
+      "correctAnswer": "A",
+      "translationJa": "会議参加者は会場の近くにある駐車場を利用できます。",
+      "explanationJa": "nearbyは『近くに』という場所関係を表します。Aが具体的な場所表現で言い換えています。",
+      "focus": "場所副詞nearbyの言い換え",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0119_Q31",
+      "format": "context-completion",
+      "prompt": "The accounting department processes travel reimbursements every Friday. Employees are paid ------- for approved claims.",
+      "choices": {"A": "weekly", "B": "week", "C": "weeks", "D": "weekliness"},
+      "correctAnswer": "A",
+      "translationJa": "経理部は毎週金曜日に出張経費を処理します。承認済みの申請分は週ごとに支払われます。",
+      "explanationJa": "every Fridayという反復情報を受け、paidの頻度を示す副詞weeklyが適切です。",
+      "focus": "文脈に対応する頻度副詞weekly",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0119_Q32",
+      "format": "context-completion",
+      "prompt": "A storm closed the highway for several hours, but the driver found an alternate route. The medical supplies ------- reached the clinic before midnight.",
+      "choices": {"A": "eventual", "B": "event", "C": "eventuality", "D": "eventually"},
+      "correctAnswer": "D",
+      "translationJa": "嵐で高速道路が数時間閉鎖されましたが、運転手は代替経路を見つけました。医療物資は最終的に深夜前に診療所へ届きました。",
+      "explanationJa": "困難や遅れを経た後の最終結果を示すため、時間・展開副詞eventuallyを用います。",
+      "focus": "経過の末を示すeventually",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0119_Q33",
+      "format": "context-completion",
+      "prompt": "The security guard looked under the reception desk and found the missing access cards -------.",
+      "choices": {"A": "their", "B": "there", "C": "they're", "D": "where"},
+      "correctAnswer": "B",
+      "translationJa": "警備員は受付机の下を調べ、紛失した入館カードをそこで見つけました。",
+      "explanationJa": "thereはfoundの場所を示す副詞です。theirは所有格、they'reはthey areの短縮形です。",
+      "focus": "場所副詞thereと同音語",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0119_Q34",
+      "format": "context-completion",
+      "prompt": "After the help page was redesigned, calls about password resets fell by 80 percent. The number of complaints decreased -------.",
+      "choices": {"A": "dramatic", "B": "drama", "C": "dramatically", "D": "dramatize"},
+      "correctAnswer": "C",
+      "translationJa": "ヘルプページの改修後、パスワード再設定に関する電話は80％減りました。苦情件数は劇的に減少しました。",
+      "explanationJa": "80％という大幅な変化を受け、decreasedの程度を副詞dramaticallyが示します。",
+      "focus": "変化量を示す程度副詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0119_Q35",
+      "format": "context-completion",
+      "prompt": "The regional manager joined five of the last six planning meetings. She ------- attends the monthly session.",
+      "choices": {"A": "usually", "B": "usual", "C": "usage", "D": "usefully"},
+      "correctAnswer": "A",
+      "translationJa": "地域部長は直近6回の企画会議のうち5回に参加しました。彼女は通常、月例会議に出席します。",
+      "explanationJa": "6回中5回という高い頻度を表すusuallyが適切で、一般動詞attendsの前に置きます。",
+      "focus": "具体データから頻度副詞を判断する",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0119_Q36",
+      "format": "context-completion",
+      "prompt": "Only preliminary test results are available, and two measurements still need confirmation. -------, the engineering team believes the new coating will last longer.",
+      "choices": {"A": "Tentative", "B": "Tentativeness", "C": "Tentate", "D": "Tentatively"},
+      "correctAnswer": "D",
+      "translationJa": "利用できるのは予備試験結果だけで、2つの測定値はまだ確認が必要です。暫定的には、技術チームは新しい被膜の方が長持ちすると考えています。",
+      "explanationJa": "証拠が未確定であるという文脈から、結論全体の確実性を弱める態度副詞Tentativelyが適切です。",
+      "focus": "確信度を調整する文副詞",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0119_Q37",
+      "format": "context-completion",
+      "prompt": "The café will be closed for two days while new counters are installed. Service is ------- unavailable.",
+      "choices": {"A": "temporary", "B": "temporariness", "C": "temporarily", "D": "temporize"},
+      "correctAnswer": "C",
+      "translationJa": "新しいカウンターの設置中、カフェは2日間休業します。サービスは一時的に利用できません。",
+      "explanationJa": "two daysという限定期間を受け、unavailableという状態の持続範囲をtemporarilyが示します。",
+      "focus": "期間限定状態を表す副詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0119_Q38",
+      "format": "context-completion",
+      "prompt": "The audit covered more than four thousand transactions and found no calculation errors. -------, every total matched the supporting documents.",
+      "choices": {"A": "Remarkably", "B": "Remarkable", "C": "Remark", "D": "Remarking"},
+      "correctAnswer": "A",
+      "translationJa": "監査は4,000件を超える取引を対象とし、計算ミスは見つかりませんでした。驚くべきことに、すべての合計が裏付け資料と一致しました。",
+      "explanationJa": "大量の取引すべてが一致したことへの驚きを文全体に加えるため、Remarkablyを用います。",
+      "focus": "驚きを示す態度副詞",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0119_Q39",
+      "format": "context-completion",
+      "prompt": "The municipal subsidy will cover 97 percent of the installation expense. The project is ------- fully funded.",
+      "choices": {"A": "most", "B": "complete", "C": "full", "D": "almost"},
+      "correctAnswer": "D",
+      "translationJa": "自治体の補助金が設置費用の97％を負担します。この事業はほぼ全額の資金を確保しています。",
+      "explanationJa": "97％は100％に近いものの未到達です。almostがfullyの到達度を限定し、『ほぼ完全に』を表します。",
+      "focus": "almost fullyの範囲関係",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0119_Q40",
+      "format": "context-completion",
+      "prompt": "The company selected a printer less than two kilometers from its headquarters. All promotional materials are produced -------.",
+      "choices": {"A": "local", "B": "locally", "C": "location", "D": "locality"},
+      "correctAnswer": "B",
+      "translationJa": "会社は本社から2キロ未満の印刷会社を選びました。販促物はすべて地元で制作されます。",
+      "explanationJa": "近距離の業者という文脈を受け、producedの場所を示す副詞locallyが適切です。",
+      "focus": "場所・地域を示す副詞locally",
+      "difficulty": "intermediate"
+    }
+  ]
+}
