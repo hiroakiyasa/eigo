@@ -1,0 +1,672 @@
+{
+  "schemaVersion": 1,
+  "page": {
+    "number": 211,
+    "id": "grammar-master-0211",
+    "title": "wh語なしでも後ろから説明",
+    "image": "pages/PAGE_0211.webp",
+    "sourcePrompt": "source-prompts/PAGE_0211.txt"
+  },
+  "analysis": {
+    "summaryJa": "時間・場所・理由・方法の意味を持つ名詞は、when・where・why・howを置かずに説明節を直接続けられる。特にthe wayには方法の意味が含まれるためhowを重ねず、whereを使う節では場所を表すthereを重ねない。",
+    "grammarPoints": [
+      "time・place・reason・wayを表す名詞に説明節を直接つなぐ形",
+      "the way＋節ではhowを併用しないこと",
+      "whereが場所の空所を担う節でthereを重複させないこと",
+      "everywhere・anywhereなどに節を続ける用法"
+    ],
+    "visualEvidence": [
+      "画像のTIME・PLACE・REASON・WAYの4つの扉が、それぞれ名詞＋節を直接結ぶ入口として描かれている",
+      "the way you speakとthe way how you speakの正誤対比がある",
+      "ミニ練習でwhereとthereの場所表現の重複が取り除かれている"
+    ],
+    "commonTraps": [
+      "the way howと方法表現を二重にする",
+      "where節の中にthereを残す",
+      "説明節を疑問文語順にする",
+      "先行する時間・場所名詞と節の意味関係を取り違える"
+    ]
+  },
+  "questions": [
+    {
+      "id": "PAGE_0211_Q01",
+      "format": "part5-cloze",
+      "prompt": "The day ------- will be listed in the project history.",
+      "choices": {
+        "A": "did the new portal go live",
+        "B": "when did the new portal go live",
+        "C": "the new portal went live",
+        "D": "the new portal did go live when"
+      },
+      "correctAnswer": "C",
+      "translationJa": "新しいポータルが稼働を開始した日は、プロジェクト履歴に記載されます。",
+      "explanationJa": "dayは時間の入口なので、平叙文語順のthe new portal went liveを直接続けて説明できます。",
+      "focus": "時間名詞＋説明節",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0211_Q02",
+      "format": "part5-cloze",
+      "prompt": "I appreciate the way ------- difficult customer calls.",
+      "choices": {
+        "A": "you handle",
+        "B": "how you handle",
+        "C": "do you handle",
+        "D": "you handling"
+      },
+      "correctAnswer": "A",
+      "translationJa": "難しい顧客電話へのあなたの対応の仕方に感謝しています。",
+      "explanationJa": "the way自体に「どのように」が含まれるため、howを重ねずyou handleと続けます。",
+      "focus": "the way＋節とhowの重複回避",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0211_Q03",
+      "format": "part5-cloze",
+      "prompt": "The reason ------- was a missing signature on the order form.",
+      "choices": {
+        "A": "was the shipment held",
+        "B": "why the shipment held",
+        "C": "the shipment holding",
+        "D": "the shipment was held"
+      },
+      "correctAnswer": "D",
+      "translationJa": "配送品が保留された理由は、注文書の署名漏れでした。",
+      "explanationJa": "reasonの後ろには主語＋動詞の説明節the shipment was heldを直接置けます。",
+      "focus": "reason＋説明節",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0211_Q04",
+      "format": "part5-cloze",
+      "prompt": "Please choose a place ------- without interrupting other teams.",
+      "choices": {
+        "A": "where can we hold the interview",
+        "B": "we can hold the interview",
+        "C": "we can hold the interview there",
+        "D": "can we hold the interview"
+      },
+      "correctAnswer": "B",
+      "translationJa": "ほかのチームを妨げずに面接を行える場所を選んでください。",
+      "explanationJa": "placeを説明する節は平叙文語順で、場所の空所を残したwe can hold the interviewが適切です。",
+      "focus": "place＋場所の空所を含む節",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0211_Q05",
+      "format": "part5-cloze",
+      "prompt": "The moment -------, the reception staff will unlock the doors.",
+      "choices": {
+        "A": "the first guest arrives",
+        "B": "does the first guest arrive",
+        "C": "when the first guest will arrive",
+        "D": "the first guest arriving"
+      },
+      "correctAnswer": "A",
+      "translationJa": "最初の来客が到着した瞬間に、受付係がドアを開けます。",
+      "explanationJa": "momentは時間を表すため、the first guest arrivesという節を直接続けられます。",
+      "focus": "moment＋時間説明節",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0211_Q06",
+      "format": "part5-cloze",
+      "prompt": "Our driver may stop anywhere ------- legally marked for deliveries.",
+      "choices": {
+        "A": "where the curb is there",
+        "B": "is the curb",
+        "C": "the curb is",
+        "D": "the curb be"
+      },
+      "correctAnswer": "C",
+      "translationJa": "運転手は、配送用として合法的に表示された縁石ならどこでも停車できます。",
+      "explanationJa": "anywhereの後ろにthe curb isという平叙文の節を続け、停車可能な場所を説明します。",
+      "focus": "anywhere＋節",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0211_Q07",
+      "format": "part5-cloze",
+      "prompt": "Could you show me the way ------- these expense codes?",
+      "choices": {
+        "A": "how the finance team applies",
+        "B": "the finance team applies",
+        "C": "does the finance team apply",
+        "D": "the finance team applying"
+      },
+      "correctAnswer": "B",
+      "translationJa": "財務チームがこれらの経費コードを適用する方法を教えていただけますか。",
+      "explanationJa": "the wayの後ろはhowなしでthe finance team appliesという説明節を置きます。",
+      "focus": "方法名詞wayに直接続く節",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0211_Q08",
+      "format": "part5-cloze",
+      "prompt": "The week ------- is usually our busiest sales period.",
+      "choices": {
+        "A": "when begins the holiday campaign",
+        "B": "does the holiday campaign begin",
+        "C": "the holiday campaign beginning",
+        "D": "the holiday campaign begins"
+      },
+      "correctAnswer": "D",
+      "translationJa": "年末キャンペーンが始まる週は、通常、最も販売が忙しい期間です。",
+      "explanationJa": "weekという時間名詞の直後に主語＋動詞の節を置いて、その週を特定しています。",
+      "focus": "week＋ゼロ関係副詞節",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0211_Q09",
+      "format": "part5-cloze",
+      "prompt": "We finally discovered the reason ------- during checkout.",
+      "choices": {
+        "A": "were customers leaving",
+        "B": "customers leaving why",
+        "C": "customers were leaving",
+        "D": "why were customers leaving"
+      },
+      "correctAnswer": "C",
+      "translationJa": "私たちはついに、顧客が会計途中で離脱していた理由を突き止めました。",
+      "explanationJa": "reasonの内容は平叙文語順のcustomers were leavingで直接説明できます。",
+      "focus": "理由を表す名詞＋節",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0211_Q10",
+      "format": "part5-cloze",
+      "prompt": "The courier can wait wherever ------- a loading zone.",
+      "choices": {
+        "A": "does the building provide",
+        "B": "the building provides there",
+        "C": "provides the building",
+        "D": "the building provides"
+      },
+      "correctAnswer": "D",
+      "translationJa": "配送業者は、建物に搬入口が設けられている所ならどこでも待機できます。",
+      "explanationJa": "whereverの後ろはthe building provides a loading zoneという完全な平叙文語順です。",
+      "focus": "whereverが導く場所節",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0211_Q11",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about a product launch date.",
+      "choices": {
+        "A": "I remember the morning when did the application become available.",
+        "B": "I remember the morning the application became available.",
+        "C": "I remember the morning did the application become available.",
+        "D": "I remember the morning the application available became when."
+      },
+      "correctAnswer": "B",
+      "translationJa": "私はそのアプリが利用可能になった朝を覚えています。",
+      "explanationJa": "morningの後ろに平叙文語順の説明節the application became availableを直接続けています。",
+      "focus": "時間名詞を説明する節",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0211_Q12",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence describing a trainer’s method.",
+      "choices": {
+        "A": "The team likes the way how Ms. Ortiz explains the procedure.",
+        "B": "The team likes the way does Ms. Ortiz explain the procedure.",
+        "C": "The team likes how the way Ms. Ortiz explains the procedure.",
+        "D": "The team likes the way Ms. Ortiz explains the procedure."
+      },
+      "correctAnswer": "D",
+      "translationJa": "チームはオルティスさんの手順説明の仕方を気に入っています。",
+      "explanationJa": "the wayとhowを重ねず、the way＋主語＋動詞の形にします。",
+      "focus": "the way howの回避",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0211_Q13",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about the cause of an outage.",
+      "choices": {
+        "A": "The reason the server stopped is still unclear.",
+        "B": "The reason did the server stop is still unclear.",
+        "C": "The reason the server stop is still unclear.",
+        "D": "The reason why did the server stop is still unclear."
+      },
+      "correctAnswer": "A",
+      "translationJa": "サーバーが停止した理由はまだ不明です。",
+      "explanationJa": "reasonをthe server stoppedという完結した説明節が後ろから修飾しています。",
+      "focus": "reason＋平叙文節",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0211_Q14",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about selecting a meeting location.",
+      "choices": {
+        "A": "This is the room where we met the supplier there.",
+        "B": "This is the room where did we meet the supplier.",
+        "C": "This is the room where we met the supplier.",
+        "D": "This is the room we met the supplier where there."
+      },
+      "correctAnswer": "C",
+      "translationJa": "ここが私たちが仕入先と会った部屋です。",
+      "explanationJa": "whereが場所を表すため、節内にthereを重ねません。また節は平叙文語順です。",
+      "focus": "whereとthereの重複回避",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0211_Q15",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about a recurring delivery time.",
+      "choices": {
+        "A": "The packages arrive about the time does the front desk open.",
+        "B": "The packages arrive about the time when opens the front desk.",
+        "C": "The packages arrive about the time the front desk opening.",
+        "D": "The packages arrive about the time the front desk opens."
+      },
+      "correctAnswer": "D",
+      "translationJa": "荷物は受付が開く頃に到着します。",
+      "explanationJa": "timeの後ろにthe front desk opensを直接つなぎ、到着時刻を説明します。",
+      "focus": "the time＋説明節",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0211_Q16",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about access to branch offices.",
+      "choices": {
+        "A": "Technicians may work wherever does the company have an office.",
+        "B": "Technicians may work wherever the company has an office.",
+        "C": "Technicians may work wherever the company has an office there.",
+        "D": "Technicians may work where every the company has an office."
+      },
+      "correctAnswer": "B",
+      "translationJa": "技術者は会社に事務所がある所ならどこでも勤務できます。",
+      "explanationJa": "whereverの後ろには平叙文語順のthe company has an officeを置きます。",
+      "focus": "wherever＋平叙文節",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0211_Q17",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence asking about a filing method.",
+      "choices": {
+        "A": "Please demonstrate the way how you label archived records.",
+        "B": "Please demonstrate the way do you label archived records.",
+        "C": "Please demonstrate the way you label archived records.",
+        "D": "Please demonstrate how the way you label archived records."
+      },
+      "correctAnswer": "C",
+      "translationJa": "保管記録にラベルを付ける方法を実演してください。",
+      "explanationJa": "wayの方法の意味とhowを二重にせず、you labelという節を直接続けます。",
+      "focus": "way節の形",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0211_Q18",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence identifying a reason for a refund.",
+      "choices": {
+        "A": "We understand the reason the customer requested a refund.",
+        "B": "We understand the reason requested the customer a refund.",
+        "C": "We understand the reason did the customer request a refund.",
+        "D": "We understand the reason the customer request a refund."
+      },
+      "correctAnswer": "A",
+      "translationJa": "私たちは顧客が返金を求めた理由を理解しています。",
+      "explanationJa": "the customer requested a refundはreasonを説明する平叙文語順の節です。",
+      "focus": "reasonの後置説明",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0211_Q19",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about seating during a workshop.",
+      "choices": {
+        "A": "Participants may sit anywhere can they see the screen clearly.",
+        "B": "Participants may sit anywhere where they can see the screen there.",
+        "C": "Participants may sit anywhere they can clearly the screen see.",
+        "D": "Participants may sit anywhere they can see the screen clearly."
+      },
+      "correctAnswer": "D",
+      "translationJa": "参加者は画面がはっきり見える所ならどこに座っても構いません。",
+      "explanationJa": "anywhereにthey can see the screen clearlyを直接続け、可能な場所を表します。",
+      "focus": "anywhere＋説明節",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0211_Q20",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence recalling a deadline.",
+      "choices": {
+        "A": "Do you remember the day were the signed forms due?",
+        "B": "Do you remember the day did the signed forms due?",
+        "C": "Do you remember the day the signed forms were due?",
+        "D": "Do you remember the day the signed forms due were when?"
+      },
+      "correctAnswer": "C",
+      "translationJa": "署名済み書類の期限だった日を覚えていますか。",
+      "explanationJa": "文全体は疑問文でも、dayを説明する内側の節はthe signed forms were dueという平叙文語順です。",
+      "focus": "主文の疑問と説明節の語順",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0211_Q21",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"I recall the year our regional office opened.\"",
+      "choices": {
+        "A": "I recall why our regional office opened that year.",
+        "B": "I recall where our regional office opened.",
+        "C": "I recall how the year opened our regional office.",
+        "D": "I recall the year when our regional office opened."
+      },
+      "correctAnswer": "D",
+      "translationJa": "私は地域事務所が開設された年を覚えています。",
+      "explanationJa": "時間名詞yearの後ろではwhenを省略して節を直接続けても同じ意味になります。",
+      "focus": "時間の関係副詞省略",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0211_Q22",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"Tell me how you organize the inventory.\"",
+      "choices": {
+        "A": "Tell me the way how the inventory organizes you.",
+        "B": "Tell me the way you organize the inventory.",
+        "C": "Tell me where you organize the inventory.",
+        "D": "Tell me the reason you organize the inventory."
+      },
+      "correctAnswer": "B",
+      "translationJa": "在庫を整理する方法を教えてください。",
+      "explanationJa": "how you organizeとthe way you organizeは同じ方法を表し、the way howとはしません。",
+      "focus": "how節とthe way節の言い換え",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0211_Q23",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"We know why the invoice was rejected.\"",
+      "choices": {
+        "A": "We know the place the invoice was rejected.",
+        "B": "We know when the invoice rejected the reason.",
+        "C": "We know the reason the invoice was rejected.",
+        "D": "We know the way the invoice accepted."
+      },
+      "correctAnswer": "C",
+      "translationJa": "私たちは請求書が却下された理由を知っています。",
+      "explanationJa": "why節はthe reason＋説明節で言い換えられ、理由の内容を保ちます。",
+      "focus": "why節とreason節",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0211_Q24",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"That is where the orientation took place.\"",
+      "choices": {
+        "A": "That is the place the orientation took place.",
+        "B": "That is the reason the orientation took place.",
+        "C": "That is the time the orientation took place.",
+        "D": "That is how the orientation took place."
+      },
+      "correctAnswer": "A",
+      "translationJa": "そこがオリエンテーションが行われた場所です。",
+      "explanationJa": "whereの場所意味はthe place＋節で表せます。節の中にthereを足す必要はありません。",
+      "focus": "whereとthe place＋節",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0211_Q25",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"You may print the document wherever a secure printer is available.\"",
+      "choices": {
+        "A": "You may print the document whenever a secure printer is available.",
+        "B": "You may print the document anywhere a secure printer is available.",
+        "C": "You may print the document for the reason a printer is secure.",
+        "D": "You may print anywhere the document is a secure printer."
+      },
+      "correctAnswer": "B",
+      "translationJa": "安全なプリンターが利用できる所ならどこでも、その文書を印刷できます。",
+      "explanationJa": "whereverとanywhere＋説明節はいずれも「～する所ならどこでも」を表します。",
+      "focus": "whereverとanywhereの対応",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0211_Q26",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"I dislike how the vendor packages fragile items.\"",
+      "choices": {
+        "A": "I dislike the place the vendor packages fragile items.",
+        "B": "I dislike the reason fragile items package the vendor.",
+        "C": "I dislike the time the vendor delivers fragile items.",
+        "D": "I dislike the way the vendor packages fragile items."
+      },
+      "correctAnswer": "D",
+      "translationJa": "私は仕入先の壊れ物の梱包方法が気に入りません。",
+      "explanationJa": "how the vendor packagesはthe way the vendor packagesと同じ方法を示します。",
+      "focus": "方法を表すhowとway",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0211_Q27",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"Monday was when the maintenance began.\"",
+      "choices": {
+        "A": "Monday was the day the maintenance began.",
+        "B": "Monday was the place the maintenance began.",
+        "C": "Monday was the reason the maintenance began.",
+        "D": "Monday was the way the maintenance began."
+      },
+      "correctAnswer": "A",
+      "translationJa": "月曜日が保守作業の始まった日でした。",
+      "explanationJa": "whenで示した時間はthe day＋説明節へ自然に言い換えられます。",
+      "focus": "when節とday節",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0211_Q28",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The manager explained why the schedule changed.\"",
+      "choices": {
+        "A": "The manager explained the place the schedule changed.",
+        "B": "The schedule explained the way the manager changed.",
+        "C": "The manager explained the reason the schedule changed.",
+        "D": "The manager explained when the reason scheduled."
+      },
+      "correctAnswer": "C",
+      "translationJa": "部長は予定が変更された理由を説明しました。",
+      "explanationJa": "why the schedule changedはthe reason the schedule changedと同じ理由内容です。",
+      "focus": "理由表現の同義変換",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0211_Q29",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"Stay wherever you can receive a strong signal.\"",
+      "choices": {
+        "A": "Stay anywhere you can receive a strong signal.",
+        "B": "Stay whenever you can receive a strong signal.",
+        "C": "Stay the reason you can receive a strong signal.",
+        "D": "Stay anywhere can you receive a strong signal."
+      },
+      "correctAnswer": "A",
+      "translationJa": "強い電波を受信できる所ならどこにいても構いません。",
+      "explanationJa": "whereverはanywhere＋節と同義で、場所の自由選択を表します。",
+      "focus": "複合関係副詞の言い換え",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0211_Q30",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"This is how our team reviews urgent claims.\"",
+      "choices": {
+        "A": "This is the way how does our team review urgent claims.",
+        "B": "This is the way our team reviews urgent claims.",
+        "C": "This is the reason our team reviews urgent claims.",
+        "D": "This is the place our team reviews urgent claims there."
+      },
+      "correctAnswer": "B",
+      "translationJa": "これが私たちのチームが緊急請求を審査する方法です。",
+      "explanationJa": "howで表した方法をthe way＋平叙文節で表せます。the way howとはしません。",
+      "focus": "howとthe wayの正確な対応",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0211_Q31",
+      "format": "context-completion",
+      "prompt": "The support team documents every major incident. Yesterday was the day ------- for the first time.",
+      "choices": {
+        "A": "did the backup system fail",
+        "B": "when did the backup system fail",
+        "C": "the backup system failed",
+        "D": "the backup system failing"
+      },
+      "correctAnswer": "C",
+      "translationJa": "サポートチームは重大な障害をすべて記録します。昨日はバックアップシステムが初めて故障した日でした。",
+      "explanationJa": "dayの後ろに平叙文語順のthe backup system failedを直接続けます。",
+      "focus": "文脈内の時間名詞＋節",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0211_Q32",
+      "format": "context-completion",
+      "prompt": "Please observe Ms. Park during the demonstration. We want you to learn the way ------- each device.",
+      "choices": {
+        "A": "she inspects",
+        "B": "how she inspects",
+        "C": "does she inspect",
+        "D": "she inspecting"
+      },
+      "correctAnswer": "A",
+      "translationJa": "実演中のパクさんを観察してください。各機器を点検する彼女の方法を学んでほしいのです。",
+      "explanationJa": "the wayにhowを重ねず、she inspectsという節を続けます。",
+      "focus": "the wayの後ろの説明節",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0211_Q33",
+      "format": "context-completion",
+      "prompt": "The delivery arrived late, but the road was clear. We are investigating the reason ------- at the depot.",
+      "choices": {
+        "A": "did the truck remain",
+        "B": "the truck remaining why",
+        "C": "was the truck remain",
+        "D": "the truck remained"
+      },
+      "correctAnswer": "D",
+      "translationJa": "配送は遅れましたが、道路は空いていました。トラックが配送所に留まった理由を調査しています。",
+      "explanationJa": "reasonの後ろにはthe truck remained at the depotという平叙文節が入ります。",
+      "focus": "reasonを補う節",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0211_Q34",
+      "format": "context-completion",
+      "prompt": "The lobby is too noisy for interviews. Let us find a place ------- privately.",
+      "choices": {
+        "A": "can candidates speak",
+        "B": "candidates can speak",
+        "C": "candidates can speak there",
+        "D": "where can candidates speak"
+      },
+      "correctAnswer": "B",
+      "translationJa": "ロビーは面接には騒がしすぎます。応募者が個別に話せる場所を探しましょう。",
+      "explanationJa": "placeの後ろに場所の空所を含むcandidates can speak privatelyを置きます。",
+      "focus": "place＋直接説明節",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0211_Q35",
+      "format": "context-completion",
+      "prompt": "Our annual sale starts tomorrow. This is the time ------- most customer questions.",
+      "choices": {
+        "A": "do we receive",
+        "B": "when receive we",
+        "C": "we receive",
+        "D": "we receiving"
+      },
+      "correctAnswer": "C",
+      "translationJa": "年次セールは明日始まります。この時期が最も多くの顧客質問を受ける時です。",
+      "explanationJa": "timeの後ろをwe receive most customer questionsという節が説明しています。",
+      "focus": "time＋節の直接接続",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0211_Q36",
+      "format": "context-completion",
+      "prompt": "The manual is accurate, but new employees find it dense. I will revise the way ------- the safety steps.",
+      "choices": {
+        "A": "it presents",
+        "B": "how it presents",
+        "C": "does it present",
+        "D": "it presenting"
+      },
+      "correctAnswer": "A",
+      "translationJa": "マニュアルは正確ですが、新入社員には内容が詰まりすぎています。安全手順の示し方を改訂します。",
+      "explanationJa": "the wayの後ろはhowなしでit presentsという節を置きます。",
+      "focus": "wayとhowの二重化防止",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0211_Q37",
+      "format": "context-completion",
+      "prompt": "The branch has several unused rooms. We can set up a temporary desk anywhere ------- reliable Wi-Fi.",
+      "choices": {
+        "A": "can employees access",
+        "B": "employees can access",
+        "C": "employees can access there",
+        "D": "where employees access there"
+      },
+      "correctAnswer": "B",
+      "translationJa": "支店には未使用の部屋がいくつかあります。従業員が安定したWi-Fiを利用できる所ならどこにでも仮設机を置けます。",
+      "explanationJa": "anywhereにemployees can access reliable Wi-Fiを直接続けて場所を限定します。",
+      "focus": "anywhereの説明節",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0211_Q38",
+      "format": "context-completion",
+      "prompt": "The client accepted the revised estimate immediately. I understand the reason ------- now.",
+      "choices": {
+        "A": "was the sales director confident",
+        "B": "why was the sales director confident",
+        "C": "the sales director confident",
+        "D": "the sales director was confident"
+      },
+      "correctAnswer": "D",
+      "translationJa": "顧客は修正見積もりをすぐ承認しました。営業部長が自信を持っていた理由が今は分かります。",
+      "explanationJa": "reasonを説明する内側の節は疑問語順にせず、主語＋動詞の順にします。",
+      "focus": "埋め込み節の平叙文語順",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0211_Q39",
+      "format": "context-completion",
+      "prompt": "The security gate opens at six. Staff who arrive earlier must wait until the moment ------- on duty.",
+      "choices": {
+        "A": "a guard comes",
+        "B": "does a guard come",
+        "C": "when a guard will come",
+        "D": "a guard coming"
+      },
+      "correctAnswer": "A",
+      "translationJa": "警備ゲートは6時に開きます。それより早く来た職員は、警備員が勤務に来る時まで待たなければなりません。",
+      "explanationJa": "momentの時間をa guard comes on dutyという現在形の節が直接説明します。",
+      "focus": "moment＋時を示す節",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0211_Q40",
+      "format": "context-completion",
+      "prompt": "The old process confused several customers. Our designer showed us the way ------- without extra labels.",
+      "choices": {
+        "A": "how the form could be simplified",
+        "B": "the form could be simplified",
+        "C": "could the form be simplified",
+        "D": "the form could simplify it"
+      },
+      "correctAnswer": "B",
+      "translationJa": "以前の手続きは複数の顧客を混乱させました。デザイナーは追加ラベルなしでフォームを簡潔にできる方法を示しました。",
+      "explanationJa": "the wayの後ろにhowを置かず、受動形の平叙文節the form could be simplifiedを続けます。",
+      "focus": "way＋助動詞を含む説明節",
+      "difficulty": "advanced"
+    }
+  ]
+}
