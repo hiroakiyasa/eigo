@@ -60,7 +60,7 @@
 | 47 | 命令・禁止・誘いを使い分ける | [PAGE_0047](pages/PAGE_0047.webp) | [原稿](source-prompts/PAGE_0047.txt) | [40問](question-sets/PAGE_0047.json) |
 | 48 | 依頼は、何枚オブラートを重ねる？ | [PAGE_0048](pages/PAGE_0048.webp) | [原稿](source-prompts/PAGE_0048.txt) | [40問](question-sets/PAGE_0048.json) |
 | 49 | There で、新しい登場人物を呼ぶ | [PAGE_0049](pages/PAGE_0049.webp) | [原稿](source-prompts/PAGE_0049.txt) | [40問](question-sets/PAGE_0049.json) |
-| 50 | 既知の場所と、新登場を分ける | [PAGE_0050](pages/PAGE_0050.webp) | [原稿](source-prompts/PAGE_0050.txt) | `pending` |
+| 50 | 既知の場所と、新登場を分ける | [PAGE_0050](pages/PAGE_0050.webp) | [原稿](source-prompts/PAGE_0050.txt) | [40問](question-sets/PAGE_0050.json) |
 | 51 | 動きの向きを見よう | [PAGE_0051](pages/PAGE_0051.webp) | [原稿](source-prompts/PAGE_0051.txt) | `pending` |
 | 52 | 力と方向で動詞をつかむ | [PAGE_0052](pages/PAGE_0052.webp) | [原稿](source-prompts/PAGE_0052.txt) | `pending` |
 | 53 | 向きを変え、手に取り、置く | [PAGE_0053](pages/PAGE_0053.webp) | [原稿](source-prompts/PAGE_0053.txt) | `pending` |

@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-29T03:53:10.353Z",
+  "updatedAt": "2026-08-29T03:55:21.913Z",
   "totalPages": 330,
-  "completedPages": 48,
+  "completedPages": 49,
   "questionsPerPage": 40,
   "totalPlannedQuestions": 13200,
   "pages": [
@@ -402,9 +402,9 @@
       "number": 50,
       "id": "grammar-master-0050",
       "title": "既知の場所と、新登場を分ける",
-      "status": "pending",
+      "status": "complete",
       "output": "question-sets/PAGE_0050.json",
-      "completedAt": null
+      "completedAt": "2026-08-29T03:55:21.913Z"
     },
     {
       "number": 51,
