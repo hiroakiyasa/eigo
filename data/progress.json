@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-29T05:19:44.522Z",
+  "updatedAt": "2026-08-29T05:21:02.658Z",
   "totalPages": 330,
-  "completedPages": 75,
+  "completedPages": 76,
   "questionsPerPage": 40,
   "totalPlannedQuestions": 13200,
   "pages": [
@@ -2002,9 +2002,9 @@
       "number": 250,
       "id": "grammar-master-0250",
       "title": "語順の移動に気持ちを乗せる",
-      "status": "pending",
+      "status": "complete",
       "output": "question-sets/PAGE_0250.json",
-      "completedAt": null
+      "completedAt": "2026-08-29T05:21:02.658Z"
     },
     {
       "number": 251,
