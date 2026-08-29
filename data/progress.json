@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-29T01:13:57.147Z",
+  "updatedAt": "2026-08-29T01:15:35.871Z",
   "totalPages": 330,
-  "completedPages": 11,
+  "completedPages": 12,
   "questionsPerPage": 40,
   "totalPlannedQuestions": 13200,
   "pages": [
@@ -106,9 +106,9 @@
       "number": 13,
       "id": "grammar-master-0013",
       "title": "時は、カメラの距離で感じる",
-      "status": "pending",
+      "status": "complete",
       "output": "question-sets/PAGE_0013.json",
-      "completedAt": null
+      "completedAt": "2026-08-29T01:15:35.871Z"
     },
     {
       "number": 14,
