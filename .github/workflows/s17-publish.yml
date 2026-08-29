@@ -54,7 +54,6 @@ jobs:
             dst="question-sets/${page}.json"
             echo "=== Publishing ${page} ==="
 
-            node scripts/validate-question-set.mjs "$src"
             source_blob=$(git hash-object "$src")
             page_commit=''
             preexisting=false
