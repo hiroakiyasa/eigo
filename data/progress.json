@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-29T00:42:06.704Z",
+  "updatedAt": "2026-08-29T00:43:54.992Z",
   "totalPages": 330,
-  "completedPages": 5,
+  "completedPages": 6,
   "questionsPerPage": 40,
   "totalPlannedQuestions": 13200,
   "pages": [
@@ -58,9 +58,9 @@
       "number": 7,
       "id": "grammar-master-0007",
       "title": "前に置いて、意味をしぼる",
-      "status": "pending",
+      "status": "complete",
       "output": "question-sets/PAGE_0007.json",
-      "completedAt": null
+      "completedAt": "2026-08-29T00:43:54.992Z"
     },
     {
       "number": 8,
