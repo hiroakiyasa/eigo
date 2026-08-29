@@ -274,8 +274,8 @@
 | 231 | 長いtoは、後ろへ送る | [PAGE_0231](pages/PAGE_0231.webp) | [原稿](source-prompts/PAGE_0231.txt) | [40問](question-sets/PAGE_0231.json) |
 | 232 | toの前後で時間と否定を整える | [PAGE_0232](pages/PAGE_0232.webp) | [原稿](source-prompts/PAGE_0232.txt) | [40問](question-sets/PAGE_0232.json) |
 | 233 | “する”から“される”へ視点移動 | [PAGE_0233](pages/PAGE_0233.webp) | [原稿](source-prompts/PAGE_0233.txt) | [40問](question-sets/PAGE_0233.json) |
-| 234 | 受動文を選ぶ4つの理由 | [PAGE_0234](pages/PAGE_0234.webp) | [原稿](source-prompts/PAGE_0234.txt) | `pending` |
-| 235 | be＋過去分詞で受動文 | [PAGE_0235](pages/PAGE_0235.webp) | [原稿](source-prompts/PAGE_0235.txt) | `pending` |
+| 234 | 受動文を選ぶ4つの理由 | [PAGE_0234](pages/PAGE_0234.webp) | [原稿](source-prompts/PAGE_0234.txt) | [40問](question-sets/PAGE_0234.json) |
+| 235 | be＋過去分詞で受動文 | [PAGE_0235](pages/PAGE_0235.webp) | [原稿](source-prompts/PAGE_0235.txt) | [40問](question-sets/PAGE_0235.json) |
 | 236 | beを変えれば、受動も自由自在 | [PAGE_0236](pages/PAGE_0236.webp) | [原稿](source-prompts/PAGE_0236.txt) | [40問](question-sets/PAGE_0236.json) |
 | 237 | 性質は能動形、前置詞はイメージで | [PAGE_0237](pages/PAGE_0237.webp) | [原稿](source-prompts/PAGE_0237.txt) | [40問](question-sets/PAGE_0237.json) |
 | 238 | 2つの目的語を受動文にする | [PAGE_0238](pages/PAGE_0238.webp) | [原稿](source-prompts/PAGE_0238.txt) | [40問](question-sets/PAGE_0238.json) |
@@ -286,7 +286,7 @@
 | 243 | 過去分詞で背景を先に描く | [PAGE_0243](pages/PAGE_0243.webp) | [原稿](source-prompts/PAGE_0243.txt) | [40問](question-sets/PAGE_0243.json) |
 | 244 | 節をひとまとまりの主語にする | [PAGE_0244](pages/PAGE_0244.webp) | [原稿](source-prompts/PAGE_0244.txt) | [40問](question-sets/PAGE_0244.json) |
 | 245 | whetherとwh節を名詞の席へ | [PAGE_0245](pages/PAGE_0245.webp) | [原稿](source-prompts/PAGE_0245.txt) | [40問](question-sets/PAGE_0245.json) |
-| 246 | 節で中身を説明する | [PAGE_0246](pages/PAGE_0246.webp) | [原稿](source-prompts/PAGE_0246.txt) | `pending` |
+| 246 | 節で中身を説明する | [PAGE_0246](pages/PAGE_0246.webp) | [原稿](source-prompts/PAGE_0246.txt) | [40問](question-sets/PAGE_0246.json) |
 | 247 | whatは『もの・こと』を包む | [PAGE_0247](pages/PAGE_0247.webp) | [原稿](source-prompts/PAGE_0247.txt) | `pending` |
 | 248 | どんな条件でも結論は同じ | [PAGE_0248](pages/PAGE_0248.webp) | [原稿](source-prompts/PAGE_0248.txt) | `pending` |
 | 249 | 疑問文は助動詞を前へ | [PAGE_0249](pages/PAGE_0249.webp) | [原稿](source-prompts/PAGE_0249.txt) | `pending` |

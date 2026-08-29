@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-29T09:03:15.566Z",
+  "updatedAt": "2026-08-29T09:06:17.570Z",
   "totalPages": 330,
-  "completedPages": 323,
+  "completedPages": 326,
   "questionsPerPage": 40,
   "totalPlannedQuestions": 13200,
   "pages": [
@@ -1874,17 +1874,17 @@
       "number": 234,
       "id": "grammar-master-0234",
       "title": "受動文を選ぶ4つの理由",
-      "status": "pending",
+      "status": "complete",
       "output": "question-sets/PAGE_0234.json",
-      "completedAt": null
+      "completedAt": "2026-08-29T09:06:16.686Z"
     },
     {
       "number": 235,
       "id": "grammar-master-0235",
       "title": "be＋過去分詞で受動文",
-      "status": "pending",
+      "status": "complete",
       "output": "question-sets/PAGE_0235.json",
-      "completedAt": null
+      "completedAt": "2026-08-29T09:06:16.822Z"
     },
     {
       "number": 236,
@@ -1970,9 +1970,9 @@
       "number": 246,
       "id": "grammar-master-0246",
       "title": "節で中身を説明する",
-      "status": "pending",
+      "status": "complete",
       "output": "question-sets/PAGE_0246.json",
-      "completedAt": null
+      "completedAt": "2026-08-29T09:06:17.570Z"
     },
     {
       "number": 247,
