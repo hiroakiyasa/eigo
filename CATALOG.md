@@ -217,7 +217,7 @@
 | 184 | 前置詞は“感じた景色”で選ぶ | [PAGE_0184](pages/PAGE_0184.webp) | [原稿](source-prompts/PAGE_0184.txt) | [40問](question-sets/PAGE_0184.json) |
 | 185 | above・across・afterを動きでつかむ | [PAGE_0185](pages/PAGE_0185.webp) | [原稿](source-prompts/PAGE_0185.txt) | [40問](question-sets/PAGE_0185.json) |
 | 186 | against・along・among・aroundの地図 | [PAGE_0186](pages/PAGE_0186.webp) | [原稿](source-prompts/PAGE_0186.txt) | [40問](question-sets/PAGE_0186.json) |
-| 187 | atは一点、beforeは順序の前 | [PAGE_0187](pages/PAGE_0187.webp) | [原稿](source-prompts/PAGE_0187.txt) | `pending` |
+| 187 | atは一点、beforeは順序の前 | [PAGE_0187](pages/PAGE_0187.webp) | [原稿](source-prompts/PAGE_0187.txt) | [40問](question-sets/PAGE_0187.json) |
 | 188 | 背後・間・境界・近さを見分ける | [PAGE_0188](pages/PAGE_0188.webp) | [原稿](source-prompts/PAGE_0188.txt) | `pending` |
 | 189 | by・until・during・forで時間を整理 | [PAGE_0189](pages/PAGE_0189.webp) | [原稿](source-prompts/PAGE_0189.txt) | `pending` |
 | 190 | forの全用法は“向かう”から広がる | [PAGE_0190](pages/PAGE_0190.webp) | [原稿](source-prompts/PAGE_0190.txt) | `pending` |
@@ -317,7 +317,7 @@
 
 | ページ | タイトル | 画像 | 制作原稿 | 問題 |
 |---:|---|---|---|---|
-| 267 | 時表現は出来事を時間に置く | [PAGE_0267](pages/PAGE_0267.webp) | [原稿](source-prompts/PAGE_0267.txt) | `pending` |
+| 267 | 時表現は出来事を時間に置く | [PAGE_0267](pages/PAGE_0267.webp) | [原稿](source-prompts/PAGE_0267.txt) | [40問](question-sets/PAGE_0267.json) |
 | 268 | 原形の提案、現在形の一体感 | [PAGE_0268](pages/PAGE_0268.webp) | [原稿](source-prompts/PAGE_0268.txt) | `pending` |
 | 269 | 現在形は“いつもの自分”を語る | [PAGE_0269](pages/PAGE_0269.webp) | [原稿](source-prompts/PAGE_0269.txt) | `pending` |
 | 270 | 実演と未来条件にも現在形 | [PAGE_0270](pages/PAGE_0270.webp) | [原稿](source-prompts/PAGE_0270.txt) | `pending` |
