@@ -1,0 +1,672 @@
+{
+  "schemaVersion": 1,
+  "page": {
+    "number": 213,
+    "id": "grammar-master-0213",
+    "title": "カンマは注釈の合図",
+    "image": "pages/PAGE_0213.webp",
+    "sourcePrompt": "source-prompts/PAGE_0213.txt"
+  },
+  "analysis": {
+    "summaryJa": "カンマなしの関係節は対象を絞り込み、カンマ付きの関係節はすでに特定された人・物へ取り外し可能な補足を加える。非制限用法ではwho・which・whoseを使い、thatや関係詞の省略は避ける。",
+    "grammarPoints": [
+      "制限用法と非制限用法の意味差",
+      "固有名詞や唯一物へのカンマ付き補足",
+      "非制限用法でthatを使わないこと",
+      "who・which・whoseの選択とカンマ節の取り外し可能性"
+    ],
+    "visualEvidence": [
+      "画像のカンマなし側はスポットライトで対象を限定し、カンマあり側は注釈吹き出しとして描かれる",
+      "Dr. MinaやStar Harborへの追加情報がカンマで囲まれている",
+      "ルール欄でカンマ付き関係節はthatを使わないと明示されている"
+    ],
+    "commonTraps": [
+      "固有名詞への補足でthatを使う",
+      "限定に必要な情報をカンマで囲んで意味を変える",
+      "非制限用法の目的格関係詞を省略する",
+      "whoseを人だけに限定して物の所有関係で避ける"
+    ]
+  },
+  "questions": [
+    {
+      "id": "PAGE_0213_Q01",
+      "format": "part5-cloze",
+      "prompt": "Ms. Vega, ------- manages the Osaka branch, will join the call.",
+      "choices": {
+        "A": "that",
+        "B": "whom",
+        "C": "who",
+        "D": "which"
+      },
+      "correctAnswer": "C",
+      "translationJa": "大阪支店を管理するベガさんが電話会議に参加します。",
+      "explanationJa": "固有名詞へのカンマ付き補足で人を主語として受けるためwhoを使います。thatは使えません。",
+      "focus": "非制限用法のwho",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0213_Q02",
+      "format": "part5-cloze",
+      "prompt": "The east elevator, ------- was repaired yesterday, is operating normally.",
+      "choices": {
+        "A": "which",
+        "B": "that",
+        "C": "what",
+        "D": "where"
+      },
+      "correctAnswer": "A",
+      "translationJa": "昨日修理された東側のエレベーターは正常に稼働しています。",
+      "explanationJa": "特定済みの物への補足なので、カンマの後ろはwhichを使います。",
+      "focus": "非制限用法のwhich",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0213_Q03",
+      "format": "part5-cloze",
+      "prompt": "Mr. Bell, ------- office is on the third floor, can approve the request.",
+      "choices": {
+        "A": "who",
+        "B": "whom",
+        "C": "that",
+        "D": "whose"
+      },
+      "correctAnswer": "D",
+      "translationJa": "3階に事務所があるベルさんがその申請を承認できます。",
+      "explanationJa": "officeの所有者がMr. Bellなのでwhoseを用い、カンマ付きで補足します。",
+      "focus": "非制限用法のwhose",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0213_Q04",
+      "format": "part5-cloze",
+      "prompt": "Employees ------- need parking permits should contact Facilities.",
+      "choices": {
+        "A": "who,",
+        "B": "who",
+        "C": ", who",
+        "D": "which"
+      },
+      "correctAnswer": "B",
+      "translationJa": "駐車許可証が必要な従業員は施設管理部に連絡してください。",
+      "explanationJa": "どの従業員かを絞り込む必須情報なのでカンマなしのwho節が適切です。",
+      "focus": "制限用法のwho",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0213_Q05",
+      "format": "part5-cloze",
+      "prompt": "The Riverside Hotel, ------- our company uses for conferences, has added meeting rooms.",
+      "choices": {
+        "A": "which",
+        "B": "that",
+        "C": "what",
+        "D": "where"
+      },
+      "correctAnswer": "A",
+      "translationJa": "当社が会議に利用するリバーサイド・ホテルは会議室を増設しました。",
+      "explanationJa": "固有名詞への補足で、usesの目的語を受けるwhichを省略せず使います。",
+      "focus": "非制限目的格which",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0213_Q06",
+      "format": "part5-cloze",
+      "prompt": "The applicants ------- completed both tests will be interviewed.",
+      "choices": {
+        "A": ", who",
+        "B": "which",
+        "C": "who",
+        "D": "whose"
+      },
+      "correctAnswer": "C",
+      "translationJa": "両方の試験を完了した応募者が面接を受けます。",
+      "explanationJa": "応募者の範囲を限定するためカンマなしのwhoが必要です。",
+      "focus": "識別に必要な制限節",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0213_Q07",
+      "format": "part5-cloze",
+      "prompt": "Our new printer, ------- toner cartridge is recyclable, uses less energy.",
+      "choices": {
+        "A": "which",
+        "B": "whose",
+        "C": "that",
+        "D": "whom"
+      },
+      "correctAnswer": "B",
+      "translationJa": "トナーカートリッジがリサイクル可能な当社の新しいプリンターは、消費電力が少ないです。",
+      "explanationJa": "printerとtoner cartridgeの所有関係をwhoseで表し、補足節をカンマで囲みます。",
+      "focus": "物を先行詞とするwhose",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0213_Q08",
+      "format": "part5-cloze",
+      "prompt": "The invoice ------- contains the service fee is the correct one.",
+      "choices": {
+        "A": ", that",
+        "B": ", which",
+        "C": "whom",
+        "D": "that"
+      },
+      "correctAnswer": "D",
+      "translationJa": "サービス料を含む請求書が正しいものです。",
+      "explanationJa": "複数の請求書から正しいものを限定するため、カンマなしのthat節が適切です。",
+      "focus": "制限用法のthat",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0213_Q09",
+      "format": "part5-cloze",
+      "prompt": "The annual report, ------- I sent this morning, includes the latest figures.",
+      "choices": {
+        "A": "that",
+        "B": "what",
+        "C": "which",
+        "D": "where"
+      },
+      "correctAnswer": "C",
+      "translationJa": "今朝送付した年次報告書には最新の数値が含まれています。",
+      "explanationJa": "すでに特定されたannual reportへの追加情報なのでwhichを使い、省略しません。",
+      "focus": "非制限用法で目的格を省略しない",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0213_Q10",
+      "format": "part5-cloze",
+      "prompt": "Ms. Kato, ------- proposal won the award, will lead the project.",
+      "choices": {
+        "A": "who",
+        "B": "whom",
+        "C": "that",
+        "D": "whose"
+      },
+      "correctAnswer": "D",
+      "translationJa": "提案が賞を受けた加藤さんがプロジェクトを率います。",
+      "explanationJa": "proposalの持ち主を示すwhoseが必要で、固有名詞への注釈をカンマで囲みます。",
+      "focus": "所有を表す非制限節",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0213_Q11",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence adding information about a named director.",
+      "choices": {
+        "A": "Ms. Ito, that joined the firm in May, is our new director.",
+        "B": "Ms. Ito, who joined the firm in May, is our new director.",
+        "C": "Ms. Ito who joined the firm in May, is our new director.",
+        "D": "Ms. Ito, who joined the firm in May is our new director."
+      },
+      "correctAnswer": "B",
+      "translationJa": "5月に入社した伊藤さんが当社の新しい部長です。",
+      "explanationJa": "固有名詞への補足はwho節を2つのカンマで囲みます。thatは使いません。",
+      "focus": "固有名詞＋非制限who節",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0213_Q12",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence identifying which packages need inspection.",
+      "choices": {
+        "A": "The packages, that arrived damaged, require inspection.",
+        "B": "The packages, which arrived damaged require inspection.",
+        "C": "The packages which, arrived damaged, require inspection.",
+        "D": "The packages that arrived damaged require inspection."
+      },
+      "correctAnswer": "D",
+      "translationJa": "破損した状態で届いた荷物は検査が必要です。",
+      "explanationJa": "対象を破損到着品に絞る情報なので、カンマなしの制限節を使います。",
+      "focus": "限定に必要な関係節",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0213_Q13",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence adding a note about a specific building.",
+      "choices": {
+        "A": "Orion Tower, which opened last year, is fully occupied.",
+        "B": "Orion Tower, that opened last year, is fully occupied.",
+        "C": "Orion Tower which opened last year, is fully occupied.",
+        "D": "Orion Tower, which opened last year is fully occupied."
+      },
+      "correctAnswer": "A",
+      "translationJa": "昨年開業したオリオン・タワーは満室です。",
+      "explanationJa": "建物名はすでに特定済みなのでwhichの補足節を両側のカンマで囲みます。",
+      "focus": "物の固有名詞へのwhich注釈",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0213_Q14",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about an employee’s access card.",
+      "choices": {
+        "A": "Mr. Rao, who access card expired, contacted Security.",
+        "B": "Mr. Rao, that his access card expired, contacted Security.",
+        "C": "Mr. Rao, whose access card expired, contacted Security.",
+        "D": "Mr. Rao whose access card expired, contacted Security."
+      },
+      "correctAnswer": "C",
+      "translationJa": "入館カードの期限が切れたラオさんは警備部に連絡しました。",
+      "explanationJa": "所有関係はwhoseで表し、固有名詞への補足としてカンマで囲みます。",
+      "focus": "非制限whose節",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0213_Q15",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence identifying the report requested by a client.",
+      "choices": {
+        "A": "Please send the report, that the client requested.",
+        "B": "Please send the report, which the client requested.",
+        "C": "Please send the report which, the client requested.",
+        "D": "Please send the report that the client requested."
+      },
+      "correctAnswer": "D",
+      "translationJa": "顧客が求めた報告書を送ってください。",
+      "explanationJa": "どの報告書かを特定する必須情報なのでカンマなしです。",
+      "focus": "目的格の制限節",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0213_Q16",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence adding a note about our headquarters.",
+      "choices": {
+        "A": "Our headquarters, that is near the station, has a large lobby.",
+        "B": "Our headquarters, which is near the station, has a large lobby.",
+        "C": "Our headquarters which is near the station, has a large lobby.",
+        "D": "Our headquarters, where is near the station, has a large lobby."
+      },
+      "correctAnswer": "B",
+      "translationJa": "駅の近くにある当社本社には広いロビーがあります。",
+      "explanationJa": "特定済みの本社にwhich節で追加情報を添えています。",
+      "focus": "既知の対象への非制限which",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0213_Q17",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence identifying customers eligible for a refund.",
+      "choices": {
+        "A": "Customers, who canceled before Friday, will receive a refund.",
+        "B": "Customers, that canceled before Friday, will receive a refund.",
+        "C": "Customers who canceled before Friday will receive a refund.",
+        "D": "Customers whom canceled before Friday will receive a refund."
+      },
+      "correctAnswer": "C",
+      "translationJa": "金曜日より前にキャンセルした顧客は返金を受けます。",
+      "explanationJa": "返金対象を条件で絞るため、who節はカンマなしです。",
+      "focus": "制限who節の意味",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0213_Q18",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence adding information about a named product.",
+      "choices": {
+        "A": "The Nova Desk, which we launched in June, is selling well.",
+        "B": "The Nova Desk, that we launched in June, is selling well.",
+        "C": "The Nova Desk, we launched in June, is selling well.",
+        "D": "The Nova Desk which we launched in June is, selling well."
+      },
+      "correctAnswer": "A",
+      "translationJa": "6月に発売したノヴァ・デスクは好調に売れています。",
+      "explanationJa": "商品名への注釈ではwhichを省略せず、節をカンマで囲みます。",
+      "focus": "非制限目的格whichの非省略",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0213_Q19",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about a machine whose warranty ended.",
+      "choices": {
+        "A": "The copier, which warranty ended in July, needs replacement.",
+        "B": "The copier, that its warranty ended in July, needs replacement.",
+        "C": "The copier whose warranty ended in July, needs replacement.",
+        "D": "The copier, whose warranty ended in July, needs replacement."
+      },
+      "correctAnswer": "D",
+      "translationJa": "保証が7月に終了したそのコピー機は交換が必要です。",
+      "explanationJa": "copierとwarrantyの関係をwhoseで示し、補足節を2つのカンマで囲みます。",
+      "focus": "物の所有を示すwhose",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0213_Q20",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence distinguishing one assistant from others.",
+      "choices": {
+        "A": "The assistant, who speaks Korean, will greet the visitors.",
+        "B": "The assistant, that speaks Korean, will greet the visitors.",
+        "C": "The assistant who speaks Korean will greet the visitors.",
+        "D": "The assistant whom speaks Korean will greet the visitors."
+      },
+      "correctAnswer": "C",
+      "translationJa": "韓国語を話すアシスタントが来訪者を迎えます。",
+      "explanationJa": "複数候補から担当者を限定するためカンマを置かず、主格whoを使います。",
+      "focus": "限定と注釈の意味差",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0213_Q21",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"Ms. Diaz, who designed the logo, works remotely.\"",
+      "choices": {
+        "A": "Only the Ms. Diaz who designed the logo works remotely.",
+        "B": "Ms. Diaz works remotely because every designer does.",
+        "C": "The logo works remotely for Ms. Diaz.",
+        "D": "Ms. Diaz works remotely, and she designed the logo."
+      },
+      "correctAnswer": "D",
+      "translationJa": "ロゴをデザインしたディアスさんは在宅勤務です。",
+      "explanationJa": "カンマ節はMs. Diazへの追加情報で、主文とはandで分けても内容を保てます。",
+      "focus": "非制限節の付加情報",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0213_Q22",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The employees who finished training received badges.\"",
+      "choices": {
+        "A": "All employees received badges, and some finished training.",
+        "B": "Only the employees who finished training are stated to have received badges.",
+        "C": "Training received badges from the employees.",
+        "D": "The employees finished training because everyone got badges."
+      },
+      "correctAnswer": "B",
+      "translationJa": "研修を終えた従業員がバッジを受け取りました。",
+      "explanationJa": "カンマなし節は受領者を研修修了者に限定しています。",
+      "focus": "制限節が作る対象範囲",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0213_Q23",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"Harbor Hall, which seats 300 people, is available.\"",
+      "choices": {
+        "A": "Only halls seating 300 people are available.",
+        "B": "Harbor Hall is available for only 300 minutes.",
+        "C": "Harbor Hall is available, and it seats 300 people.",
+        "D": "Three hundred people made Harbor Hall available."
+      },
+      "correctAnswer": "C",
+      "translationJa": "300人収容のハーバー・ホールは利用可能です。",
+      "explanationJa": "固有名詞へのwhich節は補足なので、独立したand節にしても同じ2情報になります。",
+      "focus": "非制限which節の展開",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0213_Q24",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The orders that lack signatures will be returned.\"",
+      "choices": {
+        "A": "Only orders without signatures will be returned.",
+        "B": "All orders will be returned with signatures.",
+        "C": "The signatures will return every order.",
+        "D": "Orders will be signed after they are returned."
+      },
+      "correctAnswer": "A",
+      "translationJa": "署名のない注文書だけが返送されます。",
+      "explanationJa": "カンマなしのthat節は返送対象を署名なしの注文書に絞ります。",
+      "focus": "制限that節の限定意味",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0213_Q25",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"Mr. Han, whose team won the contract, thanked us.\"",
+      "choices": {
+        "A": "Mr. Han thanked the team that gave us a contract.",
+        "B": "Mr. Han’s team won the contract, and he thanked us.",
+        "C": "Our team won Mr. Han’s thanks.",
+        "D": "Mr. Han won the team after thanking us."
+      },
+      "correctAnswer": "B",
+      "translationJa": "チームが契約を獲得したハンさんは私たちに感謝しました。",
+      "explanationJa": "whoseはMr. Hanとteamの所有関係を表し、その情報は補足です。",
+      "focus": "非制限whoseの意味",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0213_Q26",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The clerk who has the blue folder can help you.\"",
+      "choices": {
+        "A": "Every clerk can help you with a blue folder.",
+        "B": "The blue folder can help the clerk.",
+        "C": "The clerk needs your help finding every folder.",
+        "D": "The clerk with the blue folder is the one who can help you."
+      },
+      "correctAnswer": "D",
+      "translationJa": "青いフォルダーを持つ係員があなたを手伝えます。",
+      "explanationJa": "カンマなしwho節が、助けられる係員を青いフォルダーの人物に限定します。",
+      "focus": "人物を特定する制限節",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0213_Q27",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"Our catalog, which was updated yesterday, is online.\"",
+      "choices": {
+        "A": "Our catalog is online, and it was updated yesterday.",
+        "B": "Only yesterday’s catalogs are online.",
+        "C": "The online catalog updated our company.",
+        "D": "Our catalog went offline after the update."
+      },
+      "correctAnswer": "A",
+      "translationJa": "昨日更新された当社カタログはオンラインです。",
+      "explanationJa": "カンマ付きwhich節は既知のcatalogへの独立した補足情報です。",
+      "focus": "取り外せるwhich注釈",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0213_Q28",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"Vendors that meet the deadline receive priority.\"",
+      "choices": {
+        "A": "Every vendor receives priority before the deadline.",
+        "B": "Priority prevents vendors from meeting deadlines.",
+        "C": "Meeting the deadline identifies the vendors that receive priority.",
+        "D": "The deadline receives priority from vendors."
+      },
+      "correctAnswer": "C",
+      "translationJa": "期限を守る仕入先が優先されます。",
+      "explanationJa": "that節が優先対象を期限遵守の仕入先に絞っています。",
+      "focus": "制限節による条件設定",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0213_Q29",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The Orion printer, whose tray is adjustable, costs $600.\"",
+      "choices": {
+        "A": "The Orion printer costs $600, and its tray is adjustable.",
+        "B": "The adjustable tray costs $600 without the printer.",
+        "C": "Only Orion printers with trays cost $600.",
+        "D": "The printer adjusted the tray after costing $600."
+      },
+      "correctAnswer": "A",
+      "translationJa": "トレイを調整できるオリオン・プリンターは600ドルです。",
+      "explanationJa": "whose trayはprinterのトレイを補足説明し、its trayに展開できます。",
+      "focus": "物を受けるwhoseの展開",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0213_Q30",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The guests who registered online may enter first.\"",
+      "choices": {
+        "A": "All guests may enter first and register later.",
+        "B": "Online registration determines which guests may enter first.",
+        "C": "Guests must enter before registering online.",
+        "D": "Online guests register the entrance first."
+      },
+      "correctAnswer": "B",
+      "translationJa": "オンライン登録した来客は先に入場できます。",
+      "explanationJa": "who節は先行入場できるguestsの範囲を限定しています。",
+      "focus": "カンマなし節の条件意味",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0213_Q31",
+      "format": "context-completion",
+      "prompt": "Ms. Chen is already known to the whole department. Ms. Chen, ------- leads purchasing, will host the session.",
+      "choices": {
+        "A": "that",
+        "B": "whom",
+        "C": "who",
+        "D": "which"
+      },
+      "correctAnswer": "C",
+      "translationJa": "チェンさんはすでに部署全体に知られています。購買部を率いるチェンさんがセッションを主催します。",
+      "explanationJa": "特定済みの人への注釈なので、カンマの後ろで主格whoを使います。",
+      "focus": "既知の人物へのwho注釈",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0213_Q32",
+      "format": "context-completion",
+      "prompt": "Several forms are on the desk. The form ------- has a red label needs your signature.",
+      "choices": {
+        "A": "that",
+        "B": ", that",
+        "C": ", which",
+        "D": "who"
+      },
+      "correctAnswer": "A",
+      "translationJa": "机の上に用紙がいくつかあります。赤いラベルの付いた用紙にはあなたの署名が必要です。",
+      "explanationJa": "どのformかを特定する必須情報なのでカンマなしのthat節です。",
+      "focus": "複数からの絞り込み",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0213_Q33",
+      "format": "context-completion",
+      "prompt": "The Meridian Hotel is our regular venue. The Meridian Hotel, ------- overlooks the river, has renovated its lobby.",
+      "choices": {
+        "A": "that",
+        "B": "what",
+        "C": "where",
+        "D": "which"
+      },
+      "correctAnswer": "D",
+      "translationJa": "メリディアン・ホテルは当社の定例会場です。川を見下ろす同ホテルはロビーを改装しました。",
+      "explanationJa": "固有名詞に補足を加えるためwhichを使い、thatは使いません。",
+      "focus": "固有名詞＋非制限which",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0213_Q34",
+      "format": "context-completion",
+      "prompt": "Mr. Ali reported a problem with his badge. Mr. Ali, ------- badge no longer scans, needs a temporary pass.",
+      "choices": {
+        "A": "who",
+        "B": "whose",
+        "C": "which",
+        "D": "that"
+      },
+      "correctAnswer": "B",
+      "translationJa": "アリさんは入館証の問題を報告しました。入館証が読み取れなくなったアリさんには仮入館証が必要です。",
+      "explanationJa": "Mr. Aliとbadgeの所有関係をwhoseで表します。",
+      "focus": "人＋whose＋所有物",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0213_Q35",
+      "format": "context-completion",
+      "prompt": "Only some invoices need review. Invoices ------- include overseas charges should go to Finance.",
+      "choices": {
+        "A": ", that",
+        "B": ", which",
+        "C": "that",
+        "D": "whose"
+      },
+      "correctAnswer": "C",
+      "translationJa": "確認が必要なのは一部の請求書だけです。海外費用を含む請求書は財務部へ回してください。",
+      "explanationJa": "対象を海外費用入りに限定するためカンマなしのthatが適切です。",
+      "focus": "限定節と対象範囲",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0213_Q36",
+      "format": "context-completion",
+      "prompt": "We released one major update this quarter. The update, ------- fixes the login issue, is now mandatory.",
+      "choices": {
+        "A": "which",
+        "B": "that",
+        "C": "what",
+        "D": "where"
+      },
+      "correctAnswer": "A",
+      "translationJa": "今四半期に大規模更新を1つ公開しました。ログイン問題を修正するその更新は現在必須です。",
+      "explanationJa": "すでに1つに特定されたupdateへの補足なのでwhich節を使います。",
+      "focus": "唯一物への非制限節",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0213_Q37",
+      "format": "context-completion",
+      "prompt": "The company owns several vans. The van ------- carries medical supplies must leave first.",
+      "choices": {
+        "A": ", which",
+        "B": "that",
+        "C": ", that",
+        "D": "who"
+      },
+      "correctAnswer": "B",
+      "translationJa": "会社は複数のバンを所有しています。医療用品を積むバンが最初に出発しなければなりません。",
+      "explanationJa": "どのvanかを識別するためカンマなしのthat節です。",
+      "focus": "識別用の制限関係節",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0213_Q38",
+      "format": "context-completion",
+      "prompt": "The Atlas scanner is no longer sold. The Atlas scanner, ------- we purchased in 2024, still works well.",
+      "choices": {
+        "A": "that",
+        "B": "what",
+        "C": "where",
+        "D": "which"
+      },
+      "correctAnswer": "D",
+      "translationJa": "アトラス・スキャナーはもう販売されていません。2024年に購入した同機は今も良好に動作します。",
+      "explanationJa": "商品名への目的格の補足でもwhichを省略せず使います。",
+      "focus": "非制限目的格which",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0213_Q39",
+      "format": "context-completion",
+      "prompt": "Dr. Moore will speak at noon. Dr. Moore, ------- research shaped the policy, has prepared new data.",
+      "choices": {
+        "A": "whose",
+        "B": "who",
+        "C": "that",
+        "D": "whom"
+      },
+      "correctAnswer": "A",
+      "translationJa": "ムーア博士は正午に講演します。その研究が方針形成に影響したムーア博士は新しいデータを用意しました。",
+      "explanationJa": "researchの持ち主をwhoseで示し、固有名詞に補足を加えます。",
+      "focus": "非制限whoseと所有",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0213_Q40",
+      "format": "context-completion",
+      "prompt": "A discount applies to selected accounts. Customers ------- renewed before June qualify automatically.",
+      "choices": {
+        "A": ", who",
+        "B": "who",
+        "C": ", that",
+        "D": "whom"
+      },
+      "correctAnswer": "B",
+      "translationJa": "選定されたアカウントには割引が適用されます。6月前に更新した顧客は自動的に対象となります。",
+      "explanationJa": "割引対象者を更新時期で絞るため、カンマなしの主格whoを使います。",
+      "focus": "制限who節による条件",
+      "difficulty": "advanced"
+    }
+  ]
+}
