@@ -1,0 +1,676 @@
+{
+  "schemaVersion": 1,
+  "page": {
+    "number": 234,
+    "id": "grammar-master-0234",
+    "title": "受動文を選ぶ4つの理由",
+    "image": "pages/PAGE_0234.webp",
+    "sourcePrompt": "source-prompts/PAGE_0234.txt"
+  },
+  "analysis": {
+    "summaryJa": "受動文は単なる能動文の変形ではなく、伝え方を調整する選択肢である。行為者が不明・不要なとき、長い行為者を文頭に置かず軽く始めたいとき、同じ対象を主語に保って文章の話題を継続したいとき、発言者を伏せて一般的な見解として示したいときに特に有効である。",
+    "grammarPoints": [
+      "不明・不要な行為者を省く受動文",
+      "長い行為者をby句へ後置する軽い文頭",
+      "同じ主語を連続させる話題維持",
+      "It is believed / reported thatによる一般化",
+      "対象の変化を中心に据える受動の情報構造"
+    ],
+    "visualEvidence": [
+      "四方向の操作卓が受動を選ぶ四理由を示している",
+      "霧の人物が不明な行為者を表している",
+      "天秤が長い主語より軽い受動文頭を示す",
+      "一本のレールがdeviceを連続した話題に保っている",
+      "群衆への拡声器が発言者を伏せた一般性を示す"
+    ],
+    "commonTraps": [
+      "行為者が重要でないのにsomeone by句を必ず付ける",
+      "既知情報の話題を能動文で急に変える",
+      "It is said thatのitを具体物と解釈する",
+      "長いby句を不自然に文頭へ置く",
+      "受動態なら常に能動態より良いと決めつける"
+    ]
+  },
+  "questions": [
+    {
+      "id": "PAGE_0234_Q01",
+      "format": "part5-cloze",
+      "prompt": "The missing laptop ------- from the conference room sometime after 6 p.m.",
+      "choices": {
+        "A": "took",
+        "B": "was taking",
+        "C": "was taken",
+        "D": "has take"
+      },
+      "correctAnswer": "C",
+      "translationJa": "紛失したノートパソコンは午後6時以降のどこかで会議室から持ち去られました。",
+      "explanationJa": "行為者が不明で対象を話題にする受動態が自然です。",
+      "focus": "不明な行為者と受動",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0234_Q02",
+      "format": "part5-cloze",
+      "prompt": "It is widely ------- that regular backups reduce recovery time.",
+      "choices": {
+        "A": "believed",
+        "B": "believing",
+        "C": "believe",
+        "D": "belief"
+      },
+      "correctAnswer": "A",
+      "translationJa": "定期バックアップが復旧時間を短縮することは広く信じられています。",
+      "explanationJa": "発言者を伏せて一般論にするIt is widely believed thatです。",
+      "focus": "It is widely believed that",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0234_Q03",
+      "format": "part5-cloze",
+      "prompt": "The new payment terminal was tested thoroughly and then ------- at every branch.",
+      "choices": {
+        "A": "installing",
+        "B": "install",
+        "C": "was install",
+        "D": "installed"
+      },
+      "correctAnswer": "D",
+      "translationJa": "新しい決済端末は徹底的に試験され、その後全支店に設置されました。",
+      "explanationJa": "terminalを同じ主語に保ち、並列過去分詞installedを置きます。",
+      "focus": "話題維持の受動",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0234_Q04",
+      "format": "part5-cloze",
+      "prompt": "The research team was encouraged ------- hundreds of supportive customer messages.",
+      "choices": {
+        "A": "from",
+        "B": "by",
+        "C": "at",
+        "D": "for"
+      },
+      "correctAnswer": "B",
+      "translationJa": "研究チームは何百件もの顧客からの励ましのメッセージに勇気づけられました。",
+      "explanationJa": "長い行為者情報をby句で後置しteamを軽く主語にします。",
+      "focus": "長いby句の後置",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0234_Q05",
+      "format": "part5-cloze",
+      "prompt": "It has been ------- that the north entrance will reopen next Monday.",
+      "choices": {
+        "A": "announced",
+        "B": "announcing",
+        "C": "announce",
+        "D": "announcement"
+      },
+      "correctAnswer": "A",
+      "translationJa": "北口が次の月曜日に再開することが発表されました。",
+      "explanationJa": "発表者より内容を中心にするIt has been announced thatです。",
+      "focus": "It has been announced that",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0234_Q06",
+      "format": "part5-cloze",
+      "prompt": "The historic clock ------- in the lobby during last night’s storm.",
+      "choices": {
+        "A": "damaged something",
+        "B": "was damaging",
+        "C": "was damaged",
+        "D": "has damage"
+      },
+      "correctAnswer": "C",
+      "translationJa": "歴史ある時計は昨夜の嵐の間にロビーで破損しました。",
+      "explanationJa": "何がどうなったかを中心にする過去受動が適切です。",
+      "focus": "対象中心の受動",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0234_Q07",
+      "format": "part5-cloze",
+      "prompt": "It is generally ------- that the new route will reduce delivery delays.",
+      "choices": {
+        "A": "expecting",
+        "B": "expected",
+        "C": "expect",
+        "D": "expectation"
+      },
+      "correctAnswer": "B",
+      "translationJa": "新経路が配送遅延を減らすと一般に予想されています。",
+      "explanationJa": "特定の予想者を伏せるIt is generally expected thatです。",
+      "focus": "一般的予想の受動",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0234_Q08",
+      "format": "part5-cloze",
+      "prompt": "The prototype was evaluated by engineers from three independent testing laboratories and then ------- for production.",
+      "choices": {
+        "A": "approving",
+        "B": "approve",
+        "C": "was approve",
+        "D": "approved"
+      },
+      "correctAnswer": "D",
+      "translationJa": "試作品は三つの独立試験所の技師に評価され、その後生産承認されました。",
+      "explanationJa": "prototypeを話題として保ち過去分詞approvedを並列します。",
+      "focus": "同一主語の話題維持",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0234_Q09",
+      "format": "part5-cloze",
+      "prompt": "Several street signs ------- overnight, but no witnesses have been identified.",
+      "choices": {
+        "A": "were removed",
+        "B": "removed themselves",
+        "C": "were removing",
+        "D": "have remove"
+      },
+      "correctAnswer": "A",
+      "translationJa": "複数の道路標識が夜間に撤去されましたが、目撃者は特定されていません。",
+      "explanationJa": "行為者不明なので対象を主語にした受動が自然です。",
+      "focus": "行為者不明の受動",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0234_Q10",
+      "format": "part5-cloze",
+      "prompt": "It is often ------- that early customer contact prevents larger problems.",
+      "choices": {
+        "A": "saying",
+        "B": "said",
+        "C": "say",
+        "D": "says"
+      },
+      "correctAnswer": "B",
+      "translationJa": "顧客への早期連絡が大きな問題を防ぐとよく言われます。",
+      "explanationJa": "発言者を特定せず一般論を示すIt is often said thatです。",
+      "focus": "It is often said that",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0234_Q11",
+      "format": "correct-sentence",
+      "prompt": "Choose the most natural sentence when the person responsible is unknown.",
+      "choices": {
+        "A": "Someone unknown stole three access cards by an unknown person overnight.",
+        "B": "Three access cards stole someone overnight.",
+        "C": "It stole three access cards by overnight.",
+        "D": "Three access cards were stolen overnight."
+      },
+      "correctAnswer": "D",
+      "translationJa": "3枚のアクセスカードが夜間に盗まれました。",
+      "explanationJa": "行為者不明なので対象と出来事だけを示す受動文が自然です。",
+      "focus": "不明行為者の省略",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0234_Q12",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that starts lightly and places a long agent later.",
+      "choices": {
+        "A": "Representatives from all twelve regional offices supported was the proposal.",
+        "B": "The proposal was supported by representatives from all twelve regional offices.",
+        "C": "By representatives from all twelve regional offices the proposal supported.",
+        "D": "The proposal supported representatives from all regional offices."
+      },
+      "correctAnswer": "B",
+      "translationJa": "その提案は全12地域事務所の代表者から支持されました。",
+      "explanationJa": "短い既知対象proposalを主語にし、長い行為者をby句へ後置しています。",
+      "focus": "長い行為者の後置",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0234_Q13",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that keeps “the device” as the continuing topic.",
+      "choices": {
+        "A": "A technician inspected the device, and the cleaning team cleaned it, and a clerk returned it.",
+        "B": "The device inspected, a team cleaned, and the customer returned.",
+        "C": "The device was inspected, cleaned, and returned to the customer.",
+        "D": "It was the technician who the device cleaned and returned."
+      },
+      "correctAnswer": "C",
+      "translationJa": "その機器は検査、清掃され、顧客へ返却されました。",
+      "explanationJa": "同じ対象を主語に保ち、三つの受動動作を滑らかに連結しています。",
+      "focus": "話題維持",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0234_Q14",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that presents a view as a general belief.",
+      "choices": {
+        "A": "It is widely believed that flexible schedules improve retention.",
+        "B": "People is widely believe flexible schedules improve retention.",
+        "C": "It widely believes that flexible schedules improve retention.",
+        "D": "Flexible schedules widely believing retention."
+      },
+      "correctAnswer": "A",
+      "translationJa": "柔軟な勤務時間が定着率を改善すると広く信じられています。",
+      "explanationJa": "発言者を伏せるIt is widely believed thatの正しい形です。",
+      "focus": "一般論のIt受動",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0234_Q15",
+      "format": "correct-sentence",
+      "prompt": "Choose the most natural sentence when the builder is irrelevant.",
+      "choices": {
+        "A": "Someone completed the office tower in 2018 by somebody.",
+        "B": "The office tower completed someone in 2018.",
+        "C": "In 2018 was completed someone the tower.",
+        "D": "The office tower was completed in 2018."
+      },
+      "correctAnswer": "D",
+      "translationJa": "そのオフィスタワーは2018年に完成しました。",
+      "explanationJa": "建設者より建物と完成時期が重要なのでby句なしの受動が自然です。",
+      "focus": "不要な行為者の省略",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0234_Q16",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that correctly keeps the same topic across two actions.",
+      "choices": {
+        "A": "A clerk reviewed the application and approval was given by a manager on the same day it.",
+        "B": "The application reviewed and a manager approved on the same day.",
+        "C": "The application was reviewed and approved on the same day.",
+        "D": "It reviewed the application and was approved a manager."
+      },
+      "correctAnswer": "C",
+      "translationJa": "申請は同じ日に審査され承認されました。",
+      "explanationJa": "applicationを共通主語にして二つの過去分詞を並列しています。",
+      "focus": "連続受動と話題",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0234_Q17",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that naturally reports an announcement without naming the speaker.",
+      "choices": {
+        "A": "It announced that the store would close early.",
+        "B": "It was announced that the store would close early.",
+        "C": "Was announced the store that would close early.",
+        "D": "Someone was announced by the store closing early."
+      },
+      "correctAnswer": "B",
+      "translationJa": "店舗が早く閉店すると発表されました。",
+      "explanationJa": "発表者を伏せ、内容をthat節へ置くIt was announced thatです。",
+      "focus": "非人称受動報告",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0234_Q18",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence with a long source phrase placed naturally.",
+      "choices": {
+        "A": "Detailed explanations from two senior technicians reassured was me.",
+        "B": "By detailed explanations from two senior technicians I reassured.",
+        "C": "I reassured explanations by two technicians.",
+        "D": "I was reassured by detailed explanations from two senior technicians."
+      },
+      "correctAnswer": "D",
+      "translationJa": "私は2人の上級技師からの詳しい説明で安心しました。",
+      "explanationJa": "Iを話題の中心に置き、長い原因情報をby句で後置しています。",
+      "focus": "軽い主語と長いby句",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0234_Q19",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that correctly expresses an accepted general view.",
+      "choices": {
+        "A": "It commonly understands that the badge must remain visible.",
+        "B": "The badge commonly understood must visible.",
+        "C": "It is commonly understood that the badge must remain visible.",
+        "D": "People is understood commonly the badge remain visible."
+      },
+      "correctAnswer": "C",
+      "translationJa": "バッジは見える状態にしておく必要があると一般に理解されています。",
+      "explanationJa": "It is commonly understood thatで発言者を特定しない一般性を出します。",
+      "focus": "It is understood that",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0234_Q20",
+      "format": "correct-sentence",
+      "prompt": "Choose the most coherent continuation about “the shipment”.",
+      "choices": {
+        "A": "The shipment arrived at noon. It was inspected and moved to cold storage immediately.",
+        "B": "The shipment arrived at noon. An inspector checked it and cold storage received it by staff immediately.",
+        "C": "The shipment arrived at noon. It inspected a worker and moved cold storage.",
+        "D": "The shipment arrived at noon. There was inspecting it and staff moved."
+      },
+      "correctAnswer": "A",
+      "translationJa": "荷物は正午に到着し、すぐに検査され低温倉庫へ移されました。",
+      "explanationJa": "shipmentを代名詞主語で維持し受動動作を続けるため流れが自然です。",
+      "focus": "段落内の話題維持",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0234_Q21",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “My bicycle was stolen.”",
+      "choices": {
+        "A": "Someone stole my bicycle, but the sentence does not identify who.",
+        "B": "My bicycle stole an unknown person.",
+        "C": "I gave my bicycle to a named buyer.",
+        "D": "The thief is the main topic and is fully identified."
+      },
+      "correctAnswer": "A",
+      "translationJa": "誰かが私の自転車を盗みましたが、文は誰かを特定していません。",
+      "explanationJa": "受動文は不明な行為者を省き、自転車の被害を中心にします。",
+      "focus": "行為者不明の受動意味",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0234_Q22",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “It is widely reported that the merger is complete.”",
+      "choices": {
+        "A": "The merger reports that many people are complete.",
+        "B": "One named speaker privately denies the merger.",
+        "C": "No information about the merger has been published.",
+        "D": "Many reports say the merger has been completed."
+      },
+      "correctAnswer": "D",
+      "translationJa": "多くの報道が合併完了を伝えています。",
+      "explanationJa": "It is widely reported thatは発信者を集合的にぼかして内容を一般化します。",
+      "focus": "報告受動の言い換え",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0234_Q23",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “The machine was tested and shipped.”",
+      "choices": {
+        "A": "The machine tested a worker and then shipped that worker.",
+        "B": "Two unrelated machines performed the actions.",
+        "C": "The machine remained the topic while two actions were performed on it.",
+        "D": "The sentence focuses mainly on who operated the machine."
+      },
+      "correctAnswer": "C",
+      "translationJa": "機械を話題に保ったまま、それに二つの動作が行われました。",
+      "explanationJa": "共通主語machineに二つの過去分詞を並べて話題を維持しています。",
+      "focus": "話題維持の効果",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0234_Q24",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “I was impressed by recommendations from several long-term clients.”",
+      "choices": {
+        "A": "I recommended several clients because they impressed one another.",
+        "B": "Recommendations from several long-term clients impressed me.",
+        "C": "The clients were unimpressed by my short message.",
+        "D": "No recommendation affected me."
+      },
+      "correctAnswer": "B",
+      "translationJa": "複数の長期顧客からの推薦が私に感銘を与えました。",
+      "explanationJa": "長い行為者句を能動文の主語へ戻した同義文です。",
+      "focus": "長いby句の能動化",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0234_Q25",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “The theater was built in 1930.”",
+      "choices": {
+        "A": "The statement focuses on the theater and its construction date, not the builders.",
+        "B": "The builders are named as the main topic.",
+        "C": "The theater built several workers in 1930.",
+        "D": "The construction date is unknown and irrelevant."
+      },
+      "correctAnswer": "A",
+      "translationJa": "その文は建設者ではなく劇場と建設年に焦点を当てています。",
+      "explanationJa": "by句がない受動文は行為者を不要として対象を中心にします。",
+      "focus": "不要行為者の効果",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0234_Q26",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “It is generally expected that prices will stabilize.”",
+      "choices": {
+        "A": "Prices expect people to remain unstable.",
+        "B": "One particular customer guarantees a price increase.",
+        "C": "People generally expect prices to become stable.",
+        "D": "Nobody has any expectation about future prices."
+      },
+      "correctAnswer": "C",
+      "translationJa": "人々は一般に価格が安定すると予想しています。",
+      "explanationJa": "非人称受動をpeople主語の能動表現へ戻しています。",
+      "focus": "一般予想の言い換え",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0234_Q27",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “The product was redesigned, tested, and released.”",
+      "choices": {
+        "A": "Three different products each perform an action.",
+        "B": "The product redesigned the team that tested it.",
+        "C": "The sentence focuses only on the unnamed designers.",
+        "D": "The product is the continuing topic through three stages."
+      },
+      "correctAnswer": "D",
+      "translationJa": "製品が三段階を通じて継続する話題です。",
+      "explanationJa": "受動の並列がproductを主語に保って工程を滑らかに示します。",
+      "focus": "工程と話題維持",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0234_Q28",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “The staff was motivated by messages from hundreds of users.”",
+      "choices": {
+        "A": "Messages from hundreds of users motivated the staff.",
+        "B": "The staff sent messages to motivate hundreds of users only.",
+        "C": "Hundreds of users were ignored by unmotivated staff.",
+        "D": "The messages had no effect on the staff."
+      },
+      "correctAnswer": "A",
+      "translationJa": "何百人もの利用者からのメッセージが職員を動機づけました。",
+      "explanationJa": "長いby句を能動主語へ戻した同義文です。",
+      "focus": "受動と長い行為者",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0234_Q29",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “It is often said that preparation prevents mistakes.”",
+      "choices": {
+        "A": "Preparation says that people should make mistakes.",
+        "B": "People often say that preparation helps avoid mistakes.",
+        "C": "A named expert alone rejects preparation.",
+        "D": "Mistakes are prepared in order to prevent people."
+      },
+      "correctAnswer": "B",
+      "translationJa": "準備がミス防止に役立つと人々はよく言います。",
+      "explanationJa": "It is often said thatを一般人peopleを用いた能動文へ言い換えています。",
+      "focus": "一般論受動の意味",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0234_Q30",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “The parcel was found near the entrance.”",
+      "choices": {
+        "A": "The parcel found an important person at the entrance.",
+        "B": "The finder is named and remains the main topic.",
+        "C": "Someone found the parcel near the entrance; the finder is not important here.",
+        "D": "No parcel was discovered anywhere."
+      },
+      "correctAnswer": "C",
+      "translationJa": "誰かが入口付近で荷物を見つけましたが、発見者は重要ではありません。",
+      "explanationJa": "受動文は発見された対象と場所を中心にします。",
+      "focus": "不要な行為者と対象焦点",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0234_Q31",
+      "format": "context-completion",
+      "prompt": "No witnesses saw who entered the office. A confidential folder ------- during the night.",
+      "choices": {
+        "A": "removed someone",
+        "B": "was removed",
+        "C": "was removing",
+        "D": "has remove"
+      },
+      "correctAnswer": "B",
+      "translationJa": "誰が事務所に入ったか目撃者はいません。機密フォルダーが夜間に持ち出されました。",
+      "explanationJa": "行為者不明なのでwas removedの受動が自然です。",
+      "focus": "不明行為者の文脈",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0234_Q32",
+      "format": "context-completion",
+      "prompt": "The laboratory opened in 1965. It ------- by a team from the regional university.",
+      "choices": {
+        "A": "designed the team",
+        "B": "was designing",
+        "C": "has design",
+        "D": "was designed"
+      },
+      "correctAnswer": "D",
+      "translationJa": "その研究所は1965年に開設され、地域大学のチームが設計しました。",
+      "explanationJa": "laboratoryを話題に保ち、行為者をby句で後置します。",
+      "focus": "話題維持とby句",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0234_Q33",
+      "format": "context-completion",
+      "prompt": "Several studies reached similar conclusions. It is widely ------- that short breaks improve concentration.",
+      "choices": {
+        "A": "believed",
+        "B": "believing",
+        "C": "believe",
+        "D": "belief"
+      },
+      "correctAnswer": "A",
+      "translationJa": "複数の研究が似た結論に達しました。短い休憩が集中力を改善すると広く信じられています。",
+      "explanationJa": "複数根拠から一般見解を示すbelievedが適切です。",
+      "focus": "一般論のbelieved",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0234_Q34",
+      "format": "context-completion",
+      "prompt": "The prototype remained the focus of the report. It was tested twice and then ------- to the client.",
+      "choices": {
+        "A": "demonstrating",
+        "B": "demonstrate",
+        "C": "demonstrated",
+        "D": "was demonstrate"
+      },
+      "correctAnswer": "C",
+      "translationJa": "試作品が報告の中心でした。二度試験され、その後顧客へ実演されました。",
+      "explanationJa": "prototypeを主語に保つ並列過去分詞demonstratedです。",
+      "focus": "同じ話題の連続受動",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0234_Q35",
+      "format": "context-completion",
+      "prompt": "The sculpture is the exhibition’s main attraction. It was created ------- artists from five countries.",
+      "choices": {
+        "A": "from",
+        "B": "at",
+        "C": "for",
+        "D": "by"
+      },
+      "correctAnswer": "D",
+      "translationJa": "その彫刻は展示の目玉で、5か国の芸術家によって制作されました。",
+      "explanationJa": "重要かつ長い行為者をby句で後置します。",
+      "focus": "長いby＋行為者",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0234_Q36",
+      "format": "context-completion",
+      "prompt": "The alley has no security cameras. Two delivery bicycles ------- there last weekend.",
+      "choices": {
+        "A": "stole",
+        "B": "were stolen",
+        "C": "were stealing",
+        "D": "have steal"
+      },
+      "correctAnswer": "B",
+      "translationJa": "その路地には防犯カメラがありません。先週末に配送用自転車2台が盗まれました。",
+      "explanationJa": "行為者を特定できないため受動が自然です。",
+      "focus": "行為者不明",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0234_Q37",
+      "format": "context-completion",
+      "prompt": "The survey included more than ten thousand respondents. It is generally ------- that the findings reflect current trends.",
+      "choices": {
+        "A": "accepted",
+        "B": "accepting",
+        "C": "accept",
+        "D": "acceptance"
+      },
+      "correctAnswer": "A",
+      "translationJa": "調査には1万人以上が参加しました。その結果が現在の傾向を反映すると一般に認められています。",
+      "explanationJa": "発言者を伏せた一般見解をacceptedで示します。",
+      "focus": "It is generally accepted that",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0234_Q38",
+      "format": "context-completion",
+      "prompt": "The new handbook was drafted in April. It was reviewed, revised, and finally ------- in June.",
+      "choices": {
+        "A": "publishing",
+        "B": "publish",
+        "C": "was publish",
+        "D": "published"
+      },
+      "correctAnswer": "D",
+      "translationJa": "新しい手引きは4月に起草され、審査・改訂後、6月に発行されました。",
+      "explanationJa": "handbookを話題に保つ最後の並列過去分詞publishedです。",
+      "focus": "工程をつなぐ受動",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0234_Q39",
+      "format": "context-completion",
+      "prompt": "The bridge is over one hundred years old. It was restored by engineers, historians, and craftspeople ------- across the region.",
+      "choices": {
+        "A": "by",
+        "B": "at",
+        "C": "from",
+        "D": "until"
+      },
+      "correctAnswer": "C",
+      "translationJa": "その橋は100年以上前のもので、地域各地の技師、歴史家、職人により修復されました。",
+      "explanationJa": "長い行為者句内で出身範囲を示すfromが必要です。",
+      "focus": "長いby句の内部構造",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0234_Q40",
+      "format": "context-completion",
+      "prompt": "No official spokesperson was named. It ------- that service would resume by evening.",
+      "choices": {
+        "A": "announced itself",
+        "B": "was announced",
+        "C": "was announcing",
+        "D": "has announce"
+      },
+      "correctAnswer": "B",
+      "translationJa": "公式の発表者は特定されず、夕方までにサービス再開と発表されました。",
+      "explanationJa": "発表者を伏せ内容を中心にするIt was announced thatです。",
+      "focus": "発言者を伏せる受動",
+      "difficulty": "intermediate"
+    }
+  ]
+}
