@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-29T02:55:21.836Z",
+  "updatedAt": "2026-08-29T02:59:15.056Z",
   "totalPages": 330,
-  "completedPages": 44,
+  "completedPages": 45,
   "questionsPerPage": 40,
   "totalPlannedQuestions": 13200,
   "pages": [
@@ -370,9 +370,9 @@
       "number": 46,
       "id": "grammar-master-0046",
       "title": "伝言は今、命令はまっすぐ",
-      "status": "pending",
+      "status": "complete",
       "output": "question-sets/PAGE_0046.json",
-      "completedAt": null
+      "completedAt": "2026-08-29T02:59:15.056Z"
     },
     {
       "number": 47,
