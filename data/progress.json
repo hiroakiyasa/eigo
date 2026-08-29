@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-29T01:09:37.362Z",
+  "updatedAt": "2026-08-29T01:10:56.970Z",
   "totalPages": 330,
-  "completedPages": 8,
+  "completedPages": 9,
   "questionsPerPage": 40,
   "totalPlannedQuestions": 13200,
   "pages": [
@@ -82,9 +82,9 @@
       "number": 10,
       "id": "grammar-master-0010",
       "title": "置き場所で、役目が変わる",
-      "status": "pending",
+      "status": "complete",
       "output": "question-sets/PAGE_0010.json",
-      "completedAt": null
+      "completedAt": "2026-08-29T01:10:56.970Z"
     },
     {
       "number": 11,
