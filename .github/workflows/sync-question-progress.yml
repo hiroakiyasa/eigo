@@ -1,0 +1,51 @@
+name: Sync question progress
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'question-sets/PAGE_*.json'
+      - '.github/workflows/sync-question-progress.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Validate and mark completed question sets
+        shell: bash
+        run: |
+          set -euo pipefail
+          for file in question-sets/PAGE_*.json; do
+            [ -e "$file" ] || continue
+            page="$(basename "$file" .json)"
+            number=$((10#${page#PAGE_}))
+            status="$(node -e 'const fs=require("fs"); const p=JSON.parse(fs.readFileSync("data/progress.json","utf8")); const n=Number(process.argv[1]); console.log(p.pages.find(x=>x.number===n)?.status ?? "missing")' "$number")"
+            if [ "$status" = "pending" ]; then
+              node scripts/validate-question-set.mjs "$file"
+              node scripts/mark-complete.mjs "$page"
+            fi
+          done
+          node scripts/validate-repository.mjs
+      - name: Commit progress files
+        shell: bash
+        run: |
+          set -euo pipefail
+          if git diff --quiet -- data/progress.json CATALOG.md; then
+            echo 'No progress changes.'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/progress.json CATALOG.md
+          git commit -m 'chore(progress): sync completed question sets'
+          git push
