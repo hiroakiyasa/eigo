@@ -1,1 +1,676 @@
-/tmp/s19_generated/PAGE_0310.json
+{
+  "schemaVersion": 1,
+  "page": {
+    "number": 310,
+    "id": "grammar-master-0310",
+    "title": "理由の後ろが文か名詞か",
+    "image": "pages/PAGE_0310.webp",
+    "sourcePrompt": "source-prompts/PAGE_0310.txt"
+  },
+  "analysis": {
+    "summaryJa": "理由表現は後続要素の形で選ぶ。becauseの後ろには主語と動詞を備えた節、because of・due to・owing to・thanks to・on account ofの後ろには名詞句または動名詞句が続く。due toとowing toは改まった原因説明、thanks toは通常好ましい原因、on account ofは問題事情を丁寧に示す。",
+    "grammarPoints": [
+      "because＋主語＋動詞の理由節",
+      "because of＋名詞・動名詞句",
+      "due to / owing toによるフォーマルな原因説明",
+      "thanks toによる好ましい原因の提示",
+      "on account ofによる問題事情の提示",
+      "節と名詞句の相互言い換え"
+    ],
+    "visualEvidence": [
+      "マスコットがCLAUSEとNOUNのカードを持ち後続形を分類している",
+      "表がbecauseとbecause of系の後ろの構造を対比している",
+      "凍結道路の例がbecause節とbecause of名詞句の言い換えを矢印で示す",
+      "ミニ練習がbecause ofの後ろに節を置く誤りを訂正している"
+    ],
+    "commonTraps": [
+      "because ofの後ろに主語＋動詞の節を直接置く",
+      "becauseの後ろを名詞句だけにする",
+      "thanks toを中立または悪い原因に無自覚に使う",
+      "due toのtoを不定詞と誤解して動詞原形を置く",
+      "on account ofのofを落とす"
+    ]
+  },
+  "questions": [
+    {
+      "id": "PAGE_0310_Q01",
+      "format": "part5-cloze",
+      "prompt": "The morning flight was canceled ------- dense fog near the airport.",
+      "choices": {
+        "A": "because",
+        "B": "although",
+        "C": "because of",
+        "D": "unless"
+      },
+      "correctAnswer": "C",
+      "translationJa": "空港付近の濃霧のため、朝の便は欠航になりました。",
+      "explanationJa": "空所の後ろは名詞句dense fogなのでbecause ofが適切です。",
+      "focus": "because of＋名詞句",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0310_Q02",
+      "format": "part5-cloze",
+      "prompt": "The product launch was delayed ------- a supplier failed to deliver the packaging on time.",
+      "choices": {
+        "A": "because",
+        "B": "because of",
+        "C": "due to",
+        "D": "thanks to"
+      },
+      "correctAnswer": "A",
+      "translationJa": "供給業者が包装材を期限どおり納品しなかったため、製品発売は延期されました。",
+      "explanationJa": "後ろに主語a supplierと動詞failedがあるためbecauseを使います。",
+      "focus": "because＋節",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0310_Q03",
+      "format": "part5-cloze",
+      "prompt": "The conference room is unavailable ------- an unexpected electrical problem.",
+      "choices": {
+        "A": "because",
+        "B": "so that",
+        "C": "even though",
+        "D": "due to"
+      },
+      "correctAnswer": "D",
+      "translationJa": "予期しない電気系統の問題により、会議室は利用できません。",
+      "explanationJa": "名詞句を伴う改まった原因説明にはdue toが自然です。",
+      "focus": "due to＋名詞句",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0310_Q04",
+      "format": "part5-cloze",
+      "prompt": "------- the updated navigation system, our drivers reduced their average delivery time.",
+      "choices": {
+        "A": "Because",
+        "B": "Thanks to",
+        "C": "Although",
+        "D": "Unless"
+      },
+      "correctAnswer": "B",
+      "translationJa": "更新されたナビゲーションシステムのおかげで、運転手の平均配送時間が短くなりました。",
+      "explanationJa": "好ましい結果をもたらした名詞句の原因なのでThanks toが適切です。",
+      "focus": "thanks toと好結果",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0310_Q05",
+      "format": "part5-cloze",
+      "prompt": "The inspection was postponed ------- the chief engineer being absent.",
+      "choices": {
+        "A": "owing to",
+        "B": "because",
+        "C": "whereas",
+        "D": "in order to"
+      },
+      "correctAnswer": "A",
+      "translationJa": "主任技師が不在だったため、検査は延期されました。",
+      "explanationJa": "動名詞句the chief engineer being absentを受ける正式なowing toが適切です。",
+      "focus": "owing to＋動名詞句",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0310_Q06",
+      "format": "part5-cloze",
+      "prompt": "The north entrance is temporarily closed ------- repairs to the revolving door.",
+      "choices": {
+        "A": "because",
+        "B": "provided that",
+        "C": "on account of",
+        "D": "as soon as"
+      },
+      "correctAnswer": "C",
+      "translationJa": "回転ドアの修理のため、北口は一時閉鎖されています。",
+      "explanationJa": "問題事情を示す名詞句repairsを受けるon account ofが適切です。",
+      "focus": "on account of＋問題原因",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0310_Q07",
+      "format": "part5-cloze",
+      "prompt": "The sales team exceeded its target ------- demand increased sharply in July.",
+      "choices": {
+        "A": "because of",
+        "B": "because",
+        "C": "despite",
+        "D": "thanks to"
+      },
+      "correctAnswer": "B",
+      "translationJa": "7月に需要が急増したため、営業チームは目標を上回りました。",
+      "explanationJa": "後ろが主語＋動詞の完全な節なのでbecauseが唯一正しい形です。",
+      "focus": "becauseと完全な節",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0310_Q08",
+      "format": "part5-cloze",
+      "prompt": "The outdoor concert ended early ------- strong winds and heavy rain.",
+      "choices": {
+        "A": "because",
+        "B": "while",
+        "C": "so that",
+        "D": "because of"
+      },
+      "correctAnswer": "D",
+      "translationJa": "強風と大雨のため、屋外コンサートは早く終了しました。",
+      "explanationJa": "strong winds and heavy rainは名詞句なのでbecause ofを用います。",
+      "focus": "because ofと並列名詞",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0310_Q09",
+      "format": "part5-cloze",
+      "prompt": "------- your detailed instructions, we installed the equipment without assistance.",
+      "choices": {
+        "A": "Thanks to",
+        "B": "Because",
+        "C": "In spite",
+        "D": "Until"
+      },
+      "correctAnswer": "A",
+      "translationJa": "詳しい説明のおかげで、私たちは支援なしで機器を設置できました。",
+      "explanationJa": "有益な原因である名詞句your detailed instructionsにはThanks toが合います。",
+      "focus": "thanks toと有益な原因",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0310_Q10",
+      "format": "part5-cloze",
+      "prompt": "The store reduced its hours ------- a shortage of trained staff.",
+      "choices": {
+        "A": "because",
+        "B": "due to",
+        "C": "even if",
+        "D": "so as to"
+      },
+      "correctAnswer": "B",
+      "translationJa": "訓練を受けた人員の不足により、店舗は営業時間を短縮しました。",
+      "explanationJa": "a shortageは名詞句で、公的な原因説明なのでdue toが適切です。",
+      "focus": "due toと公式説明",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0310_Q11",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence with the correct structure after “because”.",
+      "choices": {
+        "A": "The tour was canceled because the guide’s illness.",
+        "B": "The tour was canceled because of the guide was ill.",
+        "C": "The tour was canceled because of was the guide ill.",
+        "D": "The tour was canceled because the guide was ill."
+      },
+      "correctAnswer": "D",
+      "translationJa": "案内人が病気だったため、ツアーは中止されました。",
+      "explanationJa": "becauseの後に主語the guideと動詞wasを含む節が続いています。",
+      "focus": "because＋主語＋動詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0310_Q12",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence with the correct structure after “because of”.",
+      "choices": {
+        "A": "The delivery was delayed because road construction.",
+        "B": "The delivery was delayed because of road construction.",
+        "C": "The delivery was delayed because of the road was under construction.",
+        "D": "Because of the road was under construction, delayed the delivery."
+      },
+      "correctAnswer": "B",
+      "translationJa": "道路工事のため、配送は遅れました。",
+      "explanationJa": "because ofの後ろに名詞句road constructionを置く形が正しいです。",
+      "focus": "because of＋名詞",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0310_Q13",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that correctly uses “due to”.",
+      "choices": {
+        "A": "The clinic closed early due to the water supply failed.",
+        "B": "The clinic closed early due to repair the water supply.",
+        "C": "The clinic closed early due to a water supply problem.",
+        "D": "Due the water supply problem, the clinic closed early."
+      },
+      "correctAnswer": "C",
+      "translationJa": "給水の問題により、診療所は早く閉まりました。",
+      "explanationJa": "due toの後ろに名詞句a water supply problemが続く正しい構造です。",
+      "focus": "due toの後続形",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0310_Q14",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that naturally uses “thanks to”.",
+      "choices": {
+        "A": "Thanks to the receptionist’s quick response, the customer recovered her lost bag.",
+        "B": "Thanks the receptionist responded quickly, the customer recovered her lost bag.",
+        "C": "Because of the receptionist responded quickly, the customer recovered her lost bag.",
+        "D": "Thanks to the bag was lost, the receptionist responded quickly."
+      },
+      "correctAnswer": "A",
+      "translationJa": "受付係の素早い対応のおかげで、顧客は紛失したバッグを取り戻しました。",
+      "explanationJa": "好ましい結果の原因となる名詞句をThanks toが自然に導いています。",
+      "focus": "thanks toの肯定的用法",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0310_Q15",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that correctly converts the reason clause to a noun phrase.",
+      "choices": {
+        "A": "The meeting was moved because the director’s late arrival.",
+        "B": "The meeting was moved because of the director arrived late.",
+        "C": "The meeting was moved due the director’s late arrival.",
+        "D": "The meeting was moved because of the director’s late arrival."
+      },
+      "correctAnswer": "D",
+      "translationJa": "取締役の到着が遅れたため、会議は変更されました。",
+      "explanationJa": "because the director arrived lateをbecause of＋名詞句に正しく変換しています。",
+      "focus": "理由節から名詞句へ",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0310_Q16",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that correctly uses “owing to”.",
+      "choices": {
+        "A": "Owing to the equipment is being tested, the studio will remain closed.",
+        "B": "Owing the equipment being tested, the studio will remain closed.",
+        "C": "Owing to equipment being tested, the studio will remain closed.",
+        "D": "Owing to test the equipment, the studio will remain closed."
+      },
+      "correctAnswer": "C",
+      "translationJa": "機器の試験中のため、スタジオは閉鎖されたままです。",
+      "explanationJa": "owing toの後ろには名詞相当のequipment being testedが続きます。",
+      "focus": "owing to＋動名詞句",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0310_Q17",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that correctly uses “on account of”.",
+      "choices": {
+        "A": "Several trains were delayed on account a signal failure.",
+        "B": "Several trains were delayed on account of a signal failure.",
+        "C": "Several trains were delayed on account of a signal failed.",
+        "D": "On account of the signal failed several trains because delayed."
+      },
+      "correctAnswer": "B",
+      "translationJa": "信号故障のため、数本の列車が遅れました。",
+      "explanationJa": "on account ofの後に名詞句a signal failureを置いた正しい文です。",
+      "focus": "on account ofの構造",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0310_Q18",
+      "format": "correct-sentence",
+      "prompt": "Choose the grammatically correct reason expression.",
+      "choices": {
+        "A": "Because of the parking lot is full, guests should use the east garage.",
+        "B": "Due to the parking lot is full, guests should use the east garage.",
+        "C": "Owing to the parking lot is full, guests should use the east garage.",
+        "D": "Because the parking lot is full, guests should use the east garage."
+      },
+      "correctAnswer": "D",
+      "translationJa": "駐車場が満車なので、来客は東側駐車棟を利用してください。",
+      "explanationJa": "後ろが完全な節the parking lot is fullなのでbecauseだけが適切です。",
+      "focus": "節を受けるbecause",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0310_Q19",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence with a correct formal cause phrase.",
+      "choices": {
+        "A": "The ceremony was relocated due to the weather conditions were unfavorable.",
+        "B": "The ceremony was relocated because of were unfavorable weather conditions.",
+        "C": "The ceremony was relocated due to unfavorable weather conditions.",
+        "D": "Due unfavorable weather conditions, the ceremony relocated because."
+      },
+      "correctAnswer": "C",
+      "translationJa": "悪天候により、式典は場所を移して行われました。",
+      "explanationJa": "due toの後に名詞句unfavorable weather conditionsが続いています。",
+      "focus": "due toと公式な文体",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0310_Q20",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that correctly expresses a beneficial cause.",
+      "choices": {
+        "A": "Thanks to lower shipping costs, the company can offer free delivery.",
+        "B": "Thanks to shipping costs are lower, the company can offer free delivery.",
+        "C": "Because lower shipping costs, the company can offer free delivery.",
+        "D": "Thanks lower shipping costs, the company can offer free delivery."
+      },
+      "correctAnswer": "A",
+      "translationJa": "配送費が下がったおかげで、会社は無料配送を提供できます。",
+      "explanationJa": "Thanks toは好結果につながる名詞句lower shipping costsを受けています。",
+      "focus": "thanks to＋名詞句",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0310_Q21",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “The event was canceled because the venue lost power.”",
+      "choices": {
+        "A": "The event was canceled because of a power outage at the venue.",
+        "B": "The venue lost power after the event proceeded as planned.",
+        "C": "The event was held in order to restore power to the venue.",
+        "D": "Despite a power outage, the event was not canceled."
+      },
+      "correctAnswer": "A",
+      "translationJa": "会場の停電のため、イベントは中止されました。",
+      "explanationJa": "because節をbecause of＋名詞句a power outageに変えて同じ原因を表しています。",
+      "focus": "becauseからbecause ofへ",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0310_Q22",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “The road closed because of flooding.”",
+      "choices": {
+        "A": "The road remained open despite severe flooding.",
+        "B": "The road closed so that the area would flood.",
+        "C": "Flooding began because the road reopened.",
+        "D": "The road closed because the area was flooded."
+      },
+      "correctAnswer": "D",
+      "translationJa": "その地域が浸水したため、道路は閉鎖されました。",
+      "explanationJa": "because of floodingをbecause＋節に展開して同じ因果を表しています。",
+      "focus": "because ofからbecauseへ",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0310_Q23",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “Thanks to Aya’s directions, we arrived on time.”",
+      "choices": {
+        "A": "We arrived late because Aya did not give directions.",
+        "B": "Aya asked for directions after we reached the destination.",
+        "C": "Aya’s directions helped us reach our destination punctually.",
+        "D": "Although Aya’s directions were unclear, we missed the appointment."
+      },
+      "correctAnswer": "C",
+      "translationJa": "アヤの道案内のおかげで、私たちは時間どおり目的地に着きました。",
+      "explanationJa": "Thanks toが示す好ましい原因をhelpedで自然に言い換えています。",
+      "focus": "thanks toの意味",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0310_Q24",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “The inspection was delayed due to a staffing shortage.”",
+      "choices": {
+        "A": "The inspection solved the shortage by hiring additional staff.",
+        "B": "A shortage of staff caused the inspection to be delayed.",
+        "C": "The inspection proceeded early although no staff were available.",
+        "D": "Staffing increased because the delayed inspection had ended."
+      },
+      "correctAnswer": "B",
+      "translationJa": "人員不足が検査の遅延を引き起こしました。",
+      "explanationJa": "due to以下の原因を主語にしてcauseで表した同義文です。",
+      "focus": "due toの因果",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0310_Q25",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “We stayed inside because it was extremely hot.”",
+      "choices": {
+        "A": "We stayed inside because of the extreme heat.",
+        "B": "We went outside despite the extreme heat.",
+        "C": "We stayed inside so that the temperature would rise.",
+        "D": "The indoor temperature became hot after we left."
+      },
+      "correctAnswer": "A",
+      "translationJa": "猛暑のため、私たちは屋内にいました。",
+      "explanationJa": "because＋節をbecause of＋名詞句に正しく変換しています。",
+      "focus": "節と名詞句の変換",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0310_Q26",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “Owing to a software error, some invoices were duplicated.”",
+      "choices": {
+        "A": "The duplicated invoices corrected the software error.",
+        "B": "The software worked correctly despite duplicate invoices.",
+        "C": "Some invoices were duplicated because the software contained an error.",
+        "D": "Invoices were duplicated in order to test the software."
+      },
+      "correctAnswer": "C",
+      "translationJa": "ソフトウェアにエラーがあったため、一部の請求書が重複しました。",
+      "explanationJa": "owing to＋名詞句の原因をbecause＋節で表した同義文です。",
+      "focus": "owing toの言い換え",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0310_Q27",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “The picnic was moved indoors on account of the wind.”",
+      "choices": {
+        "A": "The indoor picnic caused strong winds outdoors.",
+        "B": "The picnic remained outdoors although the wind was strong.",
+        "C": "The wind stopped because the picnic moved outside.",
+        "D": "The wind was the reason the picnic was moved inside."
+      },
+      "correctAnswer": "D",
+      "translationJa": "風が、ピクニックを屋内へ移した理由でした。",
+      "explanationJa": "on account ofは問題となる原因を示し、the reasonで同じ関係を表せます。",
+      "focus": "on account ofの意味",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0310_Q28",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “Because the printer malfunctioned, the reports were sent electronically.”",
+      "choices": {
+        "A": "The reports were emailed because of a problem with the printer.",
+        "B": "The printer malfunctioned after paper reports were delivered.",
+        "C": "Electronic reports caused the printer to work normally.",
+        "D": "The reports were printed despite being sent electronically."
+      },
+      "correctAnswer": "A",
+      "translationJa": "プリンターの問題のため、報告書は電子メールで送られました。",
+      "explanationJa": "because節をbecause of＋名詞句にして同じ原因と結果を保っています。",
+      "focus": "because節の名詞句化",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0310_Q29",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “Thanks to the new checklist, errors have decreased.”",
+      "choices": {
+        "A": "The checklist was removed because errors had decreased.",
+        "B": "The new checklist has helped reduce the number of errors.",
+        "C": "Errors increased despite the use of a new checklist.",
+        "D": "The new checklist resulted from a rise in errors only."
+      },
+      "correctAnswer": "B",
+      "translationJa": "新しいチェックリストが、誤りの減少に役立ちました。",
+      "explanationJa": "thanks toが表す有益な原因をhelped reduceで言い換えています。",
+      "focus": "thanks toと効果",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0310_Q30",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “The ferry service stopped due to rough seas.”",
+      "choices": {
+        "A": "The rough sea became calm after the ferry continued operating.",
+        "B": "The ferry operated so that the sea would become rough.",
+        "C": "The ferry stopped operating because the sea was rough.",
+        "D": "Despite calm conditions, the ferry service was expanded."
+      },
+      "correctAnswer": "C",
+      "translationJa": "海が荒れていたため、フェリーは運航を停止しました。",
+      "explanationJa": "due to＋名詞句をbecause＋節へ展開した同義文です。",
+      "focus": "due toからbecauseへ",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0310_Q31",
+      "format": "context-completion",
+      "prompt": "The customer could not log in ------- her password had expired. A technician helped her reset it.",
+      "choices": {
+        "A": "because of",
+        "B": "because",
+        "C": "due to",
+        "D": "thanks to"
+      },
+      "correctAnswer": "B",
+      "translationJa": "パスワードの有効期限が切れていたため、顧客はログインできませんでした。技術者が再設定を手伝いました。",
+      "explanationJa": "空所後が主語her passwordと動詞had expiredを含む節なのでbecauseです。",
+      "focus": "文脈内のbecause＋節",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0310_Q32",
+      "format": "context-completion",
+      "prompt": "The entrance ramp is closed ------- repairs. Wheelchair users should enter through the south lobby.",
+      "choices": {
+        "A": "because",
+        "B": "although",
+        "C": "so that",
+        "D": "because of"
+      },
+      "correctAnswer": "D",
+      "translationJa": "修理のため入口のスロープは閉鎖されています。車いす利用者は南ロビーから入ってください。",
+      "explanationJa": "空所後のrepairsは名詞なのでbecause ofが適切です。",
+      "focus": "because of＋名詞",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0310_Q33",
+      "format": "context-completion",
+      "prompt": "------- the online reservation system was unavailable, the hotel accepted bookings by phone.",
+      "choices": {
+        "A": "Because",
+        "B": "Because of",
+        "C": "Due to",
+        "D": "Thanks to"
+      },
+      "correctAnswer": "A",
+      "translationJa": "オンライン予約システムが利用できなかったため、ホテルは電話で予約を受け付けました。",
+      "explanationJa": "後ろが主語と動詞の節なのでBecauseが唯一文法的です。",
+      "focus": "becauseと節の識別",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0310_Q34",
+      "format": "context-completion",
+      "prompt": "Production increased by twelve percent ------- the installation of faster assembly equipment.",
+      "choices": {
+        "A": "because",
+        "B": "unless",
+        "C": "thanks to",
+        "D": "even though"
+      },
+      "correctAnswer": "C",
+      "translationJa": "より高速な組立設備を導入したおかげで、生産量は12パーセント増えました。",
+      "explanationJa": "好ましい結果の原因となる名詞句にはthanks toが自然です。",
+      "focus": "thanks toと生産改善",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0310_Q35",
+      "format": "context-completion",
+      "prompt": "Today’s harbor tour has been suspended ------- high waves. Ticket holders will receive refunds.",
+      "choices": {
+        "A": "because",
+        "B": "while",
+        "C": "so that",
+        "D": "due to"
+      },
+      "correctAnswer": "D",
+      "translationJa": "高波のため、本日の港内ツアーは中止されています。チケット保有者には返金されます。",
+      "explanationJa": "公的な案内で名詞句high wavesを受けるdue toが適切です。",
+      "focus": "due toと公的告知",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0310_Q36",
+      "format": "context-completion",
+      "prompt": "The team finished the audit early ------- every department submitted its records on time.",
+      "choices": {
+        "A": "because of",
+        "B": "because",
+        "C": "owing to",
+        "D": "despite"
+      },
+      "correctAnswer": "B",
+      "translationJa": "全部門が期限どおり記録を提出したため、チームは監査を早く終えました。",
+      "explanationJa": "空所後は完全な節なのでbecauseを選びます。",
+      "focus": "because＋完全な理由節",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0310_Q37",
+      "format": "context-completion",
+      "prompt": "The loading area is congested ------- several trucks arriving at the same time.",
+      "choices": {
+        "A": "because of",
+        "B": "because",
+        "C": "unless",
+        "D": "whereas"
+      },
+      "correctAnswer": "A",
+      "translationJa": "数台のトラックが同時に到着したため、積み込み区域が混雑しています。",
+      "explanationJa": "several trucks arrivingは動名詞を含む名詞相当句なのでbecause ofです。",
+      "focus": "because of＋動名詞句",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0310_Q38",
+      "format": "context-completion",
+      "prompt": "The award ceremony began late ------- a problem with the sound system.",
+      "choices": {
+        "A": "because",
+        "B": "in order that",
+        "C": "as soon as",
+        "D": "on account of"
+      },
+      "correctAnswer": "D",
+      "translationJa": "音響システムの問題のため、授賞式は遅れて始まりました。",
+      "explanationJa": "問題となった名詞句を丁寧に示すon account ofが文脈に合います。",
+      "focus": "on account ofと問題原因",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0310_Q39",
+      "format": "context-completion",
+      "prompt": "------- your prompt reply, we were able to confirm the reservation before the deadline.",
+      "choices": {
+        "A": "Because",
+        "B": "Until",
+        "C": "Thanks to",
+        "D": "Despite"
+      },
+      "correctAnswer": "C",
+      "translationJa": "迅速なご返信のおかげで、期限前に予約を確認できました。",
+      "explanationJa": "有益な原因である名詞句your prompt replyを受けるThanks toが適切です。",
+      "focus": "thanks toと顧客対応",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0310_Q40",
+      "format": "context-completion",
+      "prompt": "The warehouse was evacuated ------- smoke had been detected near the charging station.",
+      "choices": {
+        "A": "because of",
+        "B": "because",
+        "C": "due to",
+        "D": "thanks to"
+      },
+      "correctAnswer": "B",
+      "translationJa": "充電所付近で煙が検知されたため、倉庫から避難しました。",
+      "explanationJa": "空所後に主語smokeと動詞had been detectedがあるためbecauseです。",
+      "focus": "because＋受動態節",
+      "difficulty": "intermediate"
+    }
+  ]
+}
