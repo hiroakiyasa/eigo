@@ -1,0 +1,672 @@
+{
+  "schemaVersion": 1,
+  "page": {
+    "number": 216,
+    "id": "grammar-master-0216",
+    "title": "長い文は骨組みから組み立てる",
+    "image": "pages/PAGE_0216.webp",
+    "sourcePrompt": "source-prompts/PAGE_0216.txt"
+  },
+  "analysis": {
+    "summaryJa": "長い英文は、まず主語・述語動詞・目的語／補語という骨組みを確定し、次に形容詞・副詞などの小さな修飾、最後に分詞句・前置詞句・目的のto不定詞などの大きな自由要素を重ねて理解・作成する。",
+    "grammarPoints": [
+      "修飾語を外してS＋V＋O/Cの中心を見つけること",
+      "副詞・形容詞・前置詞句の修飾先",
+      "分詞句の動作主を主節主語に一致させること",
+      "情報を骨格の周囲へ自然な位置で重ねること"
+    ],
+    "visualEvidence": [
+      "画像の建築工程が骨組み→小さな修飾→大きな自由要素の3段階を示す",
+      "Mia opened the boxという骨格へcarefully・on the shelf・Hoping句が順に追加される",
+      "分解図でLeo carried the bagだけがcoreとして色分けされている"
+    ],
+    "commonTraps": [
+      "分詞句内の動詞を主文の述語と誤認する",
+      "修飾先から離れた語を誤って結び付ける",
+      "文頭分詞句と主節主語の動作主を不一致にする",
+      "長い主語の途中で主述一致を崩す"
+    ]
+  },
+  "questions": [
+    {
+      "id": "PAGE_0216_Q01",
+      "format": "part5-cloze",
+      "prompt": "After reviewing the final estimate, the committee ------- the renovation.",
+      "choices": {
+        "A": "approving",
+        "B": "approval",
+        "C": "approved",
+        "D": "to approve"
+      },
+      "correctAnswer": "C",
+      "translationJa": "最終見積もりを確認した後、委員会は改装を承認しました。",
+      "explanationJa": "After reviewingは背景で、主節の骨格the committee＋述語approved＋目的語the renovationを完成させます。",
+      "focus": "修飾句の後の主節述語",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0216_Q02",
+      "format": "part5-cloze",
+      "prompt": "The detailed report on quarterly sales ------- several risks.",
+      "choices": {
+        "A": "identifies",
+        "B": "identifying",
+        "C": "identify",
+        "D": "identification"
+      },
+      "correctAnswer": "A",
+      "translationJa": "四半期売上に関する詳細報告書は複数のリスクを特定しています。",
+      "explanationJa": "主語の中心は単数reportなので、述語動詞identifiesが必要です。",
+      "focus": "長い主語の中心と主述一致",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0216_Q03",
+      "format": "part5-cloze",
+      "prompt": "Hoping to reduce delays, Ms. Grant ------- the approval process.",
+      "choices": {
+        "A": "simplifying",
+        "B": "simple",
+        "C": "to simplified",
+        "D": "simplified"
+      },
+      "correctAnswer": "D",
+      "translationJa": "遅延を減らしたいと考え、グラントさんは承認手続きを簡素化しました。",
+      "explanationJa": "Hoping句を除く骨格はMs. Grant simplified the processです。",
+      "focus": "分詞句と主節骨格",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0216_Q04",
+      "format": "part5-cloze",
+      "prompt": "The packages stacked beside the loading door ------- for Tokyo.",
+      "choices": {
+        "A": "is",
+        "B": "are",
+        "C": "being",
+        "D": "be"
+      },
+      "correctAnswer": "B",
+      "translationJa": "搬入口のそばに積まれた荷物は東京行きです。",
+      "explanationJa": "stacked句はpackagesを修飾し、複数主語の本動詞はareです。",
+      "focus": "過去分詞修飾を越えた主述一致",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0216_Q05",
+      "format": "part5-cloze",
+      "prompt": "To improve accessibility, the hotel ------- wider entrance doors.",
+      "choices": {
+        "A": "installed",
+        "B": "installation",
+        "C": "installing",
+        "D": "to installed"
+      },
+      "correctAnswer": "A",
+      "translationJa": "利用しやすさを改善するため、ホテルは幅広の入口扉を設置しました。",
+      "explanationJa": "To improveは目的で、主節にはhotelを主語とする過去形installedが必要です。",
+      "focus": "目的句と主節述語",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0216_Q06",
+      "format": "part5-cloze",
+      "prompt": "The technician carefully placed the repaired sensor ------- the control panel.",
+      "choices": {
+        "A": "careful",
+        "B": "repairing",
+        "C": "inside",
+        "D": "install"
+      },
+      "correctAnswer": "C",
+      "translationJa": "技術者は修理済みセンサーを制御盤の内側に慎重に置きました。",
+      "explanationJa": "骨格placed the sensorに、様子carefullyと場所inside the panelを加えます。",
+      "focus": "骨格に場所句を追加",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0216_Q07",
+      "format": "part5-cloze",
+      "prompt": "Surprised by the sudden request, the assistant ------- the schedule twice.",
+      "choices": {
+        "A": "checking",
+        "B": "checked",
+        "C": "was check",
+        "D": "to checking"
+      },
+      "correctAnswer": "B",
+      "translationJa": "突然の依頼に驚き、アシスタントは予定を2度確認しました。",
+      "explanationJa": "Surprised句はassistantの状態で、本動詞はcheckedです。",
+      "focus": "文頭過去分詞句の主節",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0216_Q08",
+      "format": "part5-cloze",
+      "prompt": "The contract signed by both parties last week ------- effective today.",
+      "choices": {
+        "A": "becoming",
+        "B": "become",
+        "C": "to become",
+        "D": "becomes"
+      },
+      "correctAnswer": "D",
+      "translationJa": "先週双方が署名した契約は今日発効します。",
+      "explanationJa": "signed以下はcontractを説明し、単数主語の述語becomesが骨格を作ります。",
+      "focus": "長い名詞句の述語発見",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0216_Q09",
+      "format": "part5-cloze",
+      "prompt": "While waiting for the inspection team, warehouse staff ------- the aisle clear.",
+      "choices": {
+        "A": "keeping",
+        "B": "to kept",
+        "C": "kept",
+        "D": "keeps yesterday"
+      },
+      "correctAnswer": "C",
+      "translationJa": "検査チームを待つ間、倉庫職員は通路を空けておきました。",
+      "explanationJa": "While waitingは時間背景で、staff kept the aisle clearが中心骨格です。",
+      "focus": "従属修飾句とSVOC骨格",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0216_Q10",
+      "format": "part5-cloze",
+      "prompt": "Located near the convention center, the hotel ------- business travelers.",
+      "choices": {
+        "A": "attracting",
+        "B": "attraction",
+        "C": "to attract",
+        "D": "attracts"
+      },
+      "correctAnswer": "D",
+      "translationJa": "コンベンションセンター近くに位置するそのホテルは出張者を引き付けています。",
+      "explanationJa": "Located句の説明対象はhotelで、本動詞attractsが主節を完成させます。",
+      "focus": "分詞句後の本動詞",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0216_Q11",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence with a clear core and a time modifier.",
+      "choices": {
+        "A": "After the briefing, assigned the supervisor the tasks.",
+        "B": "After the briefing, the supervisor assigned the tasks.",
+        "C": "After briefing the supervisor the tasks assigned.",
+        "D": "The supervisor after the briefing the tasks."
+      },
+      "correctAnswer": "B",
+      "translationJa": "説明会後、監督者は仕事を割り当てました。",
+      "explanationJa": "中心はthe supervisor assigned the tasksで、After the briefingが時間を加えます。",
+      "focus": "SVO骨格＋時間句",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0216_Q12",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence with a participial opening.",
+      "choices": {
+        "A": "Carrying the signed forms, the records room entered the clerk.",
+        "B": "Carried the signed forms, entering the clerk the records room.",
+        "C": "The clerk carrying, the signed forms entered the records room.",
+        "D": "Carrying the signed forms, the clerk entered the records room."
+      },
+      "correctAnswer": "D",
+      "translationJa": "署名済み用紙を運びながら、係員は記録室に入りました。",
+      "explanationJa": "Carryingの動作主と主節主語the clerkが一致しています。",
+      "focus": "文頭分詞句の動作主一致",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0216_Q13",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence whose long subject agrees with its verb.",
+      "choices": {
+        "A": "The list of approved suppliers is on the shared drive.",
+        "B": "The list of approved suppliers are on the shared drive.",
+        "C": "The list of approved suppliers being on the shared drive.",
+        "D": "The list of approved suppliers on the shared drive are."
+      },
+      "correctAnswer": "A",
+      "translationJa": "承認済み仕入先の一覧は共有ドライブにあります。",
+      "explanationJa": "主語の中心listは単数で、of以下に引かれずisを使います。",
+      "focus": "長い主語の中心語",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0216_Q14",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence layering manner and place.",
+      "choices": {
+        "A": "The receptionist placed quietly behind the counter the parcel was.",
+        "B": "Quietly the parcel placed the receptionist behind the counter.",
+        "C": "The receptionist quietly placed the parcel behind the counter.",
+        "D": "The receptionist behind quietly the counter the parcel placed."
+      },
+      "correctAnswer": "C",
+      "translationJa": "受付係は静かに荷物をカウンターの後ろへ置きました。",
+      "explanationJa": "骨格receptionist placed parcelにquietlyとbehind the counterを自然に加えます。",
+      "focus": "様子と場所の配置",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0216_Q15",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence with a past-participle modifier.",
+      "choices": {
+        "A": "The invoices were submitted after Friday will be processed next week.",
+        "B": "The invoices submitting after Friday will processed next week.",
+        "C": "Submitted the invoices after Friday will be processed next week.",
+        "D": "The invoices submitted after Friday will be processed next week."
+      },
+      "correctAnswer": "D",
+      "translationJa": "金曜日以降に提出された請求書は来週処理されます。",
+      "explanationJa": "submitted句はinvoicesを修飾し、主節の本動詞はwill be processedです。",
+      "focus": "修飾節と主節述語",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0216_Q16",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence adding purpose before the core.",
+      "choices": {
+        "A": "To shortened the line, we opened a second counter.",
+        "B": "To shorten the line, we opened a second counter.",
+        "C": "To shorten the line, a second counter opened us.",
+        "D": "Shorten to the line, we a second counter opened."
+      },
+      "correctAnswer": "B",
+      "translationJa": "列を短くするため、2つ目の窓口を開きました。",
+      "explanationJa": "目的句を外すとwe opened a second counterという完全な骨格が残ります。",
+      "focus": "目的to句＋SVO",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0216_Q17",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence with a background state.",
+      "choices": {
+        "A": "Concerned about the delay, our office called the client.",
+        "B": "Concerning about the delay, called the client our office.",
+        "C": "Concerned about the delay, the client called our office.",
+        "D": "The delay concerned, the client our office called."
+      },
+      "correctAnswer": "C",
+      "translationJa": "遅延を心配して、顧客は当社事務所に電話しました。",
+      "explanationJa": "Concernedの状態主はclientで、主節の語順もSVOになっています。",
+      "focus": "過去分詞句の修飾先",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0216_Q18",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence after removing optional modifiers.",
+      "choices": {
+        "A": "Working late on Thursday, Maya completed the complex inventory report.",
+        "B": "Working late on Thursday, the complex inventory report completed Maya.",
+        "C": "Worked late on Thursday, Maya completing the inventory report.",
+        "D": "Maya the complex inventory report, working late completed."
+      },
+      "correctAnswer": "A",
+      "translationJa": "木曜日に遅くまで働き、マヤは複雑な在庫報告書を完成させました。",
+      "explanationJa": "修飾を外した中心Maya completed the reportが明確です。",
+      "focus": "長文の中心骨格",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0216_Q19",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence with a noun modifier and direction.",
+      "choices": {
+        "A": "The courier carried medical supplies walked upstairs.",
+        "B": "Carrying medical supplies walked the courier upstairs.",
+        "C": "The courier carrying medical supplies upstairs walking.",
+        "D": "The courier carrying medical supplies walked upstairs."
+      },
+      "correctAnswer": "D",
+      "translationJa": "医療用品を運んでいる配送員は階上へ歩いて行きました。",
+      "explanationJa": "carrying句はcourierを修飾し、walkedが本動詞、upstairsが方向です。",
+      "focus": "名詞修飾と本動詞の識別",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0216_Q20",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence combining three information layers.",
+      "choices": {
+        "A": "Expecting a large crowd, extra chairs carefully arranged staff in the lobby.",
+        "B": "Staff expecting, a large crowd arranged carefully extra chairs.",
+        "C": "Expecting a large crowd, staff carefully arranged extra chairs in the lobby.",
+        "D": "Expected a large crowd, staff carefully arranging extra chairs was."
+      },
+      "correctAnswer": "C",
+      "translationJa": "大勢の来場を予想し、職員はロビーに予備の椅子を慎重に配置しました。",
+      "explanationJa": "中心staff arranged chairsに、Expecting句・carefully・in the lobbyを重ねています。",
+      "focus": "骨格への多層修飾",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0216_Q21",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the core meaning of: \"After lunch, Nina promptly answered the customer’s email.\"",
+      "choices": {
+        "A": "Lunch answered Nina.",
+        "B": "The customer promptly ate the email.",
+        "C": "Nina received no customer message.",
+        "D": "Nina answered the email."
+      },
+      "correctAnswer": "D",
+      "translationJa": "ニナはメールに返信しました。",
+      "explanationJa": "After lunch・promptly・customer’sを外すと、中心骨格Nina answered the emailが残ります。",
+      "focus": "修飾を外したSVO",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0216_Q22",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the core meaning of: \"The boxes stored beside the elevator contain brochures.\"",
+      "choices": {
+        "A": "The elevator contains boxes.",
+        "B": "The boxes contain brochures.",
+        "C": "Brochures store the boxes.",
+        "D": "The boxes moved the elevator."
+      },
+      "correctAnswer": "B",
+      "translationJa": "箱にはパンフレットが入っています。",
+      "explanationJa": "stored beside the elevatorはboxesの修飾で、本体はboxes contain brochuresです。",
+      "focus": "後置修飾を除く骨格",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0216_Q23",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"Hoping to help, Omar carried the heavy bag upstairs.\"",
+      "choices": {
+        "A": "The heavy bag hoped to help Omar.",
+        "B": "Omar left the light bag downstairs.",
+        "C": "Omar hoped to help and carried the heavy bag upstairs.",
+        "D": "Upstairs carried Omar and the bag."
+      },
+      "correctAnswer": "C",
+      "translationJa": "オマールは助けたいと思い、重いかばんを階上へ運びました。",
+      "explanationJa": "Hoping句の動作主はOmarで、主節の運ぶ動作に背景動機を加えます。",
+      "focus": "分詞句の意味展開",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0216_Q24",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the core meaning of: \"The recently renovated lobby looks exceptionally bright.\"",
+      "choices": {
+        "A": "The lobby looks bright.",
+        "B": "The lobby renovated the lights.",
+        "C": "Brightness looks at the lobby.",
+        "D": "The renovation closed the lobby."
+      },
+      "correctAnswer": "A",
+      "translationJa": "ロビーは明るく見えます。",
+      "explanationJa": "recently renovatedとexceptionallyは追加情報で、SVC骨格はlobby looks brightです。",
+      "focus": "SVC骨格の抽出",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0216_Q25",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"To meet demand, the factory added a night shift.\"",
+      "choices": {
+        "A": "Demand removed the factory’s night shift.",
+        "B": "The factory added a night shift in order to meet demand.",
+        "C": "The factory reduced demand at night.",
+        "D": "A night shift met no factory demand."
+      },
+      "correctAnswer": "B",
+      "translationJa": "需要に応えるため、工場は夜勤を追加しました。",
+      "explanationJa": "To meet demandは主節行動の目的で、in order toと同義です。",
+      "focus": "目的層の展開",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0216_Q26",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the core meaning of: \"Surprised by the revised fee, the customer immediately called Sales.\"",
+      "choices": {
+        "A": "Sales surprised the fee.",
+        "B": "The fee called the customer.",
+        "C": "The customer revised Sales.",
+        "D": "The customer called Sales."
+      },
+      "correctAnswer": "D",
+      "translationJa": "顧客は営業部に電話しました。",
+      "explanationJa": "Surprised句とimmediatelyを除くとcustomer called Salesが骨格です。",
+      "focus": "状態・副詞を除く骨格",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0216_Q27",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The document attached to the message contains prices.\"",
+      "choices": {
+        "A": "The document that is attached to the message contains prices.",
+        "B": "The message contains no attached document.",
+        "C": "Prices attached the message to a document.",
+        "D": "The document sends prices without a message."
+      },
+      "correctAnswer": "A",
+      "translationJa": "メッセージに添付された文書には価格が記載されています。",
+      "explanationJa": "attached句はthat is attachedという受動関係節に展開できます。",
+      "focus": "過去分詞層の展開",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0216_Q28",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the core meaning of: \"While waiting near the gate, the travelers quietly reviewed their tickets.\"",
+      "choices": {
+        "A": "The gate reviewed travelers.",
+        "B": "The tickets waited quietly.",
+        "C": "The travelers reviewed their tickets.",
+        "D": "Travelers closed the gate."
+      },
+      "correctAnswer": "C",
+      "translationJa": "旅行者は自分たちの切符を確認しました。",
+      "explanationJa": "while句・near the gate・quietlyを外すとSVO骨格が残ります。",
+      "focus": "複数修飾から骨格抽出",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0216_Q29",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"Located across from the station, the clinic attracts commuters.\"",
+      "choices": {
+        "A": "The clinic is across from the station and attracts commuters.",
+        "B": "The station attracts the clinic across town.",
+        "C": "Commuters relocated the station.",
+        "D": "The clinic is hidden from all commuters."
+      },
+      "correctAnswer": "A",
+      "translationJa": "駅の向かいにある診療所は通勤者を引き付けています。",
+      "explanationJa": "Located句はclinicの場所状態を背景として加えています。",
+      "focus": "文頭過去分詞句の展開",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0216_Q30",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the core meaning of: \"The experienced technician carefully adjusted the damaged sensor yesterday.\"",
+      "choices": {
+        "A": "The sensor trained the technician.",
+        "B": "The technician adjusted the sensor.",
+        "C": "Yesterday damaged the equipment.",
+        "D": "The technician ignored the sensor."
+      },
+      "correctAnswer": "B",
+      "translationJa": "技術者はセンサーを調整しました。",
+      "explanationJa": "experienced・carefully・damaged・yesterdayを除くと中心SVOが明確になります。",
+      "focus": "小修飾を除く骨格",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0216_Q31",
+      "format": "context-completion",
+      "prompt": "The committee had reviewed every quotation. After a short discussion, it ------- the lowest qualified bid.",
+      "choices": {
+        "A": "selecting",
+        "B": "selection",
+        "C": "selected",
+        "D": "to selected"
+      },
+      "correctAnswer": "C",
+      "translationJa": "委員会はすべての見積もりを確認済みでした。短い協議の後、条件を満たす最低額の入札を選びました。",
+      "explanationJa": "After句は修飾で、主節にはitを主語とする述語selectedが必要です。",
+      "focus": "前置詞句後の骨格完成",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0216_Q32",
+      "format": "context-completion",
+      "prompt": "Several labels are attached to each container. The label near the handle ------- the expiration date.",
+      "choices": {
+        "A": "shows",
+        "B": "show",
+        "C": "showing",
+        "D": "to show"
+      },
+      "correctAnswer": "A",
+      "translationJa": "各容器には複数のラベルがあります。取っ手近くのラベルが有効期限を示します。",
+      "explanationJa": "主語中心labelは単数で、near the handleを越えてshowsと一致します。",
+      "focus": "長い主語の主述一致",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0216_Q33",
+      "format": "context-completion",
+      "prompt": "A customer left a wallet at reception. Hoping to return it quickly, the clerk ------- the contact list.",
+      "choices": {
+        "A": "checking",
+        "B": "check",
+        "C": "to checking",
+        "D": "checked"
+      },
+      "correctAnswer": "D",
+      "translationJa": "顧客が受付に財布を置き忘れました。早く返したいと思い、係員は連絡先一覧を確認しました。",
+      "explanationJa": "Hoping句の主語はclerkで、主節骨格はclerk checked the listです。",
+      "focus": "分詞句と主節主語",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0216_Q34",
+      "format": "context-completion",
+      "prompt": "The hallway contains several crates. The crates marked in red ------- urgent parts.",
+      "choices": {
+        "A": "contains",
+        "B": "contain",
+        "C": "containing",
+        "D": "to contain"
+      },
+      "correctAnswer": "B",
+      "translationJa": "廊下には複数の木箱があります。赤印の箱には緊急部品が入っています。",
+      "explanationJa": "marked in redはcratesを修飾し、複数主語なので本動詞containです。",
+      "focus": "分詞修飾後の本動詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0216_Q35",
+      "format": "context-completion",
+      "prompt": "The hotel expects more international guests. To assist them, it ------- a multilingual guide.",
+      "choices": {
+        "A": "preparing",
+        "B": "preparation",
+        "C": "prepared",
+        "D": "to prepared"
+      },
+      "correctAnswer": "C",
+      "translationJa": "ホテルは海外からの宿泊客増加を見込んでいます。案内するため、多言語ガイドを用意しました。",
+      "explanationJa": "To assist themは目的で、主節it prepared a guideを完成させます。",
+      "focus": "目的句＋SVO骨格",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0216_Q36",
+      "format": "context-completion",
+      "prompt": "A pipe burst above the storage room. Damaged by water, several cartons ------- unusable.",
+      "choices": {
+        "A": "became",
+        "B": "becoming",
+        "C": "become yesterday",
+        "D": "to became"
+      },
+      "correctAnswer": "A",
+      "translationJa": "保管室の上で配管が破裂しました。水で損傷し、複数の箱が使用不能になりました。",
+      "explanationJa": "Damaged句はcartonsの状態で、主節の複数主語に過去形becameを置きます。",
+      "focus": "背景状態とSVC",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0216_Q37",
+      "format": "context-completion",
+      "prompt": "The reviewer opened a long spreadsheet. Working from left to right, she ------- each total carefully.",
+      "choices": {
+        "A": "verification",
+        "B": "verified",
+        "C": "verifying",
+        "D": "to verified"
+      },
+      "correctAnswer": "B",
+      "translationJa": "審査担当者は長い表計算ファイルを開きました。左から右へ作業し、各合計を慎重に確認しました。",
+      "explanationJa": "Working句を除く骨格she verified each totalが必要です。",
+      "focus": "現在分詞背景と述語",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0216_Q38",
+      "format": "context-completion",
+      "prompt": "The clinic moved to a larger building. Located beside the subway, the new site ------- easier access.",
+      "choices": {
+        "A": "offering",
+        "B": "offer",
+        "C": "to offer",
+        "D": "offers"
+      },
+      "correctAnswer": "D",
+      "translationJa": "診療所はより大きな建物へ移転しました。地下鉄のそばにある新拠点はアクセスしやすくなっています。",
+      "explanationJa": "Located句はsiteを説明し、単数主語の本動詞offersを選びます。",
+      "focus": "分詞句後の主述一致",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0216_Q39",
+      "format": "context-completion",
+      "prompt": "The sentence contains several modifiers. Its core is “The manager ------- the request.”",
+      "choices": {
+        "A": "approved",
+        "B": "carefully",
+        "C": "after lunch",
+        "D": "revised"
+      },
+      "correctAnswer": "A",
+      "translationJa": "その文には複数の修飾語があります。骨格は「部長が申請を承認した」です。",
+      "explanationJa": "骨格の述語の席には動詞approvedが入り、ほかは修飾要素です。",
+      "focus": "骨格の述語判定",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0216_Q40",
+      "format": "context-completion",
+      "prompt": "The shipment was delayed at customs. Having gathered the missing papers, the broker ------- them immediately.",
+      "choices": {
+        "A": "submission",
+        "B": "submitted",
+        "C": "submitting",
+        "D": "to submitted"
+      },
+      "correctAnswer": "B",
+      "translationJa": "配送品は税関で遅れました。不足書類を集めた後、通関業者は直ちに提出しました。",
+      "explanationJa": "Having句は先行行為で、主節骨格broker submitted themを完成させます。",
+      "focus": "完了分詞句と主節骨格",
+      "difficulty": "advanced"
+    }
+  ]
+}
