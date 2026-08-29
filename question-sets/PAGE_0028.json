@@ -1,1 +1,673 @@
-{"schemaVersion":1,"page":{"number":28,"id":"grammar-master-0028","title":"動詞の力が、目的語へ届く","image":"pages/PAGE_0028.webp","sourcePrompt":"source-prompts/PAGE_0028.txt"},"analysis":{"summaryJa":"他動詞の力が1つの目的語へ直接届くSVO型を中心に、目的語の名詞句・動名詞句・目的格代名詞、直接目的語とabout等を介した情報対象の違いを学ぶ。","grammarPoints":["SVOの基本語順","目的語は名詞相当のまとまり","目的格代名詞me/him/her/us/them","動名詞句を目的語に置く","直接目的語と前置詞を介す対象の違い"],"visualEvidence":["主語から動詞の力が目的語へ直接届く矢印","主語＋動詞＋目的語のレール","know herとknow about herの直接性の対比"],"commonTraps":["目的語を動詞の前に置く","目的格の位置に主格を使う","動名詞句を目的語と見抜けない","前置詞句を直接目的語と誤認する"]},"questions":[{"id":"PAGE_0028_Q01","format":"part5-cloze","prompt":"The technician inspected ------- before the store opened.","choices":{"A":"the display unit","B":"carefully","C":"in the lobby","D":"was repaired"},"correctAnswer":"A","translationJa":"技術者は開店前に展示装置を点検しました。","explanationJa":"inspectedの力が直接届く名詞句the display unitが目的語です。","focus":"SVOの目的語","difficulty":"basic"},{"id":"PAGE_0028_Q02","format":"part5-cloze","prompt":"Ms. Park invited ------- to the supplier meeting tomorrow.","choices":{"A":"we","B":"us","C":"our","D":"ours"},"correctAnswer":"B","translationJa":"パクさんは私たちを明日の仕入先会議に招待しました。","explanationJa":"invitedの目的語なので目的格usを使います。","focus":"目的格代名詞","difficulty":"basic"},{"id":"PAGE_0028_Q03","format":"part5-cloze","prompt":"The marketing team enjoys ------- customer feedback after each campaign.","choices":{"A":"review","B":"reviewed","C":"reviewing","D":"reviews"},"correctAnswer":"C","translationJa":"マーケティングチームは各キャンペーン後に顧客の意見を確認することを楽しんでいます。","explanationJa":"enjoyの目的語には動名詞を置くためreviewingが正解です。","focus":"動名詞句を目的語にする","difficulty":"basic"},{"id":"PAGE_0028_Q04","format":"part5-cloze","prompt":"The new scanner reads ------- automatically at the entrance.","choices":{"A":"quickly","B":"at noon","C":"is accurate","D":"employee badges"},"correctAnswer":"D","translationJa":"新しいスキャナーは入口で社員証を自動的に読み取ります。","explanationJa":"readsが直接働きかける対象employee badgesが目的語です。","focus":"他動詞＋目的語","difficulty":"basic"},{"id":"PAGE_0028_Q05","format":"part5-cloze","prompt":"Our legal adviser knows ------- and can contact her directly.","choices":{"A":"the director","B":"about quickly","C":"to the director","D":"directing"},"correctAnswer":"A","translationJa":"法務顧問はその取締役本人を知っており、直接連絡できます。","explanationJa":"人そのものを直接知る場合はknow＋人で、前置詞は不要です。","focus":"直接目的語","difficulty":"intermediate"},{"id":"PAGE_0028_Q06","format":"part5-cloze","prompt":"The interns practiced ------- concise responses to customer inquiries.","choices":{"A":"write","B":"writing","C":"wrote","D":"written"},"correctAnswer":"B","translationJa":"インターンは顧客問い合わせへの簡潔な回答を書く練習をしました。","explanationJa":"practiceの目的語として行動を表す動名詞writingを置きます。","focus":"動名詞目的語","difficulty":"intermediate"},{"id":"PAGE_0028_Q07","format":"part5-cloze","prompt":"Please send ------- the revised itinerary before noon.","choices":{"A":"she","B":"hers","C":"her","D":"herself is"},"correctAnswer":"C","translationJa":"正午までに彼女へ改訂旅程を送ってください。","explanationJa":"sendの後で受け手を表す位置には目的格herを置きます。","focus":"目的格","difficulty":"intermediate"},{"id":"PAGE_0028_Q08","format":"part5-cloze","prompt":"The report explains ------- in detail for new employees.","choices":{"A":"clearly","B":"at orientation","C":"was changed","D":"the reimbursement procedure"},"correctAnswer":"D","translationJa":"その報告書は新入社員向けに精算手続きを詳しく説明しています。","explanationJa":"explainsの直接対象となる名詞句が必要です。","focus":"目的語名詞句","difficulty":"intermediate"},{"id":"PAGE_0028_Q09","format":"part5-cloze","prompt":"The committee considered ------- the launch until the safety review was complete.","choices":{"A":"postponing","B":"postpone","C":"postponed","D":"to postponed"},"correctAnswer":"A","translationJa":"委員会は安全審査が終わるまで発売を延期することを検討しました。","explanationJa":"considerは行動を目的語に取るとき動名詞を使います。","focus":"consider＋動名詞","difficulty":"advanced"},{"id":"PAGE_0028_Q10","format":"part5-cloze","prompt":"Although I know ------- the new policy, I have not read the full document yet.","choices":{"A":"the policy directly as a person","B":"about","C":"it to","D":"knowing"},"correctAnswer":"B","translationJa":"新しい方針については知っていますが、全文はまだ読んでいません。","explanationJa":"情報として『～について知っている』はknow aboutで表します。","focus":"know aboutの間接性","difficulty":"advanced"},{"id":"PAGE_0028_Q11","format":"correct-sentence","prompt":"Choose the sentence with the correct subject-verb-object order.","choices":{"A":"The receptionist the package accepted.","B":"Accepted the receptionist the package.","C":"The receptionist accepted the package.","D":"The package the receptionist accepted was."},"correctAnswer":"C","translationJa":"受付担当者は荷物を受け取りました。","explanationJa":"S＋V＋Oの順にThe receptionist＋accepted＋the packageと並びます。","focus":"SVO語順","difficulty":"basic"},{"id":"PAGE_0028_Q12","format":"correct-sentence","prompt":"Choose the correct sentence using an object pronoun.","choices":{"A":"The manager thanked they after the presentation.","B":"The manager thanked their after the presentation.","C":"The manager thanked theirs after the presentation.","D":"The manager thanked them after the presentation."},"correctAnswer":"D","translationJa":"部長は発表後に彼らへ感謝しました。","explanationJa":"thankedの目的語には目的格themを使います。","focus":"themの目的格","difficulty":"basic"},{"id":"PAGE_0028_Q13","format":"correct-sentence","prompt":"Choose the correct sentence about an activity someone enjoys.","choices":{"A":"Ms. Ito enjoys organizing training events.","B":"Ms. Ito enjoys organize training events.","C":"Ms. Ito enjoys organized training events do.","D":"Ms. Ito enjoys to organizing training events."},"correctAnswer":"A","translationJa":"伊藤さんは研修イベントを企画することを楽しんでいます。","explanationJa":"enjoyの目的語としてorganizing以下の動名詞句を使います。","focus":"enjoy＋動名詞","difficulty":"intermediate"},{"id":"PAGE_0028_Q14","format":"correct-sentence","prompt":"Choose the correct sentence about direct knowledge of a person.","choices":{"A":"I know about him personally as a direct object.","B":"I know him from our previous project.","C":"I know to him from our previous project.","D":"I know at him from our previous project."},"correctAnswer":"B","translationJa":"私は以前のプロジェクトで彼本人を知っています。","explanationJa":"人を直接知っている場合はknow himと目的格を直接置きます。","focus":"know＋人","difficulty":"intermediate"},{"id":"PAGE_0028_Q15","format":"correct-sentence","prompt":"Choose the sentence in which the underlined idea functions as the direct object.","choices":{"A":"The courier arrived at noon.","B":"The courier waited outside.","C":"The courier delivered the documents.","D":"The courier worked carefully."},"correctAnswer":"C","translationJa":"配達員は書類を届けました。","explanationJa":"the documentsはdeliveredの作用が直接届く目的語です。","focus":"直接目的語の識別","difficulty":"intermediate"},{"id":"PAGE_0028_Q16","format":"correct-sentence","prompt":"Choose the correct sentence with a noun phrase as the object.","choices":{"A":"The buyer requested politely during the call.","B":"The buyer requested at the front desk.","C":"The buyer requested was urgent.","D":"The buyer requested a detailed cost estimate."},"correctAnswer":"D","translationJa":"購入担当者は詳細な費用見積もりを依頼しました。","explanationJa":"a detailed cost estimate全体がrequestedの目的語です。","focus":"長い名詞句の目的語","difficulty":"intermediate"},{"id":"PAGE_0028_Q17","format":"correct-sentence","prompt":"Choose the correct sentence after the verb “avoid.”","choices":{"A":"We avoid scheduling maintenance during business hours.","B":"We avoid schedule maintenance during business hours.","C":"We avoid scheduled maintenance to do.","D":"We avoid to scheduling maintenance."},"correctAnswer":"A","translationJa":"私たちは営業時間中に保守作業を予定することを避けています。","explanationJa":"avoidの目的語には動名詞を置きます。","focus":"avoid＋動名詞","difficulty":"intermediate"},{"id":"PAGE_0028_Q18","format":"correct-sentence","prompt":"Choose the sentence that means the speaker has information about Ms. Lee but may not know her personally.","choices":{"A":"I know Ms. Lee personally.","B":"I know about Ms. Lee from the company newsletter.","C":"I know to Ms. Lee from the newsletter.","D":"I know Ms. Lee into the newsletter."},"correctAnswer":"B","translationJa":"私は社内報でリーさんについて知っています。","explanationJa":"know aboutは本人との直接の面識ではなく情報について知る意味です。","focus":"knowとknow about","difficulty":"advanced"},{"id":"PAGE_0028_Q19","format":"correct-sentence","prompt":"Choose the correct sentence with two nested object relationships.","choices":{"A":"The supervisor asked us to check the inventory.","B":"The supervisor asked we to check the inventory.","C":"The supervisor asked our checking the inventory is.","D":"The supervisor asked to us check inventory."},"correctAnswer":"A","translationJa":"監督者は私たちに在庫を確認するよう頼みました。","explanationJa":"askedの対象には目的格usが必要で、to check以下が依頼内容を示します。","focus":"目的格＋不定詞","difficulty":"advanced"},{"id":"PAGE_0028_Q20","format":"correct-sentence","prompt":"Choose the sentence whose verb directly acts on one object.","choices":{"A":"The guests arrived early.","B":"The guests waited in the lobby.","C":"The guests remained quiet.","D":"The guests signed the registration form."},"correctAnswer":"D","translationJa":"来客は登録用紙に署名しました。","explanationJa":"signedの直後のthe registration formが直接目的語です。","focus":"他動詞型の識別","difficulty":"advanced"},{"id":"PAGE_0028_Q21","format":"meaning-equivalent","prompt":"Choose the sentence closest in meaning to: “The clerk checked the reservation.”","choices":{"A":"The reservation received the clerk's checking action directly.","B":"The clerk checked near the reservation.","C":"The clerk arrived after the reservation.","D":"The clerk was described by the reservation."},"correctAnswer":"A","translationJa":"予約が店員の確認という作用を直接受けました。","explanationJa":"checkは目的語reservationへ直接作用する他動詞です。","focus":"動詞から目的語への作用","difficulty":"basic"},{"id":"PAGE_0028_Q22","format":"meaning-equivalent","prompt":"Choose the sentence closest in meaning to: “The trainer encouraged us.”","choices":{"A":"The trainer encouraged we.","B":"We were the people who received the trainer's encouragement.","C":"Our encouraged the trainer.","D":"The trainer encouraged near us."},"correctAnswer":"B","translationJa":"私たちが講師から励ましを受けた人たちです。","explanationJa":"usはencouragedの作用を受ける目的格です。","focus":"目的格の意味","difficulty":"basic"},{"id":"PAGE_0028_Q23","format":"meaning-equivalent","prompt":"Choose the sentence closest in meaning to: “The team enjoys solving complex problems.”","choices":{"A":"The team avoids every complex problem.","B":"The problems enjoy the team.","C":"Solving complex problems is an activity the team enjoys.","D":"The team solves only simple problems."},"correctAnswer":"C","translationJa":"複雑な問題を解くことは、そのチームが楽しんでいる活動です。","explanationJa":"solving complex problems全体がenjoysの目的語です。","focus":"動名詞句の目的語","difficulty":"basic"},{"id":"PAGE_0028_Q24","format":"meaning-equivalent","prompt":"Choose the sentence closest in meaning to: “I know about the consultant.”","choices":{"A":"I definitely know the consultant personally.","B":"The consultant knows me personally.","C":"I have hired the consultant.","D":"I have some information concerning the consultant."},"correctAnswer":"D","translationJa":"私はそのコンサルタントについて何らかの情報を知っています。","explanationJa":"know aboutは対象についての情報を知ることを表します。","focus":"aboutを介した対象","difficulty":"intermediate"},{"id":"PAGE_0028_Q25","format":"meaning-equivalent","prompt":"Choose the sentence closest in meaning to: “The software stores customer records.”","choices":{"A":"Customer records are the direct objects of the software's storing action.","B":"The software waits near customer records.","C":"Customer records describe the software.","D":"The software stores carefully without an object."},"correctAnswer":"A","translationJa":"顧客記録がソフトウェアの保存動作の直接の対象です。","explanationJa":"storesの作用がcustomer recordsへ直接届くSVOです。","focus":"SVO関係","difficulty":"intermediate"},{"id":"PAGE_0028_Q26","format":"meaning-equivalent","prompt":"Choose the sentence closest in meaning to: “Ms. Rao avoided discussing the price during lunch.”","choices":{"A":"Ms. Rao discussed the price throughout lunch.","B":"Discussing the price was the activity Ms. Rao chose not to do during lunch.","C":"The price avoided Ms. Rao.","D":"Ms. Rao forgot the price completely."},"correctAnswer":"B","translationJa":"昼食中、価格について話すことをラオさんはしないようにしました。","explanationJa":"discussing the priceという行動全体がavoidedの目的語です。","focus":"行動を目的語にする","difficulty":"intermediate"},{"id":"PAGE_0028_Q27","format":"meaning-equivalent","prompt":"Choose the sentence closest in meaning to: “The director contacted her yesterday.”","choices":{"A":"The director contacted she yesterday.","B":"She contacted the director yesterday.","C":"She was the person directly contacted by the director yesterday.","D":"The director contacted about her but not her."},"correctAnswer":"C","translationJa":"彼女が昨日、取締役から直接連絡を受けた人です。","explanationJa":"herはcontactedの直接目的語で、作用を受ける人です。","focus":"直接目的語と受け身対応","difficulty":"intermediate"},{"id":"PAGE_0028
+{
+  "schemaVersion": 1,
+  "page": {
+    "number": 28,
+    "id": "grammar-master-0028",
+    "title": "動詞の力が、目的語へ届く",
+    "image": "pages/PAGE_0028.webp",
+    "sourcePrompt": "source-prompts/PAGE_0028.txt"
+  },
+  "analysis": {
+    "summaryJa": "他動詞の力が1つの目的語へ直接届くSVO型を中心に、目的語の名詞句・動名詞句・目的格代名詞、直接目的語とabout等を介した情報対象の違いを学ぶ。",
+    "grammarPoints": [
+      "SVOの基本語順",
+      "目的語は名詞相当のまとまり",
+      "目的格代名詞me/him/her/us/them",
+      "動名詞句を目的語に置く",
+      "直接目的語と前置詞を介す対象の違い"
+    ],
+    "visualEvidence": [
+      "主語から動詞の力が目的語へ直接届く矢印",
+      "主語＋動詞＋目的語のレール",
+      "know herとknow about herの直接性の対比"
+    ],
+    "commonTraps": [
+      "目的語を動詞の前に置く",
+      "目的格の位置に主格を使う",
+      "動名詞句を目的語と見抜けない",
+      "前置詞句を直接目的語と誤認する"
+    ]
+  },
+  "questions": [
+    {
+      "id": "PAGE_0028_Q01",
+      "format": "part5-cloze",
+      "prompt": "The technician inspected ------- before the store opened.",
+      "choices": {
+        "A": "the display unit",
+        "B": "carefully",
+        "C": "in the lobby",
+        "D": "was repaired"
+      },
+      "correctAnswer": "A",
+      "translationJa": "技術者は開店前に展示装置を点検しました。",
+      "explanationJa": "inspectedの力が直接届く名詞句the display unitが目的語です。",
+      "focus": "SVOの目的語",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0028_Q02",
+      "format": "part5-cloze",
+      "prompt": "Ms. Park invited ------- to the supplier meeting tomorrow.",
+      "choices": {
+        "A": "we",
+        "B": "us",
+        "C": "our",
+        "D": "ours"
+      },
+      "correctAnswer": "B",
+      "translationJa": "パクさんは私たちを明日の仕入先会議に招待しました。",
+      "explanationJa": "invitedの目的語なので目的格usを使います。",
+      "focus": "目的格代名詞",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0028_Q03",
+      "format": "part5-cloze",
+      "prompt": "The marketing team enjoys ------- customer feedback after each campaign.",
+      "choices": {
+        "A": "review",
+        "B": "reviewed",
+        "C": "reviewing",
+        "D": "reviews"
+      },
+      "correctAnswer": "C",
+      "translationJa": "マーケティングチームは各キャンペーン後に顧客の意見を確認することを楽しんでいます。",
+      "explanationJa": "enjoyの目的語には動名詞を置くためreviewingが正解です。",
+      "focus": "動名詞句を目的語にする",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0028_Q04",
+      "format": "part5-cloze",
+      "prompt": "The new scanner reads ------- automatically at the entrance.",
+      "choices": {
+        "A": "quickly",
+        "B": "at noon",
+        "C": "is accurate",
+        "D": "employee badges"
+      },
+      "correctAnswer": "D",
+      "translationJa": "新しいスキャナーは入口で社員証を自動的に読み取ります。",
+      "explanationJa": "readsが直接働きかける対象employee badgesが目的語です。",
+      "focus": "他動詞＋目的語",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0028_Q05",
+      "format": "part5-cloze",
+      "prompt": "Our legal adviser knows ------- and can contact her directly.",
+      "choices": {
+        "A": "the director",
+        "B": "about quickly",
+        "C": "to the director",
+        "D": "directing"
+      },
+      "correctAnswer": "A",
+      "translationJa": "法務顧問はその取締役本人を知っており、直接連絡できます。",
+      "explanationJa": "人そのものを直接知る場合はknow＋人で、前置詞は不要です。",
+      "focus": "直接目的語",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0028_Q06",
+      "format": "part5-cloze",
+      "prompt": "The interns practiced ------- concise responses to customer inquiries.",
+      "choices": {
+        "A": "write",
+        "B": "writing",
+        "C": "wrote",
+        "D": "written"
+      },
+      "correctAnswer": "B",
+      "translationJa": "インターンは顧客問い合わせへの簡潔な回答を書く練習をしました。",
+      "explanationJa": "practiceの目的語として行動を表す動名詞writingを置きます。",
+      "focus": "動名詞目的語",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0028_Q07",
+      "format": "part5-cloze",
+      "prompt": "Please send ------- the revised itinerary before noon.",
+      "choices": {
+        "A": "she",
+        "B": "hers",
+        "C": "her",
+        "D": "herself is"
+      },
+      "correctAnswer": "C",
+      "translationJa": "正午までに彼女へ改訂旅程を送ってください。",
+      "explanationJa": "sendの後で受け手を表す位置には目的格herを置きます。",
+      "focus": "目的格",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0028_Q08",
+      "format": "part5-cloze",
+      "prompt": "The report explains ------- in detail for new employees.",
+      "choices": {
+        "A": "clearly",
+        "B": "at orientation",
+        "C": "was changed",
+        "D": "the reimbursement procedure"
+      },
+      "correctAnswer": "D",
+      "translationJa": "その報告書は新入社員向けに精算手続きを詳しく説明しています。",
+      "explanationJa": "explainsの直接対象となる名詞句が必要です。",
+      "focus": "目的語名詞句",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0028_Q09",
+      "format": "part5-cloze",
+      "prompt": "The committee considered ------- the launch until the safety review was complete.",
+      "choices": {
+        "A": "postponing",
+        "B": "postpone",
+        "C": "postponed",
+        "D": "to postponed"
+      },
+      "correctAnswer": "A",
+      "translationJa": "委員会は安全審査が終わるまで発売を延期することを検討しました。",
+      "explanationJa": "considerは行動を目的語に取るとき動名詞を使います。",
+      "focus": "consider＋動名詞",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0028_Q10",
+      "format": "part5-cloze",
+      "prompt": "Although I know ------- the new policy, I have not read the full document yet.",
+      "choices": {
+        "A": "the policy directly as a person",
+        "B": "about",
+        "C": "it to",
+        "D": "knowing"
+      },
+      "correctAnswer": "B",
+      "translationJa": "新しい方針については知っていますが、全文はまだ読んでいません。",
+      "explanationJa": "情報として『～について知っている』はknow aboutで表します。",
+      "focus": "know aboutの間接性",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0028_Q11",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence with the correct subject-verb-object order.",
+      "choices": {
+        "A": "The receptionist the package accepted.",
+        "B": "Accepted the receptionist the package.",
+        "C": "The receptionist accepted the package.",
+        "D": "The package the receptionist accepted was."
+      },
+      "correctAnswer": "C",
+      "translationJa": "受付担当者は荷物を受け取りました。",
+      "explanationJa": "S＋V＋Oの順にThe receptionist＋accepted＋the packageと並びます。",
+      "focus": "SVO語順",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0028_Q12",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence using an object pronoun.",
+      "choices": {
+        "A": "The manager thanked they after the presentation.",
+        "B": "The manager thanked their after the presentation.",
+        "C": "The manager thanked theirs after the presentation.",
+        "D": "The manager thanked them after the presentation."
+      },
+      "correctAnswer": "D",
+      "translationJa": "部長は発表後に彼らへ感謝しました。",
+      "explanationJa": "thankedの目的語には目的格themを使います。",
+      "focus": "themの目的格",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0028_Q13",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about an activity someone enjoys.",
+      "choices": {
+        "A": "Ms. Ito enjoys organizing training events.",
+        "B": "Ms. Ito enjoys organize training events.",
+        "C": "Ms. Ito enjoys organized training events do.",
+        "D": "Ms. Ito enjoys to organizing training events."
+      },
+      "correctAnswer": "A",
+      "translationJa": "伊藤さんは研修イベントを企画することを楽しんでいます。",
+      "explanationJa": "enjoyの目的語としてorganizing以下の動名詞句を使います。",
+      "focus": "enjoy＋動名詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0028_Q14",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about direct knowledge of a person.",
+      "choices": {
+        "A": "I know about him personally as a direct object.",
+        "B": "I know him from our previous project.",
+        "C": "I know to him from our previous project.",
+        "D": "I know at him from our previous project."
+      },
+      "correctAnswer": "B",
+      "translationJa": "私は以前のプロジェクトで彼本人を知っています。",
+      "explanationJa": "人を直接知っている場合はknow himと目的格を直接置きます。",
+      "focus": "know＋人",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0028_Q15",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence in which the underlined idea functions as the direct object.",
+      "choices": {
+        "A": "The courier arrived at noon.",
+        "B": "The courier waited outside.",
+        "C": "The courier delivered the documents.",
+        "D": "The courier worked carefully."
+      },
+      "correctAnswer": "C",
+      "translationJa": "配達員は書類を届けました。",
+      "explanationJa": "the documentsはdeliveredの作用が直接届く目的語です。",
+      "focus": "直接目的語の識別",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0028_Q16",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence with a noun phrase as the object.",
+      "choices": {
+        "A": "The buyer requested politely during the call.",
+        "B": "The buyer requested at the front desk.",
+        "C": "The buyer requested was urgent.",
+        "D": "The buyer requested a detailed cost estimate."
+      },
+      "correctAnswer": "D",
+      "translationJa": "購入担当者は詳細な費用見積もりを依頼しました。",
+      "explanationJa": "a detailed cost estimate全体がrequestedの目的語です。",
+      "focus": "長い名詞句の目的語",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0028_Q17",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence after the verb “avoid.”",
+      "choices": {
+        "A": "We avoid scheduling maintenance during business hours.",
+        "B": "We avoid schedule maintenance during business hours.",
+        "C": "We avoid scheduled maintenance to do.",
+        "D": "We avoid to scheduling maintenance."
+      },
+      "correctAnswer": "A",
+      "translationJa": "私たちは営業時間中に保守作業を予定することを避けています。",
+      "explanationJa": "avoidの目的語には動名詞を置きます。",
+      "focus": "avoid＋動名詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0028_Q18",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that means the speaker has information about Ms. Lee but may not know her personally.",
+      "choices": {
+        "A": "I know Ms. Lee personally.",
+        "B": "I know about Ms. Lee from the company newsletter.",
+        "C": "I know to Ms. Lee from the newsletter.",
+        "D": "I know Ms. Lee into the newsletter."
+      },
+      "correctAnswer": "B",
+      "translationJa": "私は社内報でリーさんについて知っています。",
+      "explanationJa": "know aboutは本人との直接の面識ではなく情報について知る意味です。",
+      "focus": "knowとknow about",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0028_Q19",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence with two nested object relationships.",
+      "choices": {
+        "A": "The supervisor asked our checking the inventory is.",
+        "B": "The supervisor asked we to check the inventory.",
+        "C": "The supervisor asked us to check the inventory.",
+        "D": "The supervisor asked to us check inventory."
+      },
+      "correctAnswer": "C",
+      "translationJa": "監督者は私たちに在庫を確認するよう頼みました。",
+      "explanationJa": "askedの対象には目的格usが必要で、to check以下が依頼内容を示します。",
+      "focus": "目的格＋不定詞",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0028_Q20",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence whose verb directly acts on one object.",
+      "choices": {
+        "A": "The guests arrived early.",
+        "B": "The guests waited in the lobby.",
+        "C": "The guests remained quiet.",
+        "D": "The guests signed the registration form."
+      },
+      "correctAnswer": "D",
+      "translationJa": "来客は登録用紙に署名しました。",
+      "explanationJa": "signedの直後のthe registration formが直接目的語です。",
+      "focus": "他動詞型の識別",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0028_Q21",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “The clerk checked the reservation.”",
+      "choices": {
+        "A": "The reservation received the clerk's checking action directly.",
+        "B": "The clerk checked near the reservation.",
+        "C": "The clerk arrived after the reservation.",
+        "D": "The clerk was described by the reservation."
+      },
+      "correctAnswer": "A",
+      "translationJa": "予約が店員の確認という作用を直接受けました。",
+      "explanationJa": "checkは目的語reservationへ直接作用する他動詞です。",
+      "focus": "動詞から目的語への作用",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0028_Q22",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “The trainer encouraged us.”",
+      "choices": {
+        "A": "The trainer encouraged we.",
+        "B": "We were the people who received the trainer's encouragement.",
+        "C": "Our encouraged the trainer.",
+        "D": "The trainer encouraged near us."
+      },
+      "correctAnswer": "B",
+      "translationJa": "私たちが講師から励ましを受けた人たちです。",
+      "explanationJa": "usはencouragedの作用を受ける目的格です。",
+      "focus": "目的格の意味",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0028_Q23",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “The team enjoys solving complex problems.”",
+      "choices": {
+        "A": "The team avoids every complex problem.",
+        "B": "The problems enjoy the team.",
+        "C": "Solving complex problems is an activity the team enjoys.",
+        "D": "The team solves only simple problems."
+      },
+      "correctAnswer": "C",
+      "translationJa": "複雑な問題を解くことは、そのチームが楽しんでいる活動です。",
+      "explanationJa": "solving complex problems全体がenjoysの目的語です。",
+      "focus": "動名詞句の目的語",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0028_Q24",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “I know about the consultant.”",
+      "choices": {
+        "A": "I definitely know the consultant personally.",
+        "B": "The consultant knows me personally.",
+        "C": "I have hired the consultant.",
+        "D": "I have some information concerning the consultant."
+      },
+      "correctAnswer": "D",
+      "translationJa": "私はそのコンサルタントについて何らかの情報を知っています。",
+      "explanationJa": "know aboutは対象についての情報を知ることを表します。",
+      "focus": "aboutを介した対象",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0028_Q25",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “The software stores customer records.”",
+      "choices": {
+        "A": "Customer records are the direct objects of the software's storing action.",
+        "B": "The software waits near customer records.",
+        "C": "Customer records describe the software.",
+        "D": "The software stores carefully without an object."
+      },
+      "correctAnswer": "A",
+      "translationJa": "顧客記録がソフトウェアの保存動作の直接の対象です。",
+      "explanationJa": "storesの作用がcustomer recordsへ直接届くSVOです。",
+      "focus": "SVO関係",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0028_Q26",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “Ms. Rao avoided discussing the price during lunch.”",
+      "choices": {
+        "A": "Ms. Rao discussed the price throughout lunch.",
+        "B": "Discussing the price was the activity Ms. Rao chose not to do during lunch.",
+        "C": "The price avoided Ms. Rao.",
+        "D": "Ms. Rao forgot the price completely."
+      },
+      "correctAnswer": "B",
+      "translationJa": "昼食中、価格について話すことをラオさんはしないようにしました。",
+      "explanationJa": "discussing the priceという行動全体がavoidedの目的語です。",
+      "focus": "行動を目的語にする",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0028_Q27",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “The director contacted her yesterday.”",
+      "choices": {
+        "A": "The director contacted she yesterday.",
+        "B": "She contacted the director yesterday.",
+        "C": "She was the person directly contacted by the director yesterday.",
+        "D": "The director contacted about her but not her."
+      },
+      "correctAnswer": "C",
+      "translationJa": "彼女が昨日、取締役から直接連絡を受けた人です。",
+      "explanationJa": "herはcontactedの直接目的語で、作用を受ける人です。",
+      "focus": "直接目的語と受け身対応",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0028_Q28",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “The client contacted us directly.”",
+      "choices": {
+        "A": "The client arrived near us.",
+        "B": "The client spoke about us without contacting us.",
+        "C": "We contacted the client.",
+        "D": "We were the direct recipients of the client's contact."
+      },
+      "correctAnswer": "D",
+      "translationJa": "私たちは顧客から直接連絡を受けました。",
+      "explanationJa": "usはcontactedの直接目的語で、作用を受ける相手です。",
+      "focus": "直接目的語",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0028_Q29",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the best analysis of: “The team considered postponing the launch.”",
+      "choices": {
+        "A": "postponing the launch is the activity considered by the team.",
+        "B": "the launch considers the team.",
+        "C": "considered requires a person only.",
+        "D": "postponing is a location phrase."
+      },
+      "correctAnswer": "A",
+      "translationJa": "発売延期という行動全体がチームの検討対象です。",
+      "explanationJa": "動名詞句postponing the launch全体がconsideredの目的語です。",
+      "focus": "動名詞目的語",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0028_Q30",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “I know about the policy.”",
+      "choices": {
+        "A": "The policy knows me.",
+        "B": "I know a person named Policy.",
+        "C": "I have information concerning the policy.",
+        "D": "I contacted the policy directly."
+      },
+      "correctAnswer": "C",
+      "translationJa": "私はその方針について情報を知っています。",
+      "explanationJa": "know aboutは対象そのものとの直接関係ではなく情報を知る意味です。",
+      "focus": "know about",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0028_Q31",
+      "format": "context-completion",
+      "prompt": "The receptionist greeted the visitors. She then showed ------- the registration desk.",
+      "choices": {
+        "A": "they",
+        "B": "theirs",
+        "C": "their",
+        "D": "them"
+      },
+      "correctAnswer": "D",
+      "translationJa": "受付担当者は来訪者を迎え、その後彼らに登録カウンターを示しました。",
+      "explanationJa": "showの受け手の位置なので目的格themを使います。",
+      "focus": "目的格代名詞",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0028_Q32",
+      "format": "context-completion",
+      "prompt": "The team enjoys ------- new service ideas after customer interviews.",
+      "choices": {
+        "A": "discuss",
+        "B": "discussed",
+        "C": "discussing",
+        "D": "to discussed"
+      },
+      "correctAnswer": "C",
+      "translationJa": "チームは顧客面談後に新サービス案を話し合うことを楽しんでいます。",
+      "explanationJa": "enjoyの目的語には動名詞discussingを置きます。",
+      "focus": "enjoy＋動名詞",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0028_Q33",
+      "format": "context-completion",
+      "prompt": "The guide invited ------- to join the factory tour after lunch.",
+      "choices": {
+        "A": "we",
+        "B": "us",
+        "C": "our",
+        "D": "ours"
+      },
+      "correctAnswer": "B",
+      "translationJa": "案内人は私たちを昼食後の工場見学に招待しました。",
+      "explanationJa": "invitedの目的語なのでusが正解です。",
+      "focus": "目的格",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0028_Q34",
+      "format": "context-completion",
+      "prompt": "The manual explains ------- clearly for first-time users.",
+      "choices": {
+        "A": "the setup process",
+        "B": "carefully",
+        "C": "at the desk",
+        "D": "was installed"
+      },
+      "correctAnswer": "A",
+      "translationJa": "マニュアルは初めての利用者向けに設定手順を明確に説明します。",
+      "explanationJa": "explainsの作用が直接届く名詞句が目的語です。",
+      "focus": "名詞句目的語",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0028_Q35",
+      "format": "context-completion",
+      "prompt": "The manager knows ------- the new vendor but has never met its director.",
+      "choices": {
+        "A": "for",
+        "B": "to",
+        "C": "at",
+        "D": "about"
+      },
+      "correctAnswer": "D",
+      "translationJa": "部長は新しい業者について知っていますが、その取締役とは会ったことがありません。",
+      "explanationJa": "情報として知るのでknow aboutを使います。",
+      "focus": "know about",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0028_Q36",
+      "format": "context-completion",
+      "prompt": "The interns practiced ------- concise email replies before handling real inquiries.",
+      "choices": {
+        "A": "write",
+        "B": "wrote",
+        "C": "writing",
+        "D": "written"
+      },
+      "correctAnswer": "C",
+      "translationJa": "インターンは実際の問い合わせ対応前に簡潔なメール返信を書く練習をしました。",
+      "explanationJa": "practiceの目的語としてwritingを使います。",
+      "focus": "practice＋動名詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0028_Q37",
+      "format": "context-completion",
+      "prompt": "The technician inspected ------- before restarting the machine.",
+      "choices": {
+        "A": "carefully",
+        "B": "the damaged cable",
+        "C": "in the workshop",
+        "D": "was safe"
+      },
+      "correctAnswer": "B",
+      "translationJa": "技術者は機械を再起動する前に損傷したケーブルを点検しました。",
+      "explanationJa": "inspectが直接作用する対象the damaged cableが目的語です。",
+      "focus": "SVO",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0028_Q38",
+      "format": "context-completion",
+      "prompt": "The committee considered ------- the event until the venue reopened.",
+      "choices": {
+        "A": "postponing",
+        "B": "postpone",
+        "C": "postponed",
+        "D": "to postponed"
+      },
+      "correctAnswer": "A",
+      "translationJa": "委員会は会場再開までイベントを延期することを検討しました。",
+      "explanationJa": "considerの目的語には動名詞を使います。",
+      "focus": "consider＋動名詞",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0028_Q39",
+      "format": "context-completion",
+      "prompt": "The supervisor asked ------- to verify the inventory before shipment.",
+      "choices": {
+        "A": "we",
+        "B": "ours",
+        "C": "our",
+        "D": "us"
+      },
+      "correctAnswer": "D",
+      "translationJa": "上司は私たちに出荷前の在庫確認を頼みました。",
+      "explanationJa": "askedの相手には目的格usを置きます。",
+      "focus": "ask＋目的格",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0028_Q40",
+      "format": "context-completion",
+      "prompt": "The report stores ------- securely on the server after each submission.",
+      "choices": {
+        "A": "securely only",
+        "B": "customer records",
+        "C": "at midnight",
+        "D": "was stored"
+      },
+      "correctAnswer": "B",
+      "translationJa": "システムは各提出後に顧客記録をサーバーへ安全に保存します。",
+      "explanationJa": "storesの直接目的語としてcustomer recordsが必要です。",
+      "focus": "直接目的語",
+      "difficulty": "advanced"
+    }
+  ]
+}

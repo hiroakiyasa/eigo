@@ -1,1 +1,673 @@
-{"schemaVersion":1,"page":{"number":30,"id":"grammar-master-0030","title":"届く？つなぐ？説明する？","image":"pages/PAGE_0030.webp","sourcePrompt":"source-prompts/PAGE_0030.txt"},"analysis":{"summaryJa":"動詞の後ろとの関係を、①他動詞が目的語へ直接作用するSVO、②自動詞と前置詞が名詞との関係を作る型、③beや連結動詞が主語と説明語を結ぶSVCの3系統で見分ける。","grammarPoints":["SVOの直接目的語","自動詞＋前置詞＋名詞","SVCの主語＝補語","be動詞の連結機能","look/smell/become等の連結動詞"],"visualEvidence":["DIRECT IMPACT・PREPOSITION BRIDGE・SUBJECT DESCRIPTIONの3レール","直接矢印・前置詞の橋・イコール記号","beは主語と説明を結ぶという注記"],"commonTraps":["前置詞後の名詞を直接目的語と考える","補語を目的語と誤認する","reachに不要なtoを付ける","look atとlook＋形容詞を混同する"]},"questions":[{"id":"PAGE_0030_Q01","format":"part5-cloze","prompt":"The courier reached ------- shortly before noon.","choices":{"A":"the warehouse","B":"to the warehouse","C":"at the warehouse as an object","D":"was the warehouse"},"correctAnswer":"A","translationJa":"配達員は正午少し前に倉庫へ到着しました。","explanationJa":"reachは到達対象を直接目的語に取るため前置詞は不要です。","focus":"reach＋直接目的語","difficulty":"basic"},{"id":"PAGE_0030_Q02","format":"part5-cloze","prompt":"The receptionist looked ------- the visitor's identification carefully.","choices":{"A":"the visitor directly without a relation","B":"at","C":"was","D":"delighted"},"correctAnswer":"B","translationJa":"受付担当者は来訪者の身分証明書を注意深く見ました。","explanationJa":"lookはここでは自動詞で、見る向きをatが示します。","focus":"look atの前置詞橋","difficulty":"basic"},{"id":"PAGE_0030_Q03","format":"part5-cloze","prompt":"After the renovation, the lobby became -------.","choices":{"A":"the visitors","B":"to modern","C":"brighter","D":"the entrance"},"correctAnswer":"C","translationJa":"改装後、ロビーはより明るくなりました。","explanationJa":"becameの後ろは主語lobbyの状態を説明する形容詞brighterです。","focus":"SVCの補語","difficulty":"basic"},{"id":"PAGE_0030_Q04","format":"part5-cloze","prompt":"Our temporary office is ------- the main station.","choices":{"A":"the station as an object","B":"reaching","C":"looks","D":"near"},"correctAnswer":"D","translationJa":"仮事務所は中央駅の近くにあります。","explanationJa":"be動詞isが主語と場所の説明near the main stationを結びます。","focus":"be＋場所説明","difficulty":"basic"},{"id":"PAGE_0030_Q05","format":"part5-cloze","prompt":"The auditor discussed ------- with the finance manager.","choices":{"A":"the discrepancy","B":"about the discrepancy as a required object","C":"to the discrepancy","D":"became discrepancy"},"correctAnswer":"A","translationJa":"監査担当者は財務部長とその不一致について話し合いました。","explanationJa":"discussは他動詞なので対象を直接置き、aboutは不要です。","focus":"他動詞の直接目的語","difficulty":"intermediate"},{"id":"PAGE_0030_Q06","format":"part5-cloze","prompt":"Several customers complained ------- the unexpected service fee.","choices":{"A":"the fee directly after complain","B":"about","C":"became","D":"delicious"},"correctAnswer":"B","translationJa":"数名の顧客が予想外のサービス料金について苦情を述べました。","explanationJa":"complainはaboutを介して苦情の対象を示します。","focus":"自動詞＋前置詞","difficulty":"intermediate"},{"id":"PAGE_0030_Q07","format":"part5-cloze","prompt":"The newly installed chairs feel ------- even after long meetings.","choices":{"A":"the employees","B":"comfortably as an adverb","C":"comfortable","D":"the meeting"},"correctAnswer":"C","translationJa":"新しく設置された椅子は長時間の会議でも快適に感じられます。","explanationJa":"feelは連結動詞で、主語chairsの状態を形容詞comfortableで説明します。","focus":"feel＋形容詞補語","difficulty":"intermediate"},{"id":"PAGE_0030_Q08","format":"part5-cloze","prompt":"The training room is ------- the cafeteria on the second floor.","choices":{"A":"the cafeteria directly","B":"reaches","C":"look at","D":"beside"},"correctAnswer":"D","translationJa":"研修室は2階の食堂の隣にあります。","explanationJa":"isが主語training roomと場所説明beside the cafeteriaを結びます。","focus":"beの連結機能","difficulty":"intermediate"},{"id":"PAGE_0030_Q09","format":"part5-cloze","prompt":"The negotiation ------- a workable agreement after several hours of discussion.","choices":{"A":"reached","B":"arrived to","C":"looked at to","D":"became to"},"correctAnswer":"A","translationJa":"数時間の協議の末、交渉は実行可能な合意に達しました。","explanationJa":"reachは抽象的な到達点agreementも直接目的語に取れます。","focus":"reachの抽象目的語","difficulty":"advanced"},{"id":"PAGE_0030_Q10","format":"part5-cloze","prompt":"In “The proposal sounds reasonable,” reasonable functions as -------.","choices":{"A":"a direct object receiving sound","B":"a complement describing the proposal","C":"a preposition","D":"an adverb modifying sounds"},"correctAnswer":"B","translationJa":"その文のreasonableはproposalを説明する補語です。","explanationJa":"soundsは連結動詞でproposal＝reasonableという関係を作ります。","focus":"連結動詞の構造分析","difficulty":"advanced"},{"id":"PAGE_0030_Q11","format":"correct-sentence","prompt":"Choose the correct sentence with a direct-object verb.","choices":{"A":"The driver reached to the hotel.","B":"The driver reached at the hotel.","C":"The driver reached the hotel.","D":"The driver reached was the hotel."},"correctAnswer":"C","translationJa":"運転手はホテルに到着しました。","explanationJa":"reachは対象を直接取る他動詞なのでthe hotelをそのまま置きます。","focus":"直接到達型","difficulty":"basic"},{"id":"PAGE_0030_Q12","format":"correct-sentence","prompt":"Choose the correct sentence using a preposition bridge.","choices":{"A":"The manager listened the complaint.","B":"The manager listened was the complaint.","C":"The manager listened the complaint to.","D":"The manager listened to the complaint."},"correctAnswer":"D","translationJa":"部長は苦情に耳を傾けました。","explanationJa":"listenはtoを介して聞く対象とつながります。","focus":"listen to","difficulty":"basic"},{"id":"PAGE_0030_Q13","format":"correct-sentence","prompt":"Choose the correct subject-description sentence.","choices":{"A":"The new policy seems practical.","B":"The new policy seems practically the staff.","C":"The new policy seems the staff.","D":"The new policy seems to the staff as object."},"correctAnswer":"A","translationJa":"新しい方針は実用的に思えます。","explanationJa":"seemsの後ろのpracticalが主語policyを説明します。","focus":"seem＋補語","difficulty":"intermediate"},{"id":"PAGE_0030_Q14","format":"correct-sentence","prompt":"Choose the correct sentence about discussing a proposal.","choices":{"A":"We discussed about the proposal.","B":"We discussed the proposal.","C":"We discussed to the proposal.","D":"We discussed were the proposal."},"correctAnswer":"B","translationJa":"私たちは提案について話し合いました。","explanationJa":"discussは他動詞でproposalを直接目的語に取ります。","focus":"discuss＋目的語","difficulty":"intermediate"},{"id":"PAGE_0030_Q15","format":"correct-sentence","prompt":"Choose the sentence where the noun after a preposition is not a direct object.","choices":{"A":"The clerk checked the invoice.","B":"The clerk filed the invoice.","C":"The clerk spoke about the invoice.","D":"The clerk corrected the invoice."},"correctAnswer":"C","translationJa":"店員は請求書について話しました。","explanationJa":"invoiceはaboutの目的語であり、spokeの直接目的語ではありません。","focus":"前置詞目的語との区別","difficulty":"intermediate"},{"id":"PAGE_0030_Q16","format":"correct-sentence","prompt":"Choose the sentence where the final phrase describes the subject rather than receiving an action.","choices":{"A":"The soup heated the bowl.","B":"The chef tasted the soup.","C":"The server carried the soup.","D":"The soup smells fresh."},"correctAnswer":"D","translationJa":"そのスープは新鮮な香りがします。","explanationJa":"freshはsoupの状態を説明する補語です。","focus":"目的語と補語","difficulty":"intermediate"},{"id":"PAGE_0030_Q17","format":"correct-sentence","prompt":"Choose the correct sentence about arriving at a location.","choices":{"A":"The visitors arrived at the museum before ten.","B":"The visitors arrived the museum before ten.","C":"The visitors arrived was the museum.","D":"The visitors arrived the museum directly as object."},"correctAnswer":"A","translationJa":"来訪者は10時前に博物館へ到着しました。","explanationJa":"arriveは自動詞なので場所とはatを介してつながります。","focus":"arrive atとreachの違い","difficulty":"intermediate"},{"id":"PAGE_0030_Q18","format":"correct-sentence","prompt":"Choose the sentence whose linking verb creates a subject-complement relation.","choices":{"A":"The engineer inspected the device.","B":"The device became unstable.","C":"The engineer looked at the device.","D":"The device reached the laboratory."},"correctAnswer":"B","translationJa":"その装置は不安定になりました。","explanationJa":"becameがdevice＝unstableという説明関係を作ります。","focus":"becomeのSVC","difficulty":"advanced"},{"id":"PAGE_0030_Q19","format":"correct-sentence","prompt":"Choose the sentence where “look” is followed by a complement, not a direction phrase.","choices":{"A":"The samples look at the technician.","B":"The technician looks at the samples.","C":"The samples look ready for shipment.","D":"The technician looks into the samples as a complement."},"correctAnswer":"C","translationJa":"サンプルは出荷準備ができているように見えます。","explanationJa":"look＋形容詞では主語samplesの状態を説明します。","focus":"lookの二用法","difficulty":"advanced"},{"id":"PAGE_0030_Q20","format":"correct-sentence","prompt":"Choose the correct structural analysis of “Our office is across from the bank.”","choices":{"A":"bank is a direct object of is.","B":"is means an action reaching bank.","C":"across from is an adverb with no relation to office.","D":"is links Our office to a location description."},"correctAnswer":"D","translationJa":"isはOur officeと場所の説明を結んでいます。","explanationJa":"beはここで動作ではなく主語と場所説明を連結します。","focus":"be＋場所説明の分析","difficulty":"advanced"},{"id":"PAGE_0030_Q21","format":"meaning-equivalent","prompt":"Choose the sentence closest in structure to: “The assistant reached the client.”","choices":{"A":"The client is the direct endpoint/object of reached.","B":"The assistant arrived at the client using a required at.","C":"The client describes the assistant.","D":"reached needs about before client."},"correctAnswer":"A","translationJa":"clientはreachedの直接の到達対象です。","explanationJa":"reachは対象へ直接届く他動詞です。","focus":"直接作用","difficulty":"basic"},{"id":"PAGE_0030_Q22","format":"meaning-equivalent","prompt":"Choose the sentence closest in structure to: “The assistant spoke to the client.”","choices":{"A":"client directly receives spoke without a relation word.","B":"to forms the relationship between spoke and the client.","C":"client is a complement describing assistant.","D":"spoke equals client."},"correctAnswer":"B","translationJa":"toがspokeとclientの関係を作っています。","explanationJa":"speakはtoを介して相手を示します。","focus":"前置詞橋","difficulty":"basic"},{"id":"PAGE_0030_Q23","format":"meaning-equivalent","prompt":"Choose the sentence closest in structure to: “The room became quiet.”","choices":{"A":"quiet received the action became.","B":"room acted directly on quiet.","C":"quiet describes the resulting state of the room.","D":"became requires a preposition before quiet."},"correctAnswer":"C","translationJa":"quietはroomがなった状態を説明しています。","explanationJa":"room＝quietの補語関係です。","focus":"主語＝補語","difficulty":"basic"},{"id":"PAGE_0030_Q24","format":"meaning-equivalent","prompt":"Choose the sentence closest in structure to: “The branch is near the airport.”","choices":{"A":"airport receives the action of is.","B":"branch reaches airport directly.","C":"near is the direct object.","D":"is connects the branch with a location description."},"correctAnswer":"D","translationJa":"isがbranchと場所の説明を結んでいます。","explanationJa":"be動詞の連結機能を示す構造です。","focus":"beの説明型","difficulty":"intermediate"},{"id":"PAGE_0030_Q25","format":"meaning-equivalent","prompt":"Choose the sentence closest in structure to: “We discussed the schedule.”","choices":{"A":"schedule directly receives the discussing action.","B":"about is required between discussed and schedule.","C":"schedule describes we.","D":"discussed is an intransitive verb here."},"correctAnswer":"A","translationJa":"scheduleはdiscussedの直接目的語です。","explanationJa":"discussは対象を直接取る他動詞です。","focus":"他動詞型","difficulty":"intermediate"},{"id":"PAGE_0030_Q26","format":"meaning-equivalent","prompt":"Choose the sentence closest in structure to: “We talked about the schedule.”","choices":{"A":"schedule is the direct object of talked.","B":"about connects the talking action with its topic.","C":"schedule is a subject complement.","D":"talked equals schedule."},"correctAnswer":"B","translationJa":"aboutがtalkedと話題scheduleをつないでいます。","explanationJa":"talkはここで前置詞を介して話題を示します。","focus":"直接目的語との対比","difficulty":"intermediate"},{"id":"PAGE_0030_Q27","format":"meaning-equivalent","prompt":"Choose the sentence closest in structure to: “The fabric feels soft.”","choices":{"A":"soft is an object touched by fabric.","B":"fabric feels at soft.","C":"soft describes the fabric's perceived state.","D":"soft is an adverb of manner."},"correctAnswer":"C","translationJa":"softはfabricの感じられる状態を説明します。","explanationJa":"feelは連結動詞で形容詞補語を取ります。","focus":"feelのSVC","difficulty":"intermediate"},{"id":"PAGE_0030_Q28","format":"meaning-equivalent","prompt":"Choose the sentence closest in structure to: “The analyst looked at the chart.”","choices":{"A":"chart describes analyst.","B":"looked directly takes chart with no preposition.","C":"analyst equals chart.","D":"at shows the direction of the analyst's looking toward the chart."},"correctAnswer":"D","translationJa":"atが分析担当者の視線の
+{
+  "schemaVersion": 1,
+  "page": {
+    "number": 30,
+    "id": "grammar-master-0030",
+    "title": "届く？つなぐ？説明する？",
+    "image": "pages/PAGE_0030.webp",
+    "sourcePrompt": "source-prompts/PAGE_0030.txt"
+  },
+  "analysis": {
+    "summaryJa": "動詞の後ろとの関係を、①他動詞が目的語へ直接作用するSVO、②自動詞と前置詞が名詞との関係を作る型、③beや連結動詞が主語と説明語を結ぶSVCの3系統で見分ける。",
+    "grammarPoints": [
+      "SVOの直接目的語",
+      "自動詞＋前置詞＋名詞",
+      "SVCの主語＝補語",
+      "be動詞の連結機能",
+      "look/smell/become等の連結動詞"
+    ],
+    "visualEvidence": [
+      "DIRECT IMPACT・PREPOSITION BRIDGE・SUBJECT DESCRIPTIONの3レール",
+      "直接矢印・前置詞の橋・イコール記号",
+      "beは主語と説明を結ぶという注記"
+    ],
+    "commonTraps": [
+      "前置詞後の名詞を直接目的語と考える",
+      "補語を目的語と誤認する",
+      "reachに不要なtoを付ける",
+      "look atとlook＋形容詞を混同する"
+    ]
+  },
+  "questions": [
+    {
+      "id": "PAGE_0030_Q01",
+      "format": "part5-cloze",
+      "prompt": "The courier reached ------- shortly before noon.",
+      "choices": {
+        "A": "the warehouse",
+        "B": "to the warehouse",
+        "C": "at the warehouse as an object",
+        "D": "was the warehouse"
+      },
+      "correctAnswer": "A",
+      "translationJa": "配達員は正午少し前に倉庫へ到着しました。",
+      "explanationJa": "reachは到達対象を直接目的語に取るため前置詞は不要です。",
+      "focus": "reach＋直接目的語",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0030_Q02",
+      "format": "part5-cloze",
+      "prompt": "The receptionist looked ------- the visitor's identification carefully.",
+      "choices": {
+        "A": "the visitor directly without a relation",
+        "B": "at",
+        "C": "was",
+        "D": "delighted"
+      },
+      "correctAnswer": "B",
+      "translationJa": "受付担当者は来訪者の身分証明書を注意深く見ました。",
+      "explanationJa": "lookはここでは自動詞で、見る向きをatが示します。",
+      "focus": "look atの前置詞橋",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0030_Q03",
+      "format": "part5-cloze",
+      "prompt": "After the renovation, the lobby became -------.",
+      "choices": {
+        "A": "the visitors",
+        "B": "to modern",
+        "C": "brighter",
+        "D": "the entrance"
+      },
+      "correctAnswer": "C",
+      "translationJa": "改装後、ロビーはより明るくなりました。",
+      "explanationJa": "becameの後ろは主語lobbyの状態を説明する形容詞brighterです。",
+      "focus": "SVCの補語",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0030_Q04",
+      "format": "part5-cloze",
+      "prompt": "Our temporary office is ------- the main station.",
+      "choices": {
+        "A": "the station as an object",
+        "B": "reaching",
+        "C": "looks",
+        "D": "near"
+      },
+      "correctAnswer": "D",
+      "translationJa": "仮事務所は中央駅の近くにあります。",
+      "explanationJa": "be動詞isが主語と場所の説明near the main stationを結びます。",
+      "focus": "be＋場所説明",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0030_Q05",
+      "format": "part5-cloze",
+      "prompt": "The auditor discussed ------- with the finance manager.",
+      "choices": {
+        "A": "the discrepancy",
+        "B": "about the discrepancy as a required object",
+        "C": "to the discrepancy",
+        "D": "became discrepancy"
+      },
+      "correctAnswer": "A",
+      "translationJa": "監査担当者は財務部長とその不一致について話し合いました。",
+      "explanationJa": "discussは他動詞なので対象を直接置き、aboutは不要です。",
+      "focus": "他動詞の直接目的語",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0030_Q06",
+      "format": "part5-cloze",
+      "prompt": "Several customers complained ------- the unexpected service fee.",
+      "choices": {
+        "A": "the fee directly after complain",
+        "B": "about",
+        "C": "became",
+        "D": "delicious"
+      },
+      "correctAnswer": "B",
+      "translationJa": "数名の顧客が予想外のサービス料金について苦情を述べました。",
+      "explanationJa": "complainはaboutを介して苦情の対象を示します。",
+      "focus": "自動詞＋前置詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0030_Q07",
+      "format": "part5-cloze",
+      "prompt": "The newly installed chairs feel ------- even after long meetings.",
+      "choices": {
+        "A": "the employees",
+        "B": "comfortably as an adverb",
+        "C": "comfortable",
+        "D": "the meeting"
+      },
+      "correctAnswer": "C",
+      "translationJa": "新しく設置された椅子は長時間の会議でも快適に感じられます。",
+      "explanationJa": "feelは連結動詞で、主語chairsの状態を形容詞comfortableで説明します。",
+      "focus": "feel＋形容詞補語",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0030_Q08",
+      "format": "part5-cloze",
+      "prompt": "The training room is ------- the cafeteria on the second floor.",
+      "choices": {
+        "A": "the cafeteria directly",
+        "B": "reaches",
+        "C": "look at",
+        "D": "beside"
+      },
+      "correctAnswer": "D",
+      "translationJa": "研修室は2階の食堂の隣にあります。",
+      "explanationJa": "isが主語training roomと場所説明beside the cafeteriaを結びます。",
+      "focus": "beの連結機能",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0030_Q09",
+      "format": "part5-cloze",
+      "prompt": "The negotiation ------- a workable agreement after several hours of discussion.",
+      "choices": {
+        "A": "reached",
+        "B": "arrived to",
+        "C": "looked at to",
+        "D": "became to"
+      },
+      "correctAnswer": "A",
+      "translationJa": "数時間の協議の末、交渉は実行可能な合意に達しました。",
+      "explanationJa": "reachは抽象的な到達点agreementも直接目的語に取れます。",
+      "focus": "reachの抽象目的語",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0030_Q10",
+      "format": "part5-cloze",
+      "prompt": "In “The proposal sounds reasonable,” reasonable functions as -------.",
+      "choices": {
+        "A": "a direct object receiving sound",
+        "B": "a complement describing the proposal",
+        "C": "a preposition",
+        "D": "an adverb modifying sounds"
+      },
+      "correctAnswer": "B",
+      "translationJa": "その文のreasonableはproposalを説明する補語です。",
+      "explanationJa": "soundsは連結動詞でproposal＝reasonableという関係を作ります。",
+      "focus": "連結動詞の構造分析",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0030_Q11",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence with a direct-object verb.",
+      "choices": {
+        "A": "The driver reached to the hotel.",
+        "B": "The driver reached at the hotel.",
+        "C": "The driver reached the hotel.",
+        "D": "The driver reached was the hotel."
+      },
+      "correctAnswer": "C",
+      "translationJa": "運転手はホテルに到着しました。",
+      "explanationJa": "reachは対象を直接取る他動詞なのでthe hotelをそのまま置きます。",
+      "focus": "直接到達型",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0030_Q12",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence using a preposition bridge.",
+      "choices": {
+        "A": "The manager listened the complaint.",
+        "B": "The manager listened was the complaint.",
+        "C": "The manager listened the complaint to.",
+        "D": "The manager listened to the complaint."
+      },
+      "correctAnswer": "D",
+      "translationJa": "部長は苦情に耳を傾けました。",
+      "explanationJa": "listenはtoを介して聞く対象とつながります。",
+      "focus": "listen to",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0030_Q13",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct subject-description sentence.",
+      "choices": {
+        "A": "The new policy seems practical.",
+        "B": "The new policy seems practically the staff.",
+        "C": "The new policy seems the staff.",
+        "D": "The new policy seems to the staff as object."
+      },
+      "correctAnswer": "A",
+      "translationJa": "新しい方針は実用的に思えます。",
+      "explanationJa": "seemsの後ろのpracticalが主語policyを説明します。",
+      "focus": "seem＋補語",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0030_Q14",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about discussing a proposal.",
+      "choices": {
+        "A": "We discussed about the proposal.",
+        "B": "We discussed the proposal.",
+        "C": "We discussed to the proposal.",
+        "D": "We discussed were the proposal."
+      },
+      "correctAnswer": "B",
+      "translationJa": "私たちは提案について話し合いました。",
+      "explanationJa": "discussは他動詞でproposalを直接目的語に取ります。",
+      "focus": "discuss＋目的語",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0030_Q15",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence where the noun after a preposition is not a direct object.",
+      "choices": {
+        "A": "The clerk checked the invoice.",
+        "B": "The clerk filed the invoice.",
+        "C": "The clerk spoke about the invoice.",
+        "D": "The clerk corrected the invoice."
+      },
+      "correctAnswer": "C",
+      "translationJa": "店員は請求書について話しました。",
+      "explanationJa": "invoiceはaboutの目的語であり、spokeの直接目的語ではありません。",
+      "focus": "前置詞目的語との区別",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0030_Q16",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence where the final phrase describes the subject rather than receiving an action.",
+      "choices": {
+        "A": "The soup heated the bowl.",
+        "B": "The chef tasted the soup.",
+        "C": "The server carried the soup.",
+        "D": "The soup smells fresh."
+      },
+      "correctAnswer": "D",
+      "translationJa": "そのスープは新鮮な香りがします。",
+      "explanationJa": "freshはsoupの状態を説明する補語です。",
+      "focus": "目的語と補語",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0030_Q17",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about arriving at a location.",
+      "choices": {
+        "A": "The visitors arrived at the museum before ten.",
+        "B": "The visitors arrived the museum before ten.",
+        "C": "The visitors arrived was the museum.",
+        "D": "The visitors arrived the museum directly as object."
+      },
+      "correctAnswer": "A",
+      "translationJa": "来訪者は10時前に博物館へ到着しました。",
+      "explanationJa": "arriveは自動詞なので場所とはatを介してつながります。",
+      "focus": "arrive atとreachの違い",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0030_Q18",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence whose linking verb creates a subject-complement relation.",
+      "choices": {
+        "A": "The engineer inspected the device.",
+        "B": "The device became unstable.",
+        "C": "The engineer looked at the device.",
+        "D": "The device reached the laboratory."
+      },
+      "correctAnswer": "B",
+      "translationJa": "その装置は不安定になりました。",
+      "explanationJa": "becameがdevice＝unstableという説明関係を作ります。",
+      "focus": "becomeのSVC",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0030_Q19",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence where “look” is followed by a complement, not a direction phrase.",
+      "choices": {
+        "A": "The samples look at the technician.",
+        "B": "The technician looks at the samples.",
+        "C": "The samples look ready for shipment.",
+        "D": "The technician looks into the samples as a complement."
+      },
+      "correctAnswer": "C",
+      "translationJa": "サンプルは出荷準備ができているように見えます。",
+      "explanationJa": "look＋形容詞では主語samplesの状態を説明します。",
+      "focus": "lookの二用法",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0030_Q20",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct structural analysis of “Our office is across from the bank.”",
+      "choices": {
+        "A": "bank is a direct object of is.",
+        "B": "is means an action reaching bank.",
+        "C": "across from is an adverb with no relation to office.",
+        "D": "is links Our office to a location description."
+      },
+      "correctAnswer": "D",
+      "translationJa": "isはOur officeと場所の説明を結んでいます。",
+      "explanationJa": "beはここで動作ではなく主語と場所説明を連結します。",
+      "focus": "be＋場所説明の分析",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0030_Q21",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in structure to: “The assistant reached the client.”",
+      "choices": {
+        "A": "The client is the direct endpoint/object of reached.",
+        "B": "The assistant arrived at the client using a required at.",
+        "C": "The client describes the assistant.",
+        "D": "reached needs about before client."
+      },
+      "correctAnswer": "A",
+      "translationJa": "clientはreachedの直接の到達対象です。",
+      "explanationJa": "reachは対象へ直接届く他動詞です。",
+      "focus": "直接作用",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0030_Q22",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in structure to: “The assistant spoke to the client.”",
+      "choices": {
+        "A": "client directly receives spoke without a relation word.",
+        "B": "to forms the relationship between spoke and the client.",
+        "C": "client is a complement describing assistant.",
+        "D": "spoke equals client."
+      },
+      "correctAnswer": "B",
+      "translationJa": "toがspokeとclientの関係を作っています。",
+      "explanationJa": "speakはtoを介して相手を示します。",
+      "focus": "前置詞橋",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0030_Q23",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in structure to: “The room became quiet.”",
+      "choices": {
+        "A": "quiet received the action became.",
+        "B": "room acted directly on quiet.",
+        "C": "quiet describes the resulting state of the room.",
+        "D": "became requires a preposition before quiet."
+      },
+      "correctAnswer": "C",
+      "translationJa": "quietはroomがなった状態を説明しています。",
+      "explanationJa": "room＝quietの補語関係です。",
+      "focus": "主語＝補語",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0030_Q24",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in structure to: “The branch is near the airport.”",
+      "choices": {
+        "A": "airport receives the action of is.",
+        "B": "branch reaches airport directly.",
+        "C": "near is the direct object.",
+        "D": "is connects the branch with a location description."
+      },
+      "correctAnswer": "D",
+      "translationJa": "isがbranchと場所の説明を結んでいます。",
+      "explanationJa": "be動詞の連結機能を示す構造です。",
+      "focus": "beの説明型",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0030_Q25",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in structure to: “We discussed the schedule.”",
+      "choices": {
+        "A": "schedule directly receives the discussing action.",
+        "B": "about is required between discussed and schedule.",
+        "C": "schedule describes we.",
+        "D": "discussed is an intransitive verb here."
+      },
+      "correctAnswer": "A",
+      "translationJa": "scheduleはdiscussedの直接目的語です。",
+      "explanationJa": "discussは対象を直接取る他動詞です。",
+      "focus": "他動詞型",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0030_Q26",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in structure to: “We talked about the schedule.”",
+      "choices": {
+        "A": "schedule is the direct object of talked.",
+        "B": "about connects the talking action with its topic.",
+        "C": "schedule is a subject complement.",
+        "D": "talked equals schedule."
+      },
+      "correctAnswer": "B",
+      "translationJa": "aboutがtalkedと話題scheduleをつないでいます。",
+      "explanationJa": "talkはここで前置詞を介して話題を示します。",
+      "focus": "直接目的語との対比",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0030_Q27",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in structure to: “The fabric feels soft.”",
+      "choices": {
+        "A": "soft is an object touched by fabric.",
+        "B": "fabric feels at soft.",
+        "C": "soft describes the fabric's perceived state.",
+        "D": "soft is an adverb of manner."
+      },
+      "correctAnswer": "C",
+      "translationJa": "softはfabricの感じられる状態を説明します。",
+      "explanationJa": "feelは連結動詞で形容詞補語を取ります。",
+      "focus": "feelのSVC",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0030_Q28",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in structure to: “The analyst looked at the chart.”",
+      "choices": {
+        "A": "chart describes analyst.",
+        "B": "looked directly takes chart with no preposition.",
+        "C": "analyst equals chart.",
+        "D": "at shows the direction of looking toward the chart."
+      },
+      "correctAnswer": "D",
+      "translationJa": "atが分析担当者の視線の向きをchartへ示します。",
+      "explanationJa": "lookはここで前置詞atを介して対象とつながります。",
+      "focus": "look at構造",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0030_Q29",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the best analysis of: “The proposal sounds reasonable.”",
+      "choices": {
+        "A": "reasonable describes the proposal's impression.",
+        "B": "proposal acts on reasonable.",
+        "C": "reasonable is the direct object.",
+        "D": "sounds requires at."
+      },
+      "correctAnswer": "A",
+      "translationJa": "reasonableがproposalの印象を説明しています。",
+      "explanationJa": "soundは連結動詞でproposal＝reasonableの関係を作ります。",
+      "focus": "sound＋補語",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0030_Q30",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in structure to: “The visitors arrived at the museum.”",
+      "choices": {
+        "A": "museum is a direct object of arrived.",
+        "B": "visitors equal museum.",
+        "C": "at connects the arrival event to the place museum.",
+        "D": "arrived means describe."
+      },
+      "correctAnswer": "C",
+      "translationJa": "atが到着動作と場所museumを結びます。",
+      "explanationJa": "arriveは自動詞で場所を前置詞で示します。",
+      "focus": "arrive at",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0030_Q31",
+      "format": "context-completion",
+      "prompt": "The courier reached ------- before noon despite heavy traffic.",
+      "choices": {
+        "A": "in the warehouse",
+        "B": "to the warehouse",
+        "C": "at the warehouse",
+        "D": "the warehouse"
+      },
+      "correctAnswer": "D",
+      "translationJa": "配達員は渋滞にもかかわらず正午前に倉庫へ着きました。",
+      "explanationJa": "reachは到達先を直接目的語に取ります。",
+      "focus": "reach＋目的語",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0030_Q32",
+      "format": "context-completion",
+      "prompt": "The visitors looked ------- the safety notice before entering.",
+      "choices": {
+        "A": "the notice directly",
+        "B": "became",
+        "C": "at",
+        "D": "safe"
+      },
+      "correctAnswer": "C",
+      "translationJa": "来訪者は入場前に安全掲示へ目を向けました。",
+      "explanationJa": "lookはatを介して見る対象とつながります。",
+      "focus": "look at",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0030_Q33",
+      "format": "context-completion",
+      "prompt": "After the update, the software became ------- to use.",
+      "choices": {
+        "A": "easily",
+        "B": "easier",
+        "C": "the user",
+        "D": "a tool"
+      },
+      "correctAnswer": "B",
+      "translationJa": "更新後、そのソフトウェアは使いやすくなりました。",
+      "explanationJa": "becameがsoftwareと状態easierを結びます。",
+      "focus": "become＋補語",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0030_Q34",
+      "format": "context-completion",
+      "prompt": "Our branch is ------- the central station, so clients can walk there easily.",
+      "choices": {
+        "A": "near",
+        "B": "the station directly",
+        "C": "reaches",
+        "D": "looks at"
+      },
+      "correctAnswer": "A",
+      "translationJa": "当支店は中央駅の近くにあります。",
+      "explanationJa": "be動詞がbranchと場所説明near the stationを結びます。",
+      "focus": "be＋場所",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0030_Q35",
+      "format": "context-completion",
+      "prompt": "The customer complained ------- the extra service charge.",
+      "choices": {
+        "A": "reasonable",
+        "B": "the charge directly after complain",
+        "C": "became",
+        "D": "about"
+      },
+      "correctAnswer": "D",
+      "translationJa": "顧客は追加サービス料について苦情を述べました。",
+      "explanationJa": "complainはaboutを介して話題とつながります。",
+      "focus": "自動詞＋前置詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0030_Q36",
+      "format": "context-completion",
+      "prompt": "The revised plan sounds ------- to the operations team.",
+      "choices": {
+        "A": "the team",
+        "B": "practically",
+        "C": "practical",
+        "D": "a plan object"
+      },
+      "correctAnswer": "C",
+      "translationJa": "改訂案は運用チームには実用的に聞こえます。",
+      "explanationJa": "soundは主語の印象を形容詞practicalで説明します。",
+      "focus": "sound＋形容詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0030_Q37",
+      "format": "context-completion",
+      "prompt": "The analyst discussed ------- with the finance director.",
+      "choices": {
+        "A": "about the cost increase as required",
+        "B": "the cost increase",
+        "C": "to the increase",
+        "D": "became increase"
+      },
+      "correctAnswer": "B",
+      "translationJa": "分析担当者は財務部長と費用増加について話し合いました。",
+      "explanationJa": "discussは話題を直接目的語に取ります。",
+      "focus": "直接目的語",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0030_Q38",
+      "format": "context-completion",
+      "prompt": "The sample feels -------, so the team will test a different material.",
+      "choices": {
+        "A": "rough",
+        "B": "roughly as complement",
+        "C": "the material",
+        "D": "roughness object"
+      },
+      "correctAnswer": "A",
+      "translationJa": "サンプルはざらざらして感じられるため、別素材を試します。",
+      "explanationJa": "feelは連結動詞でroughがsampleを説明します。",
+      "focus": "feel＋補語",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0030_Q39",
+      "format": "context-completion",
+      "prompt": "The guests arrived ------- the venue shortly before the keynote speech.",
+      "choices": {
+        "A": "reached at",
+        "B": "the venue directly",
+        "C": "to",
+        "D": "at"
+      },
+      "correctAnswer": "D",
+      "translationJa": "来客は基調講演直前に会場へ到着しました。",
+      "explanationJa": "arriveは具体的地点とatでつながります。",
+      "focus": "arrive at",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0030_Q40",
+      "format": "context-completion",
+      "prompt": "The final result turned out ------- than the original estimate.",
+      "choices": {
+        "A": "well as complement",
+        "B": "better",
+        "C": "the estimate",
+        "D": "to better"
+      },
+      "correctAnswer": "B",
+      "translationJa": "最終結果は当初見積もりより良いと判明しました。",
+      "explanationJa": "turned outがresultと補語betterを結びます。",
+      "focus": "turn out＋補語",
+      "difficulty": "advanced"
+    }
+  ]
+}

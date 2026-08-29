@@ -1,1 +1,673 @@
-{"schemaVersion":1,"page":{"number":31,"id":"grammar-master-0031","title":"be動詞は、説明をつなぐ橋","image":"pages/PAGE_0031.webp","sourcePrompt":"source-prompts/PAGE_0031.txt"},"analysis":{"summaryJa":"be動詞am/is/areは強い動作を表すより、主語とその正体・状態・場所の説明を結ぶ橋として働く。主語に応じた現在形と、会話で頻出する短縮形も扱う。","grammarPoints":["I-am、単数-is、you/we/they-are","be＋名詞で正体を説明","be＋形容詞で状態を説明","be＋場所表現で位置を説明","I'm/she's/we're等の短縮形"],"visualEvidence":["主語島と説明島をam/is/areの橋が結ぶ図","正体・状態・場所の3アイコン","短縮形パネル"],"commonTraps":["beの後ろを目的語と考える","単数・複数とis/areを一致させない","Iにisを使う","短縮形の主語とbeの組合せを誤る"]},"questions":[{"id":"PAGE_0031_Q01","format":"part5-cloze","prompt":"The conference room ------- on the third floor.","choices":{"A":"is","B":"are","C":"am","D":"be"},"correctAnswer":"A","translationJa":"会議室は3階にあります。","explanationJa":"単数主語The conference roomにはisを使い、場所の説明へつなぎます。","focus":"単数主語＋is","difficulty":"basic"},{"id":"PAGE_0031_Q02","format":"part5-cloze","prompt":"The updated brochures ------- ready for distribution.","choices":{"A":"is","B":"are","C":"am","D":"be"},"correctAnswer":"B","translationJa":"更新されたパンフレットは配布準備ができています。","explanationJa":"複数主語brochuresにはareを使います。","focus":"複数主語＋are","difficulty":"basic"},{"id":"PAGE_0031_Q03","format":"part5-cloze","prompt":"I ------- responsible for confirming the reservation list.","choices":{"A":"is","B":"are","C":"am","D":"be"},"correctAnswer":"C","translationJa":"私は予約者一覧を確認する担当です。","explanationJa":"主語Iに対応する現在形be動詞はamです。","focus":"I＋am","difficulty":"basic"},{"id":"PAGE_0031_Q04","format":"part5-cloze","prompt":"Ms. Green ------- the new regional sales manager.","choices":{"A":"are","B":"am","C":"be","D":"is"},"correctAnswer":"D","translationJa":"グリーンさんは新しい地域営業部長です。","explanationJa":"単数主語Ms. Greenと正体を表す名詞句をisで結びます。","focus":"be＋名詞補語","difficulty":"basic"},{"id":"PAGE_0031_Q05","format":"part5-cloze","prompt":"The replacement parts ------- in the storage cabinet beside the workshop.","choices":{"A":"are","B":"is","C":"am","D":"being as main form"},"correctAnswer":"A","translationJa":"交換部品は作業場横の保管棚にあります。","explanationJa":"partsは複数なのでareで場所説明につなぎます。","focus":"are＋場所説明","difficulty":"intermediate"},{"id":"PAGE_0031_Q06","format":"part5-cloze","prompt":"The proposed schedule ------- flexible enough for both teams.","choices":{"A":"are","B":"is","C":"am","D":"be"},"correctAnswer":"B","translationJa":"提案された日程は両チームにとって十分柔軟です。","explanationJa":"scheduleは単数で、isが形容詞flexibleへつなぎます。","focus":"is＋形容詞補語","difficulty":"intermediate"},{"id":"PAGE_0031_Q07","format":"part5-cloze","prompt":"We ------- available for a follow-up call after 3 P.M.","choices":{"A":"is","B":"am","C":"are","D":"be"},"correctAnswer":"C","translationJa":"私たちは午後3時以降、追加の電話対応が可能です。","explanationJa":"主語weにはareを使います。","focus":"we＋are","difficulty":"intermediate"},{"id":"PAGE_0031_Q08","format":"part5-cloze","prompt":"In a casual message, “She is already at the airport” can naturally become “------- already at the airport.”","choices":{"A":"She're","B":"She'm","C":"Her's","D":"She's"},"correctAnswer":"D","translationJa":"カジュアルなメッセージではShe isをShe'sと短縮できます。","explanationJa":"she isの標準的な短縮形はshe'sです。","focus":"she isの短縮","difficulty":"intermediate"},{"id":"PAGE_0031_Q09","format":"part5-cloze","prompt":"The primary concern ------- the unusually high shipping cost, not the delivery date.","choices":{"A":"is","B":"are","C":"am","D":"being"},"correctAnswer":"A","translationJa":"主な懸念は納期ではなく、異常に高い送料です。","explanationJa":"concernは単数で、isが主語と正体を示す名詞句を結びます。","focus":"抽象名詞＋名詞補語","difficulty":"advanced"},{"id":"PAGE_0031_Q10","format":"part5-cloze","prompt":"Although several plural nouns appear later, the subject of “The location of the new offices ------- convenient” is location, so the correct form is -------.","choices":{"A":"are","B":"is","C":"am","D":"be"},"correctAnswer":"B","translationJa":"複数名詞が後ろにあっても主語の中心はlocationなのでisが正解です。","explanationJa":"of句内のofficesではなく単数の中心名詞locationにbe動詞を一致させます。","focus":"長い主語とbe一致","difficulty":"advanced"},{"id":"PAGE_0031_Q11","format":"correct-sentence","prompt":"Choose the correct sentence describing a person's identity.","choices":{"A":"Mr. Cole are our safety officer.","B":"Mr. Cole am our safety officer.","C":"Mr. Cole is our safety officer.","D":"Mr. Cole be our safety officer."},"correctAnswer":"C","translationJa":"コールさんは当社の安全担当者です。","explanationJa":"単数主語と正体の説明をisで結びます。","focus":"正体説明","difficulty":"basic"},{"id":"PAGE_0031_Q12","format":"correct-sentence","prompt":"Choose the correct sentence describing the condition of several rooms.","choices":{"A":"The meeting rooms is quiet.","B":"The meeting rooms am quiet.","C":"The meeting rooms be quiet.","D":"The meeting rooms are quiet."},"correctAnswer":"D","translationJa":"会議室は静かです。","explanationJa":"複数主語roomsにはareを使い、quietが状態を説明します。","focus":"複数＋状態説明","difficulty":"basic"},{"id":"PAGE_0031_Q13","format":"correct-sentence","prompt":"Choose the correct sentence describing a location.","choices":{"A":"The spare keys are in the top drawer.","B":"The spare keys is in the top drawer.","C":"The spare keys am in the top drawer.","D":"The spare keys in the top drawer are as object."},"correctAnswer":"A","translationJa":"予備鍵は一番上の引き出しにあります。","explanationJa":"areがkeysと場所表現in the top drawerを結びます。","focus":"be＋場所","difficulty":"intermediate"},{"id":"PAGE_0031_Q14","format":"correct-sentence","prompt":"Choose the natural contraction of “We are ready to begin.”","choices":{"A":"We's ready to begin.","B":"We're ready to begin.","C":"We'm ready to begin.","D":"Were ready to begin."},"correctAnswer":"B","translationJa":"私たちは開始する準備ができています。","explanationJa":"we areの短縮形はwe'reです。","focus":"we are短縮","difficulty":"intermediate"},{"id":"PAGE_0031_Q15","format":"correct-sentence","prompt":"Choose the sentence where be links the subject to a noun description.","choices":{"A":"The printer is noisy.","B":"The printer is near reception.","C":"The printer is our backup unit.","D":"The printer operates daily."},"correctAnswer":"C","translationJa":"そのプリンターは当社の予備機です。","explanationJa":"our backup unitは主語printerの正体を表す名詞補語です。","focus":"名詞補語","difficulty":"intermediate"},{"id":"PAGE_0031_Q16","format":"correct-sentence","prompt":"Choose the sentence where be links the subject to an adjective description.","choices":{"A":"The documents are in the cabinet.","B":"The documents are the final copies.","C":"The documents arrived yesterday.","D":"The documents are confidential."},"correctAnswer":"D","translationJa":"その書類は機密扱いです。","explanationJa":"confidentialはdocumentsの状態・性質を説明する形容詞です。","focus":"形容詞補語","difficulty":"intermediate"},{"id":"PAGE_0031_Q17","format":"correct-sentence","prompt":"Choose the sentence with correct agreement despite a phrase between subject and be.","choices":{"A":"The list of approved vendors is on the portal.","B":"The list of approved vendors are on the portal.","C":"The list of approved vendors am on the portal.","D":"The list of approved vendors be on the portal."},"correctAnswer":"A","translationJa":"承認済み業者の一覧はポータルにあります。","explanationJa":"主語の中心listは単数なのでisを選びます。","focus":"中心名詞との一致","difficulty":"intermediate"},{"id":"PAGE_0031_Q18","format":"correct-sentence","prompt":"Choose the correct contraction in a business chat message.","choices":{"A":"I'm available after lunch.","B":"I's available after lunch.","C":"I're available after lunch.","D":"Im are available after lunch."},"correctAnswer":"A","translationJa":"私は昼食後なら対応できます。","explanationJa":"I amの短縮形はI'mです。","focus":"I am短縮","difficulty":"advanced"},{"id":"PAGE_0031_Q19","format":"correct-sentence","prompt":"Choose the best analysis of “The issue is the delivery address.”","choices":{"A":"is sends an action to delivery address.","B":"is links issue with a noun phrase identifying what the issue is.","C":"delivery address is an adverb.","D":"issue is the object of is."},"correctAnswer":"B","translationJa":"isはissueと、その正体を示すthe delivery addressを結びます。","explanationJa":"beの後ろの名詞句は目的語ではなく主語を同定する補語です。","focus":"beの連結機能分析","difficulty":"advanced"},{"id":"PAGE_0031_Q20","format":"correct-sentence","prompt":"Choose the correct sentence with a coordinated plural subject.","choices":{"A":"The invoice and receipt is in the envelope.","B":"The invoice and receipt am in the envelope.","C":"The invoice and receipt be in the envelope.","D":"The invoice and receipt are in the envelope."},"correctAnswer":"D","translationJa":"請求書と領収書は封筒の中にあります。","explanationJa":"andで結ばれた2つのものは複数扱いなのでareです。","focus":"複合主語＋are","difficulty":"advanced"},{"id":"PAGE_0031_Q21","format":"meaning-equivalent","prompt":"Choose the sentence closest in meaning to: “Ms. Diaz is our project leader.”","choices":{"A":"Our project leader is the identity/role assigned to Ms. Diaz.","B":"Ms. Diaz acts on our project leader as an object.","C":"Ms. Diaz is located inside a leader.","D":"is describes an action performed by Ms. Diaz."},"correctAnswer":"A","translationJa":"ディアスさんの役割・正体が当社のプロジェクトリーダーです。","explanationJa":"beが主語と名詞による正体説明を結びます。","focus":"正体の補語","difficulty":"basic"},{"id":"PAGE_0031_Q22","format":"meaning-equivalent","prompt":"Choose the sentence closest in meaning to: “The chairs are comfortable.”","choices":{"A":"The chairs act directly on comfort.","B":"Comfortable describes the condition of the chairs.","C":"The chairs are located inside comfortable.","D":"comfortable is an object."},"correctAnswer":"B","translationJa":"comfortableが椅子の状態を説明しています。","explanationJa":"形容詞補語が主語の状態を示します。","focus":"状態説明","difficulty":"basic"},{"id":"PAGE_0031_Q23","format":"meaning-equivalent","prompt":"Choose the sentence closest in meaning to: “The samples are in the laboratory.”","choices":{"A":"samples act on laboratory.","B":"laboratory identifies what samples are.","C":"in the laboratory gives the location of the samples.","D":"are means travel."},"correctAnswer":"C","translationJa":"in the laboratoryがサンプルの場所を示しています。","explanationJa":"beが主語と場所説明を結びます。","focus":"場所説明","difficulty":"basic"},{"id":"PAGE_0031_Q24","format":"meaning-equivalent","prompt":"Choose the sentence that preserves the meaning of “She is prepared for the interview.” in a natural contraction.","choices":{"A":"She're prepared for the interview.","B":"She'm prepared for the interview.","C":"Her's prepared for the interview.","D":"She's prepared for the interview."},"correctAnswer":"D","translationJa":"彼女は面接の準備ができています。","explanationJa":"she isをshe'sに短縮しても意味は変わりません。","focus":"短縮形の意味保持","difficulty":"intermediate"},{"id":"PAGE_0031_Q25","format":"meaning-equivalent","prompt":"Choose the sentence closest in structure to: “The cause is a software error.”","choices":{"A":"a software error identifies the cause.","B":"cause performs an action on error.","C":"software error is a place.","D":"is is an action verb meaning cause."},"correctAnswer":"A","translationJa":"a software errorが原因の正体を示します。","explanationJa":"名詞補語が主語causeを同定しています。","focus":"名詞による同定","difficulty":"intermediate"},{"id":"PAGE_0031_Q26","format":"meaning-equivalent","prompt":"Choose the sentence closest in structure to: “The hallway is narrow.”","choices":{"A":"narrow receives an action.","B":"narrow describes the hallway.","C":"hallway travels to narrow.","D":"narrow is a location phrase."},"correctAnswer":"B","translationJa":"narrowがhallwayの性質を説明します。","explanationJa":"be＋形容詞で主語の状態・性質を示します。","focus":"形容詞説明","difficulty":"intermediate"},{"id":"PAGE_0031_Q27","format":"meaning-equivalent","prompt":"Choose the sentence closest in structure to: “The files are beside the printer.”","choices":{"A":"files act on printer.","B":"printer identifies files.","C":"beside the printer tells where the files are.","D":"are means printing."},"correctAnswer":"C","translationJa":"beside the printerがfilesの場所を示します。","explanationJa":"beが場所説明へつなぐ構造です。","focus":"場所補語","difficulty":"intermediate"},{"id":"PAGE_0031_Q28","format":"meaning-equivalent","prompt":"Choose the natural contracted version of “We are not late.”","choices":{"A":"We's not late.","B":"We am not late.","C":"Were not late.","D":"We're not late."},"correctAnswer":"D","translationJa":"私たちは遅れていません。","explanationJa":"we areはwe'reと短縮できます。","focus":"短縮＋否定","difficulty":"intermediate"},{"id":"PAGE_0031_Q29","format":"meaning-equivalent","prompt":"Choose the best analysis of “The problem is that the server is offline.”","choices":{"A":"that節全体がproblemの内容を説明
+{
+  "schemaVersion": 1,
+  "page": {
+    "number": 31,
+    "id": "grammar-master-0031",
+    "title": "be動詞は、説明をつなぐ橋",
+    "image": "pages/PAGE_0031.webp",
+    "sourcePrompt": "source-prompts/PAGE_0031.txt"
+  },
+  "analysis": {
+    "summaryJa": "be動詞am/is/areは強い動作を表すより、主語とその正体・状態・場所の説明を結ぶ橋として働く。主語に応じた現在形と、会話で頻出する短縮形も扱う。",
+    "grammarPoints": [
+      "I-am、単数-is、you/we/they-are",
+      "be＋名詞で正体を説明",
+      "be＋形容詞で状態を説明",
+      "be＋場所表現で位置を説明",
+      "I'm/she's/we're等の短縮形"
+    ],
+    "visualEvidence": [
+      "主語島と説明島をam/is/areの橋が結ぶ図",
+      "正体・状態・場所の3アイコン",
+      "短縮形パネル"
+    ],
+    "commonTraps": [
+      "beの後ろを目的語と考える",
+      "単数・複数とis/areを一致させない",
+      "Iにisを使う",
+      "短縮形の主語とbeの組合せを誤る"
+    ]
+  },
+  "questions": [
+    {
+      "id": "PAGE_0031_Q01",
+      "format": "part5-cloze",
+      "prompt": "The conference room ------- on the third floor.",
+      "choices": {
+        "A": "is",
+        "B": "are",
+        "C": "am",
+        "D": "be"
+      },
+      "correctAnswer": "A",
+      "translationJa": "会議室は3階にあります。",
+      "explanationJa": "単数主語The conference roomにはisを使い、場所の説明へつなぎます。",
+      "focus": "単数主語＋is",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0031_Q02",
+      "format": "part5-cloze",
+      "prompt": "The updated brochures ------- ready for distribution.",
+      "choices": {
+        "A": "is",
+        "B": "are",
+        "C": "am",
+        "D": "be"
+      },
+      "correctAnswer": "B",
+      "translationJa": "更新されたパンフレットは配布準備ができています。",
+      "explanationJa": "複数主語brochuresにはareを使います。",
+      "focus": "複数主語＋are",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0031_Q03",
+      "format": "part5-cloze",
+      "prompt": "I ------- responsible for confirming the reservation list.",
+      "choices": {
+        "A": "is",
+        "B": "are",
+        "C": "am",
+        "D": "be"
+      },
+      "correctAnswer": "C",
+      "translationJa": "私は予約者一覧を確認する担当です。",
+      "explanationJa": "主語Iに対応する現在形be動詞はamです。",
+      "focus": "I＋am",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0031_Q04",
+      "format": "part5-cloze",
+      "prompt": "Ms. Green ------- the new regional sales manager.",
+      "choices": {
+        "A": "are",
+        "B": "am",
+        "C": "be",
+        "D": "is"
+      },
+      "correctAnswer": "D",
+      "translationJa": "グリーンさんは新しい地域営業部長です。",
+      "explanationJa": "単数主語Ms. Greenと正体を表す名詞句をisで結びます。",
+      "focus": "be＋名詞補語",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0031_Q05",
+      "format": "part5-cloze",
+      "prompt": "The replacement parts ------- in the storage cabinet beside the workshop.",
+      "choices": {
+        "A": "are",
+        "B": "is",
+        "C": "am",
+        "D": "being as main form"
+      },
+      "correctAnswer": "A",
+      "translationJa": "交換部品は作業場横の保管棚にあります。",
+      "explanationJa": "partsは複数なのでareで場所説明につなぎます。",
+      "focus": "are＋場所説明",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0031_Q06",
+      "format": "part5-cloze",
+      "prompt": "The proposed schedule ------- flexible enough for both teams.",
+      "choices": {
+        "A": "are",
+        "B": "is",
+        "C": "am",
+        "D": "be"
+      },
+      "correctAnswer": "B",
+      "translationJa": "提案された日程は両チームにとって十分柔軟です。",
+      "explanationJa": "scheduleは単数で、isが形容詞flexibleへつなぎます。",
+      "focus": "is＋形容詞補語",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0031_Q07",
+      "format": "part5-cloze",
+      "prompt": "We ------- available for a follow-up call after 3 P.M.",
+      "choices": {
+        "A": "is",
+        "B": "am",
+        "C": "are",
+        "D": "be"
+      },
+      "correctAnswer": "C",
+      "translationJa": "私たちは午後3時以降、追加の電話対応が可能です。",
+      "explanationJa": "主語weにはareを使います。",
+      "focus": "we＋are",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0031_Q08",
+      "format": "part5-cloze",
+      "prompt": "In a casual message, “She is already at the airport” can naturally become “------- already at the airport.”",
+      "choices": {
+        "A": "She're",
+        "B": "She'm",
+        "C": "Her's",
+        "D": "She's"
+      },
+      "correctAnswer": "D",
+      "translationJa": "カジュアルなメッセージではShe isをShe'sと短縮できます。",
+      "explanationJa": "she isの標準的な短縮形はshe'sです。",
+      "focus": "she isの短縮",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0031_Q09",
+      "format": "part5-cloze",
+      "prompt": "The primary concern ------- the unusually high shipping cost, not the delivery date.",
+      "choices": {
+        "A": "is",
+        "B": "are",
+        "C": "am",
+        "D": "being"
+      },
+      "correctAnswer": "A",
+      "translationJa": "主な懸念は納期ではなく、異常に高い送料です。",
+      "explanationJa": "concernは単数で、isが主語と正体を示す名詞句を結びます。",
+      "focus": "抽象名詞＋名詞補語",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0031_Q10",
+      "format": "part5-cloze",
+      "prompt": "The location of the new offices ------- convenient for most employees.",
+      "choices": {
+        "A": "are",
+        "B": "is",
+        "C": "am",
+        "D": "be"
+      },
+      "correctAnswer": "B",
+      "translationJa": "複数名詞が後ろにあっても主語の中心はlocationなのでisが正解です。",
+      "explanationJa": "of句内のofficesではなく単数の中心名詞locationにbe動詞を一致させます。",
+      "focus": "長い主語とbe一致",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0031_Q11",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence describing a person's identity.",
+      "choices": {
+        "A": "Mr. Cole are our safety officer.",
+        "B": "Mr. Cole am our safety officer.",
+        "C": "Mr. Cole is our safety officer.",
+        "D": "Mr. Cole be our safety officer."
+      },
+      "correctAnswer": "C",
+      "translationJa": "コールさんは当社の安全担当者です。",
+      "explanationJa": "単数主語と正体の説明をisで結びます。",
+      "focus": "正体説明",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0031_Q12",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence describing the condition of several rooms.",
+      "choices": {
+        "A": "The meeting rooms is quiet.",
+        "B": "The meeting rooms am quiet.",
+        "C": "The meeting rooms be quiet.",
+        "D": "The meeting rooms are quiet."
+      },
+      "correctAnswer": "D",
+      "translationJa": "会議室は静かです。",
+      "explanationJa": "複数主語roomsにはareを使い、quietが状態を説明します。",
+      "focus": "複数＋状態説明",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0031_Q13",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence describing a location.",
+      "choices": {
+        "A": "The spare keys are in the top drawer.",
+        "B": "The spare keys is in the top drawer.",
+        "C": "The spare keys am in the top drawer.",
+        "D": "The spare keys in the top drawer are as object."
+      },
+      "correctAnswer": "A",
+      "translationJa": "予備鍵は一番上の引き出しにあります。",
+      "explanationJa": "areがkeysと場所表現in the top drawerを結びます。",
+      "focus": "be＋場所",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0031_Q14",
+      "format": "correct-sentence",
+      "prompt": "Choose the natural contraction of “We are ready to begin.”",
+      "choices": {
+        "A": "We's ready to begin.",
+        "B": "We're ready to begin.",
+        "C": "We'm ready to begin.",
+        "D": "Were ready to begin."
+      },
+      "correctAnswer": "B",
+      "translationJa": "私たちは開始する準備ができています。",
+      "explanationJa": "we areの短縮形はwe'reです。",
+      "focus": "we are短縮",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0031_Q15",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence where be links the subject to a noun description.",
+      "choices": {
+        "A": "The printer is noisy.",
+        "B": "The printer is near reception.",
+        "C": "The printer is our backup unit.",
+        "D": "The printer operates daily."
+      },
+      "correctAnswer": "C",
+      "translationJa": "そのプリンターは当社の予備機です。",
+      "explanationJa": "our backup unitは主語printerの正体を表す名詞補語です。",
+      "focus": "名詞補語",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0031_Q16",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence where be links the subject to an adjective description.",
+      "choices": {
+        "A": "The documents are in the cabinet.",
+        "B": "The documents are the final copies.",
+        "C": "The documents arrived yesterday.",
+        "D": "The documents are confidential."
+      },
+      "correctAnswer": "D",
+      "translationJa": "その書類は機密扱いです。",
+      "explanationJa": "confidentialはdocumentsの状態・性質を説明する形容詞です。",
+      "focus": "形容詞補語",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0031_Q17",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence with correct agreement despite a phrase between subject and be.",
+      "choices": {
+        "A": "The list of approved vendors is on the portal.",
+        "B": "The list of approved vendors are on the portal.",
+        "C": "The list of approved vendors am on the portal.",
+        "D": "The list of approved vendors be on the portal."
+      },
+      "correctAnswer": "A",
+      "translationJa": "承認済み業者の一覧はポータルにあります。",
+      "explanationJa": "主語の中心listは単数なのでisを選びます。",
+      "focus": "中心名詞との一致",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0031_Q18",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct contraction in a business chat message.",
+      "choices": {
+        "A": "I's available after lunch.",
+        "B": "I'm available after lunch.",
+        "C": "I're available after lunch.",
+        "D": "Im are available after lunch."
+      },
+      "correctAnswer": "B",
+      "translationJa": "私は昼食後なら対応できます。",
+      "explanationJa": "I amの短縮形はI'mです。",
+      "focus": "I am短縮",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0031_Q19",
+      "format": "correct-sentence",
+      "prompt": "Choose the best analysis of “The issue is the delivery address.”",
+      "choices": {
+        "A": "is sends an action to delivery address.",
+        "B": "delivery address is an adverb.",
+        "C": "is links issue with a noun phrase identifying what the issue is.",
+        "D": "issue is the object of is."
+      },
+      "correctAnswer": "C",
+      "translationJa": "isはissueと、その正体を示すthe delivery addressを結びます。",
+      "explanationJa": "beの後ろの名詞句は目的語ではなく主語を同定する補語です。",
+      "focus": "beの連結機能分析",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0031_Q20",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence with a coordinated plural subject.",
+      "choices": {
+        "A": "The invoice and receipt is in the envelope.",
+        "B": "The invoice and receipt am in the envelope.",
+        "C": "The invoice and receipt be in the envelope.",
+        "D": "The invoice and receipt are in the envelope."
+      },
+      "correctAnswer": "D",
+      "translationJa": "請求書と領収書は封筒の中にあります。",
+      "explanationJa": "andで結ばれた2つのものは複数扱いなのでareです。",
+      "focus": "複合主語＋are",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0031_Q21",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “Ms. Diaz is our project leader.”",
+      "choices": {
+        "A": "Our project leader is the identity/role assigned to Ms. Diaz.",
+        "B": "Ms. Diaz acts on our project leader as an object.",
+        "C": "Ms. Diaz is located inside a leader.",
+        "D": "is describes an action performed by Ms. Diaz."
+      },
+      "correctAnswer": "A",
+      "translationJa": "ディアスさんの役割・正体が当社のプロジェクトリーダーです。",
+      "explanationJa": "beが主語と名詞による正体説明を結びます。",
+      "focus": "正体の補語",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0031_Q22",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “The chairs are comfortable.”",
+      "choices": {
+        "A": "The chairs act directly on comfort.",
+        "B": "Comfortable describes the condition of the chairs.",
+        "C": "The chairs are located inside comfortable.",
+        "D": "comfortable is an object."
+      },
+      "correctAnswer": "B",
+      "translationJa": "comfortableが椅子の状態を説明しています。",
+      "explanationJa": "形容詞補語が主語の状態を示します。",
+      "focus": "状態説明",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0031_Q23",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “The samples are in the laboratory.”",
+      "choices": {
+        "A": "samples act on laboratory.",
+        "B": "laboratory identifies what samples are.",
+        "C": "in the laboratory gives the location of the samples.",
+        "D": "are means travel."
+      },
+      "correctAnswer": "C",
+      "translationJa": "in the laboratoryがサンプルの場所を示しています。",
+      "explanationJa": "beが主語と場所説明を結びます。",
+      "focus": "場所説明",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0031_Q24",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence that preserves the meaning of “She is prepared for the interview.” in a natural contraction.",
+      "choices": {
+        "A": "She're prepared for the interview.",
+        "B": "She'm prepared for the interview.",
+        "C": "Her's prepared for the interview.",
+        "D": "She's prepared for the interview."
+      },
+      "correctAnswer": "D",
+      "translationJa": "彼女は面接の準備ができています。",
+      "explanationJa": "she isをshe'sに短縮しても意味は変わりません。",
+      "focus": "短縮形の意味保持",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0031_Q25",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in structure to: “The cause is a software error.”",
+      "choices": {
+        "A": "a software error identifies the cause.",
+        "B": "cause performs an action on error.",
+        "C": "software error is a place.",
+        "D": "is is an action verb meaning cause."
+      },
+      "correctAnswer": "A",
+      "translationJa": "a software errorが原因の正体を示します。",
+      "explanationJa": "名詞補語が主語causeを同定しています。",
+      "focus": "名詞による同定",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0031_Q26",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in structure to: “The hallway is narrow.”",
+      "choices": {
+        "A": "narrow receives an action.",
+        "B": "narrow describes the hallway.",
+        "C": "hallway travels to narrow.",
+        "D": "narrow is a location phrase."
+      },
+      "correctAnswer": "B",
+      "translationJa": "narrowがhallwayの性質を説明します。",
+      "explanationJa": "be＋形容詞で主語の状態・性質を示します。",
+      "focus": "形容詞説明",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0031_Q27",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in structure to: “The files are beside the printer.”",
+      "choices": {
+        "A": "files act on printer.",
+        "B": "printer identifies files.",
+        "C": "beside the printer tells where the files are.",
+        "D": "are means printing."
+      },
+      "correctAnswer": "C",
+      "translationJa": "beside the printerがfilesの場所を示します。",
+      "explanationJa": "beが場所説明へつなぐ構造です。",
+      "focus": "場所補語",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0031_Q28",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the natural contracted version of “We are not late.”",
+      "choices": {
+        "A": "We's not late.",
+        "B": "We am not late.",
+        "C": "Were not late.",
+        "D": "We're not late."
+      },
+      "correctAnswer": "D",
+      "translationJa": "私たちは遅れていません。",
+      "explanationJa": "we areはwe'reと短縮できます。",
+      "focus": "短縮＋否定",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0031_Q29",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the best analysis of: “The problem is that the server is offline.”",
+      "choices": {
+        "A": "the that-clause explains what the problem is.",
+        "B": "server is the direct object of is.",
+        "C": "offline modifies problem as an adverb.",
+        "D": "is means physical movement."
+      },
+      "correctAnswer": "A",
+      "translationJa": "that節全体がproblemの内容を説明しています。",
+      "explanationJa": "be動詞が主語problemと、その正体・内容を示す節を結びます。",
+      "focus": "be＋節補語",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0031_Q30",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in structure to: “The folders are on the desk.”",
+      "choices": {
+        "A": "folders act on desk.",
+        "B": "desk identifies what folders are.",
+        "C": "on the desk gives the location of the folders.",
+        "D": "are means move."
+      },
+      "correctAnswer": "C",
+      "translationJa": "on the deskがfoldersの場所を説明しています。",
+      "explanationJa": "be動詞が主語と場所説明を結びます。",
+      "focus": "be＋場所説明",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0031_Q31",
+      "format": "context-completion",
+      "prompt": "The main entrance ------- on the north side of the building.",
+      "choices": {
+        "A": "be",
+        "B": "are",
+        "C": "am",
+        "D": "is"
+      },
+      "correctAnswer": "D",
+      "translationJa": "正面入口は建物の北側にあります。",
+      "explanationJa": "単数主語entranceにはisを使います。",
+      "focus": "単数＋is",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0031_Q32",
+      "format": "context-completion",
+      "prompt": "The visitor badges ------- ready at the reception desk.",
+      "choices": {
+        "A": "is",
+        "B": "am",
+        "C": "are",
+        "D": "be"
+      },
+      "correctAnswer": "C",
+      "translationJa": "来訪者バッジは受付で準備できています。",
+      "explanationJa": "複数主語badgesにはareを使います。",
+      "focus": "複数＋are",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0031_Q33",
+      "format": "context-completion",
+      "prompt": "I ------- available for a short call after 4 P.M.",
+      "choices": {
+        "A": "is",
+        "B": "am",
+        "C": "are",
+        "D": "be"
+      },
+      "correctAnswer": "B",
+      "translationJa": "私は午後4時以降なら短い電話に対応できます。",
+      "explanationJa": "主語Iにはamを使います。",
+      "focus": "I＋am",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0031_Q34",
+      "format": "context-completion",
+      "prompt": "Ms. Ruiz ------- our new procurement manager.",
+      "choices": {
+        "A": "is",
+        "B": "am",
+        "C": "be",
+        "D": "are"
+      },
+      "correctAnswer": "A",
+      "translationJa": "ルイスさんは当社の新しい調達部長です。",
+      "explanationJa": "単数主語と正体をisで結びます。",
+      "focus": "正体説明",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0031_Q35",
+      "format": "context-completion",
+      "prompt": "The updated instructions ------- clear enough for new users.",
+      "choices": {
+        "A": "be",
+        "B": "is",
+        "C": "am",
+        "D": "are"
+      },
+      "correctAnswer": "D",
+      "translationJa": "更新された説明は新規利用者にも十分明確です。",
+      "explanationJa": "複数主語instructionsにはareを使います。",
+      "focus": "状態説明",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0031_Q36",
+      "format": "context-completion",
+      "prompt": "The spare key ------- in the locked cabinet beside reception.",
+      "choices": {
+        "A": "are",
+        "B": "am",
+        "C": "is",
+        "D": "be"
+      },
+      "correctAnswer": "C",
+      "translationJa": "予備鍵は受付横の施錠棚にあります。",
+      "explanationJa": "単数keyにはisを使い場所説明へつなぎます。",
+      "focus": "is＋場所",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0031_Q37",
+      "format": "context-completion",
+      "prompt": "In a chat message, “We are ready” can become “------- ready.”",
+      "choices": {
+        "A": "We's",
+        "B": "We're",
+        "C": "We'm",
+        "D": "Were"
+      },
+      "correctAnswer": "B",
+      "translationJa": "チャットではWe are readyをWe're readyと短縮できます。",
+      "explanationJa": "we areの短縮形はwe'reです。",
+      "focus": "we're",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0031_Q38",
+      "format": "context-completion",
+      "prompt": "The list of approved vendors ------- on the shared portal.",
+      "choices": {
+        "A": "is",
+        "B": "are",
+        "C": "am",
+        "D": "be"
+      },
+      "correctAnswer": "A",
+      "translationJa": "承認済み業者の一覧は共有ポータルにあります。",
+      "explanationJa": "中心名詞listが単数なのでisです。",
+      "focus": "長い主語の一致",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0031_Q39",
+      "format": "context-completion",
+      "prompt": "The invoice and receipt ------- in the envelope on your desk.",
+      "choices": {
+        "A": "is",
+        "B": "be",
+        "C": "am",
+        "D": "are"
+      },
+      "correctAnswer": "D",
+      "translationJa": "請求書と領収書は机上の封筒に入っています。",
+      "explanationJa": "andで結ばれた複合主語は複数なのでareです。",
+      "focus": "複合主語＋are",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0031_Q40",
+      "format": "context-completion",
+      "prompt": "The biggest issue ------- the missing delivery address.",
+      "choices": {
+        "A": "are",
+        "B": "is",
+        "C": "am",
+        "D": "be"
+      },
+      "correctAnswer": "B",
+      "translationJa": "最大の問題は配送先住所が欠けていることです。",
+      "explanationJa": "be動詞がissueとその正体を示す名詞句を結びます。",
+      "focus": "be＋名詞補語",
+      "difficulty": "advanced"
+    }
+  ]
+}
