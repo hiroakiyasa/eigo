@@ -1,1 +1,676 @@
-/tmp/s19_generated/PAGE_0313.json
+{
+  "schemaVersion": 1,
+  "page": {
+    "number": 313,
+    "id": "grammar-master-0313",
+    "title": "対比とwhenを一本の軸で読む",
+    "image": "pages/PAGE_0313.webp",
+    "sourcePrompt": "source-prompts/PAGE_0313.txt"
+  },
+  "analysis": {
+    "summaryJa": "whileとwhereasは二つの状況を一文で並べて対比し、whereasの方が改まっている。by contrastとin contrastは前文との対照を作る。on the contraryは直前の主張を正反対だと訂正し、on the other handは否定せず別の側面を加える。whenは出来事を時間上の一点や反復する場合に位置づける。",
+    "grammarPoints": [
+      "while / whereasによる節どうしの対比",
+      "by contrast / in contrastによる前文との比較",
+      "on the contraryによる正反対の訂正",
+      "on the other handによる別側面の追加",
+      "whenによる一回の出来事の時間位置",
+      "whenによる反復的な場合"
+    ],
+    "visualEvidence": [
+      "比較の天秤がwhileとwhereasで二つの状況を並べている",
+      "二つの手が長所と短所を持ちon the other handを示している",
+      "暗い村と活気ある村の矢印がon the contraryの正反対訂正を示す",
+      "タイムラインのピンがwhenで出来事の発生位置を示している"
+    ],
+    "commonTraps": [
+      "on the contraryを単なる別側面の追加に使う",
+      "on the other handで前文を真逆に否定する",
+      "whereasの後に名詞句だけを置く",
+      "whenを常に二つの継続動作の同時進行と解釈する",
+      "接続副詞by contrastを句読点なしで節間に挟む"
+    ]
+  },
+  "questions": [
+    {
+      "id": "PAGE_0313_Q01",
+      "format": "part5-cloze",
+      "prompt": "The downtown branch serves mostly businesses, ------- the airport branch assists mainly travelers.",
+      "choices": {
+        "A": "when",
+        "B": "because",
+        "C": "while",
+        "D": "unless"
+      },
+      "correctAnswer": "C",
+      "translationJa": "中心街支店は主に企業に対応する一方、空港支店は主に旅行者に対応します。",
+      "explanationJa": "二つの支店の状況を並べて対比するwhileが適切です。",
+      "focus": "対比のwhile",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0313_Q02",
+      "format": "part5-cloze",
+      "prompt": "The basic plan includes email support, ------- the premium plan provides telephone assistance.",
+      "choices": {
+        "A": "whereas",
+        "B": "when",
+        "C": "because",
+        "D": "until"
+      },
+      "correctAnswer": "A",
+      "translationJa": "基本プランにはメール対応が含まれる一方、上位プランには電話対応があります。",
+      "explanationJa": "改まった文体で二つの節を対比するwhereasが合います。",
+      "focus": "whereasによる対比",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0313_Q03",
+      "format": "part5-cloze",
+      "prompt": "The old scanner required five minutes per page. -------, the new model finishes in seconds.",
+      "choices": {
+        "A": "On the contrary",
+        "B": "As a result",
+        "C": "In addition",
+        "D": "By contrast"
+      },
+      "correctAnswer": "D",
+      "translationJa": "旧型スキャナーは1ページに5分必要でした。対照的に、新型は数秒で終わります。",
+      "explanationJa": "前文の性能と新型を比較するためBy contrastが適切です。",
+      "focus": "by contrastと前文比較",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0313_Q04",
+      "format": "part5-cloze",
+      "prompt": "“The lobby is empty today.” “-------, more than fifty guests are waiting there.”",
+      "choices": {
+        "A": "On the other hand",
+        "B": "On the contrary",
+        "C": "For example",
+        "D": "As a result"
+      },
+      "correctAnswer": "B",
+      "translationJa": "「今日はロビーが空です」「とんでもない、50人以上の客が待っています」",
+      "explanationJa": "emptyという主張を真逆の事実で訂正するOn the contraryが正解です。",
+      "focus": "on the contraryの訂正",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0313_Q05",
+      "format": "part5-cloze",
+      "prompt": "The hotel is close to the station. -------, rooms facing the tracks can be noisy.",
+      "choices": {
+        "A": "On the other hand",
+        "B": "On the contrary",
+        "C": "Therefore",
+        "D": "Similarly"
+      },
+      "correctAnswer": "A",
+      "translationJa": "そのホテルは駅に近いです。一方で、線路側の部屋は騒がしいことがあります。",
+      "explanationJa": "利点を否定せず別の欠点を加えるOn the other handが適切です。",
+      "focus": "on the other handと別側面",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0313_Q06",
+      "format": "part5-cloze",
+      "prompt": "Please present your visitor badge ------- you enter the research area.",
+      "choices": {
+        "A": "whereas",
+        "B": "despite",
+        "C": "when",
+        "D": "so that"
+      },
+      "correctAnswer": "C",
+      "translationJa": "研究区域に入るときは来訪者バッジを提示してください。",
+      "explanationJa": "enterという出来事の時間・場合を位置づけるwhenが適切です。",
+      "focus": "whenと時間位置",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0313_Q07",
+      "format": "part5-cloze",
+      "prompt": "Mina answers customer calls, ------- Leo handles email inquiries.",
+      "choices": {
+        "A": "when",
+        "B": "while",
+        "C": "since",
+        "D": "unless"
+      },
+      "correctAnswer": "B",
+      "translationJa": "ミナが顧客電話に対応する一方、レオはメール問い合わせを担当します。",
+      "explanationJa": "担当の違いを並べる対比のwhileです。",
+      "focus": "whileと役割対比",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0313_Q08",
+      "format": "part5-cloze",
+      "prompt": "The first warehouse is fully automated; -------, the second relies on manual sorting.",
+      "choices": {
+        "A": "on the contrary",
+        "B": "consequently",
+        "C": "for instance",
+        "D": "in contrast"
+      },
+      "correctAnswer": "D",
+      "translationJa": "第1倉庫は完全自動化されています。対照的に、第2倉庫は手作業の仕分けに頼っています。",
+      "explanationJa": "前述の倉庫と別の倉庫を比較するin contrastが適切です。",
+      "focus": "in contrastの接続",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0313_Q09",
+      "format": "part5-cloze",
+      "prompt": "Our response time improves ------- additional agents join the evening shift.",
+      "choices": {
+        "A": "when",
+        "B": "whereas",
+        "C": "although",
+        "D": "because of"
+      },
+      "correctAnswer": "A",
+      "translationJa": "追加担当者が夕方シフトに入ると、応答時間が改善します。",
+      "explanationJa": "反復的な場合と結果を結ぶwhenが適切です。",
+      "focus": "反復条件のwhen",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0313_Q10",
+      "format": "part5-cloze",
+      "prompt": "The east route is shorter, ------- the west route has fewer tolls.",
+      "choices": {
+        "A": "when",
+        "B": "whereas",
+        "C": "therefore",
+        "D": "because of"
+      },
+      "correctAnswer": "B",
+      "translationJa": "東側の経路は短い一方、西側は有料道路が少ないです。",
+      "explanationJa": "二つの特徴を正式に対比するwhereasが正解です。",
+      "focus": "whereasと二面比較",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0313_Q11",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that correctly contrasts two clauses with “while”.",
+      "choices": {
+        "A": "The retail team works on-site, while the technical team remotely.",
+        "B": "While the retail team on-site, the technical team works remotely.",
+        "C": "The retail team works on-site while whereas the technical team works remotely.",
+        "D": "The retail team works on-site, while the technical team works remotely."
+      },
+      "correctAnswer": "D",
+      "translationJa": "小売チームは現地勤務である一方、技術チームは遠隔勤務です。",
+      "explanationJa": "whileの前後に完全な節を置いて二つの状況を対比しています。",
+      "focus": "while＋対比節",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0313_Q12",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that correctly uses “whereas”.",
+      "choices": {
+        "A": "The morning tour lasts one hour, whereas the afternoon tour two hours lasting.",
+        "B": "The morning tour lasts one hour, whereas the afternoon tour lasts two.",
+        "C": "Whereas the morning tour one hour, the afternoon tour lasts two.",
+        "D": "The morning tour whereas lasts one hour, the afternoon tour lasts two."
+      },
+      "correctAnswer": "B",
+      "translationJa": "午前ツアーは1時間である一方、午後ツアーは2時間です。",
+      "explanationJa": "whereasが二つの完全な比較節を正しく結んでいます。",
+      "focus": "whereasの構造",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0313_Q13",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that correctly uses a contrastive sentence adverb.",
+      "choices": {
+        "A": "The old process used paper forms by contrast the new process is entirely digital.",
+        "B": "By contrast the old process used paper forms whereas.",
+        "C": "The old process used paper forms. By contrast, the new process is entirely digital.",
+        "D": "The old process by contrast, used paper forms the new process digital."
+      },
+      "correctAnswer": "C",
+      "translationJa": "旧手順は紙の用紙を使いました。対照的に、新手順は完全にデジタルです。",
+      "explanationJa": "By contrastを第二文の冒頭に置きコンマで区切っています。",
+      "focus": "by contrastの句読法",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0313_Q14",
+      "format": "correct-sentence",
+      "prompt": "Choose the reply that correctly rejects the previous claim.",
+      "choices": {
+        "A": "“The seminar was poorly attended.” — “On the contrary, every seat was occupied.”",
+        "B": "“The seminar was poorly attended.” — “On the other hand, every seat was occupied.”",
+        "C": "“The seminar was poorly attended.” — “By the time every seat was occupied.”",
+        "D": "“The seminar was poorly attended.” — “Whereas every seat.”"
+      },
+      "correctAnswer": "A",
+      "translationJa": "「セミナーは参加者が少なかった」「それどころか、全席埋まっていました」",
+      "explanationJa": "前の主張を真逆の事実で訂正するためOn the contraryです。",
+      "focus": "on the contraryの会話",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0313_Q15",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that correctly adds another side of the issue.",
+      "choices": {
+        "A": "The subscription is affordable. On the contrary, it offers limited storage.",
+        "B": "The subscription is affordable on the other hand it offers limited storage.",
+        "C": "On the other hand of affordability, limited storage.",
+        "D": "The subscription is affordable. On the other hand, it offers limited storage."
+      },
+      "correctAnswer": "D",
+      "translationJa": "その購読サービスは手頃です。一方で、保存容量には限りがあります。",
+      "explanationJa": "手頃さを否定せず別の欠点を加える表現が正しく使われています。",
+      "focus": "on the other handの正用",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0313_Q16",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that correctly locates an event with “when”.",
+      "choices": {
+        "A": "When the alarm sounding, everyone left through the nearest exit.",
+        "B": "When did the alarm sounded, everyone left through the nearest exit.",
+        "C": "When the alarm sounded, everyone left through the nearest exit.",
+        "D": "The alarm when sounded everyone through the nearest exit left."
+      },
+      "correctAnswer": "C",
+      "translationJa": "警報が鳴ったとき、全員が最寄りの出口から退出しました。",
+      "explanationJa": "when節が警報の発生を主節の時間位置として正しく示します。",
+      "focus": "when＋過去節",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0313_Q17",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that uses “when” for a recurring situation.",
+      "choices": {
+        "A": "Customers receive a receipt when returning they rented equipment.",
+        "B": "Customers receive a receipt when they return rented equipment.",
+        "C": "When customers a receipt, they return rented equipment.",
+        "D": "Customers when receive a receipt returned equipment."
+      },
+      "correctAnswer": "B",
+      "translationJa": "顧客はレンタル機器を返却すると領収書を受け取ります。",
+      "explanationJa": "反復する手続きの「〜するとき」を現在形のwhen節で表しています。",
+      "focus": "whenと反復手続き",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0313_Q18",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that correctly distinguishes correction from addition.",
+      "choices": {
+        "A": "The building is not closed. On the other hand, it is open around the clock.",
+        "B": "The building is not closed whereas. It is open around the clock.",
+        "C": "On the contrary the building not closed, around the clock.",
+        "D": "The building is not closed. On the contrary, it is open around the clock."
+      },
+      "correctAnswer": "D",
+      "translationJa": "その建物は閉鎖されていません。それどころか、24時間開いています。",
+      "explanationJa": "closedという考えをopenで真逆に訂正するOn the contraryが正しいです。",
+      "focus": "正反対の訂正",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0313_Q19",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that correctly contrasts service features.",
+      "choices": {
+        "A": "Express delivery includes tracking, whereas economy delivery not includes.",
+        "B": "Whereas express delivery tracking, economy delivery does not.",
+        "C": "Express delivery includes tracking, whereas economy delivery does not.",
+        "D": "Express delivery whereas includes tracking economy delivery does not."
+      },
+      "correctAnswer": "C",
+      "translationJa": "速達配送には追跡が含まれる一方、通常配送には含まれません。",
+      "explanationJa": "whereasの後も主語と代動詞を備えた節になっています。",
+      "focus": "whereasと代動詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0313_Q20",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence with correct punctuation around “in contrast”.",
+      "choices": {
+        "A": "Our urban stores are compact; in contrast, suburban stores have wide aisles.",
+        "B": "Our urban stores are compact in contrast suburban stores have wide aisles.",
+        "C": "In contrast our urban stores compact; suburban stores wide aisles.",
+        "D": "Our urban stores in contrast; are compact suburban stores have wide aisles."
+      },
+      "correctAnswer": "A",
+      "translationJa": "都市部の店舗は小型です。対照的に、郊外店には広い通路があります。",
+      "explanationJa": "セミコロン後の接続副詞in contrastをコンマで区切っています。",
+      "focus": "in contrastの句読法",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0313_Q21",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “Ken manages domestic sales, while Rina handles exports.”",
+      "choices": {
+        "A": "Ken and Rina are responsible for different sales markets.",
+        "B": "Ken and Rina jointly manage only domestic sales.",
+        "C": "Rina stopped exporting because Ken took her position.",
+        "D": "Both managers handle exactly the same customers."
+      },
+      "correctAnswer": "A",
+      "translationJa": "ケンとリナは異なる販売市場を担当しています。",
+      "explanationJa": "対比のwhileは二人の異なる担当を並べています。",
+      "focus": "対比whileの意味",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0313_Q22",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “The first estimate was low. By contrast, the final cost was much higher.”",
+      "choices": {
+        "A": "The final cost matched the first estimate exactly.",
+        "B": "The initial estimate increased after all costs were removed.",
+        "C": "Both figures were low and showed no contrast.",
+        "D": "The final cost was much higher than the initial estimate."
+      },
+      "correctAnswer": "D",
+      "translationJa": "最終費用は当初見積もりより大幅に高くなりました。",
+      "explanationJa": "By contrastが二つの金額の差を示しているため比較文が同義です。",
+      "focus": "by contrastの比較",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0313_Q23",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “The device is not difficult to operate. On the contrary, it is very simple.”",
+      "choices": {
+        "A": "The device is simple on one side but difficult on another.",
+        "B": "The device became difficult after users learned to operate it.",
+        "C": "The claim that the device is difficult is corrected: it is easy to use.",
+        "D": "Its simplicity is unrelated to the previous claim."
+      },
+      "correctAnswer": "C",
+      "translationJa": "その機器が難しいという主張は訂正され、実際には使いやすいという意味です。",
+      "explanationJa": "On the contraryは直前の否定された主張を正反対に訂正します。",
+      "focus": "on the contraryの意味",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0313_Q24",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “The location is convenient. On the other hand, the rent is high.”",
+      "choices": {
+        "A": "The high rent proves that the location is inconvenient.",
+        "B": "The location has both an advantage and a disadvantage.",
+        "C": "The rent is low because the location is convenient.",
+        "D": "The convenience claim is completely false."
+      },
+      "correctAnswer": "B",
+      "translationJa": "その場所には利点と欠点の両方があります。",
+      "explanationJa": "On the other handは最初の面を否定せず別の面を加えます。",
+      "focus": "on the other handの二面性",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0313_Q25",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “Call the desk when your package arrives.”",
+      "choices": {
+        "A": "Call the desk at the time your package is delivered.",
+        "B": "Call before the package has been shipped.",
+        "C": "The package will arrive because the desk calls.",
+        "D": "Call the desk continuously while no delivery occurs."
+      },
+      "correctAnswer": "A",
+      "translationJa": "荷物が届いた時点で窓口に電話してください。",
+      "explanationJa": "whenは電話する出来事を荷物到着の時間に位置づけます。",
+      "focus": "whenの時間位置",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0313_Q26",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “Whereas the north office grew, the south office remained the same size.”",
+      "choices": {
+        "A": "Both offices expanded by the same amount.",
+        "B": "The south office grew before the north office opened.",
+        "C": "The north office expanded, but the south office did not.",
+        "D": "Neither office changed because both were closed."
+      },
+      "correctAnswer": "C",
+      "translationJa": "北事務所は拡大しましたが、南事務所は拡大しませんでした。",
+      "explanationJa": "whereasによる二つの状況の対比をbutで言い換えています。",
+      "focus": "whereasの言い換え",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0313_Q27",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “I check the inventory when the store closes.”",
+      "choices": {
+        "A": "I check inventory only while the store remains open all day.",
+        "B": "Closing is caused by the inventory being inaccurate.",
+        "C": "The store closes after I refuse to count anything.",
+        "D": "I perform the inventory check at closing time."
+      },
+      "correctAnswer": "D",
+      "translationJa": "私は閉店時に在庫を確認します。",
+      "explanationJa": "when節が在庫確認の時間的位置を示しています。",
+      "focus": "whenと反復時点",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0313_Q28",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “The east wing is modern; in contrast, the west wing retains its historic design.”",
+      "choices": {
+        "A": "The two wings have noticeably different architectural styles.",
+        "B": "Both wings share an identical modern design.",
+        "C": "The west wing was removed when the east wing opened.",
+        "D": "The historic style caused both wings to close."
+      },
+      "correctAnswer": "A",
+      "translationJa": "二つの棟は建築様式が明らかに異なります。",
+      "explanationJa": "in contrastが二棟の設計の違いを強調しています。",
+      "focus": "in contrastの意味",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0313_Q29",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “The job is demanding. On the other hand, it offers excellent training.”",
+      "choices": {
+        "A": "The training is poor because the job is easy.",
+        "B": "The job’s difficulty is balanced by a valuable training benefit.",
+        "C": "The job offers no benefit and has no demands.",
+        "D": "Excellent training proves that the work is not demanding."
+      },
+      "correctAnswer": "B",
+      "translationJa": "仕事の難しさは、価値ある研修という利点と併存しています。",
+      "explanationJa": "別の面を補うOn the other handの関係をbalanced byで表しています。",
+      "focus": "別側面の追加",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0313_Q30",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “When the manager entered, the discussion stopped.”",
+      "choices": {
+        "A": "The manager entered because the discussion continued.",
+        "B": "The discussion stopped long before anyone entered.",
+        "C": "The discussion ended at the moment the manager came in.",
+        "D": "Two continuous activities were necessarily compared."
+      },
+      "correctAnswer": "C",
+      "translationJa": "管理者が入ってきた時点で、話し合いが止まりました。",
+      "explanationJa": "whenは入室を停止の時間位置として示します。",
+      "focus": "一回の出来事のwhen",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0313_Q31",
+      "format": "context-completion",
+      "prompt": "The city branch closes at six, ------- the airport branch remains open until midnight.",
+      "choices": {
+        "A": "when",
+        "B": "whereas",
+        "C": "because",
+        "D": "unless"
+      },
+      "correctAnswer": "B",
+      "translationJa": "市内支店は6時に閉まる一方、空港支店は深夜まで開いています。",
+      "explanationJa": "二支店の営業時間を正式に対比するwhereasが適切です。",
+      "focus": "whereasと営業時間対比",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0313_Q32",
+      "format": "context-completion",
+      "prompt": "“The new policy reduces flexibility.” “-------, employees may now choose any start time.”",
+      "choices": {
+        "A": "On the other hand",
+        "B": "By the time",
+        "C": "For example",
+        "D": "On the contrary"
+      },
+      "correctAnswer": "D",
+      "translationJa": "「新方針は柔軟性を低下させます」「それどころか、従業員は開始時刻を自由に選べます」",
+      "explanationJa": "前の主張を反対の事実で訂正するためOn the contraryです。",
+      "focus": "on the contraryと訂正",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0313_Q33",
+      "format": "context-completion",
+      "prompt": "Please notify security ------- a visitor badge is lost.",
+      "choices": {
+        "A": "when",
+        "B": "whereas",
+        "C": "despite",
+        "D": "so that"
+      },
+      "correctAnswer": "A",
+      "translationJa": "来訪者バッジを紛失した場合は、警備に知らせてください。",
+      "explanationJa": "反復する事態が起きる場合をwhenで示します。",
+      "focus": "whenと場合",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0313_Q34",
+      "format": "context-completion",
+      "prompt": "The downtown venue is easy to reach. -------, parking there is extremely limited.",
+      "choices": {
+        "A": "On the contrary",
+        "B": "Therefore",
+        "C": "On the other hand",
+        "D": "Similarly"
+      },
+      "correctAnswer": "C",
+      "translationJa": "中心街の会場は行きやすいです。一方で、駐車場は非常に限られます。",
+      "explanationJa": "利点を認めたまま別の欠点を加える表現です。",
+      "focus": "on the other handと利欠点",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0313_Q35",
+      "format": "context-completion",
+      "prompt": "The previous printer produced twenty pages per minute. -------, this model produces sixty.",
+      "choices": {
+        "A": "On the contrary",
+        "B": "As a result",
+        "C": "In other words",
+        "D": "By contrast"
+      },
+      "correctAnswer": "D",
+      "translationJa": "以前のプリンターは毎分20ページでした。対照的に、この機種は60ページです。",
+      "explanationJa": "二機種の数値を比較するBy contrastが最適です。",
+      "focus": "by contrastと数値比較",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0313_Q36",
+      "format": "context-completion",
+      "prompt": "Leo reviews the financial data, ------- Mina checks the legal terms.",
+      "choices": {
+        "A": "when",
+        "B": "while",
+        "C": "because",
+        "D": "until"
+      },
+      "correctAnswer": "B",
+      "translationJa": "レオが財務データを確認する一方、ミナは法的条件を確認します。",
+      "explanationJa": "同時刻を強調せず異なる担当を並べる対比のwhileです。",
+      "focus": "whileと担当対比",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0313_Q37",
+      "format": "context-completion",
+      "prompt": "The automatic doors lock ------- the building closes for the night.",
+      "choices": {
+        "A": "when",
+        "B": "whereas",
+        "C": "although",
+        "D": "because of"
+      },
+      "correctAnswer": "A",
+      "translationJa": "建物が夜間閉館すると、自動ドアが施錠されます。",
+      "explanationJa": "閉館という反復時点に施錠を位置づけるwhenです。",
+      "focus": "whenと自動処理",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0313_Q38",
+      "format": "context-completion",
+      "prompt": "Online orders increased sharply; -------, telephone orders declined.",
+      "choices": {
+        "A": "on the contrary",
+        "B": "consequently",
+        "C": "moreover",
+        "D": "in contrast"
+      },
+      "correctAnswer": "D",
+      "translationJa": "オンライン注文は急増しました。対照的に、電話注文は減少しました。",
+      "explanationJa": "二つの注文経路の変化を比較するin contrastが適切です。",
+      "focus": "in contrastと傾向対比",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0313_Q39",
+      "format": "context-completion",
+      "prompt": "The standard room includes breakfast, ------- the economy room does not.",
+      "choices": {
+        "A": "when",
+        "B": "therefore",
+        "C": "whereas",
+        "D": "because of"
+      },
+      "correctAnswer": "C",
+      "translationJa": "標準客室には朝食が含まれる一方、エコノミー客室には含まれません。",
+      "explanationJa": "二つのプランを節で対比するwhereasが合います。",
+      "focus": "whereasと省略代動詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0313_Q40",
+      "format": "context-completion",
+      "prompt": "“This route is the slowest option.” “-------, it is usually the fastest because it avoids traffic.”",
+      "choices": {
+        "A": "On the other hand",
+        "B": "On the contrary",
+        "C": "In addition",
+        "D": "At the same time"
+      },
+      "correctAnswer": "B",
+      "translationJa": "「この経路が最も遅い選択肢です」「反対に、渋滞を避けるので通常は最速です」",
+      "explanationJa": "slowestをfastestで真逆に訂正しているためOn the contraryです。",
+      "focus": "on the contraryの唯一解",
+      "difficulty": "intermediate"
+    }
+  ]
+}
