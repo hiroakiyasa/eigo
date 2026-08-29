@@ -76,7 +76,7 @@
 | ページ | タイトル | 画像 | 制作原稿 | 問題 |
 |---:|---|---|---|---|
 | 60 | 名詞は、3つの目で見る | [PAGE_0060](pages/PAGE_0060.webp) | [原稿](source-prompts/PAGE_0060.txt) | [40問](question-sets/PAGE_0060.json) |
-| 61 | 名詞は3回しぼり込む | [PAGE_0061](pages/PAGE_0061.webp) | [原稿](source-prompts/PAGE_0061.txt) | `pending` |
+| 61 | 名詞は3回しぼり込む | [PAGE_0061](pages/PAGE_0061.webp) | [原稿](source-prompts/PAGE_0061.txt) | [40問](question-sets/PAGE_0061.json) |
 | 62 | 名詞のかたちは、中心へ重ねる | [PAGE_0062](pages/PAGE_0062.webp) | [原稿](source-prompts/PAGE_0062.txt) | `pending` |
 | 63 | まとまり全体は、数えない | [PAGE_0063](pages/PAGE_0063.webp) | [原稿](source-prompts/PAGE_0063.txt) | `pending` |
 | 64 | 形で見抜く 可算・不可算 | [PAGE_0064](pages/PAGE_0064.webp) | [原稿](source-prompts/PAGE_0064.txt) | `pending` |
@@ -133,7 +133,7 @@
 | 110 | 前はしぼる、後ろは説明 | [PAGE_0110](pages/PAGE_0110.webp) | [原稿](source-prompts/PAGE_0110.txt) | [40問](question-sets/PAGE_0110.json) |
 | 111 | 形容詞は、名詞の前後で働く | [PAGE_0111](pages/PAGE_0111.webp) | [原稿](source-prompts/PAGE_0111.txt) | [40問](question-sets/PAGE_0111.json) |
 | 112 | 形容詞の列車、名詞へ近づく順 | [PAGE_0112](pages/PAGE_0112.webp) | [原稿](source-prompts/PAGE_0112.txt) | [40問](question-sets/PAGE_0112.json) |
-| 113 | ハイフンで、説明を1ブロックに | [PAGE_0113](pages/PAGE_0113.webp) | [原稿](source-prompts/PAGE_0113.txt) | `pending` |
+| 113 | ハイフンで、説明を1ブロックに | [PAGE_0113](pages/PAGE_0113.webp) | [原稿](source-prompts/PAGE_0113.txt) | [40問](question-sets/PAGE_0113.json) |
 | 114 | “まだ足りない”が後ろの説明を呼ぶ | [PAGE_0114](pages/PAGE_0114.webp) | [原稿](source-prompts/PAGE_0114.txt) | `pending` |
 | 115 | 位置で変わる、形容詞の顔 | [PAGE_0115](pages/PAGE_0115.webp) | [原稿](source-prompts/PAGE_0115.txt) | `pending` |
 | 116 | 名詞も動詞も、形容詞になれる | [PAGE_0116](pages/PAGE_0116.webp) | [原稿](source-prompts/PAGE_0116.txt) | `pending` |

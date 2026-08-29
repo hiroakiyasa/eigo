@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-29T05:21:02.658Z",
+  "updatedAt": "2026-08-29T05:21:40.528Z",
   "totalPages": 330,
-  "completedPages": 76,
+  "completedPages": 78,
   "questionsPerPage": 40,
   "totalPlannedQuestions": 13200,
   "pages": [
@@ -490,9 +490,9 @@
       "number": 61,
       "id": "grammar-master-0061",
       "title": "名詞は3回しぼり込む",
-      "status": "pending",
+      "status": "complete",
       "output": "question-sets/PAGE_0061.json",
-      "completedAt": null
+      "completedAt": "2026-08-29T05:21:40.283Z"
     },
     {
       "number": 62,
@@ -906,9 +906,9 @@
       "number": 113,
       "id": "grammar-master-0113",
       "title": "ハイフンで、説明を1ブロックに",
-      "status": "pending",
+      "status": "complete",
       "output": "question-sets/PAGE_0113.json",
-      "completedAt": null
+      "completedAt": "2026-08-29T05:21:40.528Z"
     },
     {
       "number": 114,
