@@ -15,74 +15,62 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 22
-      - name: Normalize valid sets and report malformed JSON
+      - name: Repair PAGE 0024 and normalize valid sets
         run: |
           node <<'NODE'
           const fs = require('fs');
-          const formats = ['part5-cloze','correct-sentence','meaning-equivalent','context-completion'];
-          const answerTargets = {
-            'part5-cloze':        ['A','B','C','D','A','B','C','D','A','B'],
-            'correct-sentence':   ['C','D','A','B','C','D','A','B','C','D'],
-            'meaning-equivalent': ['A','B','C','D','A','B','C','D','A','C'],
-            'context-completion': ['D','C','B','A','D','C','B','A','D','B']
+          const p24='question-sets/PAGE_0024.json';
+          const d24=JSON.parse(fs.readFileSync(p24,'utf8'));
+          const rewrites={
+            PAGE_0024_Q21:'Choose the option that correctly completes the present-tense statement about “I”.',
+            PAGE_0024_Q22:'Choose the option that correctly completes the present-tense statement about “they”.',
+            PAGE_0024_Q23:'Choose the correct present-tense verb form for the singular subject “Leo”.',
+            PAGE_0024_Q24:'Choose the correct present-tense verb form for the plural subject “we”.'
           };
-          const difficultyTargets = {
-            'part5-cloze':        ['basic','basic','basic','intermediate','intermediate','intermediate','intermediate','intermediate','advanced','advanced'],
-            'correct-sentence':   ['basic','basic','intermediate','intermediate','intermediate','intermediate','intermediate','advanced','advanced','advanced'],
-            'meaning-equivalent': ['basic','basic','basic','intermediate','intermediate','intermediate','intermediate','intermediate','advanced','advanced'],
-            'context-completion': ['basic','basic','intermediate','intermediate','intermediate','intermediate','intermediate','advanced','advanced','advanced']
+          for(const q of d24.questions) if(rewrites[q.id]) q.prompt=rewrites[q.id];
+          fs.writeFileSync(p24,JSON.stringify(d24,null,2)+'\n');
+
+          const formats=['part5-cloze','correct-sentence','meaning-equivalent','context-completion'];
+          const answerTargets={
+            'part5-cloze':['A','B','C','D','A','B','C','D','A','B'],
+            'correct-sentence':['C','D','A','B','C','D','A','B','C','D'],
+            'meaning-equivalent':['A','B','C','D','A','B','C','D','A','C'],
+            'context-completion':['D','C','B','A','D','C','B','A','D','B']
           };
-          const malformed=[];
-          for (let n=22;n<=43;n++) {
+          const difficultyTargets={
+            'part5-cloze':['basic','basic','basic','intermediate','intermediate','intermediate','intermediate','intermediate','advanced','advanced'],
+            'correct-sentence':['basic','basic','intermediate','intermediate','intermediate','intermediate','intermediate','advanced','advanced','advanced'],
+            'meaning-equivalent':['basic','basic','basic','intermediate','intermediate','intermediate','intermediate','intermediate','advanced','advanced'],
+            'context-completion':['basic','basic','intermediate','intermediate','intermediate','intermediate','intermediate','advanced','advanced','advanced']
+          };
+          for(let n=22;n<=27;n++){
             const p=`question-sets/PAGE_${String(n).padStart(4,'0')}.json`;
-            if (!fs.existsSync(p)) continue;
-            let data;
-            try { data=JSON.parse(fs.readFileSync(p,'utf8')); }
-            catch(e){ malformed.push(`${p}: ${e.message}`); continue; }
-            for (const f of formats) {
+            const data=JSON.parse(fs.readFileSync(p,'utf8'));
+            for(const f of formats){
               const qs=data.questions.filter(q=>q.format===f);
               if(qs.length!==10) continue;
               qs.forEach((q,i)=>{
-                const want=answerTargets[f][i];
-                const old=q.correctAnswer;
-                if(old!==want){
-                  const tmp=q.choices[want];
-                  q.choices[want]=q.choices[old];
-                  q.choices[old]=tmp;
-                  q.correctAnswer=want;
-                }
+                const want=answerTargets[f][i],old=q.correctAnswer;
+                if(old!==want){const t=q.choices[want];q.choices[want]=q.choices[old];q.choices[old]=t;q.correctAnswer=want;}
                 q.difficulty=difficultyTargets[f][i];
               });
             }
-            fs.writeFileSync(p, JSON.stringify(data,null,2)+'\n');
+            fs.writeFileSync(p,JSON.stringify(data,null,2)+'\n');
           }
-          console.log('MALFORMED_START');
-          malformed.forEach(x=>console.log(x));
-          console.log('MALFORMED_END');
-          fs.writeFileSync('/tmp/malformed.txt', malformed.join('\n'));
           NODE
-      - name: Validate all parseable repaired sets
+      - name: Validate PAGE 0022 through 0027
         run: |
-          set -u
-          failed=0
-          for n in $(seq 22 43); do
+          set -euo pipefail
+          for n in $(seq 22 27); do
             p="question-sets/PAGE_$(printf '%04d' "$n").json"
-            [ -e "$p" ] || continue
-            if ! node -e 'JSON.parse(require("fs").readFileSync(process.argv[1],"utf8"))' "$p" >/dev/null 2>&1; then
-              echo "SKIP malformed: $p"
-              continue
-            fi
-            echo "=== validating $p ==="
-            if ! node scripts/validate-question-set.mjs "$p"; then failed=1; fi
+            node scripts/validate-question-set.mjs "$p"
           done
-          exit $failed
-      - name: Commit valid repairs even if later inspection is needed
-        if: always()
+      - name: Commit repairs
         run: |
           if git diff --quiet -- question-sets; then exit 0; fi
           git config user.name 'TRAIL FUSION AI'
           git config user.email 'hiroakiyasa@yahoo.co.jp'
-          git add question-sets/PAGE_{0022..0043}.json
-          git commit -m 'fix(questions): normalize valid sets through page 0043'
+          git add question-sets/PAGE_{0022..0027}.json
+          git commit -m 'fix(questions): validate pages 0022 through 0027'
           git pull --rebase origin main
           git push
