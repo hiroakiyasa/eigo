@@ -1,0 +1,674 @@
+{
+  "schemaVersion": 1,
+  "page": {
+    "number": 95,
+    "id": "grammar-master-0095",
+    "title": "特定の中から選び、代名詞で受ける",
+    "image": "pages/PAGE_0095.webp",
+    "sourcePrompt": "source-prompts/PAGE_0095.txt"
+  },
+  "analysis": {
+    "summaryJa": "数量語の後ろにofを置くときは、the・these・my・us・themなどで境界が見える特定集合を続け、その中の一部・全部・ゼロを選ぶ。一般の複数名詞ならmost booksのようにofを使わない。いったん登場した人や物はhe・she・it・theyで受け、単数・複数と人・物を一致させながら繰り返しを避けて話をつなぐ。",
+    "grammarPoints": [
+      "some／most／all／none＋of＋特定集合",
+      "一般論のmost＋裸複数とmost of＋限定複数の対比",
+      "前置詞ofの後ろの目的格us／them",
+      "he・she・it・theyによる既出名詞の照応",
+      "複数の人・物を受けるthey"
+    ],
+    "visualEvidence": [
+      "枠で囲まれた特定集合から一部を選ぶ図",
+      "most paintingsとmost of these paintingsの境界対比",
+      "名詞からhe・she・it・theyへ渡すリレー図",
+      "人・物、単数・複数のアイコン対応"
+    ],
+    "commonTraps": [
+      "限定のない裸複数の前にmost ofを置く",
+      "ofの後ろで主格we／theyを使う",
+      "単数の物をthey、複数の物をitで受ける",
+      "代名詞の指示対象が曖昧なまま文を続ける"
+    ]
+  },
+  "questions": [
+    {
+      "id": "PAGE_0095_Q01",
+      "format": "part5-cloze",
+      "prompt": "Some ------- the invoices require a manager’s signature.",
+      "choices": {
+        "A": "from",
+        "B": "at",
+        "C": "of",
+        "D": "by"
+      },
+      "correctAnswer": "C",
+      "translationJa": "その請求書のうち何通かは管理職の署名が必要です。",
+      "explanationJa": "the invoicesという特定集合の一部にはsome of theを使います。",
+      "focus": "some of＋特定集合",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0095_Q02",
+      "format": "part5-cloze",
+      "prompt": "Most ------- prefer digital receipts to paper ones.",
+      "choices": {
+        "A": "customers",
+        "B": "of customers",
+        "C": "of customer",
+        "D": "customer"
+      },
+      "correctAnswer": "A",
+      "translationJa": "ほとんどの顧客は紙より電子レシートを好みます。",
+      "explanationJa": "顧客一般の大半はofを使わずmost＋裸複数customersで表します。",
+      "focus": "most＋一般複数名詞",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0095_Q03",
+      "format": "part5-cloze",
+      "prompt": "Most ------- these customers joined the loyalty program.",
+      "choices": {
+        "A": "from",
+        "B": "at",
+        "C": "by",
+        "D": "of"
+      },
+      "correctAnswer": "D",
+      "translationJa": "これらの顧客の大半は会員プログラムに参加しました。",
+      "explanationJa": "theseで境界が明確な集合なのでmost of these customersとします。",
+      "focus": "most of＋these",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0095_Q04",
+      "format": "part5-cloze",
+      "prompt": "None of ------- had seen the revised contract before the meeting.",
+      "choices": {
+        "A": "we",
+        "B": "us",
+        "C": "our",
+        "D": "ours"
+      },
+      "correctAnswer": "B",
+      "translationJa": "私たちの誰も会議前に改訂契約書を見ていませんでした。",
+      "explanationJa": "前置詞ofの後ろでは主格weでなく目的格usを使います。",
+      "focus": "none of us",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0095_Q05",
+      "format": "part5-cloze",
+      "prompt": "Ms. Vega approved the layout, and ------- sent it to the printer.",
+      "choices": {
+        "A": "she",
+        "B": "her",
+        "C": "hers",
+        "D": "it"
+      },
+      "correctAnswer": "A",
+      "translationJa": "ベガさんはレイアウトを承認し、それを印刷会社に送りました。",
+      "explanationJa": "既出の女性Ms. Vegaを主語として受ける代名詞sheが必要です。",
+      "focus": "人を受ける主格she",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0095_Q06",
+      "format": "part5-cloze",
+      "prompt": "The scanner is under warranty, so ------- will be repaired at no charge.",
+      "choices": {
+        "A": "they",
+        "B": "he",
+        "C": "it",
+        "D": "its"
+      },
+      "correctAnswer": "C",
+      "translationJa": "そのスキャナーは保証期間中なので、無料で修理されます。",
+      "explanationJa": "単数の物scannerを主語で受ける代名詞itを使います。",
+      "focus": "単数の物を受けるit",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0095_Q07",
+      "format": "part5-cloze",
+      "prompt": "The brochures arrived yesterday, but ------- are still in the shipping boxes.",
+      "choices": {
+        "A": "it",
+        "B": "they",
+        "C": "them",
+        "D": "their"
+      },
+      "correctAnswer": "B",
+      "translationJa": "パンフレットは昨日届きましたが、まだ配送箱の中にあります。",
+      "explanationJa": "複数の物brochuresを主語で受ける代名詞theyです。",
+      "focus": "複数の物を受けるthey",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0095_Q08",
+      "format": "part5-cloze",
+      "prompt": "All of ------- submitted their expense forms on time.",
+      "choices": {
+        "A": "they",
+        "B": "their",
+        "C": "theirs",
+        "D": "them"
+      },
+      "correctAnswer": "D",
+      "translationJa": "彼らは全員、経費申請書を期限どおり提出しました。",
+      "explanationJa": "前置詞ofの後ろで人々を受ける目的格themが必要です。",
+      "focus": "all of them",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0095_Q09",
+      "format": "part5-cloze",
+      "prompt": "Several files were corrupted, but two of ------- were restored from backups.",
+      "choices": {
+        "A": "they",
+        "B": "their",
+        "C": "them",
+        "D": "theirs"
+      },
+      "correctAnswer": "C",
+      "translationJa": "いくつかのファイルが破損しましたが、そのうち2つはバックアップから復元されました。",
+      "explanationJa": "特定の複数filesをofの後ろで受ける目的格themを使います。",
+      "focus": "数量＋of them",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0095_Q10",
+      "format": "part5-cloze",
+      "prompt": "Mr. Ali spoke with Mr. Chen after ------- finished the presentation.",
+      "choices": {
+        "A": "Mr. Chen",
+        "B": "he",
+        "C": "him",
+        "D": "they"
+      },
+      "correctAnswer": "A",
+      "translationJa": "アリさんは、チェンさんが発表を終えた後でチェンさんと話しました。",
+      "explanationJa": "heではどちらの男性を指すか曖昧になるため、ここでは名詞を繰り返して指示対象を明確にします。",
+      "focus": "曖昧な代名詞の回避",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0095_Q11",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about part of a known set.",
+      "choices": {
+        "A": "Some of chairs need new cushions.",
+        "B": "Some of the chairs need new cushions.",
+        "C": "Some the chairs need new cushions.",
+        "D": "Some of the chair needs new cushions, meaning several."
+      },
+      "correctAnswer": "B",
+      "translationJa": "その椅子のうち何脚かは新しいクッションが必要です。",
+      "explanationJa": "特定集合the chairsの一部はsome of the＋複数で表します。",
+      "focus": "some of the＋複数",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0095_Q12",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence making a general statement.",
+      "choices": {
+        "A": "Most of hotels accept major credit cards.",
+        "B": "Most hotel accepts major credit cards, as a general plural.",
+        "C": "Most of the hotels everywhere accepts cards.",
+        "D": "Most hotels accept major credit cards."
+      },
+      "correctAnswer": "D",
+      "translationJa": "ほとんどのホテルは主要なクレジットカードを受け付けます。",
+      "explanationJa": "ホテル一般ならmost＋裸複数hotelsを使い、ofを入れません。",
+      "focus": "most＋裸複数",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0095_Q13",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about a specific group nearby.",
+      "choices": {
+        "A": "Most of these packages are for the sales department.",
+        "B": "Most these packages are for the sales department.",
+        "C": "Most of packages are for the sales department.",
+        "D": "Most of these package is for the sales department."
+      },
+      "correctAnswer": "A",
+      "translationJa": "これらの荷物の大半は営業部宛てです。",
+      "explanationJa": "these packagesという特定集合にはmost ofを用い、複数動詞areを合わせます。",
+      "focus": "most of these＋複数",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0095_Q14",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence after a preposition.",
+      "choices": {
+        "A": "None of we received the access code.",
+        "B": "None us received the access code.",
+        "C": "None of us received the access code.",
+        "D": "No of us received the access code."
+      },
+      "correctAnswer": "C",
+      "translationJa": "私たちの誰もアクセスコードを受け取りませんでした。",
+      "explanationJa": "ofは前置詞なので後ろには目的格usが必要です。",
+      "focus": "of＋目的格us",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0095_Q15",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence linking two sentences about a woman.",
+      "choices": {
+        "A": "Dr. Sato inspected the lab. Her approved the new equipment.",
+        "B": "Dr. Sato inspected the lab. It approved the new equipment.",
+        "C": "Dr. Sato inspected the lab. They approves the new equipment.",
+        "D": "Dr. Sato inspected the lab. She approved the new equipment."
+      },
+      "correctAnswer": "D",
+      "translationJa": "佐藤博士は研究室を検査し、新しい設備を承認しました。",
+      "explanationJa": "既出の女性を次文の主語で受けるsheが正しいです。",
+      "focus": "女性を受けるshe",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0095_Q16",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence linking two sentences about one object.",
+      "choices": {
+        "A": "The projector was overheating, so they were turned off.",
+        "B": "The projector was overheating, so it was turned off.",
+        "C": "The projector was overheating, so its was turned off.",
+        "D": "The projector was overheating, so them was turned off."
+      },
+      "correctAnswer": "B",
+      "translationJa": "プロジェクターが過熱していたため、電源が切られました。",
+      "explanationJa": "単数の物projectorを主語で受けるitを使います。",
+      "focus": "単数物のit",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0095_Q17",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence linking two sentences about plural objects.",
+      "choices": {
+        "A": "The samples arrived frozen, but it thawed during transit.",
+        "B": "The samples arrived frozen, but them thawed during transit.",
+        "C": "The samples arrived frozen, but they thawed during transit.",
+        "D": "The samples arrived frozen, but their thawed during transit."
+      },
+      "correctAnswer": "C",
+      "translationJa": "サンプルは凍った状態で到着しましたが、輸送中に解凍されました。",
+      "explanationJa": "複数の物samplesを主語で受けるtheyが正しいです。",
+      "focus": "複数物のthey",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0095_Q18",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence selecting two from a known set.",
+      "choices": {
+        "A": "Two of them will attend the supplier meeting.",
+        "B": "Two of they will attend the supplier meeting.",
+        "C": "Two them will attend the supplier meeting.",
+        "D": "Two of their will attend the supplier meeting."
+      },
+      "correctAnswer": "A",
+      "translationJa": "彼らのうち2人が仕入先会議に出席します。",
+      "explanationJa": "数量two＋of＋目的格themで特定集団の中の2人を選びます。",
+      "focus": "two of them",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0095_Q19",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence with a clear pronoun reference.",
+      "choices": {
+        "A": "The contract was revised, and they was sent to legal counsel.",
+        "B": "The contract was revised, and them was sent to legal counsel.",
+        "C": "The contract was revised, and its were sent to legal counsel.",
+        "D": "The contract was revised, and it was sent to legal counsel."
+      },
+      "correctAnswer": "D",
+      "translationJa": "契約書は改訂され、法務顧問へ送られました。",
+      "explanationJa": "単数contractを直前から明確に受ける主格itを使います。",
+      "focus": "明確な照応it",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0095_Q20",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that avoids an unclear pronoun.",
+      "choices": {
+        "A": "When Ms. Reed called Ms. Long, she was already at the station.",
+        "B": "When Ms. Reed called Ms. Long, Ms. Long was already at the station.",
+        "C": "When Ms. Reed called Ms. Long, her was already at the station.",
+        "D": "When Ms. Reed called Ms. Long, they was already at the station."
+      },
+      "correctAnswer": "B",
+      "translationJa": "リードさんがロングさんに電話したとき、ロングさんはすでに駅にいました。",
+      "explanationJa": "二人の女性がいるためsheでは曖昧です。意図する名前を繰り返すと明確になります。",
+      "focus": "代名詞の曖昧性回避",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0095_Q21",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"Some of the reports are incomplete.\"",
+      "choices": {
+        "A": "Reports in general are all incomplete.",
+        "B": "None of the reports is incomplete.",
+        "C": "Only reports outside the set are incomplete.",
+        "D": "A portion of this specific set of reports is incomplete."
+      },
+      "correctAnswer": "D",
+      "translationJa": "その報告書群の一部が未完成です。",
+      "explanationJa": "some of theは境界の見える特定集合の一部を表します。",
+      "focus": "some ofの範囲",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0095_Q22",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"Most restaurants offer takeout.\"",
+      "choices": {
+        "A": "A majority of one specified group only offers takeout.",
+        "B": "A majority of restaurants in general offer takeout.",
+        "C": "No restaurants offer takeout.",
+        "D": "Every restaurant must offer delivery."
+      },
+      "correctAnswer": "B",
+      "translationJa": "一般にレストランの大半は持ち帰りに対応しています。",
+      "explanationJa": "most＋裸複数は特定の枠を設けず種類一般の大半を述べます。",
+      "focus": "一般論のmost",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0095_Q23",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"Most of those offices are closed.\"",
+      "choices": {
+        "A": "Offices in general are closed.",
+        "B": "None of the indicated offices is closed.",
+        "C": "A majority of the indicated offices are closed.",
+        "D": "Only one unrelated office is closed."
+      },
+      "correctAnswer": "C",
+      "translationJa": "指し示された事務所群の大半が閉まっています。",
+      "explanationJa": "most of thoseは指し示された特定集合内の大半です。",
+      "focus": "most of＋指示限定詞",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0095_Q24",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"None of us objected.\"",
+      "choices": {
+        "A": "No person in our group objected.",
+        "B": "Everyone outside our group objected.",
+        "C": "Some of us objected.",
+        "D": "Our group objected to nobody."
+      },
+      "correctAnswer": "A",
+      "translationJa": "私たちの中で反対した人はいませんでした。",
+      "explanationJa": "none of usは特定集団us内の人数ゼロを表します。",
+      "focus": "none of usの意味",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0095_Q25",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"Lena checked the invoice. She found an error.\"",
+      "choices": {
+        "A": "The invoice found an error in Lena.",
+        "B": "Lena found an error when Lena checked the invoice.",
+        "C": "Another woman found Lena.",
+        "D": "Several people checked the invoice."
+      },
+      "correctAnswer": "B",
+      "translationJa": "レナは請求書を確認した際、誤りを見つけました。",
+      "explanationJa": "sheは直前に提示された女性Lenaを受け、繰り返しを避けています。",
+      "focus": "sheの照応",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0095_Q26",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The tablet froze, so it was restarted.\"",
+      "choices": {
+        "A": "Several tablets were restarted.",
+        "B": "A person froze and restarted.",
+        "C": "The tablet restarted another device.",
+        "D": "The tablet was restarted because the tablet froze."
+      },
+      "correctAnswer": "D",
+      "translationJa": "タブレットが動かなくなったため、そのタブレットを再起動しました。",
+      "explanationJa": "itは直前の単数の物tabletを受けます。",
+      "focus": "itの照応",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0095_Q27",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The elevators are old, but they are reliable.\"",
+      "choices": {
+        "A": "The old elevators are reliable.",
+        "B": "One old elevator is unreliable.",
+        "C": "The building is reliable.",
+        "D": "The elevators own reliable equipment."
+      },
+      "correctAnswer": "A",
+      "translationJa": "そのエレベーターは古いですが信頼できます。",
+      "explanationJa": "theyは複数の物elevatorsを受け、同じ対象の説明を続けます。",
+      "focus": "theyの照応",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0095_Q28",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"Three of them were approved.\"",
+      "choices": {
+        "A": "Three unrelated groups were approved.",
+        "B": "Everyone was rejected.",
+        "C": "Three members of the previously identified group were approved.",
+        "D": "The number three approved them."
+      },
+      "correctAnswer": "C",
+      "translationJa": "先に特定された集団のうち3つ（3人）が承認されました。",
+      "explanationJa": "three of themは既知の特定集合から3構成員を選びます。",
+      "focus": "数量＋of themの意味",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0095_Q29",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"All of these devices are portable.\"",
+      "choices": {
+        "A": "Every device in this indicated group is portable.",
+        "B": "Devices in general are never portable.",
+        "C": "Only one of these devices is portable.",
+        "D": "All portable items are devices."
+      },
+      "correctAnswer": "A",
+      "translationJa": "ここに示された装置はすべて携帯可能です。",
+      "explanationJa": "all of theseは指示で限定された集合の全構成員を表します。",
+      "focus": "all of theseの意味",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0095_Q30",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"Maya told Rina that Maya had the key.\"",
+      "choices": {
+        "A": "The pronoun makes the owner deliberately unclear.",
+        "B": "Rina definitely had the key.",
+        "C": "Both women had separate keys.",
+        "D": "The repeated name makes clear that Maya, not Rina, had the key."
+      },
+      "correctAnswer": "D",
+      "translationJa": "名前を繰り返すことで、鍵を持っていたのがリナではなくマヤだと明確になります。",
+      "explanationJa": "同じ性の二人がいる場面では曖昧なsheを避け、名詞を繰り返せます。",
+      "focus": "曖昧な代名詞を避ける意味",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0095_Q31",
+      "format": "context-completion",
+      "prompt": "The catalog contains hundreds of products. Most ------- can be ordered online.",
+      "choices": {
+        "A": "of products",
+        "B": "of product",
+        "C": "products",
+        "D": "product"
+      },
+      "correctAnswer": "C",
+      "translationJa": "カタログには数百の商品があり、ほとんどの商品はオンラインで注文できます。",
+      "explanationJa": "商品一般として集合全体を新たに限定しないためmost＋複数productsです。",
+      "focus": "文脈上のmost＋裸複数",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0095_Q32",
+      "format": "context-completion",
+      "prompt": "The manager highlighted ten products on this page. Most ------- them are currently in stock.",
+      "choices": {
+        "A": "from",
+        "B": "of",
+        "C": "at",
+        "D": "by"
+      },
+      "correctAnswer": "B",
+      "translationJa": "部長はこのページの商品を10点選びました。その大半は現在在庫があります。",
+      "explanationJa": "前文で特定されたthemの大半をmost of themで表します。",
+      "focus": "文脈上のmost of them",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0095_Q33",
+      "format": "context-completion",
+      "prompt": "Our department has eight interns. Some of ------- work remotely on Fridays.",
+      "choices": {
+        "A": "they",
+        "B": "their",
+        "C": "theirs",
+        "D": "them"
+      },
+      "correctAnswer": "D",
+      "translationJa": "私たちの部署には研修生が8人おり、そのうち何人かは金曜日に在宅勤務をします。",
+      "explanationJa": "前置詞ofの後ろで既出の複数internsを受ける目的格themが必要です。",
+      "focus": "some of them",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0095_Q34",
+      "format": "context-completion",
+      "prompt": "The client sent three reference photos. None of ------- was large enough for printing.",
+      "choices": {
+        "A": "them",
+        "B": "they",
+        "C": "their",
+        "D": "theirs"
+      },
+      "correctAnswer": "A",
+      "translationJa": "顧客は参考写真を3枚送りましたが、印刷に十分な大きさのものは一枚もありませんでした。",
+      "explanationJa": "特定の三写真をnone of themで受け、標準的な単数動詞wasを使います。",
+      "focus": "none of them＋単数動詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0095_Q35",
+      "format": "context-completion",
+      "prompt": "Mr. Ortiz prepared the agenda. ------- emailed it to all participants before lunch.",
+      "choices": {
+        "A": "Him",
+        "B": "His",
+        "C": "He",
+        "D": "It"
+      },
+      "correctAnswer": "C",
+      "translationJa": "オルティスさんが議題を用意し、昼食前に参加者全員へメールで送りました。",
+      "explanationJa": "既出の男性Mr. Ortizを次文の主語で受けるHeが適切です。",
+      "focus": "男性を受けるhe",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0095_Q36",
+      "format": "context-completion",
+      "prompt": "The reservation includes breakfast. ------- can be canceled without a fee until Monday.",
+      "choices": {
+        "A": "They",
+        "B": "It",
+        "C": "Them",
+        "D": "Its"
+      },
+      "correctAnswer": "B",
+      "translationJa": "その予約には朝食が含まれ、月曜日までは無料で取り消せます。",
+      "explanationJa": "単数reservationを次文の主語で受けるItを使います。",
+      "focus": "単数物を受けるit",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0095_Q37",
+      "format": "context-completion",
+      "prompt": "The replacement parts reached the warehouse. ------- will be inspected this afternoon.",
+      "choices": {
+        "A": "They",
+        "B": "It",
+        "C": "Them",
+        "D": "Their"
+      },
+      "correctAnswer": "A",
+      "translationJa": "交換部品が倉庫に届き、今日の午後に検査されます。",
+      "explanationJa": "複数partsを主語で受けるTheyが適切です。",
+      "focus": "複数物を受けるthey",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0095_Q38",
+      "format": "context-completion",
+      "prompt": "Four of the applicants completed the task. Two of ------- submitted additional notes.",
+      "choices": {
+        "A": "they",
+        "B": "their",
+        "C": "theirs",
+        "D": "them"
+      },
+      "correctAnswer": "D",
+      "translationJa": "応募者のうち4人が課題を終え、そのうち2人は追加メモも提出しました。",
+      "explanationJa": "既知の複数applicantsをtwo of themで受けます。",
+      "focus": "two of themの連鎖",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0095_Q39",
+      "format": "context-completion",
+      "prompt": "The office owns six printers, but only one of ------- supports color printing.",
+      "choices": {
+        "A": "they",
+        "B": "them",
+        "C": "their",
+        "D": "theirs"
+      },
+      "correctAnswer": "B",
+      "translationJa": "事務所にはプリンターが6台ありますが、カラー印刷対応はそのうち1台だけです。",
+      "explanationJa": "特定集合six printersから一台をone of themで選びます。",
+      "focus": "one of them",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0095_Q40",
+      "format": "context-completion",
+      "prompt": "Ms. Ito met Ms. Kaur at reception. Later, ------- introduced the visitor to the director.",
+      "choices": {
+        "A": "she",
+        "B": "her",
+        "C": "Ms. Ito",
+        "D": "they"
+      },
+      "correctAnswer": "C",
+      "translationJa": "伊藤さんは受付でカウルさんに会い、その後、伊藤さんが来訪者を部長に紹介しました。",
+      "explanationJa": "女性が二人いるためsheでは指示対象が曖昧です。意図するMs. Itoを繰り返します。",
+      "focus": "文脈での代名詞曖昧性回避",
+      "difficulty": "advanced"
+    }
+  ]
+}
