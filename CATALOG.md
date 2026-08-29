@@ -11,7 +11,7 @@
 | 3 | 英語の4つの地図 | [PAGE_0003](pages/PAGE_0003.webp) | [原稿](source-prompts/PAGE_0003.txt) | [40問](question-sets/PAGE_0003.json) |
 | 4 | 並び方で意味が決まる | [PAGE_0004](pages/PAGE_0004.webp) | [原稿](source-prompts/PAGE_0004.txt) | [40問](question-sets/PAGE_0004.json) |
 | 5 | 文は4本のレールを走る | [PAGE_0005](pages/PAGE_0005.webp) | [原稿](source-prompts/PAGE_0005.txt) | [40問](question-sets/PAGE_0005.json) |
-| 6 | 前はしぼる　後ろは説明 | [PAGE_0006](pages/PAGE_0006.webp) | [原稿](source-prompts/PAGE_0006.txt) | `pending` |
+| 6 | 前はしぼる　後ろは説明 | [PAGE_0006](pages/PAGE_0006.webp) | [原稿](source-prompts/PAGE_0006.txt) | [40問](question-sets/PAGE_0006.json) |
 | 7 | 前に置いて、意味をしぼる | [PAGE_0007](pages/PAGE_0007.webp) | [原稿](source-prompts/PAGE_0007.txt) | `pending` |
 | 8 | 後ろへ、情報を足していく | [PAGE_0008](pages/PAGE_0008.webp) | [原稿](source-prompts/PAGE_0008.txt) | `pending` |
 | 9 | 文の穴が、名詞を呼ぶ | [PAGE_0009](pages/PAGE_0009.webp) | [原稿](source-prompts/PAGE_0009.txt) | `pending` |
