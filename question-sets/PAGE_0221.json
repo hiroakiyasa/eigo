@@ -1,0 +1,672 @@
+{
+  "schemaVersion": 1,
+  "page": {
+    "number": 221,
+    "id": "grammar-master-0221",
+    "title": "文を説明する-ingの上級技",
+    "image": "pages/PAGE_0221.webp",
+    "sourcePrompt": "source-prompts/PAGE_0221.txt"
+  },
+  "analysis": {
+    "summaryJa": "文を説明する-ing句は文末・文頭・名詞のそばに置いて焦点を変えられる。通常は主節主語が動作主だが、異なる場合は-ing側にも独立した主語を置く。主節より前に完了した行為はHaving＋過去分詞で時間差を明示する。",
+    "grammarPoints": [
+      "文末・文頭・名詞のそばに置く-ing句の焦点差",
+      "独立分詞構文で-ing側の別主語を明示する形",
+      "Having＋過去分詞による先行完了",
+      "Having been＋過去分詞による受動の先行完了"
+    ],
+    "visualEvidence": [
+      "画像の主文列車に-ing場面車両が接続し、3つの配置が示される",
+      "guideとchildrenの別トラックでthe children waitingの独立主語が明示される",
+      "Having packed→we leftの2段タイムラインが前後関係を表す"
+    ],
+    "commonTraps": [
+      "別の動作主なのに-ing側の主語を省略する",
+      "主節と同時の動作にHaving＋過去分詞を使う",
+      "先に完了した行為を単純-ingだけで曖昧にする",
+      "名詞のそばの挿入句がどの名詞を説明するかを誤る"
+    ]
+  },
+  "questions": [
+    {
+      "id": "PAGE_0221_Q01",
+      "format": "part5-cloze",
+      "prompt": "------- the final figures, the analyst sent the report.",
+      "choices": {
+        "A": "Checking after",
+        "B": "Having check",
+        "C": "Having checked",
+        "D": "Checked having"
+      },
+      "correctAnswer": "C",
+      "translationJa": "最終数値を確認し終えてから、分析担当者は報告書を送りました。",
+      "explanationJa": "確認が送信より先に完了したためHaving checkedを使います。",
+      "focus": "Having＋過去分詞の先行完了",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0221_Q02",
+      "format": "part5-cloze",
+      "prompt": "The alarm sounded, ------- toward the emergency exit.",
+      "choices": {
+        "A": "employees moving",
+        "B": "moving",
+        "C": "employees moved",
+        "D": "to move employees"
+      },
+      "correctAnswer": "A",
+      "translationJa": "警報が鳴り、従業員は非常口へ移動しました。",
+      "explanationJa": "鳴る主語alarmと移動する主語employeesが異なるため、-ing側にemployeesを明示します。",
+      "focus": "別主語の独立分詞構文",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0221_Q03",
+      "format": "part5-cloze",
+      "prompt": "Ms. Carter, ------- a stack of invoices, entered the meeting room.",
+      "choices": {
+        "A": "carried",
+        "B": "to carry",
+        "C": "having carry",
+        "D": "carrying"
+      },
+      "correctAnswer": "D",
+      "translationJa": "請求書の束を運びながら、カーターさんは会議室に入りました。",
+      "explanationJa": "名詞Ms. Carterのそばのcarrying句がその人の同時動作を直接説明します。",
+      "focus": "名詞のそばの挿入-ing",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0221_Q04",
+      "format": "part5-cloze",
+      "prompt": "------- the contract, both parties began the implementation phase.",
+      "choices": {
+        "A": "Signing after",
+        "B": "Having signed",
+        "C": "Having sign",
+        "D": "Signed having"
+      },
+      "correctAnswer": "B",
+      "translationJa": "契約に署名し終えてから、双方は実施段階を開始しました。",
+      "explanationJa": "署名完了が開始より前なのでHaving signedで順序を示します。",
+      "focus": "能動の完了分詞構文",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0221_Q05",
+      "format": "part5-cloze",
+      "prompt": "The presentation ended, ------- questions in the chat unanswered.",
+      "choices": {
+        "A": "several",
+        "B": "answering several",
+        "C": "several answered",
+        "D": "to several"
+      },
+      "correctAnswer": "A",
+      "translationJa": "発表が終わりましたが、チャット内の複数の質問は未回答のままでした。",
+      "explanationJa": "several questions unansweredは独立した主語＋補語で、主節と別の状態を加えます。",
+      "focus": "独立主語＋補語の付帯状況",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0221_Q06",
+      "format": "part5-cloze",
+      "prompt": "------- by the director, the budget was distributed to managers.",
+      "choices": {
+        "A": "Having approved",
+        "B": "Being approve",
+        "C": "Having been approved",
+        "D": "Approved having been"
+      },
+      "correctAnswer": "C",
+      "translationJa": "部長に承認された後、予算は管理職へ配布されました。",
+      "explanationJa": "予算は承認される側で、その完了が配布より前なのでHaving been approvedです。",
+      "focus": "受動の完了分詞構文",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0221_Q07",
+      "format": "part5-cloze",
+      "prompt": "The delivery truck left the yard, ------- in the light rain.",
+      "choices": {
+        "A": "flashing its warning lights were",
+        "B": "its warning lights flashing",
+        "C": "its warning lights flashed",
+        "D": "to flash its warning lights"
+      },
+      "correctAnswer": "B",
+      "translationJa": "配送トラックは、警告灯を点滅させながら構内を出ました。",
+      "explanationJa": "flashingの主語its warning lightsを明示した独立分詞構文です。",
+      "focus": "所有限定詞付き独立主語",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0221_Q08",
+      "format": "part5-cloze",
+      "prompt": "------- any confirmation, we postponed the installation.",
+      "choices": {
+        "A": "Having not receive",
+        "B": "Not received having",
+        "C": "Not receiving after",
+        "D": "Not having received"
+      },
+      "correctAnswer": "D",
+      "translationJa": "確認を受け取っていなかったため、設置を延期しました。",
+      "explanationJa": "受領なしが延期判断より前なのでNot having receivedを用います。",
+      "focus": "完了分詞構文の否定",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0221_Q09",
+      "format": "part5-cloze",
+      "prompt": "The consultants, ------- quietly near the window, reviewed the revised plan.",
+      "choices": {
+        "A": "sat",
+        "B": "to sit",
+        "C": "sitting",
+        "D": "having sit"
+      },
+      "correctAnswer": "C",
+      "translationJa": "窓際に静かに座りながら、コンサルタントたちは修正案を確認しました。",
+      "explanationJa": "名詞直後の挿入sitting句がconsultantsの同時状態を説明します。",
+      "focus": "名詞そばの-ing挿入",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0221_Q10",
+      "format": "part5-cloze",
+      "prompt": "-------, the outdoor reception will begin at six.",
+      "choices": {
+        "A": "Permitting weather is",
+        "B": "Weather permitted it",
+        "C": "Having permit weather",
+        "D": "Weather permitting"
+      },
+      "correctAnswer": "D",
+      "translationJa": "天候が許せば、屋外レセプションは6時に始まります。",
+      "explanationJa": "weatherはpermittingの独立した主語で、主節主語receptionとは別です。",
+      "focus": "独立分詞構文weather permitting",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0221_Q11",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence showing one person doing both actions.",
+      "choices": {
+        "A": "The manager left the office, her laptop carrying.",
+        "B": "The manager left the office carrying her laptop.",
+        "C": "Carrying her laptop, the office was left by the manager it.",
+        "D": "The manager carrying left her laptop the office."
+      },
+      "correctAnswer": "B",
+      "translationJa": "部長はノートパソコンを持って事務所を出ました。",
+      "explanationJa": "leftとcarryingの動作主はmanagerで一致しています。",
+      "focus": "同一主語の文末-ing",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0221_Q12",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence with an -ing phrase beside its noun.",
+      "choices": {
+        "A": "Mr. Khan, spoken calmly, explained the delay.",
+        "B": "Speaking calmly, the delay was explained by Mr. Khan it.",
+        "C": "Mr. Khan speaking, calmly the delay explained.",
+        "D": "Mr. Khan, speaking calmly, explained the delay."
+      },
+      "correctAnswer": "D",
+      "translationJa": "カーンさんは落ち着いて話しながら遅延を説明しました。",
+      "explanationJa": "speaking calmlyをMr. Khanの直後に挿入し、その人の動作として示します。",
+      "focus": "名詞直後の挿入分詞句",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0221_Q13",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that clearly gives the -ing action a different subject.",
+      "choices": {
+        "A": "The meeting ended, the participants leaving in small groups.",
+        "B": "The meeting ended, leaving in small groups.",
+        "C": "The meeting ended, the participants left in small groups were.",
+        "D": "The meeting leaving, participants ended in small groups."
+      },
+      "correctAnswer": "A",
+      "translationJa": "会議が終わり、参加者は小グループごとに退出しました。",
+      "explanationJa": "endの主語meetingとleaveの主語participantsが異なるため後者を明示します。",
+      "focus": "独立分詞構文の別主語",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0221_Q14",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence showing an earlier completed action.",
+      "choices": {
+        "A": "Reviewing the application after, Ms. Cole scheduled an interview.",
+        "B": "Having review the application, Ms. Cole scheduled an interview.",
+        "C": "Having reviewed the application, Ms. Cole scheduled an interview.",
+        "D": "The application having reviewed, Ms. Cole scheduled an interview."
+      },
+      "correctAnswer": "C",
+      "translationJa": "応募書類を確認し終えてから、コールさんは面接を設定しました。",
+      "explanationJa": "review完了がscheduleより先なのでHaving reviewedです。",
+      "focus": "完了分詞構文",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0221_Q15",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence with a passive earlier event.",
+      "choices": {
+        "A": "Having repaired, the elevator passed the inspection.",
+        "B": "Having been repair, the elevator passed the inspection.",
+        "C": "Been having repaired, the elevator passed the inspection.",
+        "D": "Having been repaired, the elevator passed the inspection."
+      },
+      "correctAnswer": "D",
+      "translationJa": "修理された後、エレベーターは検査に合格しました。",
+      "explanationJa": "elevatorは修理される側なのでHaving been repairedを使います。",
+      "focus": "受動完了分詞構文",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0221_Q16",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence with weather as an independent subject.",
+      "choices": {
+        "A": "Permitting weather, the team will inspect the roof tomorrow.",
+        "B": "Weather permitting, the team will inspect the roof tomorrow.",
+        "C": "Weather permitted, the roof will inspect the team tomorrow.",
+        "D": "Weather permitting it, the team will inspect tomorrow the roof."
+      },
+      "correctAnswer": "B",
+      "translationJa": "天候が許せば、チームは明日屋根を検査します。",
+      "explanationJa": "weatherがpermittingの主語で、主節主語teamとは独立しています。",
+      "focus": "weather permitting",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0221_Q17",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct negative perfect participle sentence.",
+      "choices": {
+        "A": "Having not receive payment, the supplier held the order.",
+        "B": "Not received having payment, the supplier held the order.",
+        "C": "Not having received payment, the supplier held the order.",
+        "D": "Not having payment received it, the order held the supplier."
+      },
+      "correctAnswer": "C",
+      "translationJa": "支払いを受け取っていなかったため、仕入先は注文を保留しました。",
+      "explanationJa": "notはHavingの前に置き、receiveの過去分詞receivedを用います。",
+      "focus": "Not having＋過去分詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0221_Q18",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence with a clearly stated subject for each action.",
+      "choices": {
+        "A": "The lights went out, customers using their phones to see.",
+        "B": "The lights went out, using their phones to see.",
+        "C": "The lights using their phones, customers went out.",
+        "D": "Customers went the lights out, using to see phones."
+      },
+      "correctAnswer": "A",
+      "translationJa": "照明が消え、顧客は見るために携帯電話を使いました。",
+      "explanationJa": "go outの主語lightsとuseの主語customersが異なるため両方を示します。",
+      "focus": "異主語の独立-ing構文",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0221_Q19",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence placing an -ing scene at the beginning.",
+      "choices": {
+        "A": "Crossing the warehouse floor, a forklift alarm heard me.",
+        "B": "Crossed the warehouse floor, I hearing a forklift alarm.",
+        "C": "Crossing, the warehouse floor I heard was an alarm.",
+        "D": "Crossing the warehouse floor, I heard a forklift alarm."
+      },
+      "correctAnswer": "D",
+      "translationJa": "倉庫のフロアを横切っていると、フォークリフトの警報が聞こえました。",
+      "explanationJa": "Crossingの動作主は主節主語Iで、場面を先に示します。",
+      "focus": "文頭-ingの劇的導入",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0221_Q20",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence combining completion and later departure.",
+      "choices": {
+        "A": "Completing the inventory count later, the staff had left for the day.",
+        "B": "Having complete the inventory count, the staff left for the day.",
+        "C": "Having completed the inventory count, the staff left for the day.",
+        "D": "The inventory having completed the staff, left for the day."
+      },
+      "correctAnswer": "C",
+      "translationJa": "在庫数の確認を終えてから、職員はその日の仕事を終えて帰りました。",
+      "explanationJa": "count完了→退出の順をHaving completedで明示します。",
+      "focus": "先行完了と主節の時間順",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0221_Q21",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"Having finished the audit, the team issued its findings.\"",
+      "choices": {
+        "A": "The team issued findings before starting the audit.",
+        "B": "The audit finished the team’s findings.",
+        "C": "The team never completed or reported the audit.",
+        "D": "After the team finished the audit, it issued its findings."
+      },
+      "correctAnswer": "D",
+      "translationJa": "監査を終えた後、チームは調査結果を発表しました。",
+      "explanationJa": "Having finishedは主節より前に完了した行為をafter節で表します。",
+      "focus": "完了分詞構文の節化",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0221_Q22",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The door opened, several guests entering at once.\"",
+      "choices": {
+        "A": "Several guests opened after the door entered.",
+        "B": "The door opened, and several guests entered at once.",
+        "C": "The door entered several guests.",
+        "D": "No guests came in when the door opened."
+      },
+      "correctAnswer": "B",
+      "translationJa": "ドアが開き、複数の来客が一斉に入りました。",
+      "explanationJa": "doorとguestsで動作主が異なり、独立主語several guestsが明示されています。",
+      "focus": "独立分詞構文の展開",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0221_Q23",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"Ms. Lane, holding the receipt, spoke to the clerk.\"",
+      "choices": {
+        "A": "The clerk held Ms. Lane while speaking to a receipt.",
+        "B": "Ms. Lane gave away the receipt before speaking.",
+        "C": "Ms. Lane held the receipt while she spoke to the clerk.",
+        "D": "The receipt spoke to the clerk."
+      },
+      "correctAnswer": "C",
+      "translationJa": "レーンさんは領収書を持ちながら係員に話しました。",
+      "explanationJa": "名詞そばのholding句はMs. Laneの同時動作です。",
+      "focus": "挿入-ing句の展開",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0221_Q24",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"Having been notified, all employees left the building.\"",
+      "choices": {
+        "A": "After all employees had been notified, they left the building.",
+        "B": "Employees notified the building after leaving.",
+        "C": "No employee received notice before leaving.",
+        "D": "The building left after notifying employees."
+      },
+      "correctAnswer": "A",
+      "translationJa": "通知を受けた後、全従業員が建物を退出しました。",
+      "explanationJa": "Having been notifiedは受動の先行完了を表します。",
+      "focus": "受動完了分詞の節化",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0221_Q25",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The presentation over, attendees moved to the lobby.\"",
+      "choices": {
+        "A": "The presentation moved attendees out of the lobby.",
+        "B": "After the presentation was over, attendees moved to the lobby.",
+        "C": "Attendees ended the lobby presentation later.",
+        "D": "The lobby was over the attendees."
+      },
+      "correctAnswer": "B",
+      "translationJa": "発表が終わると、参加者はロビーへ移動しました。",
+      "explanationJa": "presentationを独立主語とする状態句が主節の時間背景です。",
+      "focus": "独立主語＋状態の展開",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0221_Q26",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"Not having seen the update, I used the old form.\"",
+      "choices": {
+        "A": "I saw the update and avoided the old form.",
+        "B": "The old form updated itself before I used it.",
+        "C": "I used no form because the update was old.",
+        "D": "Because I had not seen the update, I used the old form."
+      },
+      "correctAnswer": "D",
+      "translationJa": "更新を見ていなかったため、古い用紙を使いました。",
+      "explanationJa": "Not having seenは主節以前の未経験を理由として示します。",
+      "focus": "否定完了分詞の理由",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0221_Q27",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The truck departed, its doors securely locked.\"",
+      "choices": {
+        "A": "The truck departed while its doors were securely locked.",
+        "B": "The doors departed after locking the truck.",
+        "C": "The truck left every door open.",
+        "D": "The driver locked the doors after the truck arrived."
+      },
+      "correctAnswer": "A",
+      "translationJa": "トラックはドアをしっかり施錠した状態で出発しました。",
+      "explanationJa": "its doorsが独立した主語で、lockedという付帯状態を示します。",
+      "focus": "独立主語＋過去分詞状態",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0221_Q28",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"Having compared all bids, we selected Arlo Services.\"",
+      "choices": {
+        "A": "We selected a bid before making any comparison.",
+        "B": "Arlo Services compared us with every bidder.",
+        "C": "We selected Arlo Services after comparing all bids.",
+        "D": "All bids were selected without review."
+      },
+      "correctAnswer": "C",
+      "translationJa": "すべての入札を比較した後、アルロ・サービスを選びました。",
+      "explanationJa": "Having comparedは選定より前の完了行為です。",
+      "focus": "Having＋過去分詞の時間順",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0221_Q29",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The guests, waiting patiently, remained near reception.\"",
+      "choices": {
+        "A": "The guests remained near reception while they waited patiently.",
+        "B": "Reception waited for the guests elsewhere.",
+        "C": "The guests left because they were impatient.",
+        "D": "Patience moved reception near the guests."
+      },
+      "correctAnswer": "A",
+      "translationJa": "来客は辛抱強く待ちながら受付近くにいました。",
+      "explanationJa": "名詞直後のwaiting句はguestsの同時動作を挿入しています。",
+      "focus": "名詞そばの-ing説明",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0221_Q30",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"Business permitting, Mr. Fox will extend his trip.\"",
+      "choices": {
+        "A": "Mr. Fox will extend every business trip unconditionally.",
+        "B": "If his business obligations permit, Mr. Fox will extend his trip.",
+        "C": "The trip will permit Mr. Fox’s business.",
+        "D": "Business ended because Mr. Fox traveled."
+      },
+      "correctAnswer": "B",
+      "translationJa": "仕事の都合がつけば、フォックスさんは旅行を延長します。",
+      "explanationJa": "businessを独立主語とするpermitting句はif条件に近い意味です。",
+      "focus": "独立分詞構文の条件意味",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0221_Q31",
+      "format": "context-completion",
+      "prompt": "The analyst completed a final data check at noon. ------- every figure, she sent the forecast.",
+      "choices": {
+        "A": "Verifying after",
+        "B": "Having verify",
+        "C": "Having verified",
+        "D": "Verified having"
+      },
+      "correctAnswer": "C",
+      "translationJa": "分析担当者は正午に最終データ確認を終えました。全数値を検証してから予測を送りました。",
+      "explanationJa": "検証完了が送信より先なのでHaving verifiedを使います。",
+      "focus": "先行完了",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0221_Q32",
+      "format": "context-completion",
+      "prompt": "The bell rang at the end of the seminar, ------- toward the exits.",
+      "choices": {
+        "A": "participants moving",
+        "B": "moving",
+        "C": "participants moved",
+        "D": "to move participants"
+      },
+      "correctAnswer": "A",
+      "translationJa": "セミナー終了時にベルが鳴り、参加者は出口へ移動しました。",
+      "explanationJa": "ringの主語bellとmoveの主語participantsが異なるため明示します。",
+      "focus": "別主語の独立分詞",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0221_Q33",
+      "format": "context-completion",
+      "prompt": "Mr. Green approached the counter. Mr. Green, ------- a claim form, asked for assistance.",
+      "choices": {
+        "A": "held",
+        "B": "to hold",
+        "C": "having hold",
+        "D": "holding"
+      },
+      "correctAnswer": "D",
+      "translationJa": "グリーンさんは窓口へ近づきました。請求用紙を持ちながら支援を求めました。",
+      "explanationJa": "holding句はMr. Greenの直後でその人の同時動作を説明します。",
+      "focus": "名詞直後の-ing挿入",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0221_Q34",
+      "format": "context-completion",
+      "prompt": "The equipment passed a second test. -------, it was returned to production.",
+      "choices": {
+        "A": "Having recalibrated",
+        "B": "Having been recalibrated",
+        "C": "Being recalibrate",
+        "D": "Recalibrated having"
+      },
+      "correctAnswer": "B",
+      "translationJa": "機器は2回目の試験に合格しました。再校正された後、生産現場へ戻されました。",
+      "explanationJa": "equipmentは再校正される側で、その完了が返却より前です。",
+      "focus": "受動完了分詞構文",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0221_Q35",
+      "format": "context-completion",
+      "prompt": "The power failed during the call, ------- from the video meeting.",
+      "choices": {
+        "A": "disconnecting",
+        "B": "several employees disconnected were",
+        "C": "several employees disconnecting",
+        "D": "to disconnect several employees"
+      },
+      "correctAnswer": "C",
+      "translationJa": "通話中に停電し、複数の従業員がビデオ会議から切断されました。",
+      "explanationJa": "failの主語powerとdisconnectの主語employeesが異なるため独立主語が必要です。",
+      "focus": "異主語の-ing場面",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0221_Q36",
+      "format": "context-completion",
+      "prompt": "We still lacked the client’s signature Friday morning. ------- it, we delayed the shipment.",
+      "choices": {
+        "A": "Not having received",
+        "B": "Having not receive",
+        "C": "Not received having",
+        "D": "Not receiving after"
+      },
+      "correctAnswer": "A",
+      "translationJa": "金曜朝の時点でも顧客の署名がありませんでした。それを受け取っていなかったため配送を延期しました。",
+      "explanationJa": "未受領が延期より前の理由なのでNot having receivedです。",
+      "focus": "否定の完了分詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0221_Q37",
+      "format": "context-completion",
+      "prompt": "The loading dock was quiet, ------- outside with their engines off.",
+      "choices": {
+        "A": "waiting",
+        "B": "three trucks waiting",
+        "C": "three trucks waited",
+        "D": "to wait three trucks"
+      },
+      "correctAnswer": "B",
+      "translationJa": "搬入口は静かで、トラック3台がエンジンを切って外で待っていました。",
+      "explanationJa": "waitingの独立主語three trucksを示し、dockとは別の場面を足します。",
+      "focus": "独立主語＋-ing",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0221_Q38",
+      "format": "context-completion",
+      "prompt": "All approval emails arrived by noon. ------- them, the coordinator released the order.",
+      "choices": {
+        "A": "Reviewing after",
+        "B": "Having review",
+        "C": "Reviewed having",
+        "D": "Having reviewed"
+      },
+      "correctAnswer": "D",
+      "translationJa": "正午までに承認メールがすべて届きました。確認し終えてから、担当者は注文を確定しました。",
+      "explanationJa": "reviewの完了後にreleaseした時間順をHaving reviewedで表します。",
+      "focus": "完了分詞の時系列",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0221_Q39",
+      "format": "context-completion",
+      "prompt": "The outdoor product demonstration is planned for Saturday. -------, it will begin at ten.",
+      "choices": {
+        "A": "Weather permitting",
+        "B": "Permitting weather it",
+        "C": "Weather permitted it",
+        "D": "Having permit weather"
+      },
+      "correctAnswer": "A",
+      "translationJa": "屋外製品実演は土曜日の予定です。天候が許せば10時に始まります。",
+      "explanationJa": "weatherがpermittingの主語となる独立条件表現です。",
+      "focus": "weather permittingの条件",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0221_Q40",
+      "format": "context-completion",
+      "prompt": "The director entered the hall. The director, ------- to both sides, greeted the assembled staff.",
+      "choices": {
+        "A": "waved",
+        "B": "waving",
+        "C": "to wave",
+        "D": "having wave"
+      },
+      "correctAnswer": "B",
+      "translationJa": "部長がホールに入りました。両側に手を振りながら、集まった職員に挨拶しました。",
+      "explanationJa": "waving句をdirectorのそばに置き、その人の同時動作を明確にします。",
+      "focus": "配置による名詞への直接説明",
+      "difficulty": "advanced"
+    }
+  ]
+}
