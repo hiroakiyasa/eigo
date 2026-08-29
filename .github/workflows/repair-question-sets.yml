@@ -1,4 +1,4 @@
-name: Rebuild malformed question sets 0036-0039
+name: Rebuild malformed question sets 0040-0043
 on:
   push:
     paths:
@@ -22,11 +22,10 @@ jobs:
           function extractObjects(s){const qpos=s.indexOf('"questions":[');let i=s.indexOf('[',qpos)+1,out=[];while(i<s.length){while(i<s.length&&/[\s,]/.test(s[i]))i++;if(s[i]!=='{')break;const st=i;let d=0,str=false,esc=false,done=false;for(;i<s.length;i++){const c=s[i];if(str){if(esc)esc=false;else if(c==='\\')esc=true;else if(c==='"')str=false;continue;}if(c==='"'){str=true;continue;}if(c==='{')d++;else if(c==='}'){d--;if(d===0){out.push(JSON.parse(s.slice(st,i+1)));i++;done=true;break;}}}if(!done)break;}return out;}
           const answerTargets={'part5-cloze':['A','B','C','D','A','B','C','D','A','B'],'correct-sentence':['C','D','A','B','C','D','A','B','C','D'],'meaning-equivalent':['A','B','C','D','A','B','C','D','A','C'],'context-completion':['D','C','B','A','D','C','B','A','D','B']};
           const diffTargets={'part5-cloze':['basic','basic','basic','intermediate','intermediate','intermediate','intermediate','intermediate','advanced','advanced'],'correct-sentence':['basic','basic','intermediate','intermediate','intermediate','intermediate','intermediate','advanced','advanced','advanced'],'meaning-equivalent':['basic','basic','basic','intermediate','intermediate','intermediate','intermediate','intermediate','advanced','advanced'],'context-completion':['basic','basic','intermediate','intermediate','intermediate','intermediate','intermediate','advanced','advanced','advanced']};
-          for(let n=36;n<=39;n++){
+          for(let n=40;n<=43;n++){
             const id=String(n).padStart(4,'0'),p=`question-sets/PAGE_${id}.json`,s=fs.readFileSync(p,'utf8'),qpos=s.indexOf('"questions":[');
             const base=JSON.parse(s.slice(0,qpos)+'"questions":[]}');
             base.questions=extractObjects(s).concat(JSON.parse(fs.readFileSync(`.repair/PAGE_${id}-tail.json`,'utf8')));
-            if(n===39){const q=base.questions.find(x=>x.id==='PAGE_0039_Q34');q.prompt='The receptionist heard ------- the evening train would depart from a different platform.';q.translationJa='受付担当者は夕方の列車が別のホームから出発すると聞きました。';}
             for(const f of Object.keys(answerTargets)){const qs=base.questions.filter(q=>q.format===f);if(qs.length!==10)throw new Error(`${id} ${f} count ${qs.length}`);qs.forEach((q,i)=>{const want=answerTargets[f][i],old=q.correctAnswer;if(old!==want){const t=q.choices[want];q.choices[want]=q.choices[old];q.choices[old]=t;q.correctAnswer=want;}q.difficulty=diffTargets[f][i];});}
             fs.writeFileSync(p,JSON.stringify(base,null,2)+'\n');
           }
@@ -34,12 +33,12 @@ jobs:
       - name: Validate rebuilt sets
         run: |
           set -euo pipefail
-          for n in $(seq 36 39); do node scripts/validate-question-set.mjs "question-sets/PAGE_$(printf '%04d' "$n").json"; done
+          for n in $(seq 40 43); do node scripts/validate-question-set.mjs "question-sets/PAGE_$(printf '%04d' "$n").json"; done
       - name: Commit repaired pages
         run: |
           git config user.name 'TRAIL FUSION AI'
           git config user.email 'hiroakiyasa@yahoo.co.jp'
-          git add question-sets/PAGE_{0036..0039}.json
-          git commit -m 'fix(questions): rebuild pages 0036 through 0039'
+          git add question-sets/PAGE_{0040..0043}.json
+          git commit -m 'fix(questions): rebuild pages 0040 through 0043'
           git pull --rebase origin main
           git push
