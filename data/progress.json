@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-29T05:11:43.715Z",
+  "updatedAt": "2026-08-29T05:12:03.763Z",
   "totalPages": 330,
-  "completedPages": 59,
+  "completedPages": 60,
   "questionsPerPage": 40,
   "totalPlannedQuestions": 13200,
   "pages": [
@@ -2442,9 +2442,9 @@
       "number": 305,
       "id": "grammar-master-0305",
       "title": "orは選択肢を開く",
-      "status": "pending",
+      "status": "complete",
       "output": "question-sets/PAGE_0305.json",
-      "completedAt": null
+      "completedAt": "2026-08-29T05:12:03.763Z"
     },
     {
       "number": 306,
