@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-29T05:22:41.521Z",
+  "updatedAt": "2026-08-29T05:23:02.395Z",
   "totalPages": 330,
-  "completedPages": 83,
+  "completedPages": 84,
   "questionsPerPage": 40,
   "totalPlannedQuestions": 13200,
   "pages": [
@@ -2010,9 +2010,9 @@
       "number": 251,
       "id": "grammar-master-0251",
       "title": "知りたい気持ちで倒置",
-      "status": "pending",
+      "status": "complete",
       "output": "question-sets/PAGE_0251.json",
-      "completedAt": null
+      "completedAt": "2026-08-29T05:23:02.395Z"
     },
     {
       "number": 252,

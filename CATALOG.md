@@ -296,7 +296,7 @@
 
 | ページ | タイトル | 画像 | 制作原稿 | 問題 |
 |---:|---|---|---|---|
-| 251 | 知りたい気持ちで倒置 | [PAGE_0251](pages/PAGE_0251.webp) | [原稿](source-prompts/PAGE_0251.txt) | `pending` |
+| 251 | 知りたい気持ちで倒置 | [PAGE_0251](pages/PAGE_0251.webp) | [原稿](source-prompts/PAGE_0251.txt) | [40問](question-sets/PAGE_0251.json) |
 | 252 | doを補い、beは前へ | [PAGE_0252](pages/PAGE_0252.webp) | [原稿](source-prompts/PAGE_0252.txt) | `pending` |
 | 253 | 軽く答え、ないの？と聞く | [PAGE_0253](pages/PAGE_0253.webp) | [原稿](source-prompts/PAGE_0253.txt) | `pending` |
 | 254 | 文末にちょこっと確認 | [PAGE_0254](pages/PAGE_0254.webp) | [原稿](source-prompts/PAGE_0254.txt) | `pending` |
