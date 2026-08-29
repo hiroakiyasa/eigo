@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-29T04:19:34.828Z",
+  "updatedAt": "2026-08-29T04:57:20.326Z",
   "totalPages": 330,
-  "completedPages": 52,
+  "completedPages": 53,
   "questionsPerPage": 40,
   "totalPlannedQuestions": 13200,
   "pages": [
@@ -434,9 +434,9 @@
       "number": 54,
       "id": "grammar-master-0054",
       "title": "置く・得る・与える",
-      "status": "pending",
+      "status": "complete",
       "output": "question-sets/PAGE_0054.json",
-      "completedAt": null
+      "completedAt": "2026-08-29T04:57:20.326Z"
     },
     {
       "number": 55,
