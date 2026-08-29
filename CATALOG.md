@@ -145,7 +145,7 @@
 | 122 | 副詞を重ねる基本ルート | [PAGE_0122](pages/PAGE_0122.webp) | [原稿](source-prompts/PAGE_0122.txt) | `pending` |
 | 123 | 副詞はどこを照らす？ | [PAGE_0123](pages/PAGE_0123.webp) | [原稿](source-prompts/PAGE_0123.txt) | `pending` |
 | 124 | 位置で変わる限定と程度 | [PAGE_0124](pages/PAGE_0124.webp) | [原稿](source-prompts/PAGE_0124.txt) | [40問](question-sets/PAGE_0124.json) |
-| 125 | 程度と頻度をものさしで見る | [PAGE_0125](pages/PAGE_0125.webp) | [原稿](source-prompts/PAGE_0125.txt) | `pending` |
+| 125 | 程度と頻度をものさしで見る | [PAGE_0125](pages/PAGE_0125.webp) | [原稿](source-prompts/PAGE_0125.txt) | [40問](question-sets/PAGE_0125.json) |
 | 126 | 長い副詞句と頻度のニュアンス | [PAGE_0126](pages/PAGE_0126.webp) | [原稿](source-prompts/PAGE_0126.txt) | `pending` |
 | 127 | 回数と確からしさを表す | [PAGE_0127](pages/PAGE_0127.webp) | [原稿](source-prompts/PAGE_0127.txt) | `pending` |
 | 128 | 文全体へのひとこと | [PAGE_0128](pages/PAGE_0128.webp) | [原稿](source-prompts/PAGE_0128.txt) | `pending` |
@@ -244,7 +244,7 @@
 | 206 | whichで“どのもの？”を説明 | [PAGE_0206](pages/PAGE_0206.webp) | [原稿](source-prompts/PAGE_0206.txt) | `pending` |
 | 207 | 目的語なら省略できる、主語なら必要 | [PAGE_0207](pages/PAGE_0207.webp) | [原稿](source-prompts/PAGE_0207.txt) | `pending` |
 | 208 | thatは、選ばずスムーズにつなぐ | [PAGE_0208](pages/PAGE_0208.webp) | [原稿](source-prompts/PAGE_0208.txt) | [40問](question-sets/PAGE_0208.json) |
-| 209 | カンマの注釈とwhereの場所案内 | [PAGE_0209](pages/PAGE_0209.webp) | [原稿](source-prompts/PAGE_0209.txt) | `pending` |
+| 209 | カンマの注釈とwhereの場所案内 | [PAGE_0209](pages/PAGE_0209.webp) | [原稿](source-prompts/PAGE_0209.txt) | [40問](question-sets/PAGE_0209.json) |
 | 210 | where・when・whyで背景を説明 | [PAGE_0210](pages/PAGE_0210.webp) | [原稿](source-prompts/PAGE_0210.txt) | `pending` |
 | 211 | wh語なしでも後ろから説明 | [PAGE_0211](pages/PAGE_0211.webp) | [原稿](source-prompts/PAGE_0211.txt) | `pending` |
 | 212 | 文の奥の空所を探す | [PAGE_0212](pages/PAGE_0212.webp) | [原稿](source-prompts/PAGE_0212.txt) | `pending` |
