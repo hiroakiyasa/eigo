@@ -1,0 +1,672 @@
+{
+  "schemaVersion": 1,
+  "page": {
+    "number": 219,
+    "id": "grammar-master-0219",
+    "title": "前の-ingは種類、後ろは動き",
+    "image": "pages/PAGE_0219.webp",
+    "sourcePrompt": "source-prompts/PAGE_0219.txt"
+  },
+  "analysis": {
+    "summaryJa": "名詞の前の-ingは用途・種類・目立つ特徴を短いラベルとして分類し、名詞の後ろや目的語の後ろの-ing句は特定の人・物が実際にしている動作場面を映す。位置からラベルか映像かを判断する。",
+    "grammarPoints": [
+      "-ing＋名詞で用途・種類を表す複合名詞",
+      "名詞＋-ing句でその名詞の進行動作を説明する形",
+      "知覚動詞＋目的語＋-ing",
+      "主節末の-ing句による同時動作"
+    ],
+    "visualEvidence": [
+      "画像左はsleeping bagを分類ラベル、右はdog sleepingを動きの映像として描く",
+      "running shoeとchild running outsideの対比がある",
+      "sleeping bagはbag自体が眠る意味ではないという警告が示される"
+    ],
+    "commonTraps": [
+      "用途ラベルを名詞自身の進行動作と解釈する",
+      "名詞後ろの-ingの動作主を別の名詞に結び付ける",
+      "知覚動詞後の目的語と-ingの主述関係を逆にする",
+      "前置修飾と後置修飾の意味差を無視する"
+    ]
+  },
+  "questions": [
+    {
+      "id": "PAGE_0219_Q01",
+      "format": "part5-cloze",
+      "prompt": "The hotel added a new ------- area beside the lobby.",
+      "choices": {
+        "A": "waited",
+        "B": "wait",
+        "C": "waiting",
+        "D": "to wait"
+      },
+      "correctAnswer": "C",
+      "translationJa": "ホテルはロビー横に新しい待合スペースを設けました。",
+      "explanationJa": "waiting areaは「待つための場所」という用途ラベルです。",
+      "focus": "前置-ingの用途分類",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0219_Q02",
+      "format": "part5-cloze",
+      "prompt": "The customers ------- near the entrance have appointments.",
+      "choices": {
+        "A": "waiting",
+        "B": "waited",
+        "C": "wait",
+        "D": "to wait"
+      },
+      "correctAnswer": "A",
+      "translationJa": "入口近くで待っている顧客には予約があります。",
+      "explanationJa": "waiting near the entranceがcustomersの現在の動作を後ろから説明します。",
+      "focus": "名詞後ろの-ing動作",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0219_Q03",
+      "format": "part5-cloze",
+      "prompt": "Please place used cups in the ------- bin.",
+      "choices": {
+        "A": "recycled",
+        "B": "recycle",
+        "C": "to recycling",
+        "D": "recycling"
+      },
+      "correctAnswer": "D",
+      "translationJa": "使用済みカップはリサイクル用容器に入れてください。",
+      "explanationJa": "recycling binは用途を示す複合名詞で、binがリサイクルしている意味ではありません。",
+      "focus": "用途を表す-ing＋名詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0219_Q04",
+      "format": "part5-cloze",
+      "prompt": "We saw a technician ------- the damaged cable.",
+      "choices": {
+        "A": "replacement",
+        "B": "replacing",
+        "C": "replaced",
+        "D": "to replace"
+      },
+      "correctAnswer": "B",
+      "translationJa": "技術者が損傷ケーブルを交換しているのを見ました。",
+      "explanationJa": "replacingは目的語technicianの進行中の動作を映します。",
+      "focus": "see＋目的語＋-ing",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0219_Q05",
+      "format": "part5-cloze",
+      "prompt": "The ------- light above the door indicates an emergency.",
+      "choices": {
+        "A": "flashing",
+        "B": "flashed",
+        "C": "flash",
+        "D": "to flash"
+      },
+      "correctAnswer": "A",
+      "translationJa": "ドア上部の点滅灯は緊急事態を示します。",
+      "explanationJa": "flashingはlightの目立つ動的特徴を前から分類・限定します。",
+      "focus": "特徴ラベルの前置-ing",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0219_Q06",
+      "format": "part5-cloze",
+      "prompt": "Look at the indicator ------- above the service desk.",
+      "choices": {
+        "A": "flashed",
+        "B": "flash",
+        "C": "flashing",
+        "D": "to flashing"
+      },
+      "correctAnswer": "C",
+      "translationJa": "サービス窓口の上で点滅している表示灯を見てください。",
+      "explanationJa": "flashing above the deskは特定のindicatorの今の動作を後ろから説明します。",
+      "focus": "後置-ingの場面説明",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0219_Q07",
+      "format": "part5-cloze",
+      "prompt": "The company built a ------- facility for new employees.",
+      "choices": {
+        "A": "trained",
+        "B": "training",
+        "C": "train",
+        "D": "to trained"
+      },
+      "correctAnswer": "B",
+      "translationJa": "会社は新入社員向け研修施設を建設しました。",
+      "explanationJa": "training facilityは研修用の施設という種類・用途を表します。",
+      "focus": "training＋名詞の用途",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0219_Q08",
+      "format": "part5-cloze",
+      "prompt": "The instructor ------- new employees starts at nine.",
+      "choices": {
+        "A": "trained",
+        "B": "train",
+        "C": "to train",
+        "D": "training"
+      },
+      "correctAnswer": "D",
+      "translationJa": "新入社員を研修している講師は9時に始めます。",
+      "explanationJa": "training new employeesがinstructorの動作を後ろから説明します。",
+      "focus": "名詞後ろの現在分詞句",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0219_Q09",
+      "format": "part5-cloze",
+      "prompt": "Ms. Dean entered the conference room ------- a tray of drinks.",
+      "choices": {
+        "A": "carried",
+        "B": "carry",
+        "C": "carrying",
+        "D": "to carrying"
+      },
+      "correctAnswer": "C",
+      "translationJa": "ディーンさんは飲み物の盆を運びながら会議室に入りました。",
+      "explanationJa": "carrying句は主節主語Ms. Deanの同時動作を末尾で追加します。",
+      "focus": "文末-ingの同時動作",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0219_Q10",
+      "format": "part5-cloze",
+      "prompt": "The maintenance team ordered a ------- platform for the warehouse.",
+      "choices": {
+        "A": "lifted",
+        "B": "lift",
+        "C": "to lift",
+        "D": "lifting"
+      },
+      "correctAnswer": "D",
+      "translationJa": "保守チームは倉庫用の昇降台を注文しました。",
+      "explanationJa": "lifting platformは持ち上げる用途の装置を分類する複合名詞です。",
+      "focus": "用途ラベルとしての-ing",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0219_Q11",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about equipment used for scanning.",
+      "choices": {
+        "A": "The warehouse purchased a device scanning was.",
+        "B": "The warehouse purchased a scanning device.",
+        "C": "The warehouse purchased a scanned device for scan.",
+        "D": "The warehouse purchased a device scan."
+      },
+      "correctAnswer": "B",
+      "translationJa": "倉庫はスキャン装置を購入しました。",
+      "explanationJa": "scanning deviceはスキャン用途の装置という前置ラベルです。",
+      "focus": "前置-ing用途ラベル",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0219_Q12",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence describing a worker’s current action.",
+      "choices": {
+        "A": "The scanning worker the labels is new.",
+        "B": "The worker scanned the labels is new.",
+        "C": "The worker to scanning the labels is new.",
+        "D": "The worker scanning the labels is new."
+      },
+      "correctAnswer": "D",
+      "translationJa": "ラベルを読み取っている作業員は新人です。",
+      "explanationJa": "scanning the labelsがworkerの具体的動作を後ろから説明します。",
+      "focus": "後置-ing句",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0219_Q13",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence where -ing classifies a room by purpose.",
+      "choices": {
+        "A": "Please meet us in the training room.",
+        "B": "Please meet us in the room training is.",
+        "C": "Please meet us in the trained room employees.",
+        "D": "Please meet us training in room."
+      },
+      "correctAnswer": "A",
+      "translationJa": "研修室でお会いください。",
+      "explanationJa": "training roomは研修のための部屋という用途分類です。",
+      "focus": "複合名詞training room",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0219_Q14",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence after a perception verb.",
+      "choices": {
+        "A": "We watched the loading courier the van.",
+        "B": "We watched the courier loaded the van was.",
+        "C": "We watched the courier loading the van.",
+        "D": "We watched loading the van courier."
+      },
+      "correctAnswer": "C",
+      "translationJa": "私たちは配送員がバンに荷物を積む様子を見ました。",
+      "explanationJa": "courierがloadingの動作主、the vanがその目的語です。",
+      "focus": "watch＋目的語＋-ing",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0219_Q15",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence where -ing describes a visible characteristic.",
+      "choices": {
+        "A": "An icon blinking shows was the file unsaved.",
+        "B": "A blinked icon showing the file unsaved.",
+        "C": "A blink icon shows the file is unsaved.",
+        "D": "A blinking icon shows that the file is unsaved."
+      },
+      "correctAnswer": "D",
+      "translationJa": "点滅するアイコンはファイルが未保存であることを示します。",
+      "explanationJa": "blinkingはiconの目立つ動的特徴を前から限定します。",
+      "focus": "特徴を表す前置現在分詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0219_Q16",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence describing a specific icon’s action.",
+      "choices": {
+        "A": "The blinking in the corner icon indicates a warning.",
+        "B": "The icon blinking in the corner indicates a warning.",
+        "C": "The icon blinked in the corner indicates a warning.",
+        "D": "The icon to blinking in the corner indicates a warning."
+      },
+      "correctAnswer": "B",
+      "translationJa": "隅で点滅しているアイコンは警告を示しています。",
+      "explanationJa": "blinking in the cornerが特定のiconの今の動作を後ろから描きます。",
+      "focus": "後置現在分詞の場面",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0219_Q17",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence using -ing as a purpose label.",
+      "choices": {
+        "A": "The office installed a fountain drinking water itself.",
+        "B": "The office installed a drunk fountain.",
+        "C": "The office installed a drinking fountain.",
+        "D": "The office installed drinking a fountain."
+      },
+      "correctAnswer": "C",
+      "translationJa": "事務所は水飲み器を設置しました。",
+      "explanationJa": "drinking fountainは飲用の設備を表し、fountainが飲む意味ではありません。",
+      "focus": "用途を示す複合名詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0219_Q18",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence adding a simultaneous action.",
+      "choices": {
+        "A": "The presenter entered the stage smiling confidently.",
+        "B": "The presenter entered smiling the stage confidently it.",
+        "C": "Smiling confidently entered the stage the presenter.",
+        "D": "The presenter entered the stage smiled confidently."
+      },
+      "correctAnswer": "A",
+      "translationJa": "発表者は自信ありげに微笑みながら舞台に入りました。",
+      "explanationJa": "smilingは主節主語presenterの同時動作を文末で加えます。",
+      "focus": "文末-ingの動作主",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0219_Q19",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence contrasting a label with a scene correctly.",
+      "choices": {
+        "A": "The parked area contains a waiting for inspection truck.",
+        "B": "The parking area contains a waiting truck for inspect it.",
+        "C": "The area parking contains a truck waited inspection.",
+        "D": "The parking area contains a truck waiting for inspection."
+      },
+      "correctAnswer": "D",
+      "translationJa": "駐車区域には検査を待っているトラックがあります。",
+      "explanationJa": "parkingはareaの用途、waiting for inspectionはtruckの具体的動作です。",
+      "focus": "前置ラベルと後置場面の併用",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0219_Q20",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about people seen leaving.",
+      "choices": {
+        "A": "Security noticed two leaving visitors through side door it.",
+        "B": "Security noticed leaving through the side door two visitors.",
+        "C": "Security noticed two visitors leaving through the side door.",
+        "D": "Security noticed two visitors left through the side door were."
+      },
+      "correctAnswer": "C",
+      "translationJa": "警備員は来訪者2人が横のドアから出るのに気付きました。",
+      "explanationJa": "visitorsがleavingの動作主で、through句はその動きを説明します。",
+      "focus": "notice＋目的語＋-ing",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0219_Q21",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"We need a meeting room.\"",
+      "choices": {
+        "A": "We need a room that is currently meeting us.",
+        "B": "A room needs to meet our team.",
+        "C": "We need to meet every room.",
+        "D": "We need a room intended for meetings."
+      },
+      "correctAnswer": "D",
+      "translationJa": "会議用の部屋が必要です。",
+      "explanationJa": "meeting roomのmeetingは用途を分類し、room自体の動作ではありません。",
+      "focus": "前置-ingの用途意味",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0219_Q22",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The people waiting outside are applicants.\"",
+      "choices": {
+        "A": "The waiting area outside is for applicants.",
+        "B": "The people who are waiting outside are applicants.",
+        "C": "Applicants made the people wait inside.",
+        "D": "The people applied after everyone left."
+      },
+      "correctAnswer": "B",
+      "translationJa": "外で待っている人たちは応募者です。",
+      "explanationJa": "名詞後ろのwaiting句はwho are waitingという進行場面に展開できます。",
+      "focus": "後置-ingの関係節化",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0219_Q23",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"This is a cutting tool.\"",
+      "choices": {
+        "A": "This tool is being cut now.",
+        "B": "This tool cuts itself accidentally.",
+        "C": "This tool is used for cutting.",
+        "D": "This cutting is a tool’s current feeling."
+      },
+      "correctAnswer": "C",
+      "translationJa": "これは切断用具です。",
+      "explanationJa": "cuttingはtoolの用途を示すラベルです。",
+      "focus": "用途ラベルの意味展開",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0219_Q24",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"We saw Lena crossing the lobby.\"",
+      "choices": {
+        "A": "We saw Lena while she was crossing the lobby.",
+        "B": "Lena saw us across the lobby.",
+        "C": "We crossed the lobby after Lena left.",
+        "D": "The lobby saw Lena and us."
+      },
+      "correctAnswer": "A",
+      "translationJa": "私たちはレナがロビーを横切っているところを見ました。",
+      "explanationJa": "crossingはLenaの進行中の動作を目的語後で描きます。",
+      "focus": "知覚動詞後の場面",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0219_Q25",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"A warning light is above the panel.\"",
+      "choices": {
+        "A": "A light is warning the panel to leave.",
+        "B": "A light used to give warnings is above the panel.",
+        "C": "The panel warned every light.",
+        "D": "A light above the panel is being warned."
+      },
+      "correctAnswer": "B",
+      "translationJa": "警告灯がパネルの上にあります。",
+      "explanationJa": "warning lightのwarningは光の用途・種類を示します。",
+      "focus": "前置-ingの分類",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0219_Q26",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The light flashing above the panel needs repair.\"",
+      "choices": {
+        "A": "The flashing tool is used to repair lights.",
+        "B": "The panel needs a warning light for repair.",
+        "C": "The light repaired the flashing panel.",
+        "D": "The light that is flashing above the panel needs repair."
+      },
+      "correctAnswer": "D",
+      "translationJa": "パネル上で点滅しているライトは修理が必要です。",
+      "explanationJa": "後ろのflashing句は特定のlightの現実の動作です。",
+      "focus": "後置-ingの動作意味",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0219_Q27",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The courier left carrying two parcels.\"",
+      "choices": {
+        "A": "The courier carried two parcels while leaving.",
+        "B": "Two parcels left the courier behind.",
+        "C": "The courier left before carrying anything.",
+        "D": "The parcels carried each other away."
+      },
+      "correctAnswer": "A",
+      "translationJa": "配送員は荷物を2つ運びながら退出しました。",
+      "explanationJa": "文末carryingは主節と同時のcourierの動作です。",
+      "focus": "文末-ing同時動作",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0219_Q28",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"They bought a washing machine.\"",
+      "choices": {
+        "A": "They bought a machine that is washing itself.",
+        "B": "They washed a machine instead of buying it.",
+        "C": "They bought a machine designed for washing clothes.",
+        "D": "The machine bought their clothes."
+      },
+      "correctAnswer": "C",
+      "translationJa": "彼らは洗濯機を購入しました。",
+      "explanationJa": "washing machineのwashingは用途分類で、機械のその時の動作とは限りません。",
+      "focus": "複合名詞の-ing",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0219_Q29",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The manager heard employees discussing the policy.\"",
+      "choices": {
+        "A": "The manager heard the discussion while employees were having it.",
+        "B": "Employees heard the manager change the policy.",
+        "C": "The policy discussed the employees.",
+        "D": "The manager prevented every discussion."
+      },
+      "correctAnswer": "A",
+      "translationJa": "部長は従業員が方針について話し合っているのを聞きました。",
+      "explanationJa": "employeesがdiscussingの動作主で、policyが内部目的語です。",
+      "focus": "hear＋目的語＋-ing",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0219_Q30",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The sleeping car is carrying passengers sleeping in their seats.\"",
+      "choices": {
+        "A": "Both -ing forms mean the objects are asleep.",
+        "B": "The first -ing labels the car’s purpose; the second describes the passengers’ action.",
+        "C": "Both -ing forms label kinds of passengers.",
+        "D": "The first describes passengers and the second labels the car."
+      },
+      "correctAnswer": "B",
+      "translationJa": "寝台車には座席で眠っている乗客が乗っています。",
+      "explanationJa": "名詞前sleepingは用途、名詞後sleepingはpassengersの現実の動作です。",
+      "focus": "前置と後置の-ing対比",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0219_Q31",
+      "format": "context-completion",
+      "prompt": "Employees need a place to eat lunch. The company will add a ------- area on the terrace.",
+      "choices": {
+        "A": "dined",
+        "B": "dine",
+        "C": "dining",
+        "D": "to dined"
+      },
+      "correctAnswer": "C",
+      "translationJa": "従業員には昼食場所が必要です。会社はテラスに飲食スペースを設けます。",
+      "explanationJa": "dining areaは飲食用途の場所という分類です。",
+      "focus": "用途ラベルdining",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0219_Q32",
+      "format": "context-completion",
+      "prompt": "Several people are in the lobby. The woman ------- a visitor badge is our new accountant.",
+      "choices": {
+        "A": "wearing",
+        "B": "worn",
+        "C": "wear",
+        "D": "to wear"
+      },
+      "correctAnswer": "A",
+      "translationJa": "ロビーに数人います。来訪者用バッジを着けている女性が新しい会計担当者です。",
+      "explanationJa": "wearing a visitor badgeがwomanの今の状態動作を後ろから説明します。",
+      "focus": "名詞後ろの-ing句",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0219_Q33",
+      "format": "context-completion",
+      "prompt": "The warehouse needs equipment for wrapping pallets. It ordered a new ------- machine.",
+      "choices": {
+        "A": "wrapped",
+        "B": "wrap",
+        "C": "to wrap",
+        "D": "wrapping"
+      },
+      "correctAnswer": "D",
+      "translationJa": "倉庫にはパレットを包装する機器が必要です。新しい包装機を注文しました。",
+      "explanationJa": "wrapping machineは包装用途の機械を示します。",
+      "focus": "-ing＋名詞の用途",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0219_Q34",
+      "format": "context-completion",
+      "prompt": "A van stopped near the gate. We noticed the driver ------- a delivery address.",
+      "choices": {
+        "A": "checked",
+        "B": "checking",
+        "C": "check",
+        "D": "to checking"
+      },
+      "correctAnswer": "B",
+      "translationJa": "バンが門の近くに止まりました。運転手が配送先住所を確認しているのに気付きました。",
+      "explanationJa": "checkingは目的語driverの進行動作です。",
+      "focus": "notice＋目的語＋-ing",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0219_Q35",
+      "format": "context-completion",
+      "prompt": "The alarm uses a small red lamp. A ------- light means employees should evacuate.",
+      "choices": {
+        "A": "flashed",
+        "B": "flash",
+        "C": "flashing",
+        "D": "to flashed"
+      },
+      "correctAnswer": "C",
+      "translationJa": "警報装置には小さな赤いランプがあります。点滅灯は従業員が避難すべきことを示します。",
+      "explanationJa": "flashingはlightの特徴を前から限定します。",
+      "focus": "特徴ラベルの-ing",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0219_Q36",
+      "format": "context-completion",
+      "prompt": "One lamp appears faulty. The lamp ------- beside the exit will be replaced.",
+      "choices": {
+        "A": "flickering",
+        "B": "flickered",
+        "C": "flicker",
+        "D": "to flicker"
+      },
+      "correctAnswer": "A",
+      "translationJa": "ランプが1つ故障しているようです。出口横でちらついているランプを交換します。",
+      "explanationJa": "flickering beside the exitは特定のlampの動きを後ろから映します。",
+      "focus": "後置-ingの現実場面",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0219_Q37",
+      "format": "context-completion",
+      "prompt": "The presenter came into the room. She entered ------- a wireless microphone.",
+      "choices": {
+        "A": "held",
+        "B": "holding",
+        "C": "hold",
+        "D": "to holding"
+      },
+      "correctAnswer": "B",
+      "translationJa": "発表者が部屋に入ってきました。無線マイクを持ちながら入りました。",
+      "explanationJa": "holding句は主節主語sheの同時動作を文末で追加します。",
+      "focus": "文末-ing同時動作",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0219_Q38",
+      "format": "context-completion",
+      "prompt": "The shop repairs phones. A ------- station near the counter is reserved for technicians.",
+      "choices": {
+        "A": "soldered",
+        "B": "solder",
+        "C": "to soldered",
+        "D": "soldering"
+      },
+      "correctAnswer": "D",
+      "translationJa": "その店は携帯電話を修理します。窓口近くのはんだ付け台は技術者専用です。",
+      "explanationJa": "soldering stationは用途による設備分類です。",
+      "focus": "用途を表す複合名詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0219_Q39",
+      "format": "context-completion",
+      "prompt": "A group gathered outside the office. Security saw several customers ------- for refunds.",
+      "choices": {
+        "A": "asking",
+        "B": "asked",
+        "C": "ask",
+        "D": "to asking"
+      },
+      "correctAnswer": "A",
+      "translationJa": "事務所の外に人だかりができました。警備員は複数の顧客が返金を求めているのを見ました。",
+      "explanationJa": "customersがaskingの動作主で、for refundsが内容を補います。",
+      "focus": "see＋目的語＋-ing",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0219_Q40",
+      "format": "context-completion",
+      "prompt": "The center has a room for employee instruction. The staff member ------- the session is Ms. Ross.",
+      "choices": {
+        "A": "lead",
+        "B": "leading",
+        "C": "led",
+        "D": "to leading"
+      },
+      "correctAnswer": "B",
+      "translationJa": "センターには従業員研修用の部屋があります。そのセッションを進行している職員はロスさんです。",
+      "explanationJa": "前文のtraining roomは用途ですが、leading the sessionはstaff memberの実際の動作です。",
+      "focus": "用途ラベルと後置動作の区別",
+      "difficulty": "advanced"
+    }
+  ]
+}
