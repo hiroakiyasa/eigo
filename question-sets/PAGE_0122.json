@@ -1,0 +1,585 @@
+{
+  "schemaVersion": 1,
+  "page": {
+    "number": 122,
+    "id": "grammar-master-0122",
+    "title": "副詞を重ねる基本ルート",
+    "image": "pages/PAGE_0122.webp",
+    "sourcePrompt": "source-prompts/PAGE_0122.txt"
+  },
+  "analysis": {
+    "summaryJa": "このページは、副詞を複数並べるときの基本ルート『様子HOW→場所WHERE→時WHEN』と、形容詞から様態副詞を作る代表的な形を扱う。careful→carefully、happy→happilyのような-ly化に加え、friendly・lovelyは形容詞、early・fastは形容詞と副詞が同形であること、hardとhardlyでは意味が大きく変わることを確認する。単なる語尾暗記ではなく、文中の役割と意味で判断する40問とした。",
+    "grammarPoints": [
+      "複数の文末副詞は、原則として様子→場所→時の順に並べる",
+      "多くの形容詞は-lyを付けて様態副詞になるが、綴りが変化する語もある",
+      "friendly・lovelyなど-lyで終わっても通常は形容詞である",
+      "early・fastは形容詞と副詞が同形で、earlyly・fastlyとはしない",
+      "hardは『一生懸命に・激しく』、hardlyは『ほとんど〜ない』で意味が異なる"
+    ],
+    "visualEvidence": [
+      "HOW・WHERE・WHENの三つの車両が順に連結され、様子→場所→時の基本ルートを示している",
+      "形容詞に-lyが付く変換矢印が、様態副詞の一般的な作り方を示している",
+      "friendly・lovelyに形容詞の札、early・fastに両方の札が付き、語尾だけでは品詞を決められないことを示している",
+      "hardとhardlyが別方向へ分岐する図が、形の近さに反して意味が大きく異なることを示している"
+    ],
+    "commonTraps": [
+      "fastly・earlyly・friendlilyを標準的な副詞だと考える",
+      "hardlyをhardの単なる副詞形だと誤解し、『一生懸命に』の意味で使う",
+      "friendlyを動詞修飾に直接用い、in a friendly mannerなどの構造を使わない",
+      "目的語の前に様態副詞を置いて動詞と目的語を不自然に分断する",
+      "様子・場所・時を逆順に並べ、情報の自然な広がりを崩す"
+    ]
+  },
+  "questions": [
+    {
+      "id": "PAGE_0122_Q01",
+      "format": "part5-cloze",
+      "prompt": "The driver checked every mirror ------- before leaving the loading area.",
+      "choices": {"A": "careful", "B": "carefulness", "C": "carefully", "D": "more careful"},
+      "correctAnswer": "C",
+      "translationJa": "運転手は荷積み場を出る前に、すべてのミラーを慎重に確認しました。",
+      "explanationJa": "checkedの仕方を説明するため、形容詞carefulに-lyを付けた副詞carefullyを用います。",
+      "focus": "carefulからcarefullyへの変換",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0122_Q02",
+      "format": "part5-cloze",
+      "prompt": "The replacement shipment arrived -------, so production started ahead of schedule.",
+      "choices": {"A": "early", "B": "earlyly", "C": "earliness", "D": "earlierly"},
+      "correctAnswer": "A",
+      "translationJa": "交換品の貨物が早く到着したため、生産は予定より前に始まりました。",
+      "explanationJa": "earlyは形容詞と副詞が同形です。ここではarrivedの時を説明する副詞で、earlylyとはしません。",
+      "focus": "副詞としてのearly",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0122_Q03",
+      "format": "part5-cloze",
+      "prompt": "The project team worked ------- to meet the client's revised deadline.",
+      "choices": {"A": "hardly", "B": "hardness", "C": "harderly", "D": "hard"},
+      "correctAnswer": "D",
+      "translationJa": "プロジェクトチームは顧客が変更した期限に間に合わせるため、一生懸命に働きました。",
+      "explanationJa": "work hardで『懸命に働く』です。hardlyなら『ほとんど働かない』となり、意味が逆方向になります。",
+      "focus": "work hardとhardlyの区別",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0122_Q04",
+      "format": "part5-cloze",
+      "prompt": "The upgraded labeling machine runs ------- enough to process 600 boxes an hour.",
+      "choices": {"A": "fastly", "B": "fast", "C": "fastness", "D": "fasterly"},
+      "correctAnswer": "B",
+      "translationJa": "改良されたラベル貼付機は、1時間に600箱を処理できるほど速く動きます。",
+      "explanationJa": "fastは副詞としてrunsを修飾でき、fastlyとは通常言いません。",
+      "focus": "副詞としてのfast",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0122_Q05",
+      "format": "part5-cloze",
+      "prompt": "The receptionist spoke ------- to the customer who had lost her reservation number.",
+      "choices": {"A": "politely", "B": "polite", "C": "politeness", "D": "politer"},
+      "correctAnswer": "A",
+      "translationJa": "受付担当者は予約番号をなくした顧客に丁寧に話しました。",
+      "explanationJa": "spokeの様子を表すため、形容詞politeではなく副詞politelyを用います。",
+      "focus": "動詞を修飾する-ly副詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0122_Q06",
+      "format": "part5-cloze",
+      "prompt": "The new concierge gave every conference guest a ------- welcome.",
+      "choices": {"A": "friendlily", "B": "friendliness", "C": "friendly", "D": "friends"},
+      "correctAnswer": "C",
+      "translationJa": "新しいコンシェルジュは会議参加者全員を親しみやすく迎えました。",
+      "explanationJa": "空所は名詞welcomeの性質を示すため形容詞friendlyが必要です。-lyで終わりますが通常は副詞ではありません。",
+      "focus": "-lyで終わる形容詞friendly",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0122_Q07",
+      "format": "part5-cloze",
+      "prompt": "The customer portal is ------- designed, with clear icons and balanced spacing.",
+      "choices": {"A": "beautiful", "B": "beautifully", "C": "beauty", "D": "beautify"},
+      "correctAnswer": "B",
+      "translationJa": "その顧客ポータルは、分かりやすいアイコンと均整の取れた余白で美しく設計されています。",
+      "explanationJa": "designedという設計のされ方を副詞beautifullyが修飾します。beautifulならportalを直接説明する位置が必要です。",
+      "focus": "過去分詞を修飾する-ly副詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0122_Q08",
+      "format": "part5-cloze",
+      "prompt": "After the calibration, the two temperature readings were ------- different.",
+      "choices": {"A": "hard", "B": "hardness", "C": "hardened", "D": "hardly"},
+      "correctAnswer": "D",
+      "translationJa": "校正後、二つの温度測定値にはほとんど違いがありませんでした。",
+      "explanationJa": "hardly differentは『ほとんど異ならない』です。hard differentでは文法的にも意味的にも不自然です。",
+      "focus": "hardly＋形容詞の否定に近い意味",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0122_Q09",
+      "format": "part5-cloze",
+      "prompt": "The inspector examined the pressure valve ------- in the service bay yesterday.",
+      "choices": {"A": "thoroughly", "B": "yesterday thoroughly in the service bay", "C": "in the service bay yesterday thorough", "D": "the service bay thoroughly yesterday"},
+      "correctAnswer": "A",
+      "translationJa": "検査官は昨日、整備区画で圧力弁を徹底的に調べました。",
+      "explanationJa": "目的語の後に様子thoroughly、場所in the service bay、時yesterdayという順がすでに成立しており、空所には様態副詞だけを入れます。",
+      "focus": "様子→場所→時の完成",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0122_Q10",
+      "format": "part5-cloze",
+      "prompt": "The courier drove ------- through the mountain tunnel before sunrise.",
+      "choices": {"A": "unusual fastly", "B": "unusually fast", "C": "unusual fast", "D": "unusually fastly"},
+      "correctAnswer": "B",
+      "translationJa": "配達員は日の出前に山岳トンネルを異常なほど速く走りました。",
+      "explanationJa": "fastは副詞のままdroveを修飾し、その程度をunusuallyが強めます。fastlyは不要です。",
+      "focus": "程度副詞＋同形副詞fast",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0122_Q11",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about how a clerk answered a visitor.",
+      "choices": {
+        "A": "The clerk polite answered the visitor.",
+        "B": "The clerk answered the visitor politely.",
+        "C": "The clerk answered politely the visitor.",
+        "D": "The politely clerk answered visitor the."
+      },
+      "correctAnswer": "B",
+      "translationJa": "職員は来訪者に丁寧に答えました。",
+      "explanationJa": "他動詞answeredの目的語the visitorを先に置き、その後ろに様態副詞politelyを置きます。",
+      "focus": "目的語後の-ly副詞",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0122_Q12",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence describing a team's effort and setting.",
+      "choices": {
+        "A": "The team worked hardly at the branch all weekend.",
+        "B": "The team hard worked all weekend at the branch.",
+        "C": "The team worked at the branch all weekend hardly.",
+        "D": "The team worked hard at the branch all weekend."
+      },
+      "correctAnswer": "D",
+      "translationJa": "チームは週末を通して支店で懸命に働きました。",
+      "explanationJa": "hardが努力の様子、at the branchが場所、all weekendが時を示し、HOW→WHERE→WHENの順です。",
+      "focus": "hard＋場所＋時",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0122_Q13",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about an express train's arrival time.",
+      "choices": {
+        "A": "The express train arrived early.",
+        "B": "The express train arrived earlyly.",
+        "C": "The early train arrivedly.",
+        "D": "The express train early was arrive."
+      },
+      "correctAnswer": "A",
+      "translationJa": "急行列車は早く到着しました。",
+      "explanationJa": "earlyはarrivedを修飾する副詞としてそのまま使います。",
+      "focus": "earlyの副詞用法",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0122_Q14",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence describing an application's interface.",
+      "choices": {
+        "A": "The application has a friendlily interface.",
+        "B": "The application friendly has an interface.",
+        "C": "The application has a friendly interface.",
+        "D": "The application has an interface friendliness."
+      },
+      "correctAnswer": "C",
+      "translationJa": "そのアプリケーションには親しみやすい操作画面があります。",
+      "explanationJa": "friendlyは形容詞としてinterfaceを前から修飾します。語尾が-lyでも副詞ではありません。",
+      "focus": "friendlyの形容詞用法",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0122_Q15",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about a printer's operating speed.",
+      "choices": {
+        "A": "The printer operates fastly enough for the ticket counter.",
+        "B": "The printer operates fast enough for the ticket counter.",
+        "C": "The fast printer operatesly enough for the ticket counter.",
+        "D": "The printer fast operates enough for the ticket counter."
+      },
+      "correctAnswer": "B",
+      "translationJa": "そのプリンターは券売窓口で使うのに十分速く動きます。",
+      "explanationJa": "fastは副詞としてoperatesを修飾し、enoughがその後ろに置かれます。",
+      "focus": "fast enoughの語順",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0122_Q16",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence meaning that a scanned contract is almost impossible to read.",
+      "choices": {
+        "A": "The scanned contract is hard readable.",
+        "B": "The scanned contract hardly is readability.",
+        "C": "The scanned contract is hardly readable.",
+        "D": "The scanned contract is readable hardly hard."
+      },
+      "correctAnswer": "C",
+      "translationJa": "スキャンされた契約書はほとんど読めません。",
+      "explanationJa": "hardly readableは『読むことがほぼ不可能』を表します。hard readableではありません。",
+      "focus": "hardly readableの意味",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0122_Q17",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence with the natural order of manner, place, and time.",
+      "choices": {
+        "A": "The technicians throughout the night tested in the lab the device methodically.",
+        "B": "The technicians tested in the lab throughout the night methodical the device.",
+        "C": "The technicians tested the device throughout the night in the lab methodically.",
+        "D": "The technicians tested the device methodically in the lab throughout the night."
+      },
+      "correctAnswer": "D",
+      "translationJa": "技術者たちは夜通し、研究室で装置を系統立てて試験しました。",
+      "explanationJa": "目的語the deviceの後にHOW methodically、WHERE in the lab、WHEN throughout the nightを並べます。",
+      "focus": "HOW→WHERE→WHEN",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0122_Q18",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence describing a decorated lobby.",
+      "choices": {
+        "A": "The lobby is beautifully decorated.",
+        "B": "The lobby is beautiful decoratedly.",
+        "C": "The beautifully lobby is decoration.",
+        "D": "The lobby beautifully is decorate."
+      },
+      "correctAnswer": "A",
+      "translationJa": "ロビーは美しく装飾されています。",
+      "explanationJa": "beautifullyが過去分詞decoratedのされ方を修飾します。",
+      "focus": "-ly副詞＋過去分詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0122_Q19",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence with correctly layered adverbs.",
+      "choices": {
+        "A": "The sales team responded exceptional quick to inquiries.",
+        "B": "The sales team exceptionally responded quickly inquiries to.",
+        "C": "The sales team responded exceptionally quickly to inquiries.",
+        "D": "The sales team responded exceptional quickly to inquiries."
+      },
+      "correctAnswer": "C",
+      "translationJa": "営業チームは問い合わせに並外れて迅速に対応しました。",
+      "explanationJa": "quicklyがrespondedの様子、exceptionallyがquicklyの程度を修飾します。両方とも副詞形が必要です。",
+      "focus": "程度副詞＋様態副詞",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0122_Q20",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence with the natural order of object, manner, place, and time.",
+      "choices": {
+        "A": "The driver yesterday handled on the test track the vehicle carefully.",
+        "B": "The driver handled the vehicle carefully on the test track yesterday.",
+        "C": "The driver handled carefully yesterday the vehicle on the test track.",
+        "D": "The driver on the test track handled the vehicle yesterday careful."
+      },
+      "correctAnswer": "B",
+      "translationJa": "運転手は昨日、テストコースで車両を慎重に操作しました。",
+      "explanationJa": "目的語the vehicleの後ろに様子carefully、場所on the test track、時yesterdayを置きます。",
+      "focus": "目的語＋HOW→WHERE→WHEN",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0122_Q21",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The staff worked hard to prepare the exhibition.\"",
+      "choices": {
+        "A": "The staff could hardly prepare any part of the exhibition.",
+        "B": "The staff prepared an exhibition about hard materials.",
+        "C": "The staff made the exhibition difficult for visitors.",
+        "D": "The staff made a great effort to prepare the exhibition."
+      },
+      "correctAnswer": "D",
+      "translationJa": "職員は展示会の準備に大きな努力を払いました。",
+      "explanationJa": "worked hardは『懸命に取り組んだ』で、made a great effortが同じ意味です。",
+      "focus": "hardの努力の意味",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0122_Q22",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The courier arrived early.\"",
+      "choices": {
+        "A": "The courier arrived late in the morning.",
+        "B": "The courier arrived before the expected time.",
+        "C": "The courier was the first employee hired.",
+        "D": "The courier departed immediately after arriving."
+      },
+      "correctAnswer": "B",
+      "translationJa": "配達員は予定時刻より前に到着しました。",
+      "explanationJa": "副詞earlyは予定・通常より早い時点で到着したことを示します。",
+      "focus": "副詞earlyの意味",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0122_Q23",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The packaging machine runs fast.\"",
+      "choices": {
+        "A": "The machine is securely attached to the floor.",
+        "B": "The machine stops after a short period.",
+        "C": "The machine operates at a high speed.",
+        "D": "The machine is difficult to operate."
+      },
+      "correctAnswer": "C",
+      "translationJa": "その包装機は高速で作動します。",
+      "explanationJa": "副詞fastは動作速度が高いことを表し、at a high speedに言い換えられます。",
+      "focus": "副詞fastの言い換え",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0122_Q24",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The hotel has friendly front-desk staff.\"",
+      "choices": {
+        "A": "The hotel's front-desk staff are welcoming and pleasant.",
+        "B": "The staff speak to hotel guests friendlily.",
+        "C": "The hotel hires only the friends of current staff.",
+        "D": "The front desk is designed for groups of friends."
+      },
+      "correctAnswer": "A",
+      "translationJa": "そのホテルのフロント係は親しみやすく感じがよいです。",
+      "explanationJa": "friendlyは人の親しみやすい性質を表す形容詞で、welcoming and pleasantが同じ意味です。",
+      "focus": "形容詞friendlyの意味",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0122_Q25",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The faded serial number is hardly legible.\"",
+      "choices": {
+        "A": "The serial number is written in very hard material.",
+        "B": "The serial number is clear only under bright light.",
+        "C": "The serial number can be read without effort.",
+        "D": "The serial number is almost impossible to read."
+      },
+      "correctAnswer": "D",
+      "translationJa": "薄くなった製造番号はほとんど読み取れません。",
+      "explanationJa": "hardly legibleは可読性がほぼないことを表します。hardの『懸命に』とは関係ありません。",
+      "focus": "hardlyの準否定的意味",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0122_Q26",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The showroom was beautifully arranged.\"",
+      "choices": {
+        "A": "The showroom displayed only expensive products.",
+        "B": "The showroom was rearranged by a famous designer.",
+        "C": "The arrangement of the showroom was attractive.",
+        "D": "The showroom was too crowded to look beautiful."
+      },
+      "correctAnswer": "C",
+      "translationJa": "ショールームの配置は美しく魅力的でした。",
+      "explanationJa": "beautifullyがarrangedの様子を示す内容を、名詞arrangementと形容詞attractiveで表しています。",
+      "focus": "beautifully arrangedの言い換え",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0122_Q27",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The technician checked the wiring carefully in the workshop yesterday.\"",
+      "choices": {
+        "A": "The wiring was moved from the workshop yesterday.",
+        "B": "Yesterday, the technician inspected the wiring with care in the workshop.",
+        "C": "The technician carefully designed a new workshop.",
+        "D": "The workshop's wiring was checked every day."
+      },
+      "correctAnswer": "B",
+      "translationJa": "昨日、技術者は作業場で配線を注意深く点検しました。",
+      "explanationJa": "carefully、in the workshop、yesterdayというHOW・WHERE・WHENの情報がすべて保たれています。",
+      "focus": "三種類の副詞情報の保持",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0122_Q28",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The service team responded remarkably quickly.\"",
+      "choices": {
+        "A": "The team made a remarkable comment in its response.",
+        "B": "The response was quick but not unusual.",
+        "C": "The team responded only after receiving a reminder.",
+        "D": "The speed of the team's response was unusually impressive."
+      },
+      "correctAnswer": "D",
+      "translationJa": "サービスチームの対応速度は、並外れて印象的でした。",
+      "explanationJa": "quicklyが対応速度、remarkablyがその程度への評価を示します。Dは二層の副詞関係を名詞句で展開しています。",
+      "focus": "remarkably quicklyの多層意味",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0122_Q29",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The analyst worked efficiently from home all morning.\"",
+      "choices": {
+        "A": "The analyst returned home after an efficient morning meeting.",
+        "B": "The analyst's home was made more efficient in the morning.",
+        "C": "Throughout the morning, the analyst worked productively at home.",
+        "D": "The analyst worked at the office before going home."
+      },
+      "correctAnswer": "C",
+      "translationJa": "午前中ずっと、分析担当者は自宅で効率よく働きました。",
+      "explanationJa": "efficiently、from home、all morningをproductively、at home、throughout the morningで言い換えています。",
+      "focus": "HOW・WHERE・WHENの意味保持",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0122_Q30",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The airport shuttle is early.\"",
+      "choices": {
+        "A": "The shuttle has arrived ahead of its scheduled time.",
+        "B": "The shuttle travels quickly to the airport.",
+        "C": "The airport operates only in the early morning.",
+        "D": "The shuttle is the oldest one in service."
+      },
+      "correctAnswer": "A",
+      "translationJa": "空港シャトルは予定時刻より早く到着しています。",
+      "explanationJa": "ここでearlyはbe動詞の後ろの形容詞で、shuttleの時間状態を表します。ahead of its scheduled timeが同じ意味です。",
+      "focus": "形容詞としてのearly",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0122_Q31",
+      "format": "context-completion",
+      "prompt": "The data-entry clerk compared every figure with the original form, and the audit found no errors. She completed the work -------.",
+      "choices": {"A": "carefully", "B": "careful", "C": "carefulness", "D": "more careful"},
+      "correctAnswer": "A",
+      "translationJa": "データ入力担当者はすべての数値を原票と照合し、監査では誤りが見つかりませんでした。彼女は慎重に作業を完了しました。",
+      "explanationJa": "照合と無誤りという文脈から、completedの様子を示すcarefullyが適切です。",
+      "focus": "結果から様態副詞を判断する",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0122_Q32",
+      "format": "context-completion",
+      "prompt": "The presenter reached the hall twenty minutes before the doors opened and had time to test the microphone. She arrived -------.",
+      "choices": {"A": "earlyly", "B": "earliness", "C": "earlierly", "D": "early"},
+      "correctAnswer": "D",
+      "translationJa": "発表者は開場20分前に会場へ着き、マイクを試す時間がありました。彼女は早く到着しました。",
+      "explanationJa": "予定より前という文脈で、arrivedを修飾する同形副詞earlyを用います。",
+      "focus": "文脈上の副詞early",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0122_Q33",
+      "format": "context-completion",
+      "prompt": "The online request was approved only eight seconds after it was submitted. The system processed it -------.",
+      "choices": {"A": "fastly", "B": "fast", "C": "fastness", "D": "fasterly"},
+      "correctAnswer": "B",
+      "translationJa": "オンライン申請は提出からわずか8秒で承認されました。システムはそれを速く処理しました。",
+      "explanationJa": "短時間での処理という文脈から副詞fastが適切です。fastlyは標準的ではありません。",
+      "focus": "文脈上の副詞fast",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0122_Q34",
+      "format": "context-completion",
+      "prompt": "The shop employees smiled, offered directions, and carried a customer's bags to the taxi stand. Their service was -------.",
+      "choices": {"A": "friendlily", "B": "friendliness", "C": "friendly", "D": "friends"},
+      "correctAnswer": "C",
+      "translationJa": "店員たちは笑顔で道案内をし、顧客の荷物をタクシー乗り場まで運びました。彼らのサービスは親しみやすいものでした。",
+      "explanationJa": "be動詞の後ろでserviceの性質を説明する形容詞friendlyが必要です。",
+      "focus": "叙述形容詞friendly",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0122_Q35",
+      "format": "context-completion",
+      "prompt": "The team stayed late for four consecutive nights and completed every test before the deadline. Everyone worked -------.",
+      "choices": {"A": "hard", "B": "hardly", "C": "hardness", "D": "hardened"},
+      "correctAnswer": "A",
+      "translationJa": "チームは4夜連続で遅くまで残り、期限前にすべての試験を終えました。全員が懸命に働きました。",
+      "explanationJa": "多大な努力を表すwork hardが適切です。hardly workedなら『ほとんど働かなかった』となり、文脈と矛盾します。",
+      "focus": "文脈によるhard／hardlyの選択",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0122_Q36",
+      "format": "context-completion",
+      "prompt": "The ink has faded and part of the number is covered by a stamp. The account code is ------- visible.",
+      "choices": {"A": "hard", "B": "hardness", "C": "hardened", "D": "hardly"},
+      "correctAnswer": "D",
+      "translationJa": "インクが薄れ、番号の一部が印で隠れています。勘定コードはほとんど見えません。",
+      "explanationJa": "見える程度がほぼゼロという意味なのでhardly visibleです。hard visibleとは言いません。",
+      "focus": "hardly visibleの準否定",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0122_Q37",
+      "format": "context-completion",
+      "prompt": "The designer balanced the lighting, flowers, and seating colors with great care. The reception area was ------- decorated.",
+      "choices": {"A": "beautiful", "B": "beauty", "C": "beautifully", "D": "beautify"},
+      "correctAnswer": "C",
+      "translationJa": "デザイナーは照明、花、座席の色を細心の注意で調和させました。受付エリアは美しく装飾されていました。",
+      "explanationJa": "decoratedのされ方を説明するため副詞beautifullyを用います。",
+      "focus": "文脈に合うbeautifully",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0122_Q38",
+      "format": "context-completion",
+      "prompt": "The crew completed twenty diagnostic tests in one hour at the assembly plant yesterday. They worked -------.",
+      "choices": {
+        "A": "efficiently at the assembly plant yesterday",
+        "B": "yesterday efficiently at the assembly plant",
+        "C": "at the assembly plant yesterday efficient",
+        "D": "the assembly plant efficiently yesterday at"
+      },
+      "correctAnswer": "A",
+      "translationJa": "作業員は昨日、組立工場で1時間に20件の診断試験を終えました。彼らは昨日その工場で効率よく働きました。",
+      "explanationJa": "HOW efficiently、WHERE at the assembly plant、WHEN yesterdayの順が自然です。",
+      "focus": "HOW→WHERE→WHENの総合",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0122_Q39",
+      "format": "context-completion",
+      "prompt": "A hospital sent an emergency request at 9:02, and the supplier confirmed shipment at 9:05. The supplier responded -------.",
+      "choices": {"A": "remarkable quick", "B": "remarkably quick", "C": "remarkable quickly", "D": "remarkably quickly"},
+      "correctAnswer": "D",
+      "translationJa": "病院が9時2分に緊急依頼を送り、仕入先は9時5分に出荷を確定しました。仕入先は驚くほど迅速に対応しました。",
+      "explanationJa": "respondedをquicklyが修飾し、その速さをremarkablyが強めます。両方とも副詞形です。",
+      "focus": "二重副詞の正しい語形",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0122_Q40",
+      "format": "context-completion",
+      "prompt": "Heavy rain reduced visibility across the city last night. The courier drove -------.",
+      "choices": {
+        "A": "through the city last night safe",
+        "B": "safely through the city last night",
+        "C": "last night safely through the city",
+        "D": "through safely the city last night"
+      },
+      "correctAnswer": "B",
+      "translationJa": "昨夜、大雨で市内の視界が悪化しました。配達員は昨夜、市内を安全に運転しました。",
+      "explanationJa": "HOW safely、WHERE through the city、WHEN last nightの順です。",
+      "focus": "様子→経路→時",
+      "difficulty": "intermediate"
+    }
+  ]
+}
