@@ -1,0 +1,673 @@
+{
+  "schemaVersion": 1,
+  "page": {
+    "number": 87,
+    "id": "grammar-master-0087",
+    "title": "allは一束、everyは一人ずつ",
+    "image": "pages/PAGE_0087.webp",
+    "sourcePrompt": "source-prompts/PAGE_0087.txt"
+  },
+  "analysis": {
+    "summaryJa": "allは複数の人・物や不可算の量を一つのまとまりとして全体的に捉え、名詞の前だけでなく主語や助動詞の後ろにも置ける。everyは構成員を一つずつ漏れなく見るため、単数可算名詞と単数動詞を取る。everyで表す単数の人は、性別を限定しないtheirで自然に受けられる。",
+    "grammarPoints": [
+      "all＋複数可算名詞／不可算名詞",
+      "all the＋名詞と代名詞・be動詞・助動詞の周辺に置くall",
+      "every＋単数可算名詞＋単数動詞",
+      "every＋人を単数they／theirで受ける"
+    ],
+    "visualEvidence": [
+      "本を縄で一束にしたALL側が全体把握を示す",
+      "本を一冊ずつ走査するEVERY側が個別点検を示す",
+      "All the guestsとThe guests allの位置対比",
+      "every＋単数名詞＋単数動詞、およびsingular theyの注記"
+    ],
+    "commonTraps": [
+      "everyの後ろを複数形にする",
+      "every主語に複数動詞を使う",
+      "不可算名詞にeveryを直接付ける",
+      "allとeveryを語順も数も同じように扱う"
+    ]
+  },
+  "questions": [
+    {
+      "id": "PAGE_0087_Q01",
+      "format": "part5-cloze",
+      "prompt": "------- the conference rooms are equipped with projectors.",
+      "choices": {
+        "A": "Every",
+        "B": "Each of",
+        "C": "All",
+        "D": "Much"
+      },
+      "correctAnswer": "C",
+      "translationJa": "会議室はすべてプロジェクターを備えています。",
+      "explanationJa": "the conference roomsという特定複数全体を一束として捉えるためAll theを使います。",
+      "focus": "all the＋複数名詞",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0087_Q02",
+      "format": "part5-cloze",
+      "prompt": "------- applicant receives an acknowledgment email.",
+      "choices": {
+        "A": "Every",
+        "B": "All",
+        "C": "Both",
+        "D": "Much"
+      },
+      "correctAnswer": "A",
+      "translationJa": "応募者は全員、受付確認メールを受け取ります。",
+      "explanationJa": "応募者を一人ずつ漏れなく見るためEvery＋単数名詞と単数動詞receivesを使います。",
+      "focus": "every＋単数名詞・単数動詞",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0087_Q03",
+      "format": "part5-cloze",
+      "prompt": "The painters used ------- the available paint by noon.",
+      "choices": {
+        "A": "every",
+        "B": "many",
+        "C": "each",
+        "D": "all"
+      },
+      "correctAnswer": "D",
+      "translationJa": "塗装担当者は正午までに利用可能な塗料をすべて使いました。",
+      "explanationJa": "不可算名詞paintの全量をまとめて示すためall the paintが適切です。",
+      "focus": "all＋不可算名詞",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0087_Q04",
+      "format": "part5-cloze",
+      "prompt": "The department heads ------- approved the revised budget.",
+      "choices": {
+        "A": "every",
+        "B": "all",
+        "C": "each of",
+        "D": "much"
+      },
+      "correctAnswer": "B",
+      "translationJa": "部門長は全員、改訂予算を承認しました。",
+      "explanationJa": "複数主語The department headsの後ろにallを置き、全員が行ったことを表せます。",
+      "focus": "主語の後ろのall",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0087_Q05",
+      "format": "part5-cloze",
+      "prompt": "------- invoice has a unique tracking number.",
+      "choices": {
+        "A": "Every",
+        "B": "All",
+        "C": "Many",
+        "D": "Both"
+      },
+      "correctAnswer": "A",
+      "translationJa": "請求書は一通ずつ固有の追跡番号を持っています。",
+      "explanationJa": "個々のinvoiceを点検するeveryは単数名詞と単数動詞hasを伴います。",
+      "focus": "every＋単数可算名詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0087_Q06",
+      "format": "part5-cloze",
+      "prompt": "We have checked ------- the equipment in the storage room.",
+      "choices": {
+        "A": "every",
+        "B": "many",
+        "C": "all",
+        "D": "each"
+      },
+      "correctAnswer": "C",
+      "translationJa": "私たちは保管室の設備をすべて確認しました。",
+      "explanationJa": "equipmentは不可算名詞なので、その全体にはall the equipmentを使います。",
+      "focus": "all＋不可算equipment",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0087_Q07",
+      "format": "part5-cloze",
+      "prompt": "The guests have ------- received their room keys.",
+      "choices": {
+        "A": "every",
+        "B": "all",
+        "C": "each",
+        "D": "much"
+      },
+      "correctAnswer": "B",
+      "translationJa": "宿泊客は全員、部屋の鍵を受け取りました。",
+      "explanationJa": "allは助動詞haveと過去分詞receivedの間に置いて複数主語全体を指せます。",
+      "focus": "助動詞の後ろのall",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0087_Q08",
+      "format": "part5-cloze",
+      "prompt": "------- technician must record their findings before leaving.",
+      "choices": {
+        "A": "All",
+        "B": "Both",
+        "C": "Many",
+        "D": "Every"
+      },
+      "correctAnswer": "D",
+      "translationJa": "技術者は一人ひとり、退出前に自分の所見を記録しなければなりません。",
+      "explanationJa": "Every technicianは文法上単数ですが、人を性別に依存せずtheirで受けられます。",
+      "focus": "everyとsingular their",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0087_Q09",
+      "format": "part5-cloze",
+      "prompt": "The elevators are ------- out of service during the inspection.",
+      "choices": {
+        "A": "every",
+        "B": "each",
+        "C": "all",
+        "D": "much"
+      },
+      "correctAnswer": "C",
+      "translationJa": "点検中、エレベーターはすべて運転停止です。",
+      "explanationJa": "be動詞の後ろにallを置いて複数主語全体の状態を述べます。",
+      "focus": "be動詞の後ろのall",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0087_Q10",
+      "format": "part5-cloze",
+      "prompt": "------- piece of luggage is screened before loading.",
+      "choices": {
+        "A": "Every",
+        "B": "All",
+        "C": "Much",
+        "D": "Both"
+      },
+      "correctAnswer": "A",
+      "translationJa": "手荷物は一つずつ積み込み前に検査されます。",
+      "explanationJa": "不可算luggageを数えるにはpieceを単数で立て、Every piece ... isとします。",
+      "focus": "every＋単位名詞",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0087_Q11",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about the entire supply of paper.",
+      "choices": {
+        "A": "Every paper was recycled after the event.",
+        "B": "All the paper was recycled after the event.",
+        "C": "All the paper were recycled after the event.",
+        "D": "Every papers were recycled after the event."
+      },
+      "correctAnswer": "B",
+      "translationJa": "イベント後、紙はすべてリサイクルされました。",
+      "explanationJa": "paperを不可算の材料として扱うためallを用い、単数動詞wasを合わせます。",
+      "focus": "all＋不可算名詞の一致",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0087_Q12",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about individual badge holders.",
+      "choices": {
+        "A": "Every badge holders need a photo ID.",
+        "B": "All badge holder needs a photo ID.",
+        "C": "Every badge holder need a photo ID.",
+        "D": "Every badge holder needs a photo ID."
+      },
+      "correctAnswer": "D",
+      "translationJa": "バッジ保持者は一人ひとり写真付き身分証が必要です。",
+      "explanationJa": "everyの後ろは単数badge holder、動詞も単数needsです。",
+      "focus": "everyの数の一致",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0087_Q13",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence with all in a flexible position.",
+      "choices": {
+        "A": "The regional offices all follow the same procedure.",
+        "B": "The regional offices every follow the same procedure.",
+        "C": "The regional office all follows the same procedure.",
+        "D": "The regional offices follow every the same procedure."
+      },
+      "correctAnswer": "A",
+      "translationJa": "各地域事務所はすべて同じ手順に従います。",
+      "explanationJa": "複数主語の直後にallを置く正しい語順です。",
+      "focus": "主語直後のall",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0087_Q14",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about checking items one by one.",
+      "choices": {
+        "A": "Every parcels are weighed before dispatch.",
+        "B": "All parcel is weighed before dispatch.",
+        "C": "Every parcel is weighed before dispatch.",
+        "D": "Every parcel are weighed before dispatch."
+      },
+      "correctAnswer": "C",
+      "translationJa": "小包は一つずつ発送前に計量されます。",
+      "explanationJa": "everyは単数parcelと単数be動詞isを要求します。",
+      "focus": "every＋単数受動文",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0087_Q15",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about a complete quantity of water.",
+      "choices": {
+        "A": "We used every water in the reserve tank.",
+        "B": "We used all the waters in the reserve tank.",
+        "C": "We used every the water in the reserve tank.",
+        "D": "We used all the water in the reserve tank."
+      },
+      "correctAnswer": "D",
+      "translationJa": "私たちは予備タンクの水をすべて使いました。",
+      "explanationJa": "waterは不可算なので全量にはall the waterを使います。",
+      "focus": "all the＋不可算名詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0087_Q16",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence using singular their naturally.",
+      "choices": {
+        "A": "Every participant should bring them registration code.",
+        "B": "Every participant should bring their registration code.",
+        "C": "Every participants should bring their registration code.",
+        "D": "Every participant should brings their registration code."
+      },
+      "correctAnswer": "B",
+      "translationJa": "参加者は一人ひとり自分の登録コードを持参してください。",
+      "explanationJa": "every participantは単数扱いで、性別を限定しない所有限定詞theirで自然に受けられます。",
+      "focus": "everyとsingular their",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0087_Q17",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence placing all after an auxiliary.",
+      "choices": {
+        "A": "The orders all have been every processed.",
+        "B": "The order have all been processed.",
+        "C": "The orders have all been processed.",
+        "D": "The orders have every been processed."
+      },
+      "correctAnswer": "C",
+      "translationJa": "注文はすべて処理済みです。",
+      "explanationJa": "助動詞haveの後ろにallを置き、複数注文全体を表します。",
+      "focus": "完了形内のallの位置",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0087_Q18",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence contrasting the whole group and its members.",
+      "choices": {
+        "A": "All employees attended, and every employee signed the roster.",
+        "B": "Every employees attended, and all employee signed the roster.",
+        "C": "All employee attended, and every employees signed the roster.",
+        "D": "All employees attended, and every employee sign the roster."
+      },
+      "correctAnswer": "A",
+      "translationJa": "従業員は全員出席し、一人ひとりが名簿に署名しました。",
+      "explanationJa": "all＋複数で全景、every＋単数＋signedで個別確認を表します。",
+      "focus": "allとeveryの対比",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0087_Q19",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about an indivisible mass noun.",
+      "choices": {
+        "A": "Every furniture has been delivered.",
+        "B": "All the furnitures have been delivered.",
+        "C": "Every furnitures have been delivered.",
+        "D": "All the furniture has been delivered."
+      },
+      "correctAnswer": "D",
+      "translationJa": "家具はすべて配送されました。",
+      "explanationJa": "furnitureは不可算なのでall the furnitureとし、動詞はhasです。",
+      "focus": "all＋不可算furniture",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0087_Q20",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about an obligation applying to each person.",
+      "choices": {
+        "A": "Every visitors are required to show their pass.",
+        "B": "Every visitor is required to show their pass.",
+        "C": "All visitor is required to show their pass.",
+        "D": "Every visitor are required to show them pass."
+      },
+      "correctAnswer": "B",
+      "translationJa": "来訪者は一人ひとり自分の通行証を提示する必要があります。",
+      "explanationJa": "every visitorは単数扱いでisを取り、所有はsingular theirで受けられます。",
+      "focus": "every・単数一致・their",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0087_Q21",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"All the doors are locked.\"",
+      "choices": {
+        "A": "Every door are locked.",
+        "B": "Only one of the doors is locked.",
+        "C": "No door is locked.",
+        "D": "The doors are all locked."
+      },
+      "correctAnswer": "D",
+      "translationJa": "ドアはすべて施錠されています。",
+      "explanationJa": "allは名詞の前にもbe動詞の後ろにも置け、同じ全体の意味を保ちます。",
+      "focus": "allの位置の言い換え",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0087_Q22",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"Every guest received a map.\"",
+      "choices": {
+        "A": "The guests received one map in total.",
+        "B": "Each guest received a map.",
+        "C": "Some guests received no map.",
+        "D": "All the maps received a guest."
+      },
+      "correctAnswer": "B",
+      "translationJa": "宿泊客は一人ひとり地図を受け取りました。",
+      "explanationJa": "everyとeachはここでは個々のguestを漏れなく見る点で近い意味です。",
+      "focus": "everyとeachの対応",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0087_Q23",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"We used all the ink.\"",
+      "choices": {
+        "A": "Every ink cartridge remains full.",
+        "B": "Some ink definitely remains.",
+        "C": "None of the ink remains.",
+        "D": "We used each inks separately."
+      },
+      "correctAnswer": "C",
+      "translationJa": "インクはまったく残っていません。",
+      "explanationJa": "all the inkを使った結果は、不可算のinkがnone remainingということです。",
+      "focus": "all＋不可算の結果",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0087_Q24",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The assistants all completed the course.\"",
+      "choices": {
+        "A": "All the assistants completed the course.",
+        "B": "Every assistants completed the course.",
+        "C": "Only one assistant completed the course.",
+        "D": "The course completed all the assistants."
+      },
+      "correctAnswer": "A",
+      "translationJa": "アシスタントは全員その講座を修了しました。",
+      "explanationJa": "複数主語後のallと名詞前のall theは同じ集合全体を示します。",
+      "focus": "allの二つの位置",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0087_Q25",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"Every desk has a label.\"",
+      "choices": {
+        "A": "The desks share one label as a group.",
+        "B": "Each individual desk has a label.",
+        "C": "All desk have no labels.",
+        "D": "Only some desks have labels."
+      },
+      "correctAnswer": "B",
+      "translationJa": "机は一台ずつラベルが付いています。",
+      "explanationJa": "everyは集合の各構成員を一つずつ見るためeach individualで言い換えられます。",
+      "focus": "everyの個別性",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0087_Q26",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"Every caller left their number.\"",
+      "choices": {
+        "A": "The callers left one shared number.",
+        "B": "No caller provided a number.",
+        "C": "Only callers of one gender left numbers.",
+        "D": "Each caller left a number where they could be reached."
+      },
+      "correctAnswer": "D",
+      "translationJa": "電話をかけた人は一人ひとり連絡先番号を残しました。",
+      "explanationJa": "theirとtheyはevery callerという性別不特定の単数の人を自然に受けます。",
+      "focus": "singular theyの意味",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0087_Q27",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The files have all been uploaded.\"",
+      "choices": {
+        "A": "All the files have been uploaded.",
+        "B": "Every file have been uploaded.",
+        "C": "Some files are still local.",
+        "D": "The files uploaded all the users."
+      },
+      "correctAnswer": "A",
+      "translationJa": "ファイルはすべてアップロードされています。",
+      "explanationJa": "完了形内のallを名詞前へ移しても全体の意味は同じです。",
+      "focus": "完了形とallの位置",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0087_Q28",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"All the equipment is insured.\"",
+      "choices": {
+        "A": "Every equipment item are uninsured.",
+        "B": "Only one machine is insured.",
+        "C": "The complete set of equipment is insured.",
+        "D": "The equipment insures all staff."
+      },
+      "correctAnswer": "C",
+      "translationJa": "設備一式が保険に加入しています。",
+      "explanationJa": "不可算equipmentにallを付けると、設備全体を一まとまりとして示します。",
+      "focus": "all＋不可算の全体性",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0087_Q29",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"Every branch submits a monthly report.\"",
+      "choices": {
+        "A": "There is no branch that fails to submit a monthly report.",
+        "B": "The branches submit one report altogether.",
+        "C": "Some branches never submit reports.",
+        "D": "All branch submit reports monthly."
+      },
+      "correctAnswer": "A",
+      "translationJa": "月次報告書を提出しない支店はありません。",
+      "explanationJa": "everyは例外なく各branchに当てはまるためno branch failsと言い換えられます。",
+      "focus": "everyの全称性",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0087_Q30",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"We all support the proposal.\"",
+      "choices": {
+        "A": "Only the speaker supports the proposal.",
+        "B": "All proposals support us.",
+        "C": "Some of us oppose every proposal.",
+        "D": "Every one of us supports the proposal."
+      },
+      "correctAnswer": "D",
+      "translationJa": "私たちは全員その提案を支持しています。",
+      "explanationJa": "代名詞weの後ろのallは、every one of usと同じ全員を表します。",
+      "focus": "代名詞後のall",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0087_Q31",
+      "format": "context-completion",
+      "prompt": "The training applies to the entire sales team. ------- representatives must complete it by Friday.",
+      "choices": {
+        "A": "Every",
+        "B": "Much",
+        "C": "All",
+        "D": "Each"
+      },
+      "correctAnswer": "C",
+      "translationJa": "その研修は営業チーム全体が対象です。営業担当者は全員、金曜日までに修了しなければなりません。",
+      "explanationJa": "複数representativesをまとめて全員と捉えるためAllを使います。",
+      "focus": "文脈上のall＋複数",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0087_Q32",
+      "format": "context-completion",
+      "prompt": "The inspector checks the machines separately. ------- machine receives its own safety sticker.",
+      "choices": {
+        "A": "All",
+        "B": "Every",
+        "C": "Many",
+        "D": "Much"
+      },
+      "correctAnswer": "B",
+      "translationJa": "検査員は機械を個別に確認します。各機械にはそれぞれ安全ステッカーが貼られます。",
+      "explanationJa": "separatelyとits ownが個別点検を示すためEvery＋単数machineが適切です。",
+      "focus": "個別性を示すevery",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0087_Q33",
+      "format": "context-completion",
+      "prompt": "The renovation is finished. The rooms have ------- been repainted in the same color.",
+      "choices": {
+        "A": "every",
+        "B": "each",
+        "C": "much",
+        "D": "all"
+      },
+      "correctAnswer": "D",
+      "translationJa": "改装は完了しました。部屋はすべて同じ色に塗り直されています。",
+      "explanationJa": "複数主語rooms全体を完了形の中で示すためhave all beenとします。",
+      "focus": "完了形内のall",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0087_Q34",
+      "format": "context-completion",
+      "prompt": "The catering team emptied the dispenser. ------- the coffee was served during the morning session.",
+      "choices": {
+        "A": "All",
+        "B": "Every",
+        "C": "Many",
+        "D": "Each"
+      },
+      "correctAnswer": "A",
+      "translationJa": "ケータリング担当はディスペンサーを空にしました。コーヒーは朝の部ですべて提供されました。",
+      "explanationJa": "coffeeは不可算で、全量を表すAll the coffeeが自然です。",
+      "focus": "all＋不可算名詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0087_Q35",
+      "format": "context-completion",
+      "prompt": "The policy is reviewed with staff members individually. ------- employee confirms that they understand it.",
+      "choices": {
+        "A": "All",
+        "B": "Both",
+        "C": "Every",
+        "D": "Many"
+      },
+      "correctAnswer": "C",
+      "translationJa": "その方針は職員と個別に確認されます。各従業員は理解したことを確認します。",
+      "explanationJa": "individuallyがeveryを支え、単数employeeにconfirms、受け語にtheyを使います。",
+      "focus": "everyとsingular they",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0087_Q36",
+      "format": "context-completion",
+      "prompt": "Three invoices arrived together. The invoices were ------- entered into the accounting system.",
+      "choices": {
+        "A": "every",
+        "B": "all",
+        "C": "each",
+        "D": "much"
+      },
+      "correctAnswer": "B",
+      "translationJa": "3通の請求書が一緒に届きました。請求書はすべて会計システムに入力されました。",
+      "explanationJa": "既知の複数主語の後ろにallを置き、その全件を表します。",
+      "focus": "be動詞後のall",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0087_Q37",
+      "format": "context-completion",
+      "prompt": "The checklist has a separate line for each requirement. ------- item is marked complete or pending.",
+      "choices": {
+        "A": "Every",
+        "B": "All",
+        "C": "Much",
+        "D": "Both"
+      },
+      "correctAnswer": "A",
+      "translationJa": "チェックリストには各要件ごとに行があります。各項目は完了または保留と記されます。",
+      "explanationJa": "separate lineとeach requirementから一項目ずつ見るEvery itemが適切です。",
+      "focus": "every＋単数受動",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0087_Q38",
+      "format": "context-completion",
+      "prompt": "The flood damaged the storage area. Unfortunately, ------- the inventory was lost.",
+      "choices": {
+        "A": "every",
+        "B": "many",
+        "C": "each",
+        "D": "all"
+      },
+      "correctAnswer": "D",
+      "translationJa": "洪水で保管場所が被害を受けました。残念ながら在庫はすべて失われました。",
+      "explanationJa": "inventoryを不可算の総在庫として扱い、all the inventoryで全量を示します。",
+      "focus": "all＋不可算inventory",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0087_Q39",
+      "format": "context-completion",
+      "prompt": "The receptionists work different shifts, but they have ------- received the same instructions.",
+      "choices": {
+        "A": "every",
+        "B": "all",
+        "C": "each",
+        "D": "much"
+      },
+      "correctAnswer": "B",
+      "translationJa": "受付担当者は異なる時間帯に勤務しますが、全員が同じ指示を受けています。",
+      "explanationJa": "複数代名詞theyの完了形でhave all receivedと置きます。",
+      "focus": "代名詞と完了形のall",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0087_Q40",
+      "format": "context-completion",
+      "prompt": "The company avoids gendered assumptions in its forms. ------- applicant may state their preferred contact method.",
+      "choices": {
+        "A": "All",
+        "B": "Many",
+        "C": "Every",
+        "D": "Both"
+      },
+      "correctAnswer": "C",
+      "translationJa": "会社は書式で性別に関する決めつけを避けています。応募者は一人ひとり希望する連絡方法を記載できます。",
+      "explanationJa": "Every applicantは単数扱いですが、性別を限定しないtheirで自然に受けます。",
+      "focus": "everyと性別中立のtheir",
+      "difficulty": "advanced"
+    }
+  ]
+}
