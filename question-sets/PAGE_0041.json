@@ -1,1 +1,673 @@
-{"schemaVersion":1,"page":{"number":41,"id":"grammar-master-0041","title":"4つの『させる』は力が違う","image":"pages/PAGE_0041.webp","sourcePrompt":"source-prompts/PAGE_0041.txt"},"analysis":{"summaryJa":"make/have/let/getは日本語では『させる』に重なるが、makeは強制・強い因果、haveは当然の流れとしての手配、letは許可、getは説得・働きかけで行動へ向かわせるという力加減が違う。getだけは人の後ろにto不定詞を取る。","grammarPoints":["make＋O＋原形","have＋O＋原形","let＋O＋原形","get＋O＋to不定詞","4使役のニュアンス差"],"visualEvidence":["4つの異なるレバー","force/routine/permission/persuasionの働きかけ","getだけ行動へ導くイメージ"],"commonTraps":["get後に原形を置く","make/let後にtoを置く","4語を意味差なく交換する","haveを強制だけと解釈する"]},"questions":[{"id":"PAGE_0041_Q01","format":"part5-cloze","prompt":"The emergency alarm made everyone ------- the building immediately.","choices":{"A":"leave","B":"to leave","C":"left","D":"leaving"},"correctAnswer":"A","translationJa":"非常警報により全員がすぐ建物を出ました。","explanationJa":"強い原因・働きかけのmake＋O＋原形leaveです。","focus":"make＋原形","difficulty":"basic"},{"id":"PAGE_0041_Q02","format":"part5-cloze","prompt":"I'll have the receptionist ------- the visitor list before lunch.","choices":{"A":"to update","B":"update","C":"updated","D":"updating"},"correctAnswer":"B","translationJa":"昼食前に受付担当者に来訪者一覧を更新してもらいます。","explanationJa":"業務として手配するhave＋人＋原形です。","focus":"have＋原形","difficulty":"basic"},{"id":"PAGE_0041_Q03","format":"part5-cloze","prompt":"The manager let us ------- the training room for our team meeting.","choices":{"A":"to use","B":"used","C":"use","D":"using"},"correctAnswer":"C","translationJa":"部長は私たちがチーム会議に研修室を使うことを許可しました。","explanationJa":"許可のlet＋O＋原形useです。","focus":"let＋原形","difficulty":"basic"},{"id":"PAGE_0041_Q04","format":"part5-cloze","prompt":"We got the supplier ------- the replacement parts by Friday.","choices":{"A":"ship","B":"shipped","C":"shipping","D":"to ship"},"correctAnswer":"D","translationJa":"私たちは仕入先に働きかけて金曜日までに交換部品を発送してもらいました。","explanationJa":"説得・働きかけのget＋O＋to不定詞です。","focus":"get＋O＋to不定詞","difficulty":"basic"},{"id":"PAGE_0041_Q05","format":"part5-cloze","prompt":"The strict deadline made the design team ------- its priorities.","choices":{"A":"reconsider","B":"to reconsider","C":"reconsidered","D":"reconsidering"},"correctAnswer":"A","translationJa":"厳しい期限によって設計チームは優先順位を再検討することになりました。","explanationJa":"deadlineが強い原因となるmake使役なので原形です。","focus":"非人主語make","difficulty":"intermediate"},{"id":"PAGE_0041_Q06","format":"part5-cloze","prompt":"The director had her assistant ------- a taxi for the visiting client.","choices":{"A":"to arrange","B":"arrange","C":"arranged","D":"arranging"},"correctAnswer":"B","translationJa":"取締役はアシスタントに来訪顧客のタクシーを手配してもらいました。","explanationJa":"通常業務として任せるhave＋人＋原形です。","focus":"手配have","difficulty":"intermediate"},{"id":"PAGE_0041_Q07","format":"part5-cloze","prompt":"Security let the delivery crew ------- through the side entrance after checking their badges.","choices":{"A":"to enter","B":"entered","C":"enter","D":"entering"},"correctAnswer":"C","translationJa":"警備はバッジ確認後、配送スタッフが側面入口から入ることを許可しました。","explanationJa":"permissionを表すletの後は原形enterです。","focus":"許可let","difficulty":"intermediate"},{"id":"PAGE_0041_Q08","format":"part5-cloze","prompt":"After several calls, we finally got the contractor ------- the repair date.","choices":{"A":"confirm","B":"confirmed","C":"confirming","D":"to confirm"},"correctAnswer":"D","translationJa":"何度か電話した末、ようやく請負業者に修理日を確定してもらいました。","explanationJa":"働きかけの結果行動させるget＋O＋to confirmです。","focus":"説得get","difficulty":"intermediate"},{"id":"PAGE_0041_Q09","format":"part5-cloze","prompt":"The unexpected system failure made the support team ------- overnight to restore service.","choices":{"A":"work","B":"to work","C":"worked","D":"working"},"correctAnswer":"A","translationJa":"予期しないシステム障害のためサポートチームは復旧のため徹夜で働くことになりました。","explanationJa":"状況が強く行動を引き起こすmake＋O＋原形です。","focus":"makeの因果","difficulty":"advanced"},{"id":"PAGE_0041_Q10","format":"part5-cloze","prompt":"If persuasion is central to the meaning, the best pattern is -------.","choices":{"A":"let + O + bare verb","B":"get + O + to-infinitive","C":"make + O + past participle","D":"have + O + to-infinitive"},"correctAnswer":"B","translationJa":"説得が中心ならget＋O＋to不定詞が最適です。","explanationJa":"getは相手へ働きかけて行動に向かわせるニュアンスです。","focus":"4使役の選択","difficulty":"advanced"},{"id":"PAGE_0041_Q11","format":"correct-sentence","prompt":"Choose the correct sentence with “make.”","choices":{"A":"The rule made employees wear badges.","B":"The rule made employees to wear badges.","C":"The rule made employees wore badges.","D":"The rule made to employees wear badges."},"correctAnswer":"A","translationJa":"その規則により従業員はバッジを着用することになりました。","explanationJa":"make＋O＋原形wearです。","focus":"make構文","difficulty":"basic"},{"id":"PAGE_0041_Q12","format":"correct-sentence","prompt":"Choose the correct sentence with “get.”","choices":{"A":"We got the technician inspect the unit.","B":"We got the technician inspected the unit.","C":"We got to the technician inspect the unit.","D":"We got the technician to inspect the unit."},"correctAnswer":"D","translationJa":"私たちは技術者に働きかけて装置を点検してもらいました。","explanationJa":"get使役はOの後ろにto不定詞を置きます。","focus":"get構文","difficulty":"basic"},{"id":"PAGE_0041_Q13","format":"correct-sentence","prompt":"Choose the correct sentence expressing permission.","choices":{"A":"The host made guests leave their coats here.","B":"The host let guests leave their coats here.","C":"The host got guests leave their coats here.","D":"The host let guests to leave their coats here."},"correctAnswer":"B","translationJa":"主催者は来客がここにコートを置くことを許可しました。","explanationJa":"許可のニュアンスにはletが適切です。","focus":"letの意味","difficulty":"intermediate"},{"id":"PAGE_0041_Q14","format":"correct-sentence","prompt":"Choose the sentence that best expresses routine delegation rather than persuasion.","choices":{"A":"I'll make our regular courier collect it, implying force.","B":"I'll get our regular courier to collect it, emphasizing persuasion.","C":"I'll have our regular courier collect it.","D":"I'll let our regular courier collect it, emphasizing permission."},"correctAnswer":"C","translationJa":"いつもの配送業者に回収してもらいます。","explanationJa":"通常の手配・役割として任せるにはhaveが自然です。","focus":"haveのニュアンス","difficulty":"intermediate"},{"id":"PAGE_0041_Q15","format":"correct-sentence","prompt":"Choose the sentence that best expresses strong causation.","choices":{"A":"The loud noise made everyone turn around.","B":"The loud noise let everyone turn around.","C":"The loud noise had everyone turn around as routine assignment.","D":"The loud noise got everyone to turn around through persuasion."},"correctAnswer":"A","translationJa":"大きな音で全員が振り向きました。","explanationJa":"音が直接的な原因となって行動を引き起こすためmakeです。","focus":"強い因果","difficulty":"intermediate"},{"id":"PAGE_0041_Q16","format":"correct-sentence","prompt":"Choose the sentence that correctly uses “let.”","choices":{"A":"The supervisor let us to finish early.","B":"The supervisor let us finished early.","C":"The supervisor let to us finish early.","D":"The supervisor let us finish early."},"correctAnswer":"D","translationJa":"上司は私たちが早く終えることを許可しました。","explanationJa":"let＋O＋原形finishです。","focus":"let形式","difficulty":"intermediate"},{"id":"PAGE_0041_Q17","format":"correct-sentence","prompt":"Choose the sentence that emphasizes effort to persuade.","choices":{"A":"After negotiating, we had the landlord reduce the fee as routine only.","B":"After negotiating, we got the landlord to reduce the fee.","C":"After negotiating, we let the landlord reduce the fee.","D":"After negotiating, we made landlord to reduce the fee."},"correctAnswer":"B","translationJa":"交渉の末、家主に料金を下げてもらいました。","explanationJa":"交渉・説得の過程があるのでgetが適切です。","focus":"get説得ニュアンス","difficulty":"intermediate"},{"id":"PAGE_0041_Q18","format":"correct-sentence","prompt":"Choose the best contrast between “make” and “let.”","choices":{"A":"make and let both mean permission.","B":"make is routine assignment; let is persuasion.","C":"make pushes toward an action; let removes a barrier and permits it.","D":"let requires to-infinitive while make requires past participle."},"correctAnswer":"C","translationJa":"makeは行動へ押し、letは障壁を取り除いて許可するイメージです。","explanationJa":"2語の働きかけの方向性を正しく対比しています。","focus":"make vs let","difficulty":"advanced"},{"id":"PAGE_0041_Q19","format":"correct-sentence","prompt":"Choose the best contrast between “have” and “get.”","choices":{"A":"have often presents an arrangement as expected/routine; get highlights effort or persuasion.","B":"have always means force; get always means permission.","C":"both require to-infinitives.","D":"get takes a bare verb and have takes to-infinitive."},"correctAnswer":"A","translationJa":"haveは自然な手配、getは説得・努力を強調しやすいです。","explanationJa":"両者の典型的ニュアンス差です。","focus":"have vs get","difficulty":"advanced"},{"id":"PAGE_0041_Q20","format":"correct-sentence","prompt":"Choose the grammatically correct pair.","choices":{"A":"make him to go / get him go","B":"make him go / get him to go","C":"make him went / get him going to go","D":"make to him go / get to him go"},"correctAnswer":"B","translationJa":"make him go / get him to goが正しい組合せです。","explanationJa":"makeは原形、getはto不定詞を取ります。","focus":"形式対比","difficulty":"advanced"},{"id":"PAGE_0041_Q21","format":"meaning-equivalent","prompt":"Choose the sentence closest in meaning to: “The manager made us redo the report.”","choices":{"A":"The manager caused/required us to redo it.","B":"The manager merely permitted us to redo it.","C":"We persuaded the manager to redo it.","D":"The manager routinely asked someone else."},"correctAnswer":"A","translationJa":"部長の強い働きかけで私たちは報告書をやり直しました。","explanationJa":"makeは強制・強い因果を示します。","focus":"make意味","difficulty":"basic"},{"id":"PAGE_0041_Q22","format":"meaning-equivalent","prompt":"Choose the sentence closest in meaning to: “I'll have Tom call you.”","choices":{"A":"I'll force you to call Tom.","B":"I'll arrange for Tom to call you.","C":"I'll merely permit Tom to call.","D":"I'll persuade you to call Tom."},"correctAnswer":"B","translationJa":"トムからあなたへ電話するよう手配します。","explanationJa":"haveは自然な手配・依頼を表します。","focus":"have意味","difficulty":"basic"},{"id":"PAGE_0041_Q23","format":"meaning-equivalent","prompt":"Choose the sentence closest in meaning to: “They let us use the lounge.”","choices":{"A":"They forced us to use it.","B":"They persuaded us to use it.","C":"They allowed us to use it.","D":"They assigned us the task of using it."},"correctAnswer":"C","translationJa":"彼らは私たちがラウンジを使うことを許可しました。","explanationJa":"letの中心はpermissionです。","focus":"let意味","difficulty":"basic"},{"id":"PAGE_0041_Q24","format":"meaning-equivalent","prompt":"Choose the sentence closest in meaning to: “We got the owner to extend the deadline.”","choices":{"A":"We merely permitted the owner.","B":"The owner forced us.","C":"We routinely assigned the owner.","D":"We persuaded/succeeded in getting the owner to extend it."},"correctAnswer":"D","translationJa":"私たちは所有者に働きかけて期限を延ばしてもらうことに成功しました。","explanationJa":"getは働きかけ・説得の結果を表します。","focus":"get意味","difficulty":"intermediate"},{"id":"PAGE_0041_Q25","format":"meaning-equivalent","prompt":"Choose the sentence closest in meaning to: “The heat made the device shut down.”","choices":{"A":"The heat caused the shutdown action.","B":"The heat permitted the device to shut down.","C":"The device persuaded the heat.","D":"Someone routinely assigned heat."},"correctAnswer":"A","translationJa":"熱が原因で装置が停止しました。","explanationJa":"非人主語でもmakeは強い因果を表します。","focus":"因果make","difficulty":"intermediate"},{"id":"PAGE_0041_Q26","format":"meaning-equivalent","prompt":"Choose the sentence closest in meaning to: “I had the clerk check the form.”","choices":{"A":"I persuaded the clerk after great resistance necessarily.","B":"I arranged/asked for the clerk to check it.","C":"I allowed the clerk with no request.","D":"I forced the form to check the clerk."},"correctAnswer":"B","translationJa":"私は店員に用紙を確認してもらいました。","explanationJa":"haveは手配・依頼として自然に行動してもらう意味です。","focus":"手配have","difficulty":"intermediate"},{"id":"PAGE_0041_Q27","format":"meaning-equivalent","prompt":"Choose the sentence closest in meaning to: “The teacher let students leave.”","choices":{"A":"The teacher made them leave by force.","B":"Students persuaded the teacher to leave.","C":"The teacher gave students permission to leave.","D":"The teacher assigned leaving as a routine task."},"correctAnswer":"C","translationJa":"先生は生徒が帰ることを許可しました。","explanationJa":"letは自由に行動
+{
+  "schemaVersion": 1,
+  "page": {
+    "number": 41,
+    "id": "grammar-master-0041",
+    "title": "4つの『させる』は力が違う",
+    "image": "pages/PAGE_0041.webp",
+    "sourcePrompt": "source-prompts/PAGE_0041.txt"
+  },
+  "analysis": {
+    "summaryJa": "make/have/let/getは日本語では『させる』に重なるが、makeは強制・強い因果、haveは当然の流れとしての手配、letは許可、getは説得・働きかけで行動へ向かわせるという力加減が違う。getだけは人の後ろにto不定詞を取る。",
+    "grammarPoints": [
+      "make＋O＋原形",
+      "have＋O＋原形",
+      "let＋O＋原形",
+      "get＋O＋to不定詞",
+      "4使役のニュアンス差"
+    ],
+    "visualEvidence": [
+      "4つの異なるレバー",
+      "force/routine/permission/persuasionの働きかけ",
+      "getだけ行動へ導くイメージ"
+    ],
+    "commonTraps": [
+      "get後に原形を置く",
+      "make/let後にtoを置く",
+      "4語を意味差なく交換する",
+      "haveを強制だけと解釈する"
+    ]
+  },
+  "questions": [
+    {
+      "id": "PAGE_0041_Q01",
+      "format": "part5-cloze",
+      "prompt": "The emergency alarm made everyone ------- the building immediately.",
+      "choices": {
+        "A": "leave",
+        "B": "to leave",
+        "C": "left",
+        "D": "leaving"
+      },
+      "correctAnswer": "A",
+      "translationJa": "非常警報により全員がすぐ建物を出ました。",
+      "explanationJa": "強い原因・働きかけのmake＋O＋原形leaveです。",
+      "focus": "make＋原形",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0041_Q02",
+      "format": "part5-cloze",
+      "prompt": "I'll have the receptionist ------- the visitor list before lunch.",
+      "choices": {
+        "A": "to update",
+        "B": "update",
+        "C": "updated",
+        "D": "updating"
+      },
+      "correctAnswer": "B",
+      "translationJa": "昼食前に受付担当者に来訪者一覧を更新してもらいます。",
+      "explanationJa": "業務として手配するhave＋人＋原形です。",
+      "focus": "have＋原形",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0041_Q03",
+      "format": "part5-cloze",
+      "prompt": "The manager let us ------- the training room for our team meeting.",
+      "choices": {
+        "A": "to use",
+        "B": "used",
+        "C": "use",
+        "D": "using"
+      },
+      "correctAnswer": "C",
+      "translationJa": "部長は私たちがチーム会議に研修室を使うことを許可しました。",
+      "explanationJa": "許可のlet＋O＋原形useです。",
+      "focus": "let＋原形",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0041_Q04",
+      "format": "part5-cloze",
+      "prompt": "We got the supplier ------- the replacement parts by Friday.",
+      "choices": {
+        "A": "ship",
+        "B": "shipped",
+        "C": "shipping",
+        "D": "to ship"
+      },
+      "correctAnswer": "D",
+      "translationJa": "私たちは仕入先に働きかけて金曜日までに交換部品を発送してもらいました。",
+      "explanationJa": "説得・働きかけのget＋O＋to不定詞です。",
+      "focus": "get＋O＋to不定詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0041_Q05",
+      "format": "part5-cloze",
+      "prompt": "The strict deadline made the design team ------- its priorities.",
+      "choices": {
+        "A": "reconsider",
+        "B": "to reconsider",
+        "C": "reconsidered",
+        "D": "reconsidering"
+      },
+      "correctAnswer": "A",
+      "translationJa": "厳しい期限によって設計チームは優先順位を再検討することになりました。",
+      "explanationJa": "deadlineが強い原因となるmake使役なので原形です。",
+      "focus": "非人主語make",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0041_Q06",
+      "format": "part5-cloze",
+      "prompt": "The director had her assistant ------- a taxi for the visiting client.",
+      "choices": {
+        "A": "to arrange",
+        "B": "arrange",
+        "C": "arranged",
+        "D": "arranging"
+      },
+      "correctAnswer": "B",
+      "translationJa": "取締役はアシスタントに来訪顧客のタクシーを手配してもらいました。",
+      "explanationJa": "通常業務として任せるhave＋人＋原形です。",
+      "focus": "手配have",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0041_Q07",
+      "format": "part5-cloze",
+      "prompt": "Security let the delivery crew ------- through the side entrance after checking their badges.",
+      "choices": {
+        "A": "to enter",
+        "B": "entered",
+        "C": "enter",
+        "D": "entering"
+      },
+      "correctAnswer": "C",
+      "translationJa": "警備はバッジ確認後、配送スタッフが側面入口から入ることを許可しました。",
+      "explanationJa": "permissionを表すletの後は原形enterです。",
+      "focus": "許可let",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0041_Q08",
+      "format": "part5-cloze",
+      "prompt": "After several calls, we finally got the contractor ------- the repair date.",
+      "choices": {
+        "A": "confirm",
+        "B": "confirmed",
+        "C": "confirming",
+        "D": "to confirm"
+      },
+      "correctAnswer": "D",
+      "translationJa": "何度か電話した末、ようやく請負業者に修理日を確定してもらいました。",
+      "explanationJa": "働きかけの結果行動させるget＋O＋to confirmです。",
+      "focus": "説得get",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0041_Q09",
+      "format": "part5-cloze",
+      "prompt": "The unexpected system failure made the support team ------- overnight to restore service.",
+      "choices": {
+        "A": "work",
+        "B": "to work",
+        "C": "worked",
+        "D": "working"
+      },
+      "correctAnswer": "A",
+      "translationJa": "予期しないシステム障害のためサポートチームは復旧のため徹夜で働くことになりました。",
+      "explanationJa": "状況が強く行動を引き起こすmake＋O＋原形です。",
+      "focus": "makeの因果",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0041_Q10",
+      "format": "part5-cloze",
+      "prompt": "If persuasion is central to the meaning, the best pattern is -------.",
+      "choices": {
+        "A": "let + O + bare verb",
+        "B": "get + O + to-infinitive",
+        "C": "make + O + past participle",
+        "D": "have + O + to-infinitive"
+      },
+      "correctAnswer": "B",
+      "translationJa": "説得が中心ならget＋O＋to不定詞が最適です。",
+      "explanationJa": "getは相手へ働きかけて行動に向かわせるニュアンスです。",
+      "focus": "4使役の選択",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0041_Q11",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence with “make.”",
+      "choices": {
+        "A": "The rule made employees wore badges.",
+        "B": "The rule made employees to wear badges.",
+        "C": "The rule made employees wear badges.",
+        "D": "The rule made to employees wear badges."
+      },
+      "correctAnswer": "C",
+      "translationJa": "その規則により従業員はバッジを着用することになりました。",
+      "explanationJa": "make＋O＋原形wearです。",
+      "focus": "make構文",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0041_Q12",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence with “get.”",
+      "choices": {
+        "A": "We got the technician inspect the unit.",
+        "B": "We got the technician inspected the unit.",
+        "C": "We got to the technician inspect the unit.",
+        "D": "We got the technician to inspect the unit."
+      },
+      "correctAnswer": "D",
+      "translationJa": "私たちは技術者に働きかけて装置を点検してもらいました。",
+      "explanationJa": "get使役はOの後ろにto不定詞を置きます。",
+      "focus": "get構文",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0041_Q13",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence expressing permission.",
+      "choices": {
+        "A": "The host let guests leave their coats here.",
+        "B": "The host made guests leave their coats here.",
+        "C": "The host got guests leave their coats here.",
+        "D": "The host let guests to leave their coats here."
+      },
+      "correctAnswer": "A",
+      "translationJa": "主催者は来客がここにコートを置くことを許可しました。",
+      "explanationJa": "許可のニュアンスにはletが適切です。",
+      "focus": "letの意味",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0041_Q14",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that best expresses routine delegation rather than persuasion.",
+      "choices": {
+        "A": "I'll make our regular courier collect it, implying force.",
+        "B": "I'll have our regular courier collect it.",
+        "C": "I'll get our regular courier to collect it, emphasizing persuasion.",
+        "D": "I'll let our regular courier collect it, emphasizing permission."
+      },
+      "correctAnswer": "B",
+      "translationJa": "いつもの配送業者に回収してもらいます。",
+      "explanationJa": "通常の手配・役割として任せるにはhaveが自然です。",
+      "focus": "haveのニュアンス",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0041_Q15",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that best expresses strong causation.",
+      "choices": {
+        "A": "The loud noise had everyone turn around as routine assignment.",
+        "B": "The loud noise let everyone turn around.",
+        "C": "The loud noise made everyone turn around.",
+        "D": "The loud noise got everyone to turn around through persuasion."
+      },
+      "correctAnswer": "C",
+      "translationJa": "大きな音で全員が振り向きました。",
+      "explanationJa": "音が直接的な原因となって行動を引き起こすためmakeです。",
+      "focus": "強い因果",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0041_Q16",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that correctly uses “let.”",
+      "choices": {
+        "A": "The supervisor let us to finish early.",
+        "B": "The supervisor let us finished early.",
+        "C": "The supervisor let to us finish early.",
+        "D": "The supervisor let us finish early."
+      },
+      "correctAnswer": "D",
+      "translationJa": "上司は私たちが早く終えることを許可しました。",
+      "explanationJa": "let＋O＋原形finishです。",
+      "focus": "let形式",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0041_Q17",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that emphasizes effort to persuade.",
+      "choices": {
+        "A": "After negotiating, we got the landlord to reduce the fee.",
+        "B": "After negotiating, we had the landlord reduce the fee as routine only.",
+        "C": "After negotiating, we let the landlord reduce the fee.",
+        "D": "After negotiating, we made landlord to reduce the fee."
+      },
+      "correctAnswer": "A",
+      "translationJa": "交渉の末、家主に料金を下げてもらいました。",
+      "explanationJa": "交渉・説得の過程があるのでgetが適切です。",
+      "focus": "get説得ニュアンス",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0041_Q18",
+      "format": "correct-sentence",
+      "prompt": "Choose the best contrast between “make” and “let.”",
+      "choices": {
+        "A": "make and let both mean permission.",
+        "B": "make pushes toward an action; let removes a barrier and permits it.",
+        "C": "make is routine assignment; let is persuasion.",
+        "D": "let requires to-infinitive while make requires past participle."
+      },
+      "correctAnswer": "B",
+      "translationJa": "makeは行動へ押し、letは障壁を取り除いて許可するイメージです。",
+      "explanationJa": "2語の働きかけの方向性を正しく対比しています。",
+      "focus": "make vs let",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0041_Q19",
+      "format": "correct-sentence",
+      "prompt": "Choose the best contrast between “have” and “get.”",
+      "choices": {
+        "A": "both require to-infinitives.",
+        "B": "have always means force; get always means permission.",
+        "C": "have often presents an arrangement as expected/routine; get highlights effort or persuasion.",
+        "D": "get takes a bare verb and have takes to-infinitive."
+      },
+      "correctAnswer": "C",
+      "translationJa": "haveは自然な手配、getは説得・努力を強調しやすいです。",
+      "explanationJa": "両者の典型的ニュアンス差です。",
+      "focus": "have vs get",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0041_Q20",
+      "format": "correct-sentence",
+      "prompt": "Choose the grammatically correct pair.",
+      "choices": {
+        "A": "make him to go / get him go",
+        "B": "make to him go / get to him go",
+        "C": "make him went / get him going to go",
+        "D": "make him go / get him to go"
+      },
+      "correctAnswer": "D",
+      "translationJa": "make him go / get him to goが正しい組合せです。",
+      "explanationJa": "makeは原形、getはto不定詞を取ります。",
+      "focus": "形式対比",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0041_Q21",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “The manager made us redo the report.”",
+      "choices": {
+        "A": "The manager caused/required us to redo it.",
+        "B": "The manager merely permitted us to redo it.",
+        "C": "We persuaded the manager to redo it.",
+        "D": "The manager routinely asked someone else."
+      },
+      "correctAnswer": "A",
+      "translationJa": "部長の強い働きかけで私たちは報告書をやり直しました。",
+      "explanationJa": "makeは強制・強い因果を示します。",
+      "focus": "make意味",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0041_Q22",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “I'll have Tom call you.”",
+      "choices": {
+        "A": "I'll force you to call Tom.",
+        "B": "I'll arrange for Tom to call you.",
+        "C": "I'll merely permit Tom to call.",
+        "D": "I'll persuade you to call Tom."
+      },
+      "correctAnswer": "B",
+      "translationJa": "トムからあなたへ電話するよう手配します。",
+      "explanationJa": "haveは自然な手配・依頼を表します。",
+      "focus": "have意味",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0041_Q23",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “They let us use the lounge.”",
+      "choices": {
+        "A": "They forced us to use it.",
+        "B": "They persuaded us to use it.",
+        "C": "They allowed us to use it.",
+        "D": "They assigned us the task of using it."
+      },
+      "correctAnswer": "C",
+      "translationJa": "彼らは私たちがラウンジを使うことを許可しました。",
+      "explanationJa": "letの中心はpermissionです。",
+      "focus": "let意味",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0041_Q24",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “We got the owner to extend the deadline.”",
+      "choices": {
+        "A": "We merely permitted the owner.",
+        "B": "The owner forced us.",
+        "C": "We routinely assigned the owner.",
+        "D": "We persuaded/succeeded in getting the owner to extend it."
+      },
+      "correctAnswer": "D",
+      "translationJa": "私たちは所有者に働きかけて期限を延ばしてもらうことに成功しました。",
+      "explanationJa": "getは働きかけ・説得の結果を表します。",
+      "focus": "get意味",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0041_Q25",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “The heat made the device shut down.”",
+      "choices": {
+        "A": "The heat caused the shutdown action.",
+        "B": "The heat permitted the device to shut down.",
+        "C": "The device persuaded the heat.",
+        "D": "Someone routinely assigned heat."
+      },
+      "correctAnswer": "A",
+      "translationJa": "熱が原因で装置が停止しました。",
+      "explanationJa": "非人主語でもmakeは強い因果を表します。",
+      "focus": "因果make",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0041_Q26",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “I had the clerk check the form.”",
+      "choices": {
+        "A": "I persuaded the clerk after great resistance necessarily.",
+        "B": "I arranged/asked for the clerk to check it.",
+        "C": "I allowed the clerk with no request.",
+        "D": "I forced the form to check the clerk."
+      },
+      "correctAnswer": "B",
+      "translationJa": "私は店員に用紙を確認してもらいました。",
+      "explanationJa": "haveは手配・依頼として自然に行動してもらう意味です。",
+      "focus": "手配have",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0041_Q27",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “The teacher let students leave.”",
+      "choices": {
+        "A": "The teacher made them leave by force.",
+        "B": "Students persuaded the teacher.",
+        "C": "The teacher gave students permission to leave.",
+        "D": "Leaving was a routine assignment."
+      },
+      "correctAnswer": "C",
+      "translationJa": "先生は生徒が帰ることを許可しました。",
+      "explanationJa": "letは自由に行動することを許す意味です。",
+      "focus": "let意味",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0041_Q28",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “After several discussions, we got the landlord to lower the fee.”",
+      "choices": {
+        "A": "We assigned a routine task with have.",
+        "B": "We merely permitted the owner.",
+        "C": "The owner forced us.",
+        "D": "We successfully persuaded the owner to extend it."
+      },
+      "correctAnswer": "D",
+      "translationJa": "何度か話し合った末、私たちは家主に働きかけて料金を下げてもらいました。",
+      "explanationJa": "getは説得・働きかけの結果を強調します。",
+      "focus": "get意味",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0041_Q29",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the best analysis of: “I'll have Tom call you.”",
+      "choices": {
+        "A": "It presents Tom's call as an arrangement or expected task.",
+        "B": "It necessarily means force.",
+        "C": "It means permission only.",
+        "D": "Tom must follow to call after have."
+      },
+      "correctAnswer": "A",
+      "translationJa": "トムから電話するよう自然に手配する意味です。",
+      "explanationJa": "haveは通常の依頼・手配に向きます。",
+      "focus": "haveのニュアンス",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0041_Q30",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the best contrast between make and get.",
+      "choices": {
+        "A": "both mean permission only.",
+        "B": "get takes a bare verb and make takes to-infinitive.",
+        "C": "make pushes or causes directly; get often highlights persuasion or effort.",
+        "D": "make is always weaker than get."
+      },
+      "correctAnswer": "C",
+      "translationJa": "makeは直接強く行動を生じさせ、getは説得や働きかけを強調します。",
+      "explanationJa": "働きかけ方の違いを正しく表します。",
+      "focus": "make vs get",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0041_Q31",
+      "format": "context-completion",
+      "prompt": "The alarm made everyone ------- the building.",
+      "choices": {
+        "A": "leaving",
+        "B": "to leave",
+        "C": "left",
+        "D": "leave"
+      },
+      "correctAnswer": "D",
+      "translationJa": "警報により全員が建物を出ました。",
+      "explanationJa": "make＋O＋原形です。",
+      "focus": "make＋原形",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0041_Q32",
+      "format": "context-completion",
+      "prompt": "I'll have the clerk ------- the reservation again.",
+      "choices": {
+        "A": "checked",
+        "B": "to check",
+        "C": "check",
+        "D": "checking"
+      },
+      "correctAnswer": "C",
+      "translationJa": "店員に予約を再確認してもらいます。",
+      "explanationJa": "have＋人＋原形で自然な手配を表します。",
+      "focus": "have＋原形",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0041_Q33",
+      "format": "context-completion",
+      "prompt": "The manager let us ------- the new tool before launch.",
+      "choices": {
+        "A": "to try",
+        "B": "try",
+        "C": "tried",
+        "D": "trying"
+      },
+      "correctAnswer": "B",
+      "translationJa": "部長は発売前に私たちが新しいツールを試すことを許可しました。",
+      "explanationJa": "letの後ろは原形tryです。",
+      "focus": "let＋原形",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0041_Q34",
+      "format": "context-completion",
+      "prompt": "After several calls, we got the vendor ------- a replacement today.",
+      "choices": {
+        "A": "to send",
+        "B": "send",
+        "C": "sent",
+        "D": "sending"
+      },
+      "correctAnswer": "A",
+      "translationJa": "何度か電話した末、業者に今日交換品を送ってもらいました。",
+      "explanationJa": "get＋O＋to不定詞で働きかけを表します。",
+      "focus": "get＋to不定詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0041_Q35",
+      "format": "context-completion",
+      "prompt": "The strict rule made employees ------- protective equipment.",
+      "choices": {
+        "A": "wearing",
+        "B": "to wear",
+        "C": "wore",
+        "D": "wear"
+      },
+      "correctAnswer": "D",
+      "translationJa": "厳しい規則により従業員は保護具を着用しました。",
+      "explanationJa": "makeの後は原形wearです。",
+      "focus": "make強制",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0041_Q36",
+      "format": "context-completion",
+      "prompt": "The director had her assistant ------- transportation for the guests.",
+      "choices": {
+        "A": "arranged",
+        "B": "to arrange",
+        "C": "arrange",
+        "D": "arranging"
+      },
+      "correctAnswer": "C",
+      "translationJa": "取締役はアシスタントに来客の交通手段を手配してもらいました。",
+      "explanationJa": "通常業務の手配としてhave＋原形です。",
+      "focus": "have手配",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0041_Q37",
+      "format": "context-completion",
+      "prompt": "Security let the crew ------- through the side gate.",
+      "choices": {
+        "A": "to enter",
+        "B": "enter",
+        "C": "entered",
+        "D": "entering"
+      },
+      "correctAnswer": "B",
+      "translationJa": "警備はスタッフが側門から入ることを許可しました。",
+      "explanationJa": "let＋O＋原形です。",
+      "focus": "let許可",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0041_Q38",
+      "format": "context-completion",
+      "prompt": "The outage made the support team ------- overnight.",
+      "choices": {
+        "A": "work",
+        "B": "to work",
+        "C": "worked",
+        "D": "working"
+      },
+      "correctAnswer": "A",
+      "translationJa": "障害によりサポートチームは徹夜で働くことになりました。",
+      "explanationJa": "状況が強い原因となるmake使役です。",
+      "focus": "make因果",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0041_Q39",
+      "format": "context-completion",
+      "prompt": "We got the landlord ------- the repair date after a long negotiation.",
+      "choices": {
+        "A": "confirming",
+        "B": "confirm",
+        "C": "confirmed",
+        "D": "to confirm"
+      },
+      "correctAnswer": "D",
+      "translationJa": "長い交渉の末、家主に修理日を確定してもらいました。",
+      "explanationJa": "説得・努力のget＋O＋to不定詞です。",
+      "focus": "get説得",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0041_Q40",
+      "format": "context-completion",
+      "prompt": "The supervisor had the regular courier ------- the package.",
+      "choices": {
+        "A": "to collect",
+        "B": "collect",
+        "C": "collected",
+        "D": "collecting"
+      },
+      "correctAnswer": "B",
+      "translationJa": "上司はいつもの配送業者に荷物を回収してもらいました。",
+      "explanationJa": "当然の手配としてhave＋人＋原形です。",
+      "focus": "have routine",
+      "difficulty": "advanced"
+    }
+  ]
+}
