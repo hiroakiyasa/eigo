@@ -1,0 +1,672 @@
+{
+  "schemaVersion": 1,
+  "page": {
+    "number": 212,
+    "id": "grammar-master-0212",
+    "title": "文の奥の空所を探す",
+    "image": "pages/PAGE_0212.webp",
+    "sourcePrompt": "source-prompts/PAGE_0212.txt"
+  },
+  "analysis": {
+    "summaryJa": "関係節がsay・think・expect・wantなどを含む入れ子構造でも、先行詞が内側のどの空所へ戻るかを追えば文の役割を判断できる。主語の空所には関係詞が必要だが、奥の目的語の空所なら目的格関係詞を省略できる。",
+    "grammarPoints": [
+      "先行詞から報告動詞を越えて埋め込み節内の空所を探すこと",
+      "内側の主語空所と目的語空所の区別",
+      "目的格関係詞の省略",
+      "want・expect＋人＋to do内にある目的語の空所"
+    ],
+    "visualEvidence": [
+      "画像のX線スコープと入れ子の箱がhead nounからembedded clause内のGAPまでの経路を示す",
+      "___ changed her lifeとhe had lost ___の対比で主語空所と目的語空所が色分けされている",
+      "you to meet ___・them to repair ___の不定詞内部まで矢印が続いている"
+    ],
+    "commonTraps": [
+      "最も近い動詞だけを見て先行詞の役割を誤る",
+      "内側の主語が欠けているのに関係詞を省略する",
+      "目的語がすでにある節に先行詞を戻そうとする",
+      "埋め込み節を疑問文語順にする"
+    ]
+  },
+  "questions": [
+    {
+      "id": "PAGE_0212_Q01",
+      "format": "part5-cloze",
+      "prompt": "The software ------- will reduce processing time is now being tested.",
+      "choices": {
+        "A": "engineers believe it",
+        "B": "that engineers believe it",
+        "C": "that engineers believe",
+        "D": "engineers believing that"
+      },
+      "correctAnswer": "C",
+      "translationJa": "技術者が処理時間を短縮すると考えているソフトウェアは、現在試験中です。",
+      "explanationJa": "thatが内側のwill reduceの主語になります。itを置くとsoftwareと目的が重複します。",
+      "focus": "埋め込み節内の主語空所",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0212_Q02",
+      "format": "part5-cloze",
+      "prompt": "The consultant ------- will visit our branch on Tuesday.",
+      "choices": {
+        "A": "I hoped you would meet",
+        "B": "I hoped you would meet her",
+        "C": "whom I hoped you would meet her",
+        "D": "I hoped would you meet"
+      },
+      "correctAnswer": "A",
+      "translationJa": "あなたに会ってほしいと思っていたコンサルタントが火曜日に支店を訪れます。",
+      "explanationJa": "consultantはmeetの目的語の空所に戻り、目的格関係詞は省略できます。",
+      "focus": "want型の奥の目的語空所",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0212_Q03",
+      "format": "part5-cloze",
+      "prompt": "Please resend the attachment ------- was missing from the original email.",
+      "choices": {
+        "A": "Ms. Cole says it",
+        "B": "that Ms. Cole says it",
+        "C": "Ms. Cole says was it",
+        "D": "that Ms. Cole says"
+      },
+      "correctAnswer": "D",
+      "translationJa": "コールさんが元のメールに添付されていなかったと言っているファイルを再送してください。",
+      "explanationJa": "thatが内側のwas missingの主語で、Ms. Cole saysを越えてattachmentに結び付きます。",
+      "focus": "報告動詞を越える主語関係",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0212_Q04",
+      "format": "part5-cloze",
+      "prompt": "The invoice ------- has finally been approved.",
+      "choices": {
+        "A": "we thought the client had rejected it",
+        "B": "we thought the client had rejected",
+        "C": "that we thought it had rejected",
+        "D": "we thought had the client rejected"
+      },
+      "correctAnswer": "B",
+      "translationJa": "顧客が却下したと思っていた請求書が、ついに承認されました。",
+      "explanationJa": "invoiceは内側のhad rejectedの目的語であり、節内にitを置きません。",
+      "focus": "過去完了節内の目的語空所",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0212_Q05",
+      "format": "part5-cloze",
+      "prompt": "The applicant ------- accepted our offer this morning.",
+      "choices": {
+        "A": "the director predicted would succeed",
+        "B": "the director predicted him would succeed",
+        "C": "the director predicted he would succeed",
+        "D": "predicted the director would succeed"
+      },
+      "correctAnswer": "A",
+      "translationJa": "部長が成功すると予測していた応募者が今朝、当社の申し出を受けました。",
+      "explanationJa": "applicantがwould succeedの主語です。heを置くと先行詞の戻る空所がなくなります。",
+      "focus": "予測内容節の主語空所",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0212_Q06",
+      "format": "part5-cloze",
+      "prompt": "We installed the equipment ------- before the inspection.",
+      "choices": {
+        "A": "the auditor requested us to replace it",
+        "B": "the auditor requested to us replace",
+        "C": "the auditor requested us to replace",
+        "D": "requested the auditor us to replace"
+      },
+      "correctAnswer": "C",
+      "translationJa": "私たちは監査人が検査前に交換するよう求めた機器を設置しました。",
+      "explanationJa": "equipmentはreplaceの目的語の空所に戻ります。itを加えると目的語が重複します。",
+      "focus": "request＋人＋to do内の空所",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0212_Q07",
+      "format": "part5-cloze",
+      "prompt": "The report ------- contains several calculation errors.",
+      "choices": {
+        "A": "Ms. Singh claims it was revised",
+        "B": "Ms. Singh claims was revised",
+        "C": "that Ms. Singh claims it was revised",
+        "D": "Ms. Singh claims revised it"
+      },
+      "correctAnswer": "B",
+      "translationJa": "シンさんが改訂されたと主張する報告書には、計算ミスがいくつかあります。",
+      "explanationJa": "reportが内側のwas revisedの主語となるため、claimsの後ろにitは不要です。",
+      "focus": "受動節の主語空所",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0212_Q08",
+      "format": "part5-cloze",
+      "prompt": "The venue ------- is unavailable on Friday.",
+      "choices": {
+        "A": "we expected the agency to reserve it",
+        "B": "we expected to reserve the agency",
+        "C": "expected we the agency to reserve",
+        "D": "we expected the agency to reserve"
+      },
+      "correctAnswer": "D",
+      "translationJa": "代理店が予約すると見込んでいた会場は、金曜日には利用できません。",
+      "explanationJa": "venueはto reserveの目的語で、expect＋目的語＋to不定詞の奥に空所があります。",
+      "focus": "expect＋人＋to doの目的語空所",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0212_Q09",
+      "format": "part5-cloze",
+      "prompt": "The policy ------- will take effect next month.",
+      "choices": {
+        "A": "the committee says it protects contractors",
+        "B": "that the committee says it protects contractors",
+        "C": "the committee says protects contractors",
+        "D": "the committee says protecting contractors"
+      },
+      "correctAnswer": "C",
+      "translationJa": "委員会が請負業者を保護すると説明する方針は、来月発効します。",
+      "explanationJa": "policyがprotects contractorsの主語です。関係詞を省略したりitを足したりできません。",
+      "focus": "深い主語空所と関係詞",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0212_Q10",
+      "format": "part5-cloze",
+      "prompt": "Here is the prototype ------- during the trade show.",
+      "choices": {
+        "A": "our manager wants visitors to test it",
+        "B": "our manager wants to visitors test",
+        "C": "wants our manager visitors test it",
+        "D": "our manager wants visitors to test"
+      },
+      "correctAnswer": "D",
+      "translationJa": "こちらが展示会中に来場者に試してもらいたい試作品です。",
+      "explanationJa": "prototypeはvisitors to testの目的語の空所に入ります。目的格関係詞は省略されています。",
+      "focus": "want＋人＋to do内の目的語",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0212_Q11",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about a device expected to save energy.",
+      "choices": {
+        "A": "The device our engineers think it will save energy is on display.",
+        "B": "The device that our engineers think will save energy is on display.",
+        "C": "The device that our engineers think it will save energy is on display.",
+        "D": "The device that think our engineers will save energy is on display."
+      },
+      "correctAnswer": "B",
+      "translationJa": "技術者が省エネになると考えている装置が展示されています。",
+      "explanationJa": "thatがthinkの内側にあるwill save energyの主語の空所を埋めます。",
+      "focus": "内側の主語を表すthat",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0212_Q12",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about a document someone misplaced.",
+      "choices": {
+        "A": "I found the contract you said you had misplaced it.",
+        "B": "I found the contract did you say you had misplaced.",
+        "C": "I found the contract you said had you misplaced.",
+        "D": "I found the contract you said you had misplaced."
+      },
+      "correctAnswer": "D",
+      "translationJa": "あなたが紛失したと言っていた契約書を見つけました。",
+      "explanationJa": "contractはhad misplacedの目的語で、目的格関係詞を省略した正しい構造です。",
+      "focus": "埋め込み目的語の関係詞省略",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0212_Q13",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about a candidate predicted to excel.",
+      "choices": {
+        "A": "The candidate who the panel believes will excel has arrived.",
+        "B": "The candidate the panel believes she will excel has arrived.",
+        "C": "The candidate who the panel believes she will excel has arrived.",
+        "D": "The candidate whom the panel believes will excel her has arrived."
+      },
+      "correctAnswer": "A",
+      "translationJa": "選考委員会が優秀な成果を上げると考えている候補者が到着しました。",
+      "explanationJa": "whoが内側のwill excelの主語になります。sheを重ねることはできません。",
+      "focus": "人を表す深い主語空所",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0212_Q14",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about a technician the director wanted us to contact.",
+      "choices": {
+        "A": "The technician the director wanted us to contact him is on leave.",
+        "B": "The technician wanted the director us to contact is on leave.",
+        "C": "The technician the director wanted us to contact is on leave.",
+        "D": "The technician the director wanted did we contact is on leave."
+      },
+      "correctAnswer": "C",
+      "translationJa": "部長が私たちに連絡してほしかった技術者は休暇中です。",
+      "explanationJa": "technicianはcontactの目的語で、want＋人＋to doの内側の空所に対応します。",
+      "focus": "want構文内の関係節",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0212_Q15",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about an update reported to fix an error.",
+      "choices": {
+        "A": "The update support says it fixes the error is ready.",
+        "B": "The update that support says it fixes the error is ready.",
+        "C": "The update that support says does it fix the error is ready.",
+        "D": "The update that support says fixes the error is ready."
+      },
+      "correctAnswer": "D",
+      "translationJa": "サポート担当がエラーを修正すると言っている更新版が準備できています。",
+      "explanationJa": "thatがfixesの主語で、support saysはその途中に挿入された報告部分です。",
+      "focus": "報告節の奥の主語関係",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0212_Q16",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about furniture ordered for assembly.",
+      "choices": {
+        "A": "The desks we expected the supplier to assemble them arrived today.",
+        "B": "The desks we expected the supplier to assemble arrived today.",
+        "C": "The desks expected we the supplier to assemble arrived today.",
+        "D": "The desks we expected to the supplier assemble arrived today."
+      },
+      "correctAnswer": "B",
+      "translationJa": "仕入先が組み立てると見込んでいた机が今日届きました。",
+      "explanationJa": "desksはto assembleの目的語であり、themを重ねません。",
+      "focus": "expect構文内の目的語空所",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0212_Q17",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about a result believed to be final.",
+      "choices": {
+        "A": "The result analysts say it is final will be announced today.",
+        "B": "The result that analysts say it is final will be announced today.",
+        "C": "The result that analysts say is final will be announced today.",
+        "D": "The result that say analysts is final will be announced today."
+      },
+      "correctAnswer": "C",
+      "translationJa": "分析担当者が最終結果だと言っている結果が今日発表されます。",
+      "explanationJa": "thatがis finalの主語となり、analysts sayを越えてresultに戻ります。",
+      "focus": "補語を伴う内側の主語空所",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0212_Q18",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about a form a manager asked staff to complete.",
+      "choices": {
+        "A": "This is the form the manager asked every employee to complete.",
+        "B": "This is the form the manager asked every employee to complete it.",
+        "C": "This is the form asked the manager every employee to complete.",
+        "D": "This is the form the manager asked to every employee complete."
+      },
+      "correctAnswer": "A",
+      "translationJa": "これが部長が全従業員に記入を求めた用紙です。",
+      "explanationJa": "formはcompleteの目的語の空所に対応し、ask＋人＋to doの語順を保ちます。",
+      "focus": "ask＋人＋to do内の空所",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0212_Q19",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about an item presumed to be defective.",
+      "choices": {
+        "A": "The part inspectors assumed it was defective passed the test.",
+        "B": "The part that inspectors assumed it was defective passed the test.",
+        "C": "The part that was inspectors assumed defective it passed the test.",
+        "D": "The part that inspectors assumed was defective passed the test."
+      },
+      "correctAnswer": "D",
+      "translationJa": "検査員が欠陥品だと考えていた部品は試験に合格しました。",
+      "explanationJa": "thatはwas defectiveの主語の空所に入り、assumedの目的語節全体を構成します。",
+      "focus": "assume節内の主語空所",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0212_Q20",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about a proposal believed to have been withdrawn.",
+      "choices": {
+        "A": "The proposal we thought the client had withdrawn it is still active.",
+        "B": "The proposal we thought had the client withdrawn is still active.",
+        "C": "The proposal we thought the client had withdrawn is still active.",
+        "D": "The proposal thought we the client had withdrawn it is still active."
+      },
+      "correctAnswer": "C",
+      "translationJa": "顧客が取り下げたと思っていた提案は、まだ有効です。",
+      "explanationJa": "proposalはhad withdrawnの目的語で、最も奥の動詞の後ろに空所があります。",
+      "focus": "入れ子を越える目的語関係",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0212_Q21",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The brochure that Mia says attracts tourists is being reprinted.\"",
+      "choices": {
+        "A": "Mia says tourists are reprinting the brochure.",
+        "B": "The brochure says Mia attracts tourists.",
+        "C": "Mia says the brochure is attracted by reprinting.",
+        "D": "Mia says the brochure attracts tourists, and it is being reprinted."
+      },
+      "correctAnswer": "D",
+      "translationJa": "ミアが観光客を引き付けると言っているパンフレットは、増刷されています。",
+      "explanationJa": "関係節内ではbrochureがattractsの主語であり、言い換えでもその関係を保っています。",
+      "focus": "深い主語関係の意味",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0212_Q22",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"We repaired the scanner the clerk thought she had broken.\"",
+      "choices": {
+        "A": "The scanner thought the clerk had repaired it.",
+        "B": "The clerk thought she had broken the scanner, and we repaired it.",
+        "C": "The clerk repaired a scanner that we broke.",
+        "D": "We thought the clerk had repaired the scanner."
+      },
+      "correctAnswer": "B",
+      "translationJa": "係員が壊したと思っていたスキャナーを私たちは修理しました。",
+      "explanationJa": "scannerはhad brokenの目的語です。正解はその関係と主節の修理を両方保持します。",
+      "focus": "奥の目的語関係の展開",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0212_Q23",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The analyst who we expect will lead the review starts Monday.\"",
+      "choices": {
+        "A": "The analyst expects us to lead Monday’s review.",
+        "B": "We expect the review to start the analyst on Monday.",
+        "C": "We expect the analyst to lead the review, and the analyst starts Monday.",
+        "D": "The analyst led the review before Monday."
+      },
+      "correctAnswer": "C",
+      "translationJa": "審査を主導すると見込んでいる分析担当者は月曜日に勤務を始めます。",
+      "explanationJa": "whoはwill leadの主語で、正解ではthe analystをその主語として明示しています。",
+      "focus": "主語空所の意味展開",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0212_Q24",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The vendor I wanted you to call has responded.\"",
+      "choices": {
+        "A": "I wanted you to call the vendor, and the vendor has responded.",
+        "B": "The vendor wanted to call you and has responded.",
+        "C": "You wanted the vendor to call me.",
+        "D": "I called you because the vendor responded."
+      },
+      "correctAnswer": "A",
+      "translationJa": "あなたに電話してほしかった仕入先から返答がありました。",
+      "explanationJa": "vendorはcallの目的語です。正解ではwanted you to call the vendorと空所を展開しています。",
+      "focus": "want構文の目的語関係",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0212_Q25",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The change that experts predict will increase sales begins today.\"",
+      "choices": {
+        "A": "Experts predict sales will prevent the change.",
+        "B": "Experts predict the change will increase sales, and it begins today.",
+        "C": "The change predicts experts will begin sales today.",
+        "D": "Experts increased sales before the change."
+      },
+      "correctAnswer": "B",
+      "translationJa": "専門家が売上を増加させると予測する変更が今日始まります。",
+      "explanationJa": "changeはpredictの直後ではなく、内側のwill increaseの主語です。",
+      "focus": "predict節内の主語",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0212_Q26",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"I reviewed the file you believed the auditor had requested.\"",
+      "choices": {
+        "A": "The auditor believed you reviewed the file.",
+        "B": "You requested the auditor to review my file.",
+        "C": "I believed you had reviewed the auditor.",
+        "D": "You believed the auditor had requested the file, and I reviewed it."
+      },
+      "correctAnswer": "D",
+      "translationJa": "監査人が求めたとあなたが思っていたファイルを、私が確認しました。",
+      "explanationJa": "fileはhad requestedの目的語で、正解は入れ子をほどいて同じ意味を示します。",
+      "focus": "過去完了の目的語空所",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0212_Q27",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The engineer the director asked us to hire accepted.\"",
+      "choices": {
+        "A": "The director asked us to hire the engineer, and the engineer accepted.",
+        "B": "The engineer asked the director to hire us.",
+        "C": "We asked the engineer to hire the director.",
+        "D": "The director accepted the engineer’s request."
+      },
+      "correctAnswer": "A",
+      "translationJa": "部長が採用するよう私たちに求めた技術者が承諾しました。",
+      "explanationJa": "engineerはto hireの目的語です。正解はask＋us＋to hire the engineerとして明示します。",
+      "focus": "ask構文の奥の目的語",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0212_Q28",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The alarm that staff say was triggered accidentally is silent now.\"",
+      "choices": {
+        "A": "Staff triggered the silent alarm intentionally.",
+        "B": "The alarm says staff are silent now.",
+        "C": "Staff say the alarm was triggered accidentally, and it is silent now.",
+        "D": "Staff say the alarm accidentally triggered them."
+      },
+      "correctAnswer": "C",
+      "translationJa": "職員が誤って作動したと言っている警報器は、今は鳴っていません。",
+      "explanationJa": "alarmはwas triggeredの主語であり、正解は受動関係を保って節を独立させています。",
+      "focus": "受動節内の主語関係",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0212_Q29",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The room we assumed the hotel would reserve was unavailable.\"",
+      "choices": {
+        "A": "We assumed the hotel would reserve the room, but it was unavailable.",
+        "B": "The hotel assumed we would reserve an unavailable room.",
+        "C": "We reserved the hotel because the room was unavailable.",
+        "D": "The room assumed the hotel was unavailable."
+      },
+      "correctAnswer": "A",
+      "translationJa": "ホテルが予約してくれると思っていた部屋は利用できませんでした。",
+      "explanationJa": "roomはwould reserveの目的語です。正解はその予想と実際の利用不可を保持します。",
+      "focus": "助動詞節内の目的語空所",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0212_Q30",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The method that researchers claim produces fewer errors is expensive.\"",
+      "choices": {
+        "A": "Researchers claim fewer errors produce the method.",
+        "B": "Researchers claim the method produces fewer errors, but it is expensive.",
+        "C": "The expensive errors were claimed by researchers.",
+        "D": "The method claims researchers are expensive."
+      },
+      "correctAnswer": "B",
+      "translationJa": "研究者が誤りを減らすと主張する方法は高価です。",
+      "explanationJa": "methodがproducesの主語で、claimの目的語節内にその空所があります。",
+      "focus": "claim節を越える主語関係",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0212_Q31",
+      "format": "context-completion",
+      "prompt": "A new kiosk stands near the entrance. It is the machine ------- will shorten check-in lines.",
+      "choices": {
+        "A": "managers believe it",
+        "B": "that managers believe it",
+        "C": "that managers believe",
+        "D": "managers believing"
+      },
+      "correctAnswer": "C",
+      "translationJa": "入口近くに新しい端末があります。それは管理者がチェックインの列を短くすると考えている機械です。",
+      "explanationJa": "thatが内側のwill shortenの主語となり、managers believeを越えてmachineを受けます。",
+      "focus": "文脈中の深い主語空所",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0212_Q32",
+      "format": "context-completion",
+      "prompt": "Ms. Li mentioned an accountant yesterday. The accountant ------- is available this afternoon.",
+      "choices": {
+        "A": "she suggested we consult",
+        "B": "she suggested we consult him",
+        "C": "suggested she we consult",
+        "D": "she suggested did we consult"
+      },
+      "correctAnswer": "A",
+      "translationJa": "リーさんは昨日ある会計士について話しました。彼女が相談するよう勧めた会計士は今日の午後、対応可能です。",
+      "explanationJa": "accountantはconsultの目的語で、目的格関係詞が省略されています。",
+      "focus": "suggest内容内の目的語空所",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0212_Q33",
+      "format": "context-completion",
+      "prompt": "One shipment remains at customs. The shipment ------- lacks a certificate of origin.",
+      "choices": {
+        "A": "the broker says it",
+        "B": "that the broker says it",
+        "C": "says the broker it",
+        "D": "the broker says"
+      },
+      "correctAnswer": "D",
+      "translationJa": "1件の配送品が税関に残っています。通関業者が原産地証明書を欠いていると言うその配送品です。",
+      "explanationJa": "shipmentがlacksの主語なので、broker saysの後ろにitを置きません。",
+      "focus": "say節内の主語空所",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0212_Q34",
+      "format": "context-completion",
+      "prompt": "The director recommended a venue. Unfortunately, the venue ------- has already been booked.",
+      "choices": {
+        "A": "we expected the agency to secure it",
+        "B": "we expected the agency to secure",
+        "C": "expected we the agency securing",
+        "D": "we expected to secure the agency"
+      },
+      "correctAnswer": "B",
+      "translationJa": "部長は会場を推薦しました。残念ながら、代理店が確保すると思っていた会場はすでに予約済みです。",
+      "explanationJa": "venueはto secureの目的語の空所に対応し、itを重ねません。",
+      "focus": "expect＋人＋to doの空所",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0212_Q35",
+      "format": "context-completion",
+      "prompt": "A candidate impressed the panel. She is the person ------- can reorganize the department.",
+      "choices": {
+        "A": "the board thinks she",
+        "B": "that the board thinks she",
+        "C": "the board thinks",
+        "D": "thinks the board her"
+      },
+      "correctAnswer": "C",
+      "translationJa": "ある候補者が選考委員会に好印象を与えました。彼女は取締役会が部門を再編できると考える人物です。",
+      "explanationJa": "personがcan reorganizeの主語で、the board thinksを越えて対応します。",
+      "focus": "助動詞を伴う主語空所",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0212_Q36",
+      "format": "context-completion",
+      "prompt": "We located the missing folder. It was the one ------- on Friday.",
+      "choices": {
+        "A": "Mr. Gray thought he had discarded",
+        "B": "Mr. Gray thought he had discarded it",
+        "C": "thought Mr. Gray had he discarded",
+        "D": "Mr. Gray thought had discarded it"
+      },
+      "correctAnswer": "A",
+      "translationJa": "紛失していたフォルダーを見つけました。それはグレイさんが金曜日に捨てたと思っていたものでした。",
+      "explanationJa": "the oneはhad discardedの目的語で、節内にitは置きません。",
+      "focus": "過去完了内の目的語空所",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0212_Q37",
+      "format": "context-completion",
+      "prompt": "The safety team identified a defect. It is the defect ------- caused the repeated shutdowns.",
+      "choices": {
+        "A": "engineers suspect it",
+        "B": "engineers suspect",
+        "C": "that engineers suspect it",
+        "D": "suspect engineers it"
+      },
+      "correctAnswer": "B",
+      "translationJa": "安全チームが欠陥を特定しました。技術者が繰り返し停止を引き起こしたと疑う欠陥です。",
+      "explanationJa": "defectがcausedの主語となり、engineers suspectの後ろに代名詞を置きません。",
+      "focus": "suspect節内の主語空所",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0212_Q38",
+      "format": "context-completion",
+      "prompt": "Please contact the carrier today. It is the company ------- the warehouse to use.",
+      "choices": {
+        "A": "our client asked it",
+        "B": "asked our client it",
+        "C": "our client asked did",
+        "D": "our client asked"
+      },
+      "correctAnswer": "D",
+      "translationJa": "今日その運送会社に連絡してください。それは顧客が倉庫に利用するよう求めた会社です。",
+      "explanationJa": "companyはuseの目的語で、ask＋the warehouse＋to useの奥に空所があります。",
+      "focus": "ask＋目的語＋to不定詞内の空所",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0212_Q39",
+      "format": "context-completion",
+      "prompt": "A revised forecast arrived this morning. The forecast ------- is more optimistic than ours.",
+      "choices": {
+        "A": "the consultant claims reflects current demand",
+        "B": "the consultant claims it reflects current demand",
+        "C": "that the consultant claims it reflects current demand",
+        "D": "the consultant claims reflecting current demand"
+      },
+      "correctAnswer": "A",
+      "translationJa": "修正予測が今朝届きました。コンサルタントが現在の需要を反映すると主張する予測は、当社のものより楽観的です。",
+      "explanationJa": "forecastがreflectsの主語なので関係詞相当の空所を残し、itを重ねません。",
+      "focus": "複層節の主語空所",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0212_Q40",
+      "format": "context-completion",
+      "prompt": "The supervisor selected a technician. The technician ------- starts the repair at noon.",
+      "choices": {
+        "A": "we wanted the vendor to send him",
+        "B": "we wanted the vendor to send",
+        "C": "we wanted to the vendor send",
+        "D": "wanted we the vendor to send him"
+      },
+      "correctAnswer": "B",
+      "translationJa": "監督者は技術者を選びました。仕入先に派遣してほしかった技術者が正午に修理を始めます。",
+      "explanationJa": "technicianはsendの目的語で、want＋vendor＋to sendの内側の空所に戻ります。",
+      "focus": "want構文の深い目的語空所",
+      "difficulty": "advanced"
+    }
+  ]
+}
