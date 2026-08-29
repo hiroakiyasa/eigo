@@ -176,7 +176,7 @@
 | 148 | 比較で“一番”や言い換え | [PAGE_0148](pages/PAGE_0148.webp) | [原稿](source-prompts/PAGE_0148.txt) | [40問](question-sets/PAGE_0148.json) |
 | 149 | more・lessに感情をのせる | [PAGE_0149](pages/PAGE_0149.webp) | [原稿](source-prompts/PAGE_0149.txt) | [40問](question-sets/PAGE_0149.json) |
 | 150 | 最上級は1つに決める | [PAGE_0150](pages/PAGE_0150.webp) | [原稿](source-prompts/PAGE_0150.txt) | [40問](question-sets/PAGE_0150.json) |
-| 151 | 最上級の頂上を広げよう | [PAGE_0151](pages/PAGE_0151.webp) | [原稿](source-prompts/PAGE_0151.txt) | `pending` |
+| 151 | 最上級の頂上を広げよう | [PAGE_0151](pages/PAGE_0151.webp) | [原稿](source-prompts/PAGE_0151.txt) | [40問](question-sets/PAGE_0151.json) |
 | 152 | 頂点の先は、“ちがう”を伝える力 | [PAGE_0152](pages/PAGE_0152.webp) | [原稿](source-prompts/PAGE_0152.txt) | [40問](question-sets/PAGE_0152.json) |
 | 153 | notは後ろを打ち消す | [PAGE_0153](pages/PAGE_0153.webp) | [原稿](source-prompts/PAGE_0153.txt) | [40問](question-sets/PAGE_0153.json) |
 | 154 | 一般動詞はdo、be文はbeで否定 | [PAGE_0154](pages/PAGE_0154.webp) | [原稿](source-prompts/PAGE_0154.txt) | [40問](question-sets/PAGE_0154.json) |
