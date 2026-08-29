@@ -1,0 +1,576 @@
+{
+  "schemaVersion": 1,
+  "page": {
+    "number": 109,
+    "id": "grammar-master-0109",
+    "title": "修飾は、情報を足す道具",
+    "image": "pages/PAGE_0109.webp",
+    "sourcePrompt": "source-prompts/PAGE_0109.txt"
+  },
+  "analysis": {
+    "summaryJa": "このページは、修飾を『文の部品へ追加情報を足し、意味をより正確にする働き』として導入する。形容詞は名詞、副詞は動詞・形容詞・文全体、助動詞は動詞句、前置詞句は名詞や動作へ場所・時間・関係を加えるという典型的な対象を、語の位置と修飾先の対応から40問で確認する。",
+    "grammarPoints": [
+      "形容詞を名詞の前や補語位置に置き、人・物の性質や種類を詳しくすること",
+      "副詞が動詞の方法・程度、形容詞の程度、または文全体への話し手の判断を表すこと",
+      "may・can・mustなどの助動詞が動詞原形と結びつき、可能性・能力・義務などを添えること",
+      "前置詞句を名詞の後ろや動詞句の近くに置き、場所・時間・関係を明確にすること",
+      "only・almost・nearlyなどは置く位置で修飾先と意味が変わるため、対象の直前を意識すること"
+    ],
+    "visualEvidence": [
+      "中央の文レールへ四種類の道具が装着され、素朴な文へ情報が追加されている",
+      "形容詞の道具が名詞ブロック、副詞の道具が動詞や形容詞へ接続されている",
+      "助動詞のモジュールが動詞句の前に置かれ、可能性や義務という話し手の気持ちを加えている",
+      "前置詞句の道具が場所・時間・関係のラベルを文の部品へ結び付けている",
+      "中央の注意書きが品詞名の暗記より『何を詳しくしているか』を見るよう促している"
+    ],
+    "commonTraps": [
+      "名詞を説明する位置に副詞を置いたり、動作を説明する位置に形容詞を置いたりする",
+      "助動詞の後ろへ三単現・過去形・to不定詞を置き、動詞原形を使わない",
+      "前置詞句を修飾対象から離して置き、どの語に情報を足すのか曖昧にする",
+      "文全体を評価する副詞と、直後の動詞だけを説明する副詞を混同する",
+      "only・almost・nearlyの位置を変えても意味が同じだと考える"
+    ]
+  },
+  "questions": [
+    {
+      "id": "PAGE_0109_Q01",
+      "format": "part5-cloze",
+      "prompt": "Please attach a ------- invoice to the reimbursement request.",
+      "choices": {"A": "detailed", "B": "detail", "C": "detailing", "D": "detailedly"},
+      "correctAnswer": "A",
+      "translationJa": "経費精算申請には詳細な請求書を添付してください。",
+      "explanationJa": "名詞invoiceの性質を前から説明する形容詞detailedが必要です。",
+      "focus": "形容詞による名詞修飾",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0109_Q02",
+      "format": "part5-cloze",
+      "prompt": "The support team responded ------- to every question submitted this morning.",
+      "choices": {"A": "prompt", "B": "promptness", "C": "promptly", "D": "prompted"},
+      "correctAnswer": "C",
+      "translationJa": "サポートチームは今朝寄せられたすべての質問に迅速に回答しました。",
+      "explanationJa": "動詞respondedの方法を説明する副詞promptlyが正解です。",
+      "focus": "動詞を修飾する副詞",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0109_Q03",
+      "format": "part5-cloze",
+      "prompt": "The replacement parts ------- arrive one day later because of the storm.",
+      "choices": {"A": "are", "B": "may", "C": "have", "D": "being"},
+      "correctAnswer": "B",
+      "translationJa": "嵐のため、交換部品は1日遅れて到着する可能性があります。",
+      "explanationJa": "可能性を加え、後ろに動詞原形arriveを取れる助動詞mayが必要です。",
+      "focus": "助動詞mayによる可能性",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0109_Q04",
+      "format": "part5-cloze",
+      "prompt": "The keys ------- belong to the maintenance supervisor.",
+      "choices": {"A": "carefully", "B": "during noon", "C": "the counter blue", "D": "on the counter"},
+      "correctAnswer": "D",
+      "translationJa": "カウンターの上にある鍵は保守責任者のものです。",
+      "explanationJa": "前置詞句on the counterをkeysの直後に置くと、どの鍵かを後ろから説明できます。",
+      "focus": "名詞を後ろから修飾する前置詞句",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0109_Q05",
+      "format": "part5-cloze",
+      "prompt": "The updated scanner is ------- compatible with our inventory software.",
+      "choices": {"A": "fully", "B": "full", "C": "fullness", "D": "fulfill"},
+      "correctAnswer": "A",
+      "translationJa": "更新されたスキャナーは当社の在庫管理ソフトと完全に互換性があります。",
+      "explanationJa": "形容詞compatibleの程度を説明する副詞fullyが必要です。",
+      "focus": "形容詞を修飾する副詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0109_Q06",
+      "format": "part5-cloze",
+      "prompt": "-------, the replacement part arrived before the store opened.",
+      "choices": {"A": "Fortunate", "B": "Fortune", "C": "Fortuning", "D": "Fortunately"},
+      "correctAnswer": "D",
+      "translationJa": "幸い、交換部品は店が開く前に届きました。",
+      "explanationJa": "文全体に『幸いにも』という評価を加える文副詞Fortunatelyが正解です。",
+      "focus": "文全体を修飾する副詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0109_Q07",
+      "format": "part5-cloze",
+      "prompt": "All contractors ------- submit a safety form before entering the work area.",
+      "choices": {"A": "submitting", "B": "to", "C": "must", "D": "submitted"},
+      "correctAnswer": "C",
+      "translationJa": "すべての請負業者は作業区域へ入る前に安全確認書を提出しなければなりません。",
+      "explanationJa": "義務を表し、後ろに動詞原形submitを取る助動詞mustが必要です。",
+      "focus": "助動詞mustによる義務",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0109_Q08",
+      "format": "part5-cloze",
+      "prompt": "The ventilation system remained off ------- to protect the testing equipment.",
+      "choices": {"A": "careful", "B": "during the inspection", "C": "the inspection during", "D": "inspectingly"},
+      "correctAnswer": "B",
+      "translationJa": "試験機器を保護するため、点検中は換気設備が停止したままでした。",
+      "explanationJa": "時間を表す前置詞句during the inspectionが、remained offの時期を説明します。",
+      "focus": "動作・状態へ時間を足す前置詞句",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0109_Q09",
+      "format": "part5-cloze",
+      "prompt": "The manager approved ------- request except two that lacked receipts.",
+      "choices": {"A": "near every", "B": "nearly all", "C": "almost each of", "D": "nearly every"},
+      "correctAnswer": "D",
+      "translationJa": "部長は領収書がなかった2件を除き、ほぼすべての申請を承認しました。",
+      "explanationJa": "単数可算名詞requestの前ではnearly every requestが自然です。nearlyをeveryの直前に置き、数量の範囲を修飾します。",
+      "focus": "nearlyの修飾位置とevery",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0109_Q10",
+      "format": "part5-cloze",
+      "prompt": "The shipment arrived -------, allowing us to reopen the store before noon.",
+      "choices": {"A": "surprising earlier", "B": "surprised early", "C": "surprisingly early", "D": "surprise earliest"},
+      "correctAnswer": "C",
+      "translationJa": "荷物が驚くほど早く到着したため、正午前に店舗を再開できました。",
+      "explanationJa": "earlyが到着時刻を説明し、副詞surprisinglyがその程度をさらに修飾するsurprisingly earlyが正解です。",
+      "focus": "副詞が別の副詞を修飾する形",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0109_Q11",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about a technician's explanation.",
+      "choices": {
+        "A": "The technician gave a clearly explanation.",
+        "B": "The technician gave a clarity explanation.",
+        "C": "The technician clear gave an explanation.",
+        "D": "The technician gave a clear explanation."
+      },
+      "correctAnswer": "D",
+      "translationJa": "技術者は明確な説明をしました。",
+      "explanationJa": "名詞explanationを前から説明する形容詞clearを置くDが正しい文です。",
+      "focus": "名詞前の形容詞",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0109_Q12",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence describing how a courier drove.",
+      "choices": {
+        "A": "The courier drove careful through the construction zone.",
+        "B": "The courier drove carefully through the construction zone.",
+        "C": "The courier carefully driver through the construction zone.",
+        "D": "The courier drove carefulness through the construction zone."
+      },
+      "correctAnswer": "B",
+      "translationJa": "配達員は工事区域を慎重に運転しました。",
+      "explanationJa": "動詞droveの方法を説明する副詞carefullyが必要です。",
+      "focus": "動詞修飾の副詞",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0109_Q13",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence expressing a possible result of new software.",
+      "choices": {
+        "A": "The new routing software may reduce delivery times.",
+        "B": "The new routing software may reduces delivery times.",
+        "C": "The new routing software may to reduce delivery times.",
+        "D": "The new routing software may reducing delivery times."
+      },
+      "correctAnswer": "A",
+      "translationJa": "新しい経路設定ソフトは配送時間を短縮する可能性があります。",
+      "explanationJa": "助動詞mayの後ろには動詞原形reduceを置くためAが正解です。",
+      "focus": "may＋動詞原形",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0109_Q14",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence identifying a set of documents by location.",
+      "choices": {
+        "A": "The on blue shelf documents are confidential.",
+        "B": "The documents the blue shelf on are confidential.",
+        "C": "The documents on the blue shelf are confidential.",
+        "D": "The documents are on confidential the blue shelf."
+      },
+      "correctAnswer": "C",
+      "translationJa": "青い棚の上にある書類は機密扱いです。",
+      "explanationJa": "前置詞句on the blue shelfをdocumentsの直後に置き、どの書類かを後ろから説明するCが正しいです。",
+      "focus": "場所の前置詞句による名詞修飾",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0109_Q15",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence describing the degree of quietness.",
+      "choices": {
+        "A": "The room is extreme quietly.",
+        "B": "The room extremely is quietness.",
+        "C": "The room is extreme quiet.",
+        "D": "The room is extremely quiet."
+      },
+      "correctAnswer": "D",
+      "translationJa": "その部屋は非常に静かです。",
+      "explanationJa": "形容詞quietの程度を説明する副詞extremelyを直前に置くDが正解です。",
+      "focus": "程度副詞＋形容詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0109_Q16",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence in which the opening adverb comments on the whole situation.",
+      "choices": {
+        "A": "Fortunately, the replacement part arrived on time.",
+        "B": "Fortunate, the replacement part arrived on time.",
+        "C": "The fortunately replacement part arrived on time.",
+        "D": "The replacement part arrived fortunate on time."
+      },
+      "correctAnswer": "A",
+      "translationJa": "幸い、交換部品は時間どおりに届きました。",
+      "explanationJa": "Fortunatelyは文全体に話し手の評価を加える文副詞で、文頭にコンマ付きで置くAが自然です。",
+      "focus": "文副詞の位置",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0109_Q17",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence stating an obligation for the project team.",
+      "choices": {
+        "A": "The team must completes the inventory by Friday.",
+        "B": "The team must complete the inventory by Friday.",
+        "C": "The team must to complete the inventory by Friday.",
+        "D": "The team must completing the inventory by Friday."
+      },
+      "correctAnswer": "B",
+      "translationJa": "チームは金曜日までに在庫確認を完了しなければなりません。",
+      "explanationJa": "義務を表すmustの後ろには動詞原形completeを置きます。",
+      "focus": "must＋動詞原形",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0109_Q18",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that correctly means that no one except the regional manager approved the request.",
+      "choices": {
+        "A": "The regional only manager approved the request.",
+        "B": "The regional manager approved only the request.",
+        "C": "Only the regional manager approved the request.",
+        "D": "The regional manager only the request approved."
+      },
+      "correctAnswer": "C",
+      "translationJa": "その申請を承認したのは地域部長だけでした。",
+      "explanationJa": "人物を限定するonlyはthe regional managerの直前に置きます。Bは『承認したのはその申請だけ』という別の意味です。",
+      "focus": "onlyの位置と修飾先",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0109_Q19",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence containing several clearly placed modifiers.",
+      "choices": {
+        "A": "The nearly empty warehouse remained unusually quiet after six.",
+        "B": "The warehouse nearly empty unusually remained quiet after six.",
+        "C": "The unusually warehouse empty remained nearly quiet after six.",
+        "D": "The warehouse remained unusual quiet nearly after six."
+      },
+      "correctAnswer": "A",
+      "translationJa": "ほとんど空の倉庫は6時以降、異常なほど静かなままでした。",
+      "explanationJa": "nearlyはempty、unusuallyはquiet、after sixは状態の時間をそれぞれ明確に修飾しています。",
+      "focus": "複数修飾語の対象と配置",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0109_Q20",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about a vendor proposal.",
+      "choices": {
+        "A": "The proposal by the vendor submitted may still requires revision.",
+        "B": "The proposal submitted by the vendor may still require revision.",
+        "C": "The submitted may proposal by the vendor still require revision.",
+        "D": "The proposal submitted by the vendor may still requiring revision."
+      },
+      "correctAnswer": "B",
+      "translationJa": "仕入先が提出した提案書は、なお修正を要する可能性があります。",
+      "explanationJa": "submitted by the vendorがproposalを後ろから修飾し、mayの後ろに動詞原形requireを置くBが正しいです。",
+      "focus": "分詞句修飾と助動詞",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0109_Q21",
+      "format": "meaning-equivalent",
+      "prompt": "The receptionist answered politely. Choose the sentence with the same meaning.",
+      "choices": {
+        "A": "The receptionist avoided answering the question.",
+        "B": "The receptionist gave a polite answer.",
+        "C": "The polite receptionist received no answer.",
+        "D": "The receptionist answered in an impolite way."
+      },
+      "correctAnswer": "B",
+      "translationJa": "受付担当者は丁寧な返答をしました。",
+      "explanationJa": "副詞politelyで動作を説明する形を、形容詞politeで名詞answerを説明する形へ変えただけです。",
+      "focus": "副詞修飾から形容詞修飾への言い換え",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0109_Q22",
+      "format": "meaning-equivalent",
+      "prompt": "The urgent message is on your desk. Choose the sentence with the same meaning.",
+      "choices": {
+        "A": "Every message on your desk is routine.",
+        "B": "Your desk urgently needs a message.",
+        "C": "The urgent desk contains no message.",
+        "D": "The message on your desk is urgent."
+      },
+      "correctAnswer": "D",
+      "translationJa": "机の上にあるメッセージは緊急です。",
+      "explanationJa": "urgentを名詞前から補語位置へ移し、on your deskをmessageの後ろへ置いて同じ対象を説明しています。",
+      "focus": "前置形容詞と後置前置詞句の言い換え",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0109_Q23",
+      "format": "meaning-equivalent",
+      "prompt": "The train may be delayed because of maintenance. Choose the sentence with the same meaning.",
+      "choices": {
+        "A": "Maintenance guarantees that the train will be early.",
+        "B": "The train must be canceled permanently.",
+        "C": "It is possible that maintenance will delay the train.",
+        "D": "The train was delayed before maintenance began."
+      },
+      "correctAnswer": "C",
+      "translationJa": "保守作業によって列車が遅れる可能性があります。",
+      "explanationJa": "助動詞mayの可能性をIt is possible that節で言い換えたCが同義です。",
+      "focus": "mayの可能性を節へ言い換える",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0109_Q24",
+      "format": "meaning-equivalent",
+      "prompt": "The staff worked efficiently during the event. Choose the sentence with the same meaning.",
+      "choices": {
+        "A": "During the event, the staff did their work efficiently.",
+        "B": "The event was efficient, but the staff did not work.",
+        "C": "The staff worked only before the event.",
+        "D": "The staff's work delayed the event."
+      },
+      "correctAnswer": "A",
+      "translationJa": "イベント中、スタッフは効率よく業務を行いました。",
+      "explanationJa": "during the eventを文頭へ移し、worked efficientlyをdid their work efficientlyへ展開して同じ意味を保っています。",
+      "focus": "副詞と時間句の位置変更",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0109_Q25",
+      "format": "meaning-equivalent",
+      "prompt": "The company distributed an extremely useful guide. Choose the sentence with the same meaning.",
+      "choices": {
+        "A": "The company distributed a guide with no useful information.",
+        "B": "The guide distributed by the company was extremely useful.",
+        "C": "The company found the distribution extremely difficult.",
+        "D": "An extremely large company wrote the guide."
+      },
+      "correctAnswer": "B",
+      "translationJa": "その会社が配布した案内書は非常に役立つものでした。",
+      "explanationJa": "extremelyがusefulを修飾する関係を保ち、目的語を主語にしたBが同義です。",
+      "focus": "程度副詞と形容詞を保つ言い換え",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0109_Q26",
+      "format": "meaning-equivalent",
+      "prompt": "The package in the storage room belongs to Ms. Lee. Choose the sentence with the same meaning.",
+      "choices": {
+        "A": "Ms. Lee is waiting outside the storage room.",
+        "B": "Every package belongs to the storage room.",
+        "C": "Ms. Lee owns the package that is in the storage room.",
+        "D": "The package was removed from Ms. Lee's office."
+      },
+      "correctAnswer": "C",
+      "translationJa": "保管室にある荷物はリーさんのものです。",
+      "explanationJa": "in the storage roomをthat is in the storage roomへ展開し、belongs toをownsに言い換えています。",
+      "focus": "前置詞句修飾から関係節への言い換え",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0109_Q27",
+      "format": "meaning-equivalent",
+      "prompt": "Fortunately, no customer data was lost. Choose the sentence with the same meaning.",
+      "choices": {
+        "A": "Customer data was lost in a fortunate accident.",
+        "B": "It was unfortunate that every record disappeared.",
+        "C": "No customer was informed about the lost data.",
+        "D": "It was fortunate that all customer data remained safe."
+      },
+      "correctAnswer": "D",
+      "translationJa": "すべての顧客データが無事だったのは幸いでした。",
+      "explanationJa": "文副詞Fortunatelyの評価をIt was fortunate that節へ展開し、データが失われなかった内容を保っています。",
+      "focus": "文副詞から評価構文への言い換え",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0109_Q28",
+      "format": "meaning-equivalent",
+      "prompt": "Only Ms. Ortiz reviewed the final draft. Choose the sentence with the same meaning.",
+      "choices": {
+        "A": "No one except Ms. Ortiz reviewed the final draft.",
+        "B": "Ms. Ortiz reviewed only the final draft and no other document.",
+        "C": "Everyone except Ms. Ortiz reviewed the final draft.",
+        "D": "The final draft was the only item Ms. Ortiz did not review."
+      },
+      "correctAnswer": "A",
+      "translationJa": "オルティスさん以外は誰も最終稿を確認しませんでした。",
+      "explanationJa": "Onlyが人物Ms. Ortizを限定しているため、no one except Ms. Ortizが同じ意味です。",
+      "focus": "onlyの修飾先を保つ言い換え",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0109_Q29",
+      "format": "meaning-equivalent",
+      "prompt": "The committee almost rejected the entire proposal. Choose the sentence with the same meaning.",
+      "choices": {
+        "A": "The committee rejected almost every section of the proposal.",
+        "B": "The committee immediately accepted the entire proposal.",
+        "C": "The committee came close to rejecting the whole proposal but did not.",
+        "D": "Almost every committee member rejected one section."
+      },
+      "correctAnswer": "C",
+      "translationJa": "委員会は提案全体を却下しかけましたが、実際には却下しませんでした。",
+      "explanationJa": "almostが動詞rejectedを修飾し『却下寸前だったがしなかった』を表すためCが同義です。Aは数量を限定する別の意味です。",
+      "focus": "almostの位置と意味",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0109_Q30",
+      "format": "meaning-equivalent",
+      "prompt": "The equipment must be inspected before use. Choose the sentence with the same meaning.",
+      "choices": {
+        "A": "Inspecting the equipment after use is optional.",
+        "B": "The equipment may be used without inspection.",
+        "C": "The equipment was inspected only after it failed.",
+        "D": "Inspection of the equipment is required before anyone uses it."
+      },
+      "correctAnswer": "D",
+      "translationJa": "誰かがその機器を使用する前に点検することが必要です。",
+      "explanationJa": "mustの義務をis requiredで言い換え、before useの時間関係も保つDが同義です。",
+      "focus": "mustの義務を名詞構文へ言い換える",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0109_Q31",
+      "format": "context-completion",
+      "prompt": "The interview will take place in a ------- room beside reception. Please arrive ten minutes early.",
+      "choices": {"A": "quietly", "B": "quietness", "C": "quiet", "D": "quieten"},
+      "correctAnswer": "C",
+      "translationJa": "面接は受付横の静かな部屋で行われます。10分前にお越しください。",
+      "explanationJa": "名詞roomを前から説明する形容詞quietが必要です。",
+      "focus": "形容詞による名詞修飾",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0109_Q32",
+      "format": "context-completion",
+      "prompt": "These samples are fragile. Please carry them ------- from the laboratory to the van.",
+      "choices": {"A": "carefully", "B": "careful", "C": "care", "D": "caring"},
+      "correctAnswer": "A",
+      "translationJa": "これらの試料は壊れやすいので、研究室から車まで慎重に運んでください。",
+      "explanationJa": "動詞carryの方法を説明する副詞carefullyが正解です。",
+      "focus": "動作の方法を表す副詞",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0109_Q33",
+      "format": "context-completion",
+      "prompt": "Your original appointment conflicts with the audit. We ------- reschedule it for Thursday afternoon.",
+      "choices": {"A": "are reschedule", "B": "can to", "C": "rescheduling", "D": "can"},
+      "correctAnswer": "D",
+      "translationJa": "元の予約は監査と重なっています。木曜日の午後へ変更できます。",
+      "explanationJa": "能力・可能性を表し、後ろに動詞原形rescheduleを取る助動詞canが必要です。",
+      "focus": "can＋動詞原形",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0109_Q34",
+      "format": "context-completion",
+      "prompt": "The driver is waiting at the entrance -------. Please bring the signed delivery form with you.",
+      "choices": {"A": "the loading dock near", "B": "near the loading dock", "C": "nearly loading dock", "D": "near loading the dock"},
+      "correctAnswer": "B",
+      "translationJa": "運転手は荷積み場近くの入口で待っています。署名済みの配送票をお持ちください。",
+      "explanationJa": "前置詞句near the loading dockがentranceの場所を後ろから追加説明します。",
+      "focus": "場所を足す前置詞句",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0109_Q35",
+      "format": "context-completion",
+      "prompt": "The new backup system has completed every trial successfully. It appears ------- reliable.",
+      "choices": {"A": "height", "B": "high", "C": "highly", "D": "heighten"},
+      "correctAnswer": "C",
+      "translationJa": "新しいバックアップシステムはすべての試験を正常に完了しました。非常に信頼性が高いようです。",
+      "explanationJa": "形容詞reliableの程度を表す副詞highlyが必要です。",
+      "focus": "程度副詞highly",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0109_Q36",
+      "format": "context-completion",
+      "prompt": "-------, the outdoor demonstration has been canceled because of high winds. The indoor session will begin as scheduled.",
+      "choices": {"A": "Unfortunate", "B": "Unfortunately", "C": "Unfortune", "D": "Unfortunateness"},
+      "correctAnswer": "B",
+      "translationJa": "残念ながら、強風のため屋外実演は中止となりました。屋内セッションは予定どおり始まります。",
+      "explanationJa": "中止という文全体へ話し手の評価を加える文副詞Unfortunatelyが必要です。",
+      "focus": "文全体を評価する副詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0109_Q37",
+      "format": "context-completion",
+      "prompt": "All borrowed tablets ------- be returned to the information desk by 5 P.M. Late returns may delay tomorrow's training.",
+      "choices": {"A": "must", "B": "must to", "C": "must returning", "D": "must returned"},
+      "correctAnswer": "A",
+      "translationJa": "借用したタブレットはすべて午後5時までに案内窓口へ返却しなければなりません。返却が遅れると明日の研修に影響する可能性があります。",
+      "explanationJa": "義務を表す助動詞mustの後ろには動詞原形beを置きます。",
+      "focus": "must＋受動態の原形be",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0109_Q38",
+      "format": "context-completion",
+      "prompt": "The updated budget is in the folder -------. Review it before tomorrow's planning call.",
+      "choices": {"A": "the printer beside", "B": "besides printer", "C": "beside printer the", "D": "beside the printer"},
+      "correctAnswer": "D",
+      "translationJa": "更新済み予算案はプリンターの横にあるフォルダーに入っています。明日の計画会議前に確認してください。",
+      "explanationJa": "前置詞句beside the printerをfolderの直後に置き、どのフォルダーかを説明します。",
+      "focus": "名詞後ろの場所修飾",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0109_Q39",
+      "format": "context-completion",
+      "prompt": "------- may enter the technical workshop. Guests without badges must wait in the public lounge.",
+      "choices": {"A": "Attendees registered only", "B": "Only registered attendees", "C": "Registered only attendees", "D": "Only attendees register"},
+      "correctAnswer": "B",
+      "translationJa": "登録済み参加者だけが技術研修室へ入れます。バッジのない来場者は一般ラウンジで待たなければなりません。",
+      "explanationJa": "入室できる人物全体を限定するonlyはregistered attendeesの直前に置きます。",
+      "focus": "onlyが名詞句全体を限定する位置",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0109_Q40",
+      "format": "context-completion",
+      "prompt": "The revised contract from the legal team ------- tomorrow morning. I will forward it as soon as it reaches my inbox.",
+      "choices": {"A": "will probably arrive", "B": "probably will arriving", "C": "will arrive probable", "D": "probably arrives will"},
+      "correctAnswer": "A",
+      "translationJa": "法務チームからの改訂済み契約書は、おそらく明朝届きます。受信箱に届き次第転送します。",
+      "explanationJa": "from the legal teamがcontractを修飾し、確率副詞probablyは助動詞willと動詞arriveの間に置くのが自然です。",
+      "focus": "名詞修飾と確率副詞の配置",
+      "difficulty": "advanced"
+    }
+  ]
+}
