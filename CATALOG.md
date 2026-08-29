@@ -57,7 +57,7 @@
 | 44 | 内容は that・whether・wh で選ぶ | [PAGE_0044](pages/PAGE_0044.webp) | [原稿](source-prompts/PAGE_0044.txt) | [40問](question-sets/PAGE_0044.json) |
 | 45 | 遠回し疑問は、語順を戻す | [PAGE_0045](pages/PAGE_0045.webp) | [原稿](source-prompts/PAGE_0045.txt) | [40問](question-sets/PAGE_0045.json) |
 | 46 | 伝言は今、命令はまっすぐ | [PAGE_0046](pages/PAGE_0046.webp) | [原稿](source-prompts/PAGE_0046.txt) | [40問](question-sets/PAGE_0046.json) |
-| 47 | 命令・禁止・誘いを使い分ける | [PAGE_0047](pages/PAGE_0047.webp) | [原稿](source-prompts/PAGE_0047.txt) | `pending` |
+| 47 | 命令・禁止・誘いを使い分ける | [PAGE_0047](pages/PAGE_0047.webp) | [原稿](source-prompts/PAGE_0047.txt) | [40問](question-sets/PAGE_0047.json) |
 | 48 | 依頼は、何枚オブラートを重ねる？ | [PAGE_0048](pages/PAGE_0048.webp) | [原稿](source-prompts/PAGE_0048.txt) | `pending` |
 | 49 | There で、新しい登場人物を呼ぶ | [PAGE_0049](pages/PAGE_0049.webp) | [原稿](source-prompts/PAGE_0049.txt) | `pending` |
 | 50 | 既知の場所と、新登場を分ける | [PAGE_0050](pages/PAGE_0050.webp) | [原稿](source-prompts/PAGE_0050.txt) | `pending` |

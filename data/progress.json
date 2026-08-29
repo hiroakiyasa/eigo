@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-29T02:59:15.056Z",
+  "updatedAt": "2026-08-29T02:59:52.653Z",
   "totalPages": 330,
-  "completedPages": 45,
+  "completedPages": 46,
   "questionsPerPage": 40,
   "totalPlannedQuestions": 13200,
   "pages": [
@@ -378,9 +378,9 @@
       "number": 47,
       "id": "grammar-master-0047",
       "title": "命令・禁止・誘いを使い分ける",
-      "status": "pending",
+      "status": "complete",
       "output": "question-sets/PAGE_0047.json",
-      "completedAt": null
+      "completedAt": "2026-08-29T02:59:52.653Z"
     },
     {
       "number": 48,
