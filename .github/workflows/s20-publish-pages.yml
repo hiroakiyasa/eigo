@@ -34,6 +34,7 @@ jobs:
           set -euo pipefail
 
           mkdir -p /tmp/s20-pages
+          test "$(find staging/.s20-upload -maxdepth 1 -type f -name 'chunk-*' | wc -l)" -eq 9
           cat staging/.s20-upload/chunk-* | base64 -d > /tmp/s20-pages.tar.xz
           tar -xJf /tmp/s20-pages.tar.xz -C /tmp/s20-pages
 
