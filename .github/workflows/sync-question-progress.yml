@@ -5,6 +5,7 @@ on:
     branches: [main]
     paths:
       - 'question-sets/PAGE_*.json'
+      - 'scripts/normalize-question-set.mjs'
       - '.github/workflows/sync-question-progress.yml'
   workflow_dispatch:
 
@@ -49,31 +50,16 @@ jobs:
               page="$(basename "$file" .json)"
               number=$((10#${page#PAGE_}))
 
-              # Some parallel producers may preserve a valid 40-question payload but
-              # copy an outdated display title. Normalize only page.title from the
-              # manifest, and publish each repaired page as its own commit.
-              node - "$file" "$number" <<'NODE'
-          const fs = require('fs');
-          const [file, rawNumber] = process.argv.slice(2);
-          let data;
-          try {
-            data = JSON.parse(fs.readFileSync(file, 'utf8'));
-          } catch {
-            process.exit(0);
-          }
-          const manifest = JSON.parse(fs.readFileSync('data/page-manifest.json', 'utf8'));
-          const expected = manifest.pages?.find((item) => item.number === Number(rawNumber));
-          if (expected && data.page?.title !== expected.title) {
-            data.page.title = expected.title;
-            fs.writeFileSync(file, `${JSON.stringify(data)}\n`);
-          }
-          NODE
+              # Repair only metadata and answer placement. Correct option text,
+              # translations, explanations, focus, and difficulty remain attached
+              # to the same question; malformed structures are left to the validator.
+              node scripts/normalize-question-set.mjs "$file" "$number"
 
               if ! git diff --quiet -- "$file"; then
                 git add "$file"
-                git commit -m "fix(questions): match manifest title for page ${page#PAGE_} [skip ci]"
+                git commit -m "fix(questions): normalize metadata and answers for page ${page#PAGE_} [skip ci]"
                 if git push origin HEAD:main; then
-                  echo "Normalized title: ${page}"
+                  echo "Normalized question set: ${page}"
                 else
                   echo "main advanced while normalizing ${page}; rebuilding from latest main"
                   retry_needed=1
