@@ -1,0 +1,677 @@
+{
+  "schemaVersion": 1,
+  "page": {
+    "number": 235,
+    "id": "grammar-master-0235",
+    "title": "be＋過去分詞で受動文",
+    "image": "pages/PAGE_0235.webp",
+    "sourcePrompt": "source-prompts/PAGE_0235.txt"
+  },
+  "analysis": {
+    "summaryJa": "受動文は行為を受ける対象を主語にし、be動詞＋過去分詞で組み立てる。be動詞が時制・疑問・否定を担当し、過去分詞が「〜される」内容を示す。by＋行為者は必須ではなく、誰が行ったかが重要な場合だけ加える。行為者を伏せると内容が広く言われる一般論の印象も作れる。",
+    "grammarPoints": [
+      "受け手を主語にする受動文",
+      "be動詞による現在・過去・未来・完了",
+      "過去分詞による受動内容",
+      "必要な場合だけ加えるby＋行為者",
+      "be動詞を前置する受動疑問",
+      "It is said / believed thatの一般化"
+    ],
+    "visualEvidence": [
+      "BEの薬瓶とPAST PARTICIPLE結晶が受動公式を作っている",
+      "主語の大瓶が行為を受ける対象と表示されている",
+      "BYカプセルが任意の追加要素として横に置かれている",
+      "群衆の影が発言者を隠した一般論を示す",
+      "四つの例が行為者あり・なし・一般論を対比している"
+    ],
+    "commonTraps": [
+      "by句をすべての受動文に機械的に付ける",
+      "be動詞の時制を過去分詞へ持たせようとする",
+      "受動疑問でdoを使う",
+      "否定のnotを過去分詞の後に置く",
+      "不規則過去分詞を過去形で代用する"
+    ]
+  },
+  "questions": [
+    {
+      "id": "PAGE_0235_Q01",
+      "format": "part5-cloze",
+      "prompt": "Fresh bread ------- in the hotel kitchen every morning.",
+      "choices": {
+        "A": "bakes",
+        "B": "is baking",
+        "C": "is baked",
+        "D": "has bake"
+      },
+      "correctAnswer": "C",
+      "translationJa": "焼きたてのパンは毎朝ホテルの厨房で焼かれます。",
+      "explanationJa": "一般的な現在の受動はis＋過去分詞bakedです。",
+      "focus": "現在受動の公式",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0235_Q02",
+      "format": "part5-cloze",
+      "prompt": "The award ceremony ------- until Friday because of the storm.",
+      "choices": {
+        "A": "was postponed",
+        "B": "postponed something",
+        "C": "was postponing",
+        "D": "has postpone"
+      },
+      "correctAnswer": "A",
+      "translationJa": "嵐のため授賞式は金曜日まで延期されました。",
+      "explanationJa": "ceremonyが延期される対象なのでwas postponedです。",
+      "focus": "過去受動",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0235_Q03",
+      "format": "part5-cloze",
+      "prompt": "The contract must ------- by both parties before work begins.",
+      "choices": {
+        "A": "sign",
+        "B": "be signing",
+        "C": "signed",
+        "D": "be signed"
+      },
+      "correctAnswer": "D",
+      "translationJa": "作業開始前に契約書へ両当事者が署名しなければなりません。",
+      "explanationJa": "助動詞mustの後にbe＋過去分詞signedを置きます。",
+      "focus": "must be signed",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0235_Q04",
+      "format": "part5-cloze",
+      "prompt": "The lobby mural was painted ------- students from the city art school.",
+      "choices": {
+        "A": "from",
+        "B": "by",
+        "C": "with",
+        "D": "during"
+      },
+      "correctAnswer": "B",
+      "translationJa": "ロビーの壁画は市立美術学校の学生によって描かれました。",
+      "explanationJa": "描いた人が重要なのでby＋行為者を加えます。",
+      "focus": "必要なby句",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0235_Q05",
+      "format": "part5-cloze",
+      "prompt": "The road has ------- closed since the bridge inspection began.",
+      "choices": {
+        "A": "been",
+        "B": "being",
+        "C": "be",
+        "D": "was"
+      },
+      "correctAnswer": "A",
+      "translationJa": "橋の点検開始以来、その道路は閉鎖されています。",
+      "explanationJa": "現在完了受動has been closedを作るbeenが必要です。",
+      "focus": "has been＋過去分詞",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0235_Q06",
+      "format": "part5-cloze",
+      "prompt": "It is often ------- that clear signs improve visitor safety.",
+      "choices": {
+        "A": "saying",
+        "B": "say",
+        "C": "said",
+        "D": "says"
+      },
+      "correctAnswer": "C",
+      "translationJa": "明瞭な標識が来訪者の安全を高めるとよく言われます。",
+      "explanationJa": "発言者を伏せるIt is often said thatの形です。",
+      "focus": "一般論のsaid",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0235_Q07",
+      "format": "part5-cloze",
+      "prompt": "The winners will be ------- by an independent judging panel.",
+      "choices": {
+        "A": "chose",
+        "B": "chosen",
+        "C": "choose",
+        "D": "choosing"
+      },
+      "correctAnswer": "B",
+      "translationJa": "受賞者は独立した審査委員会によって選ばれます。",
+      "explanationJa": "chooseの過去分詞chosenがwill beの後に必要です。",
+      "focus": "過去分詞chosen",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0235_Q08",
+      "format": "part5-cloze",
+      "prompt": "The conference room is not ------- after 6 p.m.",
+      "choices": {
+        "A": "use",
+        "B": "using",
+        "C": "uses",
+        "D": "used"
+      },
+      "correctAnswer": "D",
+      "translationJa": "その会議室は午後6時以降使用されません。",
+      "explanationJa": "現在受動の否定is not＋過去分詞usedです。",
+      "focus": "受動否定",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0235_Q09",
+      "format": "part5-cloze",
+      "prompt": "When was the new reservation system -------?",
+      "choices": {
+        "A": "introduced",
+        "B": "introduce",
+        "C": "introducing",
+        "D": "introduction"
+      },
+      "correctAnswer": "A",
+      "translationJa": "新しい予約システムはいつ導入されましたか。",
+      "explanationJa": "受動疑問Was＋主語＋過去分詞を完成するintroducedです。",
+      "focus": "受動疑問と過去分詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0235_Q10",
+      "format": "part5-cloze",
+      "prompt": "The replacement parts are being ------- at the north warehouse now.",
+      "choices": {
+        "A": "store",
+        "B": "stored",
+        "C": "storage",
+        "D": "stores"
+      },
+      "correctAnswer": "B",
+      "translationJa": "交換部品は現在北倉庫に保管中です。",
+      "explanationJa": "現在進行受動are being＋過去分詞storedです。",
+      "focus": "進行受動",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0235_Q11",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence with the correct passive formula.",
+      "choices": {
+        "A": "The monthly statements sent electronically.",
+        "B": "The monthly statements are send electronically.",
+        "C": "The monthly statements are sending customers electronically.",
+        "D": "The monthly statements are sent electronically."
+      },
+      "correctAnswer": "D",
+      "translationJa": "月次明細は電子的に送付されます。",
+      "explanationJa": "主語＋be動詞＋過去分詞sentの公式に合っています。",
+      "focus": "be＋過去分詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0235_Q12",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that correctly omits an unnecessary agent.",
+      "choices": {
+        "A": "The parking area will be closed by someone during resurfacing by workers.",
+        "B": "The parking area will be closed during resurfacing.",
+        "C": "The parking area will close by an unknown closer.",
+        "D": "Someone will be closed the parking area during resurfacing."
+      },
+      "correctAnswer": "B",
+      "translationJa": "再舗装中、駐車区域は閉鎖されます。",
+      "explanationJa": "閉鎖する人が話題でないためby句なしの受動が自然です。",
+      "focus": "by句の省略",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0235_Q13",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that correctly includes a meaningful agent.",
+      "choices": {
+        "A": "The commemorative poster was designed from the winning student.",
+        "B": "The winning student was designed by the poster.",
+        "C": "The commemorative poster was designed by the winning student.",
+        "D": "The poster designed by the student was."
+      },
+      "correctAnswer": "C",
+      "translationJa": "記念ポスターは受賞した学生がデザインしました。",
+      "explanationJa": "制作者の特定が重要なのでby句が適切です。",
+      "focus": "by＋重要行為者",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0235_Q14",
+      "format": "correct-sentence",
+      "prompt": "Choose the correctly formed passive question.",
+      "choices": {
+        "A": "Were the invoices approved yesterday?",
+        "B": "Did the invoices were approved yesterday?",
+        "C": "Were approved the invoices yesterday?",
+        "D": "The invoices were approve yesterday?"
+      },
+      "correctAnswer": "A",
+      "translationJa": "請求書は昨日承認されましたか。",
+      "explanationJa": "be動詞Wereを主語前に置き過去分詞approvedを使います。",
+      "focus": "受動疑問文",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0235_Q15",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence with correct tense marking in the passive.",
+      "choices": {
+        "A": "The office was cleaned every evening next year.",
+        "B": "The office cleaned is every evening.",
+        "C": "The office is clean by staff every evening when meaning an action.",
+        "D": "The office is cleaned every evening."
+      },
+      "correctAnswer": "D",
+      "translationJa": "事務所は毎晩清掃されます。",
+      "explanationJa": "反復する現在の行為なのでis cleanedが適切です。",
+      "focus": "beが担う現在時制",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0235_Q16",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence with a correct negative passive.",
+      "choices": {
+        "A": "The access code did not changed during the test.",
+        "B": "The access code was changed not during the test.",
+        "C": "The access code was not changed during the test.",
+        "D": "The access code not was change during the test."
+      },
+      "correctAnswer": "C",
+      "translationJa": "アクセスコードは試験中に変更されませんでした。",
+      "explanationJa": "be動詞wasの後にnot、続けて過去分詞changedを置きます。",
+      "focus": "be＋not＋過去分詞",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0235_Q17",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that correctly presents a general saying.",
+      "choices": {
+        "A": "It commonly says that good lighting increases productivity.",
+        "B": "It is commonly said that good lighting increases productivity.",
+        "C": "People is commonly said good lighting productivity.",
+        "D": "It is commonly saying that good lighting increase productivity."
+      },
+      "correctAnswer": "B",
+      "translationJa": "適切な照明が生産性を高めると一般に言われます。",
+      "explanationJa": "It is commonly said thatで話者を伏せた一般論になります。",
+      "focus": "It is commonly said that",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0235_Q18",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence with the correct irregular participle.",
+      "choices": {
+        "A": "The original receipt was gave to the accounting clerk.",
+        "B": "The original receipt given was the clerk by.",
+        "C": "The receipt was giving to the clerk.",
+        "D": "The original receipt was given to the accounting clerk."
+      },
+      "correctAnswer": "D",
+      "translationJa": "原本の領収書は経理担当者へ渡されました。",
+      "explanationJa": "giveの過去分詞はgivenなのでwas givenが正しいです。",
+      "focus": "過去分詞given",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0235_Q19",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct future passive sentence.",
+      "choices": {
+        "A": "A confirmation will emailed within two business days.",
+        "B": "A confirmation will be email within two business days.",
+        "C": "A confirmation will be emailed within two business days.",
+        "D": "A confirmation will be emailing the customer."
+      },
+      "correctAnswer": "C",
+      "translationJa": "確認メールは2営業日以内に送られます。",
+      "explanationJa": "will be＋過去分詞emailedが未来受動を作ります。",
+      "focus": "will be＋過去分詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0235_Q20",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence where the agent is appropriately left unstated.",
+      "choices": {
+        "A": "The elevator was inspected this morning.",
+        "B": "The elevator was inspected by an inspector who inspected it this morning.",
+        "C": "An unknown someone was inspecting by the elevator.",
+        "D": "The elevator inspected this morning by."
+      },
+      "correctAnswer": "A",
+      "translationJa": "エレベーターは今朝点検されました。",
+      "explanationJa": "点検者が重要でないためby句を省いた簡潔な受動が適切です。",
+      "focus": "不要なby句を付けない",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0235_Q21",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “The finalists were selected this morning.”",
+      "choices": {
+        "A": "Someone selected the finalists this morning.",
+        "B": "The finalists selected someone this morning.",
+        "C": "No selection took place this morning.",
+        "D": "The sentence identifies every judge by name."
+      },
+      "correctAnswer": "A",
+      "translationJa": "誰かが今朝、最終候補者を選びました。",
+      "explanationJa": "受動文は選ばれた対象を中心にし、行為者を省いています。",
+      "focus": "byなし受動の能動化",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0235_Q22",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “The display was created by local students.”",
+      "choices": {
+        "A": "The display created local students.",
+        "B": "Local students were created inside the display.",
+        "C": "Nobody knows whether a display exists.",
+        "D": "Local students created the display."
+      },
+      "correctAnswer": "D",
+      "translationJa": "地元の学生が展示物を制作しました。",
+      "explanationJa": "重要なby句の行為者を能動主語へ戻した同義文です。",
+      "focus": "by句から能動へ",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0235_Q23",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “Tea is grown in this region.”",
+      "choices": {
+        "A": "Tea grows the people who live in the region.",
+        "B": "The region is grown by tea producers.",
+        "C": "People grow tea in this region; the growers are not the focus.",
+        "D": "The sentence names one particular grower."
+      },
+      "correctAnswer": "C",
+      "translationJa": "この地域では人々が茶を栽培しますが、生産者は焦点ではありません。",
+      "explanationJa": "一般的生産をby句なしの受動で示しています。",
+      "focus": "一般的な受動",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0235_Q24",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “It is widely believed that the plan will succeed.”",
+      "choices": {
+        "A": "The plan believes many people will fail.",
+        "B": "Many people believe the plan will succeed.",
+        "C": "Only one identified person has an opinion.",
+        "D": "Everyone knows the plan has already failed."
+      },
+      "correctAnswer": "B",
+      "translationJa": "多くの人がその計画は成功すると信じています。",
+      "explanationJa": "発言者を伏せた一般見解をmany peopleの能動文へ戻しています。",
+      "focus": "It is believed thatの同義",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0235_Q25",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “The doors are locked at nine.”",
+      "choices": {
+        "A": "Someone locks the doors at nine.",
+        "B": "The doors lock a guard at nine.",
+        "C": "The doors remain open after nobody acts.",
+        "D": "Nine doors are being counted."
+      },
+      "correctAnswer": "A",
+      "translationJa": "誰かが9時に扉を施錠します。",
+      "explanationJa": "現在受動を不特定行為者の能動文へ展開しています。",
+      "focus": "現在受動の能動化",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0235_Q26",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “The hall was decorated by volunteers.”",
+      "choices": {
+        "A": "The hall decorated several volunteers.",
+        "B": "Volunteers were decorations in the hall.",
+        "C": "Volunteers decorated the hall.",
+        "D": "The hall remained completely undecorated."
+      },
+      "correctAnswer": "C",
+      "translationJa": "ボランティアが会場を飾りました。",
+      "explanationJa": "by句の行為者を主語にして同じ出来事を能動で表しています。",
+      "focus": "by行為者の主語化",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0235_Q27",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “The application has been rejected.”",
+      "choices": {
+        "A": "The application has rejected an employee.",
+        "B": "Someone is planning to approve it without review.",
+        "C": "The application has never received a decision.",
+        "D": "Someone has rejected the application."
+      },
+      "correctAnswer": "D",
+      "translationJa": "誰かがその申請を却下しました。",
+      "explanationJa": "現在完了受動をsomeone主語の能動へ戻しています。",
+      "focus": "現在完了受動の意味",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0235_Q28",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “Was the room reserved for Friday?”",
+      "choices": {
+        "A": "Did someone reserve the room for Friday?",
+        "B": "Did the room reserve someone for Friday?",
+        "C": "Was Friday reserving the room?",
+        "D": "No one asks about a reservation."
+      },
+      "correctAnswer": "A",
+      "translationJa": "誰かがその部屋を金曜日に予約しましたか。",
+      "explanationJa": "受動疑問をsomeone主語の能動疑問へ変えています。",
+      "focus": "受動疑問の同義",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0235_Q29",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “The results will be published online.”",
+      "choices": {
+        "A": "The results will publish a website.",
+        "B": "Someone will publish the results online.",
+        "C": "Someone published the results long ago only on paper.",
+        "D": "Online results will prevent publication."
+      },
+      "correctAnswer": "B",
+      "translationJa": "誰かが結果をオンライン公開します。",
+      "explanationJa": "未来受動を不特定行為者の未来能動へ展開しています。",
+      "focus": "未来受動の意味",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0235_Q30",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “The road was closed.”",
+      "choices": {
+        "A": "The road closed a named official.",
+        "B": "The closer is the only important topic.",
+        "C": "Someone closed the road, but who did it is not important to the message.",
+        "D": "The road remained open to all traffic."
+      },
+      "correctAnswer": "C",
+      "translationJa": "誰かが道路を閉鎖しましたが、誰かは伝達上重要ではありません。",
+      "explanationJa": "by句を省いた受動は閉鎖という結果に焦点を当てます。",
+      "focus": "by省略の情報焦点",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0235_Q31",
+      "format": "context-completion",
+      "prompt": "The bakery supplies all three cafés. The pastries ------- there before sunrise.",
+      "choices": {
+        "A": "prepare themselves",
+        "B": "are prepared",
+        "C": "are preparing customers",
+        "D": "have prepare"
+      },
+      "correctAnswer": "B",
+      "translationJa": "そのパン屋は3軒のカフェへ供給しています。菓子は日の出前にそこで作られます。",
+      "explanationJa": "pastriesが作られる対象なのでare preparedです。",
+      "focus": "現在受動",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0235_Q32",
+      "format": "context-completion",
+      "prompt": "The organizer has not named the judges. The winners will ------- at noon.",
+      "choices": {
+        "A": "announce",
+        "B": "be announcing",
+        "C": "announced",
+        "D": "be announced"
+      },
+      "correctAnswer": "D",
+      "translationJa": "主催者は審査員を公表していません。受賞者は正午に発表されます。",
+      "explanationJa": "未来受動will be announcedが必要です。",
+      "focus": "未来受動",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0235_Q33",
+      "format": "context-completion",
+      "prompt": "The artist is speaking at the reception tonight. The entrance sign was painted ------- her.",
+      "choices": {
+        "A": "by",
+        "B": "from",
+        "C": "with",
+        "D": "during"
+      },
+      "correctAnswer": "A",
+      "translationJa": "その芸術家は今夜レセプションで話します。入口の看板は彼女が描きました。",
+      "explanationJa": "行為者が文脈上重要なのでby herを使います。",
+      "focus": "by＋重要な人物",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0235_Q34",
+      "format": "context-completion",
+      "prompt": "The warehouse opened only last month. More than ten thousand items have already ------- stored there.",
+      "choices": {
+        "A": "being",
+        "B": "be",
+        "C": "been",
+        "D": "were"
+      },
+      "correctAnswer": "C",
+      "translationJa": "倉庫は先月開設されたばかりですが、すでに1万点以上が保管されています。",
+      "explanationJa": "現在完了受動have been storedを作るbeenです。",
+      "focus": "have been stored",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0235_Q35",
+      "format": "context-completion",
+      "prompt": "No one knows who moved the sign. It was ------- near the rear entrance.",
+      "choices": {
+        "A": "find",
+        "B": "finding",
+        "C": "founded",
+        "D": "found"
+      },
+      "correctAnswer": "D",
+      "translationJa": "誰が標識を動かしたか分かりません。標識は裏口付近で見つかりました。",
+      "explanationJa": "行為者不明でfindの過去分詞foundを使います。",
+      "focus": "was found",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0235_Q36",
+      "format": "context-completion",
+      "prompt": "The company did not identify a spokesperson. It was ------- that refunds would begin Monday.",
+      "choices": {
+        "A": "stating",
+        "B": "stated",
+        "C": "state",
+        "D": "statement"
+      },
+      "correctAnswer": "B",
+      "translationJa": "会社は発言者を特定せず、返金は月曜日開始と表明されました。",
+      "explanationJa": "発言者を伏せ内容を一般的に示すIt was stated thatです。",
+      "focus": "非人称受動",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0235_Q37",
+      "format": "context-completion",
+      "prompt": "The old access cards are no longer valid. They must be ------- at reception.",
+      "choices": {
+        "A": "returned",
+        "B": "return",
+        "C": "returning",
+        "D": "returns"
+      },
+      "correctAnswer": "A",
+      "translationJa": "旧アクセスカードは無効です。受付へ返却しなければなりません。",
+      "explanationJa": "must beの後に過去分詞returnedを置きます。",
+      "focus": "must be returned",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0235_Q38",
+      "format": "context-completion",
+      "prompt": "The gallery is closed while workers install new lights. When will it be -------?",
+      "choices": {
+        "A": "reopen",
+        "B": "reopening",
+        "C": "reopens",
+        "D": "reopened"
+      },
+      "correctAnswer": "D",
+      "translationJa": "作業員が新照明を設置中のためギャラリーは閉鎖されています。再開はいつですか。",
+      "explanationJa": "will it be＋過去分詞reopenedで未来受動疑問です。",
+      "focus": "未来受動疑問",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0235_Q39",
+      "format": "context-completion",
+      "prompt": "The parcel arrived with no sender information. It was not ------- by any accompanying document.",
+      "choices": {
+        "A": "identify",
+        "B": "identifying",
+        "C": "identified",
+        "D": "identity"
+      },
+      "correctAnswer": "C",
+      "translationJa": "荷物には差出人情報がなく、同封書類でも特定されませんでした。",
+      "explanationJa": "was not＋過去分詞identifiedが否定受動です。",
+      "focus": "過去受動否定",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0235_Q40",
+      "format": "context-completion",
+      "prompt": "The town has many bicycle lanes. It is often ------- that cycling is the easiest way to travel there.",
+      "choices": {
+        "A": "saying",
+        "B": "said",
+        "C": "say",
+        "D": "says"
+      },
+      "correctAnswer": "B",
+      "translationJa": "その町には自転車道が多く、自転車が最も移動しやすいとよく言われます。",
+      "explanationJa": "一般的な言説をIt is often said thatで示します。",
+      "focus": "一般論と発言者省略",
+      "difficulty": "intermediate"
+    }
+  ]
+}
