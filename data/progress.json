@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-29T04:57:20.326Z",
+  "updatedAt": "2026-08-29T04:58:32.503Z",
   "totalPages": 330,
-  "completedPages": 53,
+  "completedPages": 54,
   "questionsPerPage": 40,
   "totalPlannedQuestions": 13200,
   "pages": [
@@ -442,9 +442,9 @@
       "number": 55,
       "id": "grammar-master-0055",
       "title": "作る・持つ・許す・見る",
-      "status": "pending",
+      "status": "complete",
       "output": "question-sets/PAGE_0055.json",
-      "completedAt": null
+      "completedAt": "2026-08-29T04:58:32.503Z"
     },
     {
       "number": 56,

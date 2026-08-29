@@ -65,7 +65,7 @@
 | 52 | 力と方向で動詞をつかむ | [PAGE_0052](pages/PAGE_0052.webp) | [原稿](source-prompts/PAGE_0052.txt) | [40問](question-sets/PAGE_0052.json) |
 | 53 | 向きを変え、手に取り、置く | [PAGE_0053](pages/PAGE_0053.webp) | [原稿](source-prompts/PAGE_0053.txt) | [40問](question-sets/PAGE_0053.json) |
 | 54 | 置く・得る・与える | [PAGE_0054](pages/PAGE_0054.webp) | [原稿](source-prompts/PAGE_0054.txt) | [40問](question-sets/PAGE_0054.json) |
-| 55 | 作る・持つ・許す・見る | [PAGE_0055](pages/PAGE_0055.webp) | [原稿](source-prompts/PAGE_0055.txt) | `pending` |
+| 55 | 作る・持つ・許す・見る | [PAGE_0055](pages/PAGE_0055.webp) | [原稿](source-prompts/PAGE_0055.txt) | [40問](question-sets/PAGE_0055.json) |
 | 56 | 見る・聞くは、動作か感覚か | [PAGE_0056](pages/PAGE_0056.webp) | [原稿](source-prompts/PAGE_0056.txt) | `pending` |
 | 57 | 感じる動詞・伝える動詞 | [PAGE_0057](pages/PAGE_0057.webp) | [原稿](source-prompts/PAGE_0057.txt) | `pending` |
 | 58 | 情報は、頭と心を旅する | [PAGE_0058](pages/PAGE_0058.webp) | [原稿](source-prompts/PAGE_0058.txt) | `pending` |
