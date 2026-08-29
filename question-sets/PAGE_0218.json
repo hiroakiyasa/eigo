@@ -1,0 +1,672 @@
+{
+  "schemaVersion": 1,
+  "page": {
+    "number": 218,
+    "id": "grammar-master-0218",
+    "title": "-ingを目的語と説明に置く",
+    "image": "pages/PAGE_0218.webp",
+    "sourcePrompt": "source-prompts/PAGE_0218.txt"
+  },
+  "analysis": {
+    "summaryJa": "-ing句は特定の動詞の目的語、前置詞の目的語、be動詞後の説明に置ける。前置詞の後ろでは名詞相当の-ingを用い、be＋-ingは主語が今している動作を映す進行形か、主語の内容を等号で説明する動名詞補語かを意味で見分ける。",
+    "grammarPoints": [
+      "avoid・enjoy・finishなどの動詞＋-ing",
+      "前置詞＋-ingの必須形",
+      "be＋現在分詞の進行形",
+      "be＋動名詞補語による内容説明"
+    ],
+    "visualEvidence": [
+      "画像の3つの扉がverb＋-ing、preposition＋-ing、be＋-ingに分かれる",
+      "動画アイコンのis crossingと等号アイコンのis sketching ruinsが対比される",
+      "interested in to learnをin learningへ直す赤い警告がある"
+    ],
+    "commonTraps": [
+      "前置詞の直後にto不定詞を置く",
+      "avoidなど-ingを取る動詞の後ろに原形を置く",
+      "be＋-ingをすべて進行形と決めつける",
+      "動名詞補語と進行中の動作の意味を取り違える"
+    ]
+  },
+  "questions": [
+    {
+      "id": "PAGE_0218_Q01",
+      "format": "part5-cloze",
+      "prompt": "The clerk avoided ------- personal information over the phone.",
+      "choices": {
+        "A": "discuss",
+        "B": "to discuss",
+        "C": "discussing",
+        "D": "discussed"
+      },
+      "correctAnswer": "C",
+      "translationJa": "係員は電話で個人情報を話すことを避けました。",
+      "explanationJa": "avoidの目的語には動名詞discussingを使います。",
+      "focus": "avoid＋-ing",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0218_Q02",
+      "format": "part5-cloze",
+      "prompt": "Ms. Ward is interested in ------- the leadership course.",
+      "choices": {
+        "A": "taking",
+        "B": "take",
+        "C": "to take",
+        "D": "took"
+      },
+      "correctAnswer": "A",
+      "translationJa": "ウォードさんはリーダーシップ講座の受講に関心があります。",
+      "explanationJa": "前置詞inの後ろには名詞相当のtakingを置きます。",
+      "focus": "前置詞in＋-ing",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0218_Q03",
+      "format": "part5-cloze",
+      "prompt": "The maintenance team is ------- the elevator now.",
+      "choices": {
+        "A": "inspect",
+        "B": "inspected",
+        "C": "to inspect",
+        "D": "inspecting"
+      },
+      "correctAnswer": "D",
+      "translationJa": "保守チームは現在エレベーターを点検しています。",
+      "explanationJa": "nowと動作主teamから、be＋inspectingは進行中の動作を表します。",
+      "focus": "現在進行形be＋-ing",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0218_Q04",
+      "format": "part5-cloze",
+      "prompt": "Our first task is ------- all visitor badges.",
+      "choices": {
+        "A": "print",
+        "B": "printing",
+        "C": "printed",
+        "D": "to printed"
+      },
+      "correctAnswer": "B",
+      "translationJa": "私たちの最初の仕事はすべての来訪者用バッジを印刷することです。",
+      "explanationJa": "printing句はtaskの内容をbe動詞後で等号的に説明します。",
+      "focus": "動名詞補語のbe＋-ing",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0218_Q05",
+      "format": "part5-cloze",
+      "prompt": "The supplier finished ------- the replacement parts yesterday.",
+      "choices": {
+        "A": "packing",
+        "B": "pack",
+        "C": "to pack",
+        "D": "packed"
+      },
+      "correctAnswer": "A",
+      "translationJa": "仕入先は昨日交換部品の梱包を終えました。",
+      "explanationJa": "finishは目的語に-ing形packingを取ります。",
+      "focus": "finish＋動名詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0218_Q06",
+      "format": "part5-cloze",
+      "prompt": "Employees can save time by ------- the online form.",
+      "choices": {
+        "A": "use",
+        "B": "to use",
+        "C": "using",
+        "D": "used"
+      },
+      "correctAnswer": "C",
+      "translationJa": "従業員はオンライン用紙を使うことで時間を節約できます。",
+      "explanationJa": "前置詞byの後ろにはusingという動名詞を置きます。",
+      "focus": "by＋-ingによる手段",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0218_Q07",
+      "format": "part5-cloze",
+      "prompt": "The receptionist is ------- several guests at the front desk.",
+      "choices": {
+        "A": "assist",
+        "B": "assisting",
+        "C": "assisted",
+        "D": "to assisting"
+      },
+      "correctAnswer": "B",
+      "translationJa": "受付係は窓口で複数の来客を案内しています。",
+      "explanationJa": "その場で進行中の動作をbe＋assistingで表します。",
+      "focus": "進行形の動作",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0218_Q08",
+      "format": "part5-cloze",
+      "prompt": "His favorite duty is ------- new employees around the facility.",
+      "choices": {
+        "A": "show",
+        "B": "shown",
+        "C": "to showed",
+        "D": "showing"
+      },
+      "correctAnswer": "D",
+      "translationJa": "彼の好きな仕事は新入社員に施設を案内することです。",
+      "explanationJa": "showing句はdutyの内容を説明する名詞相当の補語です。",
+      "focus": "be＋動名詞補語",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0218_Q09",
+      "format": "part5-cloze",
+      "prompt": "The manager apologized for ------- the meeting at short notice.",
+      "choices": {
+        "A": "cancel",
+        "B": "to cancel",
+        "C": "canceling",
+        "D": "canceled"
+      },
+      "correctAnswer": "C",
+      "translationJa": "部長は直前に会議を中止したことを謝罪しました。",
+      "explanationJa": "前置詞forの後ろにはcancelingを置きます。",
+      "focus": "for＋-ing",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0218_Q10",
+      "format": "part5-cloze",
+      "prompt": "We considered ------- the damaged units by express mail.",
+      "choices": {
+        "A": "replace",
+        "B": "to replaced",
+        "C": "replaced",
+        "D": "replacing"
+      },
+      "correctAnswer": "D",
+      "translationJa": "破損品を速達で交換することを検討しました。",
+      "explanationJa": "considerの目的語にはreplacing以下の動名詞句が必要です。",
+      "focus": "consider＋-ing",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0218_Q11",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence after the verb enjoy.",
+      "choices": {
+        "A": "Our visitors enjoyed tour the production floor.",
+        "B": "Our visitors enjoyed touring the production floor.",
+        "C": "Our visitors enjoyed to touring the production floor.",
+        "D": "Our visitors enjoying toured the production floor."
+      },
+      "correctAnswer": "B",
+      "translationJa": "来訪者は生産フロアの見学を楽しみました。",
+      "explanationJa": "enjoyの目的語はtouringという-ing形です。",
+      "focus": "enjoy＋動名詞",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0218_Q12",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence after a preposition.",
+      "choices": {
+        "A": "The team succeeded by work together.",
+        "B": "The team succeeded by to work together.",
+        "C": "The team succeeded working by together.",
+        "D": "The team succeeded by working together."
+      },
+      "correctAnswer": "D",
+      "translationJa": "チームは協力して取り組むことで成功しました。",
+      "explanationJa": "前置詞byの後ろにworkingを置き、方法を表します。",
+      "focus": "by＋-ing",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0218_Q13",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence describing an action in progress.",
+      "choices": {
+        "A": "The driver is unloading the crates now.",
+        "B": "The driver is unload the crates now.",
+        "C": "The driver unloading the crates is now.",
+        "D": "The driver is unloaded the crates now."
+      },
+      "correctAnswer": "A",
+      "translationJa": "運転手は今、木箱を降ろしています。",
+      "explanationJa": "nowの進行中の動作なのでis unloadingが正しいです。",
+      "focus": "be＋現在分詞の進行形",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0218_Q14",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence in which -ing explains the subject’s content.",
+      "choices": {
+        "A": "The workshop’s purpose is improve customer communication.",
+        "B": "The workshop’s purpose improving customer communication is.",
+        "C": "The workshop’s purpose is improving customer communication.",
+        "D": "The workshop’s purpose is improved customer communication now."
+      },
+      "correctAnswer": "C",
+      "translationJa": "研修会の目的は顧客とのコミュニケーションを改善することです。",
+      "explanationJa": "improving句はpurposeの内容を説明する補語で、進行動作ではありません。",
+      "focus": "be＋動名詞補語",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0218_Q15",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence after “look forward to.”",
+      "choices": {
+        "A": "We look forward to welcome your team.",
+        "B": "We look forward to welcomed your team.",
+        "C": "We look forward welcoming to your team.",
+        "D": "We look forward to welcoming your team."
+      },
+      "correctAnswer": "D",
+      "translationJa": "皆様のチームをお迎えするのを楽しみにしています。",
+      "explanationJa": "このtoは前置詞なので、後ろにはwelcomingを置きます。",
+      "focus": "前置詞to＋-ing",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0218_Q16",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence after the verb postpone.",
+      "choices": {
+        "A": "The board postponed announce its decision.",
+        "B": "The board postponed announcing its decision.",
+        "C": "The board postponed to announcing its decision.",
+        "D": "The board postponing announced its decision."
+      },
+      "correctAnswer": "B",
+      "translationJa": "取締役会は決定の発表を延期しました。",
+      "explanationJa": "postponeは目的語にannouncingという動名詞を取ります。",
+      "focus": "postpone＋動名詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0218_Q17",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct progressive sentence about temporary work.",
+      "choices": {
+        "A": "Technicians are install new lights this week.",
+        "B": "Technicians installing new lights this week are.",
+        "C": "Technicians are installing new lights this week.",
+        "D": "Technicians are installed new lights this week."
+      },
+      "correctAnswer": "C",
+      "translationJa": "技術者は今週、新しい照明を設置しています。",
+      "explanationJa": "this weekの一時的に進行中の作業をare installingで表します。",
+      "focus": "一時的な現在進行形",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0218_Q18",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about a hobby as a description.",
+      "choices": {
+        "A": "Ms. Wu’s hobby is collecting vintage posters.",
+        "B": "Ms. Wu’s hobby is collect vintage posters.",
+        "C": "Ms. Wu’s hobby collecting vintage posters now.",
+        "D": "Ms. Wu’s hobby is collected vintage posters."
+      },
+      "correctAnswer": "A",
+      "translationJa": "ウーさんの趣味は年代物のポスターを収集することです。",
+      "explanationJa": "collecting句はhobbyの内容を等号的に説明します。",
+      "focus": "be＋動名詞の内容説明",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0218_Q19",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence after “be responsible for.”",
+      "choices": {
+        "A": "The vendor is responsible for replace defective parts.",
+        "B": "The vendor is responsible to replacing defective parts.",
+        "C": "The vendor is responsible for to replace defective parts.",
+        "D": "The vendor is responsible for replacing defective parts."
+      },
+      "correctAnswer": "D",
+      "translationJa": "仕入先は欠陥部品の交換に責任を負います。",
+      "explanationJa": "forは前置詞なので、その後ろにreplacingを置きます。",
+      "focus": "形容詞句＋前置詞＋-ing",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0218_Q20",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that correctly distinguishes description from progress.",
+      "choices": {
+        "A": "The guide is explain the route now, but her main job is assist travelers.",
+        "B": "The guide explaining the route now, but her main job assisting travelers.",
+        "C": "The guide is explaining the route now, but her main job is assisting travelers.",
+        "D": "The guide is explained the route now, but her main job is assisted travelers."
+      },
+      "correctAnswer": "C",
+      "translationJa": "案内係は今経路を説明していますが、主な仕事は旅行者を支援することです。",
+      "explanationJa": "前半は進行形is explaining、後半はjobの内容を示すis assistingです。",
+      "focus": "2種類のbe＋-ingの対比",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0218_Q21",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The clerk avoided answering the question.\"",
+      "choices": {
+        "A": "The clerk answered the question immediately.",
+        "B": "The question avoided the clerk.",
+        "C": "The clerk could not hear any question.",
+        "D": "The clerk chose not to answer the question."
+      },
+      "correctAnswer": "D",
+      "translationJa": "係員はその質問に答えないことにしました。",
+      "explanationJa": "avoid answeringは答える行為を避けることです。",
+      "focus": "avoid＋動名詞の意味",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0218_Q22",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"We improved accuracy by scanning each item.\"",
+      "choices": {
+        "A": "Accuracy prevented us from scanning items.",
+        "B": "Scanning each item was the method we used to improve accuracy.",
+        "C": "We scanned only inaccurate items.",
+        "D": "Each item improved the scanner."
+      },
+      "correctAnswer": "B",
+      "translationJa": "各品目をスキャンすることが精度向上の方法でした。",
+      "explanationJa": "by＋-ingは主節の達成方法を示します。",
+      "focus": "by＋-ingの手段意味",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0218_Q23",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The staff are preparing the hall.\"",
+      "choices": {
+        "A": "The hall regularly prepares the staff.",
+        "B": "The staff completed the hall yesterday.",
+        "C": "The preparation of the hall is in progress.",
+        "D": "No preparation is taking place."
+      },
+      "correctAnswer": "C",
+      "translationJa": "職員による会場準備が進行中です。",
+      "explanationJa": "are preparingは現在進行中の動作を示します。",
+      "focus": "進行形の意味",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0218_Q24",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"Our goal is reducing delivery times.\"",
+      "choices": {
+        "A": "Reducing delivery times is our goal.",
+        "B": "Delivery times are reducing our goal.",
+        "C": "Our goal is to increase every delay.",
+        "D": "We delivered the goal on time."
+      },
+      "correctAnswer": "A",
+      "translationJa": "配送時間を短縮することが当社の目標です。",
+      "explanationJa": "be動詞後のreducing句はgoalの内容で、主語位置へ移せます。",
+      "focus": "動名詞補語の移動",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0218_Q25",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The manager apologized for arriving late.\"",
+      "choices": {
+        "A": "The manager arrived late to receive an apology.",
+        "B": "The manager apologized because she had arrived late.",
+        "C": "Someone apologized for the manager.",
+        "D": "The manager denied being late."
+      },
+      "correctAnswer": "B",
+      "translationJa": "部長は遅れて到着したことを謝罪しました。",
+      "explanationJa": "for＋arrivingは謝罪理由となる行為を表します。",
+      "focus": "for＋-ingの理由",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0218_Q26",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"They finished updating the website.\"",
+      "choices": {
+        "A": "They began an unfinished website.",
+        "B": "The website updated them.",
+        "C": "They postponed every online change.",
+        "D": "They completed the website update."
+      },
+      "correctAnswer": "D",
+      "translationJa": "彼らはウェブサイトの更新を完了しました。",
+      "explanationJa": "finish＋updatingは更新作業を完了したことです。",
+      "focus": "finish＋-ingの意味",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0218_Q27",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The nurses are checking the equipment.\"",
+      "choices": {
+        "A": "The equipment check is happening now.",
+        "B": "The equipment checks the nurses regularly.",
+        "C": "The nurses refuse to check equipment.",
+        "D": "The check was completed long ago."
+      },
+      "correctAnswer": "A",
+      "translationJa": "看護師による機器点検が今行われています。",
+      "explanationJa": "are checkingは今進んでいる動作を表します。",
+      "focus": "進行形の時間意味",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0218_Q28",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"Her responsibility is scheduling interviews.\"",
+      "choices": {
+        "A": "Interviews are scheduling her responsibility.",
+        "B": "She is currently interviewing a schedule.",
+        "C": "She is responsible for the interview schedule.",
+        "D": "She avoids all interview duties."
+      },
+      "correctAnswer": "C",
+      "translationJa": "彼女は面接日程の管理を担当しています。",
+      "explanationJa": "scheduling interviewsはresponsibilityの内容を説明します。",
+      "focus": "動名詞補語の内容",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0218_Q29",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The company is considering opening a second branch.\"",
+      "choices": {
+        "A": "The company is thinking about opening another branch.",
+        "B": "The company has permanently closed every branch.",
+        "C": "A second branch is considering the company.",
+        "D": "The company opened a branch without consideration."
+      },
+      "correctAnswer": "A",
+      "translationJa": "会社は2つ目の支店開設を検討しています。",
+      "explanationJa": "consider＋openingはthink about＋openingと同じ検討内容です。",
+      "focus": "consider＋-ing",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0218_Q30",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"He is repairing a printer, and his specialty is repairing office machines.\"",
+      "choices": {
+        "A": "Both forms describe completed repairs.",
+        "B": "The first “repairing” is ongoing action; the second names his specialty.",
+        "C": "Both forms are simple nouns with no action.",
+        "D": "The first names a hobby and the second is future tense."
+      },
+      "correctAnswer": "B",
+      "translationJa": "最初のrepairingは進行中の動作、2つ目は彼の専門内容を示します。",
+      "explanationJa": "be＋-ingは文脈により進行形か名詞相当の内容説明かが変わります。",
+      "focus": "be＋-ingの意味判別",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0218_Q31",
+      "format": "context-completion",
+      "prompt": "The claims team receives many duplicate requests. It avoids ------- the same refund twice.",
+      "choices": {
+        "A": "process",
+        "B": "to process",
+        "C": "processing",
+        "D": "processed"
+      },
+      "correctAnswer": "C",
+      "translationJa": "請求担当は重複依頼を多数受けます。同じ返金を2度処理することを避けています。",
+      "explanationJa": "avoidの目的語はprocessingです。",
+      "focus": "avoid＋-ingの文脈運用",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0218_Q32",
+      "format": "context-completion",
+      "prompt": "Ms. Kim wants broader experience. She is interested in ------- the overseas account.",
+      "choices": {
+        "A": "managing",
+        "B": "manage",
+        "C": "to manage",
+        "D": "managed"
+      },
+      "correctAnswer": "A",
+      "translationJa": "キムさんはより幅広い経験を望んでいます。海外アカウントの管理に関心があります。",
+      "explanationJa": "前置詞inの後ろにはmanagingを置きます。",
+      "focus": "interested in＋-ing",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0218_Q33",
+      "format": "context-completion",
+      "prompt": "Please do not enter the room. A technician is ------- the wiring now.",
+      "choices": {
+        "A": "test",
+        "B": "tested",
+        "C": "to test",
+        "D": "testing"
+      },
+      "correctAnswer": "D",
+      "translationJa": "部屋に入らないでください。技術者が今配線を試験しています。",
+      "explanationJa": "nowの進行中の作業なのでis testingです。",
+      "focus": "現在進行形",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0218_Q34",
+      "format": "context-completion",
+      "prompt": "The department has one central mission. Its mission is ------- reliable support.",
+      "choices": {
+        "A": "provide",
+        "B": "providing",
+        "C": "provided",
+        "D": "to provided"
+      },
+      "correctAnswer": "B",
+      "translationJa": "その部署には中心的使命が1つあります。それは信頼できる支援を提供することです。",
+      "explanationJa": "providing reliable supportがmissionの内容です。",
+      "focus": "be＋動名詞補語",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0218_Q35",
+      "format": "context-completion",
+      "prompt": "The client has approved the design. We can proceed with ------- the prototype.",
+      "choices": {
+        "A": "build",
+        "B": "to build",
+        "C": "building",
+        "D": "built"
+      },
+      "correctAnswer": "C",
+      "translationJa": "顧客がデザインを承認しました。試作品の製作を進められます。",
+      "explanationJa": "withは前置詞なのでbuildingを目的語にします。",
+      "focus": "proceed with＋-ing",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0218_Q36",
+      "format": "context-completion",
+      "prompt": "The warehouse is unusually quiet today. Most employees are ------- safety training off-site.",
+      "choices": {
+        "A": "attending",
+        "B": "attend",
+        "C": "attended",
+        "D": "to attend"
+      },
+      "correctAnswer": "A",
+      "translationJa": "今日は倉庫が異常に静かです。大半の従業員は外部で安全研修に参加中です。",
+      "explanationJa": "今日進行中の一時的行動をare attendingで表します。",
+      "focus": "文脈から進行形選択",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0218_Q37",
+      "format": "context-completion",
+      "prompt": "The role includes several duties. One of them is ------- weekly inventory reports.",
+      "choices": {
+        "A": "prepare",
+        "B": "preparing",
+        "C": "prepared",
+        "D": "to prepared"
+      },
+      "correctAnswer": "B",
+      "translationJa": "その役職には複数の職務があります。その1つは週間在庫報告書の作成です。",
+      "explanationJa": "preparing句がone of the dutiesの内容を説明します。",
+      "focus": "内容説明の動名詞補語",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0218_Q38",
+      "format": "context-completion",
+      "prompt": "The flight was canceled. We succeeded in ------- seats on a later flight.",
+      "choices": {
+        "A": "find",
+        "B": "to find",
+        "C": "found",
+        "D": "finding"
+      },
+      "correctAnswer": "D",
+      "translationJa": "便が欠航しました。後の便の座席を見つけることに成功しました。",
+      "explanationJa": "succeed inのinは前置詞なのでfindingです。",
+      "focus": "succeed in＋-ing",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0218_Q39",
+      "format": "context-completion",
+      "prompt": "The team has not chosen a supplier yet. It is still ------- the four proposals.",
+      "choices": {
+        "A": "comparing",
+        "B": "compare",
+        "C": "compared",
+        "D": "to compared"
+      },
+      "correctAnswer": "A",
+      "translationJa": "チームはまだ仕入先を選んでいません。4つの提案をまだ比較中です。",
+      "explanationJa": "stillと未決定の文脈からis comparingという進行形が適切です。",
+      "focus": "進行形の文脈判断",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0218_Q40",
+      "format": "context-completion",
+      "prompt": "Ms. Silva’s long-term objective is ------- the response process without reducing quality.",
+      "choices": {
+        "A": "streamline",
+        "B": "streamlining",
+        "C": "streamlined",
+        "D": "to streamlined"
+      },
+      "correctAnswer": "B",
+      "translationJa": "シルバさんの長期目標は、品質を落とさず応答手続きを効率化することです。",
+      "explanationJa": "streamlining以下がobjectiveの内容を名詞相当として説明します。",
+      "focus": "複雑な動名詞補語",
+      "difficulty": "advanced"
+    }
+  ]
+}
