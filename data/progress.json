@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-29T08:58:46.225Z",
+  "updatedAt": "2026-08-29T09:00:44.631Z",
   "totalPages": 330,
-  "completedPages": 315,
+  "completedPages": 318,
   "questionsPerPage": 40,
   "totalPlannedQuestions": 13200,
   "pages": [
@@ -1546,9 +1546,9 @@
       "number": 193,
       "id": "grammar-master-0193",
       "title": "ofはリンク、onは接触",
-      "status": "pending",
+      "status": "complete",
       "output": "question-sets/PAGE_0193.json",
-      "completedAt": null
+      "completedAt": "2026-08-29T09:00:41.870Z"
     },
     {
       "number": 194,
@@ -1850,9 +1850,9 @@
       "number": 231,
       "id": "grammar-master-0231",
       "title": "長いtoは、後ろへ送る",
-      "status": "pending",
+      "status": "complete",
       "output": "question-sets/PAGE_0231.json",
-      "completedAt": null
+      "completedAt": "2026-08-29T09:00:44.092Z"
     },
     {
       "number": 232,
@@ -1946,9 +1946,9 @@
       "number": 243,
       "id": "grammar-master-0243",
       "title": "過去分詞で背景を先に描く",
-      "status": "pending",
+      "status": "complete",
       "output": "question-sets/PAGE_0243.json",
-      "completedAt": null
+      "completedAt": "2026-08-29T09:00:44.631Z"
     },
     {
       "number": 244,
