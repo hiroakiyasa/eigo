@@ -356,7 +356,7 @@
     {
       "id": "PAGE_0024_Q21",
       "format": "meaning-equivalent",
-      "prompt": "Complete the rule for “I”: I ------- ready.",
+      "prompt": "Choose the option that correctly completes the present-tense statement about “I”.",
       "choices": {
         "A": "am",
         "B": "is",
@@ -372,7 +372,7 @@
     {
       "id": "PAGE_0024_Q22",
       "format": "meaning-equivalent",
-      "prompt": "Complete the rule for “they”: They ------- ready.",
+      "prompt": "Choose the option that correctly completes the present-tense statement about “they”.",
       "choices": {
         "A": "is",
         "B": "are",
@@ -388,7 +388,7 @@
     {
       "id": "PAGE_0024_Q23",
       "format": "meaning-equivalent",
-      "prompt": "Choose the verb form for “Leo”: Leo ------- the schedule daily.",
+      "prompt": "Choose the correct present-tense verb form for the singular subject “Leo”.",
       "choices": {
         "A": "check",
         "B": "checking",
@@ -404,7 +404,7 @@
     {
       "id": "PAGE_0024_Q24",
       "format": "meaning-equivalent",
-      "prompt": "Choose the verb form for “we”: We ------- the schedule daily.",
+      "prompt": "Choose the correct present-tense verb form for the plural subject “we”.",
       "choices": {
         "A": "checks",
         "B": "checking",
