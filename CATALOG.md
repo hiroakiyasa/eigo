@@ -14,7 +14,7 @@
 | 6 | 前はしぼる　後ろは説明 | [PAGE_0006](pages/PAGE_0006.webp) | [原稿](source-prompts/PAGE_0006.txt) | [40問](question-sets/PAGE_0006.json) |
 | 7 | 前に置いて、意味をしぼる | [PAGE_0007](pages/PAGE_0007.webp) | [原稿](source-prompts/PAGE_0007.txt) | [40問](question-sets/PAGE_0007.json) |
 | 8 | 後ろへ、情報を足していく | [PAGE_0008](pages/PAGE_0008.webp) | [原稿](source-prompts/PAGE_0008.txt) | [40問](question-sets/PAGE_0008.json) |
-| 9 | 文の穴が、名詞を呼ぶ | [PAGE_0009](pages/PAGE_0009.webp) | [原稿](source-prompts/PAGE_0009.txt) | `pending` |
+| 9 | 文の穴が、名詞を呼ぶ | [PAGE_0009](pages/PAGE_0009.webp) | [原稿](source-prompts/PAGE_0009.txt) | [40問](question-sets/PAGE_0009.json) |
 | 10 | 置き場所で、役目が変わる | [PAGE_0010](pages/PAGE_0010.webp) | [原稿](source-prompts/PAGE_0010.txt) | `pending` |
 | 11 | 並びを動かすと、気持ちが見える | [PAGE_0011](pages/PAGE_0011.webp) | [原稿](source-prompts/PAGE_0011.txt) | `pending` |
 | 12 | 声と並びで、気持ちを伝える | [PAGE_0012](pages/PAGE_0012.webp) | [原稿](source-prompts/PAGE_0012.txt) | `pending` |

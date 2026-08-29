@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-29T00:46:09.736Z",
+  "updatedAt": "2026-08-29T01:09:37.362Z",
   "totalPages": 330,
-  "completedPages": 7,
+  "completedPages": 8,
   "questionsPerPage": 40,
   "totalPlannedQuestions": 13200,
   "pages": [
@@ -74,9 +74,9 @@
       "number": 9,
       "id": "grammar-master-0009",
       "title": "文の穴が、名詞を呼ぶ",
-      "status": "pending",
+      "status": "complete",
       "output": "question-sets/PAGE_0009.json",
-      "completedAt": null
+      "completedAt": "2026-08-29T01:09:37.362Z"
     },
     {
       "number": 10,
