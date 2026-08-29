@@ -1,0 +1,672 @@
+{
+  "schemaVersion": 1,
+  "page": {
+    "number": 217,
+    "id": "grammar-master-0217",
+    "title": "-ingは動きを包むカプセル",
+    "image": "pages/PAGE_0217.webp",
+    "sourcePrompt": "source-prompts/PAGE_0217.txt"
+  },
+  "analysis": {
+    "summaryJa": "動詞に-ingを付けると、動作の内部構造（動作主・目的語・様子など）を保ったまま名詞相当のまとまりとして主語・目的語・補語の席へ運べる。丁寧な書き言葉では動名詞の動作主を所有格で明示できる。",
+    "grammarPoints": [
+      "動名詞句を主語・目的語・補語に置くこと",
+      "動名詞内部で動詞と目的語の関係を保つこと",
+      "動名詞の動作主を所有格で示す形",
+      "動名詞句主語を原則単数扱いすること"
+    ],
+    "visualEvidence": [
+      "画像では動く場面が透明な-INGカプセルに入り名詞のS・O・Cの席へ運ばれる",
+      "drawing tiny mapsの中でdrawingとmapsの動詞目的語関係が保たれている",
+      "Leo’s singingとthe baby’s laughingが動作主を所有格で示す"
+    ],
+    "commonTraps": [
+      "動名詞句を複数扱いして述語を複数形にする",
+      "他動詞由来の動名詞から目的語を落とす",
+      "前置詞の後ろで動詞原形やto不定詞を使う",
+      "丁寧な文で動作主の所有格を見落とす"
+    ]
+  },
+  "questions": [
+    {
+      "id": "PAGE_0217_Q01",
+      "format": "part5-cloze",
+      "prompt": "------- purchase orders accurately prevents costly delays.",
+      "choices": {
+        "A": "Entered",
+        "B": "Enter",
+        "C": "Entering",
+        "D": "To entered"
+      },
+      "correctAnswer": "C",
+      "translationJa": "発注書を正確に入力することは、費用のかかる遅延を防ぎます。",
+      "explanationJa": "Entering purchase orders accurately全体がpreventsの主語となる動名詞句です。",
+      "focus": "動名詞句主語",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0217_Q02",
+      "format": "part5-cloze",
+      "prompt": "The interns enjoy ------- customer survey results.",
+      "choices": {
+        "A": "analyzing",
+        "B": "analyzed",
+        "C": "analyze",
+        "D": "to analyzed"
+      },
+      "correctAnswer": "A",
+      "translationJa": "インターンは顧客アンケート結果の分析を楽しんでいます。",
+      "explanationJa": "enjoyの目的語にはanalyzing以下の動名詞句を置きます。",
+      "focus": "enjoy＋動名詞",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0217_Q03",
+      "format": "part5-cloze",
+      "prompt": "------- before the morning rush saves commuters time.",
+      "choices": {
+        "A": "Opened the ticket office",
+        "B": "Open the ticket office",
+        "C": "The ticket office opened",
+        "D": "Opening the ticket office"
+      },
+      "correctAnswer": "D",
+      "translationJa": "朝の混雑前に切符売場を開けることは通勤者の時間を節約します。",
+      "explanationJa": "Openingは目的語the ticket officeを保ったまま句全体で主語になります。",
+      "focus": "動名詞内部の目的語",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0217_Q04",
+      "format": "part5-cloze",
+      "prompt": "The team discussed ------- the reception area.",
+      "choices": {
+        "A": "redesigned",
+        "B": "redesigning",
+        "C": "redesign",
+        "D": "to redesigned"
+      },
+      "correctAnswer": "B",
+      "translationJa": "チームは受付エリアの再設計について話し合いました。",
+      "explanationJa": "discussの目的語としてredesigning the reception areaを使います。",
+      "focus": "discuss＋動名詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0217_Q05",
+      "format": "part5-cloze",
+      "prompt": "Mr. Lee’s ------- early surprised everyone.",
+      "choices": {
+        "A": "leaving",
+        "B": "left",
+        "C": "leave",
+        "D": "to leave"
+      },
+      "correctAnswer": "A",
+      "translationJa": "リーさんが早く退出したことは皆を驚かせました。",
+      "explanationJa": "所有格Mr. Lee’sが動名詞leavingの動作主を明示し、全体が主語です。",
+      "focus": "所有格＋動名詞主語",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0217_Q06",
+      "format": "part5-cloze",
+      "prompt": "We appreciate your ------- the revised schedule promptly.",
+      "choices": {
+        "A": "sent",
+        "B": "send",
+        "C": "sending",
+        "D": "to sent"
+      },
+      "correctAnswer": "C",
+      "translationJa": "修正予定表を速やかに送ってくださったことに感謝します。",
+      "explanationJa": "丁寧な表現でyourがsendingの動作主、the scheduleが内部目的語です。",
+      "focus": "所有格動作主＋動名詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0217_Q07",
+      "format": "part5-cloze",
+      "prompt": "Our biggest concern is ------- confidential records.",
+      "choices": {
+        "A": "protected",
+        "B": "protecting",
+        "C": "protect",
+        "D": "to protected"
+      },
+      "correctAnswer": "B",
+      "translationJa": "当社の最大の懸念は機密記録を保護することです。",
+      "explanationJa": "be動詞の補語にprotecting以下の名詞相当の動名詞句を置きます。",
+      "focus": "動名詞句補語",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0217_Q08",
+      "format": "part5-cloze",
+      "prompt": "------- two languages is useful in customer support.",
+      "choices": {
+        "A": "Spoken",
+        "B": "Speak",
+        "C": "To spoke",
+        "D": "Speaking"
+      },
+      "correctAnswer": "D",
+      "translationJa": "2言語を話すことは顧客サポートで役立ちます。",
+      "explanationJa": "Speaking two languages全体は単数の活動としてisを取ります。",
+      "focus": "動名詞主語の単数扱い",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0217_Q09",
+      "format": "part5-cloze",
+      "prompt": "The client objected to our ------- the launch date.",
+      "choices": {
+        "A": "changed",
+        "B": "change",
+        "C": "changing",
+        "D": "to change"
+      },
+      "correctAnswer": "C",
+      "translationJa": "顧客は当社が発売日を変更することに反対しました。",
+      "explanationJa": "前置詞toの後ろでour changingが名詞相当となり、ourは動作主です。",
+      "focus": "前置詞＋所有格＋動名詞",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0217_Q10",
+      "format": "part5-cloze",
+      "prompt": "------- each package by weight requires a calibrated scale.",
+      "choices": {
+        "A": "Sorted",
+        "B": "Sort",
+        "C": "To sorting",
+        "D": "Sorting"
+      },
+      "correctAnswer": "D",
+      "translationJa": "各荷物を重量別に仕分けるには校正済みのはかりが必要です。",
+      "explanationJa": "Sorting each package by weightがrequiresの主語で、内部の目的語も保持します。",
+      "focus": "複雑な動名詞句主語",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0217_Q11",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence using a gerund phrase as subject.",
+      "choices": {
+        "A": "Check every receipt takes time.",
+        "B": "Checking every receipt takes time.",
+        "C": "Checked every receipt take time.",
+        "D": "To checking every receipt takes time."
+      },
+      "correctAnswer": "B",
+      "translationJa": "すべての領収書を確認することには時間がかかります。",
+      "explanationJa": "Checking every receipt全体が単数主語なのでtakesを使います。",
+      "focus": "動名詞句主語と一致",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0217_Q12",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence after the verb avoid.",
+      "choices": {
+        "A": "Drivers should avoid block the loading zone.",
+        "B": "Drivers should avoid to blocking the loading zone.",
+        "C": "Drivers should avoided blocking the loading zone.",
+        "D": "Drivers should avoid blocking the loading zone."
+      },
+      "correctAnswer": "D",
+      "translationJa": "運転手は搬入口をふさぐことを避けるべきです。",
+      "explanationJa": "avoidの目的語には動名詞blockingを用います。",
+      "focus": "avoid＋-ing",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0217_Q13",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence with an internal object.",
+      "choices": {
+        "A": "Processing refunds quickly improves customer trust.",
+        "B": "Processing quickly improves refunds customer trust.",
+        "C": "Processed refunds quickly improve customer trust.",
+        "D": "Process refunds quickly improving customer trust."
+      },
+      "correctAnswer": "A",
+      "translationJa": "返金を迅速に処理することは顧客の信頼を高めます。",
+      "explanationJa": "動名詞processingは内部目的語refundsと副詞quicklyを保持します。",
+      "focus": "動名詞内部の動詞構造",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0217_Q14",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct formal sentence naming the doer of a gerund.",
+      "choices": {
+        "A": "We appreciated Ms. Park answering every question was.",
+        "B": "We appreciated Ms. Park’s answered every question.",
+        "C": "We appreciated Ms. Park’s answering every question.",
+        "D": "We appreciated answering Ms. Park’s every question."
+      },
+      "correctAnswer": "C",
+      "translationJa": "パクさんがすべての質問に答えてくださったことに感謝しました。",
+      "explanationJa": "所有格Ms. Park’sがansweringの動作主を丁寧に示します。",
+      "focus": "所有格による動名詞の動作主",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0217_Q15",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence using a gerund after a preposition.",
+      "choices": {
+        "A": "The technician succeeded in restore the data.",
+        "B": "The technician succeeded in to restore the data.",
+        "C": "The technician succeeded restoring in the data.",
+        "D": "The technician succeeded in restoring the data."
+      },
+      "correctAnswer": "D",
+      "translationJa": "技術者はデータの復元に成功しました。",
+      "explanationJa": "前置詞inの後ろには名詞相当のrestoring句を置きます。",
+      "focus": "前置詞in＋動名詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0217_Q16",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence using a gerund as complement.",
+      "choices": {
+        "A": "Her main responsibility is train new staff.",
+        "B": "Her main responsibility is training new staff.",
+        "C": "Her main responsibility training new staff is.",
+        "D": "Her main responsibility is trained new staff."
+      },
+      "correctAnswer": "B",
+      "translationJa": "彼女の主な責任は新入社員の研修です。",
+      "explanationJa": "training new staffがresponsibilityの内容をbe動詞後で説明します。",
+      "focus": "補語の動名詞句",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0217_Q17",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about a baby’s action in formal writing.",
+      "choices": {
+        "A": "The baby crying interrupted was the interview.",
+        "B": "The baby’s cried interrupted the interview.",
+        "C": "The baby’s crying interrupted the interview.",
+        "D": "The baby cry interrupting the interview."
+      },
+      "correctAnswer": "C",
+      "translationJa": "赤ちゃんが泣いたため面接が中断されました。",
+      "explanationJa": "The baby’sがcryingの動作主で、The baby’s crying全体が主語です。",
+      "focus": "所有格＋動名詞の主語",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0217_Q18",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence with a compound gerund subject.",
+      "choices": {
+        "A": "Packing and labeling each order takes about ten minutes.",
+        "B": "Packing and labeling each order take about ten minutes.",
+        "C": "Pack and label each order taking about ten minutes.",
+        "D": "Packed and labeled each order takes about ten minutes."
+      },
+      "correctAnswer": "A",
+      "translationJa": "各注文を梱包してラベルを付ける作業には約10分かかります。",
+      "explanationJa": "一連の作業を1つの活動として捉え、takesを用います。",
+      "focus": "複合動名詞活動の単数扱い",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0217_Q19",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence after the verb consider.",
+      "choices": {
+        "A": "Management is considering extend store hours.",
+        "B": "Management considers to extending store hours.",
+        "C": "Management is considered extending store hours by it.",
+        "D": "Management is considering extending store hours."
+      },
+      "correctAnswer": "D",
+      "translationJa": "経営陣は営業時間の延長を検討しています。",
+      "explanationJa": "considerの目的語にはextending store hoursという動名詞句を置きます。",
+      "focus": "consider＋動名詞",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0217_Q20",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence with a possessive gerund after a preposition.",
+      "choices": {
+        "A": "The client complained about we missed the deadline.",
+        "B": "The client complained about our missed the deadline.",
+        "C": "The client complained about our missing the deadline.",
+        "D": "The client complained our about missing the deadline."
+      },
+      "correctAnswer": "C",
+      "translationJa": "顧客は当社が期限を逃したことに苦情を述べました。",
+      "explanationJa": "aboutの後ろでourがmissingの動作主を示し、句全体が前置詞の目的語です。",
+      "focus": "前置詞＋所有格動名詞",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0217_Q21",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"Answering inquiries is part of my job.\"",
+      "choices": {
+        "A": "Inquiries answer my job.",
+        "B": "My job prevents all answers.",
+        "C": "I answer only questions about jobs.",
+        "D": "Part of my job is to answer inquiries."
+      },
+      "correctAnswer": "D",
+      "translationJa": "問い合わせに答えることは私の仕事の一部です。",
+      "explanationJa": "動名詞主語Answering inquiriesはto answer inquiriesで同じ活動内容を表せます。",
+      "focus": "動名詞主語とto不定詞",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0217_Q22",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"We enjoy meeting new clients.\"",
+      "choices": {
+        "A": "New clients enjoy meeting without us.",
+        "B": "Meeting new clients gives us pleasure.",
+        "C": "We avoid every new client.",
+        "D": "Clients meet because we are new."
+      },
+      "correctAnswer": "B",
+      "translationJa": "私たちは新しい顧客に会うことを楽しんでいます。",
+      "explanationJa": "enjoyの目的語である活動を主語に移し、gives us pleasureで意味を保ちます。",
+      "focus": "目的語動名詞の言い換え",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0217_Q23",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"Nora’s arriving early helped the team.\"",
+      "choices": {
+        "A": "The team arrived early to help Nora.",
+        "B": "Nora helped the team arrive late.",
+        "C": "The fact that Nora arrived early helped the team.",
+        "D": "Early arrival prevented Nora from helping."
+      },
+      "correctAnswer": "C",
+      "translationJa": "ノラが早く到着したことがチームの助けになりました。",
+      "explanationJa": "所有格＋動名詞はthat節で出来事として展開できます。",
+      "focus": "所有格動名詞の節化",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0217_Q24",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The manager suggested moving the display.\"",
+      "choices": {
+        "A": "The manager proposed that the display be moved.",
+        "B": "The display suggested moving the manager.",
+        "C": "The manager refused to discuss the display.",
+        "D": "The display moved before any proposal."
+      },
+      "correctAnswer": "A",
+      "translationJa": "部長は展示を移動することを提案しました。",
+      "explanationJa": "suggest＋movingは「移動を提案する」で、proposed that節が同じ内容です。",
+      "focus": "suggest＋動名詞の言い換え",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0217_Q25",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"Protecting customer data is essential.\"",
+      "choices": {
+        "A": "Customer data protects everything.",
+        "B": "It is essential to protect customer data.",
+        "C": "Protection makes customer data unnecessary.",
+        "D": "Customers must publish their data."
+      },
+      "correctAnswer": "B",
+      "translationJa": "顧客データを保護することは不可欠です。",
+      "explanationJa": "動名詞主語を形式主語it＋to不定詞へ言い換えています。",
+      "focus": "動名詞句主語の形式主語化",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0217_Q26",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"We objected to the vendor’s raising the price.\"",
+      "choices": {
+        "A": "The vendor objected to our lower price.",
+        "B": "We asked the vendor to raise every price.",
+        "C": "The price objected to the vendor.",
+        "D": "We objected because the vendor raised the price."
+      },
+      "correctAnswer": "D",
+      "translationJa": "仕入先が価格を上げたことに私たちは反対しました。",
+      "explanationJa": "vendor’sはraisingの動作主で、節に展開するとvendor raised the priceです。",
+      "focus": "所有格動作主の展開",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0217_Q27",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"Our priority is reducing wait times.\"",
+      "choices": {
+        "A": "Reducing wait times is what we prioritize.",
+        "B": "Wait times reduce our priority.",
+        "C": "Our priority is to increase every delay.",
+        "D": "We wait before choosing a priority."
+      },
+      "correctAnswer": "A",
+      "translationJa": "当社の優先事項は待ち時間の短縮です。",
+      "explanationJa": "be動詞後の動名詞句はpriorityの内容で、主語位置にも移せます。",
+      "focus": "動名詞補語の言い換え",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0217_Q28",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"His speaking quietly reassured the caller.\"",
+      "choices": {
+        "A": "The caller quietly reassured him.",
+        "B": "He spoke because the caller was quiet.",
+        "C": "The fact that he spoke quietly reassured the caller.",
+        "D": "His caller prevented him from speaking."
+      },
+      "correctAnswer": "C",
+      "translationJa": "彼が静かに話したことが電話客を安心させました。",
+      "explanationJa": "Hisはspeakingの動作主で、quietlyも動名詞内部の様子として保持されます。",
+      "focus": "動名詞内部の動作主と副詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0217_Q29",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"Tracking every parcel requires reliable software.\"",
+      "choices": {
+        "A": "Reliable software is required to track every parcel.",
+        "B": "Every parcel reliably tracks software.",
+        "C": "Software requires parcels to disappear.",
+        "D": "Tracking software ships every parcel."
+      },
+      "correctAnswer": "A",
+      "translationJa": "すべての荷物を追跡するには信頼できるソフトウェアが必要です。",
+      "explanationJa": "動名詞句主語を目的のto句に変え、必要条件を受動文で表しています。",
+      "focus": "動名詞主語の受動言い換え",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0217_Q30",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The auditor disliked our changing the figures.\"",
+      "choices": {
+        "A": "We disliked the auditor’s figures.",
+        "B": "The auditor disliked the fact that we changed the figures.",
+        "C": "The figures changed the auditor.",
+        "D": "The auditor asked us to change every figure."
+      },
+      "correctAnswer": "B",
+      "translationJa": "監査人は私たちが数値を変更したことを好みませんでした。",
+      "explanationJa": "ourがchangingの動作主で、that we changedに展開できます。",
+      "focus": "目的語位置の所有格動名詞",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0217_Q31",
+      "format": "context-completion",
+      "prompt": "The reception area becomes crowded at noon. ------- a second desk would reduce the line.",
+      "choices": {
+        "A": "Opened",
+        "B": "Open",
+        "C": "Opening",
+        "D": "To opened"
+      },
+      "correctAnswer": "C",
+      "translationJa": "受付エリアは正午に混雑します。2つ目の窓口を開けることで列を短くできるでしょう。",
+      "explanationJa": "Opening a second desk全体がwould reduceの主語です。",
+      "focus": "解決策を表す動名詞主語",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0217_Q32",
+      "format": "context-completion",
+      "prompt": "Ms. Cole likes complex assignments. She especially enjoys ------- international shipments.",
+      "choices": {
+        "A": "coordinating",
+        "B": "coordinated",
+        "C": "coordinate",
+        "D": "to coordinated"
+      },
+      "correctAnswer": "A",
+      "translationJa": "コールさんは複雑な仕事が好きです。特に国際配送の調整を楽しんでいます。",
+      "explanationJa": "enjoysの目的語としてcoordinating以下を置きます。",
+      "focus": "enjoy＋動名詞目的語",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0217_Q33",
+      "format": "context-completion",
+      "prompt": "The report must include accurate totals. ------- the figures twice prevents mistakes.",
+      "choices": {
+        "A": "Checked",
+        "B": "Check",
+        "C": "To checked",
+        "D": "Checking"
+      },
+      "correctAnswer": "D",
+      "translationJa": "報告書には正確な合計が必要です。数値を2度確認することがミスを防ぎます。",
+      "explanationJa": "Checking the figures twiceは内部に目的語と回数を保った主語です。",
+      "focus": "内部情報を持つ動名詞句",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0217_Q34",
+      "format": "context-completion",
+      "prompt": "Mr. Tan stayed after the meeting. We appreciated his ------- the chairs away.",
+      "choices": {
+        "A": "put",
+        "B": "putting",
+        "C": "putted",
+        "D": "to putting"
+      },
+      "correctAnswer": "B",
+      "translationJa": "タンさんは会議後に残りました。彼が椅子を片付けてくれたことに感謝しました。",
+      "explanationJa": "hisがputtingの動作主で、the chairsが内部目的語です。",
+      "focus": "所有格＋動名詞目的語",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0217_Q35",
+      "format": "context-completion",
+      "prompt": "The warehouse changed its routine. Its goal is ------- orders before noon.",
+      "choices": {
+        "A": "shipped",
+        "B": "ship",
+        "C": "shipping",
+        "D": "to shipped"
+      },
+      "correctAnswer": "C",
+      "translationJa": "倉庫は手順を変更しました。目標は正午前に注文品を発送することです。",
+      "explanationJa": "shipping orders before noonがgoalの内容を補語位置で示します。",
+      "focus": "動名詞補語",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0217_Q36",
+      "format": "context-completion",
+      "prompt": "The contractor raised the fee without notice. The client objected to the contractor’s ------- it mid-project.",
+      "choices": {
+        "A": "changing",
+        "B": "changed",
+        "C": "change",
+        "D": "to changed"
+      },
+      "correctAnswer": "A",
+      "translationJa": "請負業者は予告なく料金を上げました。顧客はプロジェクト途中での変更に反対しました。",
+      "explanationJa": "contractor’sがchangingの動作主、itがfeeを受ける目的語です。",
+      "focus": "前置詞後の所有格動名詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0217_Q37",
+      "format": "context-completion",
+      "prompt": "A short checklist can improve accuracy. ------- one before each inspection takes little time.",
+      "choices": {
+        "A": "Completed",
+        "B": "Completing",
+        "C": "Complete",
+        "D": "To completed"
+      },
+      "correctAnswer": "B",
+      "translationJa": "短いチェックリストで精度を高められます。各検査前に記入するのはほとんど時間がかかりません。",
+      "explanationJa": "Completing one before each inspection全体がtakesの単数主語です。",
+      "focus": "代名詞目的語を含む動名詞主語",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0217_Q38",
+      "format": "context-completion",
+      "prompt": "The caller remained polite. Her ------- calmly helped resolve the complaint.",
+      "choices": {
+        "A": "spoke",
+        "B": "speak",
+        "C": "to spoke",
+        "D": "speaking"
+      },
+      "correctAnswer": "D",
+      "translationJa": "電話客は礼儀正しいままでした。彼女が落ち着いて話したことが苦情解決に役立ちました。",
+      "explanationJa": "Herはspeakingの動作主で、calmlyは内部の話し方を説明します。",
+      "focus": "所有格＋動名詞＋副詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0217_Q39",
+      "format": "context-completion",
+      "prompt": "The team wants fewer manual steps. It is considering ------- the approval emails.",
+      "choices": {
+        "A": "automating",
+        "B": "automated",
+        "C": "automate",
+        "D": "to automated"
+      },
+      "correctAnswer": "A",
+      "translationJa": "チームは手作業を減らしたいと考えています。承認メールの自動化を検討しています。",
+      "explanationJa": "considerの目的語にはautomatingを用い、emailsを内部目的語にします。",
+      "focus": "consider＋他動詞動名詞",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0217_Q40",
+      "format": "context-completion",
+      "prompt": "The branch manager arrived unexpectedly. Everyone was surprised by her ------- the audit herself.",
+      "choices": {
+        "A": "conducted",
+        "B": "conducting",
+        "C": "conduct",
+        "D": "to conduct"
+      },
+      "correctAnswer": "B",
+      "translationJa": "支店長が予告なく到着しました。彼女自身が監査を行ったことに皆が驚きました。",
+      "explanationJa": "byの後ろでher conducting the auditが名詞相当となり、動作主も明示します。",
+      "focus": "前置詞by＋所有格動名詞",
+      "difficulty": "advanced"
+    }
+  ]
+}
