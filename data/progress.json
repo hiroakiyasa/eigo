@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-29T05:32:46.643Z",
+  "updatedAt": "2026-08-29T05:33:18.428Z",
   "totalPages": 330,
-  "completedPages": 106,
+  "completedPages": 107,
   "questionsPerPage": 40,
   "totalPlannedQuestions": 13200,
   "pages": [
@@ -514,9 +514,9 @@
       "number": 64,
       "id": "grammar-master-0064",
       "title": "形で見抜く 可算・不可算",
-      "status": "pending",
+      "status": "complete",
       "output": "question-sets/PAGE_0064.json",
-      "completedAt": null
+      "completedAt": "2026-08-29T05:33:18.428Z"
     },
     {
       "number": 65,

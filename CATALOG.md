@@ -79,7 +79,7 @@
 | 61 | 名詞は3回しぼり込む | [PAGE_0061](pages/PAGE_0061.webp) | [原稿](source-prompts/PAGE_0061.txt) | [40問](question-sets/PAGE_0061.json) |
 | 62 | 名詞のかたちは、中心へ重ねる | [PAGE_0062](pages/PAGE_0062.webp) | [原稿](source-prompts/PAGE_0062.txt) | [40問](question-sets/PAGE_0062.json) |
 | 63 | まとまり全体は、数えない | [PAGE_0063](pages/PAGE_0063.webp) | [原稿](source-prompts/PAGE_0063.txt) | [40問](question-sets/PAGE_0063.json) |
-| 64 | 形で見抜く 可算・不可算 | [PAGE_0064](pages/PAGE_0064.webp) | [原稿](source-prompts/PAGE_0064.txt) | `pending` |
+| 64 | 形で見抜く 可算・不可算 | [PAGE_0064](pages/PAGE_0064.webp) | [原稿](source-prompts/PAGE_0064.txt) | [40問](question-sets/PAGE_0064.json) |
 | 65 | 数えられないものは、単位で数える | [PAGE_0065](pages/PAGE_0065.webp) | [原稿](source-prompts/PAGE_0065.txt) | `pending` |
 | 66 | 同じ名詞でも、形を見れば変わる | [PAGE_0066](pages/PAGE_0066.webp) | [原稿](source-prompts/PAGE_0066.txt) | `pending` |
 | 67 | 丸ごとか、材料になった姿か | [PAGE_0067](pages/PAGE_0067.webp) | [原稿](source-prompts/PAGE_0067.txt) | `pending` |
