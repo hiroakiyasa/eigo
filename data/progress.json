@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-29T05:19:01.613Z",
+  "updatedAt": "2026-08-29T05:19:22.009Z",
   "totalPages": 330,
-  "completedPages": 73,
+  "completedPages": 74,
   "questionsPerPage": 40,
   "totalPlannedQuestions": 13200,
   "pages": [
@@ -2458,9 +2458,9 @@
       "number": 307,
       "id": "grammar-master-0307",
       "title": "条件の範囲を広げる・絞る",
-      "status": "pending",
+      "status": "complete",
       "output": "question-sets/PAGE_0307.json",
-      "completedAt": null
+      "completedAt": "2026-08-29T05:19:22.009Z"
     },
     {
       "number": 308,
