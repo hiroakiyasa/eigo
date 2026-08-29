@@ -1,4 +1,4 @@
-name: Rebuild malformed question sets 0040-0043
+name: Final repaired question validation and sync
 on:
   push:
     paths:
@@ -6,7 +6,7 @@ on:
 permissions:
   contents: write
 jobs:
-  repair:
+  finalize:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -15,31 +15,26 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 22
-      - name: Rebuild from salvage plus recovery tails
-        run: |
-          node <<'NODE'
-          const fs=require('fs');
-          function extractObjects(s){const qpos=s.indexOf('"questions":[');let i=s.indexOf('[',qpos)+1,out=[];while(i<s.length){while(i<s.length&&/[\s,]/.test(s[i]))i++;if(s[i]!=='{')break;const st=i;let d=0,str=false,esc=false,done=false;for(;i<s.length;i++){const c=s[i];if(str){if(esc)esc=false;else if(c==='\\')esc=true;else if(c==='"')str=false;continue;}if(c==='"'){str=true;continue;}if(c==='{')d++;else if(c==='}'){d--;if(d===0){out.push(JSON.parse(s.slice(st,i+1)));i++;done=true;break;}}}if(!done)break;}return out;}
-          const answerTargets={'part5-cloze':['A','B','C','D','A','B','C','D','A','B'],'correct-sentence':['C','D','A','B','C','D','A','B','C','D'],'meaning-equivalent':['A','B','C','D','A','B','C','D','A','C'],'context-completion':['D','C','B','A','D','C','B','A','D','B']};
-          const diffTargets={'part5-cloze':['basic','basic','basic','intermediate','intermediate','intermediate','intermediate','intermediate','advanced','advanced'],'correct-sentence':['basic','basic','intermediate','intermediate','intermediate','intermediate','intermediate','advanced','advanced','advanced'],'meaning-equivalent':['basic','basic','basic','intermediate','intermediate','intermediate','intermediate','intermediate','advanced','advanced'],'context-completion':['basic','basic','intermediate','intermediate','intermediate','intermediate','intermediate','advanced','advanced','advanced']};
-          for(let n=40;n<=43;n++){
-            const id=String(n).padStart(4,'0'),p=`question-sets/PAGE_${id}.json`,s=fs.readFileSync(p,'utf8'),qpos=s.indexOf('"questions":[');
-            const base=JSON.parse(s.slice(0,qpos)+'"questions":[]}');
-            base.questions=extractObjects(s).concat(JSON.parse(fs.readFileSync(`.repair/PAGE_${id}-tail.json`,'utf8')));
-            if(n===41){const q=base.questions.find(x=>x.id==='PAGE_0041_Q28');q.prompt='Choose the sentence closest in meaning to: “After several discussions, we got the landlord to lower the fee.”';q.translationJa='何度か話し合った末、私たちは家主に働きかけて料金を下げてもらいました。';}
-            for(const f of Object.keys(answerTargets)){const qs=base.questions.filter(q=>q.format===f);if(qs.length!==10)throw new Error(`${id} ${f} count ${qs.length}`);qs.forEach((q,i)=>{const want=answerTargets[f][i],old=q.correctAnswer;if(old!==want){const t=q.choices[want];q.choices[want]=q.choices[old];q.choices[old]=t;q.correctAnswer=want;}q.difficulty=diffTargets[f][i];});}
-            fs.writeFileSync(p,JSON.stringify(base,null,2)+'\n');
-          }
-          NODE
-      - name: Validate rebuilt sets
+      - name: Validate every existing question set and sync progress
         run: |
           set -euo pipefail
-          for n in $(seq 40 43); do node scripts/validate-question-set.mjs "question-sets/PAGE_$(printf '%04d' "$n").json"; done
-      - name: Commit repaired pages
+          for file in question-sets/PAGE_*.json; do
+            node scripts/validate-question-set.mjs "$file"
+            page="$(basename "$file" .json)"
+            number=$((10#${page#PAGE_}))
+            status="$(node -e 'const fs=require("fs");const p=JSON.parse(fs.readFileSync("data/progress.json","utf8"));const n=Number(process.argv[1]);console.log(p.pages.find(x=>x.number===n)?.status??"missing")' "$number")"
+            if [ "$status" = "pending" ]; then
+              node scripts/mark-complete.mjs "$page"
+            fi
+          done
+          node scripts/validate-repository.mjs
+      - name: Remove temporary repair scaffolding and commit final state
         run: |
           git config user.name 'TRAIL FUSION AI'
           git config user.email 'hiroakiyasa@yahoo.co.jp'
-          git add question-sets/PAGE_{0040..0043}.json
-          git commit -m 'fix(questions): rebuild pages 0040 through 0043'
+          rm -rf .repair
+          git rm .github/workflows/repair-question-sets.yml
+          git add data/progress.json CATALOG.md
+          git commit -m 'fix(questions): finalize repaired sets through page 0043'
           git pull --rebase origin main
           git push
