@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-29T01:12:34.634Z",
+  "updatedAt": "2026-08-29T01:13:57.147Z",
   "totalPages": 330,
-  "completedPages": 10,
+  "completedPages": 11,
   "questionsPerPage": 40,
   "totalPlannedQuestions": 13200,
   "pages": [
@@ -98,9 +98,9 @@
       "number": 12,
       "id": "grammar-master-0012",
       "title": "声と並びで、気持ちを伝える",
-      "status": "pending",
+      "status": "complete",
       "output": "question-sets/PAGE_0012.json",
-      "completedAt": null
+      "completedAt": "2026-08-29T01:13:57.147Z"
     },
     {
       "number": 13,

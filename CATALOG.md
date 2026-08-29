@@ -17,7 +17,7 @@
 | 9 | 文の穴が、名詞を呼ぶ | [PAGE_0009](pages/PAGE_0009.webp) | [原稿](source-prompts/PAGE_0009.txt) | [40問](question-sets/PAGE_0009.json) |
 | 10 | 置き場所で、役目が変わる | [PAGE_0010](pages/PAGE_0010.webp) | [原稿](source-prompts/PAGE_0010.txt) | [40問](question-sets/PAGE_0010.json) |
 | 11 | 並びを動かすと、気持ちが見える | [PAGE_0011](pages/PAGE_0011.webp) | [原稿](source-prompts/PAGE_0011.txt) | [40問](question-sets/PAGE_0011.json) |
-| 12 | 声と並びで、気持ちを伝える | [PAGE_0012](pages/PAGE_0012.webp) | [原稿](source-prompts/PAGE_0012.txt) | `pending` |
+| 12 | 声と並びで、気持ちを伝える | [PAGE_0012](pages/PAGE_0012.webp) | [原稿](source-prompts/PAGE_0012.txt) | [40問](question-sets/PAGE_0012.json) |
 | 13 | 時は、カメラの距離で感じる | [PAGE_0013](pages/PAGE_0013.webp) | [原稿](source-prompts/PAGE_0013.txt) | `pending` |
 | 14 | 過去形と現在完了を比べる | [PAGE_0014](pages/PAGE_0014.webp) | [原稿](source-prompts/PAGE_0014.txt) | `pending` |
 | 15 | 現在完了は、今への橋 | [PAGE_0015](pages/PAGE_0015.webp) | [原稿](source-prompts/PAGE_0015.txt) | `pending` |
