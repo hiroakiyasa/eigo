@@ -1,1 +1,676 @@
-/tmp/s19_generated/PAGE_0312.json
+{
+  "schemaVersion": 1,
+  "page": {
+    "number": 312,
+    "id": "grammar-master-0312",
+    "title": "譲歩は流れに逆らう小さな力",
+    "image": "pages/PAGE_0312.webp",
+    "sourcePrompt": "source-prompts/PAGE_0312.txt"
+  },
+  "analysis": {
+    "summaryJa": "譲歩は予想に反する事実を認めても主たる結論を変えない関係を作る。although・though・even thoughは節を導き、thoughだけは会話的な文末の後置ができる。still・all the same・neverthelessは文どうしをつなぎ、despite・in spite ofは名詞句を受ける。even ifは仮定的な譲歩、no matter howは程度にかかわらない譲歩を表す。",
+    "grammarPoints": [
+      "although / though＋譲歩節",
+      "even thoughによる強い意外性",
+      "文末thoughの会話的な後置",
+      "still / all the same / neverthelessによる文間の逆接",
+      "despite / in spite of＋名詞句",
+      "even ifとno matter howによる仮定・程度の譲歩"
+    ],
+    "visualEvidence": [
+      "主流と逆向きの矢印が結論に逆らう事実を示している",
+      "thoughの吹き出しが文末の小さな付け足しを表している",
+      "節・文・名詞の三分類が接続形式の違いを示す",
+      "雨のミニ練習が名詞句にはdespite系を選ぶことを示す"
+    ],
+    "commonTraps": [
+      "althoughを会話的な文末副詞として置く",
+      "despiteの後にofを加える",
+      "in spite ofの後に完全な節を直接置く",
+      "although節と主節をbutで二重接続する",
+      "even thoughの事実譲歩とeven ifの仮定譲歩を混同する"
+    ]
+  },
+  "questions": [
+    {
+      "id": "PAGE_0312_Q01",
+      "format": "part5-cloze",
+      "prompt": "------- the revised schedule was inconvenient, every department accepted it.",
+      "choices": {
+        "A": "Despite",
+        "B": "Nevertheless",
+        "C": "Although",
+        "D": "In spite of"
+      },
+      "correctAnswer": "C",
+      "translationJa": "改訂日程は不便でしたが、全部門が受け入れました。",
+      "explanationJa": "後ろが完全な節で、反対事実を認めるAlthoughが適切です。",
+      "focus": "although＋節",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0312_Q02",
+      "format": "part5-cloze",
+      "prompt": "The café is small. It serves more than two hundred customers a day, -------.",
+      "choices": {
+        "A": "though",
+        "B": "although",
+        "C": "despite",
+        "D": "nevertheless"
+      },
+      "correctAnswer": "A",
+      "translationJa": "そのカフェは小さいです。それでも一日に200人以上の客に対応します。",
+      "explanationJa": "会話的に文末へ置ける譲歩表現はthoughだけです。",
+      "focus": "文末though",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0312_Q03",
+      "format": "part5-cloze",
+      "prompt": "------- the severe weather warning, the airport remained open.",
+      "choices": {
+        "A": "Although",
+        "B": "Even though",
+        "C": "Still",
+        "D": "Despite"
+      },
+      "correctAnswer": "D",
+      "translationJa": "厳しい気象警報にもかかわらず、空港は営業を続けました。",
+      "explanationJa": "後ろが名詞句なので前置詞Despiteが適切です。",
+      "focus": "despite＋名詞句",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0312_Q04",
+      "format": "part5-cloze",
+      "prompt": "The first proposal was rejected; -------, the team submitted a stronger version the next day.",
+      "choices": {
+        "A": "because",
+        "B": "nevertheless",
+        "C": "unless",
+        "D": "therefore"
+      },
+      "correctAnswer": "B",
+      "translationJa": "最初の提案は却下されました。それにもかかわらず、チームは翌日より良い版を提出しました。",
+      "explanationJa": "二つの独立節を改まった逆接で結ぶneverthelessが適切です。",
+      "focus": "neverthelessの文間接続",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0312_Q05",
+      "format": "part5-cloze",
+      "prompt": "------- the fact that the equipment is old, it continues to meet all safety standards.",
+      "choices": {
+        "A": "In spite of",
+        "B": "Although",
+        "C": "Even if",
+        "D": "Still"
+      },
+      "correctAnswer": "A",
+      "translationJa": "機器が古いという事実にもかかわらず、すべての安全基準を満たし続けています。",
+      "explanationJa": "the fact thatを名詞句として受けるIn spite ofが正しい形です。",
+      "focus": "in spite of the fact that",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0312_Q06",
+      "format": "part5-cloze",
+      "prompt": "The team did not win the contract. -------, its presentation received excellent feedback.",
+      "choices": {
+        "A": "As a result",
+        "B": "For example",
+        "C": "All the same",
+        "D": "In addition"
+      },
+      "correctAnswer": "C",
+      "translationJa": "チームは契約を獲得できませんでした。それでも、発表は非常に高く評価されました。",
+      "explanationJa": "前の不利な結果を認めつつ別の肯定評価を保つAll the sameが合います。",
+      "focus": "all the same",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0312_Q07",
+      "format": "part5-cloze",
+      "prompt": "------- the battery was nearly empty, the tablet completed the software update.",
+      "choices": {
+        "A": "Because of",
+        "B": "Even though",
+        "C": "Unless",
+        "D": "So that"
+      },
+      "correctAnswer": "B",
+      "translationJa": "バッテリーがほぼ空だったにもかかわらず、タブレットは更新を完了しました。",
+      "explanationJa": "強い意外性を伴う事実譲歩なのでEven thoughが適切です。",
+      "focus": "even thoughと意外性",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0312_Q08",
+      "format": "part5-cloze",
+      "prompt": "The report may require minor revisions. -------, its main conclusions are reliable.",
+      "choices": {
+        "A": "Therefore",
+        "B": "Otherwise",
+        "C": "For instance",
+        "D": "Still"
+      },
+      "correctAnswer": "D",
+      "translationJa": "報告書には軽微な修正が必要かもしれません。それでも、主な結論は信頼できます。",
+      "explanationJa": "一つの事実を認めながら主張を維持するStillが自然です。",
+      "focus": "文頭Still",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0312_Q09",
+      "format": "part5-cloze",
+      "prompt": "------- carefully the staff checked the inventory, one item remained unaccounted for.",
+      "choices": {
+        "A": "No matter how",
+        "B": "Because",
+        "C": "As soon as",
+        "D": "In order that"
+      },
+      "correctAnswer": "A",
+      "translationJa": "スタッフがどれほど注意深く在庫を確認しても、1点は所在不明のままでした。",
+      "explanationJa": "程度にかかわらず結果が変わらない形はNo matter how＋副詞です。",
+      "focus": "no matter how＋副詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0312_Q10",
+      "format": "part5-cloze",
+      "prompt": "------- the supplier offers a discount, we will not order until the quality test is complete.",
+      "choices": {
+        "A": "Even though",
+        "B": "Even if",
+        "C": "Because",
+        "D": "Now that"
+      },
+      "correctAnswer": "B",
+      "translationJa": "たとえ供給業者が値引きを提示しても、品質試験が終わるまでは注文しません。",
+      "explanationJa": "まだ確定していない条件を譲歩として仮定するEven ifが適切です。",
+      "focus": "even ifと仮定譲歩",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0312_Q11",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that correctly uses “although”.",
+      "choices": {
+        "A": "Although the deadline was tight, but the team finished the audit carefully.",
+        "B": "Despite the deadline was tight, the team finished the audit carefully.",
+        "C": "The deadline was tight. The team finished carefully, although.",
+        "D": "Although the deadline was tight, the team finished the audit carefully."
+      },
+      "correctAnswer": "D",
+      "translationJa": "締切は厳しかったものの、チームは監査を慎重に終えました。",
+      "explanationJa": "Although節と主節をコンマで結び、butを重ねない正しい形です。",
+      "focus": "althoughとbutの重複回避",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0312_Q12",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence with a natural sentence-final concession.",
+      "choices": {
+        "A": "The room is farther from the lobby. It is quieter, although.",
+        "B": "The room is farther from the lobby. It is quieter, though.",
+        "C": "The room is farther from the lobby. It is quieter, despite.",
+        "D": "The room is farther from the lobby, though it is quieter although."
+      },
+      "correctAnswer": "B",
+      "translationJa": "その部屋はロビーから遠いです。ただ、より静かではあります。",
+      "explanationJa": "文末に会話的な付け足しとして置けるのはthoughです。",
+      "focus": "文末thoughの正用",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0312_Q13",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that correctly uses “despite”.",
+      "choices": {
+        "A": "Despite of the shipping delay, the customer kept the order.",
+        "B": "Despite the shipment was delayed, the customer kept the order.",
+        "C": "Despite the shipping delay, the customer kept the order.",
+        "D": "Although the shipping delay, the customer kept the order."
+      },
+      "correctAnswer": "C",
+      "translationJa": "配送の遅れにもかかわらず、顧客は注文を維持しました。",
+      "explanationJa": "Despiteはofを伴わず名詞句the shipping delayを直接受けます。",
+      "focus": "despiteの構造",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0312_Q14",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that correctly links two sentences with “nevertheless”.",
+      "choices": {
+        "A": "The repair was expensive. Nevertheless, it prevented a longer shutdown.",
+        "B": "The repair was expensive nevertheless it prevented a longer shutdown.",
+        "C": "Although the repair was expensive. Nevertheless it prevented a longer shutdown.",
+        "D": "The repair nevertheless expensive, it prevented a longer shutdown."
+      },
+      "correctAnswer": "A",
+      "translationJa": "修理は高額でした。それにもかかわらず、より長い停止を防ぎました。",
+      "explanationJa": "接続副詞Neverthelessを独立した第二文の冒頭に置いた正しい形です。",
+      "focus": "neverthelessの句読法",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0312_Q15",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that correctly uses “in spite of”.",
+      "choices": {
+        "A": "In spite heavy traffic, the driver arrived before noon.",
+        "B": "In spite of traffic was heavy, the driver arrived before noon.",
+        "C": "Although of heavy traffic, the driver arrived before noon.",
+        "D": "In spite of heavy traffic, the driver arrived before noon."
+      },
+      "correctAnswer": "D",
+      "translationJa": "激しい渋滞にもかかわらず、運転手は正午前に到着しました。",
+      "explanationJa": "in spite ofの後に名詞句heavy trafficが続いています。",
+      "focus": "in spite of＋名詞",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0312_Q16",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that distinguishes fact from hypothesis correctly.",
+      "choices": {
+        "A": "Even though the price falls tomorrow, we will keep the current contract if it might happen.",
+        "B": "Despite the price will fall tomorrow, we will keep the current contract.",
+        "C": "Even if the price falls tomorrow, we will keep the current contract.",
+        "D": "Even if of a possible price fall, we will keep the current contract."
+      },
+      "correctAnswer": "C",
+      "translationJa": "たとえ明日価格が下がっても、現在の契約を維持します。",
+      "explanationJa": "未確定の将来条件を譲歩として仮定するEven ifが自然です。",
+      "focus": "even ifと未確定条件",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0312_Q17",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that correctly expresses strong factual concession.",
+      "choices": {
+        "A": "Even though of the elevator outage, the office opened on time.",
+        "B": "Even though the elevator was out of service, the office opened on time.",
+        "C": "Even if the elevator was definitely out of service yesterday, but the office opened.",
+        "D": "Despite the elevator was out of service, the office opened on time."
+      },
+      "correctAnswer": "B",
+      "translationJa": "エレベーターが故障中だったにもかかわらず、事務所は時間どおり開きました。",
+      "explanationJa": "既知の事実に対する強い意外性はEven though＋節で表します。",
+      "focus": "even thoughと事実",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0312_Q18",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence with the correct “no matter how” pattern.",
+      "choices": {
+        "A": "No matter how the line becomes busy, every caller receives a response.",
+        "B": "No matter how busily is the line, every caller receives a response.",
+        "C": "Despite how the line becomes busy, every caller receives a response.",
+        "D": "No matter how busy the line becomes, every caller receives a response."
+      },
+      "correctAnswer": "D",
+      "translationJa": "回線がどれほど混雑しても、すべての電話に応答します。",
+      "explanationJa": "No matter how＋形容詞＋主語＋動詞の語順が正しいです。",
+      "focus": "no matter howの語順",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0312_Q19",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that correctly uses “all the same”.",
+      "choices": {
+        "A": "The forecast is uncertain all the same we should prepare the outdoor area.",
+        "B": "Although all the same the forecast, we should prepare the outdoor area.",
+        "C": "The forecast is uncertain. All the same, we should prepare the outdoor area.",
+        "D": "All the same of the uncertain forecast, we should prepare the outdoor area."
+      },
+      "correctAnswer": "C",
+      "translationJa": "予報は不確かです。それでも、屋外区域を準備すべきです。",
+      "explanationJa": "All the sameを第二文の冒頭に置き、前文を認めつつ結論を維持しています。",
+      "focus": "all the sameの文接続",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0312_Q20",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that correctly uses “the fact that” after a preposition.",
+      "choices": {
+        "A": "Despite the fact that demand fell, the factory retained all employees.",
+        "B": "Despite that demand fell, the factory retained all employees.",
+        "C": "In spite of demand fell, the factory retained all employees.",
+        "D": "Although the fact that demand fell, the factory retained all employees."
+      },
+      "correctAnswer": "A",
+      "translationJa": "需要が減ったという事実にもかかわらず、工場は全従業員を維持しました。",
+      "explanationJa": "前置詞Despiteが節を受けるための橋としてthe fact thatを使っています。",
+      "focus": "despite the fact that",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0312_Q21",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “Although the office is small, it has excellent facilities.”",
+      "choices": {
+        "A": "The office has excellent facilities despite its small size.",
+        "B": "The office lacks facilities because it is small.",
+        "C": "The office expanded so that its facilities would be removed.",
+        "D": "Its facilities are small only when the office is closed."
+      },
+      "correctAnswer": "A",
+      "translationJa": "その事務所は小さいにもかかわらず、設備が優れています。",
+      "explanationJa": "although＋節をdespite＋名詞句に変えて同じ譲歩関係を保っています。",
+      "focus": "althoughからdespiteへ",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0312_Q22",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “The proposal was risky. Nevertheless, the board approved it.”",
+      "choices": {
+        "A": "The board rejected the proposal because it was safe.",
+        "B": "The proposal became risky after the board withdrew approval.",
+        "C": "The board approved it in order to increase every risk.",
+        "D": "The board approved the proposal in spite of its risks."
+      },
+      "correctAnswer": "D",
+      "translationJa": "リスクがあるにもかかわらず、取締役会は提案を承認しました。",
+      "explanationJa": "Neverthelessの文間譲歩をin spite of＋名詞句で言い換えています。",
+      "focus": "neverthelessの言い換え",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0312_Q23",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “Even if the venue becomes available, we may keep the online format.”",
+      "choices": {
+        "A": "The online format will end because the venue is already available.",
+        "B": "We will use the venue only after the online event is canceled.",
+        "C": "Possible venue availability will not necessarily change the online plan.",
+        "D": "The venue’s availability guarantees a change to the plan."
+      },
+      "correctAnswer": "C",
+      "translationJa": "会場が利用可能になる可能性があっても、オンライン計画が必ず変わるわけではありません。",
+      "explanationJa": "Even ifは仮定した条件でも主たる判断が変わらないことを示します。",
+      "focus": "even ifの意味",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0312_Q24",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “Despite the late hour, the support desk answered immediately.”",
+      "choices": {
+        "A": "The support desk delayed its answer because it was early.",
+        "B": "Although it was late, the support desk responded at once.",
+        "C": "The late hour prevented the support desk from responding.",
+        "D": "The desk answered before the support period began."
+      },
+      "correctAnswer": "B",
+      "translationJa": "遅い時間だったにもかかわらず、サポート窓口はすぐに応答しました。",
+      "explanationJa": "despite＋名詞句をalthough＋節へ変換した同義文です。",
+      "focus": "despiteからalthoughへ",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0312_Q25",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “The first trial failed. Still, the researchers continued.”",
+      "choices": {
+        "A": "The researchers continued even though the initial trial was unsuccessful.",
+        "B": "The researchers stopped because the first trial succeeded.",
+        "C": "The initial trial continued after the researchers left.",
+        "D": "Success in the first trial prevented further research."
+      },
+      "correctAnswer": "A",
+      "translationJa": "最初の試験が失敗したにもかかわらず、研究者は続けました。",
+      "explanationJa": "文頭Stillの逆接をeven though節で同じ譲歩関係にしています。",
+      "focus": "stillの節への言い換え",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0312_Q26",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “No matter how carefully we plan, some changes are unavoidable.”",
+      "choices": {
+        "A": "Careful planning guarantees that nothing will change.",
+        "B": "Changes occur only because no planning is attempted.",
+        "C": "Some changes cannot be avoided regardless of how careful our planning is.",
+        "D": "We can avoid every change by planning less carefully."
+      },
+      "correctAnswer": "C",
+      "translationJa": "どれほど慎重に計画しても、避けられない変更があります。",
+      "explanationJa": "no matter howはregardless of howで同じ「程度にかかわらず」を表します。",
+      "focus": "no matter howの言い換え",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0312_Q27",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “The service is useful. It is expensive, though.”",
+      "choices": {
+        "A": "The service is useless because its price is low.",
+        "B": "The service became expensive in order to lose its usefulness.",
+        "C": "The service is useful only after its price falls.",
+        "D": "The service is useful despite being expensive."
+      },
+      "correctAnswer": "D",
+      "translationJa": "そのサービスは高価ではありますが、役に立ちます。",
+      "explanationJa": "文末thoughの付加的譲歩をdespite beingで言い換えています。",
+      "focus": "文末thoughの意味",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0312_Q28",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “In spite of the fact that the road was narrow, the truck passed safely.”",
+      "choices": {
+        "A": "The truck passed safely although the road was narrow.",
+        "B": "The truck could not pass because the road was wide.",
+        "C": "The road became narrow after the truck passed unsafely.",
+        "D": "The truck widened the road so that it could stop."
+      },
+      "correctAnswer": "A",
+      "translationJa": "道路が狭かったにもかかわらず、トラックは安全に通過しました。",
+      "explanationJa": "in spite of the fact thatをalthough節へ置き換えた同義文です。",
+      "focus": "the fact thatの節化",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0312_Q29",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “The bid was the lowest. All the same, it was not selected.”",
+      "choices": {
+        "A": "The bid was selected because it was the most expensive.",
+        "B": "The bid was not selected even though it offered the lowest price.",
+        "C": "The lowest bid was withdrawn after being selected.",
+        "D": "The bid was not selected in order to lower its price."
+      },
+      "correctAnswer": "B",
+      "translationJa": "最安値を提示したにもかかわらず、その入札は選ばれませんでした。",
+      "explanationJa": "All the sameが示す予想外の逆接をeven thoughで表しています。",
+      "focus": "all the sameの意味",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0312_Q30",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “Even though the store was crowded, checkout was quick.”",
+      "choices": {
+        "A": "Checkout was slow because the store was empty.",
+        "B": "The store became crowded after checkout stopped.",
+        "C": "Checkout was quick despite the crowd in the store.",
+        "D": "The quick checkout caused all customers to leave before entering."
+      },
+      "correctAnswer": "C",
+      "translationJa": "店内が混雑していたにもかかわらず、会計は迅速でした。",
+      "explanationJa": "even though＋節をdespite＋名詞句にして同じ譲歩を表しています。",
+      "focus": "even thoughからdespiteへ",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0312_Q31",
+      "format": "context-completion",
+      "prompt": "The hotel is several kilometers from downtown. -------, its free shuttle makes commuting easy.",
+      "choices": {
+        "A": "Therefore",
+        "B": "Nevertheless",
+        "C": "For example",
+        "D": "Because"
+      },
+      "correctAnswer": "B",
+      "translationJa": "ホテルは中心街から数キロ離れています。それにもかかわらず、無料シャトルで移動は容易です。",
+      "explanationJa": "不利な事実を認めつつ肯定的結論へ進むためNeverthelessです。",
+      "focus": "neverthelessの文脈",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0312_Q32",
+      "format": "context-completion",
+      "prompt": "------- the heavy rain, all deliveries arrived before the promised time.",
+      "choices": {
+        "A": "Although",
+        "B": "Because",
+        "C": "Unless",
+        "D": "Despite"
+      },
+      "correctAnswer": "D",
+      "translationJa": "大雨にもかかわらず、すべての配送が約束時刻前に到着しました。",
+      "explanationJa": "後ろのthe heavy rainは名詞句なのでDespiteが適切です。",
+      "focus": "despite＋名詞",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0312_Q33",
+      "format": "context-completion",
+      "prompt": "The current software is difficult to learn. It is highly reliable, -------.",
+      "choices": {
+        "A": "though",
+        "B": "although",
+        "C": "despite",
+        "D": "because"
+      },
+      "correctAnswer": "A",
+      "translationJa": "現行ソフトは習得が難しいです。ただ、信頼性は非常に高いです。",
+      "explanationJa": "第二文末の軽い譲歩として使えるthoughが唯一適切です。",
+      "focus": "文末thoughの文脈",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0312_Q34",
+      "format": "context-completion",
+      "prompt": "------- the delivery arrived a day late, the client decided to keep the order.",
+      "choices": {
+        "A": "Despite",
+        "B": "Nevertheless",
+        "C": "Although",
+        "D": "In spite"
+      },
+      "correctAnswer": "C",
+      "translationJa": "配送が1日遅れたものの、顧客は注文を維持することにしました。",
+      "explanationJa": "後ろが主語＋動詞の完全な節なのでAlthoughです。",
+      "focus": "although＋完全な節",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0312_Q35",
+      "format": "context-completion",
+      "prompt": "The test may take longer than expected. -------, we must complete every safety check.",
+      "choices": {
+        "A": "As a result",
+        "B": "Similarly",
+        "C": "For instance",
+        "D": "All the same"
+      },
+      "correctAnswer": "D",
+      "translationJa": "試験は予想より長くかかるかもしれません。それでも、すべての安全確認を完了しなければなりません。",
+      "explanationJa": "不都合を認めながら義務を維持するAll the sameが適切です。",
+      "focus": "all the sameと結論維持",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0312_Q36",
+      "format": "context-completion",
+      "prompt": "------- the fact that two members were absent, the committee reached a decision.",
+      "choices": {
+        "A": "Although",
+        "B": "In spite of",
+        "C": "Even if",
+        "D": "Still"
+      },
+      "correctAnswer": "B",
+      "translationJa": "2人の委員が欠席したという事実にもかかわらず、委員会は決定に達しました。",
+      "explanationJa": "the fact thatを受ける前置詞句In spite ofが正解です。",
+      "focus": "in spite of the fact that",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0312_Q37",
+      "format": "context-completion",
+      "prompt": "------- the client requests another revision, the design team will keep Friday’s launch date.",
+      "choices": {
+        "A": "Even if",
+        "B": "Even though",
+        "C": "Because",
+        "D": "Now that"
+      },
+      "correctAnswer": "A",
+      "translationJa": "たとえ顧客が追加修正を求めても、設計チームは金曜日の発売日を維持します。",
+      "explanationJa": "未確定の要請を仮定しても結論が変わらないためEven ifです。",
+      "focus": "even ifと将来仮定",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0312_Q38",
+      "format": "context-completion",
+      "prompt": "The old printer is slow; -------, it produces exceptionally clear images.",
+      "choices": {
+        "A": "therefore",
+        "B": "otherwise",
+        "C": "moreover",
+        "D": "nevertheless"
+      },
+      "correctAnswer": "D",
+      "translationJa": "古いプリンターは遅いですが、それにもかかわらず非常に鮮明な画像を出力します。",
+      "explanationJa": "セミコロン後に反対方向の評価を示す接続副詞neverthelessが適切です。",
+      "focus": "neverthelessとセミコロン",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0312_Q39",
+      "format": "context-completion",
+      "prompt": "------- busy the reception desk becomes, each visitor must sign in individually.",
+      "choices": {
+        "A": "As soon as",
+        "B": "Because of",
+        "C": "No matter how",
+        "D": "In order that"
+      },
+      "correctAnswer": "C",
+      "translationJa": "受付がどれほど混雑しても、来訪者は一人ずつ記名しなければなりません。",
+      "explanationJa": "程度にかかわらない譲歩をNo matter how＋形容詞で示します。",
+      "focus": "no matter how＋形容詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0312_Q40",
+      "format": "context-completion",
+      "prompt": "------- the warranty had expired, the manufacturer offered a free repair.",
+      "choices": {
+        "A": "Even if",
+        "B": "Even though",
+        "C": "Unless",
+        "D": "So that"
+      },
+      "correctAnswer": "B",
+      "translationJa": "保証期限が切れていたにもかかわらず、製造業者は無償修理を提供しました。",
+      "explanationJa": "期限切れという確定事実への強い意外性なのでEven thoughです。",
+      "focus": "even thoughと確定事実",
+      "difficulty": "intermediate"
+    }
+  ]
+}
