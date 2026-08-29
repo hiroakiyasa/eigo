@@ -1,1 +1,677 @@
-/tmp/s19_generated/PAGE_0314.json
+{
+  "schemaVersion": 1,
+  "page": {
+    "number": 314,
+    "id": "grammar-master-0314",
+    "title": "時間接続詞をタイムラインで整理",
+    "image": "pages/PAGE_0314.webp",
+    "sourcePrompt": "source-prompts/PAGE_0314.txt"
+  },
+  "analysis": {
+    "summaryJa": "時間接続詞は出来事を時間軸に配置する。whenは出来事の位置、whileは二つの進行の重なり、sinceは起点から基準時までの継続を示し、文脈によって理由にもなる。before・afterは前後関係、untilはある時点までの継続、by the timeは節を伴う期限を表す。as soon as・no sooner ... than・onceは直後や成立後の展開を示す。",
+    "grammarPoints": [
+      "whenによる時間位置",
+      "whileによる二動作の重なり",
+      "sinceによる過去の起点から現在まで",
+      "before / after / untilの順序と継続",
+      "byとby the timeの後続形の違い",
+      "as soon as / no sooner ... than / onceの直後関係"
+    ],
+    "visualEvidence": [
+      "二本の青い線がwhileの同時進行を表している",
+      "緑の起点からnowまで伸びる線がsinceを示す",
+      "before・after・untilの小型タイムラインが順序を可視化している",
+      "by noonとby the time＋節の期限比較が並ぶ",
+      "ベル・砂時計・地図が直後表現三種を示している"
+    ],
+    "commonTraps": [
+      "since節の起点と現在完了の継続を逆にする",
+      "untilを完了期限のbyと混同する",
+      "by the timeの後に名詞だけを置く",
+      "未来の時間節で不要なwillを使う",
+      "no soonerの倒置とthanの組み合わせを崩す"
+    ]
+  },
+  "questions": [
+    {
+      "id": "PAGE_0314_Q01",
+      "format": "part5-cloze",
+      "prompt": "Please remain on the line ------- the agent returns with your account information.",
+      "choices": {
+        "A": "by",
+        "B": "after",
+        "C": "until",
+        "D": "since"
+      },
+      "correctAnswer": "C",
+      "translationJa": "担当者が口座情報を持って戻るまで電話を切らずにお待ちください。",
+      "explanationJa": "ある時点まで状態を継続するのでuntilが適切です。",
+      "focus": "untilと継続",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0314_Q02",
+      "format": "part5-cloze",
+      "prompt": "------- the technicians were testing the alarm, employees waited outside the building.",
+      "choices": {
+        "A": "While",
+        "B": "Since",
+        "C": "Until",
+        "D": "Once"
+      },
+      "correctAnswer": "A",
+      "translationJa": "技術者が警報を試験している間、従業員は建物の外で待ちました。",
+      "explanationJa": "二つの進行中の動作を重ねるWhileが適切です。",
+      "focus": "whileと同時進行",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0314_Q03",
+      "format": "part5-cloze",
+      "prompt": "We have received fewer complaints ------- the support portal was redesigned.",
+      "choices": {
+        "A": "until",
+        "B": "before",
+        "C": "while",
+        "D": "since"
+      },
+      "correctAnswer": "D",
+      "translationJa": "サポートサイトが再設計されて以来、苦情が減っています。",
+      "explanationJa": "過去の起点から現在までを現在完了と結ぶsinceです。",
+      "focus": "sinceと現在完了",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0314_Q04",
+      "format": "part5-cloze",
+      "prompt": "The reception desk will call you ------- your visitor pass is ready.",
+      "choices": {
+        "A": "while",
+        "B": "when",
+        "C": "because of",
+        "D": "whereas"
+      },
+      "correctAnswer": "B",
+      "translationJa": "来訪者証の準備ができたら、受付から電話します。",
+      "explanationJa": "準備完了という出来事に電話を位置づけるwhenが適切です。",
+      "focus": "whenと未来時間節",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0314_Q05",
+      "format": "part5-cloze",
+      "prompt": "All invoices must be approved ------- the accounting period closes.",
+      "choices": {
+        "A": "before",
+        "B": "until",
+        "C": "since",
+        "D": "while"
+      },
+      "correctAnswer": "A",
+      "translationJa": "会計期間が締まる前に、すべての請求書を承認しなければなりません。",
+      "explanationJa": "締めの出来事より先に完了する必要があるのでbeforeです。",
+      "focus": "beforeと完了順序",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0314_Q06",
+      "format": "part5-cloze",
+      "prompt": "The warehouse reopened ------- inspectors confirmed that the repairs met safety standards.",
+      "choices": {
+        "A": "until",
+        "B": "while",
+        "C": "after",
+        "D": "since"
+      },
+      "correctAnswer": "C",
+      "translationJa": "検査官が修理の安全基準適合を確認した後、倉庫は再開しました。",
+      "explanationJa": "確認より後に再開した順序を示すafterが適切です。",
+      "focus": "afterと出来事順序",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0314_Q07",
+      "format": "part5-cloze",
+      "prompt": "------- the courier arrived, the package was transferred to cold storage.",
+      "choices": {
+        "A": "As long as",
+        "B": "As soon as",
+        "C": "Even though",
+        "D": "By the time of"
+      },
+      "correctAnswer": "B",
+      "translationJa": "配達員が到着するとすぐ、荷物は低温倉庫へ移されました。",
+      "explanationJa": "到着直後の動作を示すAs soon asが正解です。",
+      "focus": "as soon asと直後",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0314_Q08",
+      "format": "part5-cloze",
+      "prompt": "------- the time we reached the venue, the morning session had already begun.",
+      "choices": {
+        "A": "Until",
+        "B": "Since",
+        "C": "While",
+        "D": "By"
+      },
+      "correctAnswer": "D",
+      "translationJa": "私たちが会場に着くまでには、午前の部はすでに始まっていました。",
+      "explanationJa": "By the time＋節という期限構造を完成するByが適切です。",
+      "focus": "by the time＋節",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0314_Q09",
+      "format": "part5-cloze",
+      "prompt": "No sooner had the doors opened ------- the waiting customers entered the store.",
+      "choices": {
+        "A": "than",
+        "B": "when",
+        "C": "until",
+        "D": "because"
+      },
+      "correctAnswer": "A",
+      "translationJa": "ドアが開くやいなや、待っていた客が店に入りました。",
+      "explanationJa": "No sooner ... thanの固定構文を完成するthanが必要です。",
+      "focus": "no sooner ... than",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0314_Q10",
+      "format": "part5-cloze",
+      "prompt": "------- employees complete the security course, they may request building access.",
+      "choices": {
+        "A": "Until",
+        "B": "Once",
+        "C": "Whereas",
+        "D": "Despite"
+      },
+      "correctAnswer": "B",
+      "translationJa": "従業員はいったん安全研修を修了すれば、入館権限を申請できます。",
+      "explanationJa": "条件となる出来事の成立後を示すOnceが適切です。",
+      "focus": "onceと成立後",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0314_Q11",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that correctly expresses overlapping actions.",
+      "choices": {
+        "A": "While I updated the records tomorrow, Mina will answering calls.",
+        "B": "During I was updating the records, Mina answered customer calls.",
+        "C": "While updating I the records, Mina answered customer calls.",
+        "D": "While I was updating the records, Mina answered customer calls."
+      },
+      "correctAnswer": "D",
+      "translationJa": "私が記録を更新している間、ミナは顧客電話に対応しました。",
+      "explanationJa": "while節と主節が二つの同時進行の動作を正しく示します。",
+      "focus": "whileと過去進行",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0314_Q12",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that correctly uses “since” for a starting point.",
+      "choices": {
+        "A": "The printer worked reliably since the technician has replaced its sensor tomorrow.",
+        "B": "The printer has worked reliably since the technician replaced its sensor.",
+        "C": "The printer has worked reliably until the technician replaced its sensor and still does.",
+        "D": "Since the technician replacing its sensor, the printer reliably."
+      },
+      "correctAnswer": "B",
+      "translationJa": "技術者がセンサーを交換して以来、プリンターは安定して動作しています。",
+      "explanationJa": "主節の現在完了と過去形のsince節が起点から現在までを表します。",
+      "focus": "sinceと時制",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0314_Q13",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence with the correct future time clause.",
+      "choices": {
+        "A": "We will notify applicants when the interview schedule will be finalized.",
+        "B": "We notify applicants when will the interview schedule be finalized.",
+        "C": "We will notify applicants when the interview schedule is finalized.",
+        "D": "When the interview schedule finalizing, we will notify applicants."
+      },
+      "correctAnswer": "C",
+      "translationJa": "面接日程が確定したら、応募者に通知します。",
+      "explanationJa": "未来の時間を表すwhen節では現在形isを使い、主節にwillを置きます。",
+      "focus": "未来のwhen節",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0314_Q14",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that correctly uses “until”.",
+      "choices": {
+        "A": "The lobby will remain closed until the floor is dry.",
+        "B": "The lobby will remain closed by the floor is dry.",
+        "C": "The lobby will close until the floor will be dry.",
+        "D": "Until the dry floor, the lobby remain closed."
+      },
+      "correctAnswer": "A",
+      "translationJa": "床が乾くまで、ロビーは閉鎖されたままです。",
+      "explanationJa": "状態の継続終点をuntil＋節で正しく示しています。",
+      "focus": "until＋節",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0314_Q15",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that correctly uses “by the time”.",
+      "choices": {
+        "A": "By the time of the guests arrived, the staff had prepared every table.",
+        "B": "Until the time the guests arrived, the staff had already prepare every table.",
+        "C": "By the guests arrived time, every table had prepared.",
+        "D": "By the time the guests arrived, the staff had prepared every table."
+      },
+      "correctAnswer": "D",
+      "translationJa": "来客が到着するまでには、スタッフは全テーブルを準備済みでした。",
+      "explanationJa": "by the time＋節と過去完了で期限前の完了を表しています。",
+      "focus": "by the timeと過去完了",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0314_Q16",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence with the correct inverted immediate-sequence pattern.",
+      "choices": {
+        "A": "No sooner the meeting had ended when the cleanup crew entered.",
+        "B": "No sooner had the meeting ended then the cleanup crew entered.",
+        "C": "No sooner had the meeting ended than the cleanup crew entered.",
+        "D": "No sooner did the meeting ended than the cleanup crew entered."
+      },
+      "correctAnswer": "C",
+      "translationJa": "会議が終わるやいなや、清掃チームが入りました。",
+      "explanationJa": "No soonerの倒置had＋主語＋過去分詞とthanの組み合わせが正しいです。",
+      "focus": "no sooner倒置",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0314_Q17",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that correctly shows an event occurring afterward.",
+      "choices": {
+        "A": "After the payment confirmed, the order was released for shipment.",
+        "B": "After the payment was confirmed, the order was released for shipment.",
+        "C": "After of the payment was confirmed, the order was released.",
+        "D": "The order after released because the payment was confirmed."
+      },
+      "correctAnswer": "B",
+      "translationJa": "支払いが確認された後、注文品は出荷工程へ回されました。",
+      "explanationJa": "after節が確認を先、出荷を後として正しく並べています。",
+      "focus": "after節の構造",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0314_Q18",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that correctly uses “as soon as”.",
+      "choices": {
+        "A": "As soon as the replacement will arrive, we will install it.",
+        "B": "As soon the replacement arrives as, we will install it.",
+        "C": "The replacement as soon as arriving, we will installed it.",
+        "D": "As soon as the replacement arrives, we will install it."
+      },
+      "correctAnswer": "D",
+      "translationJa": "交換品が到着し次第、取り付けます。",
+      "explanationJa": "未来の時間節は現在形arrivesを使い、As soon asで直後を示します。",
+      "focus": "as soon asと未来時制",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0314_Q19",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that correctly uses “once”.",
+      "choices": {
+        "A": "Once the contract will be signed, both parties receive a copy.",
+        "B": "Once of the signed contract, both parties will receive a copy.",
+        "C": "Once the contract is signed, both parties will receive a copy.",
+        "D": "The contract once signing, both parties received a copy."
+      },
+      "correctAnswer": "C",
+      "translationJa": "契約書に署名されれば、両当事者に写しが届きます。",
+      "explanationJa": "once節で成立条件を現在形にし、主節で将来結果を示しています。",
+      "focus": "once＋現在形",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0314_Q20",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that correctly distinguishes “by” from “until”.",
+      "choices": {
+        "A": "Please submit the expense form by Friday.",
+        "B": "Please submit the expense form until Friday.",
+        "C": "Please continue submitting the one form by Friday every moment.",
+        "D": "Please submit until the expense form Friday."
+      },
+      "correctAnswer": "A",
+      "translationJa": "金曜日までに経費用紙を提出してください。",
+      "explanationJa": "一回の提出の完了期限にはbyを使い、継続のuntilは使いません。",
+      "focus": "byとuntilの違い",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0314_Q21",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “Stay in the waiting area until your name is called.”",
+      "choices": {
+        "A": "Do not leave the waiting area before someone calls your name.",
+        "B": "Leave the waiting area as soon as you arrive.",
+        "C": "Your name will be called because you left early.",
+        "D": "Wait only after the office has closed."
+      },
+      "correctAnswer": "A",
+      "translationJa": "名前を呼ばれる前に待合区域を離れないでください。",
+      "explanationJa": "untilの継続終点をnot ... beforeで同じ意味にしています。",
+      "focus": "untilの言い換え",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0314_Q22",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “I have used this software since I joined the company.”",
+      "choices": {
+        "A": "I stopped using the software before joining the company.",
+        "B": "I will first use the software after leaving the company.",
+        "C": "Joining occurred because the software is no longer used.",
+        "D": "My use of the software began when I joined and continues now."
+      },
+      "correctAnswer": "D",
+      "translationJa": "入社時にソフト利用を始め、現在も続けています。",
+      "explanationJa": "sinceは過去の起点から現在までの継続を表します。",
+      "focus": "sinceの時間範囲",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0314_Q23",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “By the time we arrived, the store had closed.”",
+      "choices": {
+        "A": "The store remained open until after our arrival.",
+        "B": "We arrived before the store opened for the day.",
+        "C": "The store closed before we reached it.",
+        "D": "Our arrival caused the store to stay open."
+      },
+      "correctAnswer": "C",
+      "translationJa": "私たちが着く前に、店は閉まっていました。",
+      "explanationJa": "by the timeと過去完了が先行する閉店を示しています。",
+      "focus": "by the timeの前後関係",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0314_Q24",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “While the auditor reviewed the accounts, the assistant organized receipts.”",
+      "choices": {
+        "A": "The assistant waited until the audit ended before doing anything.",
+        "B": "The account review and receipt organization happened at the same time.",
+        "C": "The auditor organized receipts because no accounts existed.",
+        "D": "Both activities necessarily occurred on different days."
+      },
+      "correctAnswer": "B",
+      "translationJa": "会計確認と領収書整理は同時に行われました。",
+      "explanationJa": "whileが二つの進行を時間的に重ねています。",
+      "focus": "whileの同時性",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0314_Q25",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “Call me as soon as the supplier responds.”",
+      "choices": {
+        "A": "Call me immediately after you receive the supplier’s response.",
+        "B": "Call before the supplier has had any chance to respond.",
+        "C": "Wait several days after the response before calling.",
+        "D": "The supplier will respond only because I call you."
+      },
+      "correctAnswer": "A",
+      "translationJa": "供給業者から返答を受けた直後に電話してください。",
+      "explanationJa": "as soon asは直後をimmediately afterと同じく表します。",
+      "focus": "as soon asの言い換え",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0314_Q26",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “Once the trial period ends, the monthly fee applies.”",
+      "choices": {
+        "A": "The monthly fee is charged throughout the free trial only.",
+        "B": "The trial begins after all monthly payments stop.",
+        "C": "The monthly charge begins after the trial period is over.",
+        "D": "No fee applies even after the trial has ended."
+      },
+      "correctAnswer": "C",
+      "translationJa": "試用期間が終わると、月額料金が発生します。",
+      "explanationJa": "Onceは出来事成立後の展開を示すためafterで言い換えられます。",
+      "focus": "onceの意味",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0314_Q27",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “Check the address before you send the parcel.”",
+      "choices": {
+        "A": "Send the parcel first and check the address later.",
+        "B": "The address will be checked while no parcel is sent.",
+        "C": "Do not verify the address until delivery is complete.",
+        "D": "Verify the address first, and send the parcel afterward."
+      },
+      "correctAnswer": "D",
+      "translationJa": "最初に住所を確認し、その後で荷物を送ってください。",
+      "explanationJa": "beforeが示す二動作の順序をfirstとafterwardで表しています。",
+      "focus": "beforeの順序",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0314_Q28",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “No sooner had we submitted the form than a confirmation arrived.”",
+      "choices": {
+        "A": "A confirmation arrived immediately after we submitted the form.",
+        "B": "The confirmation arrived long before the form was submitted.",
+        "C": "No confirmation came because the form was incomplete.",
+        "D": "We delayed submission after receiving several confirmations."
+      },
+      "correctAnswer": "A",
+      "translationJa": "用紙を提出するとすぐに確認が届きました。",
+      "explanationJa": "No sooner ... thanはimmediately afterと同じ直後関係です。",
+      "focus": "no soonerの意味",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0314_Q29",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “The lights turn off when the office becomes empty.”",
+      "choices": {
+        "A": "The lights remain on because the office is empty.",
+        "B": "The lights switch off at the time no one remains in the office.",
+        "C": "The office becomes empty only while the lights are repaired.",
+        "D": "People leave long after the lights never change."
+      },
+      "correctAnswer": "B",
+      "translationJa": "事務所に誰もいなくなる時点で照明が消えます。",
+      "explanationJa": "whenが自動消灯の反復する時間位置を示します。",
+      "focus": "whenと反復時点",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0314_Q30",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “We rested after we completed the inventory count.”",
+      "choices": {
+        "A": "We rested throughout the count and never completed it.",
+        "B": "The inventory was counted because the break continued.",
+        "C": "We finished counting the inventory before taking a break.",
+        "D": "We took a break first and began counting much later."
+      },
+      "correctAnswer": "C",
+      "translationJa": "在庫数を数え終えてから休憩しました。",
+      "explanationJa": "afterの関係をbeforeを用いて逆側から同じ順序で表しています。",
+      "focus": "afterとbeforeの言い換え",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0314_Q31",
+      "format": "context-completion",
+      "prompt": "The loading crew will begin ------- the safety inspector gives permission.",
+      "choices": {
+        "A": "while",
+        "B": "when",
+        "C": "because of",
+        "D": "whereas"
+      },
+      "correctAnswer": "B",
+      "translationJa": "安全検査官が許可した時点で、積み込み班が作業を始めます。",
+      "explanationJa": "許可という出来事に開始時点を置くwhenが適切です。",
+      "focus": "whenと開始時点",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0314_Q32",
+      "format": "context-completion",
+      "prompt": "Please wait here ------- the shuttle returns from Terminal 2.",
+      "choices": {
+        "A": "by",
+        "B": "after",
+        "C": "since",
+        "D": "until"
+      },
+      "correctAnswer": "D",
+      "translationJa": "シャトルが第2ターミナルから戻るまで、ここでお待ちください。",
+      "explanationJa": "待機を戻る時点まで継続するためuntilです。",
+      "focus": "untilと待機継続",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0314_Q33",
+      "format": "context-completion",
+      "prompt": "------- the manager was speaking with the client, her assistant prepared the revised estimate.",
+      "choices": {
+        "A": "While",
+        "B": "Until",
+        "C": "Once",
+        "D": "Before"
+      },
+      "correctAnswer": "A",
+      "translationJa": "管理者が顧客と話している間、助手は改訂見積書を準備しました。",
+      "explanationJa": "二つの進行中の業務を重ねるWhileが適切です。",
+      "focus": "whileと業務同時進行",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0314_Q34",
+      "format": "context-completion",
+      "prompt": "The clinic has offered online appointments ------- it moved to the new building.",
+      "choices": {
+        "A": "until",
+        "B": "while",
+        "C": "since",
+        "D": "before"
+      },
+      "correctAnswer": "C",
+      "translationJa": "診療所は新しい建物へ移って以来、オンライン予約を提供しています。",
+      "explanationJa": "移転を起点に現在まで続くためsinceです。",
+      "focus": "sinceと現在完了",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0314_Q35",
+      "format": "context-completion",
+      "prompt": "------- the time the final guest checked out, the housekeeping team had prepared ten rooms.",
+      "choices": {
+        "A": "Until",
+        "B": "Since",
+        "C": "While",
+        "D": "By"
+      },
+      "correctAnswer": "D",
+      "translationJa": "最後の宿泊客がチェックアウトするまでには、清掃チームは10室を準備済みでした。",
+      "explanationJa": "By the time＋節と過去完了の組み合わせです。",
+      "focus": "by the timeの補完",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0314_Q36",
+      "format": "context-completion",
+      "prompt": "The doors opened ------- the fire alarm test was complete.",
+      "choices": {
+        "A": "until",
+        "B": "after",
+        "C": "while",
+        "D": "since"
+      },
+      "correctAnswer": "B",
+      "translationJa": "火災警報試験が完了した後、扉が開きました。",
+      "explanationJa": "試験完了を先、開扉を後に置くafterが適切です。",
+      "focus": "afterと順序",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0314_Q37",
+      "format": "context-completion",
+      "prompt": "------- you learn the updated filing system, daily tasks become much faster.",
+      "choices": {
+        "A": "Once",
+        "B": "Until",
+        "C": "Whereas",
+        "D": "Despite"
+      },
+      "correctAnswer": "A",
+      "translationJa": "いったん更新された書類管理方法を覚えると、日常業務はずっと速くなります。",
+      "explanationJa": "一度条件が成立した後の変化をOnceが示します。",
+      "focus": "onceと習得後",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0314_Q38",
+      "format": "context-completion",
+      "prompt": "No sooner had the announcement been posted ------- applications began arriving.",
+      "choices": {
+        "A": "when",
+        "B": "until",
+        "C": "because",
+        "D": "than"
+      },
+      "correctAnswer": "D",
+      "translationJa": "発表が掲載されるやいなや、応募が届き始めました。",
+      "explanationJa": "No sooner ... thanの固定構文なのでthanです。",
+      "focus": "no sooner thanの文脈",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0314_Q39",
+      "format": "context-completion",
+      "prompt": "We will issue the refund ------- we receive the returned item.",
+      "choices": {
+        "A": "as long as",
+        "B": "even though",
+        "C": "as soon as",
+        "D": "by the time of"
+      },
+      "correctAnswer": "C",
+      "translationJa": "返品商品を受け取り次第、返金します。",
+      "explanationJa": "受領直後の処理を示すas soon asが適切です。",
+      "focus": "as soon asと即時処理",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0314_Q40",
+      "format": "context-completion",
+      "prompt": "Back up the database ------- installing the security update.",
+      "choices": {
+        "A": "until",
+        "B": "before",
+        "C": "since",
+        "D": "while"
+      },
+      "correctAnswer": "B",
+      "translationJa": "セキュリティ更新をインストールする前に、データベースをバックアップしてください。",
+      "explanationJa": "インストールより先に行う動作をbefore＋動名詞で示します。",
+      "focus": "before＋動名詞",
+      "difficulty": "intermediate"
+    }
+  ]
+}
