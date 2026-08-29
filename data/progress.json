@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-29T09:06:17.570Z",
+  "updatedAt": "2026-08-29T09:07:32.183Z",
   "totalPages": 330,
-  "completedPages": 326,
+  "completedPages": 327,
   "questionsPerPage": 40,
   "totalPlannedQuestions": 13200,
   "pages": [
@@ -1978,9 +1978,9 @@
       "number": 247,
       "id": "grammar-master-0247",
       "title": "whatは『もの・こと』を包む",
-      "status": "pending",
+      "status": "complete",
       "output": "question-sets/PAGE_0247.json",
-      "completedAt": null
+      "completedAt": "2026-08-29T09:07:32.183Z"
     },
     {
       "number": 248,

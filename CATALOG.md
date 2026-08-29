@@ -287,7 +287,7 @@
 | 244 | 節をひとまとまりの主語にする | [PAGE_0244](pages/PAGE_0244.webp) | [原稿](source-prompts/PAGE_0244.txt) | [40問](question-sets/PAGE_0244.json) |
 | 245 | whetherとwh節を名詞の席へ | [PAGE_0245](pages/PAGE_0245.webp) | [原稿](source-prompts/PAGE_0245.txt) | [40問](question-sets/PAGE_0245.json) |
 | 246 | 節で中身を説明する | [PAGE_0246](pages/PAGE_0246.webp) | [原稿](source-prompts/PAGE_0246.txt) | [40問](question-sets/PAGE_0246.json) |
-| 247 | whatは『もの・こと』を包む | [PAGE_0247](pages/PAGE_0247.webp) | [原稿](source-prompts/PAGE_0247.txt) | `pending` |
+| 247 | whatは『もの・こと』を包む | [PAGE_0247](pages/PAGE_0247.webp) | [原稿](source-prompts/PAGE_0247.txt) | [40問](question-sets/PAGE_0247.json) |
 | 248 | どんな条件でも結論は同じ | [PAGE_0248](pages/PAGE_0248.webp) | [原稿](source-prompts/PAGE_0248.txt) | `pending` |
 | 249 | 疑問文は助動詞を前へ | [PAGE_0249](pages/PAGE_0249.webp) | [原稿](source-prompts/PAGE_0249.txt) | `pending` |
 | 250 | 語順の移動に気持ちを乗せる | [PAGE_0250](pages/PAGE_0250.webp) | [原稿](source-prompts/PAGE_0250.txt) | [40問](question-sets/PAGE_0250.json) |
