@@ -1,0 +1,95 @@
+{
+  "sessionId": "S17",
+  "startPage": 278,
+  "endPage": 291,
+  "pageCount": 14,
+  "pages": [
+    {
+      "page": "PAGE_0278",
+      "commit": "304ade283a3c9e204fcb81c501ea9e3fe65c52cf",
+      "validation": "success",
+      "preexistingIdentical": true
+    },
+    {
+      "page": "PAGE_0279",
+      "commit": "2e97720c98382c043777ac65977992aa31c0bd11",
+      "validation": "success",
+      "preexistingIdentical": false
+    },
+    {
+      "page": "PAGE_0280",
+      "commit": "f25afd9205ed610eabcc5614a7a09c34c7c47b04",
+      "validation": "success",
+      "preexistingIdentical": false
+    },
+    {
+      "page": "PAGE_0281",
+      "commit": "77905545183211d265dbed681a61065bb18e3c32",
+      "validation": "success",
+      "preexistingIdentical": false
+    },
+    {
+      "page": "PAGE_0282",
+      "commit": "e3a0de890376e6f9fd9433a6f6e356b486c010cf",
+      "validation": "success",
+      "preexistingIdentical": false
+    },
+    {
+      "page": "PAGE_0283",
+      "commit": "1c970a10404821c16a177f794e5dc6dee0c2fcbb",
+      "validation": "success",
+      "preexistingIdentical": false
+    },
+    {
+      "page": "PAGE_0284",
+      "commit": "22df9b2ea41ee33cd4952624aeba8630bbac49d4",
+      "validation": "success",
+      "preexistingIdentical": false
+    },
+    {
+      "page": "PAGE_0285",
+      "commit": "c5d64856048606e27e15c6f8ee374790f6f72a0f",
+      "validation": "success",
+      "preexistingIdentical": false
+    },
+    {
+      "page": "PAGE_0286",
+      "commit": "f95bdef0ab3825ac6a17710cd1d53980b08ccb27",
+      "validation": "success",
+      "preexistingIdentical": false
+    },
+    {
+      "page": "PAGE_0287",
+      "commit": "c002c838c668a43acebb8438b85ae7f880c7625d",
+      "validation": "success",
+      "preexistingIdentical": false
+    },
+    {
+      "page": "PAGE_0288",
+      "commit": "cdec15d58958c84c2257a7af3fd2af16254a7c94",
+      "validation": "success",
+      "preexistingIdentical": false
+    },
+    {
+      "page": "PAGE_0289",
+      "commit": "9b257a87bebab9022d13463c1c6f45ecf08b7eea",
+      "validation": "success",
+      "preexistingIdentical": false
+    },
+    {
+      "page": "PAGE_0290",
+      "commit": "a4b65d5c1cae72e2028a08e7adf2acfdc89797a5",
+      "validation": "success",
+      "preexistingIdentical": false
+    },
+    {
+      "page": "PAGE_0291",
+      "commit": "a7f1b583aaf420926b5871bcdf552ecfe40cd71a",
+      "validation": "success",
+      "preexistingIdentical": false
+    }
+  ],
+  "allFilesPublished": true,
+  "allPageValidations": "success",
+  "completedAt": "2026-08-29T06:05:03Z"
+}
