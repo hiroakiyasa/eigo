@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-29T02:17:59.557Z",
+  "updatedAt": "2026-08-29T02:52:58.465Z",
   "totalPages": 330,
-  "completedPages": 42,
+  "completedPages": 43,
   "questionsPerPage": 40,
   "totalPlannedQuestions": 13200,
   "pages": [
@@ -354,9 +354,9 @@
       "number": 44,
       "id": "grammar-master-0044",
       "title": "内容は that・whether・wh で選ぶ",
-      "status": "pending",
+      "status": "complete",
       "output": "question-sets/PAGE_0044.json",
-      "completedAt": null
+      "completedAt": "2026-08-29T02:52:58.465Z"
     },
     {
       "number": 45,
