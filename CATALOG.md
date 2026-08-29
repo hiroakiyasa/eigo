@@ -77,8 +77,8 @@
 |---:|---|---|---|---|
 | 60 | 名詞は、3つの目で見る | [PAGE_0060](pages/PAGE_0060.webp) | [原稿](source-prompts/PAGE_0060.txt) | [40問](question-sets/PAGE_0060.json) |
 | 61 | 名詞は3回しぼり込む | [PAGE_0061](pages/PAGE_0061.webp) | [原稿](source-prompts/PAGE_0061.txt) | [40問](question-sets/PAGE_0061.json) |
-| 62 | 名詞のかたちは、中心へ重ねる | [PAGE_0062](pages/PAGE_0062.webp) | [原稿](source-prompts/PAGE_0062.txt) | `pending` |
-| 63 | まとまり全体は、数えない | [PAGE_0063](pages/PAGE_0063.webp) | [原稿](source-prompts/PAGE_0063.txt) | `pending` |
+| 62 | 名詞のかたちは、中心へ重ねる | [PAGE_0062](pages/PAGE_0062.webp) | [原稿](source-prompts/PAGE_0062.txt) | [40問](question-sets/PAGE_0062.json) |
+| 63 | まとまり全体は、数えない | [PAGE_0063](pages/PAGE_0063.webp) | [原稿](source-prompts/PAGE_0063.txt) | [40問](question-sets/PAGE_0063.json) |
 | 64 | 形で見抜く 可算・不可算 | [PAGE_0064](pages/PAGE_0064.webp) | [原稿](source-prompts/PAGE_0064.txt) | `pending` |
 | 65 | 数えられないものは、単位で数える | [PAGE_0065](pages/PAGE_0065.webp) | [原稿](source-prompts/PAGE_0065.txt) | `pending` |
 | 66 | 同じ名詞でも、形を見れば変わる | [PAGE_0066](pages/PAGE_0066.webp) | [原稿](source-prompts/PAGE_0066.txt) | `pending` |
@@ -112,7 +112,7 @@
 | 94 | thatは導く、限定詞は受ける | [PAGE_0094](pages/PAGE_0094.webp) | [原稿](source-prompts/PAGE_0094.txt) | `pending` |
 | 95 | 特定の中から選び、代名詞で受ける | [PAGE_0095](pages/PAGE_0095.webp) | [原稿](source-prompts/PAGE_0095.txt) | `pending` |
 | 96 | 代名詞は、場所で着替える | [PAGE_0096](pages/PAGE_0096.webp) | [原稿](source-prompts/PAGE_0096.txt) | [40問](question-sets/PAGE_0096.json) |
-| 97 | ’sは密着、ofは後ろから説明 | [PAGE_0097](pages/PAGE_0097.webp) | [原稿](source-prompts/PAGE_0097.txt) | `pending` |
+| 97 | ’sは密着、ofは後ろから説明 | [PAGE_0097](pages/PAGE_0097.webp) | [原稿](source-prompts/PAGE_0097.txt) | [40問](question-sets/PAGE_0097.json) |
 | 98 | 所有より広い、“強いつながり” | [PAGE_0098](pages/PAGE_0098.webp) | [原稿](source-prompts/PAGE_0098.txt) | `pending` |
 | 99 | mine・myself・itで受ける | [PAGE_0099](pages/PAGE_0099.webp) | [原稿](source-prompts/PAGE_0099.txt) | `pending` |
 | 100 | itは、ものも状況も受け止める | [PAGE_0100](pages/PAGE_0100.webp) | [原稿](source-prompts/PAGE_0100.txt) | `pending` |
@@ -134,9 +134,9 @@
 | 111 | 形容詞は、名詞の前後で働く | [PAGE_0111](pages/PAGE_0111.webp) | [原稿](source-prompts/PAGE_0111.txt) | [40問](question-sets/PAGE_0111.json) |
 | 112 | 形容詞の列車、名詞へ近づく順 | [PAGE_0112](pages/PAGE_0112.webp) | [原稿](source-prompts/PAGE_0112.txt) | [40問](question-sets/PAGE_0112.json) |
 | 113 | ハイフンで、説明を1ブロックに | [PAGE_0113](pages/PAGE_0113.webp) | [原稿](source-prompts/PAGE_0113.txt) | [40問](question-sets/PAGE_0113.json) |
-| 114 | “まだ足りない”が後ろの説明を呼ぶ | [PAGE_0114](pages/PAGE_0114.webp) | [原稿](source-prompts/PAGE_0114.txt) | `pending` |
-| 115 | 位置で変わる、形容詞の顔 | [PAGE_0115](pages/PAGE_0115.webp) | [原稿](source-prompts/PAGE_0115.txt) | `pending` |
-| 116 | 名詞も動詞も、形容詞になれる | [PAGE_0116](pages/PAGE_0116.webp) | [原稿](source-prompts/PAGE_0116.txt) | `pending` |
+| 114 | “まだ足りない”が後ろの説明を呼ぶ | [PAGE_0114](pages/PAGE_0114.webp) | [原稿](source-prompts/PAGE_0114.txt) | [40問](question-sets/PAGE_0114.json) |
+| 115 | 位置で変わる、形容詞の顔 | [PAGE_0115](pages/PAGE_0115.webp) | [原稿](source-prompts/PAGE_0115.txt) | [40問](question-sets/PAGE_0115.json) |
+| 116 | 名詞も動詞も、形容詞になれる | [PAGE_0116](pages/PAGE_0116.webp) | [原稿](source-prompts/PAGE_0116.txt) | [40問](question-sets/PAGE_0116.json) |
 | 117 | -ingは原因、-edは感じた人 | [PAGE_0117](pages/PAGE_0117.webp) | [原稿](source-prompts/PAGE_0117.txt) | `pending` |
 | 118 | 修飾の地図：形容詞から副詞へ | [PAGE_0118](pages/PAGE_0118.webp) | [原稿](source-prompts/PAGE_0118.txt) | `pending` |
 | 119 | 副詞は、文の景色を変える | [PAGE_0119](pages/PAGE_0119.webp) | [原稿](source-prompts/PAGE_0119.txt) | `pending` |
@@ -144,7 +144,7 @@
 | 121 | 場所と様子を置く順番 | [PAGE_0121](pages/PAGE_0121.webp) | [原稿](source-prompts/PAGE_0121.txt) | `pending` |
 | 122 | 副詞を重ねる基本ルート | [PAGE_0122](pages/PAGE_0122.webp) | [原稿](source-prompts/PAGE_0122.txt) | `pending` |
 | 123 | 副詞はどこを照らす？ | [PAGE_0123](pages/PAGE_0123.webp) | [原稿](source-prompts/PAGE_0123.txt) | `pending` |
-| 124 | 位置で変わる限定と程度 | [PAGE_0124](pages/PAGE_0124.webp) | [原稿](source-prompts/PAGE_0124.txt) | `pending` |
+| 124 | 位置で変わる限定と程度 | [PAGE_0124](pages/PAGE_0124.webp) | [原稿](source-prompts/PAGE_0124.txt) | [40問](question-sets/PAGE_0124.json) |
 | 125 | 程度と頻度をものさしで見る | [PAGE_0125](pages/PAGE_0125.webp) | [原稿](source-prompts/PAGE_0125.txt) | `pending` |
 | 126 | 長い副詞句と頻度のニュアンス | [PAGE_0126](pages/PAGE_0126.webp) | [原稿](source-prompts/PAGE_0126.txt) | `pending` |
 | 127 | 回数と確からしさを表す | [PAGE_0127](pages/PAGE_0127.webp) | [原稿](source-prompts/PAGE_0127.txt) | `pending` |
@@ -213,8 +213,8 @@
 | 180 | 前置詞句は置き場所で働きが決まる | [PAGE_0180](pages/PAGE_0180.webp) | [原稿](source-prompts/PAGE_0180.txt) | [40問](question-sets/PAGE_0180.json) |
 | 181 | 句動詞は“まとまり方”で見抜く | [PAGE_0181](pages/PAGE_0181.webp) | [原稿](source-prompts/PAGE_0181.txt) | [40問](question-sets/PAGE_0181.json) |
 | 182 | 代名詞は句動詞の真ん中へ | [PAGE_0182](pages/PAGE_0182.webp) | [原稿](source-prompts/PAGE_0182.txt) | [40問](question-sets/PAGE_0182.json) |
-| 183 | at・in・onは同じ場所でも変わる | [PAGE_0183](pages/PAGE_0183.webp) | [原稿](source-prompts/PAGE_0183.txt) | `pending` |
-| 184 | 前置詞は“感じた景色”で選ぶ | [PAGE_0184](pages/PAGE_0184.webp) | [原稿](source-prompts/PAGE_0184.txt) | `pending` |
+| 183 | at・in・onは同じ場所でも変わる | [PAGE_0183](pages/PAGE_0183.webp) | [原稿](source-prompts/PAGE_0183.txt) | [40問](question-sets/PAGE_0183.json) |
+| 184 | 前置詞は“感じた景色”で選ぶ | [PAGE_0184](pages/PAGE_0184.webp) | [原稿](source-prompts/PAGE_0184.txt) | [40問](question-sets/PAGE_0184.json) |
 | 185 | above・across・afterを動きでつかむ | [PAGE_0185](pages/PAGE_0185.webp) | [原稿](source-prompts/PAGE_0185.txt) | `pending` |
 | 186 | against・along・among・aroundの地図 | [PAGE_0186](pages/PAGE_0186.webp) | [原稿](source-prompts/PAGE_0186.txt) | `pending` |
 | 187 | atは一点、beforeは順序の前 | [PAGE_0187](pages/PAGE_0187.webp) | [原稿](source-prompts/PAGE_0187.txt) | `pending` |
@@ -224,7 +224,7 @@
 | 191 | fromで出る・inで入る | [PAGE_0191](pages/PAGE_0191.webp) | [原稿](source-prompts/PAGE_0191.txt) | `pending` |
 | 192 | inは中、intoは中へ | [PAGE_0192](pages/PAGE_0192.webp) | [原稿](source-prompts/PAGE_0192.txt) | `pending` |
 | 193 | ofはリンク、onは接触 | [PAGE_0193](pages/PAGE_0193.webp) | [原稿](source-prompts/PAGE_0193.txt) | `pending` |
-| 194 | onは線・活動・支え | [PAGE_0194](pages/PAGE_0194.webp) | [原稿](source-prompts/PAGE_0194.txt) | `pending` |
+| 194 | onは線・活動・支え | [PAGE_0194](pages/PAGE_0194.webp) | [原稿](source-prompts/PAGE_0194.txt) | [40問](question-sets/PAGE_0194.json) |
 | 195 | 時の点・日・幅とover | [PAGE_0195](pages/PAGE_0195.webp) | [原稿](source-prompts/PAGE_0195.txt) | `pending` |
 | 196 | overで越え、toで到達 | [PAGE_0196](pages/PAGE_0196.webp) | [原稿](source-prompts/PAGE_0196.txt) | `pending` |
 | 197 | 方向・通過・下を描く | [PAGE_0197](pages/PAGE_0197.webp) | [原稿](source-prompts/PAGE_0197.txt) | `pending` |
@@ -262,7 +262,7 @@
 | 219 | 前の-ingは種類、後ろは動き | [PAGE_0219](pages/PAGE_0219.webp) | [原稿](source-prompts/PAGE_0219.txt) | `pending` |
 | 220 | -ingで同時進行と結果を足す | [PAGE_0220](pages/PAGE_0220.webp) | [原稿](source-prompts/PAGE_0220.txt) | `pending` |
 | 221 | 文を説明する-ingの上級技 | [PAGE_0221](pages/PAGE_0221.webp) | [原稿](source-prompts/PAGE_0221.txt) | `pending` |
-| 222 | to不定詞は行為を指し示す | [PAGE_0222](pages/PAGE_0222.webp) | [原稿](source-prompts/PAGE_0222.txt) | `pending` |
+| 222 | to不定詞は行為を指し示す | [PAGE_0222](pages/PAGE_0222.webp) | [原稿](source-prompts/PAGE_0222.txt) | [40問](question-sets/PAGE_0222.json) |
 | 223 | to不定詞の主語と“これから” | [PAGE_0223](pages/PAGE_0223.webp) | [原稿](source-prompts/PAGE_0223.txt) | `pending` |
 | 224 | 動詞が選ぶ to と-ing | [PAGE_0224](pages/PAGE_0224.webp) | [原稿](source-prompts/PAGE_0224.txt) | `pending` |
 | 225 | toは変化の到達点を指す | [PAGE_0225](pages/PAGE_0225.webp) | [原稿](source-prompts/PAGE_0225.txt) | `pending` |
@@ -278,8 +278,8 @@
 | 235 | be＋過去分詞で受動文 | [PAGE_0235](pages/PAGE_0235.webp) | [原稿](source-prompts/PAGE_0235.txt) | `pending` |
 | 236 | beを変えれば、受動も自由自在 | [PAGE_0236](pages/PAGE_0236.webp) | [原稿](source-prompts/PAGE_0236.txt) | [40問](question-sets/PAGE_0236.json) |
 | 237 | 性質は能動形、前置詞はイメージで | [PAGE_0237](pages/PAGE_0237.webp) | [原稿](source-prompts/PAGE_0237.txt) | [40問](question-sets/PAGE_0237.json) |
-| 238 | 2つの目的語を受動文にする | [PAGE_0238](pages/PAGE_0238.webp) | [原稿](source-prompts/PAGE_0238.txt) | `pending` |
-| 239 | 受動文のあとをtoで補う | [PAGE_0239](pages/PAGE_0239.webp) | [原稿](source-prompts/PAGE_0239.txt) | `pending` |
+| 238 | 2つの目的語を受動文にする | [PAGE_0238](pages/PAGE_0238.webp) | [原稿](source-prompts/PAGE_0238.txt) | [40問](question-sets/PAGE_0238.json) |
+| 239 | 受動文のあとをtoで補う | [PAGE_0239](pages/PAGE_0239.webp) | [原稿](source-prompts/PAGE_0239.txt) | [40問](question-sets/PAGE_0239.json) |
 | 240 | 言われている・決まり・句動詞 | [PAGE_0240](pages/PAGE_0240.webp) | [原稿](source-prompts/PAGE_0240.txt) | `pending` |
 | 241 | get＋過去分詞は状態の変化 | [PAGE_0241](pages/PAGE_0241.webp) | [原稿](source-prompts/PAGE_0241.txt) | `pending` |
 | 242 | 過去分詞は前で分類、後ろで説明 | [PAGE_0242](pages/PAGE_0242.webp) | [原稿](source-prompts/PAGE_0242.txt) | `pending` |
@@ -297,7 +297,7 @@
 | ページ | タイトル | 画像 | 制作原稿 | 問題 |
 |---:|---|---|---|---|
 | 251 | 知りたい気持ちで倒置 | [PAGE_0251](pages/PAGE_0251.webp) | [原稿](source-prompts/PAGE_0251.txt) | [40問](question-sets/PAGE_0251.json) |
-| 252 | doを補い、beは前へ | [PAGE_0252](pages/PAGE_0252.webp) | [原稿](source-prompts/PAGE_0252.txt) | `pending` |
+| 252 | doを補い、beは前へ | [PAGE_0252](pages/PAGE_0252.webp) | [原稿](source-prompts/PAGE_0252.txt) | [40問](question-sets/PAGE_0252.json) |
 | 253 | 軽く答え、ないの？と聞く | [PAGE_0253](pages/PAGE_0253.webp) | [原稿](source-prompts/PAGE_0253.txt) | `pending` |
 | 254 | 文末にちょこっと確認 | [PAGE_0254](pages/PAGE_0254.webp) | [原稿](source-prompts/PAGE_0254.txt) | `pending` |
 | 255 | 気軽なひと言タグ | [PAGE_0255](pages/PAGE_0255.webp) | [原稿](source-prompts/PAGE_0255.txt) | `pending` |
@@ -309,8 +309,8 @@
 | 261 | 聞き返しはWH語でピンポイント | [PAGE_0261](pages/PAGE_0261.webp) | [原稿](source-prompts/PAGE_0261.txt) | `pending` |
 | 262 | 疑問形の“本当の意図”を読む | [PAGE_0262](pages/PAGE_0262.webp) | [原稿](source-prompts/PAGE_0262.txt) | `pending` |
 | 263 | 倒置は感情のジャンプ | [PAGE_0263](pages/PAGE_0263.webp) | [原稿](source-prompts/PAGE_0263.txt) | `pending` |
-| 264 | 否定倒置とifなし条件文 | [PAGE_0264](pages/PAGE_0264.webp) | [原稿](source-prompts/PAGE_0264.txt) | `pending` |
-| 265 | Should倒置と感嘆文の作り方 | [PAGE_0265](pages/PAGE_0265.webp) | [原稿](source-prompts/PAGE_0265.txt) | `pending` |
+| 264 | 否定倒置とifなし条件文 | [PAGE_0264](pages/PAGE_0264.webp) | [原稿](source-prompts/PAGE_0264.txt) | [40問](question-sets/PAGE_0264.json) |
+| 265 | Should倒置と感嘆文の作り方 | [PAGE_0265](pages/PAGE_0265.webp) | [原稿](source-prompts/PAGE_0265.txt) | [40問](question-sets/PAGE_0265.json) |
 | 266 | 前に出すと意味が光る | [PAGE_0266](pages/PAGE_0266.webp) | [原稿](source-prompts/PAGE_0266.txt) | `pending` |
 
 ## 時間を旅する（267〜300）
@@ -345,7 +345,7 @@
 | 292 | 後悔と仮定の合図 | [PAGE_0292](pages/PAGE_0292.webp) | [原稿](source-prompts/PAGE_0292.txt) | [40問](question-sets/PAGE_0292.json) |
 | 293 | もしもの二段ロケット | [PAGE_0293](pages/PAGE_0293.webp) | [原稿](source-prompts/PAGE_0293.txt) | [40問](question-sets/PAGE_0293.json) |
 | 294 | 過去の原因、今の結果 | [PAGE_0294](pages/PAGE_0294.webp) | [原稿](source-prompts/PAGE_0294.txt) | [40問](question-sets/PAGE_0294.json) |
-| 295 | 過去の箱に入れると時制も過去 | [PAGE_0295](pages/PAGE_0295.webp) | [原稿](source-prompts/PAGE_0295.txt) | `pending` |
+| 295 | 過去の箱に入れると時制も過去 | [PAGE_0295](pages/PAGE_0295.webp) | [原稿](source-prompts/PAGE_0295.txt) | [40問](question-sets/PAGE_0295.json) |
 | 296 | 報告より前なら had＋過去分詞 | [PAGE_0296](pages/PAGE_0296.webp) | [原稿](source-prompts/PAGE_0296.txt) | `pending` |
 | 297 | 助動詞の時制シフト | [PAGE_0297](pages/PAGE_0297.webp) | [原稿](source-prompts/PAGE_0297.txt) | `pending` |
 | 298 | 今も本当なら時制を保てる | [PAGE_0298](pages/PAGE_0298.webp) | [原稿](source-prompts/PAGE_0298.txt) | `pending` |
@@ -363,7 +363,7 @@
 | 305 | orは選択肢を開く | [PAGE_0305](pages/PAGE_0305.webp) | [原稿](source-prompts/PAGE_0305.txt) | [40問](question-sets/PAGE_0305.json) |
 | 306 | ifは条件を仮置きする | [PAGE_0306](pages/PAGE_0306.webp) | [原稿](source-prompts/PAGE_0306.txt) | [40問](question-sets/PAGE_0306.json) |
 | 307 | 条件の範囲を広げる・絞る | [PAGE_0307](pages/PAGE_0307.webp) | [原稿](source-prompts/PAGE_0307.txt) | [40問](question-sets/PAGE_0307.json) |
-| 308 | 条件に備える表現の道具箱 | [PAGE_0308](pages/PAGE_0308.webp) | [原稿](source-prompts/PAGE_0308.txt) | `pending` |
+| 308 | 条件に備える表現の道具箱 | [PAGE_0308](pages/PAGE_0308.webp) | [原稿](source-prompts/PAGE_0308.txt) | [40問](question-sets/PAGE_0308.json) |
 | 309 | 理由を結ぶbecause・as・since | [PAGE_0309](pages/PAGE_0309.webp) | [原稿](source-prompts/PAGE_0309.txt) | `pending` |
 | 310 | 理由の後ろが文か名詞か | [PAGE_0310](pages/PAGE_0310.webp) | [原稿](source-prompts/PAGE_0310.txt) | `pending` |
 | 311 | 目的表現は“ゴールへの矢印” | [PAGE_0311](pages/PAGE_0311.webp) | [原稿](source-prompts/PAGE_0311.txt) | `pending` |
@@ -374,7 +374,7 @@
 | 316 | asはイコール、likeは類似 | [PAGE_0316](pages/PAGE_0316.webp) | [原稿](source-prompts/PAGE_0316.txt) | `pending` |
 | 317 | 接続表現から“流れを整える”へ | [PAGE_0317](pages/PAGE_0317.webp) | [原稿](source-prompts/PAGE_0317.txt) | `pending` |
 | 318 | 代用で繰り返しを軽くする | [PAGE_0318](pages/PAGE_0318.webp) | [原稿](source-prompts/PAGE_0318.txt) | [40問](question-sets/PAGE_0318.json) |
-| 319 | soで内容を受け、省略で流れを速く | [PAGE_0319](pages/PAGE_0319.webp) | [原稿](source-prompts/PAGE_0319.txt) | `pending` |
+| 319 | soで内容を受け、省略で流れを速く | [PAGE_0319](pages/PAGE_0319.webp) | [原稿](source-prompts/PAGE_0319.txt) | [40問](question-sets/PAGE_0319.json) |
 | 320 | 省略と注釈で文をシャープに | [PAGE_0320](pages/PAGE_0320.webp) | [原稿](source-prompts/PAGE_0320.txt) | `pending` |
 | 321 | 同格と挿入で説明を差し込む | [PAGE_0321](pages/PAGE_0321.webp) | [原稿](source-prompts/PAGE_0321.txt) | `pending` |
 | 322 | 間接話法は視点から再構成 | [PAGE_0322](pages/PAGE_0322.webp) | [原稿](source-prompts/PAGE_0322.txt) | `pending` |
