@@ -1,0 +1,676 @@
+{
+  "schemaVersion": 1,
+  "page": {
+    "number": 318,
+    "id": "grammar-master-0318",
+    "title": "代用で繰り返しを軽くする",
+    "image": "pages/PAGE_0318.webp",
+    "sourcePrompt": "source-prompts/PAGE_0318.txt"
+  },
+  "analysis": {
+    "summaryJa": "このページは、すでに示した可算名詞をone／onesで、既出の行為をdo so・do it／that・do／does／didで受け、意味のつながりを保ちながら反復を軽くする仕組みを扱う。名詞の単複、形容詞や後置修飾との組み合わせ、形式的なdo soと会話的なdo it／that、助動詞的なdoだけを残す最小省略を、職場の比較・依頼・実行場面で運用できるように問う。",
+    "grammarPoints": [
+      "oneは単数、onesは複数の可算名詞を、形容詞・限定詞・後置修飾とともに受ける",
+      "不可算名詞は原則として同じ仕方でoneに置き換えず、必要ならsomeなど別の形を選ぶ",
+      "do soは前に出た行為全体を明示的・やや改まって受け、時制や助動詞に応じてdoの形を変える",
+      "do it／do thatは具体的な行為を会話的に指し、bare do／does／didは同じ動詞句を最も軽く代用する",
+      "代用語の数・時制・主語との一致から、何を復元するかを判断する"
+    ],
+    "visualEvidence": [
+      "重い反復表現の荷箱がONE・DO・SOの小さな代用トークンへ置き換わる中央の対比",
+      "ONE／ONESが可算名詞の単数・複数を受ける名詞代用のカード",
+      "do so、do it／that、do／does／didを形式性と短さの段階として並べたはしご",
+      "nounならone／ones、行為ならdo系列へ進む選択フローと矢印",
+      "代用語から前の内容へ線がつながり、短くしても指示対象が失われない図"
+    ],
+    "commonTraps": [
+      "複数名詞をoneで受けたり、単数名詞をonesで受けたりして数を不一致にする",
+      "one／onesを不可算名詞の単純な代用として使う",
+      "willやtoの後ろでdoes／didを使い、doの形を誤る",
+      "bare doに不要な目的語を重ねたり、do soの後ろへitを足したりする",
+      "代用語が何を指すか文脈から一意に復元できないまま省略する"
+    ]
+  },
+  "questions": [
+    {
+      "id": "PAGE_0318_Q01",
+      "format": "part5-cloze",
+      "prompt": "The black binders are too small, so please order the larger ------- shown in the catalog.",
+      "choices": {
+        "A": "one",
+        "B": "it",
+        "C": "ones",
+        "D": "so"
+      },
+      "correctAnswer": "C",
+      "translationJa": "黒いバインダーは小さすぎるので、カタログに載っている大きいほうを注文してください。",
+      "explanationJa": "前に出た複数の可算名詞bindersを、形容詞largerとともに受けるため複数形onesを使います。",
+      "focus": "複数可算名詞を受けるones",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0318_Q02",
+      "format": "part5-cloze",
+      "prompt": "This conference room has no projector, but the ------- across the hall does.",
+      "choices": {
+        "A": "one",
+        "B": "ones",
+        "C": "so",
+        "D": "that"
+      },
+      "correctAnswer": "A",
+      "translationJa": "この会議室にはプロジェクターがありませんが、廊下の向かいの会議室にはあります。",
+      "explanationJa": "前の単数可算名詞conference roomを置き換え、後置修飾across the hallを伴うのでoneが適切です。",
+      "focus": "単数可算名詞を受けるone",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0318_Q03",
+      "format": "part5-cloze",
+      "prompt": "The maintenance team was instructed to shut down the old server and will ------- after business hours.",
+      "choices": {
+        "A": "do one",
+        "B": "make so",
+        "C": "does it",
+        "D": "do so"
+      },
+      "correctAnswer": "D",
+      "translationJa": "保守チームは旧サーバーを停止するよう指示され、営業時間後にそのとおり実行します。",
+      "explanationJa": "前の動作shut down the old server全体を、やや改まった形で受けるdo soが正解です。willの後なのでdoは原形です。",
+      "focus": "do soによる動作全体の代用",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0318_Q04",
+      "format": "part5-cloze",
+      "prompt": "Ms. Patel submits her travel receipts promptly, and her assistant ------- as well.",
+      "choices": {
+        "A": "do",
+        "B": "does",
+        "C": "is",
+        "D": "does so them"
+      },
+      "correctAnswer": "B",
+      "translationJa": "パテルさんは出張の領収書を速やかに提出し、アシスタントも同様に提出します。",
+      "explanationJa": "前の動詞句submits her travel receipts promptlyを代用するため、三人称単数主語に合わせたdoesを残します。",
+      "focus": "doesによる動詞句代用",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0318_Q05",
+      "format": "part5-cloze",
+      "prompt": "I compared both printers and chose the quieter ------- for the reception area.",
+      "choices": {
+        "A": "one",
+        "B": "ones",
+        "C": "it",
+        "D": "do"
+      },
+      "correctAnswer": "A",
+      "translationJa": "私は両方のプリンターを比較し、受付エリア用により静かなほうを選びました。",
+      "explanationJa": "二つのprintersのうち単数の一台をquieterで限定して受けるのでoneを使います。",
+      "focus": "比較級＋one",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0318_Q06",
+      "format": "part5-cloze",
+      "prompt": "The vendor promised to replace every damaged package but failed to ------- before the deadline.",
+      "choices": {
+        "A": "do it them",
+        "B": "do ones",
+        "C": "do so",
+        "D": "make that"
+      },
+      "correctAnswer": "C",
+      "translationJa": "業者は破損した荷物をすべて交換すると約束しましたが、期限までに実行できませんでした。",
+      "explanationJa": "replace every damaged packageという先行する動作内容を明示的に受けるため、fail to do soが自然です。",
+      "focus": "to do soで前の行為を受ける",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0318_Q07",
+      "format": "part5-cloze",
+      "prompt": "The first invoice contains an error, but the revised ------- is accurate.",
+      "choices": {
+        "A": "ones",
+        "B": "one",
+        "C": "so",
+        "D": "does"
+      },
+      "correctAnswer": "B",
+      "translationJa": "最初の請求書には誤りがありますが、改訂版は正確です。",
+      "explanationJa": "invoiceは単数可算名詞で、revisedという形容詞を伴って同種の別の一つを指すためoneが必要です。",
+      "focus": "形容詞付きone",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0318_Q08",
+      "format": "part5-cloze",
+      "prompt": "Our branch did not extend its weekend hours, although several nearby stores -------.",
+      "choices": {
+        "A": "were",
+        "B": "did so it",
+        "C": "ones",
+        "D": "did"
+      },
+      "correctAnswer": "D",
+      "translationJa": "近隣のいくつかの店舗は週末の営業時間を延長しましたが、当支店は延長しませんでした。",
+      "explanationJa": "extended their weekend hoursに相当する過去の動詞句を、助動詞didだけで代用しています。",
+      "focus": "didによる過去の動詞句代用",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0318_Q09",
+      "format": "part5-cloze",
+      "prompt": "We need two lockable cabinets; the wooden ------- beside the copy room are available.",
+      "choices": {
+        "A": "one",
+        "B": "it",
+        "C": "ones",
+        "D": "that"
+      },
+      "correctAnswer": "C",
+      "translationJa": "鍵付きキャビネットが2台必要です。コピー室の横にある木製のものが利用できます。",
+      "explanationJa": "複数の可算名詞cabinetsをwoodenと場所表現で限定して受けるためonesが正解です。",
+      "focus": "複数名詞＋後置修飾を受けるones",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0318_Q10",
+      "format": "part5-cloze",
+      "prompt": "The director asked us to revise the notice, and we ------- immediately.",
+      "choices": {
+        "A": "did so",
+        "B": "did one",
+        "C": "were so",
+        "D": "did it the notice"
+      },
+      "correctAnswer": "A",
+      "translationJa": "部長は私たちに通知を修正するよう求め、私たちはすぐにそのとおり実行しました。",
+      "explanationJa": "revise the noticeという依頼された行為を、過去形did soで簡潔かつ明示的に受けています。",
+      "focus": "did soによる既出行為の代用",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0318_Q11",
+      "format": "correct-sentence",
+      "prompt": "Choose the grammatically correct sentence about selecting replacement chairs.",
+      "choices": {
+        "A": "The padded chairs cost more than the plastic one are.",
+        "B": "The padded chairs cost more than the plastic ones.",
+        "C": "The padded chairs cost more than the plastic so.",
+        "D": "The padded chairs cost more than plastic it."
+      },
+      "correctAnswer": "B",
+      "translationJa": "クッション付きの椅子は、プラスチック製のものより高価です。",
+      "explanationJa": "複数可算名詞chairsの反復を避け、形容詞plasticの後ろにonesを置いた文だけが正しいです。",
+      "focus": "複数名詞の代用ones",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0318_Q12",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about following a safety request.",
+      "choices": {
+        "A": "The supervisor asked us to clear the aisle, and we did one at once.",
+        "B": "The supervisor asked us to clear the aisle, and we do so it at once.",
+        "C": "The supervisor asked us to clear the aisle, and we were so at once.",
+        "D": "The supervisor asked us to clear the aisle, and we did so at once."
+      },
+      "correctAnswer": "D",
+      "translationJa": "上司は通路を空けるよう求め、私たちはすぐにそのとおりにしました。",
+      "explanationJa": "前の動作clear the aisleを過去形did soで丸ごと受ける形が正しく、余分な目的語は置きません。",
+      "focus": "did soの語順と用法",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0318_Q13",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence comparing two delivery options.",
+      "choices": {
+        "A": "The morning delivery is cheaper than the evening one.",
+        "B": "The morning delivery is cheaper than evening ones.",
+        "C": "The morning delivery is cheaper than the evening so.",
+        "D": "The morning delivery is cheaper than the evening it does."
+      },
+      "correctAnswer": "A",
+      "translationJa": "午前配送は夕方配送より安いです。",
+      "explanationJa": "単数可算名詞deliveryの反復を避け、限定詞theと形容詞eveningの後ろにoneを置きます。",
+      "focus": "限定された単数名詞を受けるone",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0318_Q14",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about employees attending a briefing.",
+      "choices": {
+        "A": "I attended the briefing, and my colleagues was too.",
+        "B": "I attended the briefing, and my colleagues did it too the briefing.",
+        "C": "I attended the briefing, and my colleagues did too.",
+        "D": "I attended the briefing, and my colleagues ones too."
+      },
+      "correctAnswer": "C",
+      "translationJa": "私は説明会に参加し、同僚たちも参加しました。",
+      "explanationJa": "過去の動詞句attended the briefingをdidで代用し、tooで同様であることを示す文が正しいです。",
+      "focus": "did tooによる動詞句の反復回避",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0318_Q15",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about replacing a damaged badge.",
+      "choices": {
+        "A": "My badge is cracked, so I requested new ones it.",
+        "B": "My badge is cracked, so I requested a new so.",
+        "C": "My badge is cracked, so I requested a new does.",
+        "D": "My badge is cracked, so I requested a new one."
+      },
+      "correctAnswer": "D",
+      "translationJa": "私の入館証にはひびが入っているので、新しいものを申請しました。",
+      "explanationJa": "単数可算名詞badgeを形容詞newとともに受けるにはa new oneとします。",
+      "focus": "a＋形容詞＋one",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0318_Q16",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about carrying out a promised inspection.",
+      "choices": {
+        "A": "The contractor said it would inspect the roof and did one on Friday.",
+        "B": "The contractor said it would inspect the roof and did so on Friday.",
+        "C": "The contractor said it would inspect the roof and so did it on Friday.",
+        "D": "The contractor said it would inspect the roof and was so on Friday."
+      },
+      "correctAnswer": "B",
+      "translationJa": "請負業者は屋根を点検すると述べ、金曜日にそのとおり実施しました。",
+      "explanationJa": "inspect the roofという自らの行為を過去形did soで受ける文が文法・意味とも自然です。",
+      "focus": "約束・予定した行為を受けるdid so",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0318_Q17",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about two models of a scanner.",
+      "choices": {
+        "A": "The compact scanners use less power than the older one.",
+        "B": "The compact scanners use less power than older does.",
+        "C": "The compact scanners use less power than the older ones.",
+        "D": "The compact scanners use less power than the older it."
+      },
+      "correctAnswer": "C",
+      "translationJa": "小型スキャナーは旧型のものより消費電力が少ないです。",
+      "explanationJa": "比較対象はいずれも複数のscannersなので、older onesで複数を受ける必要があります。",
+      "focus": "比較対象の数とonesの一致",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0318_Q18",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about a routine completed by two departments.",
+      "choices": {
+        "A": "The finance team checks the totals, and the audit team does as well.",
+        "B": "The finance team checks the totals, and the audit team do as well.",
+        "C": "The finance team checks the totals, and the audit team is as well.",
+        "D": "The finance team checks the totals, and the audit team does them as well checks."
+      },
+      "correctAnswer": "A",
+      "translationJa": "財務チームが合計を確認し、監査チームも同様に確認します。",
+      "explanationJa": "単数集合名詞the audit teamに合わせてdoesを使い、前の動詞句checks the totalsを代用します。",
+      "focus": "三人称単数doesによる代用",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0318_Q19",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about choosing among several meeting rooms.",
+      "choices": {
+        "A": "Of the three rooms, the windowless ones is the quietest.",
+        "B": "Of the three rooms, the windowless so is the quietest.",
+        "C": "Of the three rooms, the windowless does the quietest.",
+        "D": "Of the three rooms, the windowless one is the quietest."
+      },
+      "correctAnswer": "D",
+      "translationJa": "3つの部屋のうち、窓のない部屋が最も静かです。",
+      "explanationJa": "三つのroomsから一室を特定するので、単数のoneと単数動詞isを用います。",
+      "focus": "複数候補から一つを指すone",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0318_Q20",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about complying with a written procedure.",
+      "choices": {
+        "A": "Staff members should sign the log before leaving, and most does.",
+        "B": "Staff members should sign the log before leaving, and most do.",
+        "C": "Staff members should sign the log before leaving, and most are it.",
+        "D": "Staff members should sign the log before leaving, and most ones."
+      },
+      "correctAnswer": "B",
+      "translationJa": "職員は退出前に記録簿へ署名することになっており、ほとんどの人がそうしています。",
+      "explanationJa": "mostは複数の職員を指し、前の動詞句sign the log before leavingを原形doで受けます。",
+      "focus": "複数主語doによる動詞句代用",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0318_Q21",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The blue folders are more durable than the red folders.\"",
+      "choices": {
+        "A": "The blue folder is more durable than every red one.",
+        "B": "The red folders are more durable than the blue ones.",
+        "C": "The blue folders and the red folders are equally durable.",
+        "D": "The blue folders are more durable than the red ones."
+      },
+      "correctAnswer": "D",
+      "translationJa": "青いフォルダーは赤いものより耐久性があります。",
+      "explanationJa": "the red onesは既出の複数名詞foldersをそのまま受け、元文の比較関係を保っています。",
+      "focus": "複数名詞をonesで言い換える",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0318_Q22",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The manager approved the refund, and the director approved it too.\"",
+      "choices": {
+        "A": "The manager approved the refund, but the director did not.",
+        "B": "The manager approved the refund, and the director did too.",
+        "C": "The director approved the manager instead of the refund.",
+        "D": "The manager and the director requested a different refund."
+      },
+      "correctAnswer": "B",
+      "translationJa": "部長が返金を承認し、役員も承認しました。",
+      "explanationJa": "did tooはapproved the refund tooを省略した形で、二人とも承認したという意味を保ちます。",
+      "focus": "did tooによる同一動作の言い換え",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0318_Q23",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"Please use the newer copier rather than the old copier.\"",
+      "choices": {
+        "A": "Please use both copiers because neither is old.",
+        "B": "Please replace the newer copier with several old ones.",
+        "C": "Please use the newer copier rather than the old one.",
+        "D": "Please avoid using the newer copier or the old one."
+      },
+      "correctAnswer": "C",
+      "translationJa": "古いコピー機ではなく、新しいほうを使ってください。",
+      "explanationJa": "the old oneは単数可算名詞copierを受け、rather thanの選択対比も元文どおりです。",
+      "focus": "単数名詞をoneで言い換える",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0318_Q24",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The technician was told to restart the router and restarted it.\"",
+      "choices": {
+        "A": "The technician was told to restart the router and did so.",
+        "B": "The technician restarted the router before receiving any instruction.",
+        "C": "The technician was told not to restart the router and complied.",
+        "D": "The router restarted the technician's computer automatically."
+      },
+      "correctAnswer": "A",
+      "translationJa": "技術者はルーターを再起動するよう言われ、そのとおり再起動しました。",
+      "explanationJa": "did soは前の動作restart the routerを受け、指示を実行したという因果と時系列を保ちます。",
+      "focus": "did soによる行為内容の保持",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0318_Q25",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"Our branch does not offer express service, but the airport branch offers express service.\"",
+      "choices": {
+        "A": "Neither branch offers express service.",
+        "B": "Our branch does not offer express service, but the airport branch does.",
+        "C": "Only our branch offers express service.",
+        "D": "The airport branch offers a service different from express delivery."
+      },
+      "correctAnswer": "B",
+      "translationJa": "当支店は速達サービスを提供していませんが、空港支店は提供しています。",
+      "explanationJa": "doesはoffers express serviceを代用し、二つの支店の対照を元文どおり表します。",
+      "focus": "対照構文でのdoes代用",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0318_Q26",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The leather seats are comfortable, but I prefer the fabric seats.\"",
+      "choices": {
+        "A": "I prefer leather seats because fabric seats are uncomfortable.",
+        "B": "I find both types of seats equally preferable.",
+        "C": "I prefer a single fabric seat to all leather furniture.",
+        "D": "The leather seats are comfortable, but I prefer the fabric ones."
+      },
+      "correctAnswer": "D",
+      "translationJa": "革張りの座席は快適ですが、私は布張りのもののほうを好みます。",
+      "explanationJa": "fabric onesが複数名詞seatsを受け、革と布の選好対比を変えずに反復だけを軽くしています。",
+      "focus": "形容詞＋onesで比較対象を保持",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0318_Q27",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"Mina completed the online course, and I completed it as well.\"",
+      "choices": {
+        "A": "Mina completed the online course, and I did as well.",
+        "B": "Mina completed the course on my behalf.",
+        "C": "I started the course, but Mina did not complete it.",
+        "D": "Neither Mina nor I took the online course."
+      },
+      "correctAnswer": "A",
+      "translationJa": "ミナがオンライン講座を修了し、私も修了しました。",
+      "explanationJa": "did as wellはcompleted the online course as wellを短くした形で、同じ行為を二人がしたことを示します。",
+      "focus": "did as wellの意味",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0318_Q28",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"If the supplier is asked to resend the documents, it will resend them.\"",
+      "choices": {
+        "A": "The supplier will resend the documents without being asked.",
+        "B": "The supplier has refused every request to resend the documents.",
+        "C": "If the supplier is asked to resend the documents, it will do so.",
+        "D": "The documents will ask the supplier for a different shipment."
+      },
+      "correctAnswer": "C",
+      "translationJa": "仕入先が書類を再送するよう求められれば、そのとおり再送します。",
+      "explanationJa": "will do soはwill resend the documentsを受け、条件が満たされた場合に同じ行為をする意味を保ちます。",
+      "focus": "条件節後のwill do so",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0318_Q29",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The first proposal was rejected, but the revised proposal was accepted.\"",
+      "choices": {
+        "A": "The first proposal was rejected, but the revised one was accepted.",
+        "B": "Both proposals were rejected without revision.",
+        "C": "The first proposal was accepted before it was revised.",
+        "D": "The revised proposals were all rejected."
+      },
+      "correctAnswer": "A",
+      "translationJa": "最初の提案は却下されましたが、改訂版は採用されました。",
+      "explanationJa": "the revised oneは既出の単数名詞proposalを受け、二つの提案の異なる結果を正確に保ちます。",
+      "focus": "受動態文でのone代用",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0318_Q30",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"Some employees work remotely on Fridays, and others work remotely on Fridays too.\"",
+      "choices": {
+        "A": "All employees are required to work in the office on Fridays.",
+        "B": "Only one employee works remotely during the week.",
+        "C": "Other employees work remotely on days other than Friday.",
+        "D": "Some employees work remotely on Fridays, and others do too."
+      },
+      "correctAnswer": "D",
+      "translationJa": "金曜日に在宅勤務をする従業員がおり、ほかの従業員もそうしています。",
+      "explanationJa": "do tooはwork remotely on Fridaysを代用し、othersも同じ習慣を持つことを表します。",
+      "focus": "現在形do tooによる習慣の代用",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0318_Q31",
+      "format": "context-completion",
+      "prompt": "Two styles of name tags are available. The magnetic ------- are recommended for employees who do not want pins in their clothing.",
+      "choices": {
+        "A": "one",
+        "B": "so",
+        "C": "ones",
+        "D": "does"
+      },
+      "correctAnswer": "C",
+      "translationJa": "名札は2種類あります。衣服にピンを刺したくない従業員には、磁石式のものが推奨されています。",
+      "explanationJa": "複数のname tagsのうちmagneticな種類を指すため、複数代用語onesを使います。",
+      "focus": "文脈内の複数名詞を受けるones",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0318_Q32",
+      "format": "context-completion",
+      "prompt": "The client requested that we encrypt the attached file. Our security specialist will ------- before sending it.",
+      "choices": {
+        "A": "do one",
+        "B": "do so",
+        "C": "does so",
+        "D": "be it"
+      },
+      "correctAnswer": "B",
+      "translationJa": "顧客は添付ファイルを暗号化するよう求めました。当社のセキュリティ担当者が送信前にそのとおり実施します。",
+      "explanationJa": "willの後に原形do soを置き、encrypt the attached fileという直前の依頼内容を受けます。",
+      "focus": "will do soと先行動作",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0318_Q33",
+      "format": "context-completion",
+      "prompt": "The standard desks are 120 centimeters wide. The narrower ------- fit better in the temporary office.",
+      "choices": {
+        "A": "one",
+        "B": "it",
+        "C": "so",
+        "D": "ones"
+      },
+      "correctAnswer": "D",
+      "translationJa": "標準の机は幅120センチです。より幅の狭いもののほうが仮設オフィスに適しています。",
+      "explanationJa": "desksは複数で、narrowerが複数の別モデルを説明しているためonesが必要です。",
+      "focus": "比較級＋複数ones",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0318_Q34",
+      "format": "context-completion",
+      "prompt": "Jared did not attend last month's orientation. He -------, however, complete the online version yesterday.",
+      "choices": {
+        "A": "did",
+        "B": "was",
+        "C": "one",
+        "D": "so"
+      },
+      "correctAnswer": "A",
+      "translationJa": "ジャレッドは先月のオリエンテーションには参加しませんでした。しかし昨日、オンライン版は修了しました。",
+      "explanationJa": "ここでdidは省略代用ではなく強調の助動詞で、後ろの原形completeと結びつき『実際に修了した』と対照を強めます。ページのdo系列の役割識別を問います。",
+      "focus": "強調のdidと代用didの識別",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0318_Q35",
+      "format": "context-completion",
+      "prompt": "The warehouse has two loading doors. Please use the eastern ------- while the other is being repaired.",
+      "choices": {
+        "A": "ones",
+        "B": "do",
+        "C": "one",
+        "D": "so"
+      },
+      "correctAnswer": "C",
+      "translationJa": "倉庫には搬入口が2つあります。もう一方を修理している間は東側のものを使用してください。",
+      "explanationJa": "二つのloading doorsのうち一つをeasternで特定しているため、単数のoneを使います。",
+      "focus": "二者の一方を表すone",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0318_Q36",
+      "format": "context-completion",
+      "prompt": "Every department was asked to nominate a safety representative. Most have already -------.",
+      "choices": {
+        "A": "done one",
+        "B": "done so",
+        "C": "did so tomorrow",
+        "D": "been it"
+      },
+      "correctAnswer": "B",
+      "translationJa": "各部署は安全担当者を推薦するよう求められました。大半の部署はすでにそのとおり実施済みです。",
+      "explanationJa": "現在完了have alreadyの後には過去分詞doneを置き、done soでnominate a representativeを受けます。",
+      "focus": "have done soの形",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0318_Q37",
+      "format": "context-completion",
+      "prompt": "Our current labels fade in direct sunlight. The laminated ------- should remain readable for several years.",
+      "choices": {
+        "A": "ones",
+        "B": "one",
+        "C": "does",
+        "D": "that"
+      },
+      "correctAnswer": "A",
+      "translationJa": "現在のラベルは直射日光で色あせます。ラミネート加工されたものなら数年間は読み取れる状態を保つはずです。",
+      "explanationJa": "複数名詞labelsをlaminatedで限定して受け、複数動詞should remainにつなぐためonesです。",
+      "focus": "複数主語としてのones",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0318_Q38",
+      "format": "context-completion",
+      "prompt": "The board asked the legal team to review the contract again. It agreed to ------- before Monday.",
+      "choices": {
+        "A": "do it contract",
+        "B": "does",
+        "C": "one",
+        "D": "do so"
+      },
+      "correctAnswer": "D",
+      "translationJa": "取締役会は法務チームに契約書を再確認するよう求めました。法務チームは月曜日までにそうすることへ同意しました。",
+      "explanationJa": "agree toのtoは不定詞なので原形doを用い、do soでreview the contract againを代用します。",
+      "focus": "agree to do so",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0318_Q39",
+      "format": "context-completion",
+      "prompt": "Both service counters can process returns. The upstairs ------- also handles international orders.",
+      "choices": {
+        "A": "ones",
+        "B": "one",
+        "C": "does",
+        "D": "so"
+      },
+      "correctAnswer": "B",
+      "translationJa": "どちらのサービスカウンターでも返品処理ができます。上階のカウンターでは海外注文も扱います。",
+      "explanationJa": "二つのservice countersのうちupstairsにある一つを指し、単数動詞handlesと対応するoneが正解です。",
+      "focus": "場所表現付き単数one",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0318_Q40",
+      "format": "context-completion",
+      "prompt": "Nora backs up the customer database every evening. Her colleague ------- whenever she is away.",
+      "choices": {
+        "A": "do",
+        "B": "is",
+        "C": "does",
+        "D": "one"
+      },
+      "correctAnswer": "C",
+      "translationJa": "ノラは毎晩顧客データベースをバックアップします。彼女が不在のときは同僚が代わりにそうします。",
+      "explanationJa": "三人称単数主語Her colleagueに合わせてdoesを使い、backs up the customer databaseを代用します。",
+      "focus": "現在形doesと文脈上の復元",
+      "difficulty": "intermediate"
+    }
+  ]
+}
