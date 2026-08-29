@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-29T05:34:52.062Z",
+  "updatedAt": "2026-08-29T05:36:15.400Z",
   "totalPages": 330,
-  "completedPages": 111,
+  "completedPages": 113,
   "questionsPerPage": 40,
   "totalPlannedQuestions": 13200,
   "pages": [
@@ -1106,9 +1106,9 @@
       "number": 138,
       "id": "grammar-master-0138",
       "title": "比較には3つのルート",
-      "status": "pending",
+      "status": "complete",
       "output": "question-sets/PAGE_0138.json",
-      "completedAt": null
+      "completedAt": "2026-08-29T05:36:14.699Z"
     },
     {
       "number": 139,
@@ -1922,9 +1922,9 @@
       "number": 240,
       "id": "grammar-master-0240",
       "title": "言われている・決まり・句動詞",
-      "status": "pending",
+      "status": "complete",
       "output": "question-sets/PAGE_0240.json",
-      "completedAt": null
+      "completedAt": "2026-08-29T05:36:15.400Z"
     },
     {
       "number": 241,

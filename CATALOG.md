@@ -163,7 +163,7 @@
 |---:|---|---|---|---|
 | 136 | upで満ちる、downで止まる | [PAGE_0136](pages/PAGE_0136.webp) | [原稿](source-prompts/PAGE_0136.txt) | `pending` |
 | 137 | outは外へ、offは離れる | [PAGE_0137](pages/PAGE_0137.webp) | [原稿](source-prompts/PAGE_0137.txt) | `pending` |
-| 138 | 比較には3つのルート | [PAGE_0138](pages/PAGE_0138.webp) | [原稿](source-prompts/PAGE_0138.txt) | `pending` |
+| 138 | 比較には3つのルート | [PAGE_0138](pages/PAGE_0138.webp) | [原稿](source-prompts/PAGE_0138.txt) | [40問](question-sets/PAGE_0138.json) |
 | 139 | as...asに程度を足す | [PAGE_0139](pages/PAGE_0139.webp) | [原稿](source-prompts/PAGE_0139.txt) | `pending` |
 | 140 | 比較対象を文まで広げる | [PAGE_0140](pages/PAGE_0140.webp) | [原稿](source-prompts/PAGE_0140.txt) | `pending` |
 | 141 | as-asを会話で使い切る | [PAGE_0141](pages/PAGE_0141.webp) | [原稿](source-prompts/PAGE_0141.txt) | `pending` |
@@ -280,7 +280,7 @@
 | 237 | 性質は能動形、前置詞はイメージで | [PAGE_0237](pages/PAGE_0237.webp) | [原稿](source-prompts/PAGE_0237.txt) | [40問](question-sets/PAGE_0237.json) |
 | 238 | 2つの目的語を受動文にする | [PAGE_0238](pages/PAGE_0238.webp) | [原稿](source-prompts/PAGE_0238.txt) | [40問](question-sets/PAGE_0238.json) |
 | 239 | 受動文のあとをtoで補う | [PAGE_0239](pages/PAGE_0239.webp) | [原稿](source-prompts/PAGE_0239.txt) | [40問](question-sets/PAGE_0239.json) |
-| 240 | 言われている・決まり・句動詞 | [PAGE_0240](pages/PAGE_0240.webp) | [原稿](source-prompts/PAGE_0240.txt) | `pending` |
+| 240 | 言われている・決まり・句動詞 | [PAGE_0240](pages/PAGE_0240.webp) | [原稿](source-prompts/PAGE_0240.txt) | [40問](question-sets/PAGE_0240.json) |
 | 241 | get＋過去分詞は状態の変化 | [PAGE_0241](pages/PAGE_0241.webp) | [原稿](source-prompts/PAGE_0241.txt) | `pending` |
 | 242 | 過去分詞は前で分類、後ろで説明 | [PAGE_0242](pages/PAGE_0242.webp) | [原稿](source-prompts/PAGE_0242.txt) | `pending` |
 | 243 | 過去分詞で背景を先に描く | [PAGE_0243](pages/PAGE_0243.webp) | [原稿](source-prompts/PAGE_0243.txt) | `pending` |
