@@ -1,0 +1,674 @@
+{
+  "schemaVersion": 1,
+  "page": {
+    "number": 88,
+    "id": "grammar-master-0088",
+    "title": "eachは一つずつ、noはゼロ",
+    "image": "pages/PAGE_0088.webp",
+    "sourcePrompt": "source-prompts/PAGE_0088.txt"
+  },
+  "analysis": {
+    "summaryJa": "eachは集合の構成員を一つずつ強く照らし、each＋単数名詞、複数主語の後ろ、文末の数量配分など複数の位置で働く。noは名詞の前で数量をゼロにし、不可算名詞・単数可算名詞・複数可算名詞のいずれにも付く。単数のnoは「一つとしてない」という強い響きを作れる。",
+    "grammarPoints": [
+      "each＋単数可算名詞＋単数動詞",
+      "複数主語の後ろのeach",
+      "数量・価格の後ろに置く文末each",
+      "no＋不可算／単数可算／複数可算名詞",
+      "no＋名詞とnot any＋名詞の対応"
+    ],
+    "visualEvidence": [
+      "三つの物を一つずつ照らすスポットライトがeachの個別性を示す",
+      "Each ticketとtickets ... eachの位置対比",
+      "ZEROの門がnoによる数量ゼロを示す",
+      "noの後ろに不可算・単数・複数を置ける表示"
+    ],
+    "commonTraps": [
+      "eachの後ろを複数形にする",
+      "each＋単数主語に複数動詞を使う",
+      "文末eachを全体合計の意味に誤解する",
+      "noとnotを重ねて二重否定にする"
+    ]
+  },
+  "questions": [
+    {
+      "id": "PAGE_0088_Q01",
+      "format": "part5-cloze",
+      "prompt": "------- reservation includes a confirmation number.",
+      "choices": {
+        "A": "All",
+        "B": "Many",
+        "C": "Each",
+        "D": "Both"
+      },
+      "correctAnswer": "C",
+      "translationJa": "各予約には確認番号が付いています。",
+      "explanationJa": "予約を一件ずつ見るeachの後ろは単数reservationで、動詞もincludesです。",
+      "focus": "each＋単数名詞・単数動詞",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0088_Q02",
+      "format": "part5-cloze",
+      "prompt": "The consultants ------- prepared a separate cost estimate.",
+      "choices": {
+        "A": "each",
+        "B": "every",
+        "C": "all of",
+        "D": "no"
+      },
+      "correctAnswer": "A",
+      "translationJa": "コンサルタントはそれぞれ別々の費用見積もりを作成しました。",
+      "explanationJa": "複数主語The consultantsの後ろにeachを置き、各人の個別行為を示します。",
+      "focus": "複数主語後のeach",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0088_Q03",
+      "format": "part5-cloze",
+      "prompt": "The storage bins hold twelve kilograms -------.",
+      "choices": {
+        "A": "all",
+        "B": "every",
+        "C": "no",
+        "D": "each"
+      },
+      "correctAnswer": "D",
+      "translationJa": "その保管容器はそれぞれ12キログラム入ります。",
+      "explanationJa": "文末eachは12 kilogramsが各容器ごとの容量だと示します。",
+      "focus": "数量＋each",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0088_Q04",
+      "format": "part5-cloze",
+      "prompt": "There is ------- information about parking on the invitation.",
+      "choices": {
+        "A": "none",
+        "B": "no",
+        "C": "not",
+        "D": "each"
+      },
+      "correctAnswer": "B",
+      "translationJa": "招待状には駐車場についての情報がまったくありません。",
+      "explanationJa": "noは名詞の前で不可算informationの量をゼロにします。",
+      "focus": "no＋不可算名詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0088_Q05",
+      "format": "part5-cloze",
+      "prompt": "------- employee has access to the sealed records.",
+      "choices": {
+        "A": "No",
+        "B": "None",
+        "C": "Not",
+        "D": "Each of"
+      },
+      "correctAnswer": "A",
+      "translationJa": "封印された記録にアクセスできる従業員は一人もいません。",
+      "explanationJa": "No employeeは単数を用いて「一人としていない」を強く表し、hasと一致します。",
+      "focus": "no＋単数名詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0088_Q06",
+      "format": "part5-cloze",
+      "prompt": "The inspection found ------- defects in the new cables.",
+      "choices": {
+        "A": "none",
+        "B": "not",
+        "C": "no",
+        "D": "each"
+      },
+      "correctAnswer": "C",
+      "translationJa": "検査では新しいケーブルに欠陥は一つも見つかりませんでした。",
+      "explanationJa": "複数名詞defectsの前にnoを置いて数量ゼロを表します。",
+      "focus": "no＋複数名詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0088_Q07",
+      "format": "part5-cloze",
+      "prompt": "We were given two meal vouchers -------.",
+      "choices": {
+        "A": "all",
+        "B": "each",
+        "C": "every",
+        "D": "no"
+      },
+      "correctAnswer": "B",
+      "translationJa": "私たちはそれぞれ食事券を2枚ずつ受け取りました。",
+      "explanationJa": "文末eachがtwo meal vouchersを一人当たりの配分として示します。",
+      "focus": "配分を表すeach",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0088_Q08",
+      "format": "part5-cloze",
+      "prompt": "------- of the two invoices requires a separate approval.",
+      "choices": {
+        "A": "Every",
+        "B": "All",
+        "C": "No",
+        "D": "Each"
+      },
+      "correctAnswer": "D",
+      "translationJa": "2通の請求書はそれぞれ別個の承認が必要です。",
+      "explanationJa": "特定集合the two invoicesの構成員を指すEach ofを使い、単数動詞requiresを続けます。",
+      "focus": "each of＋複数集合",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0088_Q09",
+      "format": "part5-cloze",
+      "prompt": "The device has ------- external switch, so it must be controlled remotely.",
+      "choices": {
+        "A": "none",
+        "B": "not",
+        "C": "no",
+        "D": "each"
+      },
+      "correctAnswer": "C",
+      "translationJa": "その装置には外部スイッチが一つもないため、遠隔操作が必要です。",
+      "explanationJa": "単数switchにnoを付け、一つとして存在しないことを強調します。",
+      "focus": "no＋単数可算名詞",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0088_Q10",
+      "format": "part5-cloze",
+      "prompt": "The directors ------- have their own secure login.",
+      "choices": {
+        "A": "each",
+        "B": "every",
+        "C": "no",
+        "D": "both of"
+      },
+      "correctAnswer": "A",
+      "translationJa": "取締役はそれぞれ個別の安全なログイン情報を持っています。",
+      "explanationJa": "複数主語の後ろのeachと所有表現their ownが個別性を対応させます。",
+      "focus": "主語後eachとtheir own",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0088_Q11",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about individual delivery fees.",
+      "choices": {
+        "A": "Each packages cost five dollars to ship.",
+        "B": "Each package costs five dollars to ship.",
+        "C": "Every of the packages costs five dollars to ship.",
+        "D": "Each package cost five dollars to ship."
+      },
+      "correctAnswer": "B",
+      "translationJa": "各荷物の送料は5ドルです。",
+      "explanationJa": "each＋単数packageには単数動詞costsを合わせます。",
+      "focus": "eachの数の一致",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0088_Q12",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence distributing folders individually.",
+      "choices": {
+        "A": "The trainees received each one folders.",
+        "B": "The trainees each received one folders.",
+        "C": "The trainee received one folder all.",
+        "D": "The trainees received one folder each."
+      },
+      "correctAnswer": "D",
+      "translationJa": "研修参加者はそれぞれフォルダーを1冊受け取りました。",
+      "explanationJa": "数量one folderの後ろのeachが一人当たりの配分を表します。",
+      "focus": "文末eachの配分",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0088_Q13",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence with each after a plural subject.",
+      "choices": {
+        "A": "The machines each have a separate power supply.",
+        "B": "The machines every have a separate power supply.",
+        "C": "The machines each has a separate power supply.",
+        "D": "Each machines have a separate power supply."
+      },
+      "correctAnswer": "A",
+      "translationJa": "機械はそれぞれ別々の電源を持っています。",
+      "explanationJa": "複数主語後のeachでは述語は主語machinesに一致してhaveです。",
+      "focus": "複数主語＋each＋複数動詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0088_Q14",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence denying any available space.",
+      "choices": {
+        "A": "There is none space left in the archive room.",
+        "B": "There is not no space left in the archive room.",
+        "C": "There is no space left in the archive room.",
+        "D": "There are no space left in the archive room."
+      },
+      "correctAnswer": "C",
+      "translationJa": "資料室には空きがまったくありません。",
+      "explanationJa": "不可算spaceの前にはnoを置き、There isと一致させます。",
+      "focus": "no＋不可算名詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0088_Q15",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence meaning not even one receipt exists.",
+      "choices": {
+        "A": "None receipt was attached to the claim.",
+        "B": "No receipts was attached to the claim.",
+        "C": "Not receipt was attached to the claim.",
+        "D": "No receipt was attached to the claim."
+      },
+      "correctAnswer": "D",
+      "translationJa": "申請には領収書が一枚も添付されていませんでした。",
+      "explanationJa": "no＋単数receiptは「一枚としてない」を強く表し、wasと一致します。",
+      "focus": "no＋単数の強調",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0088_Q16",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about zero customer complaints.",
+      "choices": {
+        "A": "None customers reported the error yesterday.",
+        "B": "No customers reported the error yesterday.",
+        "C": "No customer report the error yesterday.",
+        "D": "Not no customers reported the error yesterday."
+      },
+      "correctAnswer": "B",
+      "translationJa": "昨日、そのエラーを報告した顧客は一人もいませんでした。",
+      "explanationJa": "no＋複数customersで人数ゼロを表す自然な文です。",
+      "focus": "no＋複数名詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0088_Q17",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence selecting members of a known pair.",
+      "choices": {
+        "A": "Every of the two proposals has a clear advantage.",
+        "B": "Each of the two proposals have a clear advantage.",
+        "C": "Each of the two proposals has a clear advantage.",
+        "D": "Each the two proposals has a clear advantage."
+      },
+      "correctAnswer": "C",
+      "translationJa": "2つの提案にはそれぞれ明確な利点があります。",
+      "explanationJa": "each of＋特定複数集合は単数扱いでhasを取ります。",
+      "focus": "each ofの構文と一致",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0088_Q18",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence contrasting group and individual views.",
+      "choices": {
+        "A": "All the rooms share a hallway, but each room has its own lock.",
+        "B": "Every rooms share a hallway, but each rooms have its own lock.",
+        "C": "All room shares a hallway, but each room have its own lock.",
+        "D": "All the rooms shares a hallway, but every room have its own lock."
+      },
+      "correctAnswer": "A",
+      "translationJa": "全部屋は廊下を共有しますが、各部屋には個別の鍵があります。",
+      "explanationJa": "all＋複数で全体、each＋単数＋hasで個別を示します。",
+      "focus": "allとeachの対比",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0088_Q19",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about a device without a battery.",
+      "choices": {
+        "A": "The sensor has none battery and draws power from the cable.",
+        "B": "The sensor does not have no battery and draws power from the cable.",
+        "C": "The sensor has no batteries but exactly one is installed.",
+        "D": "The sensor has no battery and draws power from the cable."
+      },
+      "correctAnswer": "D",
+      "translationJa": "そのセンサーには電池がなく、ケーブルから電力を取ります。",
+      "explanationJa": "no＋単数batteryは一個も搭載されていないことを明確にします。",
+      "focus": "no＋単数名詞",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0088_Q20",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence assigning two tickets per person.",
+      "choices": {
+        "A": "Each guests were issued two tickets.",
+        "B": "The guests were issued two tickets each.",
+        "C": "The guests each was issued two tickets.",
+        "D": "Every guests were issued each two tickets."
+      },
+      "correctAnswer": "B",
+      "translationJa": "宿泊客にはそれぞれチケットが2枚発行されました。",
+      "explanationJa": "文末eachがtwo ticketsを各guestへの個別配分とします。",
+      "focus": "受動文と文末each",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0088_Q21",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"Each monitor has a serial number.\"",
+      "choices": {
+        "A": "The monitors share one serial number.",
+        "B": "No monitor has a serial number.",
+        "C": "Only one monitor has a serial number.",
+        "D": "Every monitor has its own serial number."
+      },
+      "correctAnswer": "D",
+      "translationJa": "各モニターにはそれぞれ固有の製造番号があります。",
+      "explanationJa": "eachは構成員を一つずつ見るためevery ... its ownと近い意味です。",
+      "focus": "eachとeveryの言い換え",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0088_Q22",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The samples weigh 20 grams each.\"",
+      "choices": {
+        "A": "All samples together weigh 20 grams.",
+        "B": "Every sample weighs 20 grams.",
+        "C": "No sample weighs 20 grams.",
+        "D": "One sample weighs as much as all the others combined."
+      },
+      "correctAnswer": "B",
+      "translationJa": "各サンプルの重さは20グラムです。",
+      "explanationJa": "文末eachは数量が各サンプルに個別に当てはまることを示します。",
+      "focus": "文末eachの意味",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0088_Q23",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"We each signed a copy.\"",
+      "choices": {
+        "A": "We signed only one shared signature.",
+        "B": "None of us signed a copy.",
+        "C": "Every one of us signed a copy.",
+        "D": "Only the speaker signed every copy."
+      },
+      "correctAnswer": "C",
+      "translationJa": "私たちは一人ひとり写しに署名しました。",
+      "explanationJa": "複数代名詞weの後ろのeachはevery one of usと言い換えられます。",
+      "focus": "代名詞後each",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0088_Q24",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"There is no traffic today.\"",
+      "choices": {
+        "A": "There is not any traffic today.",
+        "B": "There is heavy traffic today.",
+        "C": "Every vehicle is moving today.",
+        "D": "There is a little traffic today."
+      },
+      "correctAnswer": "A",
+      "translationJa": "今日は交通量がまったくありません。",
+      "explanationJa": "no＋不可算trafficはnot any trafficと同じゼロを表します。",
+      "focus": "noとnot anyの対応",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0088_Q25",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"No applicant was rejected.\"",
+      "choices": {
+        "A": "Every applicant was rejected.",
+        "B": "Not one applicant was rejected.",
+        "C": "Some applicants were rejected.",
+        "D": "Applicants rejected no company."
+      },
+      "correctAnswer": "B",
+      "translationJa": "不採用になった応募者は一人もいませんでした。",
+      "explanationJa": "no＋単数applicantはnot oneと同じく一人として該当しないことを強調します。",
+      "focus": "no＋単数の強調",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0088_Q26",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"No errors were found.\"",
+      "choices": {
+        "A": "Many errors were found.",
+        "B": "One error was definitely found.",
+        "C": "Every error found a reviewer.",
+        "D": "Not any errors were found."
+      },
+      "correctAnswer": "D",
+      "translationJa": "誤りは一つも見つかりませんでした。",
+      "explanationJa": "no errorsはnot any errorsと同じ数量ゼロを表します。",
+      "focus": "no＋複数の言い換え",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0088_Q27",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"Each of the reports is confidential.\"",
+      "choices": {
+        "A": "The reports are all confidential individually.",
+        "B": "Only the reports together are confidential.",
+        "C": "None of the reports is confidential.",
+        "D": "Every reports are confidential."
+      },
+      "correctAnswer": "A",
+      "translationJa": "報告書は一つ一つすべて機密です。",
+      "explanationJa": "each ofは特定集合の各構成員に性質が個別に当てはまることを示します。",
+      "focus": "each ofの個別全称",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0088_Q28",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The laptops cost $800 each.\"",
+      "choices": {
+        "A": "The combined price of all laptops is $800.",
+        "B": "No laptop costs $800.",
+        "C": "The price of every laptop is $800.",
+        "D": "Only one laptop has a price."
+      },
+      "correctAnswer": "C",
+      "translationJa": "ノートパソコンは一台800ドルです。",
+      "explanationJa": "文末eachにより$800が合計ではなく一台ごとの価格だと分かります。",
+      "focus": "単価を表すeach",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0088_Q29",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The reviewers each wrote a comment.\"",
+      "choices": {
+        "A": "Every reviewer wrote a comment of their own.",
+        "B": "The reviewers jointly wrote no comments.",
+        "C": "Only one reviewer wrote all comments.",
+        "D": "Each comment wrote a reviewer."
+      },
+      "correctAnswer": "A",
+      "translationJa": "審査担当者はそれぞれ自分のコメントを書きました。",
+      "explanationJa": "主語後eachは各reviewerの個別行為を示します。",
+      "focus": "eachと個別行為",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0088_Q30",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The room has no window.\"",
+      "choices": {
+        "A": "The room has several windows.",
+        "B": "The room has no curtains but has a window.",
+        "C": "Every window has a room.",
+        "D": "The room does not have even one window."
+      },
+      "correctAnswer": "D",
+      "translationJa": "その部屋には窓が一つもありません。",
+      "explanationJa": "no＋単数windowはeven oneもないという強いゼロを表します。",
+      "focus": "no＋単数とeven one",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0088_Q31",
+      "format": "context-completion",
+      "prompt": "The workshop uses individual tablets. ------- attendee receives a numbered device.",
+      "choices": {
+        "A": "All",
+        "B": "Many",
+        "C": "Each",
+        "D": "Both"
+      },
+      "correctAnswer": "C",
+      "translationJa": "研修では個別のタブレットを使います。参加者は一人ずつ番号付き端末を受け取ります。",
+      "explanationJa": "individualが一人ずつを示すためEach＋単数attendeeが適切です。",
+      "focus": "文脈上のeach",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0088_Q32",
+      "format": "context-completion",
+      "prompt": "Four vendors submitted bids. The vendors were given ten minutes ------- to present.",
+      "choices": {
+        "A": "all",
+        "B": "each",
+        "C": "every",
+        "D": "no"
+      },
+      "correctAnswer": "B",
+      "translationJa": "4社が入札しました。各社には発表時間が10分ずつ与えられました。",
+      "explanationJa": "ten minutesが各vendorへの配分であるため文末eachを使います。",
+      "focus": "時間配分のeach",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0088_Q33",
+      "format": "context-completion",
+      "prompt": "The office is closed for renovation. There are ------- employees working on site this week.",
+      "choices": {
+        "A": "none",
+        "B": "not",
+        "C": "each",
+        "D": "no"
+      },
+      "correctAnswer": "D",
+      "translationJa": "事務所は改装のため閉鎖中です。今週、現場で働いている従業員はいません。",
+      "explanationJa": "複数employeesの人数をゼロにするnoが自然です。",
+      "focus": "no＋複数名詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0088_Q34",
+      "format": "context-completion",
+      "prompt": "The digital service has replaced the paper process. There is ------- application form at the front desk.",
+      "choices": {
+        "A": "no",
+        "B": "none",
+        "C": "not",
+        "D": "each"
+      },
+      "correctAnswer": "A",
+      "translationJa": "デジタルサービスが紙の手続きを置き換えました。受付には申込用紙が一枚もありません。",
+      "explanationJa": "単数formにnoを付け、一枚としてないことを強調します。",
+      "focus": "no＋単数名詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0088_Q35",
+      "format": "context-completion",
+      "prompt": "The partners use separate accounts. They ------- receive a private monthly statement.",
+      "choices": {
+        "A": "every",
+        "B": "no",
+        "C": "each",
+        "D": "all of"
+      },
+      "correctAnswer": "C",
+      "translationJa": "提携先は別々の口座を使っています。それぞれ個別の月次明細を受け取ります。",
+      "explanationJa": "separateとprivateが個別性を示し、代名詞Theyの後ろにeachを置きます。",
+      "focus": "代名詞後のeach",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0088_Q36",
+      "format": "context-completion",
+      "prompt": "A network outage stopped the upload. We had ------- access to the shared drive for two hours.",
+      "choices": {
+        "A": "none",
+        "B": "no",
+        "C": "not",
+        "D": "each"
+      },
+      "correctAnswer": "B",
+      "translationJa": "ネットワーク障害でアップロードが止まりました。2時間、共有ドライブにはまったくアクセスできませんでした。",
+      "explanationJa": "不可算accessの量・可能性をゼロにするno accessが適切です。",
+      "focus": "no＋不可算access",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0088_Q37",
+      "format": "context-completion",
+      "prompt": "The two contracts cover different regions. ------- of the contracts must be filed separately.",
+      "choices": {
+        "A": "Each",
+        "B": "Every",
+        "C": "All",
+        "D": "No"
+      },
+      "correctAnswer": "A",
+      "translationJa": "2つの契約は異なる地域を対象にしています。それぞれ別々に保管する必要があります。",
+      "explanationJa": "特定の二契約を一つずつ示すEach of＋複数集合で、mustは形が変わりません。",
+      "focus": "each of＋特定集合",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0088_Q38",
+      "format": "context-completion",
+      "prompt": "The bottles are sold separately rather than as a pack. They cost three dollars -------.",
+      "choices": {
+        "A": "all",
+        "B": "every",
+        "C": "no",
+        "D": "each"
+      },
+      "correctAnswer": "D",
+      "translationJa": "ボトルはセットではなく別々に販売されます。一本3ドルです。",
+      "explanationJa": "separatelyの文脈からthree dollars eachが各一本の価格を示します。",
+      "focus": "個別価格のeach",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0088_Q39",
+      "format": "context-completion",
+      "prompt": "The emergency phone is decorative only. It has ------- working connection to the security desk.",
+      "choices": {
+        "A": "none",
+        "B": "no",
+        "C": "not",
+        "D": "each"
+      },
+      "correctAnswer": "B",
+      "translationJa": "その非常電話は装飾用にすぎません。警備室につながる回線は一つも機能していません。",
+      "explanationJa": "単数connectionにnoを付け、一つとしてない強いゼロを表します。",
+      "focus": "no＋単数の強い否定",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0088_Q40",
+      "format": "context-completion",
+      "prompt": "Quality control treats every unit independently. The inspectors ------- sign the unit they examine.",
+      "choices": {
+        "A": "every",
+        "B": "no",
+        "C": "each",
+        "D": "both of"
+      },
+      "correctAnswer": "C",
+      "translationJa": "品質管理では各製品を独立して扱います。検査員はそれぞれ自分が検査した製品に署名します。",
+      "explanationJa": "independentlyとthe unit they examineが各検査員の個別行為を示し、主語後にeachを置きます。",
+      "focus": "eachと個別対応",
+      "difficulty": "advanced"
+    }
+  ]
+}
