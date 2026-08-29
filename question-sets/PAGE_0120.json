@@ -1,0 +1,645 @@
+{
+  "schemaVersion": 1,
+  "page": {
+    "number": 120,
+    "id": "grammar-master-0120",
+    "title": "いつ？ どこで？ は文末へ",
+    "image": "pages/PAGE_0120.webp",
+    "sourcePrompt": "source-prompts/PAGE_0120.txt"
+  },
+  "analysis": {
+    "summaryJa": "このページは、動作が起きる場所と時を表す語句を、英語では原則として文末に置くことを扱う。両方を並べる場合は、動作に近い場所を先に、より広い時間の枠を後ろに置く『場所→時』が基本となる。また、yesterday・tomorrow、last・this・nextを伴う時間表現は前置詞を取らないこと、the day before yesterday／the day after tomorrow、曖昧さを避けるthis coming Saturdayも確認する。",
+    "grammarPoints": [
+      "時間・場所の副詞句は通常、主語・動詞・目的語の後ろに置く",
+      "場所と時を同時に置く場合は、原則として場所を先、時を後にする",
+      "yesterday・today・tomorrowは前置詞なしで時間副詞として使う",
+      "last・this・nextを伴うweek・month・曜日などには通常on・in・atを付けない",
+      "相対日付やnext Saturdayの曖昧さは、具体日付やthis coming Saturdayで解消できる"
+    ],
+    "visualEvidence": [
+      "文の後方に場所のピンと時計が並び、場所→時という基本順序を示している",
+      "カレンダー上の昨日・今日・明日の位置が、発話時点を基準とする時間副詞を示している",
+      "前々日と翌々日へ二つ移動する矢印が、the day before yesterdayとthe day after tomorrowを可視化している",
+      "土曜日の複数候補に注意記号が付き、next Saturdayの解釈が文脈で揺れることを示している"
+    ],
+    "commonTraps": [
+      "場所と時を並べる際に時を先に置き、不自然な情報順序にする",
+      "next Mondayやlast weekの前にon・inを付ける",
+      "yesterdayやtomorrowの前にonを付ける",
+      "here・thereなどの場所副詞に不要な前置詞を付ける",
+      "next Saturdayだけで日付を特定できると考え、読み手との解釈差を残す"
+    ]
+  },
+  "questions": [
+    {
+      "id": "PAGE_0120_Q01",
+      "format": "part5-cloze",
+      "prompt": "The orientation seminar will be held -------.",
+      "choices": {
+        "A": "tomorrow morning in Room 204",
+        "B": "in tomorrow morning Room 204",
+        "C": "in Room 204 tomorrow morning",
+        "D": "tomorrow in morning at Room 204"
+      },
+      "correctAnswer": "C",
+      "translationJa": "オリエンテーション研修は明日の朝、204号室で開かれます。",
+      "explanationJa": "場所と時を文末に並べる基本順序は、場所in Room 204の後に時tomorrow morningです。",
+      "focus": "文末の場所→時",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0120_Q02",
+      "format": "part5-cloze",
+      "prompt": "We received the revised insurance certificate -------.",
+      "choices": {"A": "yesterday", "B": "on yesterday", "C": "at yesterday", "D": "in yesterday"},
+      "correctAnswer": "A",
+      "translationJa": "私たちは昨日、改訂された保険証明書を受け取りました。",
+      "explanationJa": "yesterdayは前置詞を伴わず、受け取った時を文末で示します。",
+      "focus": "yesterdayと不要な前置詞",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0120_Q03",
+      "format": "part5-cloze",
+      "prompt": "A technician will inspect the backup generator -------.",
+      "choices": {
+        "A": "next Tuesday at the Osaka branch",
+        "B": "on next Tuesday in the Osaka branch",
+        "C": "at next Tuesday the Osaka branch",
+        "D": "at the Osaka branch next Tuesday"
+      },
+      "correctAnswer": "D",
+      "translationJa": "技術者が次の火曜日に大阪支店で非常用発電機を点検します。",
+      "explanationJa": "場所at the Osaka branchを時next Tuesdayより先に置きます。next Tuesdayの前にonは不要です。",
+      "focus": "場所→next＋曜日",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0120_Q04",
+      "format": "part5-cloze",
+      "prompt": "The temporary store opens ------- and will operate for six weeks.",
+      "choices": {"A": "on next Monday", "B": "next Monday", "C": "in next Monday", "D": "at next Monday"},
+      "correctAnswer": "B",
+      "translationJa": "仮設店舗は次の月曜日に開店し、6週間営業します。",
+      "explanationJa": "next Mondayはそれだけで時間副詞句になるため、onを付けません。",
+      "focus": "next Mondayの前置詞省略",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0120_Q05",
+      "format": "part5-cloze",
+      "prompt": "The courier delivered the replacement samples -------.",
+      "choices": {
+        "A": "to our laboratory this afternoon",
+        "B": "this afternoon to our laboratory",
+        "C": "at this afternoon our laboratory",
+        "D": "to this afternoon in our laboratory"
+      },
+      "correctAnswer": "A",
+      "translationJa": "配達員は今日の午後、交換用サンプルを私たちの研究所へ届けました。",
+      "explanationJa": "届け先to our laboratoryが動詞に近く、その後ろに時間this afternoonを置くのが自然です。",
+      "focus": "移動先→時間の順序",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0120_Q06",
+      "format": "part5-cloze",
+      "prompt": "The charity auction took place -------.",
+      "choices": {
+        "A": "last night at the main auditorium",
+        "B": "in last night the main auditorium",
+        "C": "in the main auditorium last night",
+        "D": "at the main auditorium on last night"
+      },
+      "correctAnswer": "C",
+      "translationJa": "慈善オークションは昨夜、メイン講堂で行われました。",
+      "explanationJa": "場所in the main auditoriumの後に時last nightを置きます。last nightの前にonは付けません。",
+      "focus": "場所→last night",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0120_Q07",
+      "format": "part5-cloze",
+      "prompt": "Please return ------- so that we can finish the identity check.",
+      "choices": {
+        "A": "tomorrow at here",
+        "B": "here tomorrow",
+        "C": "on tomorrow here",
+        "D": "tomorrow to here"
+      },
+      "correctAnswer": "B",
+      "translationJa": "本人確認を完了できるよう、明日ここへ戻ってきてください。",
+      "explanationJa": "場所副詞hereを先に、時間副詞tomorrowを後ろに置きます。どちらにも前置詞は不要です。",
+      "focus": "here→tomorrow",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0120_Q08",
+      "format": "part5-cloze",
+      "prompt": "To avoid any confusion about the date, the chairperson scheduled the vote for -------.",
+      "choices": {
+        "A": "Saturday next",
+        "B": "the next of Saturday",
+        "C": "on next Saturday coming",
+        "D": "this coming Saturday"
+      },
+      "correctAnswer": "D",
+      "translationJa": "日付の混乱を避けるため、議長は投票を今度の土曜日に設定しました。",
+      "explanationJa": "this coming Saturdayは直近に来る土曜日を明示し、next Saturdayの解釈の揺れを避けられます。",
+      "focus": "曖昧さを避けるthis coming Saturday",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0120_Q09",
+      "format": "part5-cloze",
+      "prompt": "The replacement filter arrived -------, two days earlier than expected.",
+      "choices": {"A": "the day before yesterday", "B": "before the yesterday day", "C": "the yesterday before day", "D": "on day before yesterday"},
+      "correctAnswer": "A",
+      "translationJa": "交換用フィルターは一昨日、予定より2日早く到着しました。",
+      "explanationJa": "the day before yesterdayが『一昨日』を表す固定表現です。文末の時間副詞句として前置詞なしで使います。",
+      "focus": "the day before yesterday",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0120_Q10",
+      "format": "part5-cloze",
+      "prompt": "If the final safety check is successful, the north wing will reopen -------.",
+      "choices": {"A": "after tomorrow day", "B": "the day after tomorrow", "C": "tomorrow after the day", "D": "on the tomorrow after day"},
+      "correctAnswer": "B",
+      "translationJa": "最終安全点検に合格すれば、北棟は明後日再開します。",
+      "explanationJa": "『明後日』はthe day after tomorrowです。ひとまとまりの時間表現として文末に置きます。",
+      "focus": "the day after tomorrow",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0120_Q11",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence announcing the start of training.",
+      "choices": {
+        "A": "The training session tomorrow starts.",
+        "B": "The training session starts tomorrow.",
+        "C": "The training session starts on tomorrow.",
+        "D": "Tomorrow the training session starts at."
+      },
+      "correctAnswer": "B",
+      "translationJa": "研修は明日始まります。",
+      "explanationJa": "時間副詞tomorrowは通常、動詞と必要な要素の後ろ、つまり文末に置きます。onは不要です。",
+      "focus": "文末のtomorrow",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0120_Q12",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about where and when delegates met.",
+      "choices": {
+        "A": "The delegates met last evening at the downtown hotel.",
+        "B": "The delegates met in last evening the downtown hotel.",
+        "C": "The delegates last evening met at downtown hotel.",
+        "D": "The delegates met at the downtown hotel last evening."
+      },
+      "correctAnswer": "D",
+      "translationJa": "代表者たちは昨晩、中心街のホテルで会いました。",
+      "explanationJa": "会った場所at the downtown hotelを先に、時last eveningを後ろに置きます。",
+      "focus": "場所→時の標準語順",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0120_Q13",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about moving archived files.",
+      "choices": {
+        "A": "We will move the archived files upstairs this afternoon.",
+        "B": "We will move this afternoon the archived files at upstairs.",
+        "C": "We upstairs will move the archived files on this afternoon.",
+        "D": "We will move the archived files to upstairs this afternoon."
+      },
+      "correctAnswer": "A",
+      "translationJa": "私たちは今日の午後、保管ファイルを上の階へ移します。",
+      "explanationJa": "場所副詞upstairsの後に時間this afternoonを置きます。upstairsの前にtoは不要です。",
+      "focus": "upstairs→this afternoon",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0120_Q14",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about completed factory repairs.",
+      "choices": {
+        "A": "The repairs were last week completed at the factory.",
+        "B": "The repairs were completed last week at factory.",
+        "C": "The repairs were completed at the factory last week.",
+        "D": "The repairs at last week were completed the factory."
+      },
+      "correctAnswer": "C",
+      "translationJa": "修理は先週、工場で完了しました。",
+      "explanationJa": "受動態の動詞句were completedの後に場所at the factory、時last weekを並べます。",
+      "focus": "受動文末の場所→時",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0120_Q15",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about a manager's future visit.",
+      "choices": {
+        "A": "The manager will visit next Thursday our Nagoya office.",
+        "B": "The manager will visit our Nagoya office next Thursday.",
+        "C": "The manager will visit our Nagoya office on next Thursday.",
+        "D": "Next Thursday the manager will visit at our Nagoya office."
+      },
+      "correctAnswer": "B",
+      "translationJa": "部長は次の木曜日に名古屋事務所を訪問します。",
+      "explanationJa": "目的語our Nagoya officeの後に時間next Thursdayを置きます。visitは他動詞なのでofficeの前にatは不要です。",
+      "focus": "目的語の後ろのnext＋曜日",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0120_Q16",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about a package's arrival.",
+      "choices": {
+        "A": "The package arrived yesterday morning to here.",
+        "B": "The package at here arrived on yesterday morning.",
+        "C": "The package arrived here yesterday morning.",
+        "D": "The package here yesterday morning was arrive."
+      },
+      "correctAnswer": "C",
+      "translationJa": "荷物は昨日の朝ここに到着しました。",
+      "explanationJa": "場所hereを時間yesterday morningより前に置き、どちらにも不要な前置詞を付けません。",
+      "focus": "here→yesterday morning",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0120_Q17",
+      "format": "correct-sentence",
+      "prompt": "Choose the clearest sentence when the exact upcoming Saturday matters.",
+      "choices": {
+        "A": "Let us meet in Saturday that comes.",
+        "B": "Let us meet Saturday of next.",
+        "C": "Let us meet at the coming of Saturday.",
+        "D": "Let us meet this coming Saturday."
+      },
+      "correctAnswer": "D",
+      "translationJa": "今度の土曜日に会いましょう。",
+      "explanationJa": "this coming Saturdayは直近の土曜日を明確に指定します。日付解釈が重要な連絡ではnext Saturdayだけより安全です。",
+      "focus": "直近の曜日を明示する表現",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0120_Q18",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about a team's return from a business trip.",
+      "choices": {
+        "A": "The team returned from Seoul the day before yesterday.",
+        "B": "The team the day before yesterday returned Seoul from.",
+        "C": "The team returned the day before yesterday from at Seoul.",
+        "D": "The team returned from Seoul on the day before yesterday."
+      },
+      "correctAnswer": "A",
+      "translationJa": "チームは一昨日ソウルから戻りました。",
+      "explanationJa": "起点from Seoulの後ろに時間the day before yesterdayを置きます。この相対日付表現には通常onを付けません。",
+      "focus": "起点→相対日付",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0120_Q19",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence with a natural order for place and two time expressions.",
+      "choices": {
+        "A": "The inspection will take place tomorrow morning at 8:30 in Building C.",
+        "B": "The inspection in tomorrow morning will take place Building C at 8:30.",
+        "C": "The inspection will take place in Building C at 8:30 tomorrow morning.",
+        "D": "The inspection will in Building C tomorrow take place morning at 8:30."
+      },
+      "correctAnswer": "C",
+      "translationJa": "検査は明日の朝8時30分にC棟で行われます。",
+      "explanationJa": "場所in Building Cを先に置き、時間内ではより具体的なat 8:30から広いtomorrow morningへ並べます。",
+      "focus": "場所→具体時刻→広い時間",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0120_Q20",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence with a natural order for an installation location and time.",
+      "choices": {
+        "A": "The supplier installed late last night the equipment on site.",
+        "B": "The supplier installed the equipment on site late last night.",
+        "C": "The supplier on site installed late the equipment last night.",
+        "D": "The supplier installed on late last night the equipment site."
+      },
+      "correctAnswer": "B",
+      "translationJa": "仕入先は昨夜遅く、現場で装置を設置しました。",
+      "explanationJa": "目的語the equipmentの後に場所on site、その後に時late last nightを置きます。",
+      "focus": "目的語→場所→時",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0120_Q21",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The workshop will be held in Kyoto next month.\"",
+      "choices": {
+        "A": "The workshop will move from Kyoto after one month.",
+        "B": "Kyoto will host a workshop every month.",
+        "C": "The workshop was held in Kyoto last month.",
+        "D": "Next month's workshop is scheduled to take place in Kyoto."
+      },
+      "correctAnswer": "D",
+      "translationJa": "来月の研修会は京都で開催される予定です。",
+      "explanationJa": "元文の場所in Kyotoと時next monthを、Next month's workshopとtake place in Kyotoに組み替えて同じ内容を表しています。",
+      "focus": "場所・時情報を保つ言い換え",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0120_Q22",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"We sent the corrected invoice yesterday.\"",
+      "choices": {
+        "A": "We will correct the invoice tomorrow.",
+        "B": "The corrected invoice was sent on the previous day.",
+        "C": "Yesterday's invoice still needs correction.",
+        "D": "We send corrected invoices every day."
+      },
+      "correctAnswer": "B",
+      "translationJa": "訂正済み請求書は前日に送付されました。",
+      "explanationJa": "yesterdayは発話時点から見たprevious dayです。能動・受動を変えても送付時点は同じです。",
+      "focus": "yesterdayとthe previous day",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0120_Q23",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The courier will come here tomorrow.\"",
+      "choices": {
+        "A": "The courier came from this location yesterday.",
+        "B": "The courier will leave this location today.",
+        "C": "The courier will arrive at this location the following day.",
+        "D": "The courier comes to this location every morning."
+      },
+      "correctAnswer": "C",
+      "translationJa": "配達員は翌日この場所に到着します。",
+      "explanationJa": "hereはthis location、tomorrowはthe following dayに対応します。場所と時の両情報が保たれています。",
+      "focus": "here・tomorrowの具体化",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0120_Q24",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The maintenance team will return tomorrow.\"",
+      "choices": {
+        "A": "The maintenance team will come back the following day.",
+        "B": "The maintenance team returned one day ago.",
+        "C": "The maintenance team returns every day.",
+        "D": "The maintenance team will stay until tomorrow."
+      },
+      "correctAnswer": "A",
+      "translationJa": "保守チームは翌日に戻ってきます。",
+      "explanationJa": "tomorrowをthe following day、returnをcome backで言い換えています。",
+      "focus": "tomorrowの基準時点による言い換え",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0120_Q25",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The consultants arrived at the airport last night.\"",
+      "choices": {
+        "A": "The consultants left the airport this morning.",
+        "B": "The consultants arrived near the airport every evening.",
+        "C": "The airport received a consultation yesterday afternoon.",
+        "D": "The consultants reached the airport during the previous evening."
+      },
+      "correctAnswer": "D",
+      "translationJa": "コンサルタントたちは前日の晩に空港へ到着しました。",
+      "explanationJa": "at the airportという到着場所とlast nightという時間を、reached the airportとthe previous eveningで保持しています。",
+      "focus": "場所・last nightの言い換え",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0120_Q26",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The customer survey begins the day after tomorrow.\"",
+      "choices": {
+        "A": "The survey began two days ago.",
+        "B": "The survey will continue until tomorrow.",
+        "C": "The survey is scheduled to start two days from now.",
+        "D": "The survey starts every other day."
+      },
+      "correctAnswer": "C",
+      "translationJa": "顧客調査は今から2日後に開始予定です。",
+      "explanationJa": "the day after tomorrowは発話時点からtwo days from nowです。",
+      "focus": "明後日の時間関係",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0120_Q27",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The briefing took place in Room A this morning.\"",
+      "choices": {
+        "A": "Room A will be briefed tomorrow morning.",
+        "B": "This morning's briefing was held in Room A.",
+        "C": "The briefing moved from Room A at noon.",
+        "D": "A briefing is held in Room A every morning."
+      },
+      "correctAnswer": "B",
+      "translationJa": "今朝の説明会はA室で行われました。",
+      "explanationJa": "this morningを名詞briefingの限定表現に変え、場所in Room Aをwas heldの後ろに保っています。",
+      "focus": "文末時間表現の名詞句化",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0120_Q28",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"Let us review the contract this coming Saturday.\"",
+      "choices": {
+        "A": "Let us review the contract on any Saturday next month.",
+        "B": "The contract review took place last Saturday.",
+        "C": "Let us postpone the review until after Saturday.",
+        "D": "Let us review the contract on the Saturday that is about to occur."
+      },
+      "correctAnswer": "D",
+      "translationJa": "間近に来る土曜日に契約書を確認しましょう。",
+      "explanationJa": "this coming Saturdayは、現在から最も近い今度の土曜日を明確に指します。",
+      "focus": "this coming Saturdayの明示性",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0120_Q29",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The engineers worked on site until midnight yesterday.\"",
+      "choices": {
+        "A": "The engineers arrived at the site at midnight today.",
+        "B": "The engineers worked remotely throughout yesterday.",
+        "C": "On the previous day, the engineers remained at the work location up to midnight.",
+        "D": "The engineers will work on the site until midnight tomorrow."
+      },
+      "correctAnswer": "C",
+      "translationJa": "前日、技術者たちは深夜まで現場で作業を続けました。",
+      "explanationJa": "on siteがwork location、until midnightが終了時点、yesterdayがprevious dayに対応し、全時間・場所情報を保持しています。",
+      "focus": "複数の場所・時間情報の保持",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0120_Q30",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The product samples are downstairs now.\"",
+      "choices": {
+        "A": "At present, the product samples are on a lower floor.",
+        "B": "The samples will be taken downstairs later.",
+        "C": "The products are being sampled on the stairs.",
+        "D": "The downstairs samples are no longer available."
+      },
+      "correctAnswer": "A",
+      "translationJa": "現在、商品サンプルは下の階にあります。",
+      "explanationJa": "downstairsはon a lower floor、nowはat presentに対応します。",
+      "focus": "場所副詞と現在時の言い換え",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0120_Q31",
+      "format": "context-completion",
+      "prompt": "The identity-check system will be offline tonight. Please come ------- so that we can activate your access card after service resumes.",
+      "choices": {
+        "A": "to our office tomorrow",
+        "B": "tomorrow to our office",
+        "C": "on tomorrow at our office",
+        "D": "to tomorrow our office"
+      },
+      "correctAnswer": "A",
+      "translationJa": "本人確認システムは今夜停止します。サービス再開後に入館カードを有効化できるよう、明日私たちの事務所へ来てください。",
+      "explanationJa": "移動先to our officeを時間tomorrowより先に置きます。",
+      "focus": "文脈上の移動先→時",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0120_Q32",
+      "format": "context-completion",
+      "prompt": "According to the itinerary, the sales delegation will spend May 12 meeting distributors in Osaka. The team will be -------.",
+      "choices": {
+        "A": "on May 12 in Osaka",
+        "B": "at Osaka May in 12",
+        "C": "in May 12 at Osaka",
+        "D": "in Osaka on May 12"
+      },
+      "correctAnswer": "D",
+      "translationJa": "旅程によると、営業代表団は5月12日に大阪で販売業者と面会します。チームは5月12日に大阪にいます。",
+      "explanationJa": "場所in Osakaを日付on May 12より前に置きます。具体日付にはonが必要です。",
+      "focus": "場所→具体日付",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0120_Q33",
+      "format": "context-completion",
+      "prompt": "The courier called this morning to confirm that the signed document had reached the main office one day earlier. It arrived -------.",
+      "choices": {
+        "A": "yesterday at headquarters",
+        "B": "at headquarters yesterday",
+        "C": "on yesterday headquarters",
+        "D": "headquarters in yesterday"
+      },
+      "correctAnswer": "B",
+      "translationJa": "配達員は今朝、署名済み書類が前日に本社へ届いたことを確認する電話をしました。それは昨日、本社に到着しました。",
+      "explanationJa": "場所at headquartersを先に、時yesterdayを後ろに置きます。",
+      "focus": "文脈から場所→yesterdayを選ぶ",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0120_Q34",
+      "format": "context-completion",
+      "prompt": "Renovation of our auditorium will not finish in time, so the awards event has been moved. It will take place -------.",
+      "choices": {
+        "A": "next week at civic hall",
+        "B": "in next week the civic hall",
+        "C": "at the civic hall next week",
+        "D": "at next week in the civic hall"
+      },
+      "correctAnswer": "C",
+      "translationJa": "講堂の改修が間に合わないため、表彰行事は会場を変更しました。それは来週、市民会館で行われます。",
+      "explanationJa": "変更後の場所at the civic hallを先に、時next weekを後ろに置きます。next weekにinは不要です。",
+      "focus": "場所→next week",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0120_Q35",
+      "format": "context-completion",
+      "prompt": "Tracking records show that the package reached the Tokyo terminal at 8:10 on Monday morning. It was scanned -------.",
+      "choices": {
+        "A": "at the Tokyo terminal on Monday morning",
+        "B": "on Monday morning at the Tokyo terminal",
+        "C": "at Monday morning the Tokyo terminal",
+        "D": "the Tokyo terminal in Monday morning"
+      },
+      "correctAnswer": "A",
+      "translationJa": "追跡記録では、荷物は月曜日の午前8時10分に東京ターミナルへ到着しました。月曜日の朝に東京ターミナルで読み取られました。",
+      "explanationJa": "スキャン場所at the Tokyo terminalを先に、日付時間on Monday morningを後ろに置きます。",
+      "focus": "具体場所→on＋曜日時間",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0120_Q36",
+      "format": "context-completion",
+      "prompt": "The invitation is being sent on Friday, and the organizers mean the immediately upcoming Saturday, not the one a week later. It should say the reception is -------.",
+      "choices": {
+        "A": "on Saturday next one",
+        "B": "the Saturday next",
+        "C": "at next Saturday",
+        "D": "this coming Saturday"
+      },
+      "correctAnswer": "D",
+      "translationJa": "招待状は金曜日に送られ、主催者が意味するのは1週間後ではなく、すぐ次に来る土曜日です。懇親会は『今度の土曜日』と記すべきです。",
+      "explanationJa": "文脈で直近の土曜日を確実に示すにはthis coming Saturdayが最も明確です。",
+      "focus": "業務連絡での日付曖昧性の解消",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0120_Q37",
+      "format": "context-completion",
+      "prompt": "Today is Monday, and the laboratory needs two full days to recalibrate the sensor. Testing can resume -------.",
+      "choices": {"A": "yesterday", "B": "tomorrow", "C": "the day after tomorrow", "D": "the day before yesterday"},
+      "correctAnswer": "C",
+      "translationJa": "今日は月曜日で、研究所がセンサーを再調整するには丸2日必要です。試験は明後日に再開できます。",
+      "explanationJa": "月曜日から2日後は水曜日、つまりthe day after tomorrowです。",
+      "focus": "基準日から明後日を判断する",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0120_Q38",
+      "format": "context-completion",
+      "prompt": "The client asked for both the room and the exact start time in the confirmation message. Please write: \"The review will begin -------.\"",
+      "choices": {
+        "A": "in Conference Room B at 2 p.m. tomorrow",
+        "B": "tomorrow at 2 p.m. in Conference Room B",
+        "C": "at tomorrow in Conference Room B 2 p.m.",
+        "D": "at 2 p.m. tomorrow Conference Room B in"
+      },
+      "correctAnswer": "A",
+      "translationJa": "顧客は確認メッセージに部屋と正確な開始時刻の両方を求めました。『確認会は明日午後2時にB会議室で始まります』と書いてください。",
+      "explanationJa": "場所in Conference Room B、具体時刻at 2 p.m.、広い時tomorrowの順が自然です。",
+      "focus": "場所→具体時刻→日",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0120_Q39",
+      "format": "context-completion",
+      "prompt": "The travel report was filed today, and it says the audit team returned two days ago. The team came back -------.",
+      "choices": {"A": "tomorrow", "B": "the day after tomorrow", "C": "yesterday", "D": "the day before yesterday"},
+      "correctAnswer": "D",
+      "translationJa": "出張報告書は今日提出され、監査チームが2日前に戻ったと記されています。チームは一昨日戻りました。",
+      "explanationJa": "todayを基準にtwo days agoはthe day before yesterdayです。",
+      "focus": "two days agoと一昨日の対応",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0120_Q40",
+      "format": "context-completion",
+      "prompt": "The lobby is being cleaned, and the doors will remain locked until noon. Visitors should wait -------.",
+      "choices": {
+        "A": "until noon today at outside",
+        "B": "outside until noon today",
+        "C": "today until noon to outside",
+        "D": "at today outside noon"
+      },
+      "correctAnswer": "B",
+      "translationJa": "ロビーは清掃中で、扉は正午まで施錠されます。来訪者は今日の正午まで外で待ってください。",
+      "explanationJa": "場所outsideを先に、終了時点until noonと広い時間todayを後ろに置きます。outsideにatは不要です。",
+      "focus": "場所→終了時点→日",
+      "difficulty": "intermediate"
+    }
+  ]
+}
