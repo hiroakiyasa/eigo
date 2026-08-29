@@ -1,0 +1,478 @@
+{
+  "schemaVersion": 1,
+  "page": {
+    "number": 305,
+    "id": "grammar-master-0305",
+    "title": "orは選択肢を開く",
+    "image": "pages/PAGE_0305.webp",
+    "sourcePrompt": "source-prompts/PAGE_0305.txt"
+  },
+  "analysis": {
+    "summaryJa": "このページは、orを単なる『または』ではなく、二つ以上の道を開く分岐として捉える。名詞・句・文の選択、選択疑問、近接する数による概数、命令文の後で『そうしなければ』を示す警告、さらにor elseで悪い別結果を強める働きを、分岐路と警告ルートの図から整理して出題する。",
+    "grammarPoints": [
+      "A or Bで代替可能な選択肢を並べること",
+      "選択疑問文で候補のどちらかを尋ねること",
+      "one or twoなど近接する数で概数を表すこと",
+      "命令文＋orで『従わなければ』という否定条件を含ませること",
+      "or elseで望ましくない別結果をより強く警告すること",
+      "either A or Bでは並列と主語動詞一致にも注意すること"
+    ],
+    "visualEvidence": [
+      "中央のOR分岐路がAとBを別ルートとして示している",
+      "数の周囲に幅を持たせた表示がone or two型の概数を表している",
+      "命令から赤い警告ルートへ進む矢印が『しなければ悪い結果』を示している",
+      "OR ELSEと書かれた強調ルートが通常のorより強い警告を表している",
+      "二色の候補を比べる図が選択疑問文の働きを示している"
+    ],
+    "commonTraps": [
+      "orをandと取り違えて両方を意味させる",
+      "one or twoを厳密な二者択一だと解釈する",
+      "命令文＋orの後半を単なる追加情報と読む",
+      "or elseの強い警告を弱い代替案と読む",
+      "orの前後で動詞形や句の形をそろえない",
+      "either ... orで近い主語との一致を誤る"
+    ]
+  },
+  "questions": [
+    {
+      "id": "PAGE_0305_Q01",
+      "format": "part5-cloze",
+      "prompt": "Employees may submit the travel form online ------- deliver a printed copy to reception.",
+      "choices": {"A": "and", "B": "but", "C": "or", "D": "so"},
+      "correctAnswer": "C",
+      "translationJa": "従業員は出張申請書をオンラインで提出するか、印刷したものを受付へ届けることができます。",
+      "explanationJa": "onlineで提出する方法と印刷物を届ける方法という二つの選択肢を並べるため、orが適切です。",
+      "focus": "orによる二者択一",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0305_Q02",
+      "format": "part5-cloze",
+      "prompt": "Would you prefer the 9:00 workshop ------- the 2:00 workshop?",
+      "choices": {"A": "or", "B": "and", "C": "because", "D": "unless"},
+      "correctAnswer": "A",
+      "translationJa": "午前9時の研修と午後2時の研修のどちらをご希望ですか。",
+      "explanationJa": "二つの時間帯から一方を選んでもらう選択疑問文なのでorを用います。",
+      "focus": "選択疑問文のor",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0305_Q03",
+      "format": "part5-cloze",
+      "prompt": "The technician expects the software update to take an hour ------- two.",
+      "choices": {"A": "and", "B": "but", "C": "for", "D": "or"},
+      "correctAnswer": "D",
+      "translationJa": "技術者はソフトウェアの更新に1、2時間ほどかかると見込んでいます。",
+      "explanationJa": "one or twoは厳密な二者択一ではなく『1、2ほど』というおおよその幅を表します。",
+      "focus": "数のおおよその範囲",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0305_Q04",
+      "format": "part5-cloze",
+      "prompt": "Back up the customer database now, ------- recent records could be lost.",
+      "choices": {"A": "and", "B": "or", "C": "because", "D": "although"},
+      "correctAnswer": "B",
+      "translationJa": "顧客データベースを今すぐバックアップしてください。さもないと最近の記録が失われる恐れがあります。",
+      "explanationJa": "命令文の後のorは『そうしなければ』を表し、命令に従わない場合の望ましくない結果を導きます。",
+      "focus": "命令文＋or",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0305_Q05",
+      "format": "part5-cloze",
+      "prompt": "Return the access card by Friday, ------- your building privileges will be suspended.",
+      "choices": {"A": "or else", "B": "as well", "C": "even though", "D": "for example"},
+      "correctAnswer": "A",
+      "translationJa": "金曜日までに入館カードを返却してください。さもなければ入館権限が停止されます。",
+      "explanationJa": "or elseは単なるorよりも警告を強くし、従わない場合の別結果を明示します。",
+      "focus": "警告を強めるor else",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0305_Q06",
+      "format": "part5-cloze",
+      "prompt": "The courier can leave the parcel with Ms. Ito ------- Mr. Grant.",
+      "choices": {"A": "yet", "B": "therefore", "C": "or", "D": "while"},
+      "correctAnswer": "C",
+      "translationJa": "配達員は荷物を伊藤さんかグラントさんのどちらかに預けられます。",
+      "explanationJa": "二人の受取人を代替可能な候補として並べるためorが必要です。",
+      "focus": "名詞句を結ぶor",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0305_Q07",
+      "format": "part5-cloze",
+      "prompt": "Replacement filters usually arrive in six ------- seven business days.",
+      "choices": {"A": "nor", "B": "or", "C": "and", "D": "to"},
+      "correctAnswer": "B",
+      "translationJa": "交換用フィルターは通常6、7営業日ほどで届きます。",
+      "explanationJa": "six or sevenは到着日数を一つに断定せず、近い二つの数で幅を示します。",
+      "focus": "近接する数＋or",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0305_Q08",
+      "format": "part5-cloze",
+      "prompt": "Please state whether you will join the meeting in person ------- participate by video.",
+      "choices": {"A": "but", "B": "so", "C": "because", "D": "or"},
+      "correctAnswer": "D",
+      "translationJa": "会議に対面で参加するか、ビデオで参加するかをお知らせください。",
+      "explanationJa": "whether A or Bの形で、二つの参加方法のどちらであるかを示します。",
+      "focus": "whether A or B",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0305_Q09",
+      "format": "part5-cloze",
+      "prompt": "Call extension 412, ------- use the help-desk chat for immediate assistance.",
+      "choices": {"A": "since", "B": "although", "C": "or", "D": "then"},
+      "correctAnswer": "C",
+      "translationJa": "内線412に電話するか、すぐに支援が必要な場合はヘルプデスクのチャットを利用してください。",
+      "explanationJa": "利用可能な二つの連絡手段を選択肢として並べるためorが適切です。",
+      "focus": "動詞句を結ぶor",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0305_Q10",
+      "format": "part5-cloze",
+      "prompt": "Wear a visitor badge at all times, ------- security staff may ask you to leave.",
+      "choices": {"A": "and", "B": "or", "C": "as", "D": "while"},
+      "correctAnswer": "B",
+      "translationJa": "常に来訪者バッジを着用してください。さもないと警備員から退館を求められる場合があります。",
+      "explanationJa": "命令を守らない場合の不利益を後半で示す『命令文＋or』です。",
+      "focus": "規則の警告を表すor",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0305_Q11",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence offering two delivery methods.",
+      "choices": {"A": "Customers can receive the order by courier or collecting it at the store.", "B": "Customers can receive the order by courier or collect it at the store.", "C": "Customers can receive the order by courier and or collect it at the store.", "D": "Customers can either receive the order by courier but collect it at the store."},
+      "correctAnswer": "B",
+      "translationJa": "顧客は注文品を宅配で受け取るか、店舗で受け取ることができます。",
+      "explanationJa": "orの前後でreceiveとcollectという同じ形の動詞句が並び、二つの方法を正しく提示しています。",
+      "focus": "orで結ぶ並列構造",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0305_Q12",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence giving an approximate duration.",
+      "choices": {"A": "The orientation will last a day nor two.", "B": "The orientation will last a day but two.", "C": "The orientation will last or a day two.", "D": "The orientation will last a day or two."},
+      "correctAnswer": "D",
+      "translationJa": "オリエンテーションは1、2日ほど続きます。",
+      "explanationJa": "a day or twoは『1、2日ほど』という自然なおおよその期間を表します。",
+      "focus": "a day or twoの語順",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0305_Q13",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct warning about an invoice.",
+      "choices": {"A": "Check the account number, or the invoice may be sent to the wrong client.", "B": "Check the account number, and the invoice may be sent to the wrong client.", "C": "Check the account number, because the invoice may be sent to the wrong client.", "D": "Check the account number, although the invoice may be sent to the wrong client."},
+      "correctAnswer": "A",
+      "translationJa": "口座番号を確認してください。さもないと請求書が誤った顧客へ送られる恐れがあります。",
+      "explanationJa": "命令文の後にorを置き、確認しない場合の悪い結果を示しています。",
+      "focus": "命令文＋orの論理",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0305_Q14",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence presenting a choice of rooms.",
+      "choices": {"A": "We can reserve either Conference Room A and the training suite.", "B": "We can reserve or either Conference Room A the training suite.", "C": "We can reserve either Conference Room A or the training suite.", "D": "We can either reserve Conference Room A nor the training suite."},
+      "correctAnswer": "C",
+      "translationJa": "会議室Aか研修スイートのどちらかを予約できます。",
+      "explanationJa": "either A or Bの対応が正しく、二つの部屋を選択肢として並べています。",
+      "focus": "either A or B",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0305_Q15",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence with a stronger consequence.",
+      "choices": {"A": "Submit the safety certificate today, and else the site will remain closed.", "B": "Submit the safety certificate today, or although the site will remain closed.", "C": "Submit the safety certificate today or else, because the site will remain closed.", "D": "Submit the safety certificate today, or else the site will remain closed."},
+      "correctAnswer": "D",
+      "translationJa": "安全証明書を今日提出してください。さもなければ現場は閉鎖されたままになります。",
+      "explanationJa": "or elseが命令に従わない場合の強い結果を自然に導いています。",
+      "focus": "or elseによる強い警告",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0305_Q16",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct alternative question.",
+      "choices": {"A": "Should we print the brochure in color and or in black and white?", "B": "Should we print the brochure in color or in black and white?", "C": "Should we print the brochure or in color in black and white?", "D": "Should we print the brochure in color but in black and white?"},
+      "correctAnswer": "B",
+      "translationJa": "パンフレットはカラーで印刷しますか、それとも白黒で印刷しますか。",
+      "explanationJa": "同じ前置詞句in colorとin black and whiteをorで結ぶ選択疑問文です。",
+      "focus": "選択疑問文と並列",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0305_Q17",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about an approximate quantity.",
+      "choices": {"A": "Please order eight or nine name badges for the visitors.", "B": "Please order eight and or nine name badges for the visitors.", "C": "Please order or eight nine name badges for the visitors.", "D": "Please order eight but nine name badges for the visitors."},
+      "correctAnswer": "A",
+      "translationJa": "来訪者用の名札を8、9枚ほど注文してください。",
+      "explanationJa": "eight or nineは近い二つの数を用いて概数を表す自然な表現です。",
+      "focus": "概数を表すor",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0305_Q18",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence with agreement after either ... or.",
+      "choices": {"A": "Either the branch manager or the regional supervisors is authorized to approve the request.", "B": "Either the branch manager and the regional supervisors are authorized to approve the request.", "C": "Either the branch manager or the regional supervisors are authorized to approve the request.", "D": "Either the branch manager nor the regional supervisors are authorized to approve the request."},
+      "correctAnswer": "C",
+      "translationJa": "支店長か地域担当の監督者たちのどちらかが、その申請を承認する権限を持っています。",
+      "explanationJa": "either A or Bで主語を結ぶ場合、動詞は近い主語regional supervisorsに合わせて複数形areになります。",
+      "focus": "either ... orと主語動詞一致",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0305_Q19",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence stating an alternative action.",
+      "choices": {"A": "You may reschedule the inspection nor request a full refund.", "B": "You may reschedule or the inspection request a full refund.", "C": "You may reschedule the inspection, or to request a full refund.", "D": "You may reschedule the inspection or request a full refund."},
+      "correctAnswer": "D",
+      "translationJa": "検査の日程を変更するか、全額返金を依頼できます。",
+      "explanationJa": "助動詞mayを共有する二つの動詞原形rescheduleとrequestがorで並列されています。",
+      "focus": "助動詞後の並列動詞",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0305_Q20",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence warning about a password.",
+      "choices": {"A": "Change the temporary password, or your account may be locked.", "B": "Change the temporary password, so your account may be locked.", "C": "Change the temporary password, and your account may be locked.", "D": "Change the temporary password, unless your account may be locked."},
+      "correctAnswer": "A",
+      "translationJa": "仮パスワードを変更してください。さもないとアカウントがロックされる恐れがあります。",
+      "explanationJa": "命令文と望ましくない結果をorで結び、『変更しなければ』という条件を含ませています。",
+      "focus": "orに含まれる否定条件",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0305_Q21",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"Submit the claim today, or reimbursement may be delayed.\"",
+      "choices": {"A": "Submitting the claim today will certainly delay reimbursement.", "B": "Reimbursement has already been delayed despite the claim.", "C": "You may submit the claim only after reimbursement.", "D": "If you do not submit the claim today, reimbursement may be delayed."},
+      "correctAnswer": "D",
+      "translationJa": "今日請求を提出しなければ、払い戻しが遅れる可能性があります。",
+      "explanationJa": "命令文＋orは『その命令をしなければ』という否定条件に言い換えられます。",
+      "focus": "命令文＋orのif not言い換え",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0305_Q22",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"We can hold the review on Tuesday or Thursday.\"",
+      "choices": {"A": "The review must take place on both Tuesday and Thursday.", "B": "Tuesday and Thursday are alternative dates for the review.", "C": "The review cannot be held on either day.", "D": "The review begins Tuesday and continues through Thursday."},
+      "correctAnswer": "B",
+      "translationJa": "火曜日と木曜日が審査会の代替日程です。",
+      "explanationJa": "orは二つの日程を選択肢として開いており、両日開催を意味しません。",
+      "focus": "選択肢としてのor",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0305_Q23",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The repair should take a week or two.\"",
+      "choices": {"A": "The repair will take exactly two weeks.", "B": "The repair must be completed within one day.", "C": "The repair is expected to take approximately one to two weeks.", "D": "The repair may continue for several months."},
+      "correctAnswer": "C",
+      "translationJa": "修理にはおよそ1週間から2週間かかる見込みです。",
+      "explanationJa": "a week or twoは厳密な択一ではなく、1〜2週間程度という概算です。",
+      "focus": "概数表現の言い換え",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0305_Q24",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"Confirm the reservation, or else the room will be released.\"",
+      "choices": {"A": "Unless you confirm the reservation, the room will be released.", "B": "The room will be released after you confirm the reservation.", "C": "The reservation and the room have both been confirmed.", "D": "You can confirm the reservation because the room was released."},
+      "correctAnswer": "A",
+      "translationJa": "予約を確認しなければ、その部屋は他の人に開放されます。",
+      "explanationJa": "or elseの前の命令をしない場合に後半が起こるため、unlessで同じ条件を表せます。",
+      "focus": "or elseとunlessの対応",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0305_Q25",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"Is the warranty valid for one year or two years?\"",
+      "choices": {"A": "The speaker knows that both warranty periods apply.", "B": "The speaker is asking which of two warranty periods applies.", "C": "The warranty is invalid for any length of time.", "D": "The speaker is asking why the warranty expired."},
+      "correctAnswer": "B",
+      "translationJa": "話し手は二つの保証期間のうちどちらが適用されるかを尋ねています。",
+      "explanationJa": "A or Bの選択疑問文は、二つの候補のどちらかを確認します。",
+      "focus": "選択疑問文の意味",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0305_Q26",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"Renew your membership, or you will lose the discount.\"",
+      "choices": {"A": "Renewing the membership will remove the discount.", "B": "The discount is unrelated to the membership.", "C": "You can keep the discount without renewing the membership.", "D": "You will keep the discount only if you renew your membership."},
+      "correctAnswer": "D",
+      "translationJa": "会員資格を更新した場合に限り、割引を維持できます。",
+      "explanationJa": "更新しなければ割引を失うので、割引維持には更新が必要というonly ifの関係です。",
+      "focus": "警告から必要条件への言い換え",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0305_Q27",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"Either Ms. Kato or Mr. Perez will lead the briefing.\"",
+      "choices": {"A": "One of the two named employees will lead the briefing.", "B": "Both employees will necessarily lead the briefing together.", "C": "Neither employee is available for the briefing.", "D": "The briefing has already been canceled."},
+      "correctAnswer": "A",
+      "translationJa": "名指しされた二人の従業員のうち一人が説明会を担当します。",
+      "explanationJa": "either A or Bは二つの候補のどちらか一方を示します。",
+      "focus": "either ... orの意味",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0305_Q28",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The shipment contains six or seven crates.\"",
+      "choices": {"A": "The shipment contains exactly thirteen crates.", "B": "The shipment contains fewer than two crates.", "C": "The exact count is uncertain, but it is approximately six to seven crates.", "D": "The shipment contains no crates at all."},
+      "correctAnswer": "C",
+      "translationJa": "正確な数は不明ですが、その荷物にはおよそ6〜7箱の木箱が入っています。",
+      "explanationJa": "近接する数をorで結ぶと、正確に断定せず概数を示します。",
+      "focus": "数の幅を表すor",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0305_Q29",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"Use the north entrance or the loading entrance.\"",
+      "choices": {"A": "Both entrances are permanently closed.", "B": "Either of the two entrances is available for use.", "C": "Only an entrance on the south side may be used.", "D": "The loading entrance can be used only after the north entrance."},
+      "correctAnswer": "B",
+      "translationJa": "二つの入口のどちらも利用候補です。",
+      "explanationJa": "orはnorth entranceとloading entranceを代替可能な経路として示します。",
+      "focus": "代替経路のor",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0305_Q30",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"Update your password, or else your account may be locked.\"",
+      "choices": {"A": "Your account will be locked because you updated your password.", "B": "Updating the password is impossible after the account opens.", "C": "Your account may be locked if you fail to update your password.", "D": "The account is already locked and cannot be updated."},
+      "correctAnswer": "C",
+      "translationJa": "パスワードを更新しないと、アカウントがロックされる可能性があります。",
+      "explanationJa": "or elseが表す強い警告は、if you fail to ...という否定条件で言い換えられます。",
+      "focus": "or elseの条件節への変換",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0305_Q31",
+      "format": "context-completion",
+      "prompt": "The client can sign the agreement electronically. -------, a paper copy can be mailed to our legal office.",
+      "choices": {"A": "Alternatively", "B": "Therefore", "C": "Nevertheless", "D": "Because"},
+      "correctAnswer": "A",
+      "translationJa": "顧客は契約書に電子署名できます。あるいは、紙の写しを当社の法務部へ郵送できます。",
+      "explanationJa": "前文とは別の選択肢を文として追加するため、orに相当する接続副詞Alternativelyが自然です。",
+      "focus": "文をまたぐ代替案",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0305_Q32",
+      "format": "context-completion",
+      "prompt": "The replacement part is not in stock today. It should arrive in three ------- four days.",
+      "choices": {"A": "and", "B": "but", "C": "or", "D": "from"},
+      "correctAnswer": "C",
+      "translationJa": "交換部品は今日は在庫がありません。3、4日ほどで到着するはずです。",
+      "explanationJa": "three or fourは近い二つの数でおおよその日数を示します。",
+      "focus": "文脈内の概数",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0305_Q33",
+      "format": "context-completion",
+      "prompt": "The presentation begins at 10:00 sharp. Arrive early, ------- you may miss the opening remarks.",
+      "choices": {"A": "so", "B": "or", "C": "because", "D": "even if"},
+      "correctAnswer": "B",
+      "translationJa": "プレゼンテーションは10時ちょうどに始まります。早めに到着してください。さもないと冒頭説明を聞き逃すかもしれません。",
+      "explanationJa": "命令に従わない場合の悪い結果を示すためorを選びます。",
+      "focus": "命令文と結果の文脈",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0305_Q34",
+      "format": "context-completion",
+      "prompt": "Your temporary permit expires at midnight. Apply for an extension now, ------- you will have to leave the site.",
+      "choices": {"A": "for instance", "B": "in addition", "C": "as a result of", "D": "or else"},
+      "correctAnswer": "D",
+      "translationJa": "仮許可証は深夜に失効します。今すぐ延長を申請してください。さもなければ現場を離れなければなりません。",
+      "explanationJa": "期限と重大な不利益が示されており、強い警告のor elseが適切です。",
+      "focus": "期限を伴うor else",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0305_Q35",
+      "format": "context-completion",
+      "prompt": "We have two rooms available for the interview. Would you like Room 204 ------- Room 318?",
+      "choices": {"A": "and", "B": "since", "C": "or", "D": "while"},
+      "correctAnswer": "C",
+      "translationJa": "面接に利用できる部屋が二つあります。204号室と318号室のどちらがよいですか。",
+      "explanationJa": "前文の二つの候補から一方を選ばせる選択疑問文なのでorです。",
+      "focus": "文脈から選択疑問",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0305_Q36",
+      "format": "context-completion",
+      "prompt": "For urgent requests, you may call our service desk. -------, you can send a message through the support portal.",
+      "choices": {"A": "Alternatively", "B": "Consequently", "C": "Otherwise", "D": "Meanwhile"},
+      "correctAnswer": "A",
+      "translationJa": "緊急の依頼についてはサービスデスクへ電話できます。あるいは、サポートポータルからメッセージを送ることもできます。",
+      "explanationJa": "電話とは別の連絡方法を同格の選択肢として追加するためAlternativelyが最適です。",
+      "focus": "代替手段を示す接続副詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0305_Q37",
+      "format": "context-completion",
+      "prompt": "The finance team is still checking the figures. We expect the final report in a day ------- two.",
+      "choices": {"A": "nor", "B": "and", "C": "through", "D": "or"},
+      "correctAnswer": "D",
+      "translationJa": "財務チームはまだ数値を確認中です。最終報告書は1、2日ほどで完成する見込みです。",
+      "explanationJa": "a day or twoは業務上よく使う概算期間です。",
+      "focus": "a day or two",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0305_Q38",
+      "format": "context-completion",
+      "prompt": "The loading area closes at 6:00 P.M. Send the truck before then, ------- the driver will need to return tomorrow.",
+      "choices": {"A": "for", "B": "or", "C": "although", "D": "and"},
+      "correctAnswer": "B",
+      "translationJa": "荷積み区域は午後6時に閉まります。それまでにトラックを送ってください。さもないと運転手は明日出直す必要があります。",
+      "explanationJa": "締切までに行動しない場合の結果を、命令文＋orで示しています。",
+      "focus": "締切警告のor",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0305_Q39",
+      "format": "context-completion",
+      "prompt": "The software license covers either one desktop computer ------- two mobile devices. Select the option that fits your team.",
+      "choices": {"A": "or", "B": "but", "C": "so", "D": "because"},
+      "correctAnswer": "A",
+      "translationJa": "そのソフトウェアライセンスは、デスクトップ1台かモバイル端末2台のいずれかを対象とします。チームに合う方を選んでください。",
+      "explanationJa": "eitherの相関語としてorが必要で、二つのライセンス構成を並べます。",
+      "focus": "either ... orの文脈",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0305_Q40",
+      "format": "context-completion",
+      "prompt": "The warehouse requires closed-toe shoes. Wear the correct footwear, ------- entry may be denied.",
+      "choices": {"A": "and", "B": "since", "C": "as long as", "D": "or"},
+      "correctAnswer": "D",
+      "translationJa": "倉庫ではつま先が覆われた靴が必要です。適切な靴を着用してください。さもないと入場を拒否される場合があります。",
+      "explanationJa": "規則に従わない場合の不利益を示す命令文＋orです。",
+      "focus": "安全規則のor警告",
+      "difficulty": "advanced"
+    }
+  ]
+}
