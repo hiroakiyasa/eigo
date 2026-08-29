@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-29T00:35:51.796Z",
+  "updatedAt": "2026-08-29T00:38:15.502Z",
   "totalPages": 330,
-  "completedPages": 2,
+  "completedPages": 3,
   "questionsPerPage": 40,
   "totalPlannedQuestions": 13200,
   "pages": [
@@ -34,9 +34,9 @@
       "number": 4,
       "id": "grammar-master-0004",
       "title": "並び方で意味が決まる",
-      "status": "pending",
+      "status": "complete",
       "output": "question-sets/PAGE_0004.json",
-      "completedAt": null
+      "completedAt": "2026-08-29T00:38:15.502Z"
     },
     {
       "number": 5,

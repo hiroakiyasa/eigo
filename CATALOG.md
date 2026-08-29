@@ -9,7 +9,7 @@
 | 1 | 英文法クエスト | [PAGE_0001](pages/PAGE_0001.webp) | [原稿](source-prompts/PAGE_0001.txt) | [40問](question-sets/PAGE_0001.json) |
 | 2 | 冒険の進め方 | [PAGE_0002](pages/PAGE_0002.webp) | [原稿](source-prompts/PAGE_0002.txt) | `pending` |
 | 3 | 英語の4つの地図 | [PAGE_0003](pages/PAGE_0003.webp) | [原稿](source-prompts/PAGE_0003.txt) | [40問](question-sets/PAGE_0003.json) |
-| 4 | 並び方で意味が決まる | [PAGE_0004](pages/PAGE_0004.webp) | [原稿](source-prompts/PAGE_0004.txt) | `pending` |
+| 4 | 並び方で意味が決まる | [PAGE_0004](pages/PAGE_0004.webp) | [原稿](source-prompts/PAGE_0004.txt) | [40問](question-sets/PAGE_0004.json) |
 | 5 | 文は4本のレールを走る | [PAGE_0005](pages/PAGE_0005.webp) | [原稿](source-prompts/PAGE_0005.txt) | `pending` |
 | 6 | 前はしぼる　後ろは説明 | [PAGE_0006](pages/PAGE_0006.webp) | [原稿](source-prompts/PAGE_0006.txt) | `pending` |
 | 7 | 前に置いて、意味をしぼる | [PAGE_0007](pages/PAGE_0007.webp) | [原稿](source-prompts/PAGE_0007.txt) | `pending` |
