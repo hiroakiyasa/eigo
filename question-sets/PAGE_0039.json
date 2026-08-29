@@ -1,1 +1,673 @@
-{"schemaVersion":1,"page":{"number":39,"id":"grammar-master-0039","title":"見た場面を、そのまま文にする","image":"pages/PAGE_0039.webp","sourcePrompt":"source-prompts/PAGE_0039.txt"},"analysis":{"summaryJa":"see/hear/feel等の知覚動詞では、O＋動詞原形で出来事全体を直接経験したこと、O＋-ingで進行中の一場面を捉えたことを表す。一方hear that＋文は現場の音ではなく情報として聞いた内容を報告する。","grammarPoints":["see/hear/feel＋O＋動詞原形","see/hear/feel＋O＋-ing","原形＝出来事全体","-ing＝進行中の場面","hear that＋文＝情報伝聞"],"visualEvidence":["出来事全体のフィルムと進行中スナップの2レンズ","bare/-ingの対比","hear thatの情報スクロール"],"commonTraps":["知覚動詞後にto不定詞を置く","原形と-ingの視点差を無視する","hear＋O＋動詞とhear that節を混同する","Oを主節の主語と誤認する"]},"questions":[{"id":"PAGE_0039_Q01","format":"part5-cloze","prompt":"I saw the courier ------- the package at the reception desk and then leave.","choices":{"A":"deliver","B":"to deliver","C":"delivered as finite verb","D":"delivers"},"correctAnswer":"A","translationJa":"私は配達員が受付で荷物を届け、その後立ち去る一連の出来事を見ました。","explanationJa":"出来事全体を見届けたのでsee＋O＋動詞原形deliverです。","focus":"see＋O＋原形","difficulty":"basic"},{"id":"PAGE_0039_Q02","format":"part5-cloze","prompt":"We noticed several guests ------- in the lobby when the announcement began.","choices":{"A":"wait as whole completed event","B":"waiting","C":"to waiting","D":"waited finite"},"correctAnswer":"B","translationJa":"案内が始まったとき、数名の来客がロビーで待っているのに気づきました。","explanationJa":"その時進行中の場面を捉えたためwaitingです。","focus":"知覚＋O＋-ing","difficulty":"basic"},{"id":"PAGE_0039_Q03","format":"part5-cloze","prompt":"The technician heard the alarm ------- once and immediately checked the panel.","choices":{"A":"to beep","B":"beeping only necessarily ongoing","C":"beep","D":"beeped finite"},"correctAnswer":"C","translationJa":"技術者は警報が一度鳴るのを聞き、すぐ操作盤を確認しました。","explanationJa":"一回の出来事をひとまとまりで聞いたため原形beepです。","focus":"hear＋O＋原形","difficulty":"basic"},{"id":"PAGE_0039_Q04","format":"part5-cloze","prompt":"We heard ------- the afternoon flight had been canceled.","choices":{"A":"the flight cancel directly at scene","B":"the flight canceling as information","C":"to the flight","D":"that"},"correctAnswer":"D","translationJa":"午後の便が欠航になったと聞きました。","explanationJa":"現場の音ではなく情報内容を聞いたのでhear that＋文です。","focus":"hear that節","difficulty":"basic"},{"id":"PAGE_0039_Q05","format":"part5-cloze","prompt":"From the meeting room, I could hear the construction crew ------- outside for most of the morning.","choices":{"A":"working","B":"work as necessarily whole event","C":"to work","D":"worked"},"correctAnswer":"A","translationJa":"会議室から午前中の大半、工事スタッフが外で作業している音が聞こえました。","explanationJa":"長く進行している一場面として知覚するのでworkingです。","focus":"hear＋O＋-ing","difficulty":"intermediate"},{"id":"PAGE_0039_Q06","format":"part5-cloze","prompt":"The supervisor watched the operator ------- the shutdown procedure from start to finish.","choices":{"A":"to complete","B":"complete","C":"completed finite","D":"completion"},"correctAnswer":"B","translationJa":"監督者は操作者が停止手順を最初から最後まで完了するのを見届けました。","explanationJa":"from start to finishが出来事全体を示すため原形completeです。","focus":"全体視点の原形","difficulty":"intermediate"},{"id":"PAGE_0039_Q07","format":"part5-cloze","prompt":"As I entered the warehouse, I saw a forklift ------- toward the loading area.","choices":{"A":"move as necessarily completed","B":"to move","C":"moving","D":"moved finite"},"correctAnswer":"C","translationJa":"倉庫に入ったとき、フォークリフトが荷捌き場へ動いているのが見えました。","explanationJa":"入った瞬間に進行中の場面を見たためmovingです。","focus":"一場面の-ing","difficulty":"intermediate"},{"id":"PAGE_0039_Q08","format":"part5-cloze","prompt":"The receptionist heard ------- the client would arrive an hour late.","choices":{"A":"the client arrive as direct sound","B":"the client arriving necessarily","C":"to client","D":"that"},"correctAnswer":"D","translationJa":"受付担当者は顧客が1時間遅れて到着すると聞きました。","explanationJa":"到着予定という情報を聞いたためthat節を使います。","focus":"伝聞情報","difficulty":"intermediate"},{"id":"PAGE_0039_Q09","format":"part5-cloze","prompt":"Because she observed the entire test, Ms. Ono saw the prototype ------- successfully and then shut down.","choices":{"A":"start","B":"starting only","C":"to start","D":"started"},"correctAnswer":"A","translationJa":"試験全体を観察したため、小野さんは試作品が正常に起動し、その後停止するまで見ました。","explanationJa":"entire testと後続then shut downから出来事全体の原形startが適切です。","focus":"文脈による原形選択","difficulty":"advanced"},{"id":"PAGE_0039_Q10","format":"part5-cloze","prompt":"In “I heard the manager speaking” versus “I heard that the manager spoke,” the first reports ------- while the second reports information.","choices":{"A":"a directly perceived ongoing scene","B":"only a written report","C":"a destination","D":"a completed transfer"},"correctAnswer":"A","translationJa":"前者は直接知覚した進行中の場面、後者は情報として聞いた内容です。","explanationJa":"O＋-ingとthat節の機能差を問う問題です。","focus":"直接知覚と情報の対比","difficulty":"advanced"},{"id":"PAGE_0039_Q11","format":"correct-sentence","prompt":"Choose the correct sentence for witnessing a complete event.","choices":{"A":"I saw the train leave the station.","B":"I saw the train to leave the station.","C":"I saw the train left the station as finite.","D":"I saw to the train leave."},"correctAnswer":"A","translationJa":"私は列車が駅を出るのを見ました。","explanationJa":"知覚動詞＋O＋原形で出来事全体を表します。","focus":"see O 原形","difficulty":"basic"},{"id":"PAGE_0039_Q12","format":"correct-sentence","prompt":"Choose the correct sentence for observing an action in progress.","choices":{"A":"We noticed the staff to setting up the room.","B":"We noticed setting up the staff the room.","C":"We noticed the staff setted up the room.","D":"We noticed the staff setting up the room."},"correctAnswer":"D","translationJa":"私たちはスタッフが部屋を準備しているのに気づきました。","explanationJa":"進行中の場面を-ingで説明します。","focus":"notice O -ing","difficulty":"basic"},{"id":"PAGE_0039_Q13","format":"correct-sentence","prompt":"Choose the correct sentence reporting information rather than a directly heard sound.","choices":{"A":"We heard the office close tomorrow.","B":"We heard that the office would close tomorrow.","C":"We heard the office closing tomorrow as report only.","D":"We heard to the office tomorrow."},"correctAnswer":"B","translationJa":"私たちは事務所が明日閉まると聞きました。","explanationJa":"未来の予定情報をhear that節で報告しています。","focus":"hear that情報","difficulty":"intermediate"},{"id":"PAGE_0039_Q14","format":"correct-sentence","prompt":"Choose the sentence that naturally emphasizes the whole event.","choices":{"A":"I watched the technician repairing the unit from start to finish.","B":"I watched the technician to repair the unit.","C":"I watched the technician repair the unit from start to finish.","D":"I watched repair the technician."},"correctAnswer":"C","translationJa":"私は技術者が装置を修理する一連の作業を最初から最後まで見ました。","explanationJa":"全体を見届けた文脈なので原形repairが適切です。","focus":"whole event","difficulty":"intermediate"},{"id":"PAGE_0039_Q15","format":"correct-sentence","prompt":"Choose the sentence that naturally captures a scene underway at one moment.","choices":{"A":"When I passed the lobby, I saw guests waiting for taxis.","B":"When I passed the lobby, I saw guests to wait for taxis.","C":"When I passed the lobby, I saw guests waited for taxis.","D":"When I passed the lobby, I saw waiting guests are finite."},"correctAnswer":"A","translationJa":"ロビーを通ったとき、来客がタクシーを待っているのが見えました。","explanationJa":"通過時点で進行中の場面なのでwaitingです。","focus":"snapshot -ing","difficulty":"intermediate"},{"id":"PAGE_0039_Q16","format":"correct-sentence","prompt":"Choose the correct direct-perception sentence with “hear.”","choices":{"A":"I heard that the door slam as direct structure.","B":"I heard to the door slam.","C":"I heard the door slammed finite.","D":"I heard the door slam."},"correctAnswer":"D","translationJa":"私はドアがバタンと閉まる音を聞きました。","explanationJa":"その場で一回の出来事を直接聞くhear＋O＋原形です。","focus":"hear O 原形","difficulty":"intermediate"},{"id":"PAGE_0039_Q17","format":"correct-sentence","prompt":"Choose the sentence that reports secondhand information.","choices":{"A":"I heard the supplier raise prices as a report from email only.","B":"I heard that the supplier had raised its prices.","C":"I heard the supplier raising prices necessarily as secondhand.","D":"I heard to supplier prices."},"correctAnswer":"B","translationJa":"仕入先が価格を引き上げたと聞きました。","explanationJa":"出来事を直接知覚したのではなく情報内容なのでthat節です。","focus":"secondhand information","difficulty":"intermediate"},{"id":"PAGE_0039_Q18","format":"correct-sentence","prompt":"Choose the best sentence if you heard a machine making noise continuously while you were nearby.","choices":{"A":"I heard the machine make a noise once.","B":"I heard that the machine made noise from a report.","C":"I heard the machine making a strange noise.","D":"I heard to the machine making noise."},"correctAnswer":"C","translationJa":"機械が変な音を出し続けているのが聞こえました。","explanationJa":"継続中の音の場面にはmakingが自然です。","focus":"継続知覚","difficulty":"advanced"},{"id":"PAGE_0039_Q19","format":"correct-sentence","prompt":"Choose the best analysis of “We felt the floor shake.”","choices":{"A":"floor is O and shake expresses the event directly perceived through feeling.","B":"shake is a direct object unrelated to floor.","C":"to shake is required after feel.","D":"floor describes we."},"correctAnswer":"A","translationJa":"floorが目的語で、shakeが感覚で直接捉えた出来事を表します。","explanationJa":"feel＋O＋原形の知覚構造です。","focus":"feel O 原形","difficulty":"advanced"},{"id":"PAGE_0039_Q20","format":"correct-sentence","prompt":"Choose the sentence where changing -ing to a bare verb would most clearly shift the viewpoint from an ongoing scene to the event as a whole.","choices":{"A":"We heard that the train was late.","B":"We saw the employee carrying the box downstairs.","C":"The employee carried the box.","D":"The box was heavy."},"correctAnswer":"B","translationJa":"carryingをcarryにすると進行中の一場面から運ぶ出来事全体へ視点が変わります。","explanationJa":"知覚動詞後の-ingと原形の視点差です。","focus":"視点変化","difficulty":"advanced"},{"id":"PAGE_0039_Q21","format":"meaning-equivalent","prompt":"Choose the sentence closest in meaning to: “I saw the bus leave.”","choices":{"A":"I witnessed the bus's departure as a complete event.","B":"I only received information that it left.","C":"I necessarily saw it halfway through leaving.","D":"I told the bus to leave."},"correctAnswer":"A","translationJa":"私はバスが出発する出来事をひとまとまりとして見届けました。","explanationJa":"原形leaveは出来事全体の知覚を示します。","focus":"原形の意味","difficulty":"basic"},{"id":"PAGE_0039_Q22","format":"meaning-equivalent","prompt":"Choose the sentence closest in meaning to: “I saw the bus leaving.”","choices":{"A":"I learned from someone that the bus left.","B":"I saw the bus while its departure was in progress.","C":"I watched the entire trip necessarily.","D":"I caused the bus to leave."},"correctAnswer":"B","translationJa":"私はバスが出発している途中の場面を見ました。","explanationJa":"-ingは進行中の一場面を切り取ります。","focus":"-ingの意味","difficulty":"basic"},{"id":"PAGE_0039_Q23","format":"meaning-equivalent","prompt":"Choose the sentence closest in meaning to: “We heard the lock click.”","choices":{"A":"We read that the lock clicked.","B":"We discussed the lock.","C":"We directly heard the clicking event occur.","D":"We heard information about tomorrow's lock."},"correctAnswer":"C","translationJa":"私たちは鍵がカチッと鳴る出来事をその場で直接聞きました。","explanationJa":"hear＋O＋原形で直接知覚です。","focus":"直接聴覚","difficulty":"basic"},{"id":"PAGE_0039_Q24","format":"meaning-equivalent","prompt":"Choose the sentence closest in meaning to: “We heard that the lock was broken.”","choices":{"A":"We directly heard a breaking sound necessarily.","B":"We watched the lock break.","C":"We caused the lock to break.","D":"We received information that the lock was broken."},"correctAnswer":"D","translationJa":"鍵が壊れているという情報を聞きました。","explanationJa":"that節は情報内容を報告します。","focus":"情報伝聞","difficulty":"intermediate"},{"id":"PAGE_0039_Q25","format":"meaning-equivalent","prompt":"Choose the sentence closest in meaning to: “The guard watched the visitor enter the room.”","choices":{"A":"The guard observed the visitor's entry as an event.","B":"The guard only heard a report about the entry.","C":"visitor was already inside throughout the observation necessarily.","D":"enter is a noun object."},"correctAnswer":"A","translationJa":"警備員は来訪者が部屋へ入る出来事を見届けました。","explanationJa":"enter原形で出来事を一まとまりとして捉えます。","focus":"watch O 原形","difficulty":"intermediate"},{"id":"PAGE_0039_Q26","format":"meaning-equivalent","prompt":"Choose the sentence closest in meaning to: “The guard watched the visitor entering the room.”","choices":{"A":"The guard received a report.","B":"The guard observed the visitor while the entry was underway.","C":"The visitor never entered.
+{
+  "schemaVersion": 1,
+  "page": {
+    "number": 39,
+    "id": "grammar-master-0039",
+    "title": "見た場面を、そのまま文にする",
+    "image": "pages/PAGE_0039.webp",
+    "sourcePrompt": "source-prompts/PAGE_0039.txt"
+  },
+  "analysis": {
+    "summaryJa": "see/hear/feel等の知覚動詞では、O＋動詞原形で出来事全体を直接経験したこと、O＋-ingで進行中の一場面を捉えたことを表す。一方hear that＋文は現場の音ではなく情報として聞いた内容を報告する。",
+    "grammarPoints": [
+      "see/hear/feel＋O＋動詞原形",
+      "see/hear/feel＋O＋-ing",
+      "原形＝出来事全体",
+      "-ing＝進行中の場面",
+      "hear that＋文＝情報伝聞"
+    ],
+    "visualEvidence": [
+      "出来事全体のフィルムと進行中スナップの2レンズ",
+      "bare/-ingの対比",
+      "hear thatの情報スクロール"
+    ],
+    "commonTraps": [
+      "知覚動詞後にto不定詞を置く",
+      "原形と-ingの視点差を無視する",
+      "hear＋O＋動詞とhear that節を混同する",
+      "Oを主節の主語と誤認する"
+    ]
+  },
+  "questions": [
+    {
+      "id": "PAGE_0039_Q01",
+      "format": "part5-cloze",
+      "prompt": "I saw the courier ------- the package at the reception desk and then leave.",
+      "choices": {
+        "A": "deliver",
+        "B": "to deliver",
+        "C": "delivered as finite verb",
+        "D": "delivers"
+      },
+      "correctAnswer": "A",
+      "translationJa": "私は配達員が受付で荷物を届け、その後立ち去る一連の出来事を見ました。",
+      "explanationJa": "出来事全体を見届けたのでsee＋O＋動詞原形deliverです。",
+      "focus": "see＋O＋原形",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0039_Q02",
+      "format": "part5-cloze",
+      "prompt": "We noticed several guests ------- in the lobby when the announcement began.",
+      "choices": {
+        "A": "wait as whole completed event",
+        "B": "waiting",
+        "C": "to waiting",
+        "D": "waited finite"
+      },
+      "correctAnswer": "B",
+      "translationJa": "案内が始まったとき、数名の来客がロビーで待っているのに気づきました。",
+      "explanationJa": "その時進行中の場面を捉えたためwaitingです。",
+      "focus": "知覚＋O＋-ing",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0039_Q03",
+      "format": "part5-cloze",
+      "prompt": "The technician heard the alarm ------- once and immediately checked the panel.",
+      "choices": {
+        "A": "to beep",
+        "B": "beeping only necessarily ongoing",
+        "C": "beep",
+        "D": "beeped finite"
+      },
+      "correctAnswer": "C",
+      "translationJa": "技術者は警報が一度鳴るのを聞き、すぐ操作盤を確認しました。",
+      "explanationJa": "一回の出来事をひとまとまりで聞いたため原形beepです。",
+      "focus": "hear＋O＋原形",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0039_Q04",
+      "format": "part5-cloze",
+      "prompt": "We heard ------- the afternoon flight had been canceled.",
+      "choices": {
+        "A": "the flight cancel directly at scene",
+        "B": "the flight canceling as information",
+        "C": "to the flight",
+        "D": "that"
+      },
+      "correctAnswer": "D",
+      "translationJa": "午後の便が欠航になったと聞きました。",
+      "explanationJa": "現場の音ではなく情報内容を聞いたのでhear that＋文です。",
+      "focus": "hear that節",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0039_Q05",
+      "format": "part5-cloze",
+      "prompt": "From the meeting room, I could hear the construction crew ------- outside for most of the morning.",
+      "choices": {
+        "A": "working",
+        "B": "work as necessarily whole event",
+        "C": "to work",
+        "D": "worked"
+      },
+      "correctAnswer": "A",
+      "translationJa": "会議室から午前中の大半、工事スタッフが外で作業している音が聞こえました。",
+      "explanationJa": "長く進行している一場面として知覚するのでworkingです。",
+      "focus": "hear＋O＋-ing",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0039_Q06",
+      "format": "part5-cloze",
+      "prompt": "The supervisor watched the operator ------- the shutdown procedure from start to finish.",
+      "choices": {
+        "A": "to complete",
+        "B": "complete",
+        "C": "completed finite",
+        "D": "completion"
+      },
+      "correctAnswer": "B",
+      "translationJa": "監督者は操作者が停止手順を最初から最後まで完了するのを見届けました。",
+      "explanationJa": "from start to finishが出来事全体を示すため原形completeです。",
+      "focus": "全体視点の原形",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0039_Q07",
+      "format": "part5-cloze",
+      "prompt": "As I entered the warehouse, I saw a forklift ------- toward the loading area.",
+      "choices": {
+        "A": "move as necessarily completed",
+        "B": "to move",
+        "C": "moving",
+        "D": "moved finite"
+      },
+      "correctAnswer": "C",
+      "translationJa": "倉庫に入ったとき、フォークリフトが荷捌き場へ動いているのが見えました。",
+      "explanationJa": "入った瞬間に進行中の場面を見たためmovingです。",
+      "focus": "一場面の-ing",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0039_Q08",
+      "format": "part5-cloze",
+      "prompt": "The receptionist heard ------- the client would arrive an hour late.",
+      "choices": {
+        "A": "the client arrive as direct sound",
+        "B": "the client arriving necessarily",
+        "C": "to client",
+        "D": "that"
+      },
+      "correctAnswer": "D",
+      "translationJa": "受付担当者は顧客が1時間遅れて到着すると聞きました。",
+      "explanationJa": "到着予定という情報を聞いたためthat節を使います。",
+      "focus": "伝聞情報",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0039_Q09",
+      "format": "part5-cloze",
+      "prompt": "Because she observed the entire test, Ms. Ono saw the prototype ------- successfully and then shut down.",
+      "choices": {
+        "A": "start",
+        "B": "starting only",
+        "C": "to start",
+        "D": "started"
+      },
+      "correctAnswer": "A",
+      "translationJa": "試験全体を観察したため、小野さんは試作品が正常に起動し、その後停止するまで見ました。",
+      "explanationJa": "entire testと後続then shut downから出来事全体の原形startが適切です。",
+      "focus": "文脈による原形選択",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0039_Q10",
+      "format": "part5-cloze",
+      "prompt": "In “I heard the manager speaking” versus “I heard that the manager spoke,” the first reports ------- while the second reports information.",
+      "choices": {
+        "A": "only a written report",
+        "B": "a directly perceived ongoing scene",
+        "C": "a destination",
+        "D": "a completed transfer"
+      },
+      "correctAnswer": "B",
+      "translationJa": "前者は直接知覚した進行中の場面、後者は情報として聞いた内容です。",
+      "explanationJa": "O＋-ingとthat節の機能差を問う問題です。",
+      "focus": "直接知覚と情報の対比",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0039_Q11",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence for witnessing a complete event.",
+      "choices": {
+        "A": "I saw the train left the station as finite.",
+        "B": "I saw the train to leave the station.",
+        "C": "I saw the train leave the station.",
+        "D": "I saw to the train leave."
+      },
+      "correctAnswer": "C",
+      "translationJa": "私は列車が駅を出るのを見ました。",
+      "explanationJa": "知覚動詞＋O＋原形で出来事全体を表します。",
+      "focus": "see O 原形",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0039_Q12",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence for observing an action in progress.",
+      "choices": {
+        "A": "We noticed the staff to setting up the room.",
+        "B": "We noticed setting up the staff the room.",
+        "C": "We noticed the staff setted up the room.",
+        "D": "We noticed the staff setting up the room."
+      },
+      "correctAnswer": "D",
+      "translationJa": "私たちはスタッフが部屋を準備しているのに気づきました。",
+      "explanationJa": "進行中の場面を-ingで説明します。",
+      "focus": "notice O -ing",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0039_Q13",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence reporting information rather than a directly heard sound.",
+      "choices": {
+        "A": "We heard that the office would close tomorrow.",
+        "B": "We heard the office close tomorrow.",
+        "C": "We heard the office closing tomorrow as report only.",
+        "D": "We heard to the office tomorrow."
+      },
+      "correctAnswer": "A",
+      "translationJa": "私たちは事務所が明日閉まると聞きました。",
+      "explanationJa": "未来の予定情報をhear that節で報告しています。",
+      "focus": "hear that情報",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0039_Q14",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that naturally emphasizes the whole event.",
+      "choices": {
+        "A": "I watched the technician repairing the unit from start to finish.",
+        "B": "I watched the technician repair the unit from start to finish.",
+        "C": "I watched the technician to repair the unit.",
+        "D": "I watched repair the technician."
+      },
+      "correctAnswer": "B",
+      "translationJa": "私は技術者が装置を修理する一連の作業を最初から最後まで見ました。",
+      "explanationJa": "全体を見届けた文脈なので原形repairが適切です。",
+      "focus": "whole event",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0039_Q15",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that naturally captures a scene underway at one moment.",
+      "choices": {
+        "A": "When I passed the lobby, I saw guests waited for taxis.",
+        "B": "When I passed the lobby, I saw guests to wait for taxis.",
+        "C": "When I passed the lobby, I saw guests waiting for taxis.",
+        "D": "When I passed the lobby, I saw waiting guests are finite."
+      },
+      "correctAnswer": "C",
+      "translationJa": "ロビーを通ったとき、来客がタクシーを待っているのが見えました。",
+      "explanationJa": "通過時点で進行中の場面なのでwaitingです。",
+      "focus": "snapshot -ing",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0039_Q16",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct direct-perception sentence with “hear.”",
+      "choices": {
+        "A": "I heard that the door slam as direct structure.",
+        "B": "I heard to the door slam.",
+        "C": "I heard the door slammed finite.",
+        "D": "I heard the door slam."
+      },
+      "correctAnswer": "D",
+      "translationJa": "私はドアがバタンと閉まる音を聞きました。",
+      "explanationJa": "その場で一回の出来事を直接聞くhear＋O＋原形です。",
+      "focus": "hear O 原形",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0039_Q17",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that reports secondhand information.",
+      "choices": {
+        "A": "I heard that the supplier had raised its prices.",
+        "B": "I heard the supplier raise prices as a report from email only.",
+        "C": "I heard the supplier raising prices necessarily as secondhand.",
+        "D": "I heard to supplier prices."
+      },
+      "correctAnswer": "A",
+      "translationJa": "仕入先が価格を引き上げたと聞きました。",
+      "explanationJa": "出来事を直接知覚したのではなく情報内容なのでthat節です。",
+      "focus": "secondhand information",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0039_Q18",
+      "format": "correct-sentence",
+      "prompt": "Choose the best sentence if you heard a machine making noise continuously while you were nearby.",
+      "choices": {
+        "A": "I heard the machine make a noise once.",
+        "B": "I heard the machine making a strange noise.",
+        "C": "I heard that the machine made noise from a report.",
+        "D": "I heard to the machine making noise."
+      },
+      "correctAnswer": "B",
+      "translationJa": "機械が変な音を出し続けているのが聞こえました。",
+      "explanationJa": "継続中の音の場面にはmakingが自然です。",
+      "focus": "継続知覚",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0039_Q19",
+      "format": "correct-sentence",
+      "prompt": "Choose the best analysis of “We felt the floor shake.”",
+      "choices": {
+        "A": "to shake is required after feel.",
+        "B": "shake is a direct object unrelated to floor.",
+        "C": "floor is O and shake expresses the event directly perceived through feeling.",
+        "D": "floor describes we."
+      },
+      "correctAnswer": "C",
+      "translationJa": "floorが目的語で、shakeが感覚で直接捉えた出来事を表します。",
+      "explanationJa": "feel＋O＋原形の知覚構造です。",
+      "focus": "feel O 原形",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0039_Q20",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence where changing -ing to a bare verb would most clearly shift the viewpoint from an ongoing scene to the event as a whole.",
+      "choices": {
+        "A": "We heard that the train was late.",
+        "B": "The box was heavy.",
+        "C": "The employee carried the box.",
+        "D": "We saw the employee carrying the box downstairs."
+      },
+      "correctAnswer": "D",
+      "translationJa": "carryingをcarryにすると進行中の一場面から運ぶ出来事全体へ視点が変わります。",
+      "explanationJa": "知覚動詞後の-ingと原形の視点差です。",
+      "focus": "視点変化",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0039_Q21",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “I saw the bus leave.”",
+      "choices": {
+        "A": "I witnessed the bus's departure as a complete event.",
+        "B": "I only received information that it left.",
+        "C": "I necessarily saw it halfway through leaving.",
+        "D": "I told the bus to leave."
+      },
+      "correctAnswer": "A",
+      "translationJa": "私はバスが出発する出来事をひとまとまりとして見届けました。",
+      "explanationJa": "原形leaveは出来事全体の知覚を示します。",
+      "focus": "原形の意味",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0039_Q22",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “I saw the bus leaving.”",
+      "choices": {
+        "A": "I learned from someone that the bus left.",
+        "B": "I saw the bus while its departure was in progress.",
+        "C": "I watched the entire trip necessarily.",
+        "D": "I caused the bus to leave."
+      },
+      "correctAnswer": "B",
+      "translationJa": "私はバスが出発している途中の場面を見ました。",
+      "explanationJa": "-ingは進行中の一場面を切り取ります。",
+      "focus": "-ingの意味",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0039_Q23",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “We heard the lock click.”",
+      "choices": {
+        "A": "We read that the lock clicked.",
+        "B": "We discussed the lock.",
+        "C": "We directly heard the clicking event occur.",
+        "D": "We heard information about tomorrow's lock."
+      },
+      "correctAnswer": "C",
+      "translationJa": "私たちは鍵がカチッと鳴る出来事をその場で直接聞きました。",
+      "explanationJa": "hear＋O＋原形で直接知覚です。",
+      "focus": "直接聴覚",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0039_Q24",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “We heard that the lock was broken.”",
+      "choices": {
+        "A": "We directly heard a breaking sound necessarily.",
+        "B": "We watched the lock break.",
+        "C": "We caused the lock to break.",
+        "D": "We received information that the lock was broken."
+      },
+      "correctAnswer": "D",
+      "translationJa": "鍵が壊れているという情報を聞きました。",
+      "explanationJa": "that節は情報内容を報告します。",
+      "focus": "情報伝聞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0039_Q25",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “The guard watched the visitor enter the room.”",
+      "choices": {
+        "A": "The guard observed the visitor's entry as an event.",
+        "B": "The guard only heard a report about the entry.",
+        "C": "visitor was already inside throughout the observation necessarily.",
+        "D": "enter is a noun object."
+      },
+      "correctAnswer": "A",
+      "translationJa": "警備員は来訪者が部屋へ入る出来事を見届けました。",
+      "explanationJa": "enter原形で出来事を一まとまりとして捉えます。",
+      "focus": "watch O 原形",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0039_Q26",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “The guard watched the visitor entering the room.”",
+      "choices": {
+        "A": "The guard received a report about the entry.",
+        "B": "The guard observed the visitor while the entry was in progress.",
+        "C": "The visitor never entered.",
+        "D": "entering describes the guard."
+      },
+      "correctAnswer": "B",
+      "translationJa": "警備員は来訪者が部屋へ入っている途中の場面を見ました。",
+      "explanationJa": "-ingは進行中の一場面を切り取ります。",
+      "focus": "watch＋O＋-ing",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0039_Q27",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “We felt the floor shake.”",
+      "choices": {
+        "A": "floor is unrelated to shake.",
+        "B": "We only heard information that it shook.",
+        "C": "We directly experienced the shaking event through our senses.",
+        "D": "to shake is required."
+      },
+      "correctAnswer": "C",
+      "translationJa": "私たちは床が揺れる出来事を感覚で直接捉えました。",
+      "explanationJa": "feel＋O＋原形で直接知覚した出来事全体を表します。",
+      "focus": "feel＋O＋原形",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0039_Q28",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “I heard the machine making a strange noise.”",
+      "choices": {
+        "A": "I received a written report.",
+        "B": "machine is a complement.",
+        "C": "I heard one complete click only.",
+        "D": "I directly heard an ongoing noisy scene from the machine."
+      },
+      "correctAnswer": "D",
+      "translationJa": "私は機械が変な音を出し続けている場面を直接聞きました。",
+      "explanationJa": "makingは進行中の音の場面を表します。",
+      "focus": "hear＋O＋-ing",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0039_Q29",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the best analysis of: “I heard that the supplier changed its prices.”",
+      "choices": {
+        "A": "It reports information rather than a sound directly perceived at the scene.",
+        "B": "supplier is the object of hear in a perception structure.",
+        "C": "changed must be bare form.",
+        "D": "that indicates location."
+      },
+      "correctAnswer": "A",
+      "translationJa": "その文は現場の音ではなく、仕入先が価格変更したという情報を聞いたことを表します。",
+      "explanationJa": "hear that＋文は情報として聞いた内容です。",
+      "focus": "hear that",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0039_Q30",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the best contrast between “see O do” and “see O doing.”",
+      "choices": {
+        "A": "-ing always means secondhand information.",
+        "B": "both always mean identical viewpoint.",
+        "C": "bare verb presents the event as a whole; -ing presents a scene in progress.",
+        "D": "bare verb requires to."
+      },
+      "correctAnswer": "C",
+      "translationJa": "原形は出来事全体、-ingは進行中の一場面を表します。",
+      "explanationJa": "知覚動詞後の2形式の中心的な視点差です。",
+      "focus": "原形と-ingの視点差",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0039_Q31",
+      "format": "context-completion",
+      "prompt": "I saw the courier ------- the parcel and then leave the building.",
+      "choices": {
+        "A": "delivering only necessarily",
+        "B": "to deliver",
+        "C": "delivered finite",
+        "D": "deliver"
+      },
+      "correctAnswer": "D",
+      "translationJa": "私は配達員が荷物を届け、その後建物を出るまで見ました。",
+      "explanationJa": "一連の出来事全体を見届けたため原形deliverです。",
+      "focus": "see＋O＋原形",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0039_Q32",
+      "format": "context-completion",
+      "prompt": "When I entered the lobby, I saw several guests ------- for taxis.",
+      "choices": {
+        "A": "to wait",
+        "B": "wait as completed event",
+        "C": "waiting",
+        "D": "waited"
+      },
+      "correctAnswer": "C",
+      "translationJa": "ロビーに入ったとき数名の来客がタクシーを待っているのが見えました。",
+      "explanationJa": "その時進行中の一場面なのでwaitingです。",
+      "focus": "see＋O＋-ing",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0039_Q33",
+      "format": "context-completion",
+      "prompt": "The technician heard the lock ------- once and checked the door.",
+      "choices": {
+        "A": "to click",
+        "B": "click",
+        "C": "clicked finite",
+        "D": "clicking necessarily ongoing"
+      },
+      "correctAnswer": "B",
+      "translationJa": "技術者は鍵が一度カチッと鳴るのを聞き、ドアを確認しました。",
+      "explanationJa": "一回の出来事全体を直接聞くので原形clickです。",
+      "focus": "hear＋O＋原形",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0039_Q34",
+      "format": "context-completion",
+      "prompt": "The receptionist heard ------- the evening train would depart from a different platform.",
+      "choices": {
+        "A": "that",
+        "B": "the flight cancel directly",
+        "C": "to the flight",
+        "D": "the flight canceling as report"
+      },
+      "correctAnswer": "A",
+      "translationJa": "受付担当者は夕方の列車が別のホームから出発すると聞きました。",
+      "explanationJa": "情報内容なのでthat節を使います。",
+      "focus": "hear that",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0039_Q35",
+      "format": "context-completion",
+      "prompt": "The supervisor watched the operator ------- the shutdown sequence from start to finish.",
+      "choices": {
+        "A": "completing only",
+        "B": "to complete",
+        "C": "completed finite",
+        "D": "complete"
+      },
+      "correctAnswer": "D",
+      "translationJa": "監督者は操作者が停止手順を最初から最後まで完了するのを見ました。",
+      "explanationJa": "出来事全体を見届けるため原形completeです。",
+      "focus": "whole event",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0039_Q36",
+      "format": "context-completion",
+      "prompt": "From my desk, I could hear the construction crew ------- outside all morning.",
+      "choices": {
+        "A": "to work",
+        "B": "work once",
+        "C": "working",
+        "D": "worked"
+      },
+      "correctAnswer": "C",
+      "translationJa": "机から午前中ずっと工事スタッフが外で作業している音が聞こえました。",
+      "explanationJa": "継続中の場面にはworkingが自然です。",
+      "focus": "ongoing perception",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0039_Q37",
+      "format": "context-completion",
+      "prompt": "The receptionist heard ------- the client would arrive late.",
+      "choices": {
+        "A": "client arrive directly",
+        "B": "that",
+        "C": "client arriving as information only",
+        "D": "to client"
+      },
+      "correctAnswer": "B",
+      "translationJa": "受付担当者は顧客が遅れて到着すると聞きました。",
+      "explanationJa": "到着予定という情報をthat節で表します。",
+      "focus": "伝聞情報",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0039_Q38",
+      "format": "context-completion",
+      "prompt": "Because she watched the entire test, the engineer saw the prototype ------- and then shut down.",
+      "choices": {
+        "A": "start",
+        "B": "starting only",
+        "C": "to start",
+        "D": "started"
+      },
+      "correctAnswer": "A",
+      "translationJa": "試験全体を見たので技術者は試作品が起動し、その後停止するまで見ました。",
+      "explanationJa": "出来事全体を捉える原形startです。",
+      "focus": "全体視点",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0039_Q39",
+      "format": "context-completion",
+      "prompt": "As we passed the loading dock, we saw a forklift ------- toward the warehouse.",
+      "choices": {
+        "A": "moved",
+        "B": "move as necessarily complete",
+        "C": "to move",
+        "D": "moving"
+      },
+      "correctAnswer": "D",
+      "translationJa": "荷捌き場を通ったときフォークリフトが倉庫へ動いているのが見えました。",
+      "explanationJa": "通過時点で進行中の場面なのでmovingです。",
+      "focus": "一場面-ing",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0039_Q40",
+      "format": "context-completion",
+      "prompt": "We heard ------- the system had already been restored before noon.",
+      "choices": {
+        "A": "the system restore directly",
+        "B": "that",
+        "C": "system restoring necessarily direct",
+        "D": "to system"
+      },
+      "correctAnswer": "B",
+      "translationJa": "システムは正午前にすでに復旧していたと聞きました。",
+      "explanationJa": "復旧済みという情報内容なのでthat節です。",
+      "focus": "情報と直接知覚の区別",
+      "difficulty": "advanced"
+    }
+  ]
+}
