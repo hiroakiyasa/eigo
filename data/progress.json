@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-29T05:16:15.880Z",
+  "updatedAt": "2026-08-29T05:16:43.662Z",
   "totalPages": 330,
-  "completedPages": 68,
+  "completedPages": 69,
   "questionsPerPage": 40,
   "totalPlannedQuestions": 13200,
   "pages": [
@@ -1890,9 +1890,9 @@
       "number": 236,
       "id": "grammar-master-0236",
       "title": "beを変えれば、受動も自由自在",
-      "status": "pending",
+      "status": "complete",
       "output": "question-sets/PAGE_0236.json",
-      "completedAt": null
+      "completedAt": "2026-08-29T05:16:43.662Z"
     },
     {
       "number": 237,

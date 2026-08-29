@@ -276,7 +276,7 @@
 | 233 | “する”から“される”へ視点移動 | [PAGE_0233](pages/PAGE_0233.webp) | [原稿](source-prompts/PAGE_0233.txt) | `pending` |
 | 234 | 受動文を選ぶ4つの理由 | [PAGE_0234](pages/PAGE_0234.webp) | [原稿](source-prompts/PAGE_0234.txt) | `pending` |
 | 235 | be＋過去分詞で受動文 | [PAGE_0235](pages/PAGE_0235.webp) | [原稿](source-prompts/PAGE_0235.txt) | `pending` |
-| 236 | beを変えれば、受動も自由自在 | [PAGE_0236](pages/PAGE_0236.webp) | [原稿](source-prompts/PAGE_0236.txt) | `pending` |
+| 236 | beを変えれば、受動も自由自在 | [PAGE_0236](pages/PAGE_0236.webp) | [原稿](source-prompts/PAGE_0236.txt) | [40問](question-sets/PAGE_0236.json) |
 | 237 | 性質は能動形、前置詞はイメージで | [PAGE_0237](pages/PAGE_0237.webp) | [原稿](source-prompts/PAGE_0237.txt) | `pending` |
 | 238 | 2つの目的語を受動文にする | [PAGE_0238](pages/PAGE_0238.webp) | [原稿](source-prompts/PAGE_0238.txt) | `pending` |
 | 239 | 受動文のあとをtoで補う | [PAGE_0239](pages/PAGE_0239.webp) | [原稿](source-prompts/PAGE_0239.txt) | `pending` |
