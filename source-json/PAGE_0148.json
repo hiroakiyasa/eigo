@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0148",
+  "number": 148,
+  "title": "比較で“一番”や言い換え",
+  "chapter": {
+    "id": "comparison",
+    "title": "比べる・否定する・気持ちを添える"
+  },
+  "unitId": "grammar-comparatives",
+  "pageType": "説明",
+  "image": "pages/PAGE_0148.webp",
+  "promptSource": "source-prompts/PAGE_0148.txt",
+  "promptSha256": "648f2d49b515c03b2e3d5ad5ad89c2b10f95b7f5e332f4e10eb7c1524dc731f7",
+  "prompt": "Use case: scientific-educational\nAsset type: dense 9:16 portrait advanced-comparison explanation page\nPrimary request: Independently teach four meaning patterns: comparative + any other for practical superlative, more A than B for choosing the better description, no more A than B for emphatic denial, and less for lower degree. Source pages 308–309 are coverage only; copy no wording, examples, branded objects, diagrams, or layout.\nInput images: mascot reference; PAGE_0001 design reference.\nCanvas: strict 9:16 portrait, no page number, safe margins.\nTop title: 「比較で“一番”や言い換え」\nCentral illustration: mascot in a four-lens comparison analyst pose examines a champion podium, two description labels, an impossible comparison, and a lower degree gauge.\nMechanism diagram: 「than any other＝ほか全部より」 「more A than B＝BよりAが的確」 「no more A than B＝Bと同様Aではない」 「less A than B＝Aの程度が低い」.\nOriginal example cards:\n1. “Mia runs faster than any other scout.” / 「ほか全員より速い＝実質一番」\n2. “The task was more tiring than difficult.” / 「難しいより、疲れるが的確」\n3. “That toy is no more a compass than this spoon is.” / 「スプーン同様、コンパスではない」\n4. “This route is less dangerous than the cliff path.” / 「dangerousの程度が低い」\nMini practice box: 「ミニ確認：なぜany other scout？」 「答え：Mia自身を除くため」 「any scoutでは比較する本人まで含んでしまう。」\nBottom takeaway: 「比べる対象は、人だけでなく表現や可能性にも広がる」\nStyle: glossy blue-gold-white-red adventure analysis room, dimensional lenses and gauges, thick outlines, dense four-pattern layout.\nTypography: accurate English and concise Japanese.\nConstraints: no page number, source reuse, trademarked examples, source identity, logo, citation, watermark, or extra exercise. Mascot once in analyst pose.\nAvoid: harsh insulting imagery, tiny advanced labels, dark scene.\n"
+}

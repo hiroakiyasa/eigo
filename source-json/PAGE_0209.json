@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0209",
+  "number": 209,
+  "title": "カンマの注釈とwhereの場所案内",
+  "chapter": {
+    "id": "relative",
+    "title": "名詞を後ろから特定する"
+  },
+  "unitId": "grammar-relative",
+  "pageType": "説明",
+  "image": "pages/PAGE_0209.webp",
+  "promptSource": "source-prompts/PAGE_0209.txt",
+  "promptSha256": "ec2c9db08d72a061f15ffae44044fbc587dfea02aba6521490f3b15c54c96ffc",
+  "prompt": "Use case: scientific-educational; dense 9:16 portrait grammar page. Teach comma-added who/which comments and WHERE clauses for places from p.430–431 coverage.\nInput references: PAGE_0001 design and mascot identity.\nTop title: 「カンマの注釈とwhereの場所案内」\nCentral illustration: mascot as a tour guide pauses at a comma rest stop to add side information with WHO/WHICH, then points a WHERE map pin from a place noun into a missing location slot.\nMechanism: 「カンマ付き＝対象を絞らず追加情報」「カンマの後にthatは使わない」「where＝場所の穴を指定」「place where + 主語 + 動詞」.\nOriginal examples: “Mika, who speaks Italian, welcomed the guests.” / 「ミカについて補足」; “We crossed the old bridge, which shook in the wind.” / 「橋について補足」; “This is the studio where my band practices.” / 「バンドが練習するスタジオ」; “I miss the village where I grew up.” / 「育った村」.\nMini problem: 「ミニ問題：カンマの後」 “Our bus, (that / which) was late, finally arrived.” Answer 「which」. Reason 「注釈を加えるカンマ付き修飾ではthatを使わない。」\nBottom ribbon: 「注釈はwho/which、場所の穴はwhere」\nStyle: bright adventure-library tour map, blue/gold/white with red comma stops, thick outlines, dense clear layout.\nConstraints: 9:16; no page number, copied source examples/figures/prose/layout, logo, citation, watermark, empty answer area, or photorealism. One mascot in tour-guide pose.\n"
+}

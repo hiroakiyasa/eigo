@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0202",
+  "number": 202,
+  "title": "wh語は、穴の種類を教える",
+  "chapter": {
+    "id": "relative",
+    "title": "名詞を後ろから特定する"
+  },
+  "unitId": "grammar-relative",
+  "pageType": "説明",
+  "image": "pages/PAGE_0202.webp",
+  "promptSource": "source-prompts/PAGE_0202.txt",
+  "promptSha256": "f01289a61b2098568d656f412cedc61b35c478445af27aeacf6779a723b62de7",
+  "prompt": "Use case: scientific-educational; dense 9:16 portrait grammar page. Independently teach the hole-selector function of wh words from source coverage p.416–417.\nInput references: PAGE_0001 design and mascot identity.\nTop title: 「wh語は、穴の種類を教える」\nCentral illustration: mascot as a grammar detective shines a scanner on a sentence with a glowing blank; colored lenses label HUMAN, THING, PLACE, TIME, REASON and guide the target noun into the blank.\nMechanism: 「who＝人」「which＝もの」「where＝場所」「when＝時」「why＝理由」; show flow 「ターゲットを受ける→穴の種類を指定→後ろの文へ案内」. Emphasize that the target and missing role create the modification; the wh word makes the connection clear.\nOriginal examples: “The nurse who helped us was very calm.” / 「私たちを助けた看護師」; “I repaired the radio which my grandfather gave me.” / 「祖父がくれたラジオ」; “We returned to the hill where we watched the sunrise.” / 「日の出を見た丘」.\nMini problem: 「ミニ問題：場所を案内する語」 “This is the room (who / where) we practice.” Answer 「where」. Reason 「欠けているのは“その部屋で”という場所情報。」\nBottom ribbon: 「wh語は答えではなく、穴への案内標識」\nStyle: glossy adventure-library detective lab, blue/gold/white/red, large hole diagram, thick outlines, dense readable panels.\nConstraints: exact 9:16; no page number, copied prose/examples/figures/layout, source marks, logo, citation, watermark, answer blank, or photorealism. Exactly one mascot in detective pose.\n"
+}

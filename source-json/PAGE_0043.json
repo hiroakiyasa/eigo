@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0043",
+  "number": 43,
+  "title": "思った内容は、後ろの文で説明",
+  "chapter": {
+    "id": "framework",
+    "title": "文の骨組み"
+  },
+  "unitId": "grammar-prepositions-1",
+  "pageType": "説明",
+  "image": "pages/PAGE_0043.webp",
+  "promptSource": "source-prompts/PAGE_0043.txt",
+  "promptSha256": "f98f39a61948d86a79163d01718c08d8fd7f1c07d39d312ecc1346ae52f1c6e0",
+  "prompt": "Use case: scientific-educational. Asset: dense 9:16 portrait grammar page.\nTopic source: p.98–99, concepts only; no reuse.\nTop title: 「思った内容は、後ろの文で説明」\nScene: adventure-library broadcast desk. Leopard reporter speaks a short lead phrase; a large content scene unfolds behind it.\nMechanism: 「I think ...」→「何を？」→ content clause; 「Mia said ...」→「何を？」→ content clause. Show optional “that” as a guide bridge, and a past-to-past time alignment rail.\nOriginal examples: 「I think the path is safe.」 「Mia said that the shop was closed.」 「I'm glad you came.」\nShort explanations: report content, that guides listener, past reporting often pulls embedded tense back.\nMini check: Choose 「Leo said the train (is / was) late.」 Answer: 「was — 過去の said に時をそろえる基本形」.\nTakeaway: 「言い足りない気持ちが、後ろの文を呼ぶ」\nApproved dense visual style, no page number, copied example, source identity, logo, watermark.\n\n"
+}

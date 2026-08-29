@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0221",
+  "number": 221,
+  "title": "文を説明する-ingの上級技",
+  "chapter": {
+    "id": "verb-parts",
+    "title": "動きを部品にする"
+  },
+  "unitId": "grammar-gerunds",
+  "pageType": "説明",
+  "image": "pages/PAGE_0221.webp",
+  "promptSource": "source-prompts/PAGE_0221.txt",
+  "promptSha256": "99249edcb849709f8a93141afabadecffa0a56b31c51f3d971b79c8bc2e247c6",
+  "prompt": "Create a polished, information-dense educational English grammar infographic in portrait 9:16. Match the supplied cover's vivid blue, gold, white, and red explorer aesthetic: rounded gold border, deep-blue panels, white cards, red highlights, crisp textbook typography. Use the exact same cute leopard explorer mascot in three poses: moving an -ing scene beside a noun, assigning a different subject, and looking backward on a timeline. No page number, source name, watermark, logo, copied illustration, copied sentence, or copied layout.\n\nTop Japanese title: 「文を説明する-ingの上級技」\n\nCentral mechanism: a complete main-clause train with an attached glowing “-ing scene” car. Caption: 「-ingは主文に同時進行の場面を足す」. Show three placement choices:\n• sentence end = natural added scene\n• sentence beginning = dramatic setup\n• beside a noun = that noun is described more directly\n\nOriginal examples:\n• The hikers reached camp, carrying wet backpacks. 「濡れた荷物を背負いながら到着」\n• Crossing the rope bridge, I heard a strange call. 「橋を渡る場面を先に見せる」\n• Leo, waving both paws, welcomed the class. 「Leoの直後に動作を差し込む」\n\nAdvanced mechanism 1 「主語が違うなら、-ing側にも主語」. Use two character tracks:\n• The guide checked the map, the children waiting quietly. 「確認するのはguide、待つのはchildren」\nWarning comparison: without “the children,” the waiting action would normally attach to the main subject.\n\nAdvanced mechanism 2 「主文より前なら Having + 過去分詞」. Show a two-step timeline:\n• Having packed the equipment, we left before sunrise. 「装備を詰め終えてから出発」\nFormula: Having + past participle → earlier event; main clause → later event.\n\nMini practice: 「主語の違いを明確に：The bell rang, ___ rushing outside.」 Answer: 「the students」. Full answer: “The bell rang, the students rushing outside.” Reason: 「鳴る主語はbell、飛び出す主語はstudents」.\n\nBottom takeaway ribbon: 「置き場所・動作主・時間の前後を図で整理」. Dense but orderly, accurate English and Japanese, highly readable.\n"
+}

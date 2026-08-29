@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0185",
+  "number": 185,
+  "title": "above・across・afterを動きでつかむ",
+  "chapter": {
+    "id": "prepositions",
+    "title": "位置関係を描く"
+  },
+  "unitId": "grammar-prepositions-1",
+  "pageType": "説明",
+  "image": "pages/PAGE_0185.webp",
+  "promptSource": "source-prompts/PAGE_0185.txt",
+  "promptSha256": "19e976482b7a90e1eba838bfb74ee9d338ed7332d18673a8bc19e81ee0f10cf7",
+  "prompt": "Create a polished, content-rich educational English grammar infographic in portrait 9:16, matching the supplied cover's vivid blue, gold, white, and red explorer-book style. Use the exact same leopard explorer mascot in three action poses: measuring height, crossing a bridge, and following footprints. No page number, source name, watermark, logo, copied example, or copied diagram.\n\nTop Japanese title: 「above・across・afterを動きでつかむ」\n\nDesign three stacked but connected expedition zones, each with a core-image icon, mechanism arrows, original examples, and one phrase.\n\nABOVE — core 「高さ・水準が上」. Show a balloon vertically higher than a lighthouse, not necessarily touching it; also a gauge crossing a standard line.\n• A small drone hovered above the garden. 「庭より高い位置」\n• Her score was above the class average. 「平均という水準より上」\nPhrase: Above all, stay curious. 「何よりも大切なのは好奇心」\n\nACROSS — core 「端から端へ横切る」. Show a bold crosswise arrow over a river and a position on the opposite side.\n• We paddled across the narrow lake. 「湖を横断した」\n• The bakery is across the square. 「広場の向こう側」\n• The message spread across the island. 「島じゅうに広がった」\nPhrase: I came across an unusual shell. 「偶然見つけた」; crossed paths by chance.\n\nAFTER — core 「後ろからついていく→順序・追跡・模倣」. Show footprints trailing a guide.\n• A rescue team went after the lost hiker. 「追っていった」\n• We had dessert after dinner. 「順序が後」\n• This dance was created after an old folk style. 「型にならった」\nPhrase mini-row: look after 「見守る」 / take after 「特徴を受け継ぎ似る」 / name A after B 「BにちなんでAと名づける」.\n\nMini practice: 「道路の向こう側の郵便局：The post office is ___ the road.」 Answer: 「across」. Reason: 「道路を横切った反対側という位置」.\n\nBottom takeaway: 「上の水準＝above／横断＝across／後を追う＝after」. Keep dense but highly legible.\n"
+}

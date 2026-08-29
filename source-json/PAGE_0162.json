@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0162",
+  "number": 162,
+  "title": "助動詞の空白は、句で埋める",
+  "chapter": {
+    "id": "comparison",
+    "title": "比べる・否定する・気持ちを添える"
+  },
+  "unitId": "grammar-modals-1",
+  "pageType": "説明",
+  "image": "pages/PAGE_0162.webp",
+  "promptSource": "source-prompts/PAGE_0162.txt",
+  "promptSha256": "8c07c5b8ca02abdbaa905245e65a206ae4e7f1dca0d6857367c0e5df0f4e4719",
+  "prompt": "Use case: scientific-educational; dense 9:16 portrait grammar page. Independently teach missing modal forms and substitute phrases from source p.337. Do not copy source examples, diagrams, wording, or sequence.\nInput references: mascot appearance and PAGE_0001 design system.\nTop title: 「助動詞の空白は、句で埋める」\nCentral illustration: leopard explorer as a bridge-builder finds missing doors labeled infinitive, -ing, past participle, and after another modal. Flexible phrase bridges span the gaps.\nMechanism: 「助動詞には基本的に原形・-ing形・過去分詞形がない」. Replacement map: 「can → be able to」「must → have to」「may → be allowed to / be possible」. Show form conversion: “to be able to / being able to / have been able to / will be able to”.\nOriginal examples:\n1. “I want to be able to read maps.” / 「toの後はbe able to」\n2. “Being able to swim is useful.” / 「-ingが必要ならbeing able to」\n3. “We will have to leave early.” / 「willの後でmustは使わずhave to」\n4. “Visitors are allowed to enter.” / 「許可を別の形で表す」\nMini problem: 「ミニ問題：未来に“できる”」 “She will (can / be able to) join us.” 「答え：be able to」 「助動詞willの後にcanは重ねず、句を使う。」\nBottom ribbon: 「形が足りなければ、同じ核をもつ句へ」\nStyle: glossy adventure-library bridge workshop, blue/yellow/white, gold phrase bridges, red missing-form markers, thick outlines.\nConstraints: no page number, copied source examples/diagram/prose/layout, source marks, logo, citation, watermark, answer area, or photorealism. One mascot in bridge-builder pose.\n"
+}

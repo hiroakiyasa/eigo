@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0228",
+  "number": 228,
+  "title": "toが結果・判断・名詞を補う",
+  "chapter": {
+    "id": "verb-parts",
+    "title": "動きを部品にする"
+  },
+  "unitId": "grammar-infinitives",
+  "pageType": "説明",
+  "image": "pages/PAGE_0228.webp",
+  "promptSource": "source-prompts/PAGE_0228.txt",
+  "promptSha256": "8bf5fe6ced18f169c5fcd042f8d53ca43a744437814154f4e20cb581456c5990",
+  "prompt": "Create a polished, information-dense educational English grammar page in portrait 9:16, matching the supplied cover's blue-gold-white-red explorer aesthetic. Use the exact same leopard explorer mascot reaching an unexpected ending, evaluating a clue, and attaching explanation tags behind nouns. No page number, source name, watermark, logo, copied example, or copied artwork.\n\nTop Japanese title: 「toが結果・判断・名詞を補う」\n\nUpper section: result spotlight.\nONLY TO = unexpected/disappointing result. Show a treasure hunt ending at the wrong empty chest.\n• We hurried to the pier, only to miss the last boat. 「急いだのに結局乗り遅れた」\nNEVER TO = result that never happens afterward.\n• The rare bird flew away, never to return. 「飛び去り二度と戻らなかった」\n\nJudgment-evidence card: a conclusion bubble followed by TO as its evidence.\n• She must be skilled to repair that watch so quickly. 「そんなに速く直すなんて熟練者だ」\n• How careless I was to leave the map behind! 「地図を忘れるなんて不注意だった」\n• It was generous of Ken to share his supplies. 「分けてくれるなんて親切」\n\nMain lower mechanism: NOUN + TO phrase as a label filling missing information. Caption: 「名詞だけでは曖昧 → 後ろから用途・役割・内容を補う」.\n• I need a brush to clean this bottle. 「この瓶を洗うためのブラシ」\n• Emi was the only student to notice the error. 「誤りに気づいた唯一の生徒」\n• We need somebody to guide us. 「案内してくれる誰か」\n• There is nothing to fear. 「恐れるものは何もない」\n\nAdd “first / last / only + noun + to...” strip, explaining that the action tells what the person or thing was first, last, or only to do.\n\nMini practice: 「“使える机”にする：We need a table ___ the map on.」 Answer: 「to spread」. Full: “a table to spread the map on.” Reason: 「tableとonの間に穴があり、用途を後ろから補う」.\n\nBottom takeaway: 「結果も判断も名詞説明も、toが不足を指して埋める」. Dense, accurate, and visually clear.\n"
+}

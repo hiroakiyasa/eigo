@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0143",
+  "number": 143,
+  "title": "迷う語と不規則変化",
+  "chapter": {
+    "id": "comparison",
+    "title": "比べる・否定する・気持ちを添える"
+  },
+  "unitId": "grammar-comparatives",
+  "pageType": "説明",
+  "image": "pages/PAGE_0143.webp",
+  "promptSource": "source-prompts/PAGE_0143.txt",
+  "promptSha256": "9bbf31b2e23093f3ea22b1241c30a63b4fdf883d5b6e697d851d28c3099b75e0",
+  "prompt": "Use case: scientific-educational\nAsset type: dense 9:16 portrait spelling and irregular-form page\nPrimary request: Independently explain two-syllable uncertainty, the safe use of more/most when unsure, the prohibition against double comparison, and core irregular forms. Source pages 298–299 are coverage only; reuse no source sentences, table, prose, or layout.\nInput images: mascot reference; PAGE_0001 style reference.\nCanvas: strict 9:16 portrait, no page number, full-bleed, safe margins.\nTop title: 「迷う語と不規則変化」\nCentral illustration: mascot in a fork-road advisor pose stands between -er/-est and more/most paths; a special treasure chest holds irregular forms.\nMechanism diagram: 「2音節で迷う → more / most が安全」; warning badge 「more + -er は重ねない」; irregular crystal set 「good/well → better → best」 「bad/badly → worse → worst」 「many/much → more → most」 「little → less → least」.\nOriginal example cards:\n1. “This lane is narrower than the highway.” / 「narrowは-er型が自然」\n2. “The second plan is more clever.” / 「2音節はmoreも使える」\n3. “Mia feels better today.” / 「good/wellの不規則比較級」\n4. “That was the worst storm all week.” / 「badの不規則最上級」\nMini practice box: 「ミニ確認：more easier は正しい？」 「答え：× easier」 「moreと-erを二重に付けない。」\nBottom takeaway: 「迷いは自然。二重比較を避け、不規則形を覚える」\nStyle: bright glossy grammar crossroads, blue-gold-white-red, thick outlines, clear form crystals, central mascot + diagram + examples.\nTypography: exact English forms and bold Japanese.\nConstraints: no page number, source table/example/layout reuse, source identity, logo, citation, watermark, or extra quiz. Mascot once in advisor pose.\nAvoid: confusing arrows, tiny irregular list, dark cave.\n"
+}

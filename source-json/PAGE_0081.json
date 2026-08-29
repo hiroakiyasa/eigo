@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0081",
+  "number": 81,
+  "title": "aで登場、theで再会",
+  "chapter": {
+    "id": "nouns",
+    "title": "名詞の世界"
+  },
+  "unitId": "grammar-articles",
+  "pageType": "説明",
+  "image": "pages/PAGE_0081.webp",
+  "promptSource": "source-prompts/PAGE_0081.txt",
+  "promptSha256": "46729285113bcb297dd068942ac0ead00766037265bbc5688a4fb92056f3371a",
+  "prompt": "Use case: scientific-educational\nAsset type: dense portrait explanation page for an illustrated English grammar book\nPrimary request: Teach the contrast between “a/an” as a not-yet-identified member and “the” as an identifiable one, including first mention then later reference and the inferences each article can create. Source pages 174–175 guide coverage only; independently create all wording, examples, illustration, diagram, question, and layout.\nInput images: Image 1 is the leopard mascot appearance reference only; Image 2 is PAGE_0001, the visual-system reference only.\nCanvas: strict 9:16 portrait, full-bleed, dense but phone-readable, no page number.\nTop title (verbatim): 「aで登場、theで再会」\nCentral illustration: in a bright adventure-library archive, the leopard explorer in a story-guide pose opens a mystery chest; first a hazy card marked “a clue” enters the story, then a spotlight follows the now-known card marked “the clue”. One mascot only.\nMechanism diagram: “初登場・まだ決まらない → a / an” then arrow “聞き手も特定できる → the”. Add inference badges: “a＝同類がほかにもあり得る”, “the＝どれか1つに決まる”.\nOriginal example cards:\n1. “I found a key near the fountain.” / 「初めて出す、まだどの鍵か不明」\n2. “The key opened the blue gate.” / 「さっきの鍵だと特定できる」\n3. “Rin gave me a reason.” / 「理由はほかにもあり得る」\n4. “Rin gave me the reason.” / 「理由はこれだと決まる」\nMini practice: 「ミニ問題　a / the？」 “We saw ___ owl. ___ owl had a silver feather.”\nAnswer: 「答え　an / The」 「初登場は an、再登場は The。」\nBottom ribbon: 「冠詞は“何個”より、“どれに決まるか”を案内する」\nStyle: PAGE_0001 glossy blue-yellow-white adventure library, golden story trail, dimensional word cards, crisp thick outlines, red only for article contrast; large accurate Japanese Gothic and clear English.\nConstraints: include all specified elements once; no copied source wording/examples/figures/order/layout, source identity, citation, logo, ISBN, watermark, page number, or extra prose; no photorealism, dark background, sparse poster, or tiny text.\n"
+}

@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0264",
+  "number": 264,
+  "title": "否定倒置とifなし条件文",
+  "chapter": {
+    "id": "questions",
+    "title": "たずねる・目立たせる"
+  },
+  "unitId": "grammar-advanced",
+  "pageType": "説明",
+  "image": "pages/PAGE_0264.webp",
+  "promptSource": "source-prompts/PAGE_0264.txt",
+  "promptSha256": "5a7437d7bafe6d9958df41482ebd79e9c6112a8d960b2e3082c0b3c353020c76",
+  "prompt": "Create a polished, dense educational English grammar page in portrait 9:16. Match the supplied cover's blue-gold-white-red explorer aesthetic with dramatic stage lighting, timeline cards, and crisp typography. Use the exact same leopard explorer mascot striking a “NEVER” gong and opening a formal IF-less conditional gate. No page number, source name, watermark, logo, or copied source material.\n\nTop Japanese title: 「否定倒置とifなし条件文」\n\nUpper mechanism: ordinary sentence becomes emphatic in two moves.\n1 move a negative/restrictive phrase to the front\n2 invert auxiliary and subject\n• I had never heard such a clear echo. → Never had I heard such a clear echo! 「Neverを強打し、had Iが呼応」\n• We understood the clue only after sunrise. → Only after sunrise did we understand the clue. 「その時になって初めて」\n• No sooner had the gate opened than the crowd rushed in. 「門が開くとすぐ群衆が入った」\n\nAdd a balance-scale illustration: “Never I had...” feels structurally unbalanced; “Never had I...” matches fronted emphasis with inversion. Label the ungrammatical form clearly with a red X.\n\nLower mechanism: formal conditional inversion. Show IF tile removed while HAD or WERE moves to the gate front.\n• If we had left later, we would have missed the ferry. → Had we left later, we would have missed the ferry. 「もし遅く出ていたら」\n• If I were in charge, I would simplify the plan. → Were I in charge, I would simplify the plan. 「仮に責任者なら」\n• Were it not for this compass, we would be lost. 「このコンパスがなければ」\nCaption: 「Had/Wereの倒置そのものが条件を示すのでifは置かない」. Note: polished, formal, often written style.\n\nMini practice: 「If she had noticed the sign, ... を倒置」 Answer: 「Had she noticed the sign, ...」 Reason: 「ifを外し、hadを主語sheの前へ出す」.\n\nBottom takeaway: 「否定は強調の倒置、Had/Wereは条件の倒置」. Dense but orderly and readable.\n"
+}

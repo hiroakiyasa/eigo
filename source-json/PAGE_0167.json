@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0167",
+  "number": 167,
+  "title": "willは、“今決めた”意志",
+  "chapter": {
+    "id": "comparison",
+    "title": "比べる・否定する・気持ちを添える"
+  },
+  "unitId": "grammar-modals-1",
+  "pageType": "説明",
+  "image": "pages/PAGE_0167.webp",
+  "promptSource": "source-prompts/PAGE_0167.txt",
+  "promptSha256": "391099a7a247288f9f6d2c6bf73d121f775bca26055d56067a7cdb983cd11724",
+  "prompt": "Use case: scientific-educational; dense 9:16 portrait grammar page. Independently teach WILL for on-the-spot intention and insistence, and show that will is not exclusively future because it can infer a present situation. Source p.347 is coverage only.\nInput references: mascot identity and PAGE_0001 design.\nTop title: 「willは、“今決めた”意志」\nCentral illustration: leopard explorer as a quick-response captain presses a bright decision button marked CLICK. A second present-time monitor infers what is happening elsewhere right now.\nMechanism: 「その場で決める → I’ll...」「強く発音するWILL → 意志を押し通す」「won’t → 拒否・どうしても動かない」「現在の推測にもwill」. Add contrast cue 「前からの計画ではなく、発話時の決定に強い」.\nOriginal examples:\n1. “The phone is ringing. I’ll answer it.” / 「今その場で決める」\n2. “I WILL finish this project.” / 「強い意志を音で押し出す」\n3. “The lid won’t open.” / 「物がどうしても動かない」\n4. “They’ll be at lunch by now.” / 「今の状況を見通す」\nMini problem: 「ミニ問題：今決めた申し出」 “I (will / may) carry that bag for you.” 「答え：will」 「発話の瞬間に“私がする”と決める。」\nBottom ribbon: 「未来だからwillではない。見通しと意志だからwill」\nStyle: bright adventure-library command bridge, blue/gold/white, red decision button, dimensional monitor, thick outlines, dense but readable.\nConstraints: no page number, copied source examples/illustrations/text/layout, source identity, logo, citation, watermark, blank answer area, or photorealism. One mascot in captain pose.\n"
+}

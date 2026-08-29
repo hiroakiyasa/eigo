@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0144",
+  "number": 144,
+  "title": "moreは“量を足す”比較",
+  "chapter": {
+    "id": "comparison",
+    "title": "比べる・否定する・気持ちを添える"
+  },
+  "unitId": "grammar-comparatives",
+  "pageType": "説明",
+  "image": "pages/PAGE_0144.webp",
+  "promptSource": "source-prompts/PAGE_0144.txt",
+  "promptSha256": "ec4b5241f85d60035b33a636f1e064ab9c5b27a5d5ca737889d7a72bf969681c",
+  "prompt": "Use case: scientific-educational\nAsset type: dense 9:16 portrait comparative intuition page\nPrimary request: Independently teach that more/most originate in quantity and extend naturally to adjective degree, while also covering further/farther, older, and the basic comparative idea “a higher degree.” Source pages 300–301 are coverage only; copy nothing from the source.\nInput images: mascot reference; PAGE_0001 design reference.\nCanvas: strict 9:16 portrait, no page number, safe margins.\nTop title: 「moreは“量を足す”比較」\nCentral illustration: mascot in a level-meter scientist pose pours glowing “MORE” energy into adjective gauges; distance and age gauges sit beside it.\nMechanism diagram: 「many / muchの量 → more → 性質の量にも広がる」; side notes 「farther/further＝さらに遠く」 「older＝年齢・古さ」 「比較級だけでも“以前より・別案より”」.\nOriginal example cards:\n1. “We need more light in this room.” / 「lightの量を増やす」\n2. “This route is more efficient.” / 「efficientの程度を増やす」\n3. “How much further must we walk?” / 「距離をさらに先へ」\n4. “Leo is older than Mia.” / 「年齢の差はolder」\nMini practice box: 「ミニ確認：He is elder than me. は？」 「答え：older than me」 「ふつうの年齢比較にはolderを使う。」\nBottom takeaway: 「moreは“より多く”、そこから“より〜”になる」\nStyle: glossy blue-gold-white adventure science hall, luminous meters, red degree markers, thick outlines, compact cards.\nTypography: exact English, bold Japanese.\nConstraints: no page number, source wording/examples/diagram/layout, source identity, logo, citation, watermark, or extra exercise. Mascot once in scientist pose.\nAvoid: copied quantity chart, tiny text, photorealism.\n"
+}

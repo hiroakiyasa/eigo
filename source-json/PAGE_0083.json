@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0083",
+  "number": 83,
+  "title": "“〜というもの”を語る3つの道",
+  "chapter": {
+    "id": "nouns",
+    "title": "名詞の世界"
+  },
+  "unitId": "grammar-nouns",
+  "pageType": "まとめ",
+  "image": "pages/PAGE_0083.webp",
+  "promptSource": "source-prompts/PAGE_0083.txt",
+  "promptSha256": "5b225f185eb96345bd6b45568f0aacd85712e81f520ca3e89a83d201af6ee7fa",
+  "prompt": "Use case: scientific-educational\nAsset type: dense portrait comparison page for an illustrated English grammar book\nPrimary request: Teach three ways of making a general statement about a whole class: bare plural or uncountable noun, a/an plus singular representative, and the plus singular species/category. Emphasize that the bare plural is the everyday default. Source pages 178–179 guide coverage only; make all sentences and graphics original.\nInput images: mascot appearance only; PAGE_0001 design system only.\nCanvas: strict 9:16 portrait, full-bleed, dense, no page number.\nTop title (verbatim): 「“〜というもの”を語る3つの道」\nCentral illustration: the leopard explorer in a telescope pose views a flock of glowing birds through three lenses: broad panorama, one representative sample, and formal species emblem.\nMechanism diagram: three routes: “Birds fly south in winter.＝複数を広く見る【会話の基本】”; “A penguin cannot fly.＝代表1羽から全体へ”; “The tiger is a powerful hunter.＝種としてひとまとめ【やや硬い】”. Note: “不可算名詞も無冠詞で一般論: Music connects people.”\nAdditional original example card: “I enjoy puzzles.” / 「特定の1問でなく、パズル全般」\nMini practice: 「ミニ問題　自然な一般論は？」 choices “I like a cat.” / “I like cats.”\nAnswer: 「答え　I like cats.」 「好みを広く言うなら無冠詞の複数形。」\nBottom ribbon: 「迷ったら、可算名詞は複数・不可算名詞はそのまま」\nStyle: PAGE_0001 blue-yellow-white adventure library observatory, dimensional lenses and grammar blocks, gold routes, crisp outlines, red only for the default route; mascot once, accurate type.\nConstraints: no copied source text/examples/figures/layout/order, source title, citation, logo, ISBN, watermark, page number, or extra prose; avoid photorealism, dark background, sparse poster, and tiny text.\n"
+}

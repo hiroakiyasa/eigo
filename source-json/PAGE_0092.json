@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0092",
+  "number": 92,
+  "title": "数量は、強さのメーター",
+  "chapter": {
+    "id": "nouns",
+    "title": "名詞の世界"
+  },
+  "unitId": "grammar-determiners",
+  "pageType": "説明",
+  "image": "pages/PAGE_0092.webp",
+  "promptSource": "source-prompts/PAGE_0092.txt",
+  "promptSha256": "613a25721fc76411e554299a7e384deb90798fc85511ec1091804b4a7c9bfe44",
+  "prompt": "Use case: scientific-educational; dense 9:16 portrait grammar page. Source p.196–197 is conceptual coverage only; create a new quantity map, examples, scene, and explanations.\nInput references: mascot appearance and PAGE_0001 visual system.\nTop title: 「数量は、強さのメーター」\nCentral illustration: leopard explorer as a control-room engineer slides a luminous quantity meter from almost zero to beyond the limit. Separate count and amount rails converge on flexible phrases.\nMechanism ladder: 「hardly any / almost no＝ほぼ0」→「a couple of＝2前後・ちょっと」→「a few / a little＝少し」→「quite a few＝少なくない」→「a lot of＝多い」→「too many / too much＝多すぎ」. Add comparison box 「a number of + 複数＝確かにいくつか」 versus 「the number of + 複数＝その数【主語はnumber】」.\nOriginal examples:\n1. “I’ll return in a couple of minutes.” / 「2分前後、すぐに」\n2. “Quite a few visitors stayed late.” / 「思ったより多く」\n3. “A number of tiles are cracked.” / 「割れたタイルがいくつかある」\n4. “The number of cracks is increasing.” / 「増えているのは“数”なので is」\nMini problem: 「ミニ問題：正しい動詞は？」 “A number of students (is / are) waiting.” 「答え：are」 「中心は複数のstudents。a number ofは数量を添える。」\nBottom ribbon: 「数字そのものより、話し手の強度を選ぶ」\nStyle: glossy adventure-library quantity control room, blue/yellow/white, gold meter, limited red overload zone, thick outlines, dense readable hierarchy.\nConstraints: no page number, copied source scale/list/examples/wording/layout, source marks, logo, citation, watermark, answer-writing field, or photorealism. One mascot in engineer pose.\n"
+}

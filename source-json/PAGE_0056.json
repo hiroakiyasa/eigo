@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0056",
+  "number": 56,
+  "title": "見る・聞くは、動作か感覚か",
+  "chapter": {
+    "id": "framework",
+    "title": "文の骨組み"
+  },
+  "unitId": "grammar-advanced",
+  "pageType": "説明",
+  "image": "pages/PAGE_0056.webp",
+  "promptSource": "source-prompts/PAGE_0056.txt",
+  "promptSha256": "67486e114997eb8fb21d22291ae25ab398acca79c52670735692de80cfe0787b",
+  "prompt": "Use case: scientific-educational\nAsset type: dense 9:16 portrait comparison page\nPrimary request: Independently distinguish look, see, watch, listen, and hear by action versus reception and by degree of attention. Source pages 124–125 are coverage only; copy no wording, examples, diagrams, or layout.\nInput images: mascot appearance reference; PAGE_0001 design reference.\nCanvas: strict 9:16 portrait, no page number, safe margins.\nTop title: 「見る・聞くは、動作か感覚か」\nCentral illustration: mascot in a two-sided sensory-lab pose. On the left he actively points eyes and ears outward; on the right light and sound waves arrive at him. A focused watch beam sits between.\nMechanism diagram: 2×2 matrix: 「自分から向ける：look / listen」 and 「向こうから入る：see / hear」, with 「watch＝集中して見続ける」 across the center.\nOriginal example cards:\n1. “Look at the tiny footprint.” / 「視線を自分から向ける」\n2. “I can see a tower beyond the trees.” / 「景色が目に入ってくる」\n3. “We watched the comet for an hour.” / 「集中して変化を見続ける」\n4. “Listen—the bell is ringing. I can hear it.” / 「耳を向ける→音が入る」\nMini practice box: 「ミニ確認：『音楽に耳を傾ける』は listen / hear？」 「答え：listen」 「意識して耳を向ける動作だから。」\nBottom takeaway: 「look・listen は動作、see・hear は感覚」\nStyle: bright adventure-library sensory observatory, glossy wave diagrams, blue/yellow/white with small red focus beam, thick outlines, rich central scene and readable comparison cards.\nTypography: exact English punctuation, bold Japanese Gothic.\nConstraints: no page number, source expression/layout reuse, source identity, logo, citation, watermark, or extra quiz. Mascot once in a distinct lab pose.\nAvoid: confusing arrows, tiny captions, huge mascot, dark observatory.\n"
+}

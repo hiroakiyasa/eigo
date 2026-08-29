@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0177",
+  "number": 177,
+  "title": "can と be able to の使い分け",
+  "chapter": {
+    "id": "comparison",
+    "title": "比べる・否定する・気持ちを添える"
+  },
+  "unitId": "grammar-modals-2",
+  "pageType": "説明",
+  "image": "pages/PAGE_0177.webp",
+  "promptSource": "source-prompts/PAGE_0177.txt",
+  "promptSha256": "641a51d3ccba11359bfbb3f66494336158c936568a8a04fd9b01d5aa2c989475",
+  "prompt": "Create a polished, information-dense educational book page in portrait 9:16, matching the supplied cover's vivid explorer design. Same leopard mascot, first showing a skill badge, then celebrating one successful rescue. No page number, source identity, watermark, or logo.\n\nTop Japanese title: 「can と be able to の使い分け」\n\nCentral split mechanism:\nCAN/COULD = potential ability, what someone generally can/could do.\nBE ABLE TO = factual ability and flexible grammar; in the past, it can highlight one achieved success.\n\nOriginal examples with concise Japanese:\n• I can read music. 「楽譜を読める（一般的能力）」\n• My aunt could repair old radios. 「昔その能力があった」\n• After two hours, we were able to unlock the door. 「実際に解錠できた」\n• I want to be able to speak confidently. 「to不定詞の中では be able to」\n\nAdd emphasis note: can is normally the natural short choice for ordinary present ability; be able to may highlight achievement or fit positions where a modal cannot appear.\n\nShow the one-modal rule with nesting blocks:\n• Maya may be able to join us. ✓\n• Maya may can join us. ✗\n• You will be able to download it later. ✓\n\nSmall urgent-advice badge: had better + base verb means 「そうしないと困る」, stronger/more urgent than casual advice. Example “You'd better save your work.” Negative: “You'd better not touch that wire.”\n\nMini practice: 「一度の成功『ついに橋を渡れた』: We finally ___ cross the bridge.」 Answer: were able to. Reason: 「過去の具体的な達成」.\n\nTakeaway: 「能力なら can、形の自由や実際の達成なら be able to」. Dense but clear.\n"
+}

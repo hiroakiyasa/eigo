@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0129",
+  "number": 129,
+  "title": "話し手の前置きと so の入口",
+  "chapter": {
+    "id": "modifiers",
+    "title": "情報を足す"
+  },
+  "unitId": "grammar-adverbs",
+  "pageType": "英文",
+  "image": "pages/PAGE_0129.webp",
+  "promptSource": "source-prompts/PAGE_0129.txt",
+  "promptSha256": "4966c877b7c5e9a44646b4ceb60a3a24c00da887e77756129e31589962295de6",
+  "prompt": "Create a polished information-dense educational English grammar page in portrait 9:16, matching the supplied cover's blue-and-gold explorer design. Same leopard mascot, opening a truth-scroll and using a glowing arrow marked SO. No page number, source identity, watermark, or logo.\n\nTop Japanese title: 「話し手の前置きと so の入口」\n\nTop half: teach sentence-opening attitude phrases. Show scroll labels and original examples:\n• To tell the truth, I was nervous. 「本当のことを言うと」\n• To be honest, I missed the clue. 「正直に言うと」\n• To my surprise, the door was unlocked. 「驚いたことに」\n• To our relief, the rain stopped. 「ほっとしたことに」\nExplain visually: 「To + 動詞 / To + 人の感情」 acts as a frame for the whole sentence, followed by a comma.\n\nBottom half: introduce the core image of so as a bright arrow carrying meaning forward: degree → result, previous content → substitute, reason/result → connection. Include three preview cards:\n• so tall 「それほど背が高い」 intensifier\n• I think so. 「そう思う」 replaces previous idea\n• It was late, so we went home. 「だから帰った」 connects result\n\nCentral mascot should physically guide the same SO arrow through these three uses. Keep “so” consistently red and the information it points to in gold.\n\nMini practice: 「『そう願っています』は？ I hope ___.」 Answer: “I hope so.” Reason: 「so が前に出た内容全体を受ける」.\n\nTakeaway ribbon: 「so は『その程度・その内容・その結果』へ矢印を伸ばす」. Rich, clear, original and cohesive.\n"
+}

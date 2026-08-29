@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0250",
+  "number": 250,
+  "title": "語順の移動に気持ちを乗せる",
+  "chapter": {
+    "id": "verb-parts",
+    "title": "動きを部品にする"
+  },
+  "unitId": "grammar-passive",
+  "pageType": "まとめ",
+  "image": "pages/PAGE_0250.webp",
+  "promptSource": "source-prompts/PAGE_0250.txt",
+  "promptSha256": "abecd5da74dd471b8110a53edbc2bf6cc81c4e92597661d62687d0b960568106",
+  "prompt": "Create a polished, content-rich educational English grammar page in portrait 9:16, matching the supplied cover's blue, gold, white, and red explorer style. Same leopard mascot conducting normal, question, and exclamation sentence trains with expressive body language. No page number, source name, watermark, or logo.\n\nTop Japanese title: 「語順の移動に気持ちを乗せる」\n\nCreate a high-value summary page: ordinary word order presents information; inversion marks a request for confirmation/knowledge; fronting places focus; exclamation magnifies an emotional target. Central train system changes carriage order at QUESTION and EXCLAMATION junctions.\n\nOriginal examples with function labels:\n• You are really leaving tonight. 「情報提示」\n• Are you really leaving tonight? 「驚き＋確認」\n• This book I absolutely recommend. 「this bookを強く前景化」\n• What a brilliant idea you had! 「名詞句への感動」\n• How calm the lake looks! 「形容詞への感動」\n\nAdd voice/gesture panel: actual questions also rely on intonation, gaze, and context; correct word order alone does not guarantee the intended social meaning.\n\nMini practice: choose What/How: “___ beautiful the stars are!” Answer: How; reason 「beautifulという形容詞を強調」.\n\nTakeaway: 「配置転換は、知りたい・見せたい気持ちの形」. Dense summary, train visual, examples, mini answer.\n"
+}

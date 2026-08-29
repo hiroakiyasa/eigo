@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0099",
+  "number": 99,
+  "title": "mine・myself・itで受ける",
+  "chapter": {
+    "id": "nouns",
+    "title": "名詞の世界"
+  },
+  "unitId": "grammar-pronouns",
+  "pageType": "説明",
+  "image": "pages/PAGE_0099.webp",
+  "promptSource": "source-prompts/PAGE_0099.txt",
+  "promptSha256": "96dbb49a0f2ff0b266f4282b369df84ca3be6769548ea0f2a728b988ccfcdd6f",
+  "prompt": "Use case: scientific-educational; dense 9:16 portrait grammar page. Independently explain possessive pronouns, reflexive/emphatic -self forms, and it as a receiver of a previously mentioned thing or entire idea. Source p.210–211 is coverage only.\nInput references: mascot identity and PAGE_0001 design.\nTop title: 「mine・myself・itで受ける」\nCentral illustration: leopard explorer as a relay magician receives three glowing batons: a nounless ownership badge, a boomerang returning to its subject, and a context bubble compressed into it.\nMechanism: route 1 「my map → mine：名詞なしで“私のもの”」; route 2 「主語→動作→同じ主語へ戻る：myself / yourself / himself ...」 plus emphasis 「I built it myself＝自力で」; route 3 「前に出た単数の物・出来事・発言全体 → it」.\nOriginal examples:\n1. “Your compass is new; mine is scratched.” / 「mineだけでmy compass」\n2. “Mina taught herself to code.” / 「教える動作がMina自身へ戻る」\n3. “Leo repaired the drone himself.” / 「ほかの人でなく自分で」\n4. “The gate opened at midnight. It surprised everyone.” / 「前の出来事全体をitで受ける」\nMini problem: 「ミニ問題：正しい形は？」 “This seat is (my / mine).” 「答え：mine」 「後ろに名詞がないので所有代名詞。」\nBottom ribbon: 「繰り返さず受けると、英文は軽くつながる」\nStyle: glossy adventure-library relay stage, blue/yellow/white, gold boomerang and context bubble, thick outlines, limited red form contrast.\nConstraints: no page number, copied source expressions/examples/figure/prose/layout, source identity, logo, citation, watermark, answer space, or photorealism. One mascot in relay-magician pose.\n"
+}

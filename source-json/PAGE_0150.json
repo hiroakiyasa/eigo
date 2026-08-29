@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0150",
+  "number": 150,
+  "title": "最上級は1つに決める",
+  "chapter": {
+    "id": "comparison",
+    "title": "比べる・否定する・気持ちを添える"
+  },
+  "unitId": "grammar-comparatives",
+  "pageType": "説明",
+  "image": "pages/PAGE_0150.webp",
+  "promptSource": "source-prompts/PAGE_0150.txt",
+  "promptSha256": "9512da0e5037236fb52716413f4bcb5f20c38abeae3334761a869740a9f7d6a5",
+  "prompt": "Use case: scientific-educational\nAsset type: dense 9:16 portrait superlative-core page\nPrimary request: Independently teach the superlative as selecting one highest degree, the usual the, cases about one object’s own changing state where the may be omitted, most meaning “very,” and in vs of for comparison range. Source pages 312–313 are coverage only; copy no examples, wording, figures, or layout.\nInput images: mascot reference; PAGE_0001 approved design reference.\nCanvas: strict 9:16 portrait, no page number, full-bleed, safe margins.\nTop title: 「最上級は1つに決める」\nCentral illustration: mascot in a gold-crown referee pose selects the peak of several level towers. A side timeline shows one road changing width, and two range gates show IN and OF.\nMechanism diagram: 「複数から1つ → the + -est / most」; 「1つの物の中の最高点 → the省略可」; 「most＝veryならtheなし」; range fork 「in＋場所・集団」 「of＋数・並んだ集合」.\nOriginal example cards:\n1. “Mia found the shortest route.” / 「複数のrouteから1つ」\n2. “Which engine runs the most quietly?” / 「副詞もmostで最上級」\n3. “This path is narrowest near the gate.” / 「1本の道の中の最高点」\n4. “That was a most helpful answer.” / 「most＝とても、最上級ではない」\nMini practice box: 「ミニ確認：the oldest ___ the five はin / of？」 「答え：of」 「5つという並んだ集合の中だから。」\nBottom takeaway: 「1つに決まるならthe。範囲と意味を見て外すこともある」\nStyle: glossy blue-gold-white-red adventure-library crown arena, dimensional towers and range gates, thick outlines, central illustration + diagram + four cards.\nTypography: exact English and bold Japanese Gothic.\nConstraints: no page number, source expression/example/diagram/layout, source identity, logo, citation, watermark, or extra exercise. Mascot once in referee pose.\nAvoid: copied podium art, tiny range labels, dark arena.\n"
+}

@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0124",
+  "number": 124,
+  "title": "位置で変わる限定と程度",
+  "chapter": {
+    "id": "modifiers",
+    "title": "情報を足す"
+  },
+  "unitId": "grammar-adverbs",
+  "pageType": "英文",
+  "image": "pages/PAGE_0124.webp",
+  "promptSource": "source-prompts/PAGE_0124.txt",
+  "promptSha256": "7c68355d243497ca778d4d38e0612dd9d4f0cfd3fcbab4f35faa822575450fae",
+  "prompt": "Create a polished information-dense educational book page in portrait 9:16, using the supplied cover's bright blue, gold, white, and red adventure style. Same leopard explorer mascot, balancing movable word magnets and turning an intensity dial. No page number, footer number, source name, watermark, or logo.\n\nTop Japanese title: 「位置で変わる限定と程度」\n\nCentral illustration: a magnetic sentence board where only, almost, kind of, and hardly slide to different positions and cast a colored bracket over the words they affect. Explain 「近くに置いた語句を限定する」. Include original contrasts:\n• Only Ken borrowed the red bike. 「借りたのはケンだけ」\n• Ken borrowed only the red bike. 「借りたのは赤い自転車だけ」\n• We almost missed the bus. 「もう少しで乗り遅れるところだった」\n• The answer is kind of surprising. 「ちょっと意外だ」\n• I can hardly hear you. 「ほとんど聞こえない」\n\nSecond panel: intensity dial with very / absolutely / too / so. Show accurate pairings and meanings:\n• very cold 「とても寒い」\n• absolutely impossible 「完全に不可能」\n• too heavy to lift 「持ち上げるには重すぎる」\n• so bright that I closed my eyes 「とても明るくて目を閉じた」\nNote: very commonly strengthens gradable adjectives; absolutely suits an extreme/completed meaning.\n\nMini practice: 「『ユキだけが窓を開けた』は？ A Only Yuki opened the window. / B Yuki opened only the window.」 Answer A; reason 「only を主語の直前に置く」.\n\nTakeaway: 「限定語は焦点のそば、程度語は強める語の前」. Make it lively, full, and readable.\n"
+}

@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0137",
+  "number": 137,
+  "title": "outは外へ、offは離れる",
+  "chapter": {
+    "id": "comparison",
+    "title": "比べる・否定する・気持ちを添える"
+  },
+  "unitId": "grammar-comparatives",
+  "pageType": "説明",
+  "image": "pages/PAGE_0137.webp",
+  "promptSource": "source-prompts/PAGE_0137.txt",
+  "promptSha256": "3ba95481c0b611a1e7515ec2025b36a8582d091cf8d9f6282ef695c3f6e1766d",
+  "prompt": "Use case: scientific-educational; dense 9:16 portrait grammar page. Independently teach out and off from source p.281–282. Create original explanations, examples, scene, and mechanism.\nInput references: mascot identity and PAGE_0001 style.\nTop title: 「outは外へ、offは離れる」\nCentral illustration: leopard explorer as an escape-room operator. OUT carries hidden items beyond a boundary into visibility or removes the last contents; OFF disconnects a plug and separates a train car from an active rail.\nMechanism OUT routes: 「外へ出る」「隠れたものが判明」「困難から脱出」「中身がなくなる」「残らず完全」. OFF routes: 「接触・基準から離れる」「乗り物から降りる」「予定を先へ離す」「活動・電源から離れる」.\nOriginal examples:\n1. “We finally worked out the puzzle.” / 「混乱の外へ出て解決」\n2. “The printer has run out of paper.” / 「紙が外へ出切って0」\n3. “Please turn off the projector.” / 「活動中の流れから切る」\n4. “The hikers set off before sunrise.” / 「今いる所から離れて出発」\nMini problem: 「ミニ問題：会議を来週へ延期する」 “put the meeting (out / off)” 「答え：off」 「今の予定位置から離して先へ送る。」\nBottom ribbon: 「境界の外か、接続から離れるかを描こう」\nStyle: glossy adventure-library escape-control room, blue/gold/white, red boundary and disconnect marks, thick outlines, dense visual flow.\nConstraints: no page number, copied source phrasal-verb list/examples/figures/text/layout, source identity, logo, citation, watermark, blank answer field, or photorealism. One mascot in operator pose.\n"
+}

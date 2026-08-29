@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0155",
+  "number": 155,
+  "title": "notの位置で、意味の範囲が変わる",
+  "chapter": {
+    "id": "comparison",
+    "title": "比べる・否定する・気持ちを添える"
+  },
+  "unitId": "grammar-advanced",
+  "pageType": "説明",
+  "image": "pages/PAGE_0155.webp",
+  "promptSource": "source-prompts/PAGE_0155.txt",
+  "promptSha256": "50a514e7b71746216650bef1f48ca8a495f78444c979301015e0a4df27bf066d",
+  "prompt": "Use case: scientific-educational\nAsset type: dense portrait scope-and-position page for an illustrated English grammar book\nPrimary request: Show that moving not changes its scope: it can negate a phrase, infinitive, purpose, or manner; contrast didn’t try to do with tried not to do, and reinforce not ... any order. Source pages 322–323 guide coverage only; independently create all examples and graphics.\nInput images: mascot appearance reference only; PAGE_0001 style reference only.\nCanvas: strict 9:16 portrait, dense and phone-readable, no page number.\nTop title (verbatim): 「notの位置で、意味の範囲が変わる」\nCentral illustration: the leopard explorer in a spotlight-operator pose slides a red NOT spotlight along a sentence rail; only the block immediately after it darkens.\nMechanism diagram: pair “didn’t try to cross＝渡ろうと試みなかった” versus “tried not to cross＝渡らないよう努力した”. Scope badges “not me / not at night / not to wake anyone”. Order warning “not ... any ✓”.\nOriginal example cards:\n1. “It was not my idea.” / 「my ideaを否定」\n2. “We whispered not to wake the baby.” / 「起こさないために」\n3. “I didn’t deliberately hide the map.” / 「わざと隠した、を否定」\n4. “I deliberately didn’t hide the key.” / 「わざと、隠さなかった」\nMini practice: 「ミニ問題　“食べないようにした”は？」 choices “I didn’t try to eat it.” / “I tried not to eat it.”\nAnswer: 「答え　I tried not to eat it.」 「notがto eatの直前で食べる行為を否定。」\nBottom ribbon: 「notの右側だけが、打ち消しの光に入る」\nStyle: PAGE_0001 blue-gold-white adventure-library spotlight stage, glossy grammar rail, crisp outlines, red only for NOT scope, mascot once, readable text.\nConstraints: no copied source wording/examples/figures/layout/order, source identity, citation, logo, ISBN, watermark, page number, or extra prose; no photorealism or unreadable type.\n"
+}

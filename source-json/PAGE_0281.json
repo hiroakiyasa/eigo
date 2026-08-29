@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0281",
+  "number": 281,
+  "title": "過去の出来事が“今”に届く",
+  "chapter": {
+    "id": "time",
+    "title": "時間を旅する"
+  },
+  "unitId": "grammar-past-continuous",
+  "pageType": "説明",
+  "image": "pages/PAGE_0281.webp",
+  "promptSource": "source-prompts/PAGE_0281.txt",
+  "promptSha256": "f66075d14c7a60c1f84bf44a0a27e0a85506451a3105c450199ce4aca77daae7",
+  "prompt": "Use case: scientific-educational; dense 9:16 portrait English grammar page. Rebuild p.574–575 coverage into an original intuitive lesson on the present perfect connecting past events to the present.\nInput references: PAGE_0001 design and mascot identity.\nTop title: 「過去の出来事が“今”に届く」\nCentral illustration: leopard explorer as a time-bridge keeper pulls three glowing past event ropes into a large NOW platform: absence now, clean result now, tired condition now. A second lens compares a past snapshot with a present-perfect live tracker.\nMechanism: 「have + 過去分詞＝過去から今へ迫る」「出来事より“今どうなのか”が中心」「完了・経験・継続・結果は同じ視点の違う現れ」; contrast 「過去形＝当時の写真 / 現在完了＝現在地につながる線」.\nOriginal examples: “I've fixed the heater, so the room is warm now.” / 「直した結果、今は暖かい」; “Nora has gone to the library.” / 「行ったので今ここにいない」; “I've carried boxes all morning, and my arms hurt.” / 「働いたことが今の疲れに届く」; “Where have I left my glasses?” / 「今どこにあるかが問題」.\nMini problem: 「ミニ問題：今の結果に注目」 “I (lost / have lost) my key, so I can't get inside.” Answer 「have lost」. Reason 「鍵を失ったことが今入れない状況につながる。」\nBottom ribbon: 「用法名より、過去から今へ伸びる線を感じよう」\nStyle: glossy adventure-library time bridge, blue/gold/white/red, thick outlines, dense phone-readable infographic.\nConstraints: exact 9:16; no page number, copied source text/examples/figures/layout, logo, citation, watermark, blank answer field, or photorealism. One mascot bridge keeper.\n"
+}

@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0051",
+  "number": 51,
+  "title": "動きの向きを見よう",
+  "chapter": {
+    "id": "framework",
+    "title": "文の骨組み"
+  },
+  "unitId": "grammar-prepositions-1",
+  "pageType": "説明",
+  "image": "pages/PAGE_0051.webp",
+  "promptSource": "source-prompts/PAGE_0051.txt",
+  "promptSha256": "94f8bf2f611c2b5c0be1419de0029db626681fa5b063aede27418a198c7fd914",
+  "prompt": "Use case: scientific-educational\nAsset type: dense 9:16 portrait vocabulary-concept page\nPrimary request: Independently teach the direction and motion cores of go, come, run, and bring. Source pages 114–115 are coverage only; do not reuse wording, examples, images, explanation order, or layout.\nInput images: Image 1 mascot appearance reference; Image 2 PAGE_0001 approved design reference. Preserve mascot identity and the glossy blue-yellow-white adventure-library world.\nCanvas: strict 9:16 portrait, full-bleed, rich but scan-friendly, safe margins, no page number.\nTop title (verbatim): 「動きの向きを見よう」\nCentral illustration: leopard explorer in a compass-guide pose at a glowing library junction. A gold “注目点” beacon is the center; one arrow approaches it, one leaves it, one races along a track, one carries an object toward it.\nMechanism diagram: 「注目点へ＝come」 「注目点から離れる＝go」 「流れ続ける＝run」 「物をこちらへ運ぶ＝bring」. Use four distinct arrow icons around one center.\nOriginal example cards, exact text:\n1. “I’m coming to the entrance now.” / 「待つ相手の場所へ近づく」\n2. “Leo went to the observatory.” / 「注目点から離れて進む」\n3. “A narrow path runs beside the river.” / 「線のように続いている」\n4. “Mia brought us a warm blanket.” / 「物がこちら側へやってくる」\nMini practice box: 「ミニ確認：『今そっちへ行くよ』は go / come？」 「答え：come」 「相手のいる注目点へ近づくから。」\nBottom takeaway: 「日本語訳より、“どちら向きか”で選ぼう」\nStyle: original cover-quality educational adventure illustration, glossy dimensional verb arrows, bright glass library, thick crisp outlines, blue/yellow/white with limited red accents; central scene + diagram + four compact cards + practice.\nTypography: accurate English, bold readable Japanese Gothic, only specified text.\nConstraints: no source expression/layout reuse, source identity, logo, ISBN, citation, watermark, page number, or additional quiz. Mascot appears once in the specified pose.\nAvoid: giant mascot hiding content, tiny text, sparse poster, random labels, dark scene, photorealism.\n"
+}

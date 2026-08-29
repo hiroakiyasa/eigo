@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0183",
+  "number": 183,
+  "title": "at・in・onは同じ場所でも変わる",
+  "chapter": {
+    "id": "prepositions",
+    "title": "位置関係を描く"
+  },
+  "unitId": "grammar-prepositions-1",
+  "pageType": "英文",
+  "image": "pages/PAGE_0183.webp",
+  "promptSource": "source-prompts/PAGE_0183.txt",
+  "promptSha256": "fe214f690e07d9f4c1a190d107d6090606607070b78c2d622e394334a54e69c2",
+  "prompt": "Create a polished, content-rich educational English grammar infographic page in portrait 9:16. Follow the supplied cover's blue, gold, white, and red explorer design with glossy icons and clean textbook panels. Use the exact same leopard explorer mascot in three poses: pointing to a map pin, standing inside a terminal, and touching a platform surface. No page number, source name, watermark, logo, or copied source art/text.\n\nTop Japanese title: 「at・in・onは同じ場所でも変わる」\n\nCentral triptych with one airport transformed by viewpoint:\nAT = 「点」: airport shown as one glowing pin on a route map.\nIN = 「内部」: cutaway terminal surrounding the mascot.\nON = 「接触・面」: mascot and suitcase supported by a platform surface.\n\nCore equation strip: 「場所の大きさではなく、話し手がどう切り取るか」.\n\nOriginal example pairs with concise Japanese:\n• We met at the airport entrance. 「入口を待ち合わせ点として」\n• We ate lunch in the airport lounge. 「ラウンジの内部で」\n• Your ticket is on the counter. 「カウンターの面に接して」\n\nAdd a city route card: “We stopped at Sendai on the way north.” 「経路上の一点」 versus “We stayed in Sendai for three nights.” 「街の中で滞在」.\n\nAdd a chair illustration pair: “Grandpa relaxed in a deep armchair.” 「包まれる椅子」 versus “A child sat on a wooden stool.” 「座面に乗る」.\n\nAdd an area/surface pair using a sports field: “The ball rolled into the practice area and stopped in it.” 「範囲の中」 versus “Three birds were standing on the field.” 「地面の上」. Keep the key prepositions visually highlighted.\n\nMini practice: 「駅で乗り換えた：We changed trains ___ Shinagawa.」 Answer: 「at」. Reason: 「乗換地点として駅を一点で捉える」.\n\nBottom takeaway ribbon: 「点なら at／包まれるなら in／面との接触なら on」. Make it dense yet immediately scannable, with strong visual contrasts and accurate English.\n"
+}

@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0037",
+  "number": 37,
+  "title": "直接つかむ？ 前置詞でつなぐ？",
+  "chapter": {
+    "id": "framework",
+    "title": "文の骨組み"
+  },
+  "unitId": "writing-word-order",
+  "pageType": "説明",
+  "image": "pages/PAGE_0037.webp",
+  "promptSource": "source-prompts/PAGE_0037.txt",
+  "promptSha256": "11deb247e18e89a2089524756da25837bbb8678e81e7620d24e94969a49777d2",
+  "prompt": "Use case: scientific-educational\nAsset type: dense portrait classification page for an illustrated English grammar book\nPrimary request: Teach a compact set of verbs that take a direct object without a preposition versus verbs that normally connect to a person through a preposition. Base coverage on source pages 86–87 only, but create completely original prose, sentences, groupings, and visuals.\nInput images: Image 1 mascot identity only; Image 2 PAGE_0001 visual style only.\nCanvas: strict 9:16 portrait, full-bleed, dense, no page number.\nTop title (verbatim): 「直接つかむ？ 前置詞でつなぐ？」\nCentral original illustration: the leopard explorer in a rope-guide pose routes verb blocks through two gates in a bright adventure-library obstacle course. Direct gate reaches the object immediately; bridge gate uses “to / with”.\nMechanism diagram: left “V + O” cards: mention, ask, tell, enter, visit, approach, resemble; note 「対象へ直接はたらく」. Right “V + 前置詞 + 人” cards: complain to, apologize to, agree with; note 「動作と相手を橋でつなぐ」.\nOriginal example cards:\n1. “Please mention the blue door.” / 「about を置かない」\n2. “Aya entered the quiet hall.” / 「into を置かない」\n3. “I apologized to our coach.” / 「相手へは to」\n4. “We agreed with Sora.” / 「人への同意は with」\nMini practice box: 「ミニ問題　余分な語を消そう」 “Ken approached to the counter.”\nAnswer box: 「答え　to を消す」 「approach は場所を直接目的語にとる。」\nBottom ribbon: 「動詞ごとの“つながり方”を、文ごと覚える」\nStyle: PAGE_0001 adventure-library route puzzle, blue/yellow/white, golden ropes and dimensional grammar blocks, red only for incorrect prepositions, bold outlines, phone-readable type.\nConstraints: one mascot in new pose, all text exact and legible; no source wording/examples/figures/layout, source identity, citation, logo, ISBN, watermark, page number, or extra prose; no photorealism, dark background, or generic worksheet.\n"
+}

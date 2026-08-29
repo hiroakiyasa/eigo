@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0255",
+  "number": 255,
+  "title": "気軽なひと言タグ",
+  "chapter": {
+    "id": "questions",
+    "title": "たずねる・目立たせる"
+  },
+  "unitId": "grammar-questions",
+  "pageType": "説明",
+  "image": "pages/PAGE_0255.webp",
+  "promptSource": "source-prompts/PAGE_0255.txt",
+  "promptSha256": "6af69df9de17491630b40cfebbe8e6fab5477f07b3a90389f8812d09f11dffc7",
+  "prompt": "Use case: scientific-educational\nAsset type: dense illustrated English casual-tag page, portrait 9:16\nPrimary request: Independently teach flexible conversational question add-ons: right?, OK?, huh?, don’t you think?, imperative + will/would/could you?, Let’s + shall we?, and British colloquial innit?. Reconstruct source pages 522–523 without copying sentences, illustrations, or layout.\nInput images: PAGE_0001 design reference; mascot_reference exact leopard explorer.\nCanvas: exact 941×1672, strict 9:16, safe margins, no page number.\nTop Japanese title: 「気軽なひと言タグ」\nCentral illustration: the mascot selects small speech-bubble charms from a tag belt and clips them to commands, suggestions, and statements.\nMechanism diagram: statement add-ons right?/OK?/huh?; soft command ladder “will you?” → “would you?” / “could you?”; invitation “Let’s …, shall we?”; culture note “innit?”＝very casual British form, recognize first and use with audience awareness.\nOriginal example cards:\n1. “You brought the tickets, right?” / 「合ってるよね？」\n2. “Pass me the lantern, would you?” / 「命令を少し丁寧に終える」\n3. “Let’s check the north trail, shall we?” / 「誘いを柔らかく確認」\n4. “Cold today, innit?” / 「くだけた英国口語」\nMini practice: 「Let’s take a break, ___ ___?」 Answer: “shall we?” Reason: 「Let’sの誘いに結び付く定番の軽い確認。」\nBottom takeaway: 「会話の最後に短いタグを足すと、圧力や温度を調整できる」\nStyle: bright glossy blue-gold-white-red adventure speech-bubble atelier, charming tag icons, thick outlines, information-dense but playful, mascot once in a quick conversational pose.\nTypography: exact English, concise Japanese Gothic.\nConstraints: no page number, source reuse, source identity, logo, citation, watermark, or extra problem.\nAvoid: presenting innit as universal formal English, tiny speech bubbles, dark scene.\n"
+}

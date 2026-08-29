@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0253",
+  "number": 253,
+  "title": "軽く答え、ないの？と聞く",
+  "chapter": {
+    "id": "questions",
+    "title": "たずねる・目立たせる"
+  },
+  "unitId": "grammar-questions",
+  "pageType": "説明",
+  "image": "pages/PAGE_0253.webp",
+  "promptSource": "source-prompts/PAGE_0253.txt",
+  "promptSha256": "1e56b656fd2ce77946d5037dbec81b8d97b3de592d330ead4dc57890652e965f",
+  "prompt": "Use case: scientific-educational\nAsset type: dense illustrated English conversation-question page, portrait 9:16\nPrimary request: Independently teach light short answers, natural casual reactions, uncertainty responses, and negative questions that carry surprise, concern, or a request for agreement. Reconstruct source pages 518–519 without copying any source sentence or diagram.\nInput images: PAGE_0001 visual design reference; mascot_reference exact leopard explorer.\nCanvas: exact 941×1672 portrait, strict 9:16, safe margins, no page number.\nTop Japanese title: 「軽く答え、ないの？と聞く」\nCentral illustration: the mascot hosts a conversation radio booth, receiving a long question and sending back a compact answer capsule; a red NOT spark shows emotional negative questions.\nMechanism diagram: short answer 「Yes/No＋pronoun＋auxiliary」 with no full repetition; casual options Yeah / Right / I’m not sure / I couldn’t say. Negative question engine 「AUX＋not＋S…？」 branches to 驚き・心外・心配・同意確認.\nOriginal example cards:\n1. “Did the scouts return?” — “No, they didn’t.” / 「内容を繰り返さず軽く返す」\n2. “Is Nora ready?” — “I’m not sure.” / 「不明なら無理にYes/Noを選ばない」\n3. “Haven’t you packed your coat?” / 「まだなの？という驚き」\n4. “Isn’t this view amazing?” / 「同意を求める“すごくない？”」\nMini practice: 「Can Leo drive? の自然な肯定短答」 Answer: “Yes, he can.” Reason: 「Leoをheで受け、canだけを残す。」\nBottom takeaway: 「応答は軽く、否定疑問は感情を強く映す」\nStyle: glossy blue-gold-white-red adventure communication studio, answer capsules and emotion sparks, thick outlines, dense but friendly layout, mascot once in a radio-host pose.\nTypography: exact English and concise Japanese.\nConstraints: no page number, source copy, source identity, logo, citation, watermark, or unrelated exercise.\nAvoid: long repeated answer sentences, confusing yes/no explanation, dark booth.\n"
+}

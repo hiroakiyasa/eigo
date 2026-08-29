@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0145",
+  "number": 145,
+  "title": "thanは差を見せる境界線",
+  "chapter": {
+    "id": "comparison",
+    "title": "比べる・否定する・気持ちを添える"
+  },
+  "unitId": "grammar-comparatives",
+  "pageType": "説明",
+  "image": "pages/PAGE_0145.webp",
+  "promptSource": "source-prompts/PAGE_0145.txt",
+  "promptSha256": "a7143ac50bc560836c85c80137041ec6582d65dcbe2a77dabbbf99db9a5d6ab0",
+  "prompt": "Use case: scientific-educational\nAsset type: dense 9:16 portrait comparison-boundary page\nPrimary request: Independently teach than as a boundary showing contrast and separation, plus rather than, superior/senior + to, and negative/any modifiers around comparatives. Source pages 302–303 are coverage only; use new examples and a new diagram.\nInput images: mascot appearance reference; PAGE_0001 design reference.\nCanvas: strict 9:16 portrait, no page number, safe margins.\nTop title: 「thanは差を見せる境界線」\nCentral illustration: mascot in a contrast-gatekeeper pose compares two glowing level towers across a THAN gate, then points away from one choice toward another.\nMechanism diagram: 「比較級 → than → 比較の基準」; branch 「rather than＝Aを離れてBを選ぶ」; exception tag 「superior / senior + to」; modifier strip 「not / no / any + 比較級」.\nOriginal example cards:\n1. “This bridge is safer than the old one.” / 「old oneを基準に差を示す」\n2. “I chose tea rather than coffee.” / 「coffeeではなくteaを選ぶ」\n3. “This design is superior to ours.” / 「superiorはtoと組む」\n4. “Are you feeling any better?” / 「少しでも改善したか」\nMini practice box: 「ミニ確認：Mia runs faster than ___.”」 「答え：me」 「thanの後ろの代名詞は会話では目的格が自然。」\nBottom takeaway: 「thanは、基準点からどれだけ離れたかを示す」\nStyle: bright glossy adventure-library contrast gate, blue/gold/white, red boundary line, thick outlines, 3D level towers, dense but readable.\nTypography: exact English punctuation and Japanese.\nConstraints: no page number, copied source expression/layout, source identity, logo, citation, watermark, or extra quiz. Mascot once in gatekeeper pose.\nAvoid: tiny exception note, dark gate, giant character.\n"
+}

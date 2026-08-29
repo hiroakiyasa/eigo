@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0304",
+  "number": 304,
+  "title": "butは予想の流れを反転する",
+  "chapter": {
+    "id": "flow",
+    "title": "文をつなぎ、会話を伝える"
+  },
+  "unitId": "grammar-conjunctions",
+  "pageType": "英文",
+  "image": "pages/PAGE_0304.webp",
+  "promptSource": "source-prompts/PAGE_0304.txt",
+  "promptSha256": "a7ff7a7d3fc351a470f25b7ab84938c20134c8499354ebd7902507e63c2303e5",
+  "prompt": "Create a polished content-rich English grammar page in portrait 9:16, matching the supplied cover's blue-and-gold adventure aesthetic. Same leopard mascot at a BUT turn sign and a separate HOWEVER bridge. No page number, source name, watermark, or logo.\n\nTop Japanese title: 「butは予想の流れを反転する」\n\nTeach but as a reversal of expectation, including polite apology + request and not A but B. Contrast coordinating but with sentence adverb however; show correct punctuation. Include yet for a surprising continuation and preposition but = except.\n\nOriginal examples:\n• The bag is small, but it holds a lot. 「予想を反転」\n• Sorry, but could you move your bag? 「前置き＋依頼」\n• We need courage, not luck. / not A but B 「訂正・対比」\n• The task was difficult; however, we finished it. 「独立した文副詞」\n• Everyone but Leo arrived. 「Leo以外」\n\nCentral punctuation map: clause, but clause / clause; however, clause. Red correction for comma splice with however.\n\nMini practice: correct “I was tired, however I kept working.” Answer: “I was tired; however, I kept working.” Reason: 「howeverは等位接続詞ではない」.\n\nTakeaway: 「butは接続、howeverは文全体の方向転換標識」.\n"
+}

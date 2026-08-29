@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0161",
+  "number": 161,
+  "title": "助動詞が文の操作盤",
+  "chapter": {
+    "id": "comparison",
+    "title": "比べる・否定する・気持ちを添える"
+  },
+  "unitId": "grammar-modals-1",
+  "pageType": "説明",
+  "image": "pages/PAGE_0161.webp",
+  "promptSource": "source-prompts/PAGE_0161.txt",
+  "promptSha256": "b45357577e49900694178cf051caaa06e1f5d4a0072ade785534d220ec3581ae",
+  "prompt": "Use case: scientific-educational; dense 9:16 portrait English-grammar page. Source p.334–336 supplies topic coverage only; all wording, examples, illustration, diagram, and layout must be original.\nInput references: mascot_reference.png for the same leopard explorer appearance only; PAGE_0001.png for the glossy blue/gold/white/red adventure-library design only.\nTop title: 「助動詞が文の操作盤」\nCentral illustration: leopard explorer as a control engineer inserts a MODAL filter before a glowing base-verb engine. Three levers turn the same rail into statement, question, and negative.\nMechanism: 「主語 + 助動詞 + 動詞原形」; question rail 「助動詞を主語の前へ」; negative rail 「助動詞 + not」. Add badges 「三単現でも助動詞は同じ」「時・判断は助動詞が担当」「後ろの動詞は原形」.\nOriginal examples:\n1. “Mina can solve the puzzle.” / 「canが可能性を加える」\n2. “Can Mina solve the puzzle?” / 「canを主語の前へ」\n3. “Mina cannot solve the puzzle.” / 「canの直後にnot」\n4. “Leo may arrive late.” / 「mayが不確かさを加える」\nMini problem: 「ミニ問題：正しい形は？」 “He can (finds / find) the gate.” 「答え：find」 「助動詞の後ろは主語に関係なく原形。」\nBottom ribbon: 「助動詞を起点に、語順と意味を動かす」\nStyle: bright adventure-library control bay, dimensional word blocks, thick outlines, red only for modal movement, dense and phone-readable.\nConstraints: no page number, copied source text/figure/table/layout/examples, source identity, logo, citation, watermark, blank answer field, or photorealism. One mascot in engineer pose.\n"
+}

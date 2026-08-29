@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0288",
+  "number": 288,
+  "title": "確定日程と未来の途中",
+  "chapter": {
+    "id": "time",
+    "title": "時間を旅する"
+  },
+  "unitId": "grammar-future",
+  "pageType": "説明",
+  "image": "pages/PAGE_0288.webp",
+  "promptSource": "source-prompts/PAGE_0288.txt",
+  "promptSha256": "383832d6ebeba590a55e041edc22beaa99679c0f68cb19aa4dea978e53a688cd",
+  "prompt": "Use case: scientific-educational; dense 9:16 portrait grammar page. Teach simple present for fixed schedules and WILL BE -ING for an imagined future-in-progress from p.588–589.\nInput references: PAGE_0001 design and mascot identity.\nTop title: 「確定日程と未来の途中」\nCentral illustration: mascot as a timetable controller compares a rigid railway schedule labeled SIMPLE PRESENT with a future-view telescope showing an action underway labeled WILL BE -ING. A politeness dial previews objective distance.\nMechanism: 「現在形＝時刻表・公式日程・動かない未来」「will be -ing＝未来の時点でしているところだろう」「未来の成り行きを客観的に眺めるので色が薄く丁寧」.\nOriginal examples: “The museum opens at nine tomorrow.” / 「公式の開館時刻」; “Our presentation begins at 1:30.” / 「確定プログラム」; “This time tonight, we'll be watching the stars.” / 「今夜この時間の進行場面」; “At three, I'll be taking the entrance exam.” / 「3時には受験中」.\nMini problem: 「ミニ問題：列車の時刻表」 “The last train (leaves / will be leaving) at 11:42.” Answer 「leaves」. Reason 「時刻表で確定した揺らがない日程。」\nBottom ribbon: 「決まった表は現在形、未来の動画はwill be -ing」\nStyle: adventure-library timetable hall, blue/gold/white/red clocks and telescope, thick outlines, dense phone-readable infographic.\nConstraints: 9:16; no page number, copied prose/examples/figures/layout, source marks, logo, citation, watermark, empty answer area, or photorealism. One mascot controller.\n"
+}

@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0141",
+  "number": 141,
+  "title": "as-asを会話で使い切る",
+  "chapter": {
+    "id": "comparison",
+    "title": "比べる・否定する・気持ちを添える"
+  },
+  "unitId": "grammar-comparatives",
+  "pageType": "説明",
+  "image": "pages/PAGE_0141.webp",
+  "promptSource": "source-prompts/PAGE_0141.txt",
+  "promptSha256": "8e0b2735cebb55bb7eff324c06a4823c31df53bf0af8d468e0c4db01de30e585",
+  "prompt": "Use case: scientific-educational\nAsset type: dense 9:16 portrait grammar phrase page\nPrimary request: Independently teach useful extensions of as...as: maximum effort, unchanged degree, correction from A to B, “not even,” and “virtually the same as.” Source pages 294–295 are coverage only; do not reuse wording, examples, figures, order, or layout.\nInput images: mascot appearance reference and PAGE_0001 approved design reference.\nCanvas: strict 9:16 portrait, full-bleed, safe margins, no page number.\nTop title: 「as-asを会話で使い切る」\nCentral illustration: mascot in an equality-scale conductor pose balances two golden AS arches, then opens five short expression routes.\nMechanism diagram: one equality core 「AとBを同じ目盛りで測る」 branching to 「as ... as possible＝可能な限り」 「as ... as ever＝相変わらず」 「not so much A as B＝AよりむしろB」 「not so much as＝…さえしない」 「as good as＝ほぼ同然」.\nOriginal example cards:\n1. “Please walk as quietly as possible.” / 「可能な限り静かに」\n2. “The garden is as beautiful as ever.” / 「以前と変わらず美しい」\n3. “I’m not so much tired as hungry.” / 「疲れより、むしろ空腹」\n4. “The old radio is as good as new.” / 「新品と言えるほど十分よい」\nMini practice box: 「ミニ確認：He wouldn’t so much as say hello. の意味は？」 「答え：あいさつさえしない」 「say hello の段階にすら達しない強い否定。」\nBottom takeaway: 「同じ目盛りの感覚から、多彩な定番表現が生まれる」\nStyle: glossy blue-gold-white-red adventure library, dimensional scales and phrase routes, thick outlines, central illustration + diagram + cards, dense but readable.\nTypography: exact English, bold Japanese Gothic, specified text only.\nConstraints: no page number, source reuse, source identity, logo, citation, watermark, or extra exercise. Mascot once in conductor pose.\nAvoid: copied textbook chart, tiny copy, dark scene, sparse poster.\n"
+}

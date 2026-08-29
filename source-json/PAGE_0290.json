@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0290",
+  "number": 290,
+  "title": "現実から離れる仮定法",
+  "chapter": {
+    "id": "time",
+    "title": "時間を旅する"
+  },
+  "unitId": "grammar-present-perfect",
+  "pageType": "説明",
+  "image": "pages/PAGE_0290.webp",
+  "promptSource": "source-prompts/PAGE_0290.txt",
+  "promptSha256": "6ad38f45bf003ca6108c293597be73081944fc53b36b657f16e75d91212b0a30",
+  "prompt": "Use case: scientific-educational; dense 9:16 portrait grammar page. Introduce three time/mood modes and the psychological distance of the subjunctive from p.592–593 coverage.\nInput references: PAGE_0001 design and mascot identity.\nTop title: 「現実から離れる仮定法」\nCentral illustration: mascot as a reality navigator stands before three portals: UNREALIZED base form for commands/wishes, FACT tense forms, and COUNTERFACT subjunctive with a misty distant world. Compare a real-open IF path with a low-likelihood IF path.\nMechanism: 「原形モード＝まだ事実でない命令・要求など」「時制モード＝現実の事実を述べる」「仮定法＝事実と違う／可能性が低い心理」「形を過去方向へずらし現実から距離を取る」.\nOriginal examples: “I wish I knew the answer.” / 「実際は分からない」; “If I lived by the sea, I'd swim every morning.” / 「実際には海辺に住んでいない」; “If the alarm rings, we'll leave.” / 「起こり得る普通の条件」; “If the alarm rang, we'd leave.” / 「起こりそうにないと見ている」.\nMini problem: 「ミニ問題：実際には時間がない」 “If I (have / had) more time, I could help.” Answer 「had」. Reason 「現実と反対なので過去形で距離を作る。」\nBottom ribbon: 「過去形は時間だけでなく、現実との距離も表せる」\nStyle: bright adventure-library reality portal, blue/gold/white/red with misty violet counterfact world, thick outlines, dense readable.\nConstraints: 9:16; no page number, copied source wording/examples/figures/layout, source marks, logo, citation, watermark, empty answer field, or photorealism. Exactly one mascot navigator.\n"
+}

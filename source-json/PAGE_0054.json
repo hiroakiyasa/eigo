@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0054",
+  "number": 54,
+  "title": "置く・得る・与える",
+  "chapter": {
+    "id": "framework",
+    "title": "文の骨組み"
+  },
+  "unitId": "grammar-advanced",
+  "pageType": "説明",
+  "image": "pages/PAGE_0054.webp",
+  "promptSource": "source-prompts/PAGE_0054.txt",
+  "promptSha256": "d8a899c5d55f5a855e640ff96358c58c38268dcf40ad37fd2fe45d5f2a4f2925",
+  "prompt": "Use case: scientific-educational\nAsset type: dense 9:16 portrait explanation page\nPrimary request: Independently contrast put and set, then connect get and give as opposite-direction transfer verbs. Source pages 120–121 are coverage only; reproduce nothing from the source.\nInput images: mascot appearance reference; PAGE_0001 design reference.\nCanvas: strict 9:16 portrait, no page number, high information density, safe margins.\nTop title: 「置く・得る・与える」\nCentral illustration: mascot in a careful tool-setting pose at a glowing transfer machine. Left side shows a loose “put” placement and a clicked-in “set” placement; lower conveyor moves objects toward the mascot for get and away for give.\nMechanism diagram: top comparison 「put＝場所へ置く / set＝しっかり固定」; bottom arrows 「get＝動いて手に入れる ←」 and 「give＝相手へ与える →」.\nOriginal example cards:\n1. “Put the lantern by the door.” / 「場所を決めて置く」\n2. “I set the timer for ten minutes.” / 「設定をカチッと固定」\n3. “Mia got a message from the guide.” / 「情報を手に入れた」\n4. “Leo gave the child a sticker.” / 「人へ物を渡した」\nMini practice box: 「ミニ確認：It’s getting cold. の get は？」 「答え：変化」 「状態が cold へ動いている。」\nBottom takeaway: 「物の移動と状態の変化を、矢印で感じよう」\nStyle: approved cover visual system, bright adventure-library lab, glossy 3D blocks, click mechanism, transfer arrows, blue/yellow/white and restrained red, rich but orderly.\nTypography: accurate English and short bold Japanese.\nConstraints: no page number, copied expression, source identity, logo, citation, watermark, or additional exercise. Mascot once in a distinct pose.\nAvoid: crowded unreadable cards, giant title, generic worksheet, dark colors.\n"
+}

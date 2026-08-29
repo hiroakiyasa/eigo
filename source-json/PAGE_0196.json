@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0196",
+  "number": 196,
+  "title": "overで越え、toで到達",
+  "chapter": {
+    "id": "prepositions",
+    "title": "位置関係を描く"
+  },
+  "unitId": "grammar-prepositions-2",
+  "pageType": "説明",
+  "image": "pages/PAGE_0196.webp",
+  "promptSource": "source-prompts/PAGE_0196.txt",
+  "promptSha256": "f82e1aebd18ca0e0d5b9171365fda35c623097d7e6eab5ec6eb5109dd6873a55",
+  "prompt": "Use case: scientific-educational\nAsset type: dense illustrated English preposition book page, portrait 9:16\nPrimary request: Independently teach OVER phrase extensions and TO as a pointer to a destination or target. Reconstruct pages 404–405 without copying source language, examples, figures, or arrangement.\nInput images: PAGE_0001 design reference; mascot_reference exact leopard explorer.\nCanvas: exact 941×1672 portrait, strict 9:16, full bleed, safe margins, no page number.\nTop Japanese title: 「overで越え、toで到達」\nCentral illustration: the mascot swings over a golden arc, lands at a bright TO target, and uses a pointer to show destination, attachment, rhythm, comparison, and emotional endpoint.\nMechanism diagram: OVER arc branches to 終了・ざっと見る・引き継ぐ・もう一度/よく考える; TO arrow 「行為 → 到達点」 branches to 場所・接続・対象・比較・感情/程度.\nOriginal example cards:\n1. “The briefing is over.” / 「出来事を越えて終了」\n2. “Let’s go over the route once more.” / 「もう一周して確認する」\n3. “Attach the tag to your backpack.” / 「tagの到達先を指す」\n4. “I prefer tea to soda.” / 「比較の相手をtoで示す」\nMini practice: 「Listen ___ the guide.」 Answer: 「to」. Reason: 「耳を向ける到達対象がthe guideだから。」\nBottom takeaway: 「overは弧を越え、toは到達点をまっすぐ指す」\nStyle: vivid glossy adventure target hall, blue-gold-white-red, dynamic arc and arrow, dimensional educational cards, mascot once in a swinging pointer pose.\nTypography: exact English and bold Japanese Gothic.\nConstraints: no page number, source copy, trademark, source identity, logo, citation, watermark, or unrelated quiz.\nAvoid: confusing to-infinitive lesson, tiny phrase inventory, dark background.\n"
+}

@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0060",
+  "number": 60,
+  "title": "名詞は、3つの目で見る",
+  "chapter": {
+    "id": "nouns",
+    "title": "名詞の世界"
+  },
+  "unitId": "grammar-nouns",
+  "pageType": "説明",
+  "image": "pages/PAGE_0060.webp",
+  "promptSource": "source-prompts/PAGE_0060.txt",
+  "promptSha256": "669cbc489975276ec2d19d36c00da793f05b5ac572f67d15951513f3c55d4459",
+  "prompt": "Use case: scientific-educational\nAsset type: dense 9:16 portrait chapter-entry explanation page\nPrimary request: Independently introduce English nouns and the three decisions used to shape a noun phrase: countability, number, and context/determination. Source pages 132–133 are coverage only; do not reuse source examples, list, diagram, artwork, wording, or layout.\nInput images: mascot appearance reference; PAGE_0001 design reference.\nCanvas: strict 9:16 portrait, no page number, full-bleed, safe margins.\nTop title: 「名詞は、3つの目で見る」\nCentral illustration: mascot in a three-lens magnifier pose examines objects in a bright adventure-library specimen hall. Three large lenses label form, quantity, and context.\nMechanism diagram: step route 「①形がある？ 可算 / 不可算」→「②1つ？ 複数？」→「③どれ？ 新情報？ 文脈を選ぶ」→「名詞の形が決まる」.\nOriginal example cards:\n1. “I found a shell.” / 「形がある・1つ・初登場」\n2. “Two shells were on the sand.” / 「数えられる複数」\n3. “We need clean water.” / 「決まった形をもたない物質」\n4. “The shell is now in my bag.” / 「共有済みの特定の貝」\nSmall role tag: 「名詞は主語にも目的語にもなる」\nMini practice box: 「ミニ確認：I bought ___ notebook. 空所は？」 「答え：a」 「数えられる単数を初めて出すから。」\nBottom takeaway: 「可算・数・文脈を決めると、名詞がくっきりする」\nStyle: approved cover-quality educational adventure-library specimen hall, glossy 3D noun objects and lenses, blue/yellow/white, small red emphasis, thick outlines, dense but clean hierarchy.\nTypography: exact English, bold Japanese Gothic, specified text only.\nConstraints: no page number, source expression/diagram/layout reuse, source identity, logo, ISBN, citation, watermark, or extra quiz. Mascot once in a distinct three-lens pose.\nAvoid: copied textbook table, tiny text, sparse composition, random labels, dark museum.\n"
+}

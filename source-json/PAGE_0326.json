@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0326",
+  "number": 326,
+  "title": "文法を“使える英語”へ変える",
+  "chapter": {
+    "id": "toolbox",
+    "title": "冒険道具箱"
+  },
+  "unitId": "grammar-verbs-present",
+  "pageType": "英文",
+  "image": "pages/PAGE_0326.webp",
+  "promptSource": "source-prompts/PAGE_0326.txt",
+  "promptSha256": "11e04aa4b7613af2ac6c8284e0cb777a1e04a4b6d3f3c4f676f5c17fc5a3d365",
+  "prompt": "Create a polished, content-dense educational English grammar synthesis page in portrait 9:16, matching the supplied cover's blue-gold-white-red explorer aesthetic. Use the exact same leopard explorer mascot at the end of a long expedition, unfolding a map from grammar form to meaning, scene, and free expression, with a new appendix tool chest ahead. No page number, source name, watermark, logo, copied source art, or copied prose.\n\nTop Japanese title: 「文法を“使える英語”へ変える」\n\nMake this a learning-rich closing-and-transition page, not a decorative afterword. Central four-step compass:\n1 FORM 「語順・形を見抜く」\n2 CORE IMAGE 「形の中心感覚をつかむ」\n3 CONTEXT 「場面と話し手の意図で読む」\n4 OUTPUT 「自分の内容で言い換える」\n\nShow one grammar idea traveling through all four steps:\n• Form: auxiliary before subject\n• Image: emotional movement\n• Context: strong agreement\n• Output: “I loved the exhibit.” — “So did I!” 「私も！」\n\nSecond mini-journey:\n• Form: to + base verb\n• Core: arrow toward an action\n• Context: missing purpose\n• Output: We stopped to check the map. 「地図を確認するため立ち止まった」\n\nPractice loop illustrated as an explorer trail:\nnotice → understand → say aloud → vary person/time/place → use in a real message\nCaption: 「例文を覚えるだけで終わらず、要素を入れ替えて自分の文にする」.\n\nAppendix tool chest preview with four drawers:\n• irregular verbs 「過去・完了を即答」\n• numbers 「生活情報を正確に伝える」\n• punctuation 「読み手の休止と関係を示す」\n• personal notes 「自分の弱点を蓄積」\n\nOriginal self-check examples:\n• Today I go; yesterday I went; I have gone before.\n• 3.75 = three point seven five.\n• A comma marks a brief pause.\n\nMini practice: 「“She go yesterday.” を時間と形から修正」 Answer: 「She went yesterday.」 Reason: 「yesterdayで過去に置くためgoの過去形wentを使う」.\n\nBottom takeaway ribbon: 「形に意味を感じ、場面に合わせて自由に選ぶ」. Inspiring but academically useful, dense and readable.\n"
+}

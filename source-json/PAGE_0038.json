@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0038",
+  "number": 38,
+  "title": "目的語の後ろに、説明を足す",
+  "chapter": {
+    "id": "framework",
+    "title": "文の骨組み"
+  },
+  "unitId": "writing-word-order",
+  "pageType": "説明",
+  "image": "pages/PAGE_0038.webp",
+  "promptSource": "source-prompts/PAGE_0038.txt",
+  "promptSha256": "c70696d8a5bd6c60a65d31f57468780fffe8fc79654a08fab59cf23d2afb6876",
+  "prompt": "Use case: scientific-educational\nAsset type: dense portrait explanation page for an illustrated English grammar book\nPrimary request: Teach the object-complement pattern as “verb acts on O, then a following expression describes O”, showing several complement forms and useful everyday applications. Source pages 88–89 guide coverage only; make every sentence and graphic original.\nInput images: mascot appearance reference only; PAGE_0001 design reference only.\nCanvas: strict 9:16 portrait, full-bleed, dense but readable, no page number.\nTop title (verbatim): 「目的語の後ろに、説明を足す」\nCentral original illustration: the leopard explorer in a tag-attaching pose fastens glowing description labels to an object chest in the adventure library.\nMechanism diagram: “S + V + O + C” with a bright bracket “O ＝ C”. Four small C badges: 「名詞」「形容詞」「場所」「-ing / 過去分詞」. Note: 「Oに何が起きた？ Oはどんな状態？」\nOriginal example cards:\n1. “They named the robot Piko.” / 「robot＝Piko」\n2. “The sun painted the clouds pink.” / 「clouds＝pink」\n3. “I found my keys under the sofa.” / 「keys＝ソファの下」\n4. “We watched the otters swimming.” / 「otters＝泳いでいる」\nMini practice box: 「ミニ問題　O＝Cを探そう」 “Keep the window open.”\nAnswer box: 「答え　the window＝open」 「open が目的語の状態を説明する。」\nBottom ribbon: 「動詞で終わらず、目的語の様子まで伝えられる」\nStyle: approved glossy blue-yellow-white adventure library, dimensional labels, gold arrows, thick crisp outlines, red only on O＝C, one cute mascot, large Japanese Gothic and clear English.\nConstraints: original examples/metaphor/layout; include all specified items once; no source wording, copied figure, source title, citation, logo, ISBN, watermark, page number, or added prose; avoid photorealism and tiny type.\n"
+}

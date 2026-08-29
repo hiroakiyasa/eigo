@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0224",
+  "number": 224,
+  "title": "動詞が選ぶ to と-ing",
+  "chapter": {
+    "id": "verb-parts",
+    "title": "動きを部品にする"
+  },
+  "unitId": "grammar-infinitives",
+  "pageType": "説明",
+  "image": "pages/PAGE_0224.webp",
+  "promptSource": "source-prompts/PAGE_0224.txt",
+  "promptSha256": "199b39415d1a345ba4b185a6d6275c0881bfff174f6c74f974cf6034755c7f14",
+  "prompt": "Create a polished, dense educational English grammar page in portrait 9:16. Match the supplied cover's blue-gold-white-red explorer aesthetic with a gold frame, two colorful trails, concise learning cards, and crisp typography. Use the exact same leopard explorer mascot standing at a fork: a forward-pointing TO trail and a vivid ongoing -ING trail. No page number, source name, watermark, logo, or copied source material.\n\nTop Japanese title: 「動詞が選ぶ to と-ing」\n\nCentral fork diagram:\nTO trail = 「これからの行為へ向かう」\n-ING trail = 「具体的・経験済みの場面」\n\nTO-friendly verb constellation grouped by meaning: decide, hope, plan, promise, offer, refuse, manage. Original examples:\n• We decided to camp near the lake. 「これからキャンプすると決めた」\n• Nao promised not to share the password. 「今後しないと約束」\n\n-ING-friendly verb constellation: admit, avoid, enjoy, finish, mind, practice, suggest, consider. Original examples:\n• He admitted copying the file. 「実際の行為を認めた」\n• Would you mind closing the curtain? 「カーテンを閉める行為を気にする？」\n\nMeaning-change switchboard with paired examples:\nREMEMBER\n• Remember to charge the camera. 「これから充電するのを忘れない」\n• I remember charging the camera. 「充電した記憶がある」\nREGRET\n• We regret to announce the delay. 「これから知らせるのが残念」\n• She regrets ignoring the warning. 「実際に無視したことを後悔」\nTRY\n• Try restarting the tablet. 「方法として実際に試す」\n• I tried to lift the stone. 「持ち上げようと努力した」\nSTOP\n• He stopped talking. 「話すのをやめた」\n• He stopped to talk. 「話すために立ち止まった」\n\nMini practice: 「“鍵をかけた記憶がある” は？ remember ___ the door」 Answer: 「locking」. Reason: 「すでに起きた具体的な行為の記憶なので-ing」.\n\nBottom takeaway: 「未来へ矢印ならto／リアルな場面なら-ing」. Dense but neatly organized and fully readable.\n"
+}

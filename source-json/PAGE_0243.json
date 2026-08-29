@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0243",
+  "number": 243,
+  "title": "過去分詞で背景を先に描く",
+  "chapter": {
+    "id": "verb-parts",
+    "title": "動きを部品にする"
+  },
+  "unitId": "grammar-participles",
+  "pageType": "説明",
+  "image": "pages/PAGE_0243.webp",
+  "promptSource": "source-prompts/PAGE_0243.txt",
+  "promptSha256": "68118a5a79759930dbb4d08ac12446e8c814df4996485ddf4d4b04b940eb265f",
+  "prompt": "Create a polished information-dense educational page in portrait 9:16, matching the supplied cover's vivid explorer aesthetic. Same leopard mascot moving a past-participle scene to sentence front, then wrapping it in a BEING capsule. No page number, source identity, watermark, or logo.\n\nTop Japanese title: 「過去分詞で背景を先に描く」\n\nTeach a past-participle phrase as a formal/compact background description whose understood subject normally matches the main-clause subject. Show movement from after the noun to sentence-front. Also clarify that a bare past participle cannot normally serve as a noun-like subject; use being/to be + past participle.\n\nOriginal examples:\n• Built beside the lake, the hotel offers splendid views. 「湖畔に建てられているので」\n• Surrounded by fog, the boat moved slowly. 「霧に囲まれた状態で」\n• Being ignored can feel painful. 「無視されること」\n• I dislike being rushed. 「急かされることが嫌い」\n\nCentral diagram: participle background cloud → main subject; separate capsule “being + past participle” → noun slot. Warning against “Rejected is disappointing.”\n\nMini practice: correct “Praised made him happy.” Answer: “Being praised made him happy.” Reason: 「主語には名詞相当のまとまりが必要」.\n\nTakeaway: 「背景なら過去分詞、出来事を名詞化するならbeingを足す」.\n"
+}

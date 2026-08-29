@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0301",
+  "number": 301,
+  "title": "文を結ぶ2つのリズム",
+  "chapter": {
+    "id": "flow",
+    "title": "文をつなぎ、会話を伝える"
+  },
+  "unitId": "grammar-conjunctions",
+  "pageType": "説明",
+  "image": "pages/PAGE_0301.webp",
+  "promptSource": "source-prompts/PAGE_0301.txt",
+  "promptSha256": "224747c4f3b4007de7350e69b3cf86ab27af307f0f21a2e6a93cf3e27464c99b",
+  "prompt": "Create a polished information-dense English grammar page in portrait 9:16, matching the supplied cover's vivid blue-and-gold explorer style. Same leopard mascot coupling sentence trains at equal height and attaching a smaller background carriage. No page number, source identity, watermark, or logo.\n\nTop Japanese title: 「文を結ぶ2つのリズム」\n\nTeach coordination versus subordination. Equal partners linked by and/but/or/so share the same grammatical level; a subordinate clause adds time, reason, condition, concession, etc. to a main clause. Show that a fronted subordinate clause is normally followed by a comma.\n\nOriginal examples:\n• Leo cooked, and Mia set the table. 「同じ強さの2文」\n• The path was steep, but we kept climbing. 「逆方向の等位接続」\n• When the bell rang, everyone stood up. 「時の背景→主節」\n• We stayed inside because the wind was fierce. 「主節に理由を追加」\n\nCentral diagram: equal two-car train vs main locomotive + subordinate context carriage; show clause can move: “When..., main.” / “Main when....”\n\nMini practice: punctuate “If the gate is open we can enter.” Answer: “If the gate is open, we can enter.” Reason: 「前置き従属節と主節の境目」.\n\nTakeaway: 「並べる接続と、主節に背景を添える接続を見分ける」.\n"
+}

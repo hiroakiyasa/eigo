@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0248",
+  "number": 248,
+  "title": "どんな条件でも結論は同じ",
+  "chapter": {
+    "id": "verb-parts",
+    "title": "動きを部品にする"
+  },
+  "unitId": "grammar-passive",
+  "pageType": "説明",
+  "image": "pages/PAGE_0248.webp",
+  "promptSource": "source-prompts/PAGE_0248.txt",
+  "promptSha256": "87b673fec5da09e7898b048ceb5ac90965ec24e996361aa87ea4400d9f884845",
+  "prompt": "Create a polished content-rich English grammar page in portrait 9:16, matching the supplied cover's energetic explorer design. Same leopard mascot testing changing WH conditions against an unmoving result, with four useful WHAT tool cards. No page number, source name, watermark, or logo.\n\nTop Japanese title: 「どんな条件でも結論は同じ」\n\nCentral mechanism: “no matter + wh-word” feeds many changing conditions into one unchanged result. Show how/where/who/what branches. Relate it to wh-ever but note style and structure differences.\n\nOriginal examples:\n• No matter how carefully I plan, surprises occur. 「どれほど慎重に計画しても」\n• No matter where you sit, you can see the stage. 「どこに座っても」\n• Whatever you decide, I will support you. 「何を決めても」\n\nAdd compact useful-expression cards with original examples/meanings:\n• what we call = 「いわゆる」\n• what is more = 「さらに」\n• what is worse = 「さらに悪いことに」\n• what with A and B = 「AやBが重なって」\n\nMini practice: complete “No matter ___ late it gets, call me.” Answer: how; reason 「程度を表す形容詞lateをhowが導く」.\n\nTakeaway: 「条件が動いても、主節の結論は動かない」. Dense condition machine, examples and answer.\n"
+}

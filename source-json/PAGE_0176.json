@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0176",
+  "number": 176,
+  "title": "禁止と不要をまちがえない",
+  "chapter": {
+    "id": "comparison",
+    "title": "比べる・否定する・気持ちを添える"
+  },
+  "unitId": "grammar-modals-2",
+  "pageType": "説明",
+  "image": "pages/PAGE_0176.webp",
+  "promptSource": "source-prompts/PAGE_0176.txt",
+  "promptSha256": "0bf013111010d61c4d01ffdfe85feb9f74ca2d64c7caab044cf12b557fdf5bd2",
+  "prompt": "Create a polished information-dense educational English grammar page in portrait 9:16, matching the supplied cover's blue-and-gold explorer style. Same leopard mascot at a red prohibition gate and a green optional path, then holding a British conversation badge. No page number, source name, watermark, or logo.\n\nTop Japanese title: 「禁止と不要をまちがえない」\n\nCentral contrast must be unmistakable:\nRED STOP: mustn't + base verb = 「してはいけない」 prohibition.\nGREEN OPTIONAL: don't/doesn't have to + base verb = 「する必要はない」 no obligation; doing it is allowed.\n\nOriginal examples:\n• You mustn't feed the animals. 「動物に餌を与えてはいけない」\n• You don't have to bring a laptop. 「持参しなくてもよい」\n• Mira doesn't have to stay late. 「遅くまで残る必要はない」\n\nAdd a logic picture: mustn't closes the action path; don't have to opens both “do it” and “not do it” paths.\n\nConversation panel: have got to ≈ have to, common in speech, especially British English. Show present meaning and contractions:\n• I've got to leave now. 「もう行かなくちゃ」\n• You've got to be kidding! 「冗談でしょう！」\nNote: for past necessity, use had to rather than *had got to in this target meaning.\n\nMini practice: 「『制服を着なくてもよい』は？ A You mustn't wear a uniform. / B You don't have to wear a uniform.」 Answer B; reason 「禁止ではなく不要」.\n\nTakeaway: 「mustn't＝禁止、don't have to＝選べる」. Bold stop/choice diagram, original examples, answer included.\n"
+}

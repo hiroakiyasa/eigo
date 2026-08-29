@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0048",
+  "number": 48,
+  "title": "依頼は、何枚オブラートを重ねる？",
+  "chapter": {
+    "id": "framework",
+    "title": "文の骨組み"
+  },
+  "unitId": "grammar-prepositions-1",
+  "pageType": "英文",
+  "image": "pages/PAGE_0048.webp",
+  "promptSource": "source-prompts/PAGE_0048.txt",
+  "promptSha256": "f0f62e3dc434d236c5f1d64195d90dca50455d05a94992a0f324ecdc4f0bc9ae",
+  "prompt": "Use case: scientific-educational. Asset: dense 9:16 portrait grammar page.\nTopic source: p.108–109, concepts only; original content.\nTop title: 「依頼は、何枚オブラートを重ねる？」\nScene: adventure-library request counter. Leopard explorer wraps one direct command block in increasingly soft transparent layers.\nPoliteness ladder with originals: 「Open the case.」 direct; 「Please open the case.」 polite marker; 「Can you open the case?」 ask ability/willingness; 「Could you please open the case?」 distance + please; 「Would you mind opening the case?」 care about listener.\nJapanese labels: 「強い」→「やわらかい」.\nMini check: stranger at a station—choose Can you help me? / Could you please help me? Answer: second — 「距離と please で配慮を重ねる」.\nTakeaway: 「丁寧さは、相手に選ぶ余地を渡すこと」\nApproved dense cover style, no page number, source identity, copied example, logo, watermark.\n\n"
+}

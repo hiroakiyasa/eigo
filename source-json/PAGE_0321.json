@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0321",
+  "number": 321,
+  "title": "同格と挿入で説明を差し込む",
+  "chapter": {
+    "id": "flow",
+    "title": "文をつなぎ、会話を伝える"
+  },
+  "unitId": "grammar-advanced",
+  "pageType": "説明",
+  "image": "pages/PAGE_0321.webp",
+  "promptSource": "source-prompts/PAGE_0321.txt",
+  "promptSha256": "2664a083a9603e71b67d49315be6082635e37617f092b0da650d425da5c1fe4f",
+  "prompt": "Create a polished, information-dense educational English grammar infographic in portrait 9:16. Match the supplied cover's vivid blue, gold, white, and red explorer aesthetic: rounded gold frame, deep-blue panels, white cards, red highlights, crisp textbook typography. Use the exact same cute leopard explorer mascot attaching explanatory cards to nouns and inserting small comments into a sentence rail. No page number, source name, watermark, logo, copied illustration, copied sentence, or copied layout.\n\nTop Japanese title: 「同格と挿入で説明を差し込む」\n\nUpper mechanism 1: NOUN + content clause. Show an empty “content” drawer behind an abstract noun, filled by a that-clause.\n• We heard a rumor that the old bridge would reopen. 「rumorの具体的内容」\n• I had a feeling that someone was following us. 「feelingの中身」\n• They reached the conclusion that the map was outdated. 「conclusionの内容」\nExplain: nouns such as rumor, belief, feeling, idea, hope, and conclusion invite a following clause that tells what the content is. Distinguish this from a relative clause: the clause supplies content, not merely identifies a noun.\n\nUpper mechanism 2: noun apposition between commas.\n• Dr. Mori, our wildlife expert, examined the tracks. 「Dr. Mori＝our wildlife expert」\nCaption: 「名詞の隣に同じ人物・物の説明を置き、カンマで割り込みを示す」.\n\nLower mechanism: parenthetical comment. Show the main message as an unbroken gold rail and the comment as a removable side capsule.\n• The weather, fortunately, improved by noon. 「幸いにも、は話し手の注釈」\n• Our guide decided, however, to wait another hour. 「しかし、を途中に挿入」\n• The cave was, to be honest, rather disappointing. 「正直に言えば」\n• Leo is, I think, the calmest member. 「私が思うに」\n\nAdd emphasis contrast:\n“It turned out that the key was fake.” focuses on the discovery.\n“The key was, it turned out, fake.” focuses on “the key was fake”; the discovery is an aside.\n\nMini practice: 「同格のカンマを入れる：Mr. Kato our captain checked the rope.」 Answer: 「Mr. Kato, our captain, checked the rope.」 Reason: 「our captainはMr. Katoへの挿入説明なので両側をカンマで囲む」.\n\nBottom takeaway ribbon: 「主骨格を保ち、内容説明と付け足しを見える形で差し込む」. Dense but orderly and readable.\n"
+}

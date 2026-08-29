@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0019",
+  "number": 19,
+  "title": "意味から、文のレールを選ぶ",
+  "chapter": {
+    "id": "framework",
+    "title": "文の骨組み"
+  },
+  "unitId": "grammar-verbs-present",
+  "pageType": "説明",
+  "image": "pages/PAGE_0019.webp",
+  "promptSource": "source-prompts/PAGE_0019.txt",
+  "promptSha256": "3d655ffd548bb5b6d4ad2f34c38771afb6fd96473bb34025ba9e6d08a53694eb",
+  "prompt": "Use case: scientific-educational\nAsset type: dense portrait intuitive-concept page about sentence patterns\nPrimary request: Independently show that a speaker first chooses the relationship to express, then places words on the matching sentence rail. Source pages 50–51 are grammar coverage only; create new wording, situations, examples, mechanism, and layout.\nInput images: Image 1 is the mascot appearance reference; Image 2 is PAGE_0001, the approved visual style reference. Preserve mascot identity and the glossy adventure-library world.\nCanvas: strict 9:16 portrait, one full-bleed finished page, high educational density, safe margins, no page number.\nTop title (verbatim): 「意味から、文のレールを選ぶ」\nCentral illustration: the leopard explorer in an energetic rail-switch operator pose pulls a golden lever at a luminous four-way junction inside the adventure library. Four small scene icons feed into four colored grammar rails.\nMechanism diagram: at the top of the junction show 「言いたい関係」→「レールを選ぶ」→「語を置く」. Each route has a compact formula, meaning label, and one original example:\n1. 「動くだけ」 “The baby laughed.” / 「主語＋動詞」\n2. 「動きが対象へ」 “Mia unlocked the gate.” / 「主語＋動詞＋対象」\n3. 「主語を説明」 “The cave became quiet.” / 「主語＋動詞＋説明」\n4. 「人に物を渡す」 “Leo showed us the map.” / 「主語＋動詞＋人＋物」\nSmall insight box (verbatim): 「単語を先に並べない。関係を先に決める。」\nMini practice box (verbatim): 「ミニ確認：Nora sent me a photo. はどのレール？」 「答え：人に物を渡す」 「me が人、a photo が渡す物。」\nBottom takeaway ribbon (verbatim): 「意味が決まれば、自然な語順が選べる」\nStyle/medium: polished cover-quality educational illustration; glossy blue/yellow/white rails, small green/red route accents, thick outlines, light-filled library depth, central character action, clean infographic flow, rich but organized.\nTypography: accurate large English and short bold Japanese; all four routes readable on a phone. Render specified text only.\nConstraints: include only the specified mini practice with answer and explanation; no page number, source identity, logo, citation, copied example, copied sentence-pattern diagram, copied layout, or watermark. One mascot in a distinct switch-operator pose.\nAvoid: giant mascot hiding diagrams, sparse poster, tiny captions, random rail labels, dark scene, photorealism.\n"
+}

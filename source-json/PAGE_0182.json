@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0182",
+  "number": 182,
+  "title": "代名詞は句動詞の真ん中へ",
+  "chapter": {
+    "id": "prepositions",
+    "title": "位置関係を描く"
+  },
+  "unitId": "grammar-prepositions-1",
+  "pageType": "説明",
+  "image": "pages/PAGE_0182.webp",
+  "promptSource": "source-prompts/PAGE_0182.txt",
+  "promptSha256": "3decb3ef901a5f45c5152ac65a79d00e725a5563cba0ff39e729b4bf382e7058",
+  "prompt": "Create a polished, information-dense educational English grammar page in portrait 9:16. Match the supplied cover's vivid blue, gold, white, and red explorer aesthetic, with rounded gold border, crisp white learning cards, deep-blue headers, and red rule markers. Use the exact same leopard explorer mascot, now squeezing a tiny pronoun tile between two large verb tiles. No page number, source name, watermark, logo, copied diagram, or copied example.\n\nTop Japanese title: 「代名詞は句動詞の真ん中へ」\n\nCentral mechanism: a seesaw labeled PUT — OBJECT — ON. Show a small lightweight tile “it / them / him” snapping into the center. Main rule in a red-gold shield: 「分離できる句動詞＋代名詞 → 必ず間に置く」.\n\nContrast card:\n✓ Put it on. 「それを身につけて」\n✗ Put on it.\n✓ Turn them off. 「それらの電源を切って」\n✗ Turn off them.\n\nExplain visually why: the particle adds a resulting state to the object: 「put + jacket + onの状態」, 「turn + lights + offの状態」. A short pronoun is light, so it naturally sits between. A longer noun can appear in either position to keep the verb unit easy to hear.\n\nNoun-vs-pronoun mini table:\n• Write the address down. / Write down the address. 「住所を書き留める」\n• Write it down. 「それを書き留める」\n\nAdd a second explorer card titled 「前置詞は訳ではなく景色で選ぶ」. Show four identical “at” arrows pointing to different kinds of points: at noon 「時刻の一点」, at the gate 「場所の一点」, at $5 「価格の一点」, smile at me 「視線・反応の的」. Beside it, show “in the hall” as being inside a box and “on the wall” as contact with a surface. Caption: 「日本語の『で・に』だけでは選べない」.\n\nMini practice: 「Please pick ___ up. 目的語は these cards」 then transform to a pronoun. Answer: 「Please pick them up.」 Reason: 「them は短い代名詞なので pick と up の間」.\n\nBottom takeaway: 「句動詞は配置、前置詞は位置関係のイメージで理解」. Dense, clear, highly visual, all spelling exact.\n"
+}

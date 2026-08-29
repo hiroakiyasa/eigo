@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0042",
+  "number": 42,
+  "title": "目的語を、to の先へ向かわせる",
+  "chapter": {
+    "id": "framework",
+    "title": "文の骨組み"
+  },
+  "unitId": "writing-word-order",
+  "pageType": "説明",
+  "image": "pages/PAGE_0042.webp",
+  "promptSource": "source-prompts/PAGE_0042.txt",
+  "promptSha256": "a6f413eba0d37c7f94e40d96d6f6cfb7b3c1becc57106ac14fc89bbcbdf03ec3",
+  "prompt": "Use case: scientific-educational. Asset: dense 9:16 portrait grammar page.\nTopic source: p.96–97, concepts only; reconstruct independently.\nTop title: 「目的語を、to の先へ向かわせる」\nScene: adventure-library launch track. Leopard explorer points an arrow from a person block to an action gate.\nMechanism: 「動詞＋人＋to do」 with arrow label 「人が行動へ向かう」. Group three triggers: 「頼む・命じる」, 「望む・期待する」, 「許す・促す」.\nOriginal examples: 「I asked Ren to open the window.」 「We expect the team to arrive early.」 「The guide allowed us to take photos.」\nJapanese explanations under each, concise and original.\nMini check: Complete 「Mia told Leo ___ quietly.」 choices wait / to wait. Answer: 「to wait — Leo が待つ行動へ向かう」.\nTakeaway: 「to は目的語の未来の行動を指す」\nDense but readable approved cover style, central arrow illustration, 2–4 examples, no page number or source marks.\n\n"
+}

@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0193",
+  "number": 193,
+  "title": "ofはリンク、onは接触",
+  "chapter": {
+    "id": "prepositions",
+    "title": "位置関係を描く"
+  },
+  "unitId": "grammar-prepositions-2",
+  "pageType": "説明",
+  "image": "pages/PAGE_0193.webp",
+  "promptSource": "source-prompts/PAGE_0193.txt",
+  "promptSha256": "8c0ead741afc7d1113ae13aac50344dfe13827ce1d52b14156f68f1a6db6e3ed",
+  "prompt": "Use case: scientific-educational\nAsset type: dense illustrated English preposition book page, portrait 9:16\nPrimary request: Independently teach OF as a link that clarifies a vague noun and ON as physical or abstract contact. Cover part-whole, quantity, explanation, quality, complements, and the first core of ON; copy nothing from source pages 398–399.\nInput images: PAGE_0001 approved visual design; mascot_reference exact character appearance.\nCanvas: exact 941×1672, strict portrait 9:16, safe margins, no page number.\nTop Japanese title: 「ofはリンク、onは接触」\nCentral illustration: the leopard explorer operates a golden OF linking telescope that connects a vague label to its clarifying source, while one paw places a map onto an ON contact platform.\nMechanism diagram: OF chain 「ぼんやりしたX — of — Yで明確化」 with four branches 部分⇄全体・分量・内容説明・性質; side note 「形容詞/動詞＋of＝対象を明確化」. ON panel shows contact works above, below, side, ceiling, or abstractly.\nOriginal example cards:\n1. “We packed a bottle of water.” / 「何の1本かをwaterで明確化」\n2. “Courage is a quality of a good leader.” / 「leaderとのリンクで内容を特定」\n3. “It was thoughtful of you to wait.” / 「thoughtfulなのが誰かをyouで明確化」\n4. “There is a route map on the wall.” / 「壁面に接触している」\nMini practice: 「a slice ___ bread はof / on？」 Answer: 「of」. Reason: 「分量sliceの中身をbreadで明確にする。」\nBottom takeaway: 「ofは情報を結び、onは対象にぴたりと触れる」\nStyle: glossy blue-gold-white-red adventure archive, dimensional chain links and contact platform, rich diagrams, mascot once as a link engineer.\nTypography: accurate English and readable Japanese Gothic.\nConstraints: no page number, source wording/example/layout, source identity, logo, citation, watermark, or unrelated quiz.\nAvoid: interpreting of only as possession, tiny labels, flat plain chart.\n"
+}

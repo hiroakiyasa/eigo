@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0229",
+  "number": 229,
+  "title": "形容詞とtoの穴埋め関係",
+  "chapter": {
+    "id": "verb-parts",
+    "title": "動きを部品にする"
+  },
+  "unitId": "grammar-infinitives",
+  "pageType": "説明",
+  "image": "pages/PAGE_0229.webp",
+  "promptSource": "source-prompts/PAGE_0229.txt",
+  "promptSha256": "45a9da976abbc9662194de15221c37c46f230dbdc95b4bcd64e5cd0dfb2ba561",
+  "prompt": "Create a polished, content-rich educational English grammar infographic in portrait 9:16. Match the supplied cover's vivid blue, gold, white, and red explorer-book design. Use the exact same leopard explorer mascot checking a to-do scroll, fitting missing-object puzzle pieces, and measuring “enough” supplies. No page number, source name, watermark, logo, copied source sentence, or copied diagram.\n\nTop Japanese title: 「形容詞とtoの穴埋め関係」\n\nSmall top card: rare front-position modifier.\n• a to-do checklist 「これからする項目の種類を限定」\nCaption: 「通常は後ろから説明、前では種類分け」.\n\nCentral mechanism: adjective + TO phrase. Show incomplete adjective cards asking “何が？” and TO completing them.\n• This lock is hard to open. 「この鍵を開けるのは難しい」\n• The instructions are easy to follow. 「説明に従うのは簡単」\n• Our team is eager to begin. 「始めたくて意欲的」\n• The weather is likely to improve. 「良くなりそう」\n\nHighlight the GAP relationship with a jigsaw diagram:\n“This lock is hard to open ___.” The missing object of open points back to “this lock.”\nMore gap examples:\n• I have two hungry animals to feed ___. 「養うべき動物」\n• She has nobody to turn to ___. 「頼る相手がいない」\nExplain: the target noun silently fills the empty slot inside the to-infinitive.\n\nENOUGH section: a measuring gauge labeled 「何をするのに十分？」.\n• We have enough rope to reach the ledge. 「棚まで届くのに十分なロープ」\n• Leo was patient enough to wait. 「待てるほど十分に辛抱強い」\n• The cub is old enough to travel alone. 「一人旅できる年齢」\n\nMini practice: 「The puzzle is easy to solve ___. 空所に入る意味上の目的語は？」 Answer: 「the puzzle」. Reason: 「solveの目的語の穴を主語The puzzleが埋める」.\n\nBottom takeaway ribbon: 「toの中の空所と、説明される語を線で結ぶ」. Dense but clean and highly legible.\n"
+}

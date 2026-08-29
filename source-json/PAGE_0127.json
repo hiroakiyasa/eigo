@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0127",
+  "number": 127,
+  "title": "回数と確からしさを表す",
+  "chapter": {
+    "id": "modifiers",
+    "title": "情報を足す"
+  },
+  "unitId": "grammar-adverbs",
+  "pageType": "説明",
+  "image": "pages/PAGE_0127.webp",
+  "promptSource": "source-prompts/PAGE_0127.txt",
+  "promptSha256": "d560e1ae5c1eaf856d6c1b494ff222dd5a3e3d3f5cbcb94a9d71f047619abfff",
+  "prompt": "Create a polished information-dense educational English grammar page in portrait 9:16, matching the supplied cover's blue, gold, white, and red explorer aesthetic. Same leopard mascot, stamping calendar passports and reading a certainty compass. No page number, source identity, watermark, or logo.\n\nTop Japanese title: 「回数と確からしさを表す」\n\nCentral split illustration. Left: calendar stamps for once, twice, three times plus “a day / a week / a month”. Explain pattern 「回数＋期間」 and irregular once/twice.\n• I stretch twice a day. 「1日2回」\n• We meet three times a month. 「月に3回」\n• She called once last night. 「昨夜1回」\n\nRight: certainty compass from strong to weak: definitely / certainly / surely → probably → maybe / perhaps / possibly. Explain these express a speaker's judgment, not mathematical percentages. Show common positions:\n• He will probably join us. 「最初の助動詞の後」\n• She is certainly ready. 「be動詞の後」\n• Maybe the shop is closed. 「maybe は文頭が自然」\n• The key is possibly upstairs. 「possibly は控えめな可能性」\n\nClarify nuance badges: definitely＝強い確信, probably＝たぶん（可能性が高い）, maybe/perhaps＝ひょっとすると, possibly＝可能性はある.\n\nMini practice: reorder “will / probably / rain / it / tonight”. Answer: “It will probably rain tonight.” Reason: 「判断の副詞は最初の助動詞の後」.\n\nTakeaway: 「何回？と、どれくらい確か？は別のものさし」. Rich diagram, examples, explanation, question and answer.\n"
+}

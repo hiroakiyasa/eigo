@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0166",
+  "number": 166,
+  "title": "willは、未来を見通す力",
+  "chapter": {
+    "id": "comparison",
+    "title": "比べる・否定する・気持ちを添える"
+  },
+  "unitId": "grammar-modals-1",
+  "pageType": "説明",
+  "image": "pages/PAGE_0166.webp",
+  "promptSource": "source-prompts/PAGE_0166.txt",
+  "promptSha256": "8890906aca7ecf9e39b5c473f53b7b2b68b3912a55c0b37604d83c8353c68b3c",
+  "prompt": "Use case: scientific-educational; dense 9:16 portrait grammar page. Independently teach WILL as mental force for confident prediction and as a strong flow behind laws or characteristic habits. Source p.345–346 is coverage only.\nInput references: mascot appearance and PAGE_0001 visual system.\nTop title: 「willは、未来を見通す力」\nCentral illustration: leopard explorer as an observatory predictor projects a vivid scene from a WILL crystal, then traces a recurring A→B law loop.\nMechanism: core 「精神の力で、まだ見えない事態をはっきり見通す」 branching to 「予測」「自然な成り行き・法則」「人の特徴的な習慣」. Contrast telescope 「will＝話し手には展開が見える / may＝可能性の1つを開く」. Past-habit badge 「would often＝昔よく〜したものだ」.\nOriginal examples:\n1. “You’ll feel calmer after a short rest.” / 「そうなる展開が見えている」\n2. “This train will stop at Central Station.” / 「予定された確かな流れ」\n3. “Wood will float on water.” / 「性質から予測できる法則」\n4. “My uncle will tell the same joke twice.” / 「その人らしい習慣」\nMini problem: 「ミニ問題：可能性だけなら？」 “It (will / may) rain; I’m really not sure.” 「答え：may」 「確信ある見通しではなく、開かれた可能性だから。」\nBottom ribbon: 「willは時刻ではなく、話し手の見通しを表す」\nStyle: glossy adventure-library prediction observatory, blue/yellow/white, gold projection and red confidence beam, thick outlines.\nConstraints: no page number, copied source examples/figures/prose/layout, source marks, logo, citation, watermark, answer area, or photorealism. One mascot in predictor pose.\n"
+}

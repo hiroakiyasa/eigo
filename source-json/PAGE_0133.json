@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0133",
+  "number": 133,
+  "title": "justはピタッ、evenは極端",
+  "chapter": {
+    "id": "modifiers",
+    "title": "情報を足す"
+  },
+  "unitId": "grammar-adverbs",
+  "pageType": "説明",
+  "image": "pages/PAGE_0133.webp",
+  "promptSource": "source-prompts/PAGE_0133.txt",
+  "promptSha256": "c9299d833cc7577808aace77fe8b5c42181e2d35a32e4c5f33f9e0063734560b",
+  "prompt": "Use case: scientific-educational; dense 9:16 portrait grammar page. Reconstruct just and even independently from source p.277–278, using a fresh mechanism and original examples.\nInput references: mascot identity and PAGE_0001 visual language.\nTop title: 「justはピタッ、evenは極端」\nCentral illustration: leopard explorer as a precision scientist. A JUST clamp lands exactly on a target line; an EVEN catapult reaches an unexpected extreme level. Use two clear color-coded mechanisms.\nMechanism JUST branches: 「時がピタッ＝たった今」「表現がピタッ＝まさに」「範囲がピタッ＝〜だけ」「量がピタッ＝ぎりぎり」. EVEN branches: 「意外な人・物まで」「比較をさらに押す」「even so＝そうでもなお」. Show focus rule 「強めたい語句の近くに置く」.\nOriginal examples:\n1. “The parcel has just arrived.” / 「たった今届いた」\n2. “We had just enough rope.” / 「必要量ぎりぎり」\n3. “Even the guide missed the sign.” / 「案内役さえ見落とした」\n4. “The second tunnel was even narrower.” / 「さらに狭かった」\nMini problem: 「ミニ問題：“ハナさえ解けた”」 choices “Even Hana solved it.” / “Hana even solved it.” 「答え：Even Hana solved it.」 「意外な人物Hanaを直接強調する。」\nBottom ribbon: 「justは一致点、evenは予想の外側を照らす」\nStyle: glossy adventure-library precision lab, blue/gold/white, red extreme marker, thick outlines, dense but legible.\nConstraints: no page number, copied source examples/metaphor/text/layout, source identity, logo, citation, watermark, blank answer area, or photorealism. One mascot in scientist pose.\n"
+}

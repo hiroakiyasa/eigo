@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0220",
+  "number": 220,
+  "title": "-ingで同時進行と結果を足す",
+  "chapter": {
+    "id": "verb-parts",
+    "title": "動きを部品にする"
+  },
+  "unitId": "grammar-gerunds",
+  "pageType": "英文",
+  "image": "pages/PAGE_0220.webp",
+  "promptSource": "source-prompts/PAGE_0220.txt",
+  "promptSha256": "1451eb2e501f1373f3a04b4a1a2036353142d9b2497c2854d4d8b2c7dbcf1283",
+  "prompt": "Create a polished information-dense English grammar book page in portrait 9:16, matching the supplied cover's vivid blue-and-gold explorer style. Same leopard mascot editing parallel video tracks for a main action and an -ing action. No page number, source name, watermark, or logo.\n\nTop Japanese title: 「-ingで同時進行と結果を足す」\n\nCentral timeline illustration: main-clause video track plus an -ing track. Teach three common readings determined by logic and position: simultaneous accompanying action, background/time, and resulting event. The understood doer normally matches the main clause subject unless a separate subject is stated.\n\nOriginal examples:\n• Mia walked home humming softly. 「歩きながら口ずさむ」\n• Opening the old chest, Mia held her breath. 「開ける場面を文頭で提示」\n• While waiting for the bus, Leo reviewed his notes. 「whileで同時性を明示」\n• The door slammed shut, waking the baby. 「主節の結果」\n\nAdd placement strip: front = scene setting/focus; end = natural added detail or result. Warning mini-box against a dangling subject mismatch.\n\nMini practice: what does -ing explain in “The storm hit the coast, damaging several boats”? Answer: result; reason 「嵐が海岸を襲った結果、船が損傷した」.\n\nTakeaway: 「主動作の横に、-ingの映像トラックを重ねる」. Dynamic timeline, four examples, problem+answer, crisp typography.\n"
+}

@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0295",
+  "number": 295,
+  "title": "過去の箱に入れると時制も過去",
+  "chapter": {
+    "id": "time",
+    "title": "時間を旅する"
+  },
+  "unitId": "grammar-perfect-advanced",
+  "pageType": "説明",
+  "image": "pages/PAGE_0295.webp",
+  "promptSource": "source-prompts/PAGE_0295.txt",
+  "promptSha256": "522b08258cdbe38aa6dc029a2974ecd1085193280725b4a0c67018bac8d59f75",
+  "prompt": "Use case: scientific-educational\nAsset type: dense illustrated sequence-of-tenses page, portrait 9:16\nPrimary request: Introduce backshifting in reported content. Show that a past reporting verb creates a past-time frame that normally pulls present forms one step back, while a present-perfect reporting frame remains anchored in the present. Create new metaphors, examples, and diagrams.\nInput images: PAGE_0001 approved visual style; mascot_reference exact leopard explorer.\nCanvas: exact 941×1672, strict 9:16, no page number.\nTop Japanese title: 「過去の箱に入れると時制も過去」\nCentral illustration: the leopard archivist places a bright quote card into a blue PAST chest; inside gears change am→was, love→loved, will→would.\nMechanism diagram: DIRECT NOW “Nora says: ‘I am busy.’” → LATER REPORT “Nora said she was busy.”; reporting verb is the outer time frame, reported clause is the inner card. Present perfect exception: “I’ve always believed this is useful.” anchored at NOW.\nOriginal example cards: “Ren said the shop closed at six.” / 「saidに合わせてclosed」; “I thought the puzzle was easy.” / 「thought→was」; “Aya promised she would send the photo.” / 「will→would」; “Where did you say you were from?” / 「瞬時の聞き返しでも一致」.\nMini practice: 「Ken said, ‘I need a break.’ → Ken said he (needs / needed) a break.」 Answer: “needed”. Reason: 「過去のsaidがレポート内容を過去枠へ入れる。」\nBottom takeaway: 「主節が過去なら、内容もまず一歩過去へ」\nStyle: glossy blue-gold archive chest, red arrows, thick outlines, structured example cards, mascot once as fast archivist.\nConstraints: no page number, copied source diagram/sentence, source identity, logo, citation, watermark.\nAvoid: calling the shift a change in real-world truth, tiny conjugation labels.\n"
+}

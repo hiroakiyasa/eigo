@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0174",
+  "number": 174,
+  "title": "dare と助動詞で強く言う",
+  "chapter": {
+    "id": "comparison",
+    "title": "比べる・否定する・気持ちを添える"
+  },
+  "unitId": "grammar-modals-1",
+  "pageType": "説明",
+  "image": "pages/PAGE_0174.webp",
+  "promptSource": "source-prompts/PAGE_0174.txt",
+  "promptSha256": "49efb5192b062e7ae7d31f44ead4900146a084ce0cc3f7388c49af373df6e17b",
+  "prompt": "Create a polished, information-dense educational English grammar page in portrait 9:16, matching the supplied cover's blue, gold, red and white style. Same leopard mascot, boldly challenging a shadow and then pressing an emphasis button. No page number, source name, watermark, or logo.\n\nTop Japanese title: 「dare と助動詞で強く言う」\n\nTop panel: dare means having the courage to do something; it is usually easiest as an ordinary verb. Show:\n• She didn't dare to open the box. 「箱を開ける勇気がなかった」\n• Do you dare to cross the bridge? 「渡る勇気はある？」\nAdd expressive patterns:\n• How dare you touch my notes! 「よくも私のノートに触ったな」\n• Try it if you dare. 「できるものならやってみて」\nSmall note: modal-like need/dare occur mainly in questions and negatives in some varieties, but learners can safely use ordinary-verb patterns: don't need to / do you need to / don't dare to.\n\nBottom mechanism: an audio-volume console. Strong stress on an auxiliary or be verb emphasizes the entire claim:\n• I WILL finish today. 「絶対今日終える」\n• You CAN solve it. 「君なら本当にできる」\n• I AM the guide. 「私がガイドです！」\nIf there is no auxiliary, insert emphatic do/does/did + base verb:\n• I DO trust you. / She DOES remember. / We DID call.\n\nMini practice: 「『本当に彼に電話した』を強調: I ___ call him.」 Answer: did. Reason: 「過去の一般動詞は DID + 原形で強調」.\n\nTakeaway: 「助動詞を強く読めば、文全体の主張が強まる」. Show sound waves, original examples, question+answer, crisp text.\n"
+}

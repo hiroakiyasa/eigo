@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0214",
+  "number": 214,
+  "title": "whichは文全体も受ける",
+  "chapter": {
+    "id": "relative",
+    "title": "名詞を後ろから特定する"
+  },
+  "unitId": "grammar-relative",
+  "pageType": "英文",
+  "image": "pages/PAGE_0214.webp",
+  "promptSource": "source-prompts/PAGE_0214.txt",
+  "promptSha256": "2385aec62af8d979bf6bbc4777ea52e9db52ed7778e705be11ee05231c26f7d9",
+  "prompt": "Create a polished information-dense English grammar page, portrait 9:16, matching the supplied cover's blue, gold, white and red style. Same leopard explorer mascot holding a huge WHICH catcher that receives different information shapes. No page number, source name, watermark, or logo.\n\nTop Japanese title: 「whichは文全体も受ける」\n\nTeach comma + which as an annotation receiver. Central three-way funnel: noun/part of a set → property/expression → entire preceding event, all flowing into WHICH. Include preposition + which and quantity + of which patterns.\n\nOriginal examples:\n• We bought four lamps, two of which were damaged. 「4個のうち2個」\n• This camera, for which I paid a lot, stopped working. 「そのカメラに大金を払った」\n• Mia solved the puzzle in one minute, which amazed everyone. 「出来事全体が皆を驚かせた」\n• Leo was unusually quiet, which he rarely is. 「quietという状態を受ける」\n\nAdd arrow labels showing exactly what each which refers to. Note: sentence-level which normally follows a comma and comments on the previous content.\n\nMini practice: in “The train arrived early, which surprised us,” what does which mean? Answer: 「列車が早く着いた出来事全体」; reason 「直前の名詞trainだけではない」.\n\nTakeaway: 「whichは名詞だけでなく、前の内容を丸ごと注釈できる」. Dense, crisp, integrated question+answer.\n"
+}

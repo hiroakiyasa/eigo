@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0022",
+  "number": 22,
+  "title": "“もの”を主語にすると近道",
+  "chapter": {
+    "id": "framework",
+    "title": "文の骨組み"
+  },
+  "unitId": "grammar-verbs-present",
+  "pageType": "説明",
+  "image": "pages/PAGE_0022.webp",
+  "promptSource": "source-prompts/PAGE_0022.txt",
+  "promptSha256": "102924de3b0c253be7bea837e18e05be948dabfe5ba99586e6a34b0af57a1acb",
+  "prompt": "Use case: scientific-educational\nAsset type: dense 9:16 portrait illustrated English-grammar page\nPrimary request: Independently explain that position makes a phrase act as a noun-like subject and that English naturally uses things, events, signs, roads, and causes as subjects to make compact sentences. Source pages 56–57 are coverage guidance only; reuse nothing expressive or visual.\nInput images: mascot appearance reference and PAGE_0001 visual-system reference. Create an original page in the same adventure-library world.\nCanvas: strict 9:16 portrait, high content density, safe margins, no page number.\nTop title (verbatim): 「“もの”を主語にすると近道」\nCentral illustration: the leopard explorer in a route-planner pose compares a winding human-centered path with a bright short English rail. A storm cloud, button, note, and road each step onto the SUBJECT platform and directly trigger a result.\nMechanism diagram: four compact routes showing 「原因・もの」→「動詞」→「人への影響／結果」. Add the rule 「英語では生き物でなくても主語にできる」 and the position cue 「主語の場所に置かれたまとまりは、名詞の役目」.\nRequired original examples:\n1. “The storm delayed our flight.” / 「嵐が原因となって遅らせた」\n2. “This button opens the hidden door.” / 「ボタンを主語にして最短で伝える」\n3. “Her cheerful note lifted my mood.” / 「手紙が気分へ働きかける」\n4. “This path leads visitors to the tower.” / 「道が行き先を案内する」\nMini practice box: 「ミニ問題：自然な英文はどっち？」 “A: This map shows the safest route.” “B: We can see the safest route when we look at this map.” 「答え：A」 「ものを主語にすると、意味を短く直接つなげられる。」\nBottom takeaway ribbon: 「原因を主語に置けば、英語はすっきり進む」\nStyle: polished blue-yellow-white adventure-library infographic, glossy rails and icons, thick outlines, small red impact arrows, readable Gothic Japanese and accurate English.\nConstraints: no page number, source marks, source wording, copied example/layout/figure, logo, citation, watermark, blank answer area, random filler, dark background, or photorealism. One mascot only, distinct route-planner pose.\n"
+}

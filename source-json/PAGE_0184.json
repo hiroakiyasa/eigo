@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0184",
+  "number": 184,
+  "title": "前置詞は“感じた景色”で選ぶ",
+  "chapter": {
+    "id": "prepositions",
+    "title": "位置関係を描く"
+  },
+  "unitId": "grammar-prepositions-1",
+  "pageType": "まとめ",
+  "image": "pages/PAGE_0184.webp",
+  "promptSource": "source-prompts/PAGE_0184.txt",
+  "promptSha256": "209e4b18350538ba6424374340a8e3fd92ae3e446ba5de7efd85c57396be7ece",
+  "prompt": "Create a polished, information-dense educational English grammar page in portrait 9:16, matching the supplied cover's consistent blue-gold-white-red explorer aesthetic. Use the exact same leopard explorer mascot, now holding three interchangeable “viewpoint lenses” and then circling a topic globe. No page number, source name, watermark, logo, or copied source wording/layout.\n\nTop Japanese title: 「前置詞は“感じた景色”で選ぶ」\n\nUpper visual summary: one grassy course seen two ways. Through an IN lens it becomes a bordered zone; through an ON lens it becomes a ground surface. Add original examples:\n• My frisbee landed in the picnic area. 「区域の中に入った」\n• A peacock was walking on the picnic lawn. 「芝生の面の上」\nAdd a rule card: 「固定の場所ルールではなく、点・内部・接触を選ぶ」.\n\nLower main lesson: ABOUT. Central icon is a topic globe with ideas orbiting around it. Core image label: 「about = まわり」. Branch into two meanings:\n1 approximate vicinity: about 30 minutes 「30分のまわり＝約30分」; It’s about time to leave. 「そろそろ出る頃」\n2 broad topic: We chatted about space travel. 「宇宙旅行をめぐって話す」\n\nContrast card ABOUT vs ON:\n• a friendly podcast about sharks 「広く気軽な話題」\n• a lecture on shark behavior 「対象に密着した専門的内容」\nUse a loose orbit for about and a spotlight touching the target for on.\n\nPhrase capsules:\n• be about to: The show is about to begin. 「まさに始まりそう」\n• beat around the bush: Please don’t talk around the point. 「核心を避けて遠回り」. Present the idiom concept without copying source imagery.\n\nMini practice: 「専門家による火山の講義：a lecture ___ volcanoes」 Answer: 「on」. Reason: 「対象に直接密着した専門的な内容」.\n\nBottom takeaway: 「訳語ではなく、頭に浮かぶ位置関係を選ぶ」. Dense learning value, clear hierarchy, exact readable text.\n"
+}

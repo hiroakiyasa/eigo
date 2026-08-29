@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0029",
+  "number": 29,
+  "title": "動作だけなら、自動型",
+  "chapter": {
+    "id": "framework",
+    "title": "文の骨組み"
+  },
+  "unitId": "grammar-be",
+  "pageType": "説明",
+  "image": "pages/PAGE_0029.webp",
+  "promptSource": "source-prompts/PAGE_0029.txt",
+  "promptSha256": "a9c3d7aec5a8f4a1511e561738360b8e333a8acf8f5fd0ae2588976f4090394c",
+  "prompt": "Use case: scientific-educational\nAsset type: dense 9:16 portrait English-grammar page\nPrimary request: Independently contrast three natural ways English names sports and activities, then connect this to the intransitive pattern where the verb has no direct object and modifiers merely add detail. Source pages 70–71 are topic coverage only; do not copy examples, sports lists, explanation, illustrations, or layout.\nInput images: mascot appearance reference and PAGE_0001 unified visual reference.\nCanvas: strict 9:16 portrait, dense but lively and organized, no page number.\nTop title (verbatim): 「動作だけなら、自動型」\nCentral illustration: the leopard explorer in a sports-announcer pose stands beside three activity gates and one intransitive running track. Gates: 「play＋球技・ゲーム」「do / practice＋競技・稽古」「活動そのものが動詞」. Track: 「主語＋動詞」 with modifier balloons floating outside the core rail.\nMechanism diagram: 「目的語あり：動詞の力が対象へ」 versus 「目的語なし：動作だけで完結」. Add the warning 「場所・時・様子が続いても、目的語とは限らない」.\nRequired original examples:\n1. “We play volleyball after school.” / 「volleyball が目的語」\n2. “I practice aikido on Fridays.” / 「競技名を practice の後ろへ」\n3. “They skate on the frozen pond.” / 「skate 自体が動詞」\n4. “The lantern flickered softly all night.” / 「softly / all night は修飾、目的語なし」\nMini practice box: 「ミニ問題：自動型はどっち？」 “A: The bell rang loudly.” “B: The bell woke everyone.” 「答え：A」 「rang は動作だけで完結し、loudly は様子を足すだけ。」\nBottom takeaway ribbon: 「後ろに語があっても、“何を？”でなければ目的語ではない」\nStyle: energetic cover-quality adventure-library sports gallery, blue/yellow/white, glossy gates, thick crisp outlines, red only for object-impact cue, legible text hierarchy.\nConstraints: no page number, copied lists/examples/illustrations/text/layout, source identity, logo, citation, watermark, blank answer area, clutter, or photorealism. One mascot in announcer pose.\n"
+}

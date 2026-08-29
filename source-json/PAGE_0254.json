@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0254",
+  "number": 254,
+  "title": "文末にちょこっと確認",
+  "chapter": {
+    "id": "questions",
+    "title": "たずねる・目立たせる"
+  },
+  "unitId": "grammar-questions",
+  "pageType": "説明",
+  "image": "pages/PAGE_0254.webp",
+  "promptSource": "source-prompts/PAGE_0254.txt",
+  "promptSha256": "b659c7c6fb753240966c36a85bd9cc24b9b78a7e663b12c6810bb942fa6fd261",
+  "prompt": "Use case: scientific-educational\nAsset type: dense illustrated English tag-question page, portrait 9:16\nPrimary request: Independently teach tag questions as a light question added to a statement: reverse polarity, use a pronoun and matching auxiliary, and distinguish rising uncertainty from falling confirmation. Include the special “aren’t I?” form. Rebuild pages 520–521 without copying source wording or examples.\nInput images: PAGE_0001 approved style; mascot_reference exact leopard explorer.\nCanvas: exact 941×1672, strict portrait 9:16, safe margins, no page number.\nTop Japanese title: 「文末にちょこっと確認」\nCentral illustration: the mascot clips a tiny QUESTION caboose onto a long statement train, flipping a plus sign to minus and minus to plus.\nMechanism diagram: 「肯定文 → 否定タグ」 / 「否定文 → 肯定タグ」; noun becomes pronoun; auxiliary matches. Intonation gauge: rising arrow＝本当に質問, falling arrow＝同意の念押し. Special badge: “I’m …, aren’t I?” not “amn’t I?”.\nOriginal example cards:\n1. “Mia knows the route, doesn’t she?” / 「肯定＋否定タグ」\n2. “The gate isn’t locked, is it?” / 「否定＋肯定タグ」\n3. “I’m early, aren’t I?” / 「I amの特別形」\nMini practice: 「Leo can’t swim, ___ ___?」 Answer: “can he?” Reason: 「前が否定なので肯定タグ、Leoはheで受ける。」\nBottom takeaway: 「反対の極性を軽く添えて、相手に選んでもらう」\nStyle: glossy adventure railway hall, blue-gold-white-red, polarity switches and compact tag caboose, thick outlines, mascot once as a conductor.\nTypography: accurate English and bold readable Japanese.\nConstraints: no page number, source quotation/example/layout, source identity, logo, citation, watermark, or extra quiz.\nAvoid: oversized full question after statement, tiny intonation marks, dark station.\n"
+}

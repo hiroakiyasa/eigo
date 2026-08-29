@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0110",
+  "number": 110,
+  "title": "前はしぼる、後ろは説明",
+  "chapter": {
+    "id": "modifiers",
+    "title": "情報を足す"
+  },
+  "unitId": "grammar-adjectives",
+  "pageType": "説明",
+  "image": "pages/PAGE_0110.webp",
+  "promptSource": "source-prompts/PAGE_0110.txt",
+  "promptSha256": "b73894486cb2c4b98207c019d92b07e332e56871e3da57033951d139ea21d596",
+  "prompt": "Use case: scientific-educational\nAsset type: dense 9:16 portrait core-rule explanation page\nPrimary request: Independently teach the two directions of modification: before a target narrows its kind, after a target explains it. Source pages 232–233 are coverage only; reuse no source wording, examples, diagram, or layout.\nInput images: mascot appearance reference; PAGE_0001 design reference.\nCanvas: strict 9:16 portrait, no page number, safe margins.\nTop title: 「前はしぼる、後ろは説明」\nCentral illustration: mascot in a two-way traffic-controller pose at a glowing modifier road. A funnel arrow enters a noun from the front; an explanation lantern unfolds behind it.\nMechanism diagram: left-to-right 「前置き → 種類をしぼる → 名詞」 and 「名詞 / 文 → 後ろ置き → 内容を説明」. Use one simple noun block transformed in both directions.\nOriginal example cards:\n1. “a wooden bridge” / 「woodenが橋の種類をしぼる」\n2. “The bridge is wooden.” / 「woodenが橋の性質を説明」\n3. “the map on the desk” / 「どのmapかを後ろから説明」\n4. “Leo, tired after the climb, sat down.” / 「途中に説明を差し込む」\nMini practice box: 「ミニ確認：a red door の red は前・後ろ？」 「答え：前」 「doorの種類を先にしぼっている。」\nBottom takeaway: 「位置が変わると、修飾の気持ちも変わる」\nStyle: bright glossy adventure-library traffic hall, blue/yellow/white, red only for target words, thick outlines, dimensional funnel and unfolding explanation ribbon, dense but readable.\nTypography: exact English punctuation and bold Japanese.\nConstraints: no page number, source expression/figure/layout reuse, source identity, logo, citation, watermark, or additional exercise. Mascot once in traffic-controller pose.\nAvoid: tiny text, sparse poster, copied arrows, dark background.\n"
+}

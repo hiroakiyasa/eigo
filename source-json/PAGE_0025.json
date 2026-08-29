@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0025",
+  "number": 25,
+  "title": "-s と was / were の合図",
+  "chapter": {
+    "id": "framework",
+    "title": "文の骨組み"
+  },
+  "unitId": "grammar-verbs-present",
+  "pageType": "説明",
+  "image": "pages/PAGE_0025.webp",
+  "promptSource": "source-prompts/PAGE_0025.txt",
+  "promptSha256": "dff5867f5f37e0150474b964bcd53ed02d295b98ff208880054827599f2319ce",
+  "prompt": "Use case: scientific-educational\nAsset type: dense 9:16 portrait English-grammar page\nPrimary request: Independently teach how third-person singular present endings are spelled, and connect present be forms to past was/were. Source pages 62–63 are topic coverage only; do not copy their tables, word lists, prose, examples, figures, or layout.\nInput images: mascot appearance reference and PAGE_0001 visual reference.\nCanvas: strict 9:16 portrait, one polished dense educational page, no page number.\nTop title (verbatim): 「-s と was / were の合図」\nCentral illustration: the leopard explorer in a badge-maker pose stamps present-tense verbs with three badges, then turns a clock lever so am/is become was and are becomes were.\nMechanism diagram: present station shows 「ふつう：+s」「-s, -sh, -ch, -x, -o：+es」「子音字+y：yをies」. Past-be station shows 「am / is → was」「are → were」 and 「過去は主語で2つに分かれる」.\nRequired original examples:\n1. “Nora fixes bicycles on weekends.” / 「fix は -es」\n2. “The baby cries at midnight.” / 「cry は y を ies」\n3. “I was nervous before the show.” / 「am の過去は was」\n4. “The seats were empty.” / 「are の過去は were」\nMini practice box: 「ミニ問題：正しい形は？」 “Kai (watch / watches) the stars every night.” 「答え：watches」 「watch は -ch で終わるので -es。」\nBottom takeaway ribbon: 「合図を見れば、動詞の服が選べる」\nStyle: glossy adventure-library stamp workshop and time gate, blue/yellow/white with red suffix badges, thick outlines, compact original mini-chart, phone-readable.\nConstraints: no page number, copied chart/examples/wording/figures, source marks, logo, citation, watermark, answer space, excessive text, or photorealism. One mascot only in distinct badge-maker pose.\n"
+}

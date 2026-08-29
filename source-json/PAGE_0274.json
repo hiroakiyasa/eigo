@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0274",
+  "number": 274,
+  "title": "進行形は動く場面を映す",
+  "chapter": {
+    "id": "time",
+    "title": "時間を旅する"
+  },
+  "unitId": "grammar-present-continuous",
+  "pageType": "説明",
+  "image": "pages/PAGE_0274.webp",
+  "promptSource": "source-prompts/PAGE_0274.txt",
+  "promptSha256": "42bd895c0a9c0a74a690c40032e47dfcd3bd934fe31dc05c4336e722878265fb",
+  "prompt": "Create a polished information-dense English grammar book page in portrait 9:16, matching the supplied cover's explorer aesthetic. Same leopard cinematographer mascot switching from a still photo to a video scene. No page number, source name, watermark, or logo.\n\nTop Japanese title: 「進行形は動く場面を映す」\n\nTeach be + -ing as a subject described by an unfolding activity. BE carries tense, question and negation; -ing supplies the moving scene. Contrast simple present's habit/stability with progressive's temporary/in-progress situation.\n\nOriginal examples:\n• The children are building a tree house. 「今進行する場面」\n• I'm staying with my aunt this month. 「一時的な滞在」\n• I live near the station. 「安定した生活状況」\n• Are they still waiting? / They aren't waiting now. 「beを動かして疑問・否定」\n\nCentral mechanism: subject → BE control panel → moving -ING video; side-by-side wide habit ring versus short temporary interval.\n\nMini practice: choose “I work / I'm working from home this week.” Answer: I'm working; reason 「this weekだけの一時的状況」.\n\nTakeaway: 「beが時を決め、-ingが動く映像を見せる」.\n"
+}

@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0268",
+  "number": 268,
+  "title": "原形の提案、現在形の一体感",
+  "chapter": {
+    "id": "time",
+    "title": "時間を旅する"
+  },
+  "unitId": "grammar-verbs-present",
+  "pageType": "説明",
+  "image": "pages/PAGE_0268.webp",
+  "promptSource": "source-prompts/PAGE_0268.txt",
+  "promptSha256": "00dc1396cb36d7234112740323457cc1164cd722f671cf26c551899ec90fc5db",
+  "prompt": "Create a polished, information-dense educational English grammar page in portrait 9:16, matching the supplied cover's blue-gold-white-red explorer aesthetic. Use the exact same leopard explorer mascot stamping proposals with a BASE FORM seal, then standing inside a wide stable PRESENT circle. No page number, source name, watermark, logo, copied example, or copied diagram.\n\nTop Japanese title: 「原形の提案、現在形の一体感」\n\nUpper section: mandative that-clause. Central formula:\nsuggest / demand / insist / recommend / important + that + subject + BASE VERB\n• The doctor recommended that Maya rest for a week. 「Mayaが休むよう勧めた」\n• The committee demanded that the fee be reduced. 「料金が下げられるよう要求」\n• It is essential that every device work offline. 「各端末が作動することが重要」\nHighlight rest, be, work: no -s and not ordinary present tense. Explain: 「願望・要求・提案の内容は、まだ確定した事実ではない」.\n\nSHOULD option card:\n• We suggest that the route should be changed. 「変更すべき、という意味をより明示」\nCaption: should can be inserted when its “should” nuance is intended.\n\nLower section: PRESENT SIMPLE core. Use a large warm circle surrounding the mascot labeled 「現在を含む広い安定状況との一体感」.\nStable facts/examples:\n• I belong to the astronomy club. 「現在を含めて安定」\n• This river flows into the sea. 「広く成り立つ事実」\n• Water expands when it freezes. 「一般的な性質」\nShow a broad timeline band rather than a single “now” dot.\n\nMini practice: 「提案節：The guide suggested that Ken ___ a flashlight.」 Answer: 「carry」. Reason: 「未実現の提案内容なので三単現carriesではなく原形」.\n\nBottom takeaway: 「未実現の働きかけ＝原形／広く安定する事実＝現在形」. Dense, precise, readable.\n"
+}

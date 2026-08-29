@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0276",
+  "number": 276,
+  "title": "同じ動詞でも、意味が動けば進行形",
+  "chapter": {
+    "id": "time",
+    "title": "時間を旅する"
+  },
+  "unitId": "grammar-past-simple",
+  "pageType": "英文",
+  "image": "pages/PAGE_0276.webp",
+  "promptSource": "source-prompts/PAGE_0276.txt",
+  "promptSha256": "d9417af36352c3965345427fb87c695a84214d75f3117df7f177f4b0785126ad",
+  "prompt": "Create a polished information-dense educational page in portrait 9:16, matching the supplied cover's colorful explorer style. Same leopard mascot transforming a normally stative word into an active meaning and playing frame-by-frame motion. No page number, source name, watermark, or logo.\n\nTop Japanese title: 「同じ動詞でも、意味が動けば進行形」\n\nCentral transformation lab: progressive availability depends on the meaning's dynamism, not a permanent word list. Show state → deliberate activity; change verb → approaching endpoint; momentary verb → repeated frames.\n\nOriginal examples:\n• I think the plan is good. 「意見・状態」\n• I'm thinking about changing jobs. 「考える活動」\n• The train is stopping. 「停止状態へ向かう途中」\n• She was nodding during the speech. 「瞬間動作の反復」\n• You're being unusually quiet today. 「一時的な振る舞い」\n\nAdd three mini animations: THINK state/action, STOP moving→still, NOD repeated frames. Emphasize that progressive can highlight temporary behavior.\n\nMini practice: does “He was knocking” normally mean one single knock? Answer: no; reason 「瞬間動作を時間幅に入れると反復として見えやすい」.\n\nTakeaway: 「単語ではなく、その場の意味に動きがあるかを見る」.\n"
+}

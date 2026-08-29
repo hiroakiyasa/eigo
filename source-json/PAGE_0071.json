@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0071",
+  "number": 71,
+  "title": "複数形は、音と形で変わる",
+  "chapter": {
+    "id": "nouns",
+    "title": "名詞の世界"
+  },
+  "unitId": "grammar-nouns",
+  "pageType": "説明",
+  "image": "pages/PAGE_0071.webp",
+  "promptSource": "source-prompts/PAGE_0071.txt",
+  "promptSha256": "c9631ba31518fe2e623d7b550d5e687be28abd658b51445cc483c760bd7fddb7",
+  "prompt": "Use case: scientific-educational; asset: dense 9:16 portrait grammar page. Source p.154–155 supplies topic coverage only; all wording, examples, scene, diagram, and layout must be original.\nInput references: mascot_reference.png for character appearance only; PAGE_0001.png for the unified glossy adventure-library visual system only.\nTop title (verbatim): 「複数形は、音と形で変わる」\nCentral illustration: leopard explorer as a lively word-smith, sending singular noun blocks through a plural forge. Four visible routes reshape spelling, while irregular nouns use a magical transformation portal and unchanged nouns use a mirror gate.\nMechanism diagram: 「ふつう +s」「-s / -sh / -ch / -x など +es」「子音字+y → ies」「一部の -f / -fe → ves」「不規則」「単複同形」. Add sound badges 「[s] 息」「[z] 声」「[iz] 1音足す」 and caution 「語尾が-sでも単数の語がある」.\nOriginal examples with concise Japanese:\n1. “Three cities joined the festival.” / 「city → cities」\n2. “The shelves hold old diaries.” / 「shelf → shelves」\n3. “Two people found the clue.” / 「person → people」\n4. “Six deer crossed the road.” / 「deer は形が同じ」\nMini practice: 「ミニ問題：複数形は？」 “library → ?” 「答え：libraries」 「子音字+yなので、yをiesに変える。」\nBottom ribbon: 「規則の道と、覚える変身を分けて整理しよう」\nStyle: cover-quality blue/yellow/white adventure library, dimensional word blocks, thick outlines, red only on changed letters, dense but phone-readable.\nConstraints: no page number, source identity, copied source language/list/figure/table/layout, logo, citation, watermark, empty answer field, photorealism, or filler. One mascot in a new word-smith pose.\n"
+}

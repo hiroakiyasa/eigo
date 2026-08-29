@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0227",
+  "number": 227,
+  "title": "to不定詞は足りない情報を補う",
+  "chapter": {
+    "id": "verb-parts",
+    "title": "動きを部品にする"
+  },
+  "unitId": "grammar-infinitives",
+  "pageType": "説明",
+  "image": "pages/PAGE_0227.webp",
+  "promptSource": "source-prompts/PAGE_0227.txt",
+  "promptSha256": "72ead2685bbd11858d7eb44f2a7fbe2c51a424320ff1ef1393e42d099b4369a7",
+  "prompt": "Create a polished, content-dense educational English grammar infographic in portrait 9:16. Match the supplied cover's vivid blue, gold, white, and red explorer-book aesthetic. Use the exact same leopard explorer mascot completing missing puzzle pieces after several main clauses, with a golden TO arrow pointing to the needed information. No page number, source name, watermark, logo, copied text, or copied diagram.\n\nTop Japanese title: 「to不定詞は足りない情報を補う」\n\nCentral mechanism: four incomplete speech bubbles, each asking a natural question, completed by a TO phrase. Core rhythm in a bold banner: 「足りない → toで指し示して補う」.\n\nFour contextual branches with original examples:\n1 Purpose — “We went to the observatory...” Why?\n• We went to the observatory to watch the meteor shower. 「流星群を見るため」\n2 Cause of emotion — “I was delighted...” Why?\n• I was delighted to receive your postcard. 「受け取ってうれしかった」\n3 Result — “The seedling grew...” What happened next?\n• The seedling grew to become a tall tree. 「育って大木になった」\n4 Basis for judgment — “You must be brave...” What makes me think so?\n• You must be brave to explore that cave alone. 「一人で探検するなんて」\n\nAdd a visual warning: these are not four unrelated dictionary meanings of TO; the context determines what information is missing.\n\nPurpose-strength card:\n• to save time 「目的を自然に示す」\n• in order to save time / so as to save time 「目的を明確に強調」\n\nEmotion family strip: relieved to hear, sorry to interrupt, thrilled to win, surprised to find — with small face icons and caption 「感情には原因を添えたくなる」.\n\nMini practice: 「We opened the window ___ some fresh air in.」 Answer: 「to let」. Reason: 「窓を開けた目的という不足情報を補う」.\n\nBottom takeaway ribbon: 「用法名より“聞き手が次に知りたいこと”を探す」. Dense yet strongly hierarchical and readable.\n"
+}

@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0319",
+  "number": 319,
+  "title": "soで内容を受け、省略で流れを速く",
+  "chapter": {
+    "id": "flow",
+    "title": "文をつなぎ、会話を伝える"
+  },
+  "unitId": "grammar-reported-speech",
+  "pageType": "説明",
+  "image": "pages/PAGE_0319.webp",
+  "promptSource": "source-prompts/PAGE_0319.txt",
+  "promptSha256": "d0144900fd4cd20b4dcf8889cd2498a1140d91a85ba41ad265f40660b6ad2c3c",
+  "prompt": "Create a polished, content-dense educational English grammar page in portrait 9:16. Match the supplied cover's vivid blue, gold, white, and red explorer-book aesthetic. Use the exact same leopard explorer mascot catching entire ideas in an SO crystal and then removing obvious repeated boxes from dialogue. No page number, source name, watermark, logo, copied source wording, or copied artwork.\n\nTop Japanese title: 「soで内容を受け、省略で流れを速く」\n\nUpper central mechanism: SO acts as a compact pointer to previously stated information.\n\nDifferent targets:\nAdjective/state:\n• The crew looked exhausted, and they had every reason to be so. 「so＝exhausted」\nAdverb/degree:\n• Aya solved it quickly, and Leo even more so. 「so＝quickly」\nWhole proposition:\n• The rain may stop by noon. If so, we’ll leave then. 「so＝雨が止むこと」\nThought/report pattern:\n• “Is the gate locked?” — “I think so.” 「そうだと思う」\n• “Will the shop reopen?” — “I hope so.” 「そうなると願う」\nNegative receiver: “I hope not.” / “I think not.” when the proposition is negated.\n\nLower section introduces ellipsis as a disappearing repeated train car. Core rule: 「前後から100%復元できる重なりだけを省く」.\nDialogue before/after:\n• “Who can carry the tent?” — “Mika can (carry the tent).”\n• “Has Leo finished the checklist?” — “Yes, he has (finished it).”\n• “Is the water warm?” — “It is (warm).”\nShow that auxiliary, perfect have, or be remains as the grammatical anchor.\n\nAdd a safety badge: do not omit information merely because it feels repetitive; the listener must be able to recover it instantly.\n\nMini practice: 「“I don’t think the path is safe.” をso/notで短く受ける：I hope ___.」 Answer: 「not」. Reason: 「安全ではないという否定の文内容をnotで受ける」.\n\nBottom takeaway ribbon: 「soは内容の代用、ellipsisは復元できる重なりの削除」. Dense but orderly.\n"
+}

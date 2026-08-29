@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0315",
+  "number": 315,
+  "title": "asの核は“＝・ぴったり同時”",
+  "chapter": {
+    "id": "flow",
+    "title": "文をつなぎ、会話を伝える"
+  },
+  "unitId": "grammar-reported-speech",
+  "pageType": "説明",
+  "image": "pages/PAGE_0315.webp",
+  "promptSource": "source-prompts/PAGE_0315.txt",
+  "promptSha256": "8b99f43ab3548d59994107ce589669eeaed62710a741cc9ebd1d82159686c13d",
+  "prompt": "Create a polished, content-rich educational English grammar infographic in portrait 9:16, matching the supplied cover's vivid blue, gold, white, and red explorer-book design. Use the exact same leopard explorer mascot holding an equals-sign compass between two tightly synchronized events and explaining a current reason. No page number, source name, watermark, logo, copied example, or copied diagram.\n\nTop Japanese title: 「asの核は“＝・ぴったり同時”」\n\nCentral mechanism: a large glowing AS equals sign joins two scenes. Core label: 「AとBを同じ流れに重ねる」.\n\nTIME / simultaneity:\n• The lights came on as the sun disappeared. 「日が沈むのとぴったり重なる」\n• As I reached for the handle, the door opened. 「手を伸ばしたその時」\nUse interlocking gears to show stronger close contact than WHEN, which merely locates an event in time.\n\nWeak REASON emerging from simultaneous background:\n• As the bridge was closed, we used the tunnel. 「橋が閉鎖という背景なので」\nExplain: AS often supplies background reason gently; BECAUSE directly spotlights the cause.\n\nAmbiguity-is-natural card:\n• As the storm reached the coast, residents moved inland. 「“同時に”とも“そのため”とも自然」\nCaption: do not force one dictionary label when the shared scene makes both relations sensible.\n\nNOW THAT card: present situation + reason.\n• Now that everyone is here, we can begin. 「今や全員そろったので」\nExplain the blend of “now” and causal background.\n\nWHEN vs AS micro-contrast:\n• I was happy when I lived abroad. 「その時期に位置づけ」\n• My phone rang as I stepped onto the train. 「二つの瞬間が密着」\n\nMini practice: 「二つの瞬間がぴったり重なる：The alarm sounded ___ I opened the case.」 Answer: 「as」. Reason: 「soundとopenを接触するような同時進行として描く」.\n\nBottom takeaway ribbon: 「asの“＝”から同時、背景理由、現在理由が広がる」. Dense, coherent, readable.\n"
+}

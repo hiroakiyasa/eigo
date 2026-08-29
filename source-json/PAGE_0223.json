@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0223",
+  "number": 223,
+  "title": "to不定詞の主語と“これから”",
+  "chapter": {
+    "id": "verb-parts",
+    "title": "動きを部品にする"
+  },
+  "unitId": "grammar-infinitives",
+  "pageType": "説明",
+  "image": "pages/PAGE_0223.webp",
+  "promptSource": "source-prompts/PAGE_0223.txt",
+  "promptSha256": "974ef4de2cb69481874d547aa2656c7f7767cffe3d99e39c33c0a3014c213a7e",
+  "prompt": "Create a polished, information-dense educational English grammar infographic in portrait 9:16, matching the supplied cover's vivid blue, gold, white, and red explorer style. Use the exact same leopard explorer mascot assigning a “doer” badge with FOR, then choosing between a general signpost and a future path. No page number, source name, watermark, logo, copied diagram, or copied source sentence.\n\nTop Japanese title: 「to不定詞の主語と“これから”」\n\nUpper mechanism: 「誰がする？ → for + 人 + to do」. Show a to-infinitive action portal with a small FOR badge naming its doer.\n• For beginners to speak slowly is natural. 「初心者がゆっくり話すのは自然」\n• It is important for us to check the weather. 「私たちが天気を確認するのは重要」\nExplain: the main subject and the action's doer can differ; for marks the doer inside the to-infinitive idea.\n\nMiddle comparison: one TO arrow branches into two contextual readings:\n1 「一般的内容」: To respect others is essential. 「他人を尊重すること一般」\n2 「これからの選択」: To cancel the trip now would be wasteful. 「今から中止するという選択」\nCaption: 「どちらかは前後の状況が教える」.\n\nLower focus: to-infinitive as object. Show the whole phrase entering the object slot after a verb.\n• I love to explore old towns. 「そういう活動が好き」\n• We want to reach the summit today. 「これから到達したい」\nContrast with -ing: “I love exploring old towns.” evokes the lived activity more vividly, while “love to explore” can sound broader and habitual.\n\nAdd a verb-direction badge: WANT → future path → TO. Mention that verbs expressing intention, hope, planning, decision, promise, or refusal naturally point toward a later action.\n\nMini practice: 「行為者を明示：It is unusual ___ Leo to be so quiet.」 Answer: 「for」. Full: “It is unusual for Leo to be so quiet.” Reason: 「静かでいる行為の主語がLeoだから」.\n\nBottom takeaway ribbon: 「forで行為者、文脈で一般論か“これから”かを決める」. Keep all text crisp and readable.\n"
+}

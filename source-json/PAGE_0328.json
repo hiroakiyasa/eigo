@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0328",
+  "number": 328,
+  "title": "英語の数は3桁ブロックで読む",
+  "chapter": {
+    "id": "toolbox",
+    "title": "冒険道具箱"
+  },
+  "unitId": "vocab-numbers",
+  "pageType": "説明",
+  "image": "pages/PAGE_0328.webp",
+  "promptSource": "source-prompts/PAGE_0328.txt",
+  "promptSha256": "0d116dadecdd7d0f8d6ab9138f0f509439699abefb89ea8486e2934b4030dcf0",
+  "prompt": "Create a polished, content-rich educational English grammar infographic in portrait 9:16. Match the supplied cover's blue-gold-white-red explorer-book aesthetic. Use the exact same leopard explorer mascot decoding a giant number, score board, decimal telescope, and fraction pie. No page number, source name, watermark, logo, copied table, or copied example.\n\nTop Japanese title: 「英語の数は3桁ブロックで読む」\n\nCentral large-number machine: split digits from the right into groups of three.\n6 | 482 | 019 → six million, four hundred eighty-two thousand, nineteen.\nLabel the place-value gates: thousand / million / billion / trillion. Note: billion = 1,000,000,000; trillion = 1,000,000,000,000.\n\nZERO sound cards:\nzero = ordinary number or value\noh = digit-by-digit codes and decimals\nnil = sports scores, especially British usage\nOriginal examples: room 405 “four oh five”; Japan two, Brazil nil.\n\nUnit-plural rule:\nExact number → no plural -s on hundred/thousand/million: three hundred visitors.\nVague large quantity → plural + of: hundreds of visitors; tens of thousands of stars.\n\nFrequency/multiplication card:\nonce / twice / three times / five times\n• This lens is twice as powerful as that one. 「2倍」\n\nDECIMALS:\n8.06 = eight point zero/oh six; read each digit after point separately.\n\nFRACTIONS:\n1/2 = one half\n1/4 = one quarter\n3/8 = three eighths\n456/767 = four hundred fifty-six over seven hundred sixty-seven\nRule diagram: numerator = cardinal number; denominator = ordinal, plural when numerator is 2 or more.\n\nMini practice: 「2,040,305を読む」 Answer: 「two million, forty thousand, three hundred five」. Reason: 「million／thousand／残りの3桁に分け、ゼロのブロックを飛ばす」.\n\nBottom takeaway ribbon: 「右から3桁、point後は1桁ずつ、分数は下を序数」. Dense, exact, readable.\n"
+}

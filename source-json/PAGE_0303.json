@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0303",
+  "number": 303,
+  "title": "論理の道しるべを選ぶ",
+  "chapter": {
+    "id": "flow",
+    "title": "文をつなぎ、会話を伝える"
+  },
+  "unitId": "grammar-conjunctions",
+  "pageType": "英文",
+  "image": "pages/PAGE_0303.webp",
+  "promptSource": "source-prompts/PAGE_0303.txt",
+  "promptSha256": "e65bdcb9915ae353af8f962ab5cfc99665ab1cd136cc808fefa6b3f0a91b32a4",
+  "prompt": "Create a polished information-dense educational English grammar page in portrait 9:16, matching the supplied cover's vivid blue, gold, white, and red style. Same leopard researcher organizing conclusion, addition, example, clarification, and contrast signposts. No page number, source identity, watermark, or logo.\n\nTop Japanese title: 「論理の道しるべを選ぶ」\n\nCentral five-branch signpost:\nresult/conclusion: therefore, consequently;\naddition: moreover, in addition;\nexample: for example, for instance;\nclarification: that is, in other words;\ncontrast turn: but, however.\nExplain that many are sentence adverbs rather than simple coordinating conjunctions, so punctuation matters.\n\nOriginal examples:\n• The road was flooded; therefore, we turned back. 「論理的結論」\n• The cabin is warm. Moreover, it has solar power. 「追加」\n• The kit contains useful tools—for example, a compass. 「例示」\n• We need a backup; in other words, one plan is not enough. 「言い換え」\n\nMini practice: choose “for example / therefore”: “Several birds migrate; ___, swallows travel long distances.” Answer: for example; reason 「具体例を挙げる」.\n\nTakeaway: 「足す・結ぶだけでなく、情報の論理関係を標識で示す」.\n"
+}

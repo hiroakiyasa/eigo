@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0013",
+  "number": 13,
+  "title": "時は、カメラの距離で感じる",
+  "chapter": {
+    "id": "guide",
+    "title": "冒険の地図"
+  },
+  "unitId": "grammar-verbs-present",
+  "pageType": "説明",
+  "image": "pages/PAGE_0013.webp",
+  "promptSource": "source-prompts/PAGE_0013.txt",
+  "promptSha256": "a97f44e2779524df7041af5436f8be1f6d71cdc24758a53799ac189c4b32fea0",
+  "prompt": "Use case: scientific-educational. Create an information-dense portrait 9:16 time-observatory page matching PAGE_0001. Same leopard photographer uses a magical camera across time zones. Original diagram, explanations and examples. No page number, source identity, logo or watermark.\n\nTop title: 「時は、カメラの距離で感じる」\n\nCentral timeline camera with four zones:\n「現在形：今を含む安定」\n「進行形：今の動画」\n「過去形：今から切り離す」\n「現在完了：過去を今へつなぐ」\n\nRequired table:\n「形｜カメラの見方｜オリジナル例｜中心の意味」\n「現在形｜広い現在｜I walk to school.｜習慣」\n「進行形｜今の場面｜I am walking now.｜途中」\n「過去形｜遠い写真｜I walked yesterday.｜完結した過去」\n「現在完了｜今への橋｜I have walked five kilometers.｜今までの到達」\n\nExplanation notes: 「時制は出来事の日付だけでなく、話し手がどこから眺めるかを表す。」 「同じ動作でも、視点を変えると形が変わる。」\nMini check: “I am reading now.” is photo or video? Answer: video. Reason: 「進行中の動きを映す形。」\nBottom ribbon: 「いつ起きた？＋今どう見ている？を考える」\n\nDense observatory diagram, table, four examples and mini check. Phone-legible.\n\n後半ページ同等の高密度基準：中央イラスト＋仕組み図＋説明文＋独自英文4〜6本＋簡潔な和訳/解説＋ミニ問題・答え・一行理由、ページの85〜90%を学習内容で満たす、文字は読める大きさ。\n"
+}

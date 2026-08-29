@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0109",
+  "number": 109,
+  "title": "修飾は、情報を足す道具",
+  "chapter": {
+    "id": "modifiers",
+    "title": "情報を足す"
+  },
+  "unitId": "grammar-adverbs",
+  "pageType": "説明",
+  "image": "pages/PAGE_0109.webp",
+  "promptSource": "source-prompts/PAGE_0109.txt",
+  "promptSha256": "622c4a5ccff7e5aa362a04e23c1f6d99bf3f3e06a4b2fed4aee16fe7ecae03b6",
+  "prompt": "Use case: scientific-educational\nAsset type: dense 9:16 portrait modification overview page\nPrimary request: Independently introduce modification as adding precision to a sentence. Show typical targets of adjectives, adverbs, auxiliaries, and prepositional phrases, while stressing that placement and target create the function. Source pages 230–231 are coverage only; copy no source prose, examples, chart, or layout.\nInput images: mascot reference; PAGE_0001 approved design reference.\nCanvas: strict 9:16 portrait, no page number, full-bleed, safe margins.\nTop title: 「修飾は、情報を足す道具」\nCentral illustration: mascot in an information-toolsmith pose upgrades a plain sentence rail with four colorful tool modules.\nMechanism diagram: 「形容詞 → 名詞を詳しく」 「副詞 → 動詞・形容詞・文を詳しく」 「助動詞 → 動詞句に気持ち」 「前置詞句 → 場所・時間・関係」. Center note 「品詞名より、何を詳しくしているか」.\nOriginal example cards:\n1. “Mia carried a silver lantern.” / 「silverがlanternを限定」\n2. “Leo walked carefully.” / 「carefullyが歩き方を説明」\n3. “Mia may return tonight.” / 「mayが可能性を添える」\n4. “The key under the map is mine.” / 「under the mapがkeyの場所を説明」\nMini practice box: 「ミニ確認：Leo spoke softly. softlyは何を詳しくする？」 「答え：spoke」 「話し方を後ろから説明する副詞。」\nBottom takeaway: 「隣に置き、どの情報を足すかを見る」\nStyle: glossy blue-yellow-white adventure-library workshop, dimensional modifier tools, thick outlines, central illustration + clear four-branch diagram + cards, limited red accents.\nTypography: accurate English and bold Japanese Gothic.\nConstraints: no page number, source wording/example/chart/layout, source identity, logo, citation, watermark, or extra exercise. Mascot once in toolsmith pose.\nAvoid: dry textbook table, tiny terminology, clutter without hierarchy.\n"
+}

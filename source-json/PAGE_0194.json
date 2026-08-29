@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0194",
+  "number": 194,
+  "title": "onは線・活動・支え",
+  "chapter": {
+    "id": "prepositions",
+    "title": "位置関係を描く"
+  },
+  "unitId": "grammar-prepositions-2",
+  "pageType": "説明",
+  "image": "pages/PAGE_0194.webp",
+  "promptSource": "source-prompts/PAGE_0194.txt",
+  "promptSha256": "0226420df3503d096819ef20bfc324f0a269b8200ea00d7735e28abf2dbbf0ac",
+  "prompt": "Use case: scientific-educational\nAsset type: dense illustrated English preposition book page, portrait 9:16\nPrimary request: Independently teach the extended image of ON: riding, a line, an activity in progress, pressure, support, and common phrases. Rebuild source coverage pages 400–401 with wholly original examples and visuals.\nInput images: PAGE_0001 style reference; mascot_reference exact leopard explorer reference.\nCanvas: exact 941×1672 portrait, strict 9:16, full bleed, safe margins, no page number.\nTop Japanese title: 「onは線・活動・支え」\nCentral illustration: the mascot balances on a glowing ON rail that becomes a train route, an activity conveyor, a pressure plate, and a supporting bridge.\nMechanism diagram: central 「ON＝接触」 branching to 乗り物に乗る・線上/沿線・活動中・圧力がかかる・下から支える. Transport fork 「開放/大型交通＝on」 vs 「狭い車内＝in」.\nOriginal example cards:\n1. “We traveled on the night train.” / 「大型交通の流れに乗る」\n2. “The bakery is on the river.” / 「川という線に接している」\n3. “Nora is away on business.” / 「仕事という活動の最中」\n4. “You can always count on me.” / 「私を支えとして頼れる」\nMini practice: 「She got (on / in) the taxi.」 Answer: 「in」. Reason: 「狭く囲まれた車内へ入る感触だから。」\nBottom takeaway: 「接触から、線・進行・圧力・支えへ意味が伸びる」\nStyle: vivid glossy adventure transport laboratory, blue-gold-white-red, dimensional rail and bridge, thick outlines, dense scan-friendly layout, mascot once balancing dynamically.\nTypography: exact English, concise Japanese.\nConstraints: no page number, source copy, source figures, trademarked transport, logo, citation, watermark, or extra exercise.\nAvoid: memorization-only list, ambiguous in/on transport art, dark industrial room.\n"
+}

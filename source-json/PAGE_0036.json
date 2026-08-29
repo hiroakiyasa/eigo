@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0036",
+  "number": 36,
+  "title": "日本語訳より、動詞の動きを見る",
+  "chapter": {
+    "id": "framework",
+    "title": "文の骨組み"
+  },
+  "unitId": "writing-word-order",
+  "pageType": "説明",
+  "image": "pages/PAGE_0036.webp",
+  "promptSource": "source-prompts/PAGE_0036.txt",
+  "promptSha256": "72c8bdb258a6c697672573c0c7b0fb3f84e1c4a33e030d7109fadb0955fef496",
+  "prompt": "Use case: scientific-educational\nAsset type: dense portrait comparison page for an illustrated English grammar book\nPrimary request: Show how a verb’s image and its sentence pattern work together: one verb can expand meaning, and similar Japanese translations may require different English patterns. Include look/see, arrive/reach, and discuss. Source pages 84–85 guide coverage only; copy no wording, examples, diagrams, or order.\nInput images: mascot appearance only; PAGE_0001 style only.\nCanvas: strict 9:16 portrait, one complete dense page, no page number.\nTop title (verbatim): 「日本語訳より、動詞の動きを見る」\nCentral original illustration: the leopard explorer in a lens-comparison pose studies animated route holograms in the adventure library: an eye turning “toward” a target versus vision “catching” it, and a traveler arriving “at” a gate versus reaching it directly.\nMechanism diagram: paired routes “look at + O＝目を向ける / see + O＝視界がとらえる”; “arrive at/in + 場所＝到着という動作 / reach + 場所＝目的地に届く”; warning badge “discuss + topic（about 不要）”.\nOriginal example cards:\n1. “Look at the silver bird.” / 「視線を鳥へ向ける」\n2. “I saw a fox near the bridge.” / 「視界がキツネをとらえた」\n3. “We arrived at the museum early.” / 「到着した場所を at で示す」\n4. “They reached the cabin before dusk.” / 「小屋へ直接たどり着く」\nMini practice box: 「ミニ問題　自然なのは？」 “Let’s discuss (the route / about the route).”\nAnswer box: 「答え　the route」 「discuss は話題を直接目的語にとる。」\nBottom ribbon: 「訳が同じでも、英語の動きは同じとは限らない」\nStyle: glossy blue-yellow-white adventure-library hologram scene, gold routes, dimensional blocks, thick crisp outlines, red only for preposition contrast; large exact Japanese/English.\nConstraints: one mascot, original composition, no source examples/text/layout/figures, identity, quote, citation, logo, ISBN, watermark, page number, or extra prose; avoid photorealism and tiny text.\n"
+}

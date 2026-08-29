@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0172",
+  "number": 172,
+  "title": "should の驚き・当然・低い可能性",
+  "chapter": {
+    "id": "comparison",
+    "title": "比べる・否定する・気持ちを添える"
+  },
+  "unitId": "grammar-modals-2",
+  "pageType": "説明",
+  "image": "pages/PAGE_0172.webp",
+  "promptSource": "source-prompts/PAGE_0172.txt",
+  "promptSha256": "b946d4165963c13ea95c1c2c4f288a88611d7884a9913371366eb8ea73e612c6",
+  "prompt": "Create a polished, content-rich educational English grammar page in portrait 9:16, in the supplied cover's blue-and-gold adventure design. Same leopard mascot, inspecting a surprising event with a “SHOULD?” magnifying glass. No page number, source name, watermark, or logo.\n\nTop Japanese title: 「should の驚き・当然・低い可能性」\n\nCentral mechanism: a path-map showing SHOULD as “その成り行き・そうなる道”. Branch it into four uses with distinct icons.\n\n1 Protest/incredulity with why/how:\n• Why should I carry every bag? 「なぜ私が全部持たなきゃいけないの？」\n• How should I know his password? 「私が知っているはずないでしょう？」\n\n2 Expected result:\n• This key should open the gate. 「この鍵で門が開くはず」\n\n3 Evaluation of an event:\n• It's strange that the lights should fail now. 「今停電するなんて奇妙だ」\n• It's natural that beginners should make mistakes. 「初心者が間違うのは当然だ」\nExplain that this should colors the event as a notable or expected course, while a plain present simply states the fact.\n\n4 Ought to: “ought to + base verb” is close to should but less common; example “You ought to check the date.”\n\nMini practice: 「『問題なく動くはず』に合うのは？ The device ___ work now.」 Answer: should. Reason: 「根拠のある予想・期待」.\n\nTakeaway: 「should は『そう進むはずの道』をやわらかく見る」. Include four branches, original examples, concise Japanese, question and answer.\n"
+}

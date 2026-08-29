@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0134",
+  "number": 134,
+  "title": "here・thereとwellの広がり",
+  "chapter": {
+    "id": "modifiers",
+    "title": "情報を足す"
+  },
+  "unitId": "grammar-adverbs",
+  "pageType": "まとめ",
+  "image": "pages/PAGE_0134.webp",
+  "promptSource": "source-prompts/PAGE_0134.txt",
+  "promptSha256": "d6157597aad4df67959a774977218e7a516086a662550e8b7abef7a95e9e56fd",
+  "prompt": "Use case: scientific-educational; dense 9:16 portrait grammar page. Independently explain here/there and well from source p.278–279; use original examples and diagrams.\nInput references: mascot appearance and PAGE_0001 style.\nTop title: 「here・thereとwellの広がり」\nCentral illustration: leopard explorer as a discussion navigator places HERE and THERE pins not only on a map but also on a story timeline and a presentation board. A WELL gauge combines several factors into a balanced “satisfactory” zone.\nMechanism: location panel 「here＝話し手側／今いる論点」「there＝離れた場所／出来事のその地点」. WELL panel 「動作が満足に」「健康な状態」「十分に強める」「Well,＝考えをまとめる間」. Add caution 「goodは形容詞、wellは主に副詞または健康状態の形容詞」.\nOriginal examples:\n1. “Let’s pause here and review the map.” / 「話のこの地点」\n2. “The first plan failed, but the trouble didn’t end there.” / 「出来事のその段階」\n3. “Mika performed well under pressure.” / 「満足できる出来」\n4. “Well, we could try another entrance.” / 「考えて提案へ」\nMini problem: 「ミニ問題：演奏が上手だった」 “She played (good / well).” 「答え：well」 「playedという動作の出来を副詞で説明する。」\nBottom ribbon: 「場所も評価も、場面全体から意味が広がる」\nStyle: cover-quality adventure-library map-and-evaluation room, blue/yellow/white, gold pins and gauge, red only for grammar contrast, thick outlines.\nConstraints: no page number, copied source wording/examples/figure/layout, source marks, logo, citation, watermark, answer field, or photorealism. One mascot in navigator pose.\n"
+}

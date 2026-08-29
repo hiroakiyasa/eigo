@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0189",
+  "number": 189,
+  "title": "by・until・during・forで時間を整理",
+  "chapter": {
+    "id": "prepositions",
+    "title": "位置関係を描く"
+  },
+  "unitId": "grammar-prepositions-1",
+  "pageType": "説明",
+  "image": "pages/PAGE_0189.webp",
+  "promptSource": "source-prompts/PAGE_0189.txt",
+  "promptSha256": "0bb6e47c2a58783c97d4d5321e3becc04afe984098167eeea76293a1886334bd",
+  "prompt": "Create a polished, information-dense educational English grammar infographic in portrait 9:16, matching the supplied cover's vivid blue, gold, white, and red explorer design. Use the exact same leopard explorer mascot racing toward a deadline, staying through a time interval, and selecting tools from a belt. No page number, source name, watermark, logo, or copied source wording/layout.\n\nTop Japanese title: 「by・until・during・forで時間を整理」\n\nCentral timeline comparison, visually dominant:\nBY = one event completed no later than a deadline. Show a flag at 6:00 and a package arriving before it.\n• Please send the form by Friday. 「金曜までに提出完了」\nUNTIL = one state/activity continues up to the endpoint. Show a blue bar continuing to 6:00.\n• The library stays open until Friday evening. 「金曜夕方まで開館が継続」\nRule: 「by は締切／until は継続の終点」.\n\nDURING vs FOR card:\nDURING + named period/event = 「いつ、その期間の中で？」\n• I took many photos during the festival. 「祭りの期間中に」\nFOR + length = 「どれくらい続いた？」\n• I volunteered for five days. 「5日間」\n\nAdd a BY family diagram growing from 「そば」:\n• pass by 「そばを通過」\n• drop by 「ふらりと立ち寄る」\n• stand by a friend 「友人のそばに立つ→味方する」\n• by myself 「そばに他人がいない→一人で」\n• step by step 「一歩と一歩が隣り合う→段階的に」\n• side by side 「横に並んで」\n• by hand / by chance / by mistake 「方法・成り行き」\n\nMini practice: 「午後5時までずっとここにいます：I’ll stay here ___ 5 p.m.」 Answer: 「until」. Reason: 「stay という状態が5時まで続く」.\n\nBottom takeaway: 「締切 by／継続 until／期間内 during／長さ for」. Keep all English accurate and the dense page easy to scan.\n"
+}

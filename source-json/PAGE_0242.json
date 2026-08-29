@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0242",
+  "number": 242,
+  "title": "過去分詞は前で分類、後ろで説明",
+  "chapter": {
+    "id": "verb-parts",
+    "title": "動きを部品にする"
+  },
+  "unitId": "grammar-participles",
+  "pageType": "説明",
+  "image": "pages/PAGE_0242.webp",
+  "promptSource": "source-prompts/PAGE_0242.txt",
+  "promptSha256": "da5e04a29a93d3059c3a16d93a247183b8084a5336f79cf581fc4fbc02949e85",
+  "prompt": "Create a polished, content-rich English grammar page in portrait 9:16, matching the supplied cover's blue-and-gold adventure design. Same leopard mascot attaching a classification badge before a noun and a descriptive camera after it. No page number, source name, watermark, or logo.\n\nTop Japanese title: 「過去分詞は前で分類、後ろで説明」\n\nCentral contrast:\npast participle before noun = compact label/type or established characteristic;\npast participle after noun or after a verb = fuller state description, often with its own details.\n\nOriginal examples:\n• We followed the marked trail. 「印の付いた種類の道」\n• Please return the signed form. 「署名済みの用紙」\n• The letter written in blue ink was mine. 「written以下がletterを詳しく説明」\n• Nora reached the cabin exhausted. 「Nora＝疲れ切った状態」\n• Fallen leaves covered the steps. 「落ち終わった後の状態」\n\nExplain that intransitive past participles such as fallen can express a completed resulting state, while not every verb works freely this way.\n\nMini practice: what does “written” modify in “the message written on the wall”? Answer: message; reason 「名詞の後ろから、どのmessageかを説明」.\n\nTakeaway: 「短いラベルは前、詳しい状態映像は後ろ」. Strong before/after graphic, question+answer.\n"
+}

@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0325",
+  "number": 325,
+  "title": "命令の報告は“人＋to”",
+  "chapter": {
+    "id": "flow",
+    "title": "文をつなぎ、会話を伝える"
+  },
+  "unitId": "grammar-advanced",
+  "pageType": "説明",
+  "image": "pages/PAGE_0325.webp",
+  "promptSource": "source-prompts/PAGE_0325.txt",
+  "promptSha256": "7df3ff4dfc9094389fbdec0a3c3d09fa5f1057a7159b4a7edd433fa4be46f073",
+  "prompt": "Create a polished, information-rich educational English grammar infographic in portrait 9:16, matching the supplied cover's vivid blue, gold, white, and red explorer-book design. Use the exact same leopard explorer mascot turning commands, prohibitions, encouragement, and advice into object + to-infinitive arrows. No page number, source name, watermark, logo, copied wording, or copied artwork.\n\nTop Japanese title: 「命令の報告は“人＋to”」\n\nCentral mechanism: quoted imperative enters a transformation gate.\nCOMMAND → reporting verb + person + to + base verb\nNEGATIVE COMMAND → reporting verb + person + not to + base verb\n\nOriginal examples:\n• “Return before sunset,” Mom said. → Mom told me to return before sunset. 「帰るように言った」\n• “Don’t touch the red switch,” the engineer said. → The engineer warned us not to touch the red switch. 「触らないよう警告」\n• “Keep going—you can do it!” my teammates said. → My teammates encouraged me to keep going. 「続けるよう励ました」\n• “Review these notes tonight,” our tutor said. → Our tutor advised us to review the notes that night. 「復習するよう助言」\n\nVerb-choice compass:\ntell = neutral instruction\norder = strong authority\nask = request\nwarn = danger\nencourage = support\nadvise = helpful recommendation\nremind = prevent forgetting\nCaption: 「元の発言の働きを表す動詞を選ぶ」.\n\nFreedom card: indirect reporting is not a word-for-word conversion. The same message may become a noun phrase or -ing form when that is clearer:\n• “Where is Ken?” → She asked about Ken’s whereabouts.\n• “Let’s try once more.” → He suggested trying once more.\n\nFinal reporting workflow diagram:\nmeaning → reporter viewpoint → reporting verb → grammar pattern → check people/time/place\n\nMini practice: 「“Please wait outside,” the nurse said to me.」 Answer: 「The nurse asked me to wait outside.」 Reason: 「丁寧な依頼なのでask + 人 + toが自然」.\n\nBottom takeaway ribbon: 「言葉の形より、発言が相手に何をさせようとしたかを報告する」. Dense but orderly.\n"
+}

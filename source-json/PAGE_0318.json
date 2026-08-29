@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0318",
+  "number": 318,
+  "title": "代用で繰り返しを軽くする",
+  "chapter": {
+    "id": "flow",
+    "title": "文をつなぎ、会話を伝える"
+  },
+  "unitId": "grammar-reported-speech",
+  "pageType": "説明",
+  "image": "pages/PAGE_0318.webp",
+  "promptSource": "source-prompts/PAGE_0318.txt",
+  "promptSha256": "b088e6af495a4f91621c63fe5491a6aeabadd6e6653d2cfd2a6fa54267ae41f8",
+  "prompt": "Create a polished, information-rich educational English grammar infographic in portrait 9:16, matching the supplied cover's blue-gold-white-red explorer aesthetic. Use the exact same leopard explorer mascot replacing duplicated cargo crates with compact substitute tokens labeled ONE, DO, and SO. No page number, source name, watermark, logo, copied example, or copied diagram.\n\nTop Japanese title: 「代用で繰り返しを軽くする」\n\nCentral before/after mechanism: a heavy sentence repeats the same noun or action; a small token replaces it while meaning remains connected. Core rule: 「一度出た内容を短い形で受け、文章を滑らかにする」.\n\nNoun substitution:\nONE / ONES replace countable nouns.\n• This lantern is dim. Give me a brighter one. 「a brighter lantern」\n• The wooden boxes are heavy; the plastic ones are lighter. 「plastic boxes」\nAdd caution: uncountable nouns are not normally replaced by one in the same way.\n\nVerb-phrase substitution ladder:\n• “Will you label every bag?” — “I’ll do so now.” 「前の行為を丁寧に丸ごと受ける」\n• Rina checked the map, and I did it too. 「くだけた具体的行為」\n• Don’t move the marker. Ken did that yesterday. 「その行為を指して受ける」\n• I rarely cook, but my brother does. 「doesだけでcookを機械的に代用」\nExplain nuance: do so is explicit/formal; do it/that is more conversational; bare do/does/did is the leanest grammatical substitute.\n\nAdd a substitution-selection flow:\nnoun? → one/ones\naction with “do” meaning? → do so / do it / do that\nsame verb phrase after auxiliary support? → do/does/did\n\nMini practice: 「red backpacksの繰り返しを避ける：I prefer the blue ___.」 Answer: 「ones」. Reason: 「複数の可算名詞backpacksを形容詞blueとonesで受ける」.\n\nBottom takeaway: 「代用語は短くても、前の内容への線を切らない」. Dense, precise, and readable.\n"
+}

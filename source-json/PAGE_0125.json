@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0125",
+  "number": 125,
+  "title": "程度と頻度をものさしで見る",
+  "chapter": {
+    "id": "modifiers",
+    "title": "情報を足す"
+  },
+  "unitId": "grammar-adverbs",
+  "pageType": "説明",
+  "image": "pages/PAGE_0125.webp",
+  "promptSource": "source-prompts/PAGE_0125.txt",
+  "promptSha256": "d60f9962dee4a2eafda4eae1e459511e28523c1045e7a366aa2e1798a2394b3e",
+  "prompt": "Create a polished, content-rich English grammar book page in portrait 9:16, matching the supplied cover's blue-and-gold visual system. Same leopard explorer mascot, climbing a degree mountain and checking a weekly habit clock. No page number, source identity, watermark, or logo.\n\nTop Japanese title: 「程度と頻度をものさしで見る」\n\nCentral split illustration. Left: a degree mountain/gauge that places “barely / a little / fairly / pretty / quite / rather” along a contextual scale, clearly noting that nuance depends on the adjective and situation. Give concise useful tendencies: a little＝少し, fairly＝かなり（控えめ）, pretty＝かなり（会話的）, quite＝かなり・完全に, rather＝予想以上に／やや, barely＝かろうじて・ほとんど〜ない.\n\nOriginal examples:\n• The path is fairly easy. 「かなり易しい」\n• The test was rather difficult. 「思ったより難しかった」\n• We barely caught the train. 「かろうじて間に合った」\n\nRight: frequency clock from 0% to 100% labelled never, rarely, sometimes, often, usually, always. Explain placement diagram: before an ordinary verb, after be, after the first auxiliary.\n• I usually pack lunch. 「一般動詞の前」\n• She is often early. 「be動詞の後」\n• We have never seen snow here. 「最初の助動詞の後」\n\nMini practice: reorder “is / Maya / late / rarely”. Answer: “Maya is rarely late.” Reason: 「頻度副詞はbe動詞の後」.\n\nTakeaway ribbon: 「程度は強さ、頻度は起こる割合を示す」. Use gauges, arrows, 6 example strips, question and answer; visually dense but clean.\n"
+}

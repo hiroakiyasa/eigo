@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0079",
+  "number": 79,
+  "title": "みんなの共通イメージに the",
+  "chapter": {
+    "id": "nouns",
+    "title": "名詞の世界"
+  },
+  "unitId": "grammar-articles",
+  "pageType": "説明",
+  "image": "pages/PAGE_0079.webp",
+  "promptSource": "source-prompts/PAGE_0079.txt",
+  "promptSha256": "45ac710e919f7ccd6b8645a8a57a5f8dd306b4c58b06110814f50edd82082742",
+  "prompt": "Use case: scientific-educational; dense 9:16 portrait grammar page. Independently teach “the” used for a shared typical institution, medium, service, place, or transport image, rather than one named physical object. Source p.170–171 is topic coverage only; reuse no wording, examples, figures, or layout.\nInput references: mascot appearance and PAGE_0001 design.\nTop title: 「みんなの共通イメージに the」\nCentral illustration: leopard explorer as a city-guide broadcasts from a glowing adventure-library map. Shared-image portals show radio medium, public safety service, medical role, and transport system; each activates when both speakers recognize the social role.\nMechanism: 「特定の物体ではない」→「社会で共有する役割・しくみが浮かぶ」→「the」. Contrast chips: “a radio” 「1台の機械」 vs “the radio” 「放送媒体」; “a train” 「ある1本」 vs “the train” 「交通手段として」.\nOriginal examples:\n1. “I heard the weather report on the radio.” / 「放送という媒体」\n2. “Please call the police.” / 「公的な組織」\n3. “She went to the dentist before lunch.” / 「治療を受ける役割の場所」\n4. “We took the subway to the museum.” / 「交通手段の共通イメージ」\nMini practice: 「ミニ問題：媒体として聴くなら？」 “We listened to (a / the) radio.” 「答え：the」 「1台の機械より、ラジオ放送を思い浮かべる。」\nBottom ribbon: 「“あの役割ね”と通じると、the が自然に現れる」\nStyle: bright adventure-library city-map gallery, blue/yellow/white, glossy portals and icons, thick outlines, limited red article markers, dense but phone-readable.\nConstraints: no page number, copied source examples/diagram/text/layout, source marks, logo, citation, watermark, blank answer field, random brand, or photorealism. One mascot in city-guide pose.\n"
+}

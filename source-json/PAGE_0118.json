@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0118",
+  "number": 118,
+  "title": "修飾の地図：形容詞から副詞へ",
+  "chapter": {
+    "id": "modifiers",
+    "title": "情報を足す"
+  },
+  "unitId": "grammar-adverbs",
+  "pageType": "まとめ",
+  "image": "pages/PAGE_0118.webp",
+  "promptSource": "source-prompts/PAGE_0118.txt",
+  "promptSha256": "0bb4a7b47f4e8ea2fcb665fb88ea790d20f0aa6d30c38edfabe2bd114e85243f",
+  "prompt": "Use case: scientific-educational\nAsset type: dense portrait summary-transition page for an illustrated English grammar book\nPrimary request: Create an original bridge from adjectives to adverbs: summarize that adjectives modify nouns, while adverbs modify verbs, adjectives, other adverbs, or whole sentences. Source pages 248–249 provide only a chapter transition; do not recreate their illustration, title layout, or wording.\nInput images: mascot identity only; PAGE_0001 visual system only.\nCanvas: strict 9:16 portrait, full-bleed, dense, no page number.\nTop title (verbatim): 「修飾の地図：形容詞から副詞へ」\nCentral illustration: the leopard explorer in a map-unfolder pose stands at a bright adventure-library crossroads. One route marked ADJECTIVE points to a noun treasure chest; four ADVERB routes point to a verb engine, adjective gem, adverb arrow, and whole-sentence sky banner.\nMechanism diagram: “形容詞 → 名詞を修飾” versus “副詞 → 名詞以外を修飾”. Add position compass: “限定なら前 / 説明なら後” and note 「まず何を修飾しているか探す」.\nOriginal example cards:\n1. “a careful explorer” / 「carefulは名詞explorerを修飾」\n2. “Leo walked carefully.” / 「carefullyは動詞walkedを修飾」\n3. “a very careful explorer” / 「veryは形容詞carefulを修飾」\n4. “Honestly, we were lost.” / 「文全体への話し手の態度」\nMini practice: 「ミニ問題　副詞はどれ？」 “The bright bird sang beautifully.”\nAnswer: 「答え　beautifully」 「sangの様子を説明している。」\nBottom ribbon: 「名詞なら形容詞、それ以外なら副詞」\nStyle: PAGE_0001 blue-yellow-white adventure-library crossroads, gold route map, dimensional labels, thick crisp outlines, red only for noun/non-noun split, mascot once, large accurate type.\nConstraints: fully original page; no source wording, source illustration, copied layout, citation, identity, logo, ISBN, watermark, page number, or extra prose; avoid photorealism and tiny text.\n"
+}

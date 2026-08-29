@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0055",
+  "number": 55,
+  "title": "作る・持つ・許す・見る",
+  "chapter": {
+    "id": "framework",
+    "title": "文の骨組み"
+  },
+  "unitId": "grammar-advanced",
+  "pageType": "説明",
+  "image": "pages/PAGE_0055.webp",
+  "promptSource": "source-prompts/PAGE_0055.txt",
+  "promptSha256": "26ea7ba1c5937c0b005b785839ec7da28ba3c26b22edc920435957a6ad0cf1af",
+  "prompt": "Use case: scientific-educational\nAsset type: dense 9:16 portrait vocabulary construction page\nPrimary request: Independently teach make, have, let, and look through their core mechanisms. Source pages 122–123 are coverage only; do not reuse source examples, prose, art, or structure.\nInput images: mascot appearance reference; PAGE_0001 design reference.\nCanvas: strict 9:16 portrait, full-bleed, safe margins, no page number.\nTop title: 「作る・持つ・許す・見る」\nCentral illustration: mascot in an inventor pose operating four stations in one adventure-library atelier: assembling, keeping something within a glowing personal zone, opening a permission gate, aiming a telescope.\nMechanism diagram: 「make＝力を加えて作り上げる」 「have＝自分の範囲にある」 「let＝進むことを許す」 「look＝視線を向ける」.\nOriginal example cards:\n1. “We made a shelter from branches.” / 「材料に力を加えて形を作る」\n2. “The museum has three entrances.” / 「博物館の範囲に入口がある」\n3. “Let me carry that bag.” / 「私が運ぶことを許して」\n4. “Look at the symbol above the gate.” / 「視線をそこへ向ける動作」\nMini practice box: 「ミニ確認：The joke made us happy. の make は？」 「答え：作り上げる」 「us＝happy という状態を生み出す。」\nBottom takeaway: 「訳を並べず、動詞ごとの中心動作を覚える」\nStyle: glossy blue-yellow-white adventure-library inventor room, dimensional stations and arrows, thick clean outlines, compact educational cards, limited red accents.\nTypography: exact English, bold readable Japanese, specified text only.\nConstraints: no page number, source identity, copied content/layout, logo, citation, watermark, or extra practice. Mascot once in a new inventor pose.\nAvoid: tiny text, sparse poster, unrelated props, dark scene, photorealism.\n"
+}

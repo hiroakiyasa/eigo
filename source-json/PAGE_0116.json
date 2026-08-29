@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0116",
+  "number": 116,
+  "title": "名詞も動詞も、形容詞になれる",
+  "chapter": {
+    "id": "modifiers",
+    "title": "情報を足す"
+  },
+  "unitId": "grammar-adjectives",
+  "pageType": "説明",
+  "image": "pages/PAGE_0116.webp",
+  "promptSource": "source-prompts/PAGE_0116.txt",
+  "promptSha256": "0f75de88e47088a29e7a5789e8db9021476d7ba356208aaf311eb2e7e65baed0",
+  "prompt": "Use case: scientific-educational\nAsset type: dense portrait mechanism page for an illustrated English grammar book\nPrimary request: Show how nouns, -ing forms, and past participles can function as modifiers; emphasize noun-noun category labels, -ing’s active/lively image, and past participle’s passive/result image. Source pages 244–245 guide coverage only; use new language, examples, visuals, and order.\nInput images: mascot identity reference only; PAGE_0001 visual-system reference only.\nCanvas: strict 9:16 portrait, full-bleed, no page number.\nTop title (verbatim): 「名詞も動詞も、形容詞になれる」\nCentral illustration: the leopard explorer in a transformation-lab pose feeds noun, -ing, and past-participle crystals into a modifier machine that places them before or after noun blocks.\nMechanism diagram: three lanes: “名詞＋名詞＝用途・種類”, “-ing＝自ら動く／働きかける”, “過去分詞＝〜された状態”. Note: 「名詞の前後という場所が修飾機能を与える」.\nOriginal example cards:\n1. “a mountain trail” / 「mountainがtrailの種類を示す」\n2. “a smiling guard” / 「guardがほほえんでいる」\n3. “The puzzle is confusing.” / 「人を迷わせる性質」\n4. “a locked cabinet” / 「鍵をかけられた状態」\nMini practice: 「ミニ問題　“壊された橋”は？」 choices “a breaking bridge” / “a broken bridge”\nAnswer: 「答え　a broken bridge」 「橋は壊す側でなく、壊された状態。」\nBottom ribbon: 「-ingは動き、過去分詞は受けた結果を映す」\nStyle: PAGE_0001 blue-yellow-white adventure-library laboratory, gold machine, glossy dimensional forms, bold outlines, red only for active/passive split, one mascot, readable text.\nConstraints: original examples and layout; no source wording/figures/order, identity, citation, logo, ISBN, watermark, page number, or extra prose; no photorealism or tiny type.\n"
+}

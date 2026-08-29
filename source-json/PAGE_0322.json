@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0322",
+  "number": 322,
+  "title": "間接話法は視点から再構成",
+  "chapter": {
+    "id": "flow",
+    "title": "文をつなぎ、会話を伝える"
+  },
+  "unitId": "grammar-reported-speech",
+  "pageType": "英文",
+  "image": "pages/PAGE_0322.webp",
+  "promptSource": "source-prompts/PAGE_0322.txt",
+  "promptSha256": "c3f7482e0eeb15c563c8f129fb4315eadb22c829d390374cc092e31f972b0ae2",
+  "prompt": "Create a polished, content-rich educational English grammar page in portrait 9:16. Match the supplied cover's consistent blue-gold-white-red explorer-book aesthetic. Use the exact same leopard explorer mascot operating a “reporting studio,” first displaying exact speech in quotation marks and then rebuilding it from a new viewpoint. No page number, source name, watermark, logo, copied art, or copied source sentence.\n\nTop Japanese title: 「間接話法は視点から再構成」\n\nCentral split screen:\nDIRECT SPEECH = preserve the speaker’s exact words inside quotation marks.\n• Aya said, “I will call you tonight.” 「Ayaの言葉をそのまま引用」\nINDIRECT SPEECH = reporter reconstructs content from the current viewpoint.\n• Aya said that she would call me that night. 「報告者の立場で組み直す」\n\nShow a transformation machine with four checks:\n1 who is reporting?\n2 who do pronouns point to?\n3 when is the report made?\n4 is the exact wording important?\n\nDirect quotation mechanics card:\n• “The stars are beautiful,” Ren whispered.\n• “Let’s rest here,” said Mina. Explain that report-clause placement can vary in literary narration; avoid inverting a pronoun subject into unnatural “said she” in ordinary prose.\n\nIndirect reconstruction card: content does not need to preserve every original word. The reporter may choose a verb that captures the action:\n• “I made the mistake,” Ken said. → Ken admitted that he had made the mistake. 「saidをadmittedへ意味に合わせる」\n\nTense viewpoint arrow:\nOriginal: “I will finish soon.”\nPast report: Leo said he would finish soon.\nLabel: 「主節が過去なら、内容も過去の視点へ一段ずらすのが基本」. Note that real-world context can override mechanical shifting when a fact remains currently true.\n\nMini practice: 「間接話法へ：“I can help you,” Sara said to me.」 Answer: 「Sara told me that she could help me.」 Reason: 「I→she、you→me、can→couldへ報告者の視点で再構成」.\n\nBottom takeaway: 「引用は保存、間接話法は意味を保って視点を作り直す」. Dense, visual, accurate.\n"
+}

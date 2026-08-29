@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0126",
+  "number": 126,
+  "title": "長い副詞句と頻度のニュアンス",
+  "chapter": {
+    "id": "modifiers",
+    "title": "情報を足す"
+  },
+  "unitId": "grammar-adverbs",
+  "pageType": "説明",
+  "image": "pages/PAGE_0126.webp",
+  "promptSource": "source-prompts/PAGE_0126.txt",
+  "promptSha256": "982cc42ae23c40c3d1cba5bee033ab89f97eee63c067adb8c55ce365e2d93de6",
+  "prompt": "Create a polished information-dense educational page, portrait 9:16, matching the supplied cover's vivid adventure design. Same supplied leopard explorer mascot, arranging calendar cards along a sentence trail. No page number, source name, watermark, or logo.\n\nTop Japanese title: 「長い副詞句と頻度のニュアンス」\n\nCentral illustration: a sentence train. Small one-word frequency adverbs board near the engine; longer phrases board naturally at the end or beginning. Teach clearly:\n• I sometimes read on the balcony. 「1語は一般動詞の前」\n• I read on the balcony from time to time. 「長い句は文末が自然」\n• Once in a while, we cook outdoors. 「文頭で場面を示せる」\n• She improved a great deal. 「程度を表す長い句は後ろへ」\n\nAdd a frequency ladder with Japanese nuance: often / frequently＝しばしば, sometimes＝ときどき, occasionally＝たまに, hardly ever＝めったに〜ない, never＝決して〜ない. Explicitly mark hardly ever and never as negative in meaning; do not add another not.\n\nContrast:\n• I hardly ever drink soda. ✓\n• I don't hardly ever drink soda. ✗ in standard English\n\nMini practice: 「自然な位置は？ We visit that museum (every few months).」 Answer: “We visit that museum every few months.” Reason: 「複数語の頻度表現は文末が自然」.\n\nTakeaway: 「短い副詞は動詞の近く、長い副詞句は文末・文頭へ」. Include central train diagram, ladder, examples, question+answer, crisp legibility.\n"
+}

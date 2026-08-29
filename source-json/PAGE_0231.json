@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0231",
+  "number": 231,
+  "title": "長いtoは、後ろへ送る",
+  "chapter": {
+    "id": "verb-parts",
+    "title": "動きを部品にする"
+  },
+  "unitId": "grammar-inf-vs-gerund",
+  "pageType": "説明",
+  "image": "pages/PAGE_0231.webp",
+  "promptSource": "source-prompts/PAGE_0231.txt",
+  "promptSha256": "401e73d1c3bae47039419c831a27d4fe49ba0cadb3fab8ee50e6d70ac1dbade6",
+  "prompt": "Use case: scientific-educational; dense 9:16 portrait English grammar page. Rebuild p.474–475 coverage into an original lesson on postponing long infinitives, too...to, and perfect infinitives.\nInput references: PAGE_0001 design and mascot identity.\nTop title: 「長いtoは、後ろへ送る」\nCentral illustration: leopard explorer as a stationmaster moves a heavy TO-clause train from the front of a sentence to a rear platform, leaving a light IT placeholder. Side gauges show TOO crossing a limit and HAVE + past participle pointing to an earlier time.\nMechanism: 「It is + 形容詞 + to...＝長い主語を先送り」「動詞 + it + 説明 + to...＝目的語内容を後ろへ」「too + 形容詞 + to...＝限度を超えて実行不能」「to have + 過去分詞＝基準時より前」.\nOriginal examples: “It is hard to carry this suitcase alone.” / 「一人で運ぶのは難しい」; “We found it useful to label every cable.” / 「配線に札を付けると便利だと分かった」; “The tea is too hot to drink.” / 「熱すぎて飲めない」; “I was lucky to have saved a copy.” / 「前に保存しておいて幸運だった」.\nMini problem: 「ミニ問題：自然な語順」 A “To solve this puzzle is easy.” B “It is easy to solve this puzzle.” Answer 「B」. Reason 「長い内容を後ろに置くと文頭が軽い。」\nBottom ribbon: 「itで席を取り、詳しいtoを後ろから届ける」\nStyle: glossy adventure-library railway, blue/gold/white/red, thick outlines, dimensional grammar train, dense phone-readable.\nConstraints: exact 9:16; no page number, copied source examples/text/figures/layout, logo, citation, watermark, blank answer field, or photorealism. Exactly one mascot in stationmaster pose.\n"
+}

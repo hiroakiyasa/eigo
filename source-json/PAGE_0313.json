@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0313",
+  "number": 313,
+  "title": "対比とwhenを一本の軸で読む",
+  "chapter": {
+    "id": "flow",
+    "title": "文をつなぎ、会話を伝える"
+  },
+  "unitId": "grammar-conditionals",
+  "pageType": "説明",
+  "image": "pages/PAGE_0313.webp",
+  "promptSource": "source-prompts/PAGE_0313.txt",
+  "promptSha256": "85afaba3b6734ebb8db4cbc270ac1a217bd49737a25efc1fd8c01e04fcce51dc",
+  "prompt": "Create a polished, information-dense educational English grammar infographic in portrait 9:16, matching the supplied cover's vivid blue, gold, white, and red explorer style. Use the exact same leopard explorer mascot balancing two contrasting scenes, correcting an opposite claim, and pinning an event onto a timeline with WHEN. No page number, source name, watermark, logo, copied diagram, or copied example.\n\nTop Japanese title: 「対比とwhenを一本の軸で読む」\n\nUpper main visual: comparison balance with two distinct situations.\n• WHILE: Leo prefers maps, while Mina trusts a compass. 「2つを並べて対比」\n• WHEREAS: The east route is short, whereas the west route is safer. 「よりフォーマルな対比」\n• BY/IN CONTRAST: Glass conducts heat poorly. By contrast, metal conducts it well. 「前文と対照」\n\nCritical contrast of discourse phrases:\nON THE CONTRARY = correct the previous claim with its opposite.\n• “The village is deserted.” — “On the contrary, it is lively tonight.” 「正反対だと訂正」\nON THE OTHER HAND = add another side, not necessarily deny the first.\n• The cabin is cheap. On the other hand, it is far from town. 「別の面では」\nShow two hands holding advantages and disadvantages.\n\nLower section: WHEN as a pin on the time line. Core label: 「出来事を“いつ・どんな場合”に置く」.\n• When I opened the tent, a butterfly flew out. 「開けた時に位置づける」\n• I feel nervous when I speak to a large audience. 「そういう場合はいつも」\nContrast note: WHEN locates one event; it does not automatically mean two continuing events are simultaneous.\n\nMini practice: 「前の誤解を正反対に訂正：“The test was easy.” — “___, it was extremely hard.”」 Answer: 「On the contrary」. Reason: 「別の側面ではなく、easyという主張を真逆に否定する」.\n\nBottom takeaway ribbon: 「対比は二つの面、whenは出来事の時間位置」. Dense but clean and readable.\n"
+}

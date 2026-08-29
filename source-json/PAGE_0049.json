@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0049",
+  "number": 49,
+  "title": "There で、新しい登場人物を呼ぶ",
+  "chapter": {
+    "id": "framework",
+    "title": "文の骨組み"
+  },
+  "unitId": "grammar-prepositions-1",
+  "pageType": "説明",
+  "image": "pages/PAGE_0049.webp",
+  "promptSource": "source-prompts/PAGE_0049.txt",
+  "promptSha256": "0595927946cdcf6389776f182306ea95140f6fb2b14765ab4349f97c55e88187",
+  "prompt": "Use case: scientific-educational. Asset: dense 9:16 portrait grammar page.\nTopic source: p.110–111, concepts only; reconstruct originally.\nTop title: 「There で、新しい登場人物を呼ぶ」\nScene: adventure-library story stage. Leopard narrator pulls a previously unseen owl and two lanterns through a glowing “There” doorway.\nMechanism: 「There + be + 新しく登場するもの」; be agrees with the following noun.\nOriginal examples: 「There is an owl in the tower.」 「There are two lanterns by the gate.」 「Once, there was a hidden village.」\nJapanese notes: first mention; singular is / plural are; story opening.\nMini check: choose 「There (is / are) three keys on the desk.」 Answer: 「are — 後ろの three keys に合わせる」.\nTakeaway: 「there は、新情報を会話の舞台へ運ぶ」\nApproved dense style, central doorway visual, no page number or source marks.\n\n"
+}

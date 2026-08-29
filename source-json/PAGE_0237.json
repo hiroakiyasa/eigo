@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0237",
+  "number": 237,
+  "title": "性質は能動形、前置詞はイメージで",
+  "chapter": {
+    "id": "verb-parts",
+    "title": "動きを部品にする"
+  },
+  "unitId": "grammar-inf-vs-gerund",
+  "pageType": "説明",
+  "image": "pages/PAGE_0237.webp",
+  "promptSource": "source-prompts/PAGE_0237.txt",
+  "promptSha256": "a12a1a2dd99831850bc88e9944348ec32ba2fc3f3ce19299015d7a0c83d5a5a3",
+  "prompt": "Use case: scientific-educational; dense 9:16 portrait grammar page. Teach active-form property descriptions and image-based preposition choice in passive contexts from p.486–487.\nInput references: PAGE_0001 design and mascot identity.\nTop title: 「性質は能動形、前置詞はイメージで」\nCentral illustration: mascot as a product tester checks objects that OPEN/SELL/WASH easily without passive forms. A preposition compass routes BY agent, IN situation, WITH material, TO destination/person, FOR reason or fame, AT point.\nMechanism: 「他動詞でも“その物の性質”なら能動形」「open easily / sell well / wash cleanly」; preposition guide 「by＝行為者・手段」「in＝中の状況」「with＝材料・一緒」「to＝向け先」「for＝理由」「at＝一点」.\nOriginal examples: “This jacket washes well.” / 「洗いやすい性質」; “The new lock opens smoothly.” / 「滑らかに開く性質」; “The road was covered with leaves.” / 「葉という材料で覆われる」; “The singer is known for her clear voice.” / 「声が有名な理由」.\nMini problem: 「ミニ問題：事故の中で」 “He was injured (by / in) the accident.” Answer 「in」. Reason 「事故は行為者ではなく、けがが起きた状況の中。」\nBottom ribbon: 「“される”に飛びつかず、性質と前置詞像を見る」\nStyle: glossy adventure-library testing lab, blue/gold/white/red compass, products and motion arrows, thick outlines.\nConstraints: exact 9:16; no page number, copied source material/layout, logo, citation, watermark, blank answer field, or photorealism. One mascot tester.\n"
+}

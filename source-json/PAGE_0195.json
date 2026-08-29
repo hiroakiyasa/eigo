@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0195",
+  "number": 195,
+  "title": "時の点・日・幅とover",
+  "chapter": {
+    "id": "prepositions",
+    "title": "位置関係を描く"
+  },
+  "unitId": "grammar-prepositions-2",
+  "pageType": "説明",
+  "image": "pages/PAGE_0195.webp",
+  "promptSource": "source-prompts/PAGE_0195.txt",
+  "promptSha256": "9e7bc2bb162ec2063d6ad18dd1da3d9833d7139dab9dd4c5c669819bbffac801",
+  "prompt": "Use case: scientific-educational\nAsset type: dense illustrated English time-and-space preposition page, portrait 9:16\nPrimary request: Independently organize AT/ON/IN for time, useful ON expressions, and introduce OVER as an arc above or across. Use source pages 402–403 only for topic coverage; copy no wording, examples, or diagrams.\nInput images: PAGE_0001 approved blue-gold design; mascot_reference exact leopard explorer.\nCanvas: exact 941×1672, strict 9:16, safe margins, no page number.\nTop Japanese title: 「時の点・日・幅とover」\nCentral illustration: the mascot is a time navigator pointing to three clock-calendar tunnels—AT point, ON day tile, IN time container—while an OVER rainbow arc crosses above them.\nMechanism diagram: 「AT＝点」 「ON＝日・指定時刻に接触」 「IN＝幅のある期間」; small contrast 「on time＝時刻ぴったり」 「in time＝期限内」 「at times＝時折」. OVER branch: 上方・基準超え・乗り越え・覆う・回転.\nOriginal example cards:\n1. “The gate opens at noon.” / 「正午を時点として見る」\n2. “We leave on Friday morning.” / 「Fridayで日が特定される」\n3. “I usually read in the evening.” / 「夕方という時間幅の中」\n4. “An eagle flew over the valley.” / 「谷の上を円弧で越える」\nMini practice: 「The festival begins ___ July.」 Answer: 「in」. Reason: 「7月は幅をもつ期間だから。」\nBottom takeaway: 「時は点・日・幅で選び、overは上を弧で越える」\nStyle: glossy adventure-library clock observatory, blue-gold-white-red, large clear calendar geometry and luminous arc, thick outlines, mascot once as a time navigator.\nTypography: accurate English and compact readable Japanese.\nConstraints: no page number, source wording/example/diagram, source identity, logo, citation, watermark, or additional problem.\nAvoid: calendar clutter, tiny time labels, dark night scene.\n"
+}

@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0269",
+  "number": 269,
+  "title": "現在形は“いつもの自分”を語る",
+  "chapter": {
+    "id": "time",
+    "title": "時間を旅する"
+  },
+  "unitId": "grammar-verbs-present",
+  "pageType": "説明",
+  "image": "pages/PAGE_0269.webp",
+  "promptSource": "source-prompts/PAGE_0269.txt",
+  "promptSha256": "31616f201b032b10bcd45113343e3e01f4980bed5e38624eb70eed05ae5a6fbd",
+  "prompt": "Create a polished, content-rich educational English grammar infographic in portrait 9:16. Match the supplied cover's vivid blue, gold, white, and red explorer-book design. Use the exact same leopard explorer mascot moving through a weekly habit calendar, looking at a live-action screen, feeling emotions, and making a formal declaration. No page number, source name, watermark, logo, copied source wording, or copied art.\n\nTop Japanese title: 「現在形は“いつもの自分”を語る」\n\nCentral broad timeline: PRESENT SIMPLE stretches across many days; PRESENT PROGRESSIVE is a bright narrow window around now.\n\nHabit panel:\n• My sister cycles to work every weekday. 「普段の習慣」\n• I practice the trumpet after dinner. 「繰り返す日課」\nContrast question pair:\n• What are you doing? 「今この瞬間、何をしている？」\n• What do you do? 「普段何をする人？／職業は？」\n\nThought and feeling panel: inner-state icons inside the mascot, connected to present simple.\n• I believe your story. 「今抱く考え」\n• Hana loves mountain scenery. 「心に根づく感情」\nExplain: basic thoughts and feelings are experienced as stable inner states, so the simple form is the default rather than progressive.\n\nSpeech-act panel: words and action happen at the same moment.\n• I promise to return the compass. 「言うことで約束が成立」\n• I apologize for the confusion. 「言うことで謝罪を実行」\n• I suggest a shorter route. 「発言そのものが提案」\nDiagram: utterance = action, labeled 「ことばと行為の一体感」.\n\nMini practice: 「職業を尋ねる：What ___ you ___?」 Answer: 「do / do」. Full: “What do you do?” Reason: 「今の動作ではなく、普段の安定した立場を尋ねる」.\n\nBottom takeaway ribbon: 「現在形は一点の今ではなく、今を包む習慣・状態・宣言」. Dense, clear, and visually coherent.\n"
+}

@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0309",
+  "number": 309,
+  "title": "理由を結ぶbecause・as・since",
+  "chapter": {
+    "id": "flow",
+    "title": "文をつなぎ、会話を伝える"
+  },
+  "unitId": "grammar-conditionals",
+  "pageType": "英文",
+  "image": "pages/PAGE_0309.webp",
+  "promptSource": "source-prompts/PAGE_0309.txt",
+  "promptSha256": "ba42481df43320b27b4c0e45289e7db1ab592915bfdec9e8f0310671cdae9b96",
+  "prompt": "Create a polished content-rich English grammar book page in portrait 9:16, matching the supplied cover's vivid explorer aesthetic. Same leopard mascot strengthening and softening links on a reason bridge. No page number, source identity, watermark, or logo.\n\nTop Japanese title: 「理由を結ぶbecause・as・since」\n\nCentral reason-strength bridge: because clearly answers why and focuses the cause; as/since often present a lighter or assumed background reason. Add conversational frames “Because...” as an answer and “That's because...”. Include formal in that = in the respect that; for as literary/formal afterthought.\n\nOriginal examples:\n• We stayed inside because the wind was fierce. 「理由を明確に焦点化」\n• As the road was icy, classes started late. 「背景理由」\n• Since everyone is ready, let's begin. 「共有済みの理由」\n• The device is useful in that it works without electricity. 「その点において」\n• Why did you leave? — Because I felt ill. 「直接の返答」\n\nMini practice: which best directly answers “Why?”—because/as? Answer: because; reason 「原因を最も明確に提示」.\n\nTakeaway: 「理由を強く焦点化するか、背景として添えるかを選ぶ」.\n"
+}

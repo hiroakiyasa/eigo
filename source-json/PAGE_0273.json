@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0273",
+  "number": 273,
+  "title": "一歩退く助動詞と仮定法",
+  "chapter": {
+    "id": "time",
+    "title": "時間を旅する"
+  },
+  "unitId": "grammar-present-continuous",
+  "pageType": "説明",
+  "image": "pages/PAGE_0273.webp",
+  "promptSource": "source-prompts/PAGE_0273.txt",
+  "promptSha256": "6a25a50bedd57dd06c72fdf939d7faa0a46a6f50e510d12a8fe4baed897de5ef",
+  "prompt": "Create a polished information-dense English grammar page in portrait 9:16, matching the supplied cover's vivid blue, gold, white, and red style. Same leopard mascot stepping back on a certainty staircase and viewing an alternate world. No page number, source identity, watermark, or logo.\n\nTop Japanese title: 「一歩退く助動詞と仮定法」\n\nCentral two-part diagram. Part 1: present modal → past-shaped modal as softer/weaker possibility: will→would, can→could, may→might. Part 2: past form aimed at present reality creates psychological remoteness: unlikely or contrary-to-fact subjunctive meaning.\n\nOriginal examples:\n• That could be our safest option. 「断定を避けた可能性」\n• It might rain after sunset. 「控えめな可能性」\n• Would you open the window? 「柔らかな依頼」\n• I wish I knew the answer. 「実際は今知らない」\n• If I had more time, I would learn Italian. 「今は時間が十分ない」\n\nUse a certainty meter and a transparent alternate-world bubble. Explain that knew/had here need not refer to past time.\n\nMini practice: what does “I wish I were taller” imply? Answer: 「今は望むほど背が高くない」; reason 「過去形で現在の現実から距離を取る」.\n\nTakeaway: 「形を一段過去へ下げると、断定と現実から離れる」.\n"
+}

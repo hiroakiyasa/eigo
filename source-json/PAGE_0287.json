@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0287",
+  "number": 287,
+  "title": "つもりから、予定表へ",
+  "chapter": {
+    "id": "time",
+    "title": "時間を旅する"
+  },
+  "unitId": "grammar-future",
+  "pageType": "説明",
+  "image": "pages/PAGE_0287.webp",
+  "promptSource": "source-prompts/PAGE_0287.txt",
+  "promptSha256": "cc51677b804281e99958a8684ab8e0f282d595e72d9d45ca32551f6c248bd610",
+  "prompt": "Use case: scientific-educational; dense 9:16 portrait grammar page. Contrast BE GOING TO intention with present progressive arranged plans from p.586–587 coverage.\nInput references: PAGE_0001 design and mascot identity.\nTop title: 「つもりから、予定表へ」\nCentral illustration: mascot as a travel planner places a soft intention cloud on the GOING TO board and confirmed tickets, reservations, and meeting times on the BE -ING calendar. A decision timeline shows plan becoming arrangement.\nMechanism: 「be going to＝心づもり・意図」「be -ing＝日時や相手など具体的に手配済み」「進行形の未来＝その時には行動が進行中という見方」.\nOriginal examples: “I'm going to learn pottery someday.” / 「いつか学ぶつもり」; “I'm meeting the instructor at ten tomorrow.” / 「10時に会う約束済み」; “Sara is flying to Fukuoka on Friday.” / 「航空券など手配済み」; “We're having lunch with Ken this Sunday.” / 「具体的な予定」.\nMini problem: 「ミニ問題：予約済みの面談」 “I (am going to meet / am meeting) the dentist at three.” Answer 「am meeting」. Reason 「時刻まで決まった手配済み予定に合う。」\nBottom ribbon: 「意図はgoing to、カレンダーに入る予定は進行形」\nStyle: glossy adventure-library travel office, blue/gold/white/red calendar, tickets and plan clouds, thick outlines, dense readable.\nConstraints: exact 9:16; no page number, copied source examples/text/figures/layout, logo, citation, watermark, blank answer field, or photorealism. One mascot travel planner.\n"
+}

@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0077",
+  "number": 77,
+  "title": "1つに決まる合図を探す",
+  "chapter": {
+    "id": "nouns",
+    "title": "名詞の世界"
+  },
+  "unitId": "grammar-articles",
+  "pageType": "説明",
+  "image": "pages/PAGE_0077.webp",
+  "promptSource": "source-prompts/PAGE_0077.txt",
+  "promptSha256": "f1c61d0f066b772fba2bc72fb57699b530a3094db060a816e2a7c2070e550501",
+  "prompt": "Use case: scientific-educational; dense 9:16 portrait grammar page. Reconstruct independently the “uniquely determined” uses covered by source p.166–167: shared knowledge, ordinal/only/superlative cues, and one identifiable plural group.\nInput references: mascot appearance and PAGE_0001 design reference.\nTop title: 「1つに決まる合図を探す」\nCentral illustration: leopard explorer as a clue detective uses a golden compass to find a single destination among many. Four clue towers glow: shared world knowledge, order, uniqueness, and group boundary.\nMechanism: 「みんなの常識で1つ」「first / last で順番が1つ」「only で候補が1つ」「最上級で頂点が1つ」「the + 複数＝1つに決まるグループ」. Add caution 「an only child＝“ひとりっ子”という種類の1人」.\nOriginal examples:\n1. “The moon looked enormous tonight.” / 「私たちの月として1つ」\n2. “Riku was the last runner to finish.” / 「順番の最後は1人」\n3. “This is the only key that fits.” / 「合う鍵が1つ」\n4. “The Katos are hosting dinner.” / 「Kato家という1グループ」\nMini practice: 「ミニ問題：a / the？」 “She is ___ tallest player on the team.” 「答え：the」 「最上級がチーム内の1人に決める。」\nBottom ribbon: 「丸暗記せず、“ほかに選べる？”と考える」\nStyle: glossy adventure-library detective observatory, blue/yellow/white, dimensional clue towers, thick outlines, limited red uniqueness marker.\nConstraints: no page number, copied examples/diagram/prose/layout, source identity, logo, citation, watermark, answer field, or photorealism. One mascot in detective pose.\n"
+}

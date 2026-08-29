@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0165",
+  "number": 165,
+  "title": "mayは、可能性のドアも開く",
+  "chapter": {
+    "id": "comparison",
+    "title": "比べる・否定する・気持ちを添える"
+  },
+  "unitId": "grammar-modals-1",
+  "pageType": "説明",
+  "image": "pages/PAGE_0165.webp",
+  "promptSource": "source-prompts/PAGE_0165.txt",
+  "promptSha256": "bc392967c659dde36df912dfbe570b30220dd3c5c982a1c9af7d6b98ddfdc761",
+  "prompt": "Use case: scientific-educational; dense 9:16 portrait grammar page. Independently explain may/might for possibility and the patterns may...but, may well, and may as well from source p.343–344.\nInput references: mascot identity and PAGE_0001 design.\nTop title: 「mayは、可能性のドアも開く」\nCentral illustration: leopard explorer as a choice navigator faces several open doors of equal uncertainty. A WELL booster brightens one door; an AS WELL scale shows several options with no outstanding winner.\nMechanism: 「may＝可能性は閉じていない」「might＝さらに控えめ」「may A, but B＝Aを認めて本題Bへ」「may well＝十分ありそう／もっとも」「may as well＝ほかも同程度なら、とりあえず」.\nOriginal examples:\n1. “The parcel may arrive tomorrow.” / 「届く可能性はある」\n2. “The room may be small, but it is bright.” / 「認めた後のbutが本題」\n3. “The road may well be icy.” / 「十分にありそう」\n4. “The bus is gone, so we may as well walk.” / 「ほかに良案がなく歩くのもよい」\nMini problem: 「ミニ問題：可能性をより控えめに」 “It (may / might) snow, but I’m not sure at all.” 「答え：might」 「mayより一歩引いた弱い見込みに合う。」\nBottom ribbon: 「開いたドアの数と自信の強さを感じよう」\nStyle: bright adventure-library choice hall, blue/gold/white, multiple doors and scales, small red certainty accents, thick outlines.\nConstraints: no page number, copied source examples/figures/text/layout, source identity, logo, citation, watermark, blank answer area, or photorealism. One mascot in navigator pose.\n"
+}

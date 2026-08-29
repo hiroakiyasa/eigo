@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0078",
+  "number": 78,
+  "title": "the の光で、“これだ！”",
+  "chapter": {
+    "id": "nouns",
+    "title": "名詞の世界"
+  },
+  "unitId": "grammar-articles",
+  "pageType": "説明",
+  "image": "pages/PAGE_0078.webp",
+  "promptSource": "source-prompts/PAGE_0078.txt",
+  "promptSha256": "75edd142d935a7a1455aa4796773bd19464e47070f492d93bfefdc3c007528cb",
+  "prompt": "Use case: scientific-educational; dense 9:16 portrait grammar page. Independently explain emphatic “the” as “the exact/best one” and distinguish playing an instrument as a shared activity image from referring to a physical instrument. Source p.168–169 is concepts only.\nInput references: mascot appearance and PAGE_0001 visual system.\nTop title: 「the の光で、“これだ！”」\nCentral illustration: leopard explorer as a concert director shines a bright crown-shaped beam on one perfect candidate, then conducts a music-stage comparison between the activity “play the violin” and one physical violin in a display case.\nMechanism: left 「a/an＝候補の1つ」→「the＝これこそ、その1つ」 with an emphasis spotlight. Right 「楽器を演奏する活動 → the + 楽器」「物体として1台・1本 → a / this / that + 楽器」.\nOriginal examples:\n1. “Nora is the designer for this project.” / 「まさに適任だと強調」\n2. “The Grand Aurora is the place to stay.” / 「泊まるならここ、と選び切る架空名」\n3. “Jun plays the violin after dinner.” / 「演奏する活動の共通イメージ」\n4. “A violin was lying in the case.” / 「具体的な物体として1本」\nMini practice: 「ミニ問題：昨日買った物体なら？」 “He bought (a / the) violin yesterday.” 「答え：a」 「初登場の具体的な1本だから。」\nBottom ribbon: 「the は特定だけでなく、“これに決まり”も照らす」\nStyle: luminous adventure-library concert hall, glossy crown spotlight, blue/yellow/white, red only for article contrast, thick outlines, exact readable text.\nConstraints: no page number, real brand names, copied source names/examples/figures/prose/layout, source identity, logo, citation, watermark, blank answer area, or photorealism. One mascot in conductor pose.\n"
+}

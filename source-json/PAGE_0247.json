@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0247",
+  "number": 247,
+  "title": "whatは『もの・こと』を包む",
+  "chapter": {
+    "id": "verb-parts",
+    "title": "動きを部品にする"
+  },
+  "unitId": "grammar-passive",
+  "pageType": "まとめ",
+  "image": "pages/PAGE_0247.webp",
+  "promptSource": "source-prompts/PAGE_0247.txt",
+  "promptSha256": "24c332548a6a9ccd302648c82dfd214c49f8e60954e92e3ac93f43a2214eed1a",
+  "prompt": "Create a polished information-dense educational English grammar page in portrait 9:16, matching the supplied cover's vivid blue-and-gold style. Same leopard mascot opening WHAT into “thing/content” and spinning an EVER wheel with all choices open. No page number, source identity, watermark, or logo.\n\nTop Japanese title: 「whatは『もの・こと』を包む」\n\nTeach fused/free relative what as both the guide and the missing noun: “what + clause” = the thing(s) that.... Contrast with which + noun/known choices. Then show whoever/whatever/whichever as an open-choice package; depending on context it means any choice or no matter which.\n\nOriginal examples:\n• What you created impressed the judges. 「あなたが作ったもの」\n• Tell me what happened. 「何が起きたか」\n• Take whatever you need. 「必要なものは何でも」\n• Choose whichever route feels safest. 「どちらの道でも、最も安全な方」\n• Whoever calls, take a message. 「誰が電話してきても」\n\nCentral formula: what = the thing(s) that; wh-ever wheel opens every candidate. Avoid adding an extra noun immediately before fused what.\n\nMini practice: translate “Whatever happens, stay calm.” Answer: 「何が起きても落ち着いて」; reason 「everが選択・条件を全面的に開く」.\n\nTakeaway: 「whatは空所と『もの』を一語でまとめる」.\n"
+}

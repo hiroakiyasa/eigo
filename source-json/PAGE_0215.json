@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0215",
+  "number": 215,
+  "title": "文法パーツは配置で働く",
+  "chapter": {
+    "id": "relative",
+    "title": "名詞を後ろから特定する"
+  },
+  "unitId": "grammar-relative",
+  "pageType": "説明",
+  "image": "pages/PAGE_0215.webp",
+  "promptSource": "source-prompts/PAGE_0215.txt",
+  "promptSha256": "91e580913036378ae291faafa80c31a967470b2de6f7c48815cf5d2ba726cbd7",
+  "prompt": "Create a polished information-dense English grammar book page, portrait 9:16, matching the supplied cover's energetic explorer style. Same leopard mascot carrying four movable grammar capsules into sentence slots. No page number, source identity, watermark, or logo.\n\nTop Japanese title: 「文法パーツは配置で働く」\n\nCentral sentence workshop: four slots labelled 主語 / 目的語 / 名詞の後ろ / 文全体への説明. Movable packages include -ing, to-infinitive, past participle, and clause. Explain that a package's position determines its job.\n\nOriginal examples:\n• Exploring old libraries is exciting. 「-ingが主語」\n• Mia enjoys exploring old libraries. 「-ingが目的語」\n• The child exploring the attic found a diary. 「childを後ろから説明」\n• To find the key, Leo checked every drawer. 「目的を文全体に追加」\n• The compass damaged in the storm was repaired. 「過去分詞がcompassを説明」\n\nShow minimal skeleton first, then attach packages with arrows. Stress that meaning comes from both internal form and sentence position.\n\nMini practice: what is “Collecting stamps” in “Collecting stamps relaxes me”? Answer: subject; reason 「述語relaxesの前で名詞相当のまとまり」.\n\nTakeaway: 「形をひとかたまりにして、必要な席へ置く」. Dense workshop visual, examples, problem and answer.\n"
+}

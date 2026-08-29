@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0200",
+  "number": 200,
+  "title": "複合前置詞の道具箱",
+  "chapter": {
+    "id": "prepositions",
+    "title": "位置関係を描く"
+  },
+  "unitId": "grammar-prepositions-1",
+  "pageType": "まとめ",
+  "image": "pages/PAGE_0200.webp",
+  "promptSource": "source-prompts/PAGE_0200.txt",
+  "promptSha256": "bfa14cdcfe8e9e5f4f3e7b9d8f9692f17fc4d3cb14a11af2264d641dded57742",
+  "prompt": "Use case: scientific-educational\nAsset type: dense illustrated English multiword-preposition summary page, portrait 9:16\nPrimary request: Independently organize the practical multiword prepositions and exclusions covered on pages 412–413: addition, exception, route, means, position, substitution, representation, opposite position, and topic reference. Do not reuse source sentences, diagrams, or arrangement.\nInput images: PAGE_0001 approved visual design; mascot_reference exact leopard explorer.\nCanvas: exact 941×1672 portrait, strict 9:16, full bleed, safe margins, no page number.\nTop Japanese title: 「複合前置詞の道具箱」\nCentral illustration: the mascot opens a blue-and-gold explorer toolbox containing nine labeled instruments: BESIDES, EXCEPT FOR, BY WAY OF, BY MEANS OF, IN FRONT OF, INSTEAD OF, ON BEHALF OF, OPPOSITE, WITH REGARD TO.\nMechanism diagram: color-coded functions—追加「besides / in addition to」; 除外「but / except / except for」; 経路「by way of」; 手段「by means of」; 場所「in front of / opposite」; 代替・代表「instead of / on behalf of」; 話題「with regard to / with respect to」. Note: except for can introduce a condition-like exception to a whole statement.\nOriginal example cards:\n1. “Besides English, Mia studies Spanish.” / 「英語に加えてスペイン語も」\n2. “We reached the village by way of the forest road.” / 「森の道を経由」\n3. “On behalf of the team, I thank you.” / 「チームを代表して」\n4. “The café is opposite the station.” / 「駅の反対側」\nMini practice: 「The room was empty ___ one chair.」 Answer: 「except for」. Reason: 「部屋全体の説明に、1脚だけという例外を後から加える。」\nBottom takeaway: 「複数語でも、追加・除外・経路・立場を1つの前置詞として示す」\nStyle: bright glossy blue-gold-white-red adventure toolbox gallery, dimensional tools and route signs, thick outlines, information-dense balanced cards, mascot once kneeling beside the open toolbox.\nTypography: exact English and bold readable Japanese Gothic.\nConstraints: no page number, source quotation/example/layout, source identity, logo, citation, watermark, or extra exercise.\nAvoid: alphabetical dictionary list, tiny labels, brand references, dark storage room.\n"
+}

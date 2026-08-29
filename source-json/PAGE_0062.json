@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0062",
+  "number": 62,
+  "title": "名詞のかたちは、中心へ重ねる",
+  "chapter": {
+    "id": "nouns",
+    "title": "名詞の世界"
+  },
+  "unitId": "grammar-nouns",
+  "pageType": "説明",
+  "image": "pages/PAGE_0062.webp",
+  "promptSource": "source-prompts/PAGE_0062.txt",
+  "promptSha256": "f4da5dd928cddda44258aebd6e64a71481154d08aa1ff4ec4502712d3333a339",
+  "prompt": "Use case: scientific-educational; dense 9:16 page. Source p.136–137 concepts only.\nTop title: 「名詞のかたちは、中心へ重ねる」\nScene: adventure-library noun workshop. Leopard builder assembles a noun phrase as nested glowing blocks.\nMechanism: 「限定詞 + 形容詞 + 名詞」 with noun as center. Countable decision image: clear individual shape vs shapeless material/idea.\nOriginal examples: 「those three old maps」 「a curious robot」 「fresh bread」 「useful information」. Japanese role labels under each.\nMini check: arrange 「wooden / a / bridge」. Answer: 「a wooden bridge — 限定詞→形容詞→名詞」.\nTakeaway: 「名詞を中心に、前から範囲と特徴を足す」\nDense readable cover style, mechanism diagram, illustration, examples, check+answer, no page number.\n\n"
+}

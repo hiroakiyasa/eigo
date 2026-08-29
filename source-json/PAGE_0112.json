@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0112",
+  "number": 112,
+  "title": "形容詞の列車、名詞へ近づく順",
+  "chapter": {
+    "id": "modifiers",
+    "title": "情報を足す"
+  },
+  "unitId": "grammar-adjectives",
+  "pageType": "説明",
+  "image": "pages/PAGE_0112.webp",
+  "promptSource": "source-prompts/PAGE_0112.txt",
+  "promptSha256": "4ec89ef5676b0a77805f60b48f38ea7697b0e79379707e91be4f10b5891bd704",
+  "prompt": "Use case: scientific-educational\nAsset type: dense portrait mechanism page for an illustrated English grammar book\nPrimary request: Teach adjective placement before a noun, determiners before adjectives, combining adjectives, and the natural adjective order based on closeness to the noun. Source pages 236–237 guide coverage only; use wholly original text, examples, and illustration.\nInput images: mascot identity reference only; PAGE_0001 style reference only.\nCanvas: strict 9:16 portrait, full-bleed, no page number.\nTop title (verbatim): 「形容詞の列車、名詞へ近づく順」\nCentral illustration: the leopard explorer in a station-conductor pose arranges colored adjective train cars toward a noun engine inside the adventure library.\nMechanism diagram: “限定詞 → 評価 → 大きさ → 新旧 → 色 → 出身 → 材料 → 名詞”. Note: 「名詞に本質的な情報ほど近く置く」. Connector badge: “kind but careless guide”.\nOriginal example cards:\n1. “that clever young pilot” / 「評価→年齢→名詞」\n2. “a beautiful small wooden box” / 「評価→大きさ→材料→名詞」\n3. “my old blue hiking bag” / 「限定詞が先頭」\n4. “a calm but curious child” / 「butで性質を並べる」\nMini practice: 「ミニ問題　自然な順は？」 choices “a metal round shield” / “a round metal shield”\nAnswer: 「答え　a round metal shield」 「材料metalは名詞shieldに近い。」\nBottom ribbon: 「主観は遠く、材質・所属は名詞の近く」\nStyle: PAGE_0001 blue-yellow-white adventure-library railway, gold tracks, dimensional adjective cars, bold outlines, red only for noun-nearness cue, mascot once, readable type.\nConstraints: original content only; no source wording/examples/figures/layout, citation, source identity, logo, ISBN, watermark, page number, or extra prose; avoid photorealism and tiny lettering.\n"
+}

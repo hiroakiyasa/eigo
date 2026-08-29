@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0275",
+  "number": 275,
+  "title": "状態は現在形、動作は進行形",
+  "chapter": {
+    "id": "time",
+    "title": "時間を旅する"
+  },
+  "unitId": "grammar-present-continuous",
+  "pageType": "英文",
+  "image": "pages/PAGE_0275.webp",
+  "promptSource": "source-prompts/PAGE_0275.txt",
+  "promptSha256": "f93d51150829d8bfa4077c2dd341ccf59668b15169a8f59354d5f6e5891ba1c7",
+  "prompt": "Create a polished content-rich English grammar page in portrait 9:16, matching the supplied cover's vivid blue-and-gold design. Same leopard mascot comparing an inside-feeling gauge with an outside action camera. No page number, source identity, watermark, or logo.\n\nTop Japanese title: 「状態は現在形、動作は進行形」\n\nTeach that simple present often presents thought, feeling, possession, perception and declaration as states integrated with the speaker's current reality; progressive portrays a dynamic scene from outside. Avoid mechanically classifying words—meaning in context matters.\n\nOriginal examples:\n• I know the answer. 「知識という状態」\n• I can hear music upstairs. 「自然に聞こえる」\n• This bag belongs to Mina. 「所有関係」\n• I apologize for the delay. 「発言と同時に成立する宣言」\n• I'm listening to the music carefully. 「意識的な動作」\n\nContrast: hear vs listen; have possession vs having an experience where appropriate. Red correction: “I'm knowing the answer.” ✗ → “I know the answer.”\n\nMini practice: choose “I see / I'm seeing what you mean.” Answer: I see; reason 「理解した状態を示す標準表現」.\n\nTakeaway: 「静かな状態は現在形、外から映せる動きは進行形」.\n"
+}

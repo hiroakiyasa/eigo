@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0057",
+  "number": 57,
+  "title": "感じる動詞・伝える動詞",
+  "chapter": {
+    "id": "framework",
+    "title": "文の骨組み"
+  },
+  "unitId": "grammar-advanced",
+  "pageType": "説明",
+  "image": "pages/PAGE_0057.webp",
+  "promptSource": "source-prompts/PAGE_0057.txt",
+  "promptSha256": "157d0cf9c757b499c1917b7bed625a27747ab2275a6a2656eb42ab80383f52ea",
+  "prompt": "Use case: scientific-educational\nAsset type: dense 9:16 portrait concept map\nPrimary request: Independently bridge sensory verbs and speaking verbs: taste/smell/feel can express either deliberate action or incoming sensation, while speak/talk/say/tell differ in communication focus. Source pages 126–127 are coverage only; do not reuse examples, prose, images, or layout.\nInput images: mascot reference; PAGE_0001 style reference.\nCanvas: strict 9:16 portrait, no page number, full-bleed, safe margins.\nTop title: 「感じる動詞・伝える動詞」\nCentral illustration: mascot in a communication-researcher pose at a split adventure-library console. Left shows a hand tasting/smelling/feeling by choice versus waves arriving; right shows four communication icons.\nMechanism diagram: left toggle 「自分から確かめる ↔ 感覚が入る」 with taste/smell/feel. Right four arrows: 「speak＝音声を出す」 「talk＝やり取り」 「say＝言葉の内容」 「tell＝相手へ情報」.\nOriginal example cards:\n1. “Mia tasted the soup carefully.” / 「自分から味を確かめる動作」\n2. “I can smell pine trees.” / 「香りが向こうから入る感覚」\n3. “Leo spoke at the opening ceremony.” / 「一方向に音声を届ける」\n4. “Please tell me the route.” / 「相手へ情報を手渡す」\nMini practice box: 「ミニ確認：『その案について話し合おう』は speak / talk？」 「答え：talk」 「双方向のやり取りを表すから。」\nBottom takeaway: 「同じ『話す・感じる』でも、意識の向きが違う」\nStyle: glossy cover-quality educational library console, blue/yellow/white, sensory waves and message arrows, thick crisp outlines, dense structured cards, limited red emphasis.\nTypography: exact English and readable Japanese; specified text only.\nConstraints: no page number, source identity, copied sentence/diagram/layout, logo, citation, watermark, or extra exercise. One mascot in a distinct researcher pose.\nAvoid: overpacked tiny text, duplicated labels, flat worksheet, dark background.\n"
+}

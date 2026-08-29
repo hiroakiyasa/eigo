@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0158",
+  "number": 158,
+  "title": "否定質問でも、事実でYes・No",
+  "chapter": {
+    "id": "comparison",
+    "title": "比べる・否定する・気持ちを添える"
+  },
+  "unitId": "grammar-modals-1",
+  "pageType": "説明",
+  "image": "pages/PAGE_0158.webp",
+  "promptSource": "source-prompts/PAGE_0158.txt",
+  "promptSha256": "1d93966f7b87f690e77ddd086bfa7416d5362e11f0455bd6840c65e7c003ef85",
+  "prompt": "Use case: scientific-educational\nAsset type: dense portrait conversation-response page for an illustrated English grammar book\nPrimary request: Teach responses to negative questions based on the responder’s actual positive or negative fact, not Japanese yes/no logic; show explicit not in “of course not/why not” and short substitution with not or so. Source pages 328–329 guide coverage only; create original dialogue and visuals.\nInput images: mascot identity reference only; PAGE_0001 design reference only.\nCanvas: strict 9:16 portrait, full-bleed, dense, no page number.\nTop title (verbatim): 「否定質問でも、事実でYes・No」\nCentral illustration: the leopard explorer in a conversation-referee pose stands between bright YES and NO response gates in an adventure-library dialogue arena.\nMechanism diagram: question “Don’t you need it?” branches by reality: “必要 → Yes, I do.” / “不要 → No, I don’t.” Note: 「質問のnotに合わせず、自分の事実に合わせる」. Short-answer shelf: “Of course not. / Why not? / I hope not. / I’m afraid so. / Not yet.”\nOriginal example cards:\n1. “Aren’t you tired? — Yes, I am.” / 「疲れている事実ならYes」\n2. “Aren’t you tired? — No, I’m not.” / 「疲れていないならNo」\n3. “Will the trail close? — I hope not.” / 「閉じないことを望む」\n4. “Did the plan fail? — I’m afraid so.” / 「前の肯定内容をsoで受ける」\nMini practice: 「ミニ問題　泳げるなら？」 “Can’t you swim? — (Yes, I can. / No, I can’t.)”\nAnswer: 「答え　Yes, I can.」 「泳げるという肯定の事実にYes。」\nBottom ribbon: 「Yesは肯定の事実、Noは否定の事実」\nStyle: glossy PAGE_0001 adventure-library dialogue arena, blue/gold/white, dimensional speech cards, thick outlines, red only for not, mascot once.\nConstraints: original examples and layout; no source wording/figures/order, identity, citation, logo, ISBN, watermark, page number, or extra prose; avoid photorealism, dark background, and tiny text.\n"
+}

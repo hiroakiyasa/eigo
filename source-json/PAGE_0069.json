@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0069",
+  "number": 69,
+  "title": "種類・一品・一回なら数えられる",
+  "chapter": {
+    "id": "nouns",
+    "title": "名詞の世界"
+  },
+  "unitId": "grammar-nouns",
+  "pageType": "説明",
+  "image": "pages/PAGE_0069.webp",
+  "promptSource": "source-prompts/PAGE_0069.txt",
+  "promptSha256": "8cd37d635a2aab2c5c52e99def3cec1494960d8993a24630057af1ba4a0e9d34",
+  "prompt": "Use case: scientific-educational; dense 9:16 page. Source p.150–151 concepts only.\nTop title: 「種類・一品・一回なら数えられる」\nScene: adventure-library café and sound studio. Leopard host changes mass concepts into countable servings/events.\nMechanism/examples: 「coffee」 drink vs 「two coffees」 two servings; 「noise」 general noise vs 「a strange noise」 one distinct sound; 「conversation」 activity vs 「a conversation」 one event; 「experience」 accumulated skill vs 「an experience」 one event.\nUse four original sentences with concise Japanese.\nMini check: travel skill—choose 「She has experience / an experience in guiding tours.」 Answer: experience — accumulated ability.\nTakeaway: 「境界を作れば、抽象的なものも数えられる」\nDense but readable illustrated transformations, question+answer; approved style, no page number.\n\n"
+}

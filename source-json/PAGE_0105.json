@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0105",
+  "number": 105,
+  "title": "固有名詞は、名前の札",
+  "chapter": {
+    "id": "nouns",
+    "title": "名詞の世界"
+  },
+  "unitId": "grammar-nouns",
+  "pageType": "説明",
+  "image": "pages/PAGE_0105.webp",
+  "promptSource": "source-prompts/PAGE_0105.txt",
+  "promptSha256": "495e553d5d54e205bec20bbf26b70d63377914224b190b8b9d91c32325a443d2",
+  "prompt": "Use case: scientific-educational\nAsset type: dense 9:16 portrait noun concept page\nPrimary request: Independently introduce proper nouns: unique names normally begin with capitals and usually need no a/the, but can behave like common nouns when they mean a type, product, or one of multiple people with the same name. Source pages 222–223 are coverage only; copy no names, examples, wording, art, or layout.\nInput images: mascot appearance reference; PAGE_0001 design reference.\nCanvas: strict 9:16 portrait, no page number, safe margins.\nTop title: 「固有名詞は、名前の札」\nCentral illustration: mascot in a name-tag curator pose hangs glowing capital-letter labels on a person, city, weekday, and book inside a library gallery.\nMechanism diagram: 「ただ1つの名前」→「大文字で開始」→「通常 a / the なし」. Side branch 「種類・製品・同名の複数なら a / the / -s も可能」.\nOriginal example cards:\n1. “Mia reached Silverport on Monday.” / 「人名・地名・曜日は名前」\n2. “Our class has two Leos.” / 「同じ名前の人が2人」\n3. “The Mina I know lives in Sapporo.” / 「どのMinaかを限定」\n4. “We rented a Skywing for the trip.” / 「名前を製品の1台として使う」\nMini practice box: 「ミニ確認：___ Tuesday begins with a capital letter. a は必要？」 「答え：不要」 「曜日名はそれ自体で固有の名前。」\nBottom takeaway: 「名前が普通名詞の使い方へ移ると、形も変わる」\nStyle: glossy blue-yellow-white name gallery, dimensional capital letters and labels, thick outlines, polished educational game-book aesthetic, compact examples.\nTypography: accurate English, bold Japanese Gothic.\nConstraints: all fictional product/place examples are original; no page number, source names/examples/layout, source identity, logo, citation, watermark, or extra exercise. Mascot once in curator pose.\nAvoid: trademark logos, copied real-world book covers, tiny text, sparse page.\n"
+}

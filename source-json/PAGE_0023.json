@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0023",
+  "number": 23,
+  "title": "動詞には、2つのチーム",
+  "chapter": {
+    "id": "framework",
+    "title": "文の骨組み"
+  },
+  "unitId": "grammar-verbs-present",
+  "pageType": "説明",
+  "image": "pages/PAGE_0023.webp",
+  "promptSource": "source-prompts/PAGE_0023.txt",
+  "promptSha256": "e7a1a82f570e5d9d7a53fa1951f41ae23b1f6be8fe99ed01db33e1d717113d33",
+  "prompt": "Use case: scientific-educational\nAsset type: dense 9:16 portrait illustrated English-grammar explanation page\nPrimary request: Independently teach the two verb families: be as a connector between subject and description, and ordinary verbs as meaning-bearing action/state engines. Also preview their different question and negative mechanisms. Source pages 58–59 are coverage only; copy no wording, examples, figure, or arrangement.\nInput images: mascot appearance reference plus PAGE_0001 style reference.\nCanvas: strict 9:16 portrait, one full page, dense but legible, no page number.\nTop title (verbatim): 「動詞には、2つのチーム」\nCentral illustration: the leopard explorer in a team-coach pose stands between two machines. Left: a smooth BE bridge connects SUBJECT = DESCRIPTION. Right: a GENERAL VERB engine visibly performs an action. Below, each machine changes into question and negative mode.\nMechanism diagram: left rail 「be動詞：主語＝説明」 with 「疑問：beを前へ」「否定：beの後ろに not」. Right rail 「一般動詞：動き・状態を表す」 with 「疑問：Do / Does を前へ」「否定：do / does + not」.\nRequired original examples:\n1. “Ava is curious.” / 「Ava＝curious をつなぐ」\n2. “They are not tired.” / 「beの直後に not」\n3. “Does Ken collect stamps?” / 「一般動詞の疑問は Does が助ける」\n4. “Ken does not collect stamps.” / 「collect は原形に戻る」\nMini practice box: 「ミニ問題：疑問文にしよう」 “Mia is ready.” 「答え：Is Mia ready?” 「be動詞 is を主語の前へ移す。」\nBottom takeaway ribbon: 「beは自分で動く。一般動詞は do の助けを借りる」\nStyle: glossy cover-quality adventure-library learning page, two contrasting machines, blue/yellow/white, red only for moved helper words, thick outlines, exact readable text.\nConstraints: no page number, copied source material, source identity, citation, logo, watermark, answer field, clutter, or photorealism. Mascot once in coach pose.\n"
+}

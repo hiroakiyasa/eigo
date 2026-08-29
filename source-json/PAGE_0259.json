@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0259",
+  "number": 259,
+  "title": "主語の穴と大きなwh",
+  "chapter": {
+    "id": "questions",
+    "title": "たずねる・目立たせる"
+  },
+  "unitId": "grammar-advanced",
+  "pageType": "説明",
+  "image": "pages/PAGE_0259.webp",
+  "promptSource": "source-prompts/PAGE_0259.txt",
+  "promptSha256": "1ca0143db1e1f51d87eee3002dedbb988a530444a5107f3c38da95b6f46e9771",
+  "prompt": "Use case: scientific-educational\nAsset type: dense illustrated English WH-subject and phrase page, portrait 9:16\nPrimary request: Independently teach subject WH questions with no inversion and singular verb agreement, plus larger WH phrases such as how old, how tall, how much/many, what kind of, whose + noun, and which + range. Reconstruct pages 530–531 without copying source examples or figures.\nInput images: PAGE_0001 design reference; mascot_reference exact leopard explorer.\nCanvas: exact 941×1672, strict 9:16, safe margins, no page number.\nTop Japanese title: 「主語の穴と大きなwh」\nCentral illustration: the mascot places WHO directly into an empty subject throne—no auxiliary flip—then assembles large WH blocks from smaller word tiles.\nMechanism diagram: subject gap 「Who/What＋verb…？」 no inversion because there is no separate subject to swap; who/what treated as singular in present tense. WH phrase builder: HOW＋old/tall/much/many; WHAT KIND OF＋noun; WHOSE＋noun; WHICH＋noun/range.\nOriginal example cards:\n1. “Who knows the secret path?” / 「whoが主語、knowsは単数扱い」\n2. “What makes this compass glow?” / 「whatが主語、倒置なし」\n3. “How many lanterns do we need?” / 「how many＋複数名詞を一まとまりで前へ」\n4. “What kind of books does Mia collect?” / 「大きなwh句を文頭へ」\nMini practice: 「___ opened the gate? Who did / Who」 Answer: “Who opened the gate?” Reason: 「主語を尋ねるためdo倒置はしない。」\nBottom takeaway: 「主語のwhはその場に置き、複合whは丸ごと前へ」\nStyle: bright glossy blue-gold-white-red grammar throne room, building blocks and subject seat, thick outlines, dense readable layout, mascot once as a master builder.\nTypography: exact English and concise Japanese.\nConstraints: no page number, source reuse, copied figure, source identity, logo, citation, watermark, or extra quiz.\nAvoid: incorrect “Who does know”, tiny phrase tiles, dark palace.\n"
+}

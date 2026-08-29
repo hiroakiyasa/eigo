@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0244",
+  "number": 244,
+  "title": "節をひとまとまりの主語にする",
+  "chapter": {
+    "id": "verb-parts",
+    "title": "動きを部品にする"
+  },
+  "unitId": "grammar-participles",
+  "pageType": "説明",
+  "image": "pages/PAGE_0244.webp",
+  "promptSource": "source-prompts/PAGE_0244.txt",
+  "promptSha256": "02e912d9720624f1cba6ecb4b81f21c853ba6d2e78352a74811eb16a2281519a",
+  "prompt": "Create a polished, information-dense English grammar page in portrait 9:16, matching the supplied cover's energetic blue, gold, white, and red style. Same leopard mascot loading clause capsules into the subject seat. No page number, source name, watermark, or logo.\n\nTop Japanese title: 「節をひとまとまりの主語にする」\n\nCentral three-capsule system: THAT clause = stated fact/content; WHETHER clause = two-sided choice; WH clause = missing-information package. Show each entire clause occupying one noun position before a predicate.\n\nOriginal examples:\n• That the shop closed surprised everyone. 「店が閉店したという事実」\n• That Leo remembered the code was fortunate. 「覚えていたこと」\n• Whether the ferry will sail is uncertain. 「出航するかどうか」\n• What Aya discovered changed our plan. 「アヤが発見したもの」\n\nExplain that subject that is normally present to mark the beginning of the statement package; without it, two clauses can blur together. Add formula [That + subject + verb] + predicate.\n\nMini practice: turn “He knows the answer” into the subject of “is obvious.” Answer: “That he knows the answer is obvious.” Reason: 「thatが平叙内容を主語パッケージにする」.\n\nTakeaway: 「文の形を保ったまま、名詞の席へ置ける」. Capsule diagram, examples, problem+answer.\n"
+}

@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0020",
+  "number": 20,
+  "title": "主語は、文の出発点",
+  "chapter": {
+    "id": "framework",
+    "title": "文の骨組み"
+  },
+  "unitId": "grammar-verbs-present",
+  "pageType": "説明",
+  "image": "pages/PAGE_0020.webp",
+  "promptSource": "source-prompts/PAGE_0020.txt",
+  "promptSha256": "87134f0a6d186d451401668096d2e6f53da4ab2f8224a783381e3208d48434d0",
+  "prompt": "Use case: scientific-educational\nAsset type: dense portrait explanation page about English subjects\nPrimary request: Independently explain the English subject as the starting point and topic placed before the predicate, including how to catch a long subject chunk. Source pages 52–53 are coverage only. Do not reuse their wording, examples, images, comparison, or page layout.\nInput images: Image 1 is the mascot appearance reference; Image 2 is PAGE_0001, the approved adventure-library design reference. Preserve mascot identity and the unified glossy visual language.\nCanvas: strict 9:16 portrait, one finished full-bleed educational page, dense but readable, safe margins, no page number.\nTop title (verbatim): 「主語は、文の出発点」\nCentral illustration: the leopard explorer in a mission-controller pose launches a blue SUBJECT train before a red PREDICATE train through a bright adventure-library control room. A spotlight marks the complete blue subject chunk.\nMechanism diagram: show 「主語のまとまり」→「動詞から後ろ」 with a vertical divider. Add the short rule 「英語はまず“だれ・なに”を置く」 and a magnifying-glass tip 「最初の動詞を探す。その前が主語候補」.\nRequired original examples, render exactly with the subject chunk blue and predicate red:\n1. “[Mia] collects old postcards.” / 「短い主語」\n2. “[The tiny robot near the window] needs new wheels.” / 「長くても全部が主語」\n3. “[Learning a new language] takes patience.” / 「行動のまとまりも主語になる」\nSmall caution box (verbatim): 「会話の省略はあるが、基本は主語を置く」\nMini practice box (verbatim): 「ミニ確認：The red door at the end of the hall is locked. 主語は？」 「答え：The red door at the end of the hall」 「最初の動詞 is の前全体が主語。」\nBottom takeaway ribbon (verbatim): 「最初の動詞を見つけ、その前のまとまりをつかもう」\nStyle/medium: glossy original educational illustration, bright blue-yellow-white glass-roof library launch room, dimensional grammar train blocks, crisp thick outlines, limited red for predicate, central scene plus mechanism and three example strips, visually rich and smartphone-readable.\nTypography: exact English, square brackets included exactly, bold Japanese Gothic. Do not add filler text.\nConstraints: include only the specified mini practice with answer and explanation; no page number, source title, author, publisher, logo, ISBN, citation, copied example, copied diagram, copied layout, or watermark. One mascot in a distinct controller pose.\nAvoid: sparse page, tiny copy, overly technical terms, garbled English, dark control room, photorealism.\n"
+}

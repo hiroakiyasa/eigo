@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0136",
+  "number": 136,
+  "title": "upで満ちる、downで止まる",
+  "chapter": {
+    "id": "comparison",
+    "title": "比べる・否定する・気持ちを添える"
+  },
+  "unitId": "grammar-comparatives",
+  "pageType": "説明",
+  "image": "pages/PAGE_0136.webp",
+  "promptSource": "source-prompts/PAGE_0136.txt",
+  "promptSha256": "5e45a32dbde683f35d3be59dee2e0e5b39bc35c699f8f26f1330729dc47bee60",
+  "prompt": "Use case: scientific-educational; dense 9:16 portrait grammar page. Independently continue up/down semantic extensions from source p.280–281: completion, stopping, value judgment, and energy/state.\nInput references: mascot appearance and PAGE_0001 visual reference.\nTop title: 「upで満ちる、downで止まる」\nCentral illustration: leopard explorer as an energy mechanic. An UP tank fills to completion and powers a bright figure; a DOWN switch shuts a machine and lowers a mood gauge. A high/low viewing platform represents respect and contempt without depicting stereotypes.\nMechanism: 「up＝満杯・完全」「down＝活動停止・分解」「look up to＝高く見る」「look down on＝低く見る」「up＝活発・意識あり」「down＝沈滞」. Show how direction supplies the shared meaning while the verb supplies the action.\nOriginal examples:\n1. “Fill up the tank before dawn.” / 「満タンにする」\n2. “The old printer broke down again.” / 「機能が完全に止まる」\n3. “I look up to my science teacher.” / 「高く評価し尊敬する」\n4. “The music cheered us up.” / 「気分を活発な方向へ」\nMini problem: 「ミニ問題：店が完全に閉業した」 “The shop closed (up / down).” 「答え：down」 「活動が止まる方向を示す。」\nBottom ribbon: 「方向に、人の評価や活動状態が重なる」\nStyle: bright adventure-library energy workshop, glossy tanks and switches, blue/yellow/white, limited red stop cue, thick outlines, phone-readable.\nConstraints: no page number, copied source examples/figures/prose/layout, source marks, logo, citation, watermark, answer area, or photorealism. One mascot in mechanic pose.\n"
+}

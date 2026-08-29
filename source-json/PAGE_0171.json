@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0171",
+  "number": 171,
+  "title": "誘いの shall と助言の should",
+  "chapter": {
+    "id": "comparison",
+    "title": "比べる・否定する・気持ちを添える"
+  },
+  "unitId": "grammar-modals-2",
+  "pageType": "説明",
+  "image": "pages/PAGE_0171.webp",
+  "promptSource": "source-prompts/PAGE_0171.txt",
+  "promptSha256": "31f70bc360c912c837fbd60db64df81de680359c20b90ad1c346250916e1bfd3",
+  "prompt": "Create a polished, information-dense English grammar book page in portrait 9:16, matching the supplied cover's vivid blue, gold, white, and red explorer style. Same leopard explorer mascot, warmly inviting a friend onto a forked trail. No page number, source identity, watermark, or logo.\n\nTop Japanese title: 「誘いの shall と助言の should」\n\nCentral illustration: two invitation paths. The energetic mascot pulls a LET'S lever; a gentler mascot offers a hand beside a “SHALL WE?” sign. Explain: “Let's ...” proposes action directly; “Shall we ...?” asks the listener to help choose the shared path. Add the tag pattern “Let's ..., shall we?” as strong proposal + soft confirmation.\n\nOriginal examples with concise Japanese:\n• Let's explore the old tower. 「古い塔を探検しよう」\n• Shall we take the river path? 「川沿いの道にしませんか」\n• Let's stop for lunch, shall we? 「昼食にしよう、どう？」\n\nSecond mechanism panel: SHALL's firm single path becomes SHOULD's softer recommended path. Show two main meanings:\n• You should back up your files. 「バックアップした方がいい」 advice\n• The parcel should arrive tomorrow. 「荷物は明日届くはず」 expectation\nClarify formula: should + base verb; no -s after should.\n\nMini practice: 「相手の判断を尊重して『休憩しませんか』と言うなら？ A Let's rest. / B Shall we take a break?」 Answer B; reason 「疑問形で共有の選択をたずねる」.\n\nTakeaway: 「shall は道をたずね、should は勧められる道を示す」. Use two-path diagram, five examples, problem+answer, dense but clean layout.\n"
+}

@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0132",
+  "number": 132,
+  "title": "完了・未完・いつでも",
+  "chapter": {
+    "id": "modifiers",
+    "title": "情報を足す"
+  },
+  "unitId": "grammar-adverbs",
+  "pageType": "説明",
+  "image": "pages/PAGE_0132.webp",
+  "promptSource": "source-prompts/PAGE_0132.txt",
+  "promptSha256": "9c2e831a78e92ca411873c19bd91564a5a73f6509fa24d16d49261991645462e",
+  "prompt": "Use case: scientific-educational; dense 9:16 portrait grammar page. Independently teach already, yet, and ever from source p.276–277 without copying wording, examples, metaphors, figures, or layout.\nInput references: same mascot appearance and PAGE_0001 design system.\nTop title: 「完了・未完・いつでも」\nCentral illustration: leopard explorer as a checkpoint keeper. ALREADY closes a completed golden gate, YET leaves a blue gate open for what may follow, EVER opens a starry timeline where any point can be selected.\nMechanism: 「already＝予想より早く／もう完了」「yet＝今までには？・まだ未完」「ever＝どの時点でも」. Position strip: “have already + 過去分詞 / 疑問・否定の文末 yet / ever before 過去分詞”. Add extension chips 「and yet＝それでも」「hardly ever＝めったにない」「ever since＝それ以来ずっと」.\nOriginal examples:\n1. “The guests have already arrived.” / 「もう到着済み」\n2. “Have you checked the attic yet?” / 「今までに終わった？」\n3. “The answer hasn’t appeared yet.” / 「まだ現れていない」\n4. “Have you ever slept in a tree house?” / 「人生のどの時点でもよい」\nMini problem: 「ミニ問題：“まだ終わっていない”」 “We haven’t finished (already / yet).” 「答え：yet」 「未完の状態がこの先へ続く。」\nBottom ribbon: 「時間の点より、完了したかを感じ取る」\nStyle: bright adventure-library checkpoint hall, blue/yellow/white, gold completed gate, red only for completion status, thick outlines, accurate readable type.\nConstraints: no page number, copied source content, source identity, logo, citation, watermark, answer field, extra filler, or photorealism. One mascot in checkpoint pose.\n"
+}

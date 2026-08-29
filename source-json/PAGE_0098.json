@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0098",
+  "number": 98,
+  "title": "所有より広い、“強いつながり”",
+  "chapter": {
+    "id": "nouns",
+    "title": "名詞の世界"
+  },
+  "unitId": "grammar-pronouns",
+  "pageType": "説明",
+  "image": "pages/PAGE_0098.webp",
+  "promptSource": "source-prompts/PAGE_0098.txt",
+  "promptSha256": "8db816a412a549e58e265ce30b546a853d6343110a23a343a8c47ca59cfef281",
+  "prompt": "Use case: scientific-educational; dense 9:16 portrait grammar page. Independently teach the broad “strong relationship” meaning of possessives, the English body-part pattern, and object case as the form that points to a target. Source p.208–209 is topic coverage only.\nInput references: mascot appearance and PAGE_0001 visual reference.\nTop title: 「所有より広い、“強いつながり”」\nCentral illustration: leopard explorer as a relationship cartographer draws glowing bonds from people and things to events, roles, and body parts. A second pointer hand marks object-pronoun targets.\nMechanism: possessive network 「所有」「本人がする出来事」「関係する活動・役割」. Body-part route 「動詞 + 人（目的格）+ 前置詞 + the + 部位」 with nonviolent example. Object-case routes 「動詞の後ろ」「前置詞の後ろ」「短い返答で自分を指す」.\nOriginal examples:\n1. “The museum’s reopening drew a crowd.” / 「博物館が再開した出来事」\n2. “Our children’s safety comes first.” / 「子どもに強く関係する安全」\n3. “The nurse tapped him on the shoulder.” / 「まずhim、次に部位をtheで指定」\n4. “Who wants the last cookie? — Me!” / 「自分を指す短い返答」\nMini problem: 「ミニ問題：正しい形は？」 “Mia traveled with (they / them).” 「答え：them」 「前置詞withの後ろは目的格。」\nBottom ribbon: 「つながりは所有格、矢印の先は目的格」\nStyle: bright adventure-library relationship map room, glossy bonds and pointer arrows, blue/yellow/white, limited red target cue, thick outlines.\nConstraints: no page number, copied source scenarios/examples/diagram/text/layout, source marks, logo, citation, watermark, blank answer area, violent action, or photorealism. One mascot in cartographer pose.\n"
+}

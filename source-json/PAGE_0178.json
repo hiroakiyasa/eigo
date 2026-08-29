@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0178",
+  "number": 178,
+  "title": "used to と would の過去習慣",
+  "chapter": {
+    "id": "comparison",
+    "title": "比べる・否定する・気持ちを添える"
+  },
+  "unitId": "grammar-modals-2",
+  "pageType": "英文",
+  "image": "pages/PAGE_0178.webp",
+  "promptSource": "source-prompts/PAGE_0178.txt",
+  "promptSha256": "c5b74c395f7679f93233d1a8a11b70db57c9a7f4353a88abb08f3ae6db89874e",
+  "prompt": "Create a polished, content-rich educational English grammar page in portrait 9:16, matching the supplied cover's energetic blue-and-gold style. Same leopard explorer mascot, comparing an old sepia camp with today's colorful camp and replaying a memory film. No page number, source name, watermark, or logo.\n\nTop Japanese title: 「used to と would の過去習慣」\n\nCentral illustration: a clear NOW/THEN contrast bridge. USED TO + base verb describes a past habit or state with an implied contrast: now it is different. WOULD + base verb recalls repeated past actions, often within a story; it normally does not describe a past state by itself.\n\nOriginal examples with Japanese:\n• I used to live beside the sea. 「以前は海辺に住んでいた（今は違う）」\n• There used to be a bakery here. 「以前ここにパン屋があった」\n• Every summer, we would sleep under the stars. 「夏になるとよく星空の下で寝た」\n• My grandfather would hum while he cooked. 「料理中いつも鼻歌を歌った」\n\nShow contrast table:\npast state: used to ✓ / would usually ✗\nrepeated past action: both possible, but would needs a past-time context and feels like recollection.\n\nForm strip: Did you use to...? / didn't use to...; pronunciation note “used to” often sounds like /juːstə/.\n\nMini practice: choose used to/would: “There ___ be a pond behind this school.” Answer: used to. Reason: 「過去の状態＋現在との対比」.\n\nTakeaway: 「used to は昔と今の対比、would は思い出の反復動作」. Include timeline, memory frames, examples, question+answer.\n"
+}

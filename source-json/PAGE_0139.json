@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0139",
+  "number": 139,
+  "title": "as...asに程度を足す",
+  "chapter": {
+    "id": "comparison",
+    "title": "比べる・否定する・気持ちを添える"
+  },
+  "unitId": "grammar-comparatives",
+  "pageType": "説明",
+  "image": "pages/PAGE_0139.webp",
+  "promptSource": "source-prompts/PAGE_0139.txt",
+  "promptSha256": "f344c3ba9cc85d49f6663d8c4bb5e03ee36276ea6e99d7c1fc905c5359240697",
+  "prompt": "Use case: scientific-educational; dense 9:16 portrait comparison page. Independently teach as...as with pronouns, negative comparison, degree limiters and multipliers, and expanded focus. Source p.286–289 is coverage only; do not reproduce source sentences, table, sequence, or graphics.\nInput references: mascot identity and PAGE_0001 design.\nTop title: 「as...asに程度を足す」\nCentral illustration: leopard explorer as a balance technician. Two AS towers hold a comparison beam; movable chips attach before the first AS: not, almost, just, half, twice. A focus capsule between the towers can expand from one adjective to a phrase.\nMechanism: base 「as + 比較の焦点 + as + 比較対象」. Add 「会話で代名詞だけなら目的格が自然：as fast as me」「not as...as＝同じレベルに届かない」「almost / just / half / twice は最初のasの前」「焦点は as many books / as good at drawing のように広げられる」.\nOriginal examples:\n1. “Kai is as patient as her.” / 「会話では目的格her」\n2. “This bag isn’t as heavy as mine.” / 「同じ重さまで届かない」\n3. “The new hall is almost twice as wide as the old one.” / 「ほぼ2倍の幅」\n4. “I have as many stamps as Yuna.” / 「名詞を含む焦点」\nMini problem: 「ミニ問題：半分ほど高くない」 “not ___ as expensive as” 「答え：half」 「限定語halfは最初のasの前。」\nBottom ribbon: 「焦点の前に程度を置くと、比較が細かくなる」\nStyle: glossy adventure-library balance lab, blue/gold/white, red degree chips, thick outlines, precise readable diagrams.\nConstraints: no page number, copied source wording/examples/figures/layout, source identity, logo, citation, watermark, blank answer area, or photorealism. One mascot in balance-technician pose.\n"
+}

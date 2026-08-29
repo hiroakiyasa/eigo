@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0197",
+  "number": 197,
+  "title": "方向・通過・下を描く",
+  "chapter": {
+    "id": "prepositions",
+    "title": "位置関係を描く"
+  },
+  "unitId": "grammar-prepositions-2",
+  "pageType": "説明",
+  "image": "pages/PAGE_0197.webp",
+  "promptSource": "source-prompts/PAGE_0197.txt",
+  "promptSha256": "c15db5c64a3ada2f0b3e4b742a58edc82f8ec9d9ca9ab76ef0a973fb4de7d512",
+  "prompt": "Use case: scientific-educational\nAsset type: dense illustrated English preposition book page, portrait 9:16\nPrimary request: Independently contrast TOWARD(S), THROUGH, and UNDER: direction, tunnel passage, duration from start to finish, completion, below/covered, influence, and unfinished processes. Rebuild pages 406–407 without copying source text or diagrams.\nInput images: PAGE_0001 visual style reference; mascot_reference exact leopard explorer.\nCanvas: exact 941×1672, strict portrait 9:16, safe margins, no page number.\nTop Japanese title: 「方向・通過・下を描く」\nCentral illustration: the mascot explores a cutaway map: an arrow points TOWARD a lighthouse, a tunnel runs THROUGH a mountain, and a workshop UNDER a canopy shows a machine under repair.\nMechanism diagram: 「TOWARD＝方向だけ」; 「THROUGH＝入口→内部→出口」 branching to 手段・期間全体・完了/経験; 「UNDER＝下に覆われる」 branching to 数値未満・監督/影響下・未完成. Small comparison: underneath＝隠れる、below＝低さ、beneath＝硬い表現.\nOriginal example cards:\n1. “Leo walked toward the lighthouse.” / 「到着でなく方向を示す」\n2. “Sunlight came through the window.” / 「窓の内部を通り抜ける」\n3. “We worked through the night.” / 「夜の始めから終わりまで」\n4. “The bridge is under repair.” / 「修理の途中で未完成」\nMini practice: 「The train passed ___ the tunnel.」 Answer: 「through」. Reason: 「入口から内部を通って出口へ抜けるから。」\nBottom takeaway: 「向きはtoward、貫通はthrough、覆う下はunder」\nStyle: glossy blue-gold-white-red adventure cutaway landscape, strong directional arrows, thick outlines, dense but legible panels, mascot once in a crouching explorer pose.\nTypography: accurate English and concise Japanese.\nConstraints: no page number, source quotations/examples/figures, source identity, logo, citation, watermark, or extra quiz.\nAvoid: medical imagery, tiny synonym chart, visually merged paths.\n"
+}

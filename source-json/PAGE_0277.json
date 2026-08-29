@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0277",
+  "number": 277,
+  "title": "進行形の不満から現在完了へ",
+  "chapter": {
+    "id": "time",
+    "title": "時間を旅する"
+  },
+  "unitId": "grammar-present-perfect",
+  "pageType": "説明",
+  "image": "pages/PAGE_0277.webp",
+  "promptSource": "source-prompts/PAGE_0277.txt",
+  "promptSha256": "258c929c973ae51fec545444302e47fdf4f4725e34f497ffbfaca27067d585c9",
+  "prompt": "Create a polished content-rich English grammar page in portrait 9:16, matching the supplied cover's energetic blue, gold, white, and red style. Same leopard mascot trapped in an ALWAYS repetition loop, then pulling a HAVE arrow from past to now. No page number, source identity, watermark, or logo.\n\nTop Japanese title: 「進行形の不満から現在完了へ」\n\nTop mechanism: always/constantly/forever + progressive can express repeated behavior colored by irritation, surprise, or affection—not neutral frequency alone.\n• Kai is always leaving cups on my desk. 「いつも置きっぱなし！」\n• You're constantly changing the plan. 「また変えている」\n\nBottom mechanism introduces present perfect: have/has + past participle brings a past event/state into the speaker's present perspective.\n• I've completed the first draft. 「今、完成済み」\n• She has broken her glasses. 「今困る結果がある」\n\nShow form control: have/has moves before the subject in questions and takes not in negatives: Have you finished? / I haven't finished.\n\nMini practice: make a question from “Mina has packed the bags.” Answer: “Has Mina packed the bags?” Reason: 「have/hasが時を担う助動詞」.\n\nTakeaway: 「進行形は感情を映し、完了形は過去を今へ引き寄せる」.\n"
+}

@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0046",
+  "number": 46,
+  "title": "伝言は今、命令はまっすぐ",
+  "chapter": {
+    "id": "framework",
+    "title": "文の骨組み"
+  },
+  "unitId": "grammar-prepositions-1",
+  "pageType": "説明",
+  "image": "pages/PAGE_0046.webp",
+  "promptSource": "source-prompts/PAGE_0046.txt",
+  "promptSha256": "8baa8224484b40345076c83a1bd0c6d49431517dcb06e47aeaf95510111aaf4a",
+  "prompt": "Use case: scientific-educational. Asset: dense 9:16 portrait grammar page.\nTopic source: p.104–105, concepts only; independently reconstruct both communication-present and imperative force.\nTop title: 「伝言は今、命令はまっすぐ」\nScene: adventure-library communication tower. Leopard explorer receives a live message screen on one side and sends a direct command beam on the other.\nMechanism A: present reporting verbs can mean current information: 「Mia says the bridge is open.」 「I hear the library closes early.」 Japanese note: focus is what is currently understood.\nMechanism B: imperative begins with base verb and directly hits listener: 「Watch the step.」 「Be careful.」 Japanese note: no subject, strong direct force; friendly advice is possible when beneficial.\nMini check: soften/direct meaning: 「___ the map carefully.」 Answer 「Check — 動詞原形で始める命令文」.\nTakeaway: 「形の強さと、場面の目的を一緒に考える」\nApproved dense style, no page number, source identity, copied examples, logo, watermark.\n\n"
+}

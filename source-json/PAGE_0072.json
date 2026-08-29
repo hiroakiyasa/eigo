@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0072",
+  "number": 72,
+  "title": "集団は、ひとつ？メンバー？",
+  "chapter": {
+    "id": "nouns",
+    "title": "名詞の世界"
+  },
+  "unitId": "grammar-nouns",
+  "pageType": "説明",
+  "image": "pages/PAGE_0072.webp",
+  "promptSource": "source-prompts/PAGE_0072.txt",
+  "promptSha256": "75ea3b7329d0d9a7704e9477f53a8596e65514ccf6581e3444bc3539b10b519b",
+  "prompt": "Use case: scientific-educational; dense 9:16 portrait grammar page. Source p.156–157 is conceptual coverage only; create a fully original lesson.\nInput references: mascot appearance reference and PAGE_0001 design reference.\nTop title: 「集団は、ひとつ？メンバー？」\nCentral illustration: leopard explorer as a camera operator switches between a wide lens showing one glowing orchestra circle and a zoom lens showing many individual musicians. A grammar meter changes singular ↔ plural according to viewpoint.\nMechanism: 「集団を1単位で見る → 単数動詞」「中の人々を見る → 複数動詞（特に英式英語）」「米式英語は集団名詞を単数にする傾向」. Add two special badges: 「police＝常に複数扱い」「1人なら a police officer」 and 「staff＝職員全体／1人なら a staff member」.\nOriginal examples:\n1. “The orchestra is famous.” / 「楽団を1組として見る」\n2. “The orchestra are tuning their instruments.” / 「各メンバーを見る英式表現」\n3. “The police are checking the bridge.” / 「police は複数動詞」\n4. “Our staff is small but efficient.” / 「職員組織を1単位として見る」\nMini practice: 「ミニ問題：正しいのは？」 “The police (is / are) nearby.” 「答え：are」 「police は警察官たちの集団を表す。」\nBottom ribbon: 「形だけでなく、話し手の見方が一致を決める」\nStyle: glossy adventure-library film studio, blue/yellow/white, thick outlines, clear lens diagram, limited red emphasis, exact readable text.\nConstraints: no page number, source marks, copied examples/figure/prose/layout, logo, citation, watermark, blank response area, stereotype imagery, or photorealism. One mascot in camera pose.\n"
+}

@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0152",
+  "number": 152,
+  "title": "頂点の先は、“ちがう”を伝える力",
+  "chapter": {
+    "id": "comparison",
+    "title": "比べる・否定する・気持ちを添える"
+  },
+  "unitId": "grammar-advanced",
+  "pageType": "説明",
+  "image": "pages/PAGE_0152.webp",
+  "promptSource": "source-prompts/PAGE_0152.txt",
+  "promptSha256": "eb6a56631bde0ecde205e6b92e6518f71fbad42cc1e1d02e590f14a3e5c4ba7f",
+  "prompt": "Use case: scientific-educational\nAsset type: dense portrait transition-and-intuition page for an illustrated English grammar book\nPrimary request: Create an original bridge from comparison to negation: review how “even the best” can make a concession, then introduce not as a front-position limiter that turns the following content off. Source pages 316–317 are chapter-transition imagery only; do not imitate them.\nInput images: mascot identity reference only; PAGE_0001 style reference only.\nCanvas: strict 9:16 portrait, full-bleed, no page number.\nTop title (verbatim): 「頂点の先は、“ちがう”を伝える力」\nCentral illustration: the leopard explorer in a gate-switch pose descends from a superlative summit into a bright logic library, flipping a glowing NOT switch before a sentence rail.\nMechanism diagram: upper route “Even the strongest bridge can shake.＝最も強くても例外はある”; lower route “NOT → 後ろの内容を0に近づける”. Three target blocks: “not ready / not here / not for children”.\nOriginal example cards:\n1. “Even the kindest person gets angry.” / 「最高レベルでも例外はある」\n2. “The boat is not ready.” / 「readyを打ち消す」\n3. “Not today.” / 「todayを打ち消す」\n4. “This path is not for beginners.” / 「for beginnersを否定」\nMini practice: 「ミニ問題　何を否定？」 “The key is not in the box.”\nAnswer: 「答え　in the box」 「notは直後の場所説明を打ち消す。」\nBottom ribbon: 「notは、消したい内容のすぐ前に置く」\nStyle: PAGE_0001 blue-gold-white adventure-library transition gate, glossy blocks, gold route, bold outlines, red only for NOT switch, one mascot.\nConstraints: independently authored page; no source wording, chapter-door artwork, copied layout, citation, identity, logo, ISBN, watermark, page number, or extra prose; avoid photorealism and tiny type.\n"
+}

@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0122",
+  "number": 122,
+  "title": "副詞を重ねる基本ルート",
+  "chapter": {
+    "id": "modifiers",
+    "title": "情報を足す"
+  },
+  "unitId": "grammar-adverbs",
+  "pageType": "説明",
+  "image": "pages/PAGE_0122.webp",
+  "promptSource": "source-prompts/PAGE_0122.txt",
+  "promptSha256": "2e14f873db8e3b4777cf7b961a5be4a16e44b96802c82552ced65c61f3cc9899",
+  "prompt": "Create a polished information-dense educational book page in portrait 9:16, matching the supplied cover's vivid blue, gold, white, and red visual language. Reuse the supplied leopard explorer mascot, now stacking colorful travel crates. No page number, footer number, source name, watermark, or logo.\n\nTop Japanese title: 「副詞を重ねる基本ルート」\n\nCentral mechanism illustration: the leopard stacks three crates in sentence order 「様子 HOW」→「場所 WHERE」→「時 WHEN」, with a second telescope diagram showing 「狭い情報 → 広い情報」. Explain that several adverbs normally proceed from the action's immediate manner to wider setting.\n\nOriginal examples with Japanese explanations:\n• Mia spoke clearly in class yesterday. 「様子→場所→時」\n• The dog slept peacefully by the door all night. 「動作に近い情報から置く」\n• We met at the station after lunch. 「場所→時」\n\nAdd a word-formation lab panel: adjective + -ly → adverb: slow→slowly, careful→carefully, happy→happily. Clearly mark exceptions: friendly / lovely are adjectives; early and fast can be adjective or adverb. Contrast with gauges:\n• work hard = 一生懸命働く\n• hardly work = ほとんど働かない\n\nMini practice: 「正しい語順は？ A: Leo practiced yesterday hard at home. B: Leo practiced hard at home yesterday.」 Show answer B and reason 「様子→場所→時」.\n\nTakeaway ribbon: 「近い説明から、外側の情景へ」. Make the rule diagram prominent, include 3 example strips, exception badges, and problem+answer; crisp readable type.\n"
+}

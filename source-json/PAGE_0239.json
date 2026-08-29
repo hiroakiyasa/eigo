@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0239",
+  "number": 239,
+  "title": "受動文のあとをtoで補う",
+  "chapter": {
+    "id": "verb-parts",
+    "title": "動きを部品にする"
+  },
+  "unitId": "grammar-passive",
+  "pageType": "説明",
+  "image": "pages/PAGE_0239.webp",
+  "promptSource": "source-prompts/PAGE_0239.txt",
+  "promptSha256": "22c936aa406f5aa2595c451ecde2106d9146b0c593bbe18001bc82f25a3adb40",
+  "prompt": "Use case: scientific-educational; dense 9:16 portrait grammar page. Teach passive object-complement forms with TO, asked/told to, and thought/said/reported to, based on p.490–491.\nInput references: PAGE_0001 design and mascot identity.\nTop title: 「受動文のあとをtoで補う」\nCentral illustration: mascot as a sentence medic repairs incomplete passive clauses. Cards “was made”, “was asked”, “is believed”, “is reported” receive TO + action/state extensions.\nMechanism: 「make + 人 + 原形→人 + be made + to原形」「ask/tell + 人 + to→人 + be asked/told + to」「thought/said/reported + to＝一般情報を人物中心で述べる」「wantはこの受動型にしない」.\nOriginal examples: “The campers were told to stay near the trail.” / 「道の近くにいるよう言われた」; “I was asked to introduce the speaker.” / 「講演者の紹介を頼まれた」; “The actor is believed to live abroad.” / 「海外在住だと思われている」; “The missing boat is reported to be safe.” / 「無事だと報じられている」.\nMini problem: 「ミニ問題：makeの受動」 “The coach made us run. → We were made ___ run.” Answer 「to」. Reason 「能動では原形でも、受動のbe madeの後はto不定詞。」\nBottom ribbon: 「“何をされた？”の不足をtoが後ろから満たす」\nStyle: glossy adventure-library sentence clinic, blue/gold/white/red repair tools, thick outlines, dense readable examples.\nConstraints: exact 9:16; no page number, copied source wording/examples/figures/layout, logo, citation, watermark, blank answer field, or photorealism. One mascot medic.\n"
+}

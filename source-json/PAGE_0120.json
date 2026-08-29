@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0120",
+  "number": 120,
+  "title": "いつ？ どこで？ は文末へ",
+  "chapter": {
+    "id": "modifiers",
+    "title": "情報を足す"
+  },
+  "unitId": "grammar-adverbs",
+  "pageType": "説明",
+  "image": "pages/PAGE_0120.webp",
+  "promptSource": "source-prompts/PAGE_0120.txt",
+  "promptSha256": "b7570e44b10697b3f6739b5a886cc578ba5b29998f5e614012d83f4a6fdb6324",
+  "prompt": "Use case: scientific-educational\nAsset type: dense portrait mechanism-and-reference page for an illustrated English grammar book\nPrimary request: Teach that time and place adverbials normally explain an event from the end of the clause, while also presenting a compact original calendar vocabulary map and noting that “next Saturday” can be ambiguous. Source pages 252–253 guide coverage only; do not reuse source examples, chart, or arrangement.\nInput images: mascot identity reference only; PAGE_0001 approved visual style only.\nCanvas: strict 9:16 portrait, full-bleed, dense, no page number.\nTop title (verbatim): 「いつ？ どこで？ は文末へ」\nCentral illustration: the leopard explorer in a calendar-navigator pose drives a sentence train through a bright adventure library; after the action car, clock and map-pin cars click onto the rear.\nMechanism diagram: “S + V (+ O) → 場所 → 時” with note 「できごとの舞台と時刻を後ろから説明」. Compact calendar compass: “yesterday / today / tomorrow”, “last week / this week / next week”, “the day before yesterday / the day after tomorrow”. Clarification badge: “Do you mean this coming Saturday?”\nOriginal example cards:\n1. “We met at the north gate yesterday.” / 「場所→時の順で追加」\n2. “The owls gather here at dusk.” / 「hereで場所、at duskで時」\n3. “I’ll call you the day after tomorrow.” / 「あさって」\n4. “Our course begins next month.” / 「来月」\nMini practice: 「ミニ問題　並べ替え」 “last night / studied / Leo / in the library”\nAnswer: 「答え　Leo studied in the library last night.」 「出来事の後ろに場所、さらに時を置く。」\nBottom ribbon: 「文を言い切ってから、舞台と時を足す」\nStyle: PAGE_0001 blue-yellow-white adventure-library railway, gold tracks, dimensional calendar and map blocks, crisp thick outlines, red only for place→time order, one mascot, large readable text.\nConstraints: all specified content once; no source wording/examples/figures/chart/layout/order, source title, citation, logo, ISBN, watermark, page number, or extra prose; no photorealism, dark background, sparse poster, or tiny text.\n"
+}

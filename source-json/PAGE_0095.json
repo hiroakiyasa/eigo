@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0095",
+  "number": 95,
+  "title": "特定の中から選び、代名詞で受ける",
+  "chapter": {
+    "id": "nouns",
+    "title": "名詞の世界"
+  },
+  "unitId": "grammar-pronouns",
+  "pageType": "説明",
+  "image": "pages/PAGE_0095.webp",
+  "promptSource": "source-prompts/PAGE_0095.txt",
+  "promptSha256": "ec14d38a9e0f3cc845202e9d68fbb1dc5f3d076bac1b37da4042b07b0c3f81f5",
+  "prompt": "Use case: scientific-educational; dense 9:16 portrait grammar transition page. Independently teach “X of a specific group” from source p.202, then introduce pronouns as words that receive an already known noun or situation from p.203.\nInput references: mascot appearance and PAGE_0001 design.\nTop title: 「特定の中から選び、代名詞で受ける」\nCentral illustration: leopard explorer as a selection curator uses a ring to select items from a clearly framed group, then passes the chosen referent into a pronoun relay baton.\nMechanism panel A: 「X of + the / these / my / us / them など」→「境界が見える集団の中のX」; contrast 「most paintings＝絵一般の大半 / most of these paintings＝この絵の大半」. Panel B: 「名詞を出す → he / she / it / they で受ける → 話を続ける」 with singular/plural and person/thing icons.\nOriginal examples:\n1. “Some of these keys are rusty.” / 「この鍵という特定集合の一部」\n2. “None of us knew the code.” / 「私たちの中の0人」\n3. “I met Yuna. She showed me the archive.” / 「Yunaをsheで受ける」\n4. “The lamps flickered, but they stayed on.” / 「複数の物もthey」\nMini problem: 「ミニ問題：自然なのは？」 “most of books / most books” 「答え：most books」 「一般の本ならofを使わず、裸の複数形へ。」\nBottom ribbon: 「範囲を決めて選び、短い語で話をつなぐ」\nStyle: PAGE_0001 adventure-library selection gallery, glossy group frames and relay track, blue/yellow/white, small red boundary cue, thick outlines.\nConstraints: no page number, copied source examples/figures/text/layout, source identity, logo, citation, watermark, blank answer area, or photorealism. One mascot in curator-relay pose.\n"
+}

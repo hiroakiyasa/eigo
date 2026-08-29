@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0173",
+  "number": 173,
+  "title": "もし万一なら should",
+  "chapter": {
+    "id": "comparison",
+    "title": "比べる・否定する・気持ちを添える"
+  },
+  "unitId": "grammar-modals-2",
+  "pageType": "説明",
+  "image": "pages/PAGE_0173.webp",
+  "promptSource": "source-prompts/PAGE_0173.txt",
+  "promptSha256": "128c0859c492df7ac7ba3f438506920dd434c498a2f25117d54eaaaff5d4e930",
+  "prompt": "Create a polished information-dense educational book page in portrait 9:16, matching the supplied cover's vivid explorer aesthetic. Same leopard mascot at a low-probability weather gate and a polite hotel desk. No page number, source identity, watermark, or logo.\n\nTop Japanese title: 「もし万一なら should」\n\nCentral illustration: a faint side path labelled “unlikely but possible” leading to an emergency plan. Teach conditional should as a remote/less expected possibility and sometimes a polite, considerate tone.\n\nOriginal examples and Japanese:\n• If the engine should stop, press this button. 「万一エンジンが止まったら」\n• If you should need more towels, call reception. 「もし必要になるようでしたら」 polite\n• Should the weather worsen, the ferry will return. 「万一天候が悪化したら」 inversion\n\nShow transformation diagram:\nIf + subject + should + verb → Should + subject + verb,\nwith no “if” in the inverted form. Note that this is formal/polite and not required in ordinary conversation.\n\nSecond comparison gauge: must = strong pressure; should = softer guidance. Example:\n• Passengers must show ID. 「規則上必須」\n• You should be at the gate by nine. 「強い必要をやわらかく案内」\n\nMini practice: rewrite “If you should have questions, email us.” formally without if. Answer: “Should you have questions, email us.” Reason: 「should を主語の前へ出す倒置」.\n\nTakeaway: 「条件の should は、低い可能性と配慮を添える」. Dense diagram, contrast panel, examples, problem+answer.\n"
+}

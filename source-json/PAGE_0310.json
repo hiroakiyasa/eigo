@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0310",
+  "number": 310,
+  "title": "理由の後ろが文か名詞か",
+  "chapter": {
+    "id": "flow",
+    "title": "文をつなぎ、会話を伝える"
+  },
+  "unitId": "grammar-conditionals",
+  "pageType": "説明",
+  "image": "pages/PAGE_0310.webp",
+  "promptSource": "source-prompts/PAGE_0310.txt",
+  "promptSha256": "fa2a41e25d4a0001f52734ed794a0ba9739b19eafb079a81b109a456686294ce",
+  "prompt": "Create a polished information-dense English grammar page in portrait 9:16, matching the supplied cover's blue-and-gold explorer design. Same leopard mascot sorting clause cards and noun cards into reason connectors. No page number, source name, watermark, or logo.\n\nTop Japanese title: 「理由の後ろが文か名詞か」\n\nCentral sorter:\nbecause + subject + verb clause;\nbecause of + noun/-ing phrase;\ndue to / owing to = formal causal phrase;\nthanks to = beneficial cause, sometimes ironic;\non account of = detailed/problematic cause.\n\nOriginal examples:\n• The flight was delayed because the fog was thick. 「文」\n• The flight was delayed because of thick fog. 「名詞句」\n• The event was canceled due to a power failure. 「公的な原因説明」\n• Thanks to your directions, we arrived on time. 「好ましい原因」\n• The road closed on account of flooding. 「問題の原因」\n\nShow conversion arrow: because the road was icy ↔ because of the icy road. Note due to style can vary, but phrase after it is noun-like.\n\nMini practice: correct “because of the road was icy.” Answer: “because the road was icy” or “because of the icy road.” Reason: 「because ofの後ろは名詞句」.\n\nTakeaway: 「後ろが文ならbecause、名詞ならbecause of系」.\n"
+}

@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0265",
+  "number": 265,
+  "title": "Should倒置と感嘆文の作り方",
+  "chapter": {
+    "id": "questions",
+    "title": "たずねる・目立たせる"
+  },
+  "unitId": "grammar-advanced",
+  "pageType": "説明",
+  "image": "pages/PAGE_0265.webp",
+  "promptSource": "source-prompts/PAGE_0265.txt",
+  "promptSha256": "a4c34dd3a6f4f227834dc86996586c1d4074a5ad72128c7688be0228d1c1d0dd",
+  "prompt": "Create a polished, content-rich educational English grammar infographic in portrait 9:16, matching the supplied cover's vivid blue, gold, white, and red explorer-book design. Use the exact same leopard explorer mascot politely opening a low-probability SHOULD gate and then presenting an astonishment trophy. No page number, source name, watermark, logo, copied example, or copied diagram.\n\nTop Japanese title: 「Should倒置と感嘆文の作り方」\n\nUpper half: conditional SHOULD inversion. Central transformation:\nIf + subject + should + verb → Should + subject + verb\n• If you should need a guide, call this number. → Should you need a guide, call this number. 「万一案内人が必要なら」\n• Should there be any delay, we will send an update. 「万一遅れがあれば」\nExplain two shades with icons: courteous distance 「丁寧」 and low likelihood 「可能性が低い」. Add note: no IF because the unusual opening already signals a condition.\n\nAdd a small spoken-condition strip showing that context can create a condition even without if:\n• Touch that switch again, the alarm will sound. 「もう一度触れたら」\nCaption: 「条件はifという単語だけで作るのではない」.\n\nLower half: exclamation construction as fronting the emotional focus.\nNoun focus → WHAT + (a/an) + adjective + noun + subject + verb!\n• What a brilliant idea you had! 「なんて見事なアイデア！」\nAdjective/adverb focus → HOW + adjective/adverb + subject + verb!\n• How brightly the stars shine! 「星がなんて明るく輝くんだ！」\nShow the original positions with arrows: “you had a brilliant idea” and “the stars shine brightly”; the emotional part moves to the front.\n\nMini practice: 「“その塔はなんて高いんだ！” ___ tall the tower is!」 Answer: 「How」. Reason: 「感動の焦点が形容詞tallなのでHow」.\n\nBottom takeaway ribbon: 「Shouldは控えめな条件／WhatとHowは感動の焦点を先頭へ」. Dense, precise, readable.\n"
+}

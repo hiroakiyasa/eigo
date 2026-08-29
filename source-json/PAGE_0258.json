@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0258",
+  "number": 258,
+  "title": "時・場所・方法・理由を聞く",
+  "chapter": {
+    "id": "questions",
+    "title": "たずねる・目立たせる"
+  },
+  "unitId": "grammar-questions",
+  "pageType": "説明",
+  "image": "pages/PAGE_0258.webp",
+  "promptSource": "source-prompts/PAGE_0258.txt",
+  "promptSha256": "bc9303970cc8ee8d85eb0bd880ca63be1455154ec730aac12f21d395a70e69e9",
+  "prompt": "Use case: scientific-educational\nAsset type: dense illustrated English WH-question use page, portrait 9:16\nPrimary request: Independently teach WH-question intonation, asking time/place/method/reason, and making a gap after a preposition. Contrast normal conversational stranded prepositions with formal fronted prepositions. Rebuild pages 528–529 without copying source sentences or diagrams.\nInput images: PAGE_0001 approved style; mascot_reference exact leopard explorer.\nCanvas: exact 941×1672, strict portrait 9:16, full bleed, safe margins, no page number.\nTop Japanese title: 「時・場所・方法・理由を聞く」\nCentral illustration: the mascot uses four compass dials WHEN, WHERE, HOW, WHY, while a preposition rope can remain at the sentence end or be formally pulled to the front.\nMechanism diagram: normal WH question usually falling intonation; surprised echo rises. Four gap types: 時・場所・方法・理由. Preposition route A conversational “Who … with?”; route B formal “With whom …?”. Note whom mainly after a fronted preposition in formal style.\nOriginal example cards:\n1. “When does the museum close?” / 「時を尋ねる」\n2. “How did you cross the river?” / 「方法を尋ねる」\n3. “Who are you traveling with?” / 「前置詞の目的語が穴」\n4. “By what time must we return?” / 「前置詞を前へ出す硬い形」\nMini practice: 「自然な会話：Who did you send it ___?」 Answer: “to”. Reason: 「会話では前置詞を文末に残す形が自然。」\nBottom takeaway: 「修飾情報も前置詞の後ろも、自由に穴にできる」\nStyle: glossy adventure compass observatory, blue-gold-white-red, four dials and movable rope, thick outlines, dense scan-friendly cards, mascot once as a compass navigator.\nTypography: accurate English and readable Japanese Gothic.\nConstraints: no page number, source wording/example/layout, source identity, logo, citation, watermark, or additional quiz.\nAvoid: teaching whom as everyday default, tiny intonation arrows, dark scene.\n"
+}

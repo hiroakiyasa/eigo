@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0261",
+  "number": 261,
+  "title": "聞き返しはWH語でピンポイント",
+  "chapter": {
+    "id": "questions",
+    "title": "たずねる・目立たせる"
+  },
+  "unitId": "grammar-advanced",
+  "pageType": "説明",
+  "image": "pages/PAGE_0261.webp",
+  "promptSource": "source-prompts/PAGE_0261.txt",
+  "promptSha256": "ddfe113e557cd6e012518f3e5526c56c7a97827c56d27d88cf11e8280aac4237",
+  "prompt": "Create a polished, information-dense educational English grammar infographic in portrait 9:16. Match the supplied cover's vivid blue, gold, white, and red explorer aesthetic: rounded gold frame, deep-blue panels, white cards, red highlights, crisp textbook typography. Use the exact same cute leopard explorer mascot listening through an ear trumpet, replacing missed information with glowing WH tiles, and making a polite request. No page number, source name, watermark, logo, copied illustration, copied sentence, or copied layout.\n\nTop Japanese title: 「聞き返しはWH語でピンポイント」\n\nUpper central mechanism: a complete statement ribbon, one unheard part dissolves, and the correct WH tile replaces only that part. Caption: 「聞き取れなかった場所をwh語に替え、残りはそのまま返す」.\n\nOriginal echo-question set:\n• “Mika moved to Reykjavík.” → “Mika moved where?” 「どこへ移ったって？」\n• “I ordered a ukulele.” → “You ordered what?” 「何を注文したって？」\n• “The hike took eleven hours.” → “It took how long?” 「何時間かかったって？」\n• “Riku lent the drone to Sam.” → “Who lent what to whom?” 「誰が何を誰に貸したって？」\n\nAdd a small “complex WH” x-ray diagram: find the missing slot inside the intended sentence pattern, then move that WH phrase to the question focus.\n• What time would you like us to arrive? 「arriveする時刻を尋ねる」\n• Which island would you choose to explore? 「exploreする島を尋ねる」\n\nLower contrast card: question form can express a request, not a factual question.\n• Can you hold this ladder for me? 「能力確認ではなく依頼」\n• Will you text me when you arrive? 「意志調査ではなく依頼」\nRecommended responses: “Sure.” / “Of course.”, not merely “Yes, I can.”\n\nMini practice: 「“I’ve lived here for nine years.” の nine years を聞き返す」 Answer: 「You’ve lived here for how long?」 Reason: 「聞き漏らした期間だけをhow longに置き換える」.\n\nBottom takeaway ribbon: 「文の型を保ち、抜けた場所だけWH語にする」. Dense but orderly, accurate English and Japanese.\n"
+}

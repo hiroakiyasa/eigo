@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0153",
+  "number": 153,
+  "title": "notは後ろを打ち消す",
+  "chapter": {
+    "id": "comparison",
+    "title": "比べる・否定する・気持ちを添える"
+  },
+  "unitId": "grammar-modals-1",
+  "pageType": "説明",
+  "image": "pages/PAGE_0153.webp",
+  "promptSource": "source-prompts/PAGE_0153.txt",
+  "promptSha256": "56c1fd0a047bcf5bbfe23d96699a59ad4fc291ee2b4ae97e58ce5cc68dc55cd4",
+  "prompt": "Use case: scientific-educational\nAsset type: dense portrait mechanism page for an illustrated English grammar book\nPrimary request: Explain that not negates the content after it and teach basic sentence negation when a modal already exists: modal + not + base verb. Source pages 318–319 guide coverage only; invent all examples and visuals.\nInput images: mascot appearance only; PAGE_0001 design only.\nCanvas: strict 9:16 portrait, dense, no page number.\nTop title (verbatim): 「notは後ろを打ち消す」\nCentral illustration: the leopard explorer in a red-stop-sign pose places a NOT shield immediately before glowing action blocks on a library conveyor.\nMechanism diagram: “主語 → 助動詞 + not → 動詞原形”. Branch badges “can’t＝できない”, “mustn’t＝してはいけない”, “won’t＝するつもりがない”. Note: 「時・判断は助動詞、動詞は原形」.\nOriginal example cards:\n1. “I can’t lift this chest.” / 「canの可能性を否定」\n2. “You mustn’t touch the crystal.” / 「禁止を表す」\n3. “We won’t leave without you.” / 「未来の意志を否定」\n4. “It may not rain tonight.” / 「may notには一般的な短縮なし」\nMini practice: 「ミニ問題　正しい形は？」 choices “She can’t swims.” / “She can’t swim.”\nAnswer: 「答え　She can’t swim.」 「助動詞の後ろは動詞原形。」\nBottom ribbon: 「助動詞があるなら、その直後にnot」\nStyle: glossy PAGE_0001 adventure-library conveyor, blue/gold/white, dimensional blocks, red only for negation, thick outlines, one mascot, readable typography.\nConstraints: no source wording/examples/figures/layout/order, source identity, citation, logo, ISBN, watermark, page number, or added prose; no photorealism or tiny text.\n"
+}

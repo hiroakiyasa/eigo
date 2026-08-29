@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0130",
+  "number": 130,
+  "title": "結果へつなぐ so・such・too・rather",
+  "chapter": {
+    "id": "modifiers",
+    "title": "情報を足す"
+  },
+  "unitId": "grammar-adverbs",
+  "pageType": "説明",
+  "image": "pages/PAGE_0130.webp",
+  "promptSource": "source-prompts/PAGE_0130.txt",
+  "promptSha256": "7abede23a3d4ae91cadfba0f9af2f9055e9617f972384f604a76c127e9426fa4",
+  "prompt": "Create a polished, content-rich educational English grammar page in portrait 9:16, matching the supplied cover's vivid blue, gold, white, and red design. Same leopard explorer mascot, conducting four connected result machines. No page number, source name, watermark, or logo.\n\nTop Japanese title: 「結果へつなぐ so・such・too・rather」\n\nCentral mechanism illustration: four brightly separated paths that all start with a judgment and lead to a consequence or contrast.\n\nPath 1 SO: 「so + 形容詞/副詞 + that 結果」\n• The cave was so dark that we used a lamp. 「とても暗かったのでランプを使った」\n\nPath 2 SUCH: 「such + (a/an) + 形容詞 + 名詞 + that 結果」 and explain it points to the kind/degree of a noun phrase.\n• It was such a quiet room that I heard the clock. 「とても静かな部屋だったので時計が聞こえた」\n\nPath 3 TOO: 「too + 形容詞 + to do」 means more than suitable/possible, often an unwanted excess.\n• The shelf is too high for me to reach. 「高すぎて私には届かない」\n\nPath 4 RATHER: show “rather A than B” as preference/contrast.\n• I would rather walk than wait. 「待つより歩きたい」\nAlso add a small badge: rather + adjective can mean 「予想より／やや」, as in “rather noisy”.\n\nComparison box: so hot that... / such a hot day that... / too hot to touch. Highlight different structures, not interchangeable word-for-word.\n\nMini practice: choose so/such: “It was ___ an exciting match that everyone stood up.” Answer: such. Reason: 「an exciting match という名詞句の前」.\n\nTakeaway: 「形容詞なら so、名詞句なら such、限界超えなら too、選択の対比なら rather」. Dense four-path diagram, multiple original examples, concise Japanese explanations, integrated question+answer.\n"
+}

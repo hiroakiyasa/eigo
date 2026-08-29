@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0094",
+  "number": 94,
+  "title": "thatは導く、限定詞は受ける",
+  "chapter": {
+    "id": "nouns",
+    "title": "名詞の世界"
+  },
+  "unitId": "grammar-determiners",
+  "pageType": "説明",
+  "image": "pages/PAGE_0094.webp",
+  "promptSource": "source-prompts/PAGE_0094.txt",
+  "promptSha256": "be43c4691d4b83bb0133ad212f39a25c4c65c76dd6b356ae56842ab0e9295075",
+  "prompt": "Use case: scientific-educational; dense 9:16 portrait grammar page. Reconstruct independently from source p.200–201: the core “guide attention” image of that and the ability of most determiners to stand alone or enter X of a group.\nInput references: mascot appearance and PAGE_0001 visual language.\nTop title: 「thatは導く、限定詞は受ける」\nCentral illustration: leopard explorer as a route guide aims a golden THAT arrow from a starting word into four destinations: object, reported content, noun explanation, and describing clause. Beside it, noun labels disappear from determiner cards, which continue alone.\nMechanism: THAT routes 「遠くの物へ導く」「考えの内容へ導く」「名詞の中身へ導く」「後ろの説明へ導く」. Determiner route 「some books → some」「any batteries → any」「both routes → both」「each lamp → each」 and group form 「X of + 特定グループ」.\nOriginal examples:\n1. “I believe that the tunnel is safe.” / 「believe の内容へ案内」\n2. “The idea that we could fly excited Leo.” / 「idea の中身へ案内」\n3. “We need batteries, but I have some.” / 「batteriesを繰り返さず受ける」\n4. “Which lanterns work? — Both.” / 「名詞なしでも意味を保つ」\nMini problem: 「ミニ問題：単独で使えないのは？」 choices “some / no / both” 「答え：no」 「名詞なしのゼロは none を使う。」\nBottom ribbon: 「前の内容を受け、次の内容へ導けば文がつながる」\nStyle: glossy adventure-library route hub, blue/yellow/white, gold THAT arrows and dimensional determiner cards, thick outlines, limited red exception marker.\nConstraints: no page number, copied source examples/diagram/prose/layout, source marks, logo, citation, watermark, answer field, or photorealism. One mascot in guide pose.\n"
+}

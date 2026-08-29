@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0031",
+  "number": 31,
+  "title": "be動詞は、説明をつなぐ橋",
+  "chapter": {
+    "id": "framework",
+    "title": "文の骨組み"
+  },
+  "unitId": "grammar-be",
+  "pageType": "説明",
+  "image": "pages/PAGE_0031.webp",
+  "promptSource": "source-prompts/PAGE_0031.txt",
+  "promptSha256": "ed514c5ce414900a3743bc1457f44febc841de33a2ed745209950bf595d9ae85",
+  "prompt": "Use case: scientific-educational\nAsset type: dense portrait explanation page for an illustrated English grammar book\nPrimary request: Teach be as a lightweight connector between a subject and its description, while also showing common present-tense contractions and the freedom of the description slot. Source pages 74–75 are topic-coverage guidance only; invent every sentence, metaphor, illustration, question, and layout independently.\nInput images: Image 1 is the leopard mascot appearance reference only. Image 2 is PAGE_0001, the approved visual-system reference only.\nCanvas: strict 9:16 portrait, full-bleed, dense but readable on a phone, no page number.\nTop title (verbatim): 「be動詞は、説明をつなぐ橋」\nCentral original illustration: inside a bright glass-roof adventure library, the leopard explorer balances on a tiny glowing bridge marked “am / is / are” between a blue subject island and a yellow description island; varied bridge-keeper pose, one mascot only.\nMechanism diagram: a large rail “主語 → am / is / are → 説明” and three compact destination icons labeled 「正体」「状態」「場所」. Add a small contraction panel: “I am → I’m”, “she is → she’s”, “we are → we’re”. Japanese note: 「会話では短くなることが多い」.\nRequired original example cards, each English sentence exactly once with its Japanese note directly below:\n1. “Nora is a marine guide.” / 「Nora＝海の案内人」\n2. “The lanterns are bright.” / 「ランタン＝明るい状態」\n3. “My gloves are in the tent.” / 「手袋＝テントの中」\n4. “I’m ready for the hike.” / 「I am の自然な短縮」\nMini practice box: 「ミニ問題　空所に入る語は？」 “The map ___ on the desk.”\nAnswer box: 「答え　is」 「The map が単数なので is で説明へつなぐ。」\nBottom takeaway ribbon: 「beの後ろは、主語についての説明席！」\nStyle: PAGE_0001’s polished blue-yellow-white adventure-library world, dimensional grammar blocks, gold rails, thick crisp outlines, cheerful game-book polish; red only for the connector cue. Large accurate Japanese Gothic and clear English.\nConstraints: one complete educational page; include every specified learning element; no source wording, source examples, source figures, copied arrangement, source identity, citation, logo, ISBN, watermark, or page number; do not invent additional prose; no photorealism or generic worksheet.\n"
+}

@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0157",
+  "number": 157,
+  "title": "“思わない”へnotを前倒し",
+  "chapter": {
+    "id": "comparison",
+    "title": "比べる・否定する・気持ちを添える"
+  },
+  "unitId": "grammar-advanced",
+  "pageType": "説明",
+  "image": "pages/PAGE_0157.webp",
+  "promptSource": "source-prompts/PAGE_0157.txt",
+  "promptSha256": "7aeb9da1f2e30408db29210a4fc9f1f1baefa597441fd3b20a67c3ba2fb4737a",
+  "prompt": "Use case: scientific-educational\nAsset type: dense portrait mechanism-and-nuance page for an illustrated English grammar book\nPrimary request: Teach negative raising with light opinion verbs such as think, believe, suppose, expect, and seem; explain its early signal and softer tone, while warning that meaning-rich verbs such as fear and hope do not transfer negation freely. Source pages 326–327 guide coverage only; copy nothing.\nInput images: mascot appearance only; PAGE_0001 style reference only.\nCanvas: strict 9:16 portrait, dense, no page number.\nTop title (verbatim): 「“思わない”へnotを前倒し」\nCentral illustration: the leopard explorer in an elevator-guide pose lifts a red NOT block from a lower clause to the front opinion-verb floor of the adventure library.\nMechanism diagram: “I think [it isn’t safe]” → natural soft route → “I don’t think [it is safe]”. Approved verbs: think / believe / suppose / expect. Warning gate: fear / hope carry their own meaning, so moving not may change the message.\nOriginal example cards:\n1. “I don’t think this path is safe.” / 「安全ではないと思う、をやわらかく先出し」\n2. “We don’t expect the shop to open.” / 「開くとは予想しない」\n3. “I fear the bridge will not hold.” / 「fear自体は否定せず、内容を否定」\n4. “I still think it is NOT fair.” / 「強く否定したい時は内容側を強調」\nMini practice: 「ミニ問題　自然でやわらかいのは？」 choices “I think it isn’t enough.” / “I don’t think it is enough.”\nAnswer: 「答え　I don’t think it is enough.」 「thinkではnotの前倒しが自然で、立場も早く伝わる。」\nBottom ribbon: 「意見の向きを先に示し、相手を準備させる」\nStyle: PAGE_0001 blue-gold-white adventure-library elevator, glowing clause floors, bold outlines, red only for moving NOT, one mascot, accurate readable type.\nConstraints: no source wording/examples/figures/layout/order, identity, citation, logo, ISBN, watermark, page number, or extra prose; no photorealism or tiny lettering.\n"
+}

@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0090",
+  "number": 90,
+  "title": "数が多い？ 量が多い？",
+  "chapter": {
+    "id": "nouns",
+    "title": "名詞の世界"
+  },
+  "unitId": "grammar-determiners",
+  "pageType": "説明",
+  "image": "pages/PAGE_0090.webp",
+  "promptSource": "source-prompts/PAGE_0090.txt",
+  "promptSha256": "8ae6fd2ade20fcf2c00a85e8a96fb002c39d5e090b812c0c0d1858d0887ba93e",
+  "prompt": "Use case: scientific-educational\nAsset type: dense portrait transition-and-mechanism page for an illustrated English grammar book\nPrimary request: Reinforce number agreement for both/either/neither, then teach many for countable number, much for uncountable amount, and a lot of as the flexible conversational choice; note much’s preference for questions and negatives. Source pages 192–193 guide coverage only; create everything independently.\nInput images: mascot appearance reference only; PAGE_0001 approved visual system only.\nCanvas: strict 9:16 portrait, one dense finished page, no page number.\nTop title (verbatim): 「数が多い？ 量が多い？」\nCentral illustration: the leopard explorer in a scale-master pose at an adventure-library measuring station. One pan counts many glowing coins; the other measures much water. A universal “a lot of” tool bridges both.\nMechanism diagram: top agreement strip “Both maps are ... / Either map is ... / Neither map is ...”. Main split: “many + 複数可算名詞＝数” versus “much + 不可算名詞＝量”; shared bridge “a lot of + どちらもOK”. Usage note: “much は疑問・否定が得意。肯定会話は a lot of が自然”.\nOriginal example cards:\n1. “How many lanterns do we need?” / 「数えられる lanterns」\n2. “How much rice is in the bag?” / 「量で見る rice」\n3. “We don’t have much time.” / 「否定文で自然」\n4. “The library has a lot of space.” / 「肯定文で自然な量表現」\nMini practice: 「ミニ問題　many / much？」 “There isn’t ___ snow today.”\nAnswer: 「答え　much」 「snow は不可算で、否定文なので much が合う。」\nBottom ribbon: 「数は many、量は much。迷ったら a lot of」\nStyle: polished PAGE_0001 blue-yellow-white adventure-library measuring lab, gold scale and dimensional grammar blocks, thick outlines, red only for count/amount split, mascot once, accurate large type.\nConstraints: render specified content once; no source wording/examples/figures/layout/order, source title, citation, logo, ISBN, watermark, page number, or added prose; no photorealism, sparse poster, dark background, or tiny text.\n"
+}

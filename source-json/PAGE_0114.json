@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0114",
+  "number": 114,
+  "title": "“まだ足りない”が後ろの説明を呼ぶ",
+  "chapter": {
+    "id": "modifiers",
+    "title": "情報を足す"
+  },
+  "unitId": "grammar-adjectives",
+  "pageType": "説明",
+  "image": "pages/PAGE_0114.webp",
+  "promptSource": "source-prompts/PAGE_0114.txt",
+  "promptSha256": "a6fa6ef6dc0c65ba865a8ba9357c4a3f5791dcb7e9d7c9b69e57b3fa0c458eff",
+  "prompt": "Use case: scientific-educational\nAsset type: dense portrait explanation page for an illustrated English grammar book\nPrimary request: Explain why adjectives often come after indefinite pronouns, superlatives, nouns in there-sentences, and measurements: the earlier phrase feels incomplete and invites a clarifying description. Source pages 240–241 guide coverage only; create new examples, wording, diagram, and imagery.\nInput images: mascot identity only; PAGE_0001 visual reference only.\nCanvas: strict 9:16 portrait, full-bleed, dense but readable, no page number.\nTop title (verbatim): 「“まだ足りない”が後ろの説明を呼ぶ」\nCentral illustration: the leopard explorer in a clue-completer pose follows an unfinished glowing sentence bridge; missing-information gaps pull description blocks from behind.\nMechanism diagram: “somebody / something / everything + 形容詞”, “the 最上級 + imaginable”, “There is 名詞 + available”, “数値 + tall / wide / long”. Central arrow: 「名詞だけでは不足 → 後ろで補う」.\nOriginal example cards:\n1. “I need something warm.” / 「何か、だけでは足りずwarmを追加」\n2. “That is the safest route available.” / 「使える中で最も安全」\n3. “There are two seats empty.” / 「seatsの状態を後追い説明」\n4. “The tower is 40 meters tall.” / 「40mの何かをtallで明示」\nMini practice: 「ミニ問題　語順を直そう」 “an useful something”\nAnswer: 「答え　something useful」 「-thingの内容は後ろから説明する。」\nBottom ribbon: 「言い切れない感覚が、説明を後ろへ伸ばす」\nStyle: PAGE_0001 blue-yellow-white adventure-library bridge, gold arrows, dimensional gap-and-fill blocks, bold outlines, red only for missing-information cues, one mascot, clear type.\nConstraints: original content; no source wording/examples/figures/layout, citation, source identity, logo, ISBN, watermark, page number, or extra prose; no photorealism or unreadable text.\n"
+}

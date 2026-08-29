@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0188",
+  "number": 188,
+  "title": "背後・間・境界・近さを見分ける",
+  "chapter": {
+    "id": "prepositions",
+    "title": "位置関係を描く"
+  },
+  "unitId": "grammar-prepositions-1",
+  "pageType": "説明",
+  "image": "pages/PAGE_0188.webp",
+  "promptSource": "source-prompts/PAGE_0188.txt",
+  "promptSha256": "049b106f20a86848b90db2410a4d6f080537f7e387f0be60d62b584cf3df4dda",
+  "prompt": "Create a polished, content-rich educational English grammar page in portrait 9:16. Match the supplied cover's blue-gold-white-red explorer aesthetic with a gold frame, layered maps, white cards, and crisp textbook lettering. Use the exact same leopard explorer mascot in four expressive poses: revealing a hidden cause, standing between marked trees, looking beyond a boundary, and choosing a nearby tool. No page number, source name, watermark, logo, copied example, or copied diagram.\n\nTop Japanese title: 「背後・間・境界・近さを見分ける」\n\nCreate four connected concept panels:\n\nBEHIND = 「背後」 → hidden cause / delay.\n• The puppy slept behind the sofa. 「ソファの後ろ」\n• Who is behind this clever campaign? 「企画の背後にいる人」\n• I’m behind with my reading. 「進みが遅れている」\n\nBETWEEN = 「個々をはっきり意識した間」. Show three clearly labeled islands connected by lines; explain it is not limited to two.\n• Divide the supplies between the four cabins. 「4つを個別に区別して分配」\nContrast with AMONG: A bench stood between two trees. 「2本を明確に意識」 / A fox hid among the trees. 「木々の集まりに紛れる」.\n\nBEYOND = 「境界・範囲の向こう」. A ship crosses a glowing horizon line.\n• The village lies beyond the hill. 「丘の向こう側」\n• The puzzle was beyond my understanding. 「理解の範囲を超える」\n\nBY = 「すぐそば」 as the root. Show a compass, a tool, and an agent close to an action.\n• There is a small inn by the lake. 「湖のそば」\n• We sent the file by email. 「手近な手段」\n• The mural was painted by local students. 「行為のそばに行為者」\nAdd note: means of transport usually has no article: by train, by bike.\n\nMini practice: 「木々に紛れてテントが見えない：The tent is hidden ___ the trees.」 Answer: 「among」. Reason: 「木を個別に結ぶより、集まりの中に紛れる情景」.\n\nBottom takeaway: 「背後 behind／明確な間 between／境界越え beyond／近接 by」. Dense, visual, and highly readable.\n"
+}

@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0192",
+  "number": 192,
+  "title": "inは中、intoは中へ",
+  "chapter": {
+    "id": "prepositions",
+    "title": "位置関係を描く"
+  },
+  "unitId": "grammar-prepositions-2",
+  "pageType": "説明",
+  "image": "pages/PAGE_0192.webp",
+  "promptSource": "source-prompts/PAGE_0192.txt",
+  "promptSha256": "4fd4f542ad913f7429b9ff65dcf690e77f611b5ebccf2585c72e08d7dbf23d0f",
+  "prompt": "Use case: scientific-educational\nAsset type: dense illustrated English preposition book page, portrait 9:16\nPrimary request: Independently teach IN as being inside and INTO as movement or change into an interior/state. Include useful phrase extensions without reproducing source wording or examples from pages 396–397.\nInput images: PAGE_0001 design reference; mascot_reference exact leopard explorer reference.\nCanvas: exact 941×1672, strict 9:16, safe margins, no page number.\nTop Japanese title: 「inは中、intoは中へ」\nCentral illustration: the mascot is a fortress cartographer. One chamber labeled IN shows a settled object; a bright arrow labeled INTO enters another chamber and transforms a plain seed into a flower.\nMechanism diagram: 「IN＝中にある静止」 vs 「INTO＝in＋to＝内部への方向」. INTO branches to 侵入・衝突・変化・説得・実行; IN phrase shelf shows fill in, hand in, give in, take in as different ways something enters a space or state.\nOriginal example cards:\n1. “Please fill in the missing date.” / 「空欄の中を情報で満たす」\n2. “Mia handed in her field report.” / 「決められた提出先へ入れる」\n3. “The caterpillar changed into a butterfly.” / 「別の状態の中へ変化」\n4. “Leo talked me into joining the expedition.” / 「話して参加する状態へ導いた」\nMini practice: 「The fox ran (in / into) the cave.」 Answer: 「into」. Reason: 「洞窟の外から内部へ動いているから。」\nBottom takeaway: 「場所の中ならin、動きや変化の行き先ならinto」\nStyle: glossy blue-gold-white-red adventure fortress, transformation portal, thick outlines, dense readable panels, mascot once in an action cartographer pose.\nTypography: exact English, bold concise Japanese.\nConstraints: no page number, source reuse, copied figures, brand references, logo, citation, watermark, or extra quiz.\nAvoid: confusing arrow direction, tiny phrase list, dark dungeon.\n"
+}

@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0320",
+  "number": 320,
+  "title": "省略と注釈で文をシャープに",
+  "chapter": {
+    "id": "flow",
+    "title": "文をつなぎ、会話を伝える"
+  },
+  "unitId": "grammar-advanced",
+  "pageType": "英文",
+  "image": "pages/PAGE_0320.webp",
+  "promptSource": "source-prompts/PAGE_0320.txt",
+  "promptSha256": "cd37fba03c2f4951dfa0823799886eb273a9a9e20dfbbe7bbc6874720bc6316e",
+  "prompt": "Create a polished, information-dense educational English grammar infographic in portrait 9:16, matching the supplied cover's unified blue-gold-white-red explorer aesthetic. Use the exact same leopard explorer mascot trimming repeated sentence branches and inserting a comma-framed annotation card beside a noun. No page number, source name, watermark, logo, copied illustration, or copied source sentence.\n\nTop Japanese title: 「省略と注釈で文をシャープに」\n\nUpper main section: a five-place ellipsis map with original examples and ghosted omitted words.\n\n1 after modal auxiliary:\n• “Who will lead the tour?” — “Sara will (lead the tour).”\n2 after perfect HAVE:\n• I’ve visited Yakushima, and my sister has (visited Yakushima) too.\n3 after BE:\n• Leo is unusually quiet today. He always is (quiet before a test).\n4 repeated subject and BE after conjunction:\n• While (I was) waiting for the bus, I reviewed my notes.\n• If (it is) necessary, restart the device.\n5 after infinitival TO:\n• I can explain again if you want me to (explain again).\nCore label: 「文法の支柱を残し、明白な反復だけ消す」.\n\nSet-phrase drawer:\n• if not 「そうでなければ」\n• if necessary 「必要なら」\n• if any 「あるとしても少し」\nOriginal example: There are very few errors, if any. 「誤りはあるとしてもごく少ない」\n\nLower section: annotation/apposition. Show a base sentence rail briefly interrupted by a comma-framed information capsule.\nAPPOSITION:\n• Ms. Ito, our robotics coach, designed the course. 「Ms. Ito＝our robotics coach」\nRule: place a noun explanation beside its target and surround the inserted information with commas.\nPARENTHETICAL COMMENT:\n• The forecast, fortunately, improved by morning. 「話し手の注釈を差し込む」\n• The missing key, it turned out, was in my pocket. 「判明したことを途中で注記」\n\nMini practice: 「省略：When (she was) invited, Aya accepted immediately. 省略できる部分は？」 Answer: 「she was」. Reason: 「接続詞whenの後で主節と同じ主語＋beが明白だから」.\n\nBottom takeaway ribbon: 「消すのは復元できる反復、足すのは理解に必要な注釈」. Dense, clean, accurate typography.\n"
+}

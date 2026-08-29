@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0330",
+  "number": 330,
+  "title": "記号は文の休止と関係を示す",
+  "chapter": {
+    "id": "toolbox",
+    "title": "冒険道具箱"
+  },
+  "unitId": "grammar-advanced",
+  "pageType": "説明",
+  "image": "pages/PAGE_0330.webp",
+  "promptSource": "source-prompts/PAGE_0330.txt",
+  "promptSha256": "9f018f30c4d60ed447356fef24d504d23c18a9540d6b1bfcb70b84f5ea472805",
+  "prompt": "Create a polished, content-dense educational English grammar infographic in portrait 9:16, matching the supplied cover's unified blue-gold-white-red explorer-book aesthetic. Use the exact same leopard explorer mascot conducting an orchestra of punctuation marks, each controlling pause length and information relationship. No page number, source name, watermark, logo, copied illustration, copied example, or copied layout.\n\nTop Japanese title: 「記号は文の休止と関係を示す」\n\nCentral visual: a pause meter from short to long:\ncomma , = short pause / internal separation\nsemicolon ; = strong pause between closely related complete clauses\nperiod . = sentence ends\nColon : branches sideways as “explanation follows.”\n\nPunctuation cards with original examples:\n\nPERIOD:\n• The gate is closed. 「文の終了」\n\nCOMMA:\n• We packed water, fruit, maps, and batteries. 「リスト」\n• I wanted to continue, but the others were tired. 「節の区切り」\n• Ms. Arai, our guide, checked the weather. 「同格の挿入」\n\nSEMICOLON:\n• The north trail is flooded; the south trail remains open. 「独立した2文を密接につなぐ」\nExplain: stronger than a comma, more connected than a period.\n\nCOLON:\n• We changed our plan: the bridge was unsafe. 「後ろに説明・理由を追加」\n• Bring three things: a hat, water, and a flashlight. 「具体的な一覧を導く」\n\nQUOTATION MARKS:\n• Leo said, “The cave is safe.” 「正確な発言」\n• She called it a “perfect” plan. 「皮肉・特別なニュアンス」\nNested quote example: “Mina shouted, ‘Stop!’ before the door closed.” Use double outside, single inside.\n\nQuote punctuation note in a compact caution panel: common American style places periods and commas inside closing quotation marks; semicolons and colons stay outside. Question/exclamation marks depend on whether they belong to the quoted words or the whole sentence.\n\nMini practice: 「密接な2つの完全な文をつなぐ：The rain stopped ___ the stars appeared.」 Answer: 「;」. Reason: 「両側が独立文で、意味関係を強く保ちたいのでセミコロン」.\n\nBottom takeaway ribbon: 「記号を飾りにせず、読み手の呼吸と論理を設計する」. This is the final educational page: polished, celebratory but dense and fully readable.\n"
+}

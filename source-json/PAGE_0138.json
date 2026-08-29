@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0138",
+  "number": 138,
+  "title": "比較には3つのルート",
+  "chapter": {
+    "id": "comparison",
+    "title": "比べる・否定する・気持ちを添える"
+  },
+  "unitId": "grammar-comparatives",
+  "pageType": "説明",
+  "image": "pages/PAGE_0138.webp",
+  "promptSource": "source-prompts/PAGE_0138.txt",
+  "promptSha256": "c956254515e54cb4ce62f652e0718e413eec4bcc4bae192a2857cd4271ab35cb",
+  "prompt": "Use case: scientific-educational; dense 9:16 portrait comparison-grammar page. Source p.284–285 guides coverage only; independently introduce the three comparison routes and teach basic as...as.\nInput references: mascot appearance and PAGE_0001 visual system.\nTop title: 「比較には3つのルート」\nCentral illustration: leopard explorer as a mountain-guide at three trails: equality bridge, comparative slope, superlative summit. The equality bridge uses two AS pillars holding one level beam.\nMechanism: 「as + 原級 + as＝同じレベル」「比較級 + than＝より高い／低い」「the + 最上級＝集団の頂点」. Focus the lesson on equality: first AS sets the level, second AS names the comparison target. Caution 「as tall as は“両方とも背が高い”とは限らず、同じ高さだけ」.\nOriginal examples:\n1. “This rope is as strong as that one.” / 「強さが同じレベル」\n2. “Mina runs as smoothly as her coach.” / 「副詞の様子も比較できる」\n3. “The blue trail is steeper than the green trail.” / 「比較級で差を示す」\n4. “Leo chose the shortest route.” / 「集団の中の最上級」\nMini problem: 「ミニ問題：同じくらい静か」 “The library is ___ quiet ___ the museum.” 「答え：as / as」 「原級quietを2つのasで挟む。」\nBottom ribbon: 「比べたい性質を決めて、対応する道を選ぶ」\nStyle: PAGE_0001 mountain-library world, blue/yellow/white, gold level bridge, red route markers, thick outlines, dense but clear.\nConstraints: no page number, copied source examples/diagram/text/layout, source marks, logo, citation, watermark, answer field, or photorealism. One mascot in mountain-guide pose.\n"
+}

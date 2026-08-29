@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0039",
+  "number": 39,
+  "title": "見た場面を、そのまま文にする",
+  "chapter": {
+    "id": "framework",
+    "title": "文の骨組み"
+  },
+  "unitId": "writing-word-order",
+  "pageType": "説明",
+  "image": "pages/PAGE_0039.webp",
+  "promptSource": "source-prompts/PAGE_0039.txt",
+  "promptSha256": "85a987db7e4fee60cf7d96d4e04d8f86ca9841d42bf1aae2fcc23a2e5762af1b",
+  "prompt": "Use case: scientific-educational\nAsset type: dense portrait nuanced-comparison page for an illustrated English grammar book\nPrimary request: Explain perception-verb object complements: direct experience uses “see/hear/feel + O + verb”, while a that-clause reports information; compare bare verb for the event as a whole and -ing for a scene in progress. Source pages 90–91 guide coverage only; copy nothing.\nInput images: mascot identity reference only; PAGE_0001 visual-system reference only.\nCanvas: strict 9:16 portrait, full-bleed, dense and phone-readable, no page number.\nTop title (verbatim): 「見た場面を、そのまま文にする」\nCentral original illustration: the leopard explorer in a camera-operator pose watches a kite flight through two magical lenses in the adventure library: a filmstrip for the whole event and a snapshot glow for an action in progress.\nMechanism diagram: “see / hear / feel + O + 動詞原形” labeled 「出来事をひとまとまり」; parallel “see / hear / feel + O + -ing” labeled 「進行中の一場面」; separate speech-scroll “hear that + 文” labeled 「情報として聞く」.\nOriginal example cards:\n1. “I saw the kite rise.” / 「上がる出来事を見届けた」\n2. “I saw the kite rising.” / 「上がっている途中を見た」\n3. “We heard the gate click.” / 「音をその場で聞いた」\n4. “We heard that the gate was locked.” / 「鍵の情報を聞いた」\nMini practice box: 「ミニ問題　進行中なら？」 “Mio watched the deer (run / running) by the river.”\nAnswer box: 「答え　running」 「走っている場面を切り取るので -ing。」\nBottom ribbon: 「直接の場面か、伝え聞いた情報かを分ける」\nStyle: PAGE_0001 blue-yellow-white adventure library, luminous filmstrip and grammar blocks, bold outlines, red only for bare/-ing contrast, mascot once, precise legible text.\nConstraints: no source text/examples/figures/layout, identity, citation, logo, ISBN, watermark, page number, or extra prose; no photorealism, dark background, sparse poster, or unreadable lettering.\n"
+}

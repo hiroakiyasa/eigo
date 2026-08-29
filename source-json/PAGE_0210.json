@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0210",
+  "number": 210,
+  "title": "where・when・whyで背景を説明",
+  "chapter": {
+    "id": "relative",
+    "title": "名詞を後ろから特定する"
+  },
+  "unitId": "grammar-relative",
+  "pageType": "説明",
+  "image": "pages/PAGE_0210.webp",
+  "promptSource": "source-prompts/PAGE_0210.txt",
+  "promptSha256": "7ea5c5a1ffc84202a818c24b34afa8a3070c3154defc75adf6b9575f8492fd9b",
+  "prompt": "Use case: scientific-educational; dense 9:16 portrait grammar page. Teach WHERE for situations, formal in which, WHEN for time, and WHY for reason from p.432–433 coverage.\nInput references: PAGE_0001 design and mascot identity.\nTop title: 「where・when・whyで背景を説明」\nCentral illustration: mascot as a time-space navigator at three portals: WHERE for place/situation, WHEN for a clock point, WHY for a reason trail. A small formal panel converts where to in which.\nMechanism: 「where＝場所・状況の穴」「in which＝場所を名詞＋前置詞で厳密に」「when＝時の穴」「the reason why＝理由の穴」.\nOriginal examples: “We faced a situation where every choice was risky.” / 「どの選択も危険な状況」; “That was the year when I learned to swim.” / 「泳ぎを覚えた年」; “The reason why I left early was the storm.” / 「早く帰った理由」; “This is the room in which the records are stored.” / 「記録を保管する部屋・改まった形」.\nMini problem: 「ミニ問題：時を指定する」 “I remember the day (where / when) we found the puppy.” Answer 「when」. Reason 「欠けているのは“その日に”という時の情報。」\nBottom ribbon: 「場所・時・理由の穴を、正しいwh語で案内しよう」\nStyle: glossy adventure-library navigator chamber, blue/gold/white/red portals, clocks, map pins and reason trail, thick outlines, dense readable educational composition.\nConstraints: exact 9:16; no page number, copied source text/examples/figures/layout, source identity, logo, citation, watermark, blank answer field, or photorealism. Exactly one mascot in navigator pose.\n"
+}

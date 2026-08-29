@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0199",
+  "number": 199,
+  "title": "範囲・不在・話題を示す",
+  "chapter": {
+    "id": "prepositions",
+    "title": "位置関係を描く"
+  },
+  "unitId": "grammar-prepositions-2",
+  "pageType": "説明",
+  "image": "pages/PAGE_0199.webp",
+  "promptSource": "source-prompts/PAGE_0199.txt",
+  "promptSha256": "d31a52cc96af5a80c74aabe1f643504b715117cb7acf9ce021ff361c8af6f747",
+  "prompt": "Use case: scientific-educational\nAsset type: dense illustrated English preposition-navigation page, portrait 9:16\nPrimary request: Independently teach WITHIN, WITHOUT, and topic/source phrases from pages 410–411. Cover clear boundaries, broken connection, accordance/source, setting something apart, shifting topic with as for, pointing to a specific issue with as to, and starting date with as of/from. Copy nothing from the source.\nInput images: PAGE_0001 approved style; mascot_reference exact leopard explorer.\nCanvas: exact 941×1672, strict 9:16, safe margins, no page number.\nTop Japanese title: 「範囲・不在・話題を示す」\nCentral illustration: the mascot manages an information border station. WITHIN is a glowing boundary circle, WITHOUT is a broken link outside it, and topic spotlights swing between ACCORDING TO, AS FOR, and AS TO.\nMechanism diagram: 「WITHIN＝境界線の内側」; 「WITHOUT＝つながりなし」; phrase cards 「according to＝基準/情報源に一致」 「apart from＝横へ外す」 「as for＝話題へ視線移動」 「as to＝具体点を指す」 「as of/from＝その時点から」. Small remaining-WITH shelf: familiar with, cope with, find fault with.\nOriginal example cards:\n1. “Please reply within three days.” / 「3日という境界を越えない」\n2. “We completed the task without help.” / 「helpとのつながりなし」\n3. “According to the map, the bridge is closed.” / 「情報源は地図」\n4. “As for lunch, I packed sandwiches.” / 「話題を昼食へ移す」\nMini practice: 「『3日以内に』を境界強調で：in / within？」 Answer: 「within」. Reason: 「期限の外へ出ない境界線を明確に意識する。」\nBottom takeaway: 「境界、欠如、情報源、話題の向きを前置詞で整理する」\nStyle: glossy blue-gold-white-red adventure information checkpoint, border rings and movable spotlights, thick outlines, dense but clear layout, mascot once in a border-controller pose.\nTypography: accurate English, concise readable Japanese.\nConstraints: no page number, source wording/example/diagram, source identity, logo, citation, watermark, or unrelated quiz.\nAvoid: excessive phrase density, tiny footnotes, dark customs hall.\n"
+}

@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0175",
+  "number": 175,
+  "title": "have to は必要性から進む",
+  "chapter": {
+    "id": "comparison",
+    "title": "比べる・否定する・気持ちを添える"
+  },
+  "unitId": "grammar-modals-2",
+  "pageType": "説明",
+  "image": "pages/PAGE_0175.webp",
+  "promptSource": "source-prompts/PAGE_0175.txt",
+  "promptSha256": "39decf597537f7f746a48c9c7e9f0c4a62fbbfbd8b1a50d90436702f1ad8215f",
+  "prompt": "Create a polished, content-rich educational English grammar book page in portrait 9:16, in the supplied cover's vivid adventure design. Same leopard detective mascot, following evidence toward a required action. No page number, source identity, watermark, or logo.\n\nTop Japanese title: 「have to は必要性から進む」\n\nCentral illustration: an external-reason engine—rules, schedule, evidence—pushes a cart labelled HAVE TO along a necessary path. Contrast briefly: must often foregrounds the speaker's strong judgment; have to foregrounds practical or external necessity.\n\nTwo main uses with original examples:\n\nObligation/necessity:\n• I have to renew my passport this week. 「今週更新する必要がある」\n• She has to wear safety glasses at work. 「職場の規則・事情」\n• We had to change trains. 「過去の必要」\n\nStrong conclusion from evidence:\n• These footprints have to belong to a large dog. 「この足跡は大型犬のものに違いない」\n• This has to be the correct entrance. 「証拠から見てここに違いない」\n\nShow modal stacking rule: two modal auxiliaries cannot stack. Use a red cross “may must” and green route “may have to”; examples “We may have to wait.” and “You will have to register again.” Explain have to can follow another modal because it is a phrase, not a second modal auxiliary.\n\nMini practice: choose “might must / might have to”: “We ___ postpone the picnic.” Answer: might have to. Reason: 「助動詞は重ねず、have to を使う」.\n\nTakeaway: 「have to は、必要な事情や証拠に押される表現」. Dense detective/evidence diagram, examples, problem+answer.\n"
+}

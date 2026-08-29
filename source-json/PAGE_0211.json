@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0211",
+  "number": 211,
+  "title": "wh語なしでも後ろから説明",
+  "chapter": {
+    "id": "relative",
+    "title": "名詞を後ろから特定する"
+  },
+  "unitId": "grammar-relative",
+  "pageType": "まとめ",
+  "image": "pages/PAGE_0211.webp",
+  "promptSource": "source-prompts/PAGE_0211.txt",
+  "promptSha256": "3b0ab904c1ccdd85df3cd2f3e894940e674d70e3c599c2c166d4d85388ca2139",
+  "prompt": "Create a polished information-dense English grammar book page, portrait 9:16, matching the supplied cover's vivid blue, gold, white, and red explorer style. Same leopard explorer mascot at four signposted doors. No page number, source identity, watermark, or logo.\n\nTop Japanese title: 「wh語なしでも後ろから説明」\n\nTeach that nouns already carrying time, place, reason, or manner meaning can often connect directly to a following explanatory clause without when/where/why/how. Central four-door diagram: TIME / PLACE / REASON / WAY, each followed by a clause bridge; show that English must not double “way + how”.\n\nOriginal examples with concise Japanese:\n• I remember the evening we found the hidden room. 「隠し部屋を見つけた夜」\n• Mia followed Leo everywhere he explored. 「彼が探検する所ならどこでも」\n• The reason the lamp failed was simple. 「ランプが故障した理由」\n• I like the way you organize your notes. 「ノートのまとめ方」\n\nContrast badge: “the way you speak” ✓ / “the way how you speak” ✗. Explain 「way自体に『どのように』が含まれる」.\n\nMini practice: remove the unnecessary word: “This is the place where we first met there.” Answer: remove “there”; reason 「whereが場所の空所をすでに担当」.\n\nTakeaway: 「意味を持つ入口なら、説明節を直接つなげられる」. Dense but readable, central visual, four examples, contrast, question+answer.\n"
+}

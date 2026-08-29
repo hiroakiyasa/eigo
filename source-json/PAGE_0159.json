@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0159",
+  "number": 159,
+  "title": "notで作る、4つの論理ルート",
+  "chapter": {
+    "id": "comparison",
+    "title": "比べる・否定する・気持ちを添える"
+  },
+  "unitId": "grammar-modals-1",
+  "pageType": "まとめ",
+  "image": "pages/PAGE_0159.webp",
+  "promptSource": "source-prompts/PAGE_0159.txt",
+  "promptSha256": "e65e22c23210b869e2b28782da3ea6896e0e184ca7719b322463bf3be990faa5",
+  "prompt": "Use case: scientific-educational\nAsset type: dense portrait pattern-summary and transition page for an illustrated English grammar book\nPrimary request: Teach useful not patterns—“not ... without”, “not ... until”, “not only A but also B”, and “not A but B”—with parallel structure, then transition toward modals as meaning filters before verbs. Source pages 330–331 guide coverage only; do not imitate the chapter art or reuse examples.\nInput images: mascot appearance only; PAGE_0001 visual-system reference only.\nCanvas: strict 9:16 portrait, dense, no page number.\nTop title (verbatim): 「notで作る、4つの論理ルート」\nCentral illustration: the leopard explorer in a route-builder pose connects four glowing logic bridges in the adventure library, then points toward a distant MODAL gate.\nMechanism diagram: four labeled rails: “not ... without＝〜なしには…しない”, “not ... until＝〜まで…しない”, “not only A but also B＝AだけでなくBも”, “not A but B＝AでなくB”. Parallel-form badge: 「AとBは同じ形をそろえる」.\nOriginal example cards:\n1. “We won’t leave without the map.” / 「地図なしでは出発しない」\n2. “The gate won’t open until sunrise.” / 「日の出まで開かない」\n3. “She can not only sing but also compose.” / 「歌えるだけでなく作曲もできる」\n4. “Take the red path, not the blue one.” / 「青でなく赤」\nMini practice: 「ミニ問題　並列をそろそう」 “He likes not only hiking but also (to swim / swimming).”\nAnswer: 「答え　swimming」 「hikingと同じ-ing形でAとBをそろえる。」\nBottom ribbon: 「notは否定だけでなく、関係を組み立てる部品」\nStyle: PAGE_0001 blue-gold-white adventure-library logic bridges, dimensional connectors, bold outlines, red only for NOT, one mascot, large accurate text.\nConstraints: fully original; no source wording/examples/figures/chapter layout, citation, identity, logo, ISBN, watermark, page number, or extra prose; no photorealism or tiny type.\n"
+}

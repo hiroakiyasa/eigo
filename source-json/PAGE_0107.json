@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0107",
+  "number": 107,
+  "title": "theは、ひとまとまりを照らす",
+  "chapter": {
+    "id": "nouns",
+    "title": "名詞の世界"
+  },
+  "unitId": "grammar-pronouns",
+  "pageType": "まとめ",
+  "image": "pages/PAGE_0107.webp",
+  "promptSource": "source-prompts/PAGE_0107.txt",
+  "promptSha256": "e531c6d7f57e7e762f65ee9ab26cf9ae80a093a88eb6f21e09abcd58f8193eb7",
+  "prompt": "Use case: scientific-educational\nAsset type: dense 9:16 portrait proper-name map page\nPrimary request: Independently teach common patterns that favor the in names: A of B structures, prominent institutions, and large natural or grouped geographic features. Explain the sense of one recognized entity without copying source lists or names. Source pages 226–227 are coverage only.\nInput images: mascot reference; PAGE_0001 design reference.\nCanvas: strict 9:16 portrait, no page number, full-bleed, safe margins.\nTop title: 「theは、ひとまとまりを照らす」\nCentral illustration: mascot in a lighthouse-keeper pose shines a golden THE beam across three miniature library-map zones: an of-name building, a famous institution, and a vast natural feature.\nMechanism diagram: three branches: 「A of B＝関係から1つに」 「著名な施設＝共有された1つ」 「大きな地形・まとまり＝全体を指す」.\nOriginal fictional example cards:\n1. “We visited the Museum of Maps.” / 「A of B の名称」\n2. “The Grand Explorer Hotel faces the square.” / 「著名施設を1つに特定」\n3. “They sailed across the Azure Ocean.” / 「広い自然地形」\n4. “Snow covered the Dawn Mountains.” / 「複数の山を1つの山脈としてまとめる」\nMini practice box: 「ミニ確認：___ Library of Stars は？」 「答え：the Library of Stars」 「A of B 全体を1つの名称として示す。」\nBottom takeaway: 「形・共有知識・まとまりがtheを呼ぶ」\nStyle: cover-quality blue-yellow-white adventure library map, glossy lighthouse beam, dimensional landscape icons, thick outlines, dense readable cards.\nTypography: accurate English, bold Japanese Gothic.\nConstraints: fictional names only, no page number, source lists/examples/layout, source identity, logo, citation, watermark, or additional exercise. Mascot once in keeper pose.\nAvoid: real landmark copying, tiny geography labels, dark night scene.\n"
+}

@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0308",
+  "number": 308,
+  "title": "条件に備える表現の道具箱",
+  "chapter": {
+    "id": "flow",
+    "title": "文をつなぎ、会話を伝える"
+  },
+  "unitId": "grammar-conditionals",
+  "pageType": "英文",
+  "image": "pages/PAGE_0308.webp",
+  "promptSource": "source-prompts/PAGE_0308.txt",
+  "promptSha256": "bd2ad892d0f27fc85129ef3bf3ede1f67496f33fee46ae8c37bf9486fb7f7c70",
+  "prompt": "Create a polished information-dense English grammar page in portrait 9:16, matching the supplied cover's blue, gold, white, and red adventure design. Same leopard mascot opening a condition toolbox labelled GIVEN, AS LONG AS, SUPPOSE, IN CASE, OTHERWISE. No page number, source name, watermark, or logo.\n\nTop Japanese title: 「条件に備える表現の道具箱」\n\nOrganize conditions by mental job:\ngiven (that) = consider a known fact;\nas long as = within a continuing condition;\nsuppose/supposing = imagine a premise;\nin case = take action now as preparation;\notherwise = if not / different outcome;\nfor fear that / lest = formal prevention.\n\nOriginal examples:\n• Given the weather, the delay is understandable. 「事情を考慮」\n• You can stay as long as you keep the room tidy. 「条件が続く範囲」\n• Suppose the battery fails—what will we do? 「仮の前提」\n• Take some water in case the shops are closed. 「事前の備え」\n• Keep this receipt; otherwise, you cannot return the item. 「そうでなければ」\n\nContrast in case vs if with a preparation timeline.\n\nMini practice: “Bring a charger ___ your phone runs low.” Answer: in case; reason 「電池切れに前もって備える」.\n\nTakeaway: 「条件の種類に合わせて、想定・備え・別結果を選ぶ」.\n"
+}

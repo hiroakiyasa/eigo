@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0008",
+  "number": 8,
+  "title": "後ろへ、情報を足していく",
+  "chapter": {
+    "id": "guide",
+    "title": "冒険の地図"
+  },
+  "unitId": "writing-word-order",
+  "pageType": "説明",
+  "image": "pages/PAGE_0008.webp",
+  "promptSource": "source-prompts/PAGE_0008.txt",
+  "promptSha256": "736e99b74eeeb171bd195a9d47e53dfecc14442618220a69e32db8f9406f89de",
+  "prompt": "Use case: scientific-educational. Create a rich portrait 9:16 page matching PAGE_0001. Bright adventure-library map room; same leopard cartographer extends a glowing sentence route. Entirely original content and composition. No page number, source identity, logo or watermark.\n\nTop title: 「後ろへ、情報を足していく」\n\nStart with core sentence: “We found a cabin.” 「私たちは小屋を見つけた」. Extend it with three cars:\n“near the river” 「どこ？」\n“before sunset” 「いつ？」\n“with a blue roof” 「どんな小屋？」\nFinal: “We found a cabin near the river before sunset, with a blue roof.”\n\nRequired table:\n「後ろの情報｜答える質問｜説明する相手」\n「near the river｜どこで？｜found」\n「before sunset｜いつ？｜文全体」\n「with a blue roof｜どんなcabin？｜cabin」\n\nAdd two original build-up examples:\n“Leo waited.” → “Leo waited at the gate for ten minutes.”\n“I met a guide.” → “I met a guide from Canada.”\n\nExplanation note: 「後ろに置けばよいのではなく、どの語・出来事を説明するかを矢印で確かめる。」\nMini check: In “The dog under the table is sleeping,” what does under the table explain? Answer: dog. Reason: 「名詞dogの直後から説明する。」\nBottom ribbon: 「骨組みを言ってから、場所・時・特徴を足す」\n\nDense route visual, table, examples and answer; accurate readable typography.\n\n後半ページ同等の高密度基準：中央イラスト＋仕組み図＋説明文＋独自英文4〜6本＋簡潔な和訳/解説＋ミニ問題・答え・一行理由、ページの85〜90%を学習内容で満たす、文字は読める大きさ\n"
+}

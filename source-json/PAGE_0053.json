@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0053",
+  "number": 53,
+  "title": "向きを変え、手に取り、置く",
+  "chapter": {
+    "id": "framework",
+    "title": "文の骨組み"
+  },
+  "unitId": "grammar-advanced",
+  "pageType": "説明",
+  "image": "pages/PAGE_0053.webp",
+  "promptSource": "source-prompts/PAGE_0053.txt",
+  "promptSha256": "795ec4d1da5edb76647fcb011e35c8b433c76074a262bf4d7e4089019bbaf53a",
+  "prompt": "Use case: scientific-educational\nAsset type: dense 9:16 portrait intuitive vocabulary page\nPrimary request: Independently teach turn, pass, take, and put as four reusable movement mechanisms. Source pages 118–119 provide coverage only; do not copy examples, metaphors, figures, wording, or layout.\nInput images: mascot appearance reference and PAGE_0001 style reference.\nCanvas: strict 9:16 portrait, no page number, full-bleed, safe margins.\nTop title: 「向きを変え、手に取り、置く」\nCentral illustration: mascot in a kinetic workshop pose, rotating a glowing compass plate, crossing a checkpoint, choosing a tool, then placing it into a destination slot. One continuous spiral route.\nMechanism diagram: 「turn＝向きを変える」→「pass＝関門を越える」→「take＝選んで手元へ」→「put＝どこかへ配置」.\nOriginal example cards:\n1. “The sky turned orange at sunset.” / 「向きが変わるように状態が変化」\n2. “Our team passed the final checkpoint.” / 「関門を向こう側へ通過」\n3. “I’ll take the window seat.” / 「いくつかから選び取る」\n4. “Please put the key in this box.” / 「物を指定した場所へポン」\nMini practice box: 「ミニ確認：I took the train. の take は？」 「答え：選択」 「移動手段として電車を選び取る。」\nBottom takeaway: 「短い動作の絵が、多くの使い方を生む」\nStyle: bright glossy adventure-library mechanism workshop, blue/yellow/white, 3D verb tokens, thick outlines, dynamic arrows, compact example plaques, polished game-book look.\nTypography: exact English, readable Japanese Gothic, specified text only.\nConstraints: no source reuse, page number, source title, author, logo, citation, watermark, or extra quiz. Mascot once in a unique workshop pose.\nAvoid: sparse layout, tiny text, unrelated decorations, photorealism.\n"
+}

@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0302",
+  "number": 302,
+  "title": "andは前へ進む流れ",
+  "chapter": {
+    "id": "flow",
+    "title": "文をつなぎ、会話を伝える"
+  },
+  "unitId": "grammar-conjunctions",
+  "pageType": "説明",
+  "image": "pages/PAGE_0302.webp",
+  "promptSource": "source-prompts/PAGE_0302.txt",
+  "promptSha256": "c45cf4a9fcdd872fa0cbba7cc3916397fcc244cbb61de212b6a12d9e67c36c76",
+  "prompt": "Create a polished content-rich English grammar book page in portrait 9:16, matching the supplied cover's energetic explorer design. Same leopard mascot guiding an AND forward railway and a SO cause-result arrow. No page number, source name, watermark, or logo.\n\nTop Japanese title: 「andは前へ進む流れ」\n\nTeach that and does more than add: order and context can create time sequence, consequence, and continuing repetition. Imperative + and means “do this and then/therefore...”. SO explicitly points from cause to result.\n\nOriginal examples:\n• Mia opened the chest and found a silver key. 「動作が順に進む」\n• Press this button, and the door will open. 「そうすれば」\n• The child asked and asked, so I finally agreed. 「反復→結果」\n• It was getting dark, so we turned back. 「理由から結果へ」\n\nCentral flow diagram: A → AND → B; repeated AND loop; cause → SO → consequence. Contrast simple addition with logical result labels.\n\nMini practice: what does and mean in “Study steadily, and you'll improve”? Answer: 「そうすれば」; reason 「命令・助言の実行が後半の条件になる」.\n\nTakeaway: 「andは情報を前へ運び、soは結果を明示する」.\n"
+}

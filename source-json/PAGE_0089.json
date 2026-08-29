@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0089",
+  "number": 89,
+  "title": "2つなら both・either・neither",
+  "chapter": {
+    "id": "nouns",
+    "title": "名詞の世界"
+  },
+  "unitId": "grammar-determiners",
+  "pageType": "まとめ",
+  "image": "pages/PAGE_0089.webp",
+  "promptSource": "source-prompts/PAGE_0089.txt",
+  "promptSha256": "ff3ca5eb1387ca761bf331c417571a08b3b6cb519d39e060427abf528d6361c2",
+  "prompt": "Use case: scientific-educational\nAsset type: dense portrait comparison-and-summary page for an illustrated English grammar book\nPrimary request: Explain both, either, and neither for two choices, including agreement expressions with too/either/neither and the patterns both A and B, either A or B, neither A nor B. Source pages 190–191 guide coverage only; use entirely original language, examples, and graphics.\nInput images: mascot identity reference only; PAGE_0001 style reference only.\nCanvas: strict 9:16 portrait, full-bleed, dense, no page number.\nTop title (verbatim): 「2つなら both・either・neither」\nCentral illustration: the leopard explorer in a two-path judge pose at twin adventure-library doors. Both lights both doors, either spotlights one selectable door at a time, neither dims both.\nMechanism diagram: “both＝2つをセット【複数】”, “either＝どちらか一方【単数】”, “neither＝どちらも該当しない【単数】”. Pattern rail: “both A and B / either A or B / neither A nor B”. Agreement badge: “肯定：too / 否定：either / Neither do I.”\nOriginal example cards:\n1. “Both routes are safe.” / 「2本とも安全」\n2. “Either route is fine.” / 「どちらか一方、どちらでもよい」\n3. “Neither route is short.” / 「2本とも短くない」\n4. “I can’t swim. — I can’t either.” / 「否定の“私も”」\nMini practice: 「ミニ問題　両方とも選ばないなら？」 “I chose (both / either / neither).”\nAnswer: 「答え　neither」 「2つのどちらも選ばない。」\nBottom ribbon: 「セットで見るか、1つずつ見るかで形が決まる」\nStyle: PAGE_0001 blue-yellow-white adventure-library twin-door scene, gold rails, dimensional badges, bold outlines, red only for contrast, one mascot, phone-readable typography.\nConstraints: original content only; no source wording/examples/figures/layout, source identity, citation, logo, ISBN, watermark, page number, or extra prose; avoid photorealism, dark background, and tiny text.\n"
+}

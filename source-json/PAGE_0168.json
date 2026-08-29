@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0168",
+  "number": 168,
+  "title": "canは、内にある可能性",
+  "chapter": {
+    "id": "comparison",
+    "title": "比べる・否定する・気持ちを添える"
+  },
+  "unitId": "grammar-modals-1",
+  "pageType": "説明",
+  "image": "pages/PAGE_0168.webp",
+  "promptSource": "source-prompts/PAGE_0168.txt",
+  "promptSha256": "7d0252ec69d936ff556196942fd52f962a084b806ca9d51c5cddbf063867b2d7",
+  "prompt": "Use case: scientific-educational; dense 9:16 portrait grammar page. Independently explain CAN as potential inside a person or thing, producing ability and friendly permission; contrast polite may. Source p.348–349 is coverage only.\nInput references: mascot appearance and PAGE_0001 visual language.\nTop title: 「canは、内にある可能性」\nCentral illustration: leopard explorer as a potential-energy scientist scans glowing power inside a character and freedom tokens inside an open casual gate.\nMechanism: core 「内側に潜む力・自由」 branching to 「能力：やろうと思えばできる」「励まし：力があると認める」「許可：そうする自由がある」「Can I help?＝自分に許可を求める→申し出」. Contrast 「can＝親しい・日常 / May I...?＝改まった丁寧さ」.\nOriginal examples:\n1. “Rina can read old maps.” / 「身についた能力」\n2. “You can solve this; keep going!” / 「潜在力を見て励ます」\n3. “You can use my desk.” / 「気軽に自由を与える」\n4. “Can I carry those boxes?” / 「手伝う申し出」\nMini problem: 「ミニ問題：友人に気軽な許可」 “You (can / may) borrow my bike.” 「答え：can」 「親しい場面で相手の自由を軽く認める。」\nBottom ribbon: 「能力も許可も、“中にある自由度”から生まれる」\nStyle: glossy adventure-library energy lab, blue/yellow/white, gold inner glow, red permission cue, thick outlines, phone-readable.\nConstraints: no page number, copied source examples/figures/prose/layout, source marks, logo, citation, watermark, answer field, or photorealism. One mascot in scientist pose.\n"
+}

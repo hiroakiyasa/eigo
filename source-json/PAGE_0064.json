@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0064",
+  "number": 64,
+  "title": "形で見抜く 可算・不可算",
+  "chapter": {
+    "id": "nouns",
+    "title": "名詞の世界"
+  },
+  "unitId": "grammar-nouns",
+  "pageType": "説明",
+  "image": "pages/PAGE_0064.webp",
+  "promptSource": "source-prompts/PAGE_0064.txt",
+  "promptSha256": "ff584ff7d8a14d638c2c670518328f07e07fd7fdb35c567398d5644c25d38beb",
+  "prompt": "Use case: scientific-educational; dense 9:16 page. Source p.140–141 concepts only.\nTop title: 「形で見抜く 可算・不可算」\nScene: adventure-library scanner. Leopard detective scans noun phrases for clues.\nMechanism clue board: plural -s or a/an → countable; many/few → number; much/little → amount; singular countable needs a determiner; some/a lot of work with both.\nOriginal examples: 「three lanterns」 「much fog」 「a notebook」 「some rice」 「a lot of messages」.\nMini check: 「There is too (many / much) traffic today.」 Answer: much — traffic is an uncountable flow.\nTakeaway: 「名詞の形と前のことばがヒントになる」\nDense visual scanner, 5 examples, brief Japanese explanation, question+answer; cover style; no page number.\n\n"
+}

@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0179",
+  "number": 179,
+  "title": "前置詞は関係を描く小さな地図",
+  "chapter": {
+    "id": "prepositions",
+    "title": "位置関係を描く"
+  },
+  "unitId": "grammar-prepositions-1",
+  "pageType": "英文",
+  "image": "pages/PAGE_0179.webp",
+  "promptSource": "source-prompts/PAGE_0179.txt",
+  "promptSha256": "2abc90b7bb711f00f59786d02e5e358f1c033ce7a0063c63bb5b556a6452b03f",
+  "prompt": "Create a polished, information-dense educational English grammar book page in portrait 9:16, matching the supplied cover's vivid explorer design. Same leopard mascot, mapping an apple around a treasure chest using glowing relation arrows. No page number, source identity, watermark, or logo.\n\nTop Japanese title: 「前置詞は関係を描く小さな地図」\n\nCentral illustration: one chest with an apple on, in, behind, and by it in four mini-scenes. Teach the standard form “preposition + noun/noun phrase” and explain that the preposition comes before its object to specify a relation.\n\nOriginal examples:\n• The compass is on the desk. 「机の上」\n• The key is in the pouch. 「袋の中」\n• A bicycle is behind the gate. 「門の後ろ」\n• Wait by the fountain. 「噴水のそば」\n\nAdd AT expansion map from the core image “point”: time point, place point, target/aspect point.\n• at six thirty 「6時30分という時点」\n• at the entrance 「入口という地点」\n• good at puzzles 「パズルという点で得意」\nExplain that one spatial image can extend metaphorically; learners should connect meanings rather than memorize unrelated translations.\n\nPronoun case panel: with us / for her / between them, not subject forms. Phrase examples:\n• Come with us. 「私たちと一緒に」\n• This gift is for her. 「彼女のため」\n\nMini practice: 「『駅という地点で』は？ Meet me ___ the station.」 Answer: at. Reason: 「待ち合わせ地点を点として示す」.\n\nTakeaway: 「前置詞の核イメージを、時間・場所・比喩へ広げる」. Rich central map, examples, mini problem.\n"
+}

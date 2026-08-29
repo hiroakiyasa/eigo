@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0119",
+  "number": 119,
+  "title": "副詞は、文の景色を変える",
+  "chapter": {
+    "id": "modifiers",
+    "title": "情報を足す"
+  },
+  "unitId": "grammar-adverbs",
+  "pageType": "説明",
+  "image": "pages/PAGE_0119.webp",
+  "promptSource": "source-prompts/PAGE_0119.txt",
+  "promptSha256": "bd906503190b1e9cf0d86a849cf0701ae0e2de170a820584f7bd0cee67a0230c",
+  "prompt": "Use case: scientific-educational\nAsset type: dense portrait explanation page for an illustrated English grammar book\nPrimary request: Introduce adverbs as modifiers of everything except nouns, organize major roles such as time, place, degree, frequency, and speaker attitude, and explain positions through front-limiting versus rear-explaining logic. Source pages 250–251 guide coverage only; create new examples and visuals.\nInput images: mascot appearance reference only; PAGE_0001 style reference only.\nCanvas: strict 9:16 portrait, dense, no page number.\nTop title (verbatim): 「副詞は、文の景色を変える」\nCentral illustration: the leopard explorer in a lighting-director pose adjusts five glowing controls over one adventure-library scene: clock, location pin, intensity dial, repeat wheel, and speech-attitude flag.\nMechanism diagram: five badges “時・場所＝出来事を後ろから説明”, “程度＝修飾語の前で強さを限定”, “頻度＝動詞の周辺”, “態度＝文頭で全体を包む”. Central rule: 「名詞以外に情報を足す」.\nOriginal example cards:\n1. “We returned yesterday.” / 「時を文末で追加」\n2. “The team waited outside.” / 「場所を文末で追加」\n3. “The clue was extremely small.” / 「smallの程度を前で限定」\n4. “Fortunately, everyone escaped.” / 「文全体への評価」\nMini practice: 「ミニ問題　自然な位置は？」 choices “We outside waited.” / “We waited outside.”\nAnswer: 「答え　We waited outside.」 「場所は出来事の後ろから説明する。」\nBottom ribbon: 「副詞は“何を・どこから”修飾するかで置き場所が決まる」\nStyle: glossy PAGE_0001 adventure-library control room, blue/yellow/white, gold dials and dimensional labels, bold outlines, red only for front/back rule, one mascot.\nConstraints: no copied source wording/examples/figures/layout/order, source identity, citation, logo, ISBN, watermark, page number, or extra prose; no photorealism or unreadable text.\n"
+}

@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0063",
+  "number": 63,
+  "title": "まとまり全体は、数えない",
+  "chapter": {
+    "id": "nouns",
+    "title": "名詞の世界"
+  },
+  "unitId": "grammar-nouns",
+  "pageType": "説明",
+  "image": "pages/PAGE_0063.webp",
+  "promptSource": "source-prompts/PAGE_0063.txt",
+  "promptSha256": "b4abce34df1354694eda28f90a96634260a0c9b9d4cc502701d3a009022d946c",
+  "prompt": "Use case: scientific-educational; dense 9:16 page. Source p.138–139 concepts only.\nTop title: 「まとまり全体は、数えない」\nScene: adventure-library baggage and information counter. Leopard sorts individual objects into collective clouds.\nMechanism pairs: 「a chair / furniture」 「a suitcase / luggage」 「a machine / machinery」 「a coin / money」 「a tip / advice」. Show individual form vs category mass.\nOriginal examples: 「The furniture looks new.」 「We carried a lot of luggage.」 「Mia gave me useful advice.」\nMini check: choose 「an advice / a piece of advice」. Answer: latter — advice is an uncountable information mass.\nTakeaway: 「一つ一つではなく、まとまりを見る語がある」\nCentral illustration, diagram, 3 examples, concise Japanese, problem+answer; approved style, no page number/source identity.\n\n"
+}

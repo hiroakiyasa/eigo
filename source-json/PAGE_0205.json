@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0205",
+  "number": 205,
+  "title": "人はwhom、ものはwhich？",
+  "chapter": {
+    "id": "relative",
+    "title": "名詞を後ろから特定する"
+  },
+  "unitId": "grammar-relative",
+  "pageType": "説明",
+  "image": "pages/PAGE_0205.webp",
+  "promptSource": "source-prompts/PAGE_0205.txt",
+  "promptSha256": "9faab8df05953f149daea05181632c89e6f19914b3e4b735b40967c43174f4f3",
+  "prompt": "Use case: scientific-educational; dense 9:16 portrait grammar page. Teach formal WHOM and subject-hole WHICH for things and animals, based on p.422–423 coverage without reuse.\nInput references: PAGE_0001 design and mascot identity.\nTop title: 「人はwhom、ものはwhich？」\nCentral illustration: mascot as a museum curator compares a casual WHO doorway with a formal WHOM arch, then guides object and animal exhibits through a WHICH gate into a subject-hole sentence.\nMechanism: 「日常会話の目的語＝whoが普通」「前置詞の直後・改まった文＝whom」「which＝人以外を指定」「主語の穴ではwhichの直後に動詞」.\nOriginal examples: “The mentor who I trust lives nearby.” / 「私が信頼する指導者・日常的」; “The researcher with whom I worked was patient.” / 「共に働いた研究者・改まった形」; “The drone which carries medicine is electric.” / 「薬を運ぶドローン」; “Dogs which need homes are waiting here.” / 「家を必要とする犬たち」.\nMini problem: 「ミニ問題：前置詞の直後」 “the colleague to (who / whom) I sent the file” Answer 「whom」. Reason 「toの目的語なので改まった形では目的格whom。」\nBottom ribbon: 「whomは特別席、whichは人以外の案内役」\nStyle: adventure-library grammar museum, blue/gold/white/red velvet formal arch, dimensional exhibits, dense clear typography.\nConstraints: 9:16; no page number, copied source content/layout, logo, citation, watermark, blank answer field, or photorealism. One mascot in curator pose.\n"
+}

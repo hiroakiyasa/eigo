@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0170",
+  "number": 170,
+  "title": "shallは、進むべき一本道",
+  "chapter": {
+    "id": "comparison",
+    "title": "比べる・否定する・気持ちを添える"
+  },
+  "unitId": "grammar-modals-2",
+  "pageType": "説明",
+  "image": "pages/PAGE_0170.webp",
+  "promptSource": "source-prompts/PAGE_0170.txt",
+  "promptSha256": "ec695c67d60e5d5f93edd03165a12cf9a2f67722972d49c928f6719d1a143118",
+  "prompt": "Use case: scientific-educational; dense 9:16 portrait grammar page. Independently teach modern SHALL: formal binding in rules, strong certainty, warm Shall I...? offers, and Shall we...? suggestions. Source p.352–353 is coverage only.\nInput references: mascot appearance and PAGE_0001 design.\nTop title: 「shallは、進むべき一本道」\nCentral illustration: leopard explorer as a formal path steward beside one golden rail that permits no branch. A legal seal binds the track; a warm hand extends at a Shall I? station; two travelers share a Shall we? route.\nMechanism: core 「選択肢をしぼる強い束縛」 branching to 「規則・契約のshall」「必ずそうなるという確信」「Shall I + 原形?＝申し出」「Shall we + 原形?＝一緒にする提案」. Usage note 「現代の日常会話ではShall I / Shall weが中心」.\nOriginal examples:\n1. “Payment shall be made within thirty days.” / 「契約上の義務」\n2. “We shall remember this day.” / 「必ず、という改まった確信」\n3. “Shall I open the window?” / 「温かく助力を申し出る」\n4. “Shall we take a short break?” / 「一緒の行動を提案」\nMini problem: 「ミニ問題：一緒に始める提案」 “(Shall / Must) we begin?” 「答え：Shall」 「weの進む道を相手と相談する表現。」\nBottom ribbon: 「古い助動詞でも、申し出と提案では今も温かい」\nStyle: glossy formal adventure-library golden rail, blue/yellow/white, red legal seal, thick outlines, dense readable composition.\nConstraints: no page number, copied source legal quotation/examples/figures/prose/layout, source marks, logo, citation, watermark, blank answer field, threat imagery, or photorealism. One mascot in steward pose.\n"
+}

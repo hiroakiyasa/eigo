@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0324",
+  "number": 324,
+  "title": "伝達動詞の型と疑問文レポート",
+  "chapter": {
+    "id": "flow",
+    "title": "文をつなぎ、会話を伝える"
+  },
+  "unitId": "grammar-advanced",
+  "pageType": "直感",
+  "image": "pages/PAGE_0324.webp",
+  "promptSource": "source-prompts/PAGE_0324.txt",
+  "promptSha256": "c6b8f24e581c8f8c410ec61dd0c8d1b3649e258b63f62e93194ce414b8dbcf9b",
+  "prompt": "Create a polished, dense educational English grammar page in portrait 9:16. Match the supplied cover's blue-gold-white-red explorer aesthetic with message routes, receiver icons, and question-to-clause transformations. Use the exact same leopard explorer mascot delivering reports to different recipients and flattening question word order into statement order. No page number, source name, watermark, logo, or copied source material.\n\nTop Japanese title: 「伝達動詞の型と疑問文レポート」\n\nUpper receiver map: choose construction by how strongly the verb requires a listener.\n\nTYPE 1 verb + person + content; receiver is essential:\ntell, inform, remind, assure\n• The guide told us that the path was closed. 「tellは誰に伝えたかが必要」\n\nTYPE 2 verb + (person) + content; receiver optional:\npromise, ask\n• Nao promised me that she would return the key. / Nao promised that... 「相手なしでも成立」\n\nTYPE 3 verb + preposition + person + content:\nsay to, admit to, explain to, complain to; agree with\n• Leo explained to me why the compass failed. 「受け手はtoで追加」\nAdd warning: say me ✗; tell me ✓; explain me ✗; explain to me ✓.\n\nLower main transformation: REPORTING A QUESTION. Show question marks entering a machine and emerging as embedded-clause word order.\nYes/no question:\n• “Did you lock the cabin?” → She asked me whether/if I had locked the cabin. 「if/whether + 主語＋動詞」\nWH question:\n• “Where is the first-aid kit?” → He asked where the first-aid kit was. 「wh語を残し、倒置を戻す」\nRule banner: no do/does/did and no question inversion inside the reported clause.\n\nSuggestion report:\n• “Let’s leave before dawn.” → Mina suggested that we leave before dawn. / Mina suggested leaving before dawn. 「内容に合わせて自由に再構成」\n\nMini practice: 「報告文へ：“Why are you laughing?” she asked Leo.」 Answer: 「She asked Leo why he was laughing.」 Reason: 「wh語whyを残し、he wasの平叙文語順に戻す」.\n\nBottom takeaway: 「動詞の型で受け手を置き、疑問文は節の語順へ戻す」. Dense, precise, readable.\n"
+}

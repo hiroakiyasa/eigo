@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0278",
+  "number": 278,
+  "title": "今に届く完了と経験",
+  "chapter": {
+    "id": "time",
+    "title": "時間を旅する"
+  },
+  "unitId": "grammar-past-simple",
+  "pageType": "英文",
+  "image": "pages/PAGE_0278.webp",
+  "promptSource": "source-prompts/PAGE_0278.txt",
+  "promptSha256": "0170a333e72024f470212c4023e63914dc7ae96ccb58d0499a2323bf901364bb",
+  "prompt": "Create a polished information-dense English grammar page in portrait 9:16, matching the supplied cover's vivid explorer design. Same leopard news-reporter mascot catching a recent event as it reaches NOW, beside an experience passport. No page number, source name, watermark, or logo.\n\nTop Japanese title: 「今に届く完了と経験」\n\nCentral split visual. Recent completion/news: just, already, yet around have + past participle. Experience: past events held as part of one's life up to now, often with ever/never.\n\nOriginal examples:\n• I've just found your notebook. 「たった今見つけた」\n• She has already sent the file. 「もう送った」\n• Have you finished yet? 「もう終えた？」\n• Have you ever ridden a horse? 「これまでに経験がある？」\n• I've never camped in winter. 「今まで一度もない」\n\nShow typical placement: have + just/already/ever/never + past participle; yet commonly at sentence end in questions/negatives. Note that a finished past time such as yesterday usually calls for simple past.\n\nMini practice: correct “I've visited Kyoto last spring.” Answer: “I visited Kyoto last spring.” Reason: 「last springは完結した過去時点」.\n\nTakeaway: 「現在完了は、過去の出来事を今のニュース・経験として持つ」.\n"
+}

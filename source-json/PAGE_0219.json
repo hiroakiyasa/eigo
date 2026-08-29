@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0219",
+  "number": 219,
+  "title": "前の-ingは種類、後ろは動き",
+  "chapter": {
+    "id": "verb-parts",
+    "title": "動きを部品にする"
+  },
+  "unitId": "grammar-gerunds",
+  "pageType": "説明",
+  "image": "pages/PAGE_0219.webp",
+  "promptSource": "source-prompts/PAGE_0219.txt",
+  "promptSha256": "49242ca6ba679badcf97aa33b0febd57647d7c9f7fde7fdf17498243eb9bb768",
+  "prompt": "Create a polished content-rich educational English grammar page, portrait 9:16, matching the supplied cover's energetic explorer aesthetic. Same leopard mascot attaching a front label to a noun and projecting a moving film behind another noun. No page number, source identity, watermark, or logo.\n\nTop Japanese title: 「前の-ingは種類、後ろは動き」\n\nCentral contrast diagram:\n-ing before noun = compact label that classifies purpose/type or salient characteristic;\n-ing after noun/object/clause = vivid scene showing who is doing what.\n\nOriginal examples with Japanese:\n• a sleeping bag 「寝るための袋＝用途」\n• a barking dog 「ほえている特徴で絞る」\n• Look at the dog sleeping by the fire. 「特定の犬の今の動作」\n• We saw Mia crossing the square. 「Mia＝横断中」\n• Leo entered the room carrying three boxes. 「入室と同時の動作」\n\nShow semantic warning: “sleeping bag” does not mean the bag itself is asleep. Add arrows from position to function.\n\nMini practice: compare “a running shoe” and “the child running outside.” Answer: first = shoe for running/type; second = child's action. Reason: 「前は分類、後ろは場面説明」.\n\nTakeaway: 「置く場所で、ラベルか映像かが決まる」. Strong central label-versus-film visual, dense examples and answer.\n"
+}

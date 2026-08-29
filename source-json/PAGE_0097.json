@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0097",
+  "number": 97,
+  "title": "’sは密着、ofは後ろから説明",
+  "chapter": {
+    "id": "nouns",
+    "title": "名詞の世界"
+  },
+  "unitId": "grammar-pronouns",
+  "pageType": "説明",
+  "image": "pages/PAGE_0097.webp",
+  "promptSource": "source-prompts/PAGE_0097.txt",
+  "promptSha256": "1047d927128e2fe74e81c2115bab6efff469233b2cfed01bc0beeb767697da83",
+  "prompt": "Use case: scientific-educational; dense 9:16 portrait grammar page. Independently explain possessive ’s forms, omitted place nouns, and the conceptual contrast between possessive before a noun and of after a noun. Source p.206–207 is coverage only.\nInput references: mascot appearance and PAGE_0001 design reference.\nTop title: 「’sは密着、ofは後ろから説明」\nCentral illustration: leopard explorer as a connector engineer. A golden possessive clamp attaches an owner before a noun; a blue OF telescope clarifies a noun from behind.\nMechanism: spelling rail 「単数 + ’s」「規則複数 -s + ’」「不規則複数 + ’s」 with fresh examples “Mina’s / the hikers’ / children’s”. Meaning split 「my / Mina’s + noun＝強く結びつける」 versus 「noun + of ...＝中身・種類を明確化」. Add omission badge 「at my uncle’s＝叔父の家・店など、場所名を省略」.\nOriginal examples:\n1. “We waited outside Mina’s studio.” / 「Minaとstudioを前から密着」\n2. “The hikers’ boots were muddy.” / 「複数-sの後ろに’」\n3. “I love the rhythm of this song.” / 「rhythmを後ろから明確に」\n4. “Taro is a friend of mine.” / 「私の友人のうちの1人」\nMini problem: 「ミニ問題：子どもたちの部屋」 “the (childrens’ / children’s) room” 「答え：children’s」 「childrenは不規則複数なので、そのまま’s。」\nBottom ribbon: 「前で結びつける所有格、後ろで輪郭を足すof」\nStyle: glossy adventure-library connector bay, blue/yellow/white, gold clamp and blue telescope, thick outlines, small red apostrophe highlights.\nConstraints: no page number, copied source examples/table/figure/prose/layout, source identity, brand names, logo, citation, watermark, answer field, or photorealism. One mascot in engineer pose.\n"
+}

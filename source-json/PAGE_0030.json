@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0030",
+  "number": 30,
+  "title": "届く？つなぐ？説明する？",
+  "chapter": {
+    "id": "framework",
+    "title": "文の骨組み"
+  },
+  "unitId": "grammar-be",
+  "pageType": "説明",
+  "image": "pages/PAGE_0030.webp",
+  "promptSource": "source-prompts/PAGE_0030.txt",
+  "promptSha256": "d6fa64e928c13183fd5ff12e96a36a160f319d7271a1443dc013f5f04ecfa3ea",
+  "prompt": "Use case: scientific-educational\nAsset type: dense 9:16 portrait English-grammar synthesis page\nPrimary request: Independently distinguish direct-object impact from an intransitive verb plus preposition, then introduce the explanation pattern where the complement describes or identifies the subject. Source pages 72–73 are topic coverage only; do not reuse their sentences, figures, metaphors, wording, or page structure.\nInput images: mascot appearance reference and PAGE_0001 approved design reference.\nCanvas: strict 9:16 portrait, one polished information-rich page, no page number.\nTop title (verbatim): 「届く？つなぐ？説明する？」\nCentral illustration: the leopard explorer in a three-way signal-controller pose directs sentences onto three glowing rails: DIRECT IMPACT, PREPOSITION BRIDGE, and SUBJECT DESCRIPTION.\nMechanism diagram: rail 1 「主語＋動詞＋目的語」 with a direct arrow labeled 「力が対象へ届く」. Rail 2 「主語＋動詞＋前置詞＋名詞」 with a bridge labeled 「前置詞が関係を示す」. Rail 3 「主語＋つなぎ動詞＋説明」 with an equals sign labeled 「主語＝説明」. Add note 「be は意味を足すより、主語と説明を結ぶ」.\nRequired original examples:\n1. “Mia reached the station.” / 「station に直接到達：目的語」\n2. “Mia looked at the clock.” / 「look は動作、at が向きを示す」\n3. “The sky became orange.” / 「The sky＝orange」\n4. “Our tent is beside the lake.” / 「場所の説明を be がつなぐ」\nMini practice box: 「ミニ問題：どの型？」 “The soup smells delicious.” 「答え：説明型」 「delicious が the soup の状態を説明する。」\nBottom takeaway ribbon: 「動詞の後ろとの関係を見れば、文の骨組みがわかる」\nStyle: bright glossy adventure-library control junction, blue/yellow/white with small red direction arrows, dimensional rails, thick outlines, dense but phone-readable.\nConstraints: no page number, copied source sentence/diagram/prose/layout, source identity, logo, citation, watermark, answer-writing space, random filler, or photorealism. Mascot appears once in distinct signal-controller pose.\n"
+}

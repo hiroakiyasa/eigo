@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0245",
+  "number": 245,
+  "title": "whetherとwh節を名詞の席へ",
+  "chapter": {
+    "id": "verb-parts",
+    "title": "動きを部品にする"
+  },
+  "unitId": "grammar-passive",
+  "pageType": "説明",
+  "image": "pages/PAGE_0245.webp",
+  "promptSource": "source-prompts/PAGE_0245.txt",
+  "promptSha256": "d2babcf637417d19dc61cf6e88e839b35bb3527bc6be0b0c90c7e80c5f0fdc2d",
+  "prompt": "Create a polished information-dense English grammar page in portrait 9:16, matching the supplied cover's blue-and-gold explorer style. Same leopard mascot balancing WHETHER choices and putting WH clauses into normal word order. No page number, source identity, watermark, or logo.\n\nTop Japanese title: 「whetherとwh節を名詞の席へ」\n\nCentral split illustration. WHETHER balance holds A / not A and can serve as subject; avoid sentence-initial if for this formal noun-clause use. WH clause machine changes a direct question into statement order inside a larger sentence.\n\nOriginal examples:\n• Whether the bus will come is uncertain. 「来るかどうか」\n• Whether we stay or leave depends on the weather. 「残るか出るか」\n• Where Ken went remains a mystery. 「Kenがどこへ行ったか」\n• Our choice depends on how much time remains. 「どれほど時間が残るか」\n\nContrast: “Where did Ken go?” direct question → “where Ken went” embedded clause. Show wh + subject + verb, no do-support or inversion.\n\nMini practice: correct “Where did Ken go is unknown.” Answer: “Where Ken went is unknown.” Reason: 「wh節の中は通常語順」.\n\nTakeaway: 「二択はwhether、wh節は疑問語＋平叙語順」. Dense balance and word-order diagram, examples, answer.\n"
+}

@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0073",
+  "number": 73,
+  "title": "数より、“ひとまとまり”を見る",
+  "chapter": {
+    "id": "nouns",
+    "title": "名詞の世界"
+  },
+  "unitId": "grammar-articles",
+  "pageType": "まとめ",
+  "image": "pages/PAGE_0073.webp",
+  "promptSource": "source-prompts/PAGE_0073.txt",
+  "promptSha256": "1312e8ff82e669875542da2fbd390f89de4f3baa971868468bcca38b1f3f5995",
+  "prompt": "Use case: scientific-educational; dense 9:16 portrait grammar page. Independently teach the viewpoint choices covered in source p.158–159 without copying any wording, example, list, metaphor, or layout.\nInput references: mascot appearance and PAGE_0001 visual language.\nTop title: 「数より、“ひとまとまり”を見る」\nCentral illustration: leopard explorer as a packing expert places many small items into one glowing package labeled ONE AMOUNT, then opens other packages into groups and paired actions.\nMechanism board with four routes: 「the + 形容詞＝ある人々 → 複数」「距離・時間・金額を1つの量として見る → 単数」「2者が関わる動作 → 複数の形」「数が未定なら複数でたずねるのが自然」.\nOriginal examples:\n1. “The injured were taken to safety.” / 「the + 形容詞で人々、複数扱い」\n2. “Ten kilometers is a long walk.” / 「距離全体を1つの量に」\n3. “The two climbers shook hands.” / 「2人の手が関わる」\n4. “Do you sell hiking boots?” / 「数を決めず種類をたずねる」\nMini practice: 「ミニ問題：is / are？」 “Five hours (is / are) enough.” 「答え：is」 「5時間を1つの時間量としてまとめて見る。」\nBottom ribbon: 「英文の数は、頭の中の包み方を映す」\nStyle: bright blue-yellow-white adventure-library packing hall, glossy quantity bundles, arrows and paired icons, thick outlines, red only for agreement words.\nConstraints: no page number, copied source material, source identity, logo, citation, watermark, empty answer area, extra prose, or photorealism. One mascot in a distinct packing pose.\n"
+}

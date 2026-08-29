@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0300",
+  "number": 300,
+  "title": "短文から“流れ”のある英語へ",
+  "chapter": {
+    "id": "time",
+    "title": "時間を旅する"
+  },
+  "unitId": "grammar-conditionals",
+  "pageType": "説明",
+  "image": "pages/PAGE_0300.webp",
+  "promptSource": "source-prompts/PAGE_0300.txt",
+  "promptSha256": "69c7b27f9da78935a5110e7f3b3f389414d220e5dec35c8c6215209ad92bc9d9",
+  "prompt": "Use case: scientific-educational\nAsset type: dense illustrated sentence-flow roadmap, portrait 9:16\nPrimary request: Create an accessible transition into combining sentences. Explain that knowing individual sentence patterns is the first stage; fluent English also needs relationships across ideas. Preview three tools: conjunction/linking, substitution to avoid repetition, and omission of recoverable material. This is a conceptual roadmap, not a full conjunction lesson.\nInput images: PAGE_0001 approved blue-gold design reference; mascot_reference exact leopard explorer.\nCanvas: exact 941×1672, full bleed, safe margins, no page number.\nTop Japanese title: 「短文から“流れ”のある英語へ」\nCentral illustration: leopard bridge-builder connects separate sentence islands into one smooth route. Three gold tools labeled つなぐ, 代える, 省く.\nMechanism diagram: separate ideas A. B. C. → relationship signs (追加・対比・理由・結果・選択) → coherent passage. Three preview panels: LINK “The sun set, so we turned back.” / 「結果を示してつなぐ」; SUBSTITUTE “I chose the red map; Mia chose the blue one.” / 「oneで名詞の反復を避ける」; OMIT “Leo packed a rope, and Mia a lantern.” / 「復元できる語を省く」.\nMeaning arrows: and=追加, but=対比, or=選択, because=理由, so=結果, presented only as a preview map.\nOriginal mini passage: “The trail looked safe, but clouds gathered. Because daylight was fading, we returned early.” / 「文同士の関係が見えると読み手が迷わない」\nMini practice: 「関係を明示：It started raining. We opened our umbrellas. → It started raining, (so / but) we opened our umbrellas.」 Answer: “so”. Reason: 「後ろが前の出来事の結果。」\nBottom takeaway: 「文法的に正しい短文を、意味の関係で結んで流れにする」\nStyle: bright glossy blue-gold-white-red grammar bridge map, thick outlines, lively icons, dense readable content, mascot once as bridge-builder.\nConstraints: no page number, source wording/figure reuse, source identity, logo, citation, watermark.\nAvoid: full technical taxonomy, cramped text, treating substitution and omission as conjunctions.\n"
+}

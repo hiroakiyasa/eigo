@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0216",
+  "number": 216,
+  "title": "長い文は骨組みから組み立てる",
+  "chapter": {
+    "id": "relative",
+    "title": "名詞を後ろから特定する"
+  },
+  "unitId": "grammar-relative",
+  "pageType": "説明",
+  "image": "pages/PAGE_0216.webp",
+  "promptSource": "source-prompts/PAGE_0216.txt",
+  "promptSha256": "2b25615b7a4737bad06fe7271a8150b1fb0055c757d81354edd79ad033164656",
+  "prompt": "Create a polished, content-rich English grammar page in portrait 9:16, matching the supplied cover's vivid blue-and-gold style. Same leopard architect mascot constructing a sentence building layer by layer. No page number, source name, watermark, or logo.\n\nTop Japanese title: 「長い文は骨組みから組み立てる」\n\nCentral construction diagram: 1 find the core subject + verb + object/complement; 2 add small modifiers; 3 attach larger free elements. Use color-coded structural layers rather than a fixed page template.\n\nBuild-up sequence with original sentences:\n• Mia opened the box. 「骨組み」\n• Mia carefully opened the box on the shelf. 「様子＋場所」\n• Hoping to find a clue, Mia carefully opened the box on the shelf. 「気持ち・目的を追加」\n• The box hidden behind the books contained a key. 「過去分詞でboxを説明」\n\nAdd a deconstruction strip: “Hoping to help, Leo carried the heavy bag upstairs.” Highlight core “Leo carried the bag”; label Hoping to help = background motive, heavy = noun modifier, upstairs = direction.\n\nMini practice: find the core in “Surprised by the noise, Mina quickly closed the window.” Answer: “Mina closed the window.” Reason: 「残りは状態と様子を足す修飾」.\n\nTakeaway: 「まず骨格、あとから情報の層を重ねる」. Architect scene, step arrows, examples, question+answer.\n"
+}

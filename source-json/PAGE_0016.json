@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0016",
+  "number": 16,
+  "title": "on は、接して支える",
+  "chapter": {
+    "id": "guide",
+    "title": "冒険の地図"
+  },
+  "unitId": "grammar-verbs-present",
+  "pageType": "説明",
+  "image": "pages/PAGE_0016.webp",
+  "promptSource": "source-prompts/PAGE_0016.txt",
+  "promptSha256": "96dec7ac42d1bb78994e7fda91fd4cf605259bf1dc64345a067f091acde5ea48",
+  "prompt": "Use case: scientific-educational\nAsset type: dense portrait intuitive vocabulary page for an illustrated English grammar book\nPrimary request: Independently teach the core spatial image of “on” as contact plus support, then show how that image extends to place, dependence, and attention. Source pages 41–43 are semantic coverage only. Do not reuse their examples, illustration, sequence, or wording.\nInput images: Image 1 is the mascot appearance reference; Image 2 is PAGE_0001, the approved adventure-library visual reference. Preserve mascot identity and the unified glossy adventure-library style while making an original scene.\nCanvas: strict 9:16 portrait, one full-bleed finished page, high content density, safe margins, no page number.\nTop title (verbatim): 「on は、接して支える」\nCentral illustration: the leopard explorer in a lively science-demonstrator pose presses one glowing golden grammar sphere against a blue platform. At the contact point, a bright ring and arrows show 「接触」＋「支え」.\nMechanism diagram: from the contact point, four visual routes spread to miniature scenes with labels: 「物理的に接する」→「線に沿う」→「支え・動力」→「意識を向ける」. Keep a single core icon repeated subtly so the semantic expansion is intuitive.\nRequired original example cards, render exactly:\n1. “There is a sticker on my notebook.” / 「ノートに触れて付いている」\n2. “Our café is on River Street.” / 「通りという線に沿っている」\n3. “This clock runs on solar power.” / 「太陽光を支えに動く」\n4. “Keep your eyes on the path.” / 「視線を道にぴたりと向ける」\nSmall contrast note (verbatim): 「“上”だけではない。核は接触。」\nMini practice box (verbatim): 「ミニ確認：The team depends on its captain. の on は？」 「答え：支え」 「チームが主将を土台のように頼っている。」\nBottom takeaway ribbon (verbatim): 「訳を暗記せず、ひとつの絵から意味を広げよう」\nStyle/medium: glossy colorful educational adventure illustration; blue, yellow, white, small red accent; dimensional blocks, library science gallery, crisp thick outlines, rich small scene details. Central illustration + mechanism flow + four example cards, compact yet clear.\nTypography: exact readable English, bold Japanese Gothic, strong hierarchy. No extra prose beyond specified labels.\nConstraints: include only the specified mini practice with answer and explanation; no page number, source identity, logo, citation, copied example, copied diagram, copied layout, or watermark. Use the mascot once in a distinct demonstrator pose.\nAvoid: sparse composition, tiny low-contrast copy, overlarge mascot, random extra captions, checkerboard transparency, photorealism.\n"
+}

@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0181",
+  "number": 181,
+  "title": "句動詞は“まとまり方”で見抜く",
+  "chapter": {
+    "id": "prepositions",
+    "title": "位置関係を描く"
+  },
+  "unitId": "grammar-prepositions-1",
+  "pageType": "説明",
+  "image": "pages/PAGE_0181.webp",
+  "promptSource": "source-prompts/PAGE_0181.txt",
+  "promptSha256": "bd7e2371bde42e78a425dcfe183a0199aa7ff93d27866ccd694acf1a680e4ff5",
+  "prompt": "Create a polished, information-dense educational English grammar page in portrait 9:16. Match the supplied cover's vivid blue, gold, white, and red explorer aesthetic: rounded gold frame, deep-blue panels, white cards, red highlights, crisp textbook infographic typography. Use the exact same cute leopard explorer mascot, now sorting glowing English word tiles into three trails. No page number, source name, watermark, logo, copied diagram, or copied example.\n\nTop Japanese title: 「句動詞は“まとまり方”で見抜く」\n\nCentral visual: a jungle expedition map showing VERB + small word as one meaning unit. Label it 「動詞＋副詞・前置詞＝新しい動き」. Show that the whole unit can function like a verb, and that placement determines its behavior.\n\nLarge three-route mechanism diagram:\n1 「自動型：目的語なし」 — the mascot arrives at camp; particle stays attached.\n• The guests showed up early. 「客は早く現れた」\n• Our old printer broke down. 「古いプリンターが故障した」\n2 「他動型：分離しない」 — a locked chain around verb + particle, then an object.\n• I ran into my science teacher. 「理科の先生に偶然会った」\n• We are looking for a quiet café. 「静かなカフェを探している」\n3 「他動型：分離できる」 — object tile can enter the middle.\n• Please turn the radio down. / Please turn down the radio. 「ラジオの音を下げて」\n• Let’s put the trip off. / Let’s put off the trip. 「旅行を延期しよう」\n\nAdd a compact diagnostic strip: 「①目的語が要る？ → ②間に入れられる？ → 3タイプ判定」 with arrows and colored icons. Add a warning badge: 「意味は単語の足し算より“場面”で覚える」.\n\nMini practice card: 「次の型は？ Mina picked on her little brother.」 Choices A 目的語なし / B 分離不可 / C 分離可. Answer: 「B」. One-line reason: 「picked on が一体で、her little brother が目的語」.\n\nBottom takeaway ribbon: 「句動詞は ①目的語 ②分離 の2点で整理」. Keep all text readable, dense but orderly, with a central illustration, mechanism diagram, original examples, mini problem, answer, and reason.\n"
+}

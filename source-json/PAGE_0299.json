@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0299",
+  "number": 299,
+  "title": "過去の物語は細部も過去色",
+  "chapter": {
+    "id": "time",
+    "title": "時間を旅する"
+  },
+  "unitId": "grammar-conditionals",
+  "pageType": "説明",
+  "image": "pages/PAGE_0299.webp",
+  "promptSource": "source-prompts/PAGE_0299.txt",
+  "promptSha256": "6396625fd78e4a8327c6f8cc46eaf91510b7685e9f34d11c0f822e9a02819136",
+  "prompt": "Use case: scientific-educational\nAsset type: dense illustrated past narrative tense page, portrait 9:16\nPrimary request: Extend the “past frame pulls details into the past” idea beyond reported speech. Teach that reasons, relative-clause descriptions, abilities, and setting details inside a past story naturally use past forms even when the property may still be true now. End with a bridge toward combining sentences.\nInput images: PAGE_0001 approved visual reference; mascot_reference exact leopard explorer.\nCanvas: exact 941×1672, strict 9:16, no page number.\nTop Japanese title: 「過去の物語は細部も過去色」\nCentral illustration: mascot paints an entire adventure panorama with a PAST-blue paint roller; main events and attached detail bubbles receive the same past tint.\nMechanism diagram: PAST STORY FRAME contains main event + because reason + relative-clause description + could ability. “Now still true?” is separate from “Which time frame am I narrating?”\nOriginal example cards: “We chose the hill because it was quiet.” / 「今も静かでも、過去の選択の理由」; “We followed a path that ran beside the river.” / 「今も続く道でも物語内はran」; “From the tower, we could see the harbor.” / 「その時点の見え方」; “The café stood near a bridge that crossed the canal.” / 「背景描写も過去枠」.\nMini practice: 「昨日の旅行記：We rested under a tree that (gives / gave) plenty of shade.」 Answer: “gave”. Reason: 「過去の物語に組み込まれた説明だから。」\nTransition strip: “Next: one sentence → connected flow” with icons for linking, substitution, omission.\nBottom takeaway: 「物語の箱が過去なら、付属する説明も自然に過去になる」\nStyle: glossy blue-gold-white-red story panorama, thick outlines, dense illustrated examples, mascot once as cheerful painter.\nConstraints: no page number, copied story/source figure, source identity, logo, citation, watermark.\nAvoid: implying the place no longer exists, present-tense drift.\n"
+}

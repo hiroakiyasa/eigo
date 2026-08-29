@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0317",
+  "number": 317,
+  "title": "接続表現から“流れを整える”へ",
+  "chapter": {
+    "id": "flow",
+    "title": "文をつなぎ、会話を伝える"
+  },
+  "unitId": "grammar-reported-speech",
+  "pageType": "まとめ",
+  "image": "pages/PAGE_0317.webp",
+  "promptSource": "source-prompts/PAGE_0317.txt",
+  "promptSha256": "aa708294dc3e8bfcc53f2de82d7fa3f58b16af44457cded01d8416213705371c",
+  "prompt": "Create a polished, content-rich educational English grammar summary page in portrait 9:16, matching the supplied cover's vivid blue, gold, white, and red explorer-book design. Use the exact same leopard explorer mascot at a large junction map, then tidying repeated luggage into a smooth-flowing caravan. No page number, source name, watermark, logo, copied source art, or copied source sentence.\n\nTop Japanese title: 「接続表現から“流れを整える”へ」\n\nMake this a learning-rich transition page, not a decorative chapter divider. Central “CONNECTION MAP” has five colored routes:\nPURPOSE 「何のため」 → to, so that\nCONCESSION 「逆風でも」 → although, despite\nCONTRAST 「二つの面」 → whereas, on the other hand\nTIME 「いつ・重なり」 → when, while, since\nEQUALITY 「同時・役割」 → as\n\nAdd one original micro-example per route:\n• We saved a seat so that Nao could join us. 「目的」\n• Although it was noisy, I concentrated. 「譲歩」\n• This route is longer, whereas that one is steeper. 「対比」\n• Call me when you reach the gate. 「時間」\n• As the moon rose, the air cooled. 「密着した同時」\n\nLower central illustration introduces “GOOD FLOW” as three tools that remove traffic jams in writing:\n1 substitution 「同じ語を別の短い語で受ける」\n2 ellipsis 「分かる重なりを消す」\n3 annotation 「必要な説明だけ差し込む」\nShow before: bulky repeated sentence carts; after: a clean caravan connected by one/so/auxiliary/comma tags.\n\nAdd a diagnostic strip: 「つなぐ → 重なりを探す → 代用か省略 → 必要なら注釈」.\n\nMini practice: 「目的を示す接続表現：I wrote it down ___ I wouldn’t forget.」 Answer: 「so that」. Reason: 「主語Iを含む目的節を後ろにつなぐ」.\n\nBottom takeaway ribbon: 「正しい文を、読みやすい流れへ磨く」. Dense, polished, chapter-transition feeling without any page number.\n"
+}

@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0297",
+  "number": 297,
+  "title": "助動詞の時制シフト",
+  "chapter": {
+    "id": "time",
+    "title": "時間を旅する"
+  },
+  "unitId": "grammar-conditionals",
+  "pageType": "説明",
+  "image": "pages/PAGE_0297.webp",
+  "promptSource": "source-prompts/PAGE_0297.txt",
+  "promptSha256": "082fdc7ad8c1cc42d892c1fe5cff8140f99028534bd328991458d73c102e7d86",
+  "prompt": "Use case: scientific-educational\nAsset type: dense illustrated reported-speech modal page, portrait 9:16\nPrimary request: Organize how modal verbs behave under a past reporting verb. Show will→would, may→might, can→could; must, should, used to, ought to remain unchanged because no ordinary further-past form exists; already-past or tentative would/could/might also remain unchanged. Independently reconstruct.\nInput images: PAGE_0001 style reference; mascot_reference exact leopard explorer.\nCanvas: exact 941×1672, full bleed, no page number.\nTop Japanese title: 「助動詞の時制シフト」\nCentral illustration: mascot operates a three-lane gear machine. Green gears transform WILL/MAY/CAN; gold shielded gears MUST/SHOULD/USED TO/OUGHT TO do not change; blue gears WOULD/COULD/MIGHT are already shifted or tentative and stay.\nMechanism diagram with three columns: SHIFT, STAY—NO PAST FORM, STAY—ALREADY REMOTE.\nOriginal example cards: “She said she would meet us later.” / 「willからwould」; “I told them we might be late.” / 「mayからmight」; “Dad said I must wear a helmet.” / 「mustはそのまま」; “Lena said she could swim at four.” / 「過去の能力couldはさらに変えない」.\nSmall advanced card: “He said he would travel more if he had time.” / 「仮定法のwouldはそのまま」; “My coach said I ought to rest.” / 「ought toもそのまま」.\nMini practice: 「‘I can fix it.’ → Ravi said he (could / had could) fix it.」 Answer: “could”. Reason: 「canの過去側はcould。had couldは作らない。」\nBottom takeaway: 「変えられる3組だけ一歩戻す。戻し形がなければそのまま」\nStyle: glossy blue-gold-white-red modal gear laboratory, thick outlines, highly legible tables, mascot once as mechanic.\nConstraints: no page number, copied examples/figures, source identity, logo, citation, watermark.\nAvoid: “had could,” changing should to a nonexistent form, excessive text.\n"
+}

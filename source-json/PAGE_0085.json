@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0085",
+  "number": 85,
+  "title": "someの温かさ、anyの自由",
+  "chapter": {
+    "id": "nouns",
+    "title": "名詞の世界"
+  },
+  "unitId": "grammar-nouns",
+  "pageType": "説明",
+  "image": "pages/PAGE_0085.webp",
+  "promptSource": "source-prompts/PAGE_0085.txt",
+  "promptSha256": "77ea0404733b18ab5c5f33f405b69d54abda97aaa91667ba0c6a4a8ab73793e4",
+  "prompt": "Use case: scientific-educational\nAsset type: dense portrait nuance page for an illustrated English grammar book\nPrimary request: Teach warm offering/request uses of some, normal plural behavior with count nouns, the special evasive or dismissive nuance of some plus singular, and introduce any as opening free choice. Source pages 182–183 guide coverage only; independently reconstruct everything.\nInput images: mascot identity only; PAGE_0001 visual system only.\nCanvas: strict 9:16 portrait, full-bleed, high information density, no page number.\nTop title (verbatim): 「someの温かさ、anyの自由」\nCentral illustration: the leopard explorer in a café-host pose offers a tray of cocoa on one side; on the other, an open treasure-card fan labeled “any” invites free choice. A shadowy “some person” silhouette sits in a small nuance panel.\nMechanism diagram: “some＝あるよ、と差し出す” versus “any＝どれを選んでも自由”. Add small advanced badge: “some + 単数＝誰だかぼかす／重視しない”.\nOriginal example cards:\n1. “Would you like some cocoa?” / 「用意できるよ、という温かい提案」\n2. “Could I have some napkins?” / 「必要な量をやわらかく求める」\n3. “Some traveler left this note.” / 「誰なのか、あえてぼかす」\n4. “Choose any badge you like.” / 「どれでも自由に選べる」\nMini practice: 「ミニ問題　すすめる気持ちなら？」 “Would you like (some / any) soup?”\nAnswer: 「答え　some」 「差し出す準備がある提案では some が自然。」\nBottom ribbon: 「someは“こちらにある”、anyは“選択を開く”」\nStyle: PAGE_0001 blue-yellow-white adventure-library café, gold glow, dimensional word blocks, crisp thick outlines, red only on some/any contrast, one mascot, accurate large text.\nConstraints: no copied source wording/examples/figures/layout/order, source identity, citation, logo, ISBN, watermark, page number, or extra prose; no photorealism, dark background, or tiny type.\n"
+}

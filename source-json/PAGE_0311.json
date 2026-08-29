@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0311",
+  "number": 311,
+  "title": "目的表現は“ゴールへの矢印”",
+  "chapter": {
+    "id": "flow",
+    "title": "文をつなぎ、会話を伝える"
+  },
+  "unitId": "grammar-conditionals",
+  "pageType": "説明",
+  "image": "pages/PAGE_0311.webp",
+  "promptSource": "source-prompts/PAGE_0311.txt",
+  "promptSha256": "72c0b3967b218cdee25202d60cabe3bc03409055b4ddd5d4be992f84acc2f324",
+  "prompt": "Create a polished, information-dense educational English grammar infographic in portrait 9:16. Match the supplied cover's vivid blue, gold, white, and red explorer aesthetic: rounded gold frame, deep-blue panels, white cards, red highlights, crisp textbook typography. Use the exact same cute leopard explorer mascot aiming arrows at goals and choosing among purpose-expression tools. No page number, source name, watermark, logo, copied illustration, copied sentence, or copied layout.\n\nTop Japanese title: 「目的表現は“ゴールへの矢印”」\n\nCentral mechanism: one action path points to a goal flag. Show a choice by structure and formality, not a list to memorize.\n\nMost common compact forms:\n• TO + verb: We left early to avoid the traffic. 「渋滞を避けるため」\n• IN ORDER TO + verb: The lab was sealed in order to protect the samples. 「目的を明確に強調」\n• SO AS TO + verb: Please speak quietly so as not to wake the baby. 「やや改まった目的表現」\n\nClause forms with their own subject or modal:\n• SO (THAT): I moved the lamp so that everyone could read. 「全員が読めるように」\n• IN ORDER THAT: The data were backed up in order that no record would be lost. 「フォーマル、thatは保つ」\n• SUCH THAT: Arrange the seats such that every child can see the stage. 「そうなる方法・配置で」\n\nAdd a structure chart:\nto / in order to / so as to + base verb\nso that / in order that / such that + subject + verb\n\nOther-purpose treasure cards:\n• in such a way that: She explained it in such a way that beginners understood. 「初心者にも分かる方法で」\n• for the sake of: We changed the route for the sake of safety. 「状況改善・安全のため」\nAdd a respectful-language note: avoid casual religious exclamations in formal or mixed audiences.\n\nMini practice: 「別の主語を入れる：I marked the box ___ the courier could find it.」 Answer: 「so that」. Reason: 「目的節に主語the courierが必要なのでto不定詞ではなく節を使う」.\n\nBottom takeaway ribbon: 「動詞だけならto系／主語つきならthat節」. Dense but orderly and readable.\n"
+}

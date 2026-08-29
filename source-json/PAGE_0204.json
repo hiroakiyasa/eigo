@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0204",
+  "number": 204,
+  "title": "穴の場所とwhoseの持ち物",
+  "chapter": {
+    "id": "relative",
+    "title": "名詞を後ろから特定する"
+  },
+  "unitId": "grammar-relative",
+  "pageType": "説明",
+  "image": "pages/PAGE_0204.webp",
+  "promptSource": "source-prompts/PAGE_0204.txt",
+  "promptSha256": "ad014d85f7defa8442e6463b68edc0185c3943af586b7f66d1bec4c45e8cacd4",
+  "prompt": "Use case: scientific-educational; dense 9:16 portrait grammar page. Explain how hole position changes meaning and how WHOSE + noun links ownership, using p.420–421 only as topic coverage.\nInput references: PAGE_0001 design and mascot identity.\nTop title: 「穴の場所とwhoseの持ち物」\nCentral illustration: mascot as a switchboard operator routes the same person card to subject or object sockets, then opens an ownership backpack labeled WHOSE containing family, pet, and tool cards.\nMechanism: contrast 「the boy who called Mia＝boyが電話した」「the boy who Mia called＝Miaがboyに電話した」; ownership flow 「人・ものを受ける→whose + 名詞→その持ち物を説明」.\nOriginal examples: “I met a musician whose sister builds guitars.” / 「姉妹がギターを作る音楽家」; “We hired a photographer whose pictures feel alive.” / 「写真が生き生きした写真家」; “That is the child who the coach praised.” / 「コーチがほめた子」.\nMini problem: 「ミニ問題：“母が科学者の友達”」 “a friend (who / whose) mother is a scientist” Answer 「whose」. Reason 「friendの“母”という所有関係を作るから。」\nBottom ribbon: 「語順を追えば、誰が何をしたか迷わない」\nStyle: glossy adventure-library switchboard room, blue/gold/white/red, sentence sockets and ownership backpack, thick outlines.\nConstraints: exact 9:16; no page number, copied source examples/diagrams/prose/layout, source marks, logo, citation, watermark, answer field, or photorealism. Exactly one mascot in operator pose.\n"
+}

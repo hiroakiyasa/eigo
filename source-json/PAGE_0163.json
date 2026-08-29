@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0163",
+  "number": 163,
+  "title": "mustは、強い圧力",
+  "chapter": {
+    "id": "comparison",
+    "title": "比べる・否定する・気持ちを添える"
+  },
+  "unitId": "grammar-modals-1",
+  "pageType": "説明",
+  "image": "pages/PAGE_0163.webp",
+  "promptSource": "source-prompts/PAGE_0163.txt",
+  "promptSha256": "7d8c3e31d313fbcffb87623fb5be1c5be9223d0caefb7c496676e96e203920f6",
+  "prompt": "Use case: scientific-educational; dense 9:16 portrait grammar page. Independently teach MUST as pressure leading to obligation, prohibition, strong recommendation, and confident deduction, plus had to for past obligation. Source p.338–340 is coverage only.\nInput references: mascot identity and PAGE_0001 visual language.\nTop title: 「mustは、強い圧力」\nCentral illustration: leopard explorer as a pressure-gauge operator. One red pressure force pushes a verb toward four destinations: required action, blocked action, enthusiastic recommendation, unavoidable conclusion.\nMechanism: core 「今ここで感じる強い圧力」 branching to 「must do＝しなければ」「must not do＝禁止」「You must try...＝強いおすすめ」「must be...＝そうに違いない」. Time badge 「過去の義務は had to」.\nOriginal examples:\n1. “We must reach the cabin before dark.” / 「暗くなる前に着く必要が強い」\n2. “You mustn’t cross the red line.” / 「強い禁止」\n3. “You must taste this peach.” / 「ぜひ、という好意的な圧力」\n4. “The lights are on; someone must be inside.” / 「証拠が結論へ押す」\nMini problem: 「ミニ問題：昨日は早く帰る必要があった」 “I (must / had to) leave early yesterday.” 「答え：had to」 「過去の必要はhad toで客観的に述べる。」\nBottom ribbon: 「行動にも結論にも、“ほかに道がない”を加える」\nStyle: cover-quality adventure-library pressure lab, blue/gold/white, red pressure arrows, thick outlines, dense clear panels.\nConstraints: no page number, copied source examples/figures/text/layout, source identity, logo, citation, watermark, blank answer area, or photorealism. One mascot in gauge pose.\n"
+}

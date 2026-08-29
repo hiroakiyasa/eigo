@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0086",
+  "number": 86,
+  "title": "anyは、選択肢を全部ひらく",
+  "chapter": {
+    "id": "nouns",
+    "title": "名詞の世界"
+  },
+  "unitId": "grammar-determiners",
+  "pageType": "説明",
+  "image": "pages/PAGE_0086.webp",
+  "promptSource": "source-prompts/PAGE_0086.txt",
+  "promptSha256": "43be81ccad76bed81c128ccfc6758bfa94296a43e2d2d0e2fc380e8654e0e794",
+  "prompt": "Use case: scientific-educational\nAsset type: dense portrait mechanism page for an illustrated English grammar book\nPrimary request: Explain any as unrestricted choice and why it fits questions, negatives, and if-conditions; show that in a negative sentence any stays inside the scope of not. Source pages 184–185 guide coverage only; all examples, explanations, and graphics must be new.\nInput images: mascot appearance reference only; PAGE_0001 style reference only.\nCanvas: strict 9:16 portrait, dense and phone-readable, no page number.\nTop title (verbatim): 「anyは、選択肢を全部ひらく」\nCentral illustration: the leopard explorer in a gate-opener pose unlocks a fan of many glowing paths in the adventure library; a question arch, a NOT barrier, and an IF gate organize the routes.\nMechanism diagram: center “ANY＝どれを選んでも” branching to “疑問：1つでもある？” “否定：1つもない” “if：どんな場合でも条件に入る”. Order warning: “not ... any ✓ / any ... not ✕” in a compact red-bordered badge.\nOriginal example cards:\n1. “Do you have any spare batteries?” / 「種類を問わず1本でも？」\n2. “I don’t have any spare batteries.” / 「どの電池も持っていない」\n3. “If you find any clue, call me.” / 「どんな手がかりでも見つけたら」\n4. “You may sit anywhere.” / 「どこを選んでも自由」\nMini practice: 「ミニ問題　自然な語順は？」 choices “Anyone can’t enter.” / “No one can enter.”\nAnswer: 「答え　No one can enter.」 「全員を否定するなら no one。not + any も否定の右側に置く。」\nBottom ribbon: 「anyは選択を広げ、疑問・否定・条件で力を発揮」\nStyle: glossy PAGE_0001 adventure-library gate network, blue/yellow/white with gold rails, dimensional icons, bold outlines, red only for NOT, mascot once, accurate readable type.\nConstraints: original content and layout; no source sentences/figures/wording, identity, citation, logo, ISBN, watermark, page number, or extra prose; no photorealism, sparse poster, or tiny text.\n"
+}

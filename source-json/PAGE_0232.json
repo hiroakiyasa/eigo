@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0232",
+  "number": 232,
+  "title": "toの前後で時間と否定を整える",
+  "chapter": {
+    "id": "verb-parts",
+    "title": "動きを部品にする"
+  },
+  "unitId": "grammar-inf-vs-gerund",
+  "pageType": "説明",
+  "image": "pages/PAGE_0232.webp",
+  "promptSource": "source-prompts/PAGE_0232.txt",
+  "promptSha256": "552da188de8fd33a7301a10824219ffb38b34716d92c184b710d8ec765cabbf9",
+  "prompt": "Use case: scientific-educational; dense 9:16 portrait grammar page. Teach when perfect infinitives are necessary and how to negate infinitives, based on p.476–477 coverage.\nInput references: PAGE_0001 design and mascot identity.\nTop title: 「toの前後で時間と否定を整える」\nCentral illustration: mascot as a timeline technician selects SIMPLE TO when sequence is obvious, PERFECT TO HAVE DONE when earlier timing needs emphasis, and places a NOT shield immediately before TO.\nMechanism: 「時間差が明白→普通のtoで十分」「“それ以前”を明示→to have + 過去分詞」「to不定詞を否定→not to + 原形」. Add caution 「必要以上に完了形を重くしない」.\nOriginal examples: “I'm proud to finish the marathon.” / 「完走できて誇らしい・順序は明白」; “The file seems to have disappeared overnight.” / 「夜のうちに消えたらしい」; “Maya promised not to reveal the surprise.” / 「秘密を明かさないと約束」; “Try not to bend the card.” / 「カードを曲げないように」.\nMini problem: 「ミニ問題：否定の位置」 “We decided (to not / not to) wait any longer.” Answer 「not to」. Reason 「否定する内容to waitの直前にnotを置く。」\nBottom ribbon: 「前の出来事はto have done、否定はnot to」\nStyle: adventure-library time laboratory, blue/gold/white/red timeline, NOT shield, thick outlines, dense clear panels.\nConstraints: 9:16; no page number, copied prose/examples/figures/layout, source marks, logo, citation, watermark, empty answer space, or photorealism. One mascot technician.\n"
+}

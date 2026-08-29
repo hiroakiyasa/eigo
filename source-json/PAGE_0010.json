@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0010",
+  "number": 10,
+  "title": "置き場所で、役目が変わる",
+  "chapter": {
+    "id": "guide",
+    "title": "冒険の地図"
+  },
+  "unitId": "grammar-be",
+  "pageType": "まとめ",
+  "image": "pages/PAGE_0010.webp",
+  "promptSource": "source-prompts/PAGE_0010.txt",
+  "promptSha256": "be2ed5df2240522dfc17750343ad614ad33dc083e02c2c64de31c798dd3f732b",
+  "prompt": "Use case: scientific-educational. Create a rich portrait 9:16 summary page matching PAGE_0001. Same leopard stage director moves one glowing word “light” into four sentence positions. Original design and explanations. No page number, source identity, logo or watermark.\n\nTop title: 「置き場所で、役目が変わる」\n\nRequired example sequence:\n• “Light travels fast.” 「名詞：光」\n• “Please light the lamp.” 「動詞：明かりをつける」\n• “I packed a light bag.” 「形容詞：軽い」\n• “The bag is light.” 「説明語：bagの状態」\n\nRequired table:\n「置かれた席｜役目｜見分け方」\n「主語の席｜名詞｜動詞の前で『何が』」\n「動詞の席｜動詞｜主語の動作」\n「名詞の前｜形容詞｜どの名詞かをしぼる」\n「beの後｜説明語｜主語＝説明」\n\nAdd a second multi-role word mini panel:\n“a clean room” / “Please clean the room.”\n「cleanも位置で形容詞・動詞が変わる」\n\nExplanation note: 「辞書の品詞を覚えるだけでなく、文中の席から実際の仕事を判断する。」\nMini check: What is “water” in “Please water the plants”? Answer: verb. Reason: 「主語の後ろで動作を表す席。」\nBottom ribbon: 「単語の仕事は、意味と配置の両方で見つける」\n\nInformation-dense stage illustration, compact table, six examples, mini check, phone-legible text.\n\n後半ページ同等の高密度基準：中央イラスト＋仕組み図＋説明文＋独自英文4〜6本＋簡潔な和訳/解説＋ミニ問題・答え・一行理由、ページの85〜90%を学習内容で満たす、文字は読める大きさ\n"
+}

@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0218",
+  "number": 218,
+  "title": "-ingを目的語と説明に置く",
+  "chapter": {
+    "id": "verb-parts",
+    "title": "動きを部品にする"
+  },
+  "unitId": "grammar-gerunds",
+  "pageType": "説明",
+  "image": "pages/PAGE_0218.webp",
+  "promptSource": "source-prompts/PAGE_0218.txt",
+  "promptSha256": "2540ba322de2698b0194339c3638301373067c84c6790e50fcad1a538dc4b6f7",
+  "prompt": "Create a polished information-dense English grammar page, portrait 9:16, matching the supplied cover's vivid blue, gold, white and red design. Same leopard mascot checking three doors: after a verb, after a preposition, after be. No page number, source name, watermark, or logo.\n\nTop Japanese title: 「-ingを目的語と説明に置く」\n\nCentral three-door mechanism:\n1 verb + -ing as object,\n2 preposition + -ing because a preposition needs noun-like material,\n3 be + -ing, which can be progressive action or a noun-like description depending on meaning.\n\nOriginal examples:\n• Leo avoids checking his phone while studying. 「avoidsの目的語」\n• Mia is good at reading old maps. 「前置詞atの目的語」\n• The fox is crossing the bridge. 「進行中の動作」\n• My favorite activity is sketching ruins. 「activityの内容説明」\n\nContrast diagram for the be examples: video icon for progressive; equals sign for subject description. Red warning: after a preposition, do not use a bare to-infinitive in this pattern.\n\nMini practice: correct “She is interested in to learn English.” Answer: “She is interested in learning English.” Reason: 「前置詞inの後ろは名詞相当の-ing」.\n\nTakeaway: 「前置詞の後ろは-ing、be＋-ingは意味で見分ける」. Dense but clear, examples, problem+answer.\n"
+}

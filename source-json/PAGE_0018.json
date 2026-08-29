@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0018",
+  "number": 18,
+  "title": "英文は、部品で組み立てる",
+  "chapter": {
+    "id": "framework",
+    "title": "文の骨組み"
+  },
+  "unitId": "grammar-verbs-present",
+  "pageType": "説明",
+  "image": "pages/PAGE_0018.webp",
+  "promptSource": "source-prompts/PAGE_0018.txt",
+  "promptSha256": "39ef354e8a4cab4032b020e1de90e2bbf06f362c4472d558fca7e00862e075e7",
+  "prompt": "Use case: scientific-educational\nAsset type: dense portrait explanation page for sentence construction\nPrimary request: Explain independently that many English sentences are built from a small set of functional parts. Source pages 48–49 provide grammar-topic coverage only; reproduce no wording, examples, diagrams, or layout.\nInput images: Image 1 is the mascot appearance reference; Image 2 is PAGE_0001, the approved adventure-library design reference. Keep the same mascot identity and unified visual world.\nCanvas: strict 9:16 portrait, one finished full-bleed page, high content density with legible hierarchy, safe margins, no page number.\nTop title (verbatim): 「英文は、部品で組み立てる」\nCentral illustration: the leopard explorer in an architect pose builds a glowing sentence machine from four interlocking 3D blocks: blue 「主語」, red 「動詞」, green 「名詞」, yellow 「説明」. The machine turns a small scene icon into an English sentence.\nMechanism diagram: show 「場面」→「部品を選ぶ」→「語順に置く」→「伝わる文」 with clear arrows. Add four concise definition tags: 「主語：話の中心」 「動詞：動き・状態」 「名詞：人・物・こと」 「説明：様子や場所を追加」.\nRequired original build examples, render the sentences exactly and color-code their chunks:\n1. “The lantern glows.” / 「The lantern＝主語｜glows＝動詞」\n2. “Our guide is cheerful.” / 「Our guide＝主語｜is＝動詞｜cheerful＝説明」\n3. “Mia found a silver key.” / 「Mia＝主語｜found＝動詞｜a silver key＝名詞のまとまり」\nSmall insight box (verbatim): 「長い文も、骨組みに情報を足したもの」\nMini practice box (verbatim): 「ミニ確認：The river looks calm. の説明は？」 「答え：calm」 「主語 The river がどんな状態かを示す。」\nBottom takeaway ribbon (verbatim): 「まず主語と動詞を見つけると、文の形が見える」\nStyle/medium: glossy original educational illustration, bright glass-roof adventure library construction bay, blue/yellow/white base, crisp thick outline, rich mechanical detail, dimensional blocks, limited red accent. Central illustration + mechanism diagram + three examples; dense, orderly, phone-readable.\nTypography: exact English and readable Japanese Gothic. No unrequested filler text.\nConstraints: include only the specified mini practice with answer and explanation; no page number, source identity, author, publisher, logo, ISBN, citation, copied phrase, copied figure, copied layout, or watermark. One mascot in a distinct architect pose.\nAvoid: sparse decorative page, generic flat worksheet, tiny example text, garbled sentences, excessive formulas.\n"
+}

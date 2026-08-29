@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0115",
+  "number": 115,
+  "title": "位置で変わる、形容詞の顔",
+  "chapter": {
+    "id": "modifiers",
+    "title": "情報を足す"
+  },
+  "unitId": "grammar-adjectives",
+  "pageType": "説明",
+  "image": "pages/PAGE_0115.webp",
+  "promptSource": "source-prompts/PAGE_0115.txt",
+  "promptSha256": "c808807283c8ce85c93c9d37f2c714802758d3c717b3df3afce433928d3053e0",
+  "prompt": "Use case: scientific-educational\nAsset type: dense portrait position-and-meaning comparison page for an illustrated English grammar book\nPrimary request: Teach adjectives specialized for pre-noun limitation versus post-be description, and show how certain, late, present, and old change nuance with position. Source pages 242–243 guide coverage only; independently create examples and graphics.\nInput images: mascot appearance only; PAGE_0001 style only.\nCanvas: strict 9:16 portrait, dense, no page number.\nTop title (verbatim): 「位置で変わる、形容詞の顔」\nCentral illustration: the leopard explorer in a double-door curator pose turns reversible adjective medallions at a front-position gate and a description-position gate.\nMechanism diagram: “前専門：only / main / former＝名詞を限定” and “後ろ専門：asleep / afraid / alive / awake / alone＝状態を説明”. Meaning-flip badges: “a certain visitor＝ある特定の訪問者 / I am certain.＝確信している”; “an old friend＝昔からの友人 / The friend is old.＝高齢”.\nOriginal example cards:\n1. “This is our main entrance.” / 「mainは前で種類を限定」\n2. “The baby is asleep.” / 「asleepは後ろで状態説明」\n3. “A certain musician called.” / 「具体的だが名を示さない」\n4. “I’m certain the door is locked.” / 「確信している」\nMini practice: 「ミニ問題　自然なのは？」 choices “an asleep cat” / “The cat is asleep.”\nAnswer: 「答え　The cat is asleep.」 「asleepは状態を後ろから説明する語。」\nBottom ribbon: 「前は種類、後ろは状態。位置が意味を選ぶ」\nStyle: polished PAGE_0001 adventure-library gallery, blue/yellow/white, dimensional medallions and gold gates, crisp outlines, red only for position contrast, mascot once.\nConstraints: no source wording/examples/figures/layout/order, source identity, citation, logo, ISBN, watermark, page number, or extra prose; avoid photorealism and tiny text.\n"
+}

@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0249",
+  "number": 249,
+  "title": "疑問文は助動詞を前へ",
+  "chapter": {
+    "id": "verb-parts",
+    "title": "動きを部品にする"
+  },
+  "unitId": "grammar-passive",
+  "pageType": "説明",
+  "image": "pages/PAGE_0249.webp",
+  "promptSource": "source-prompts/PAGE_0249.txt",
+  "promptSha256": "85ecc7f0cf842b483967fd79722ffd61b3008be4e32456f4b37a3e42d35f885f",
+  "prompt": "Create a polished, information-dense English grammar book page in portrait 9:16, matching the supplied cover's vivid explorer aesthetic. Same leopard mascot operating a word-order switchboard and an exclamation spotlight. No page number, source identity, watermark, or logo.\n\nTop Japanese title: 「疑問文は助動詞を前へ」\n\nCentral word-order mechanism: statement → move auxiliary/be before subject; if none exists, insert do/does/did and return the main verb to base form. Show that word-order disruption signals the speaker's desire to know.\n\nOriginal transformations:\n• The explorers have returned. → Have the explorers returned?\n• Emi likes the plan. → Does Emi like the plan?\n• You found the cave. → Did you find the cave?\n• The gate was open. → Was the gate open?\n\nSecond mini-panel: exclamation brings the focus forward without question inversion:\n• What an amazing map you drew! 「なんてすごい地図」\n• How quickly the weather changed! 「なんて急に変わった」\n\nMini practice: make a question from “Mina completed the survey.” Answer: “Did Mina complete the survey?” Reason: 「過去はdidが担い、completeは原形」.\n\nTakeaway: 「尋ねるとき、助動詞が主語を飛び越える」. Switchboard diagram, four examples, question+answer.\n"
+}

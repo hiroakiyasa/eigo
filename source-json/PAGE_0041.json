@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0041",
+  "number": 41,
+  "title": "4つの『させる』は力が違う",
+  "chapter": {
+    "id": "framework",
+    "title": "文の骨組み"
+  },
+  "unitId": "writing-word-order",
+  "pageType": "説明",
+  "image": "pages/PAGE_0041.webp",
+  "promptSource": "source-prompts/PAGE_0041.txt",
+  "promptSha256": "5fa696a3a83c522bbdf430021d01a0e750d8ea09b9309f0780f822946e10fb31",
+  "prompt": "Use case: scientific-educational. Asset: dense 9:16 portrait grammar page.\nTopic source: p.94–95, concepts only. Create all-new wording, examples, problem, illustration, and layout.\nTop title: 「4つの『させる』は力が違う」\nScene: adventure-library control room. Leopard explorer operates four distinct levers: MAKE pushes by force, HAVE calmly assigns a routine, LET opens a permission gate, GET guides someone toward action.\nMechanism labels: 「make 強く押す」 「have 当然の流れとして任せる」 「let 許して通す」 「get 説得して向かわせる」\nOriginal examples: 「The coach made us run again.」強制; 「I'll have Kai check the list.」手配; 「Mia let Leo use her pen.」許可; 「We got Dad to drive us.」説得。\nMini check: 「『弟を説得して片づけてもらった』に合うのは？」 choices make / have / let / get. Answer: 「get — 説得して行動へ向かわせるから」.\nTakeaway: 「日本語訳ではなく、働きかけ方を選ぶ」\nStyle: PAGE_0001 blue-yellow-white adventure library, glossy blocks, bold outlined mascot in new lever-pulling pose. Large Japanese Gothic and accurate English. No page number, source identity, copied expression, logo, or watermark.\n\n"
+}

@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0091",
+  "number": 91,
+  "title": "少しはある？ほとんどない？",
+  "chapter": {
+    "id": "nouns",
+    "title": "名詞の世界"
+  },
+  "unitId": "grammar-determiners",
+  "pageType": "説明",
+  "image": "pages/PAGE_0091.webp",
+  "promptSource": "source-prompts/PAGE_0091.txt",
+  "promptSha256": "08b456f5544f0c0ba964a580d0223677727c2f61b2d358f85b25e711bcc2599b",
+  "prompt": "Use case: scientific-educational; asset: dense 9:16 portrait English-grammar page. Source p.194–195 provides topic coverage only; reconstruct all wording, examples, visual metaphor, diagram, and layout independently.\nInput references: mascot_reference.png for leopard appearance only; PAGE_0001.png for the glossy blue-yellow-white adventure-library design only.\nTop title: 「少しはある？ほとんどない？」\nCentral illustration: leopard explorer as an optimistic/pessimistic gauge operator. The same small quantity appears in two glass tanks: the “a” tank glows above zero, while the no-“a” tank nearly empties into a warning zone.\nMechanism: count route 「a few＝少しはある / few＝ほとんどない」; amount route 「a little＝少しはある / little＝ほとんどない」. Add usage chip 「few + 複数可算名詞」「little + 不可算名詞」 and a small note 「much は疑問・否定が得意。肯定で強調するなら so / very / too much」.\nOriginal examples:\n1. “We have a few candles left.” / 「何本かは残っている」\n2. “Few seats face the stage.” / 「ステージ向きはほとんどない」\n3. “There is a little juice in the jar.” / 「少しは入っている」\n4. “There is little hope of finding it tonight.” / 「望みはほとんどない」\nMini problem: 「ミニ問題：前向きに“少し時間がある”」 “I have (a little / little) time.” 「答え：a little」 「a がゼロより上の量を明るく切り出す。」\nBottom ribbon: 「実際の量より、“ある”を見るか“ない”を見るか」\nStyle: cover-quality adventure-library gauge lab, dimensional tanks and grammar cards, thick outlines, red only for near-zero warnings, phone-readable.\nConstraints: no page number, copied source language/examples/table/figure/layout, source identity, citation, logo, watermark, blank answer area, filler, or photorealism. One mascot in a split-gauge pose.\n"
+}

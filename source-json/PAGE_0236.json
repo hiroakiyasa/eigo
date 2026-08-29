@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0236",
+  "number": 236,
+  "title": "beを変えれば、受動も自由自在",
+  "chapter": {
+    "id": "verb-parts",
+    "title": "動きを部品にする"
+  },
+  "unitId": "grammar-passive",
+  "pageType": "説明",
+  "image": "pages/PAGE_0236.webp",
+  "promptSource": "source-prompts/PAGE_0236.txt",
+  "promptSha256": "20101fb07bd815f4c8df239b1bb97b69228f2ee9bd1c43301dec0a23ac554867",
+  "prompt": "Use case: scientific-educational; dense 9:16 portrait grammar page. Teach passive tense/question/negative patterns, state versus event, and born/emotion passives from p.484–485.\nInput references: PAGE_0001 design and mascot identity.\nTop title: 「beを変えれば、受動も自由自在」\nCentral illustration: mascot as a control pilot operates BE levers: IS/ARE, WAS/WERE, HAS BEEN, IS BEING, MODAL + BE; a second screen contrasts STATE snapshot and EVENT movie, plus emotion arrows arriving from outside.\nMechanism: 「時制はbeを変える」「疑問＝beを前へ」「否定＝beの後ろにnot」「状態か行為かは文脈」「be born＝生を与えられる」「感情＝外の原因に心を動かされる」.\nOriginal examples: “The hall is being decorated now.” / 「今まさに飾り付け中」; “Has the package been delivered?” / 「配達済みか」; “The gate was not locked.” / 「門は施錠されていなかった」; “We were amazed by the night sky.” / 「夜空に驚かされた」.\nMini problem: 「ミニ問題：未来の受動」 “The bridge (will complete / will be completed) next year.” Answer 「will be completed」. Reason 「助動詞の後に原形be＋過去分詞。」\nBottom ribbon: 「受動文もbe動詞文。操作するのはbe」\nStyle: bright adventure-library cockpit, blue/gold/white/red levers and screens, thick outlines, dense readable infographic.\nConstraints: 9:16; no page number, copied prose/examples/figures/layout, source marks, logo, citation, watermark, empty answer space, or photorealism. One mascot pilot.\n"
+}

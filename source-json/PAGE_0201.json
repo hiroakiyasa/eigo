@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0201",
+  "number": 201,
+  "title": "名詞のうしろに、説明をつなぐ",
+  "chapter": {
+    "id": "prepositions",
+    "title": "位置関係を描く"
+  },
+  "unitId": "grammar-prepositions-2",
+  "pageType": "説明",
+  "image": "pages/PAGE_0201.webp",
+  "promptSource": "source-prompts/PAGE_0201.txt",
+  "promptSha256": "d9eb9f7b27fd35e8810477e864630b7ec5424e7faa55ddc0d69b8d61a83366d7",
+  "prompt": "Use case: scientific-educational; dense 9:16 portrait English grammar page. Rebuild source coverage p.414–415 as an original intuitive introduction to relative-clause modification.\nInput references: Image 1 is PAGE_0001 design system; Image 2 is mascot identity. Keep the same cute leopard explorer.\nTop title: 「名詞のうしろに、説明をつなぐ」\nCentral illustration: mascot as a bridge builder joins a TARGET noun block to an incomplete sentence track with a glowing missing-piece hole. Around the bridge, five small guide signs: WHO人, WHICHもの, WHERE場所, WHEN時, WHY理由.\nMechanism text: 「①説明したい名詞を置く」「②後ろの文に名詞が入る穴を作る」「③wh語やthatで安全につなぐ」 and key insight 「修飾の正体＝ターゲット＋穴あき文」.\nOriginal examples: “I know a baker who makes star-shaped bread.” / 「星形パンを作る職人」; “Here is the notebook you left on the train.” / 「君が電車に置き忘れたノート」; “This is the café where we first talked.” / 「初めて話したカフェ」.\nMini problem: 「ミニ問題：穴はどこ？」 “I found the key that you lost ___.” Answer 「lostの目的語」. Reason 「lostの後ろに“何を”が足りず、the keyが入る。」\nBottom ribbon: 「名詞と穴がぴたりと合えば、長い説明も一つになる」\nStyle: glossy adventure-library grammar workshop, blue/gold/white with red accents, dimensional blocks, thick outlines, dense but phone-readable.\nConstraints: no page number; no copied source text, examples, figures, or layout; no source identity, logo, citation, watermark, empty answer field, or photorealism. Exactly one mascot in bridge-builder pose. Render only specified copy, no extra text.\n"
+}

@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0156",
+  "number": 156,
+  "title": "not＋強い語で、やわらかく否定",
+  "chapter": {
+    "id": "comparison",
+    "title": "比べる・否定する・気持ちを添える"
+  },
+  "unitId": "grammar-advanced",
+  "pageType": "説明",
+  "image": "pages/PAGE_0156.webp",
+  "promptSource": "source-prompts/PAGE_0156.txt",
+  "promptSha256": "11093d2e841da19ab37b34ce9270939cc89e8073eb77c0a39bfbf41a8d043418",
+  "prompt": "Use case: scientific-educational\nAsset type: dense portrait nuance page for an illustrated English grammar book\nPrimary request: Explain partial negation: not placed before strong expressions such as really, always, necessarily, completely, all, and many softens an absolute claim; contrast it with placing the strong word before not. Source pages 324–325 guide coverage only; make all examples and visuals original.\nInput images: mascot identity reference only; PAGE_0001 visual-system reference only.\nCanvas: strict 9:16 portrait, full-bleed, dense, no page number.\nTop title (verbatim): 「not＋強い語で、やわらかく否定」\nCentral illustration: the leopard explorer in a dimmer-switch pose turns down a brilliant “100%” lamp with a NOT filter inside the adventure library.\nMechanism diagram: “not → always / really / necessarily / completely / all” labeled 「100%を否定＝部分否定」. Contrast pair: “I don’t really agree.＝強くは同意しない” versus “I really don’t agree.＝本当に同意しない”.\nOriginal example cards:\n1. “That is not always true.” / 「いつも正しいとは限らない」\n2. “The task isn’t completely finished.” / 「完全に終わったわけではない」\n3. “Not every door is locked.” / 「全部が施錠中ではない」\n4. “She isn’t very confident yet.” / 「断定を和らげる」\nMini practice: 「ミニ問題　“必ずしも危険ではない”は？」 choices “It is necessarily not dangerous.” / “It is not necessarily dangerous.”\nAnswer: 「答え　It is not necessarily dangerous.」 「notがnecessarilyの100%感を弱める。」\nBottom ribbon: 「強い断定を少し下げると、会話がやわらかくなる」\nStyle: glossy PAGE_0001 adventure-library light lab, blue/gold/white, dimensional 100% dial, thick outlines, red only on not filter, one mascot.\nConstraints: original content; no source wording/examples/figures/layout, source title, citation, logo, ISBN, watermark, page number, or extra prose; avoid photorealism and tiny text.\n"
+}

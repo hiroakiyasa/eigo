@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0074",
+  "number": 74,
+  "title": "一般なら複数、1つなら目印",
+  "chapter": {
+    "id": "nouns",
+    "title": "名詞の世界"
+  },
+  "unitId": "grammar-articles",
+  "pageType": "説明",
+  "image": "pages/PAGE_0074.webp",
+  "promptSource": "source-prompts/PAGE_0074.txt",
+  "promptSha256": "465ac2ff0bb4427c4e8350bea5c0c755fd843aa4d7bc103cbf31baf3b747250a",
+  "prompt": "Use case: scientific-educational; dense 9:16 portrait grammar page. Source p.160–161 provides grammar coverage only; produce original examples, explanation, visuals, and sequence.\nInput references: mascot appearance and PAGE_0001 design.\nTop title: 「一般なら複数、1つなら目印」\nCentral illustration: leopard explorer as a wildlife librarian. A wide panoramic window shows many owls representing a category; a spotlight isolates one owl and requires a determiner badge.\nMechanism: left route 「種類全体・数が決まらない → 裸の複数形」; right route 「数えられる名詞を1つ → a / an / the / this / my などが必要」. Add agreement rhythm 「複数の主語 → 複数の説明語が自然」 and precision note 「1人につき1つを強調すると単数も使える」.\nOriginal examples:\n1. “Owls hunt mainly at night.” / 「フクロウ一般」\n2. “I photographed an owl near the gate.” / 「具体的な1羽」\n3. “These hikers carry backpacks.” / 「複数→複数の自然なリズム」\n4. “Every cyclist must wear a helmet.” / 「1人につき1つを明確にする」\nMini practice: 「ミニ問題：一般の話なら？」 “I like (rabbit / rabbits).” 「答え：rabbits」 「種類全体は、裸の複数形で広く表す。」\nBottom ribbon: 「単数は特別な1つ。だから前に目印を置く」\nStyle: glossy wildlife wing of adventure library, blue/yellow/white, dimensional plural flock and determiner spotlight, crisp thick outlines.\nConstraints: no page number, source identity, copied example/diagram/text/layout, logo, citation, watermark, blank answer field, clutter, or photorealism. Mascot once in wildlife-librarian pose.\n"
+}

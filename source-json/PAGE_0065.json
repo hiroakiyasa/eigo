@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0065",
+  "number": 65,
+  "title": "数えられないものは、単位で数える",
+  "chapter": {
+    "id": "nouns",
+    "title": "名詞の世界"
+  },
+  "unitId": "grammar-nouns",
+  "pageType": "説明",
+  "image": "pages/PAGE_0065.webp",
+  "promptSource": "source-prompts/PAGE_0065.txt",
+  "promptSha256": "9fb36e396df0c3683273880c82fe96899ad79875e007ef0b4238a93c340f8e35",
+  "prompt": "Use case: scientific-educational; dense 9:16 page. Source p.142–143 concepts only.\nTop title: 「数えられないものは、単位で数える」\nScene: adventure-library café-laboratory. Leopard server measures liquids, slices, sheets, and pieces.\nMechanism: container/shape/unit + of + mass noun.\nOriginal examples: 「two cups of tea」 「three slices of bread」 「a sheet of paper」 「four pieces of chocolate」 「five liters of water」 with simple Japanese labels.\nMini check: complete 「two ___ of information」 choices pieces / informations. Answer: pieces — information itself does not become plural.\nTakeaway: 「入れ物・形・量を数えて、of でつなぐ」\nCentral café illustration, mechanism diagram, 5 examples, question+answer; approved style, no page number/source marks.\n\n"
+}

@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0113",
+  "number": 113,
+  "title": "ハイフンで、説明を1ブロックに",
+  "chapter": {
+    "id": "modifiers",
+    "title": "情報を足す"
+  },
+  "unitId": "grammar-adjectives",
+  "pageType": "説明",
+  "image": "pages/PAGE_0113.webp",
+  "promptSource": "source-prompts/PAGE_0113.txt",
+  "promptSha256": "e912d2514ccdeea59325cc2c10ba60b1604815ff14e34762de4941715436d27e",
+  "prompt": "Use case: scientific-educational\nAsset type: dense portrait comparison page for an illustrated English grammar book\nPrimary request: Teach multiword compound adjectives with hyphens, including singular unit nouns before a head noun, then contrast adjective stacking before a noun with coordinated descriptions after be. Source pages 238–239 guide coverage only; invent all examples and visuals.\nInput images: mascot appearance only; PAGE_0001 design only.\nCanvas: strict 9:16 portrait, dense, no page number.\nTop title (verbatim): 「ハイフンで、説明を1ブロックに」\nCentral illustration: the leopard explorer in a block-builder pose locks several small word tiles together with golden hyphens, then places the single block before a noun gate.\nMechanism diagram: “a ten-minute walk” with bracket 「10分の、を1つの形容詞に」 and rule “数＋単位＋形容詞では単位は単数形”. Contrast panel: “a bright cozy room ✓ / The room is bright and cozy ✓ / The room is bright cozy ✕”.\nOriginal example cards:\n1. “a three-day voyage” / 「前のdayに-sは付けない」\n2. “a snow-covered bridge” / 「複数語を一まとまりに」\n3. “The voyage was long but exciting.” / 「後ろでは接続詞で説明を結ぶ」\n4. “My brother is twelve years old.” / 「後ろの測定表現ではyears」\nMini practice: 「ミニ問題　正しい形は？」 “a seven-(year / years)-old tree”\nAnswer: 「答え　year」 「名詞の前で1つの複合形容詞になる。」\nBottom ribbon: 「前ではハイフンで結束、後ろではand・butで連結」\nStyle: glossy PAGE_0001 adventure-library workshop, blue/yellow/white, dimensional tiles and gold clamps, crisp outlines, red only for singular-unit cue, one mascot.\nConstraints: no copied source wording/examples/figures/layout/order, identity, citation, logo, ISBN, watermark, page number, or added prose; no photorealism, sparse poster, or tiny text.\n"
+}

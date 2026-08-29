@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0279",
+  "number": 279,
+  "title": "beenは往復、goneは不在の結果",
+  "chapter": {
+    "id": "time",
+    "title": "時間を旅する"
+  },
+  "unitId": "grammar-past-simple",
+  "pageType": "説明",
+  "image": "pages/PAGE_0279.webp",
+  "promptSource": "source-prompts/PAGE_0279.txt",
+  "promptSha256": "7580aba805e136deb79e5cf98ac0b67a860591de0cc2faed836a067b03f69864",
+  "prompt": "Create a polished, content-rich English grammar page in portrait 9:16, matching the supplied cover's blue-and-gold explorer aesthetic. Same leopard traveler showing a round-trip BEEN route and a one-way GONE route, with a continuing-state ribbon. No page number, source identity, watermark, or logo.\n\nTop Japanese title: 「beenは往復、goneは不在の結果」\n\nCentral travel diagram:\nhave been to = visited and returned / life experience;\nhave gone to = went and is still away or on the way.\nThen connect present perfect to states continuing from past through now.\n\nOriginal examples:\n• I've been to Hokkaido twice. 「行って戻った経験」\n• Mina has gone to Osaka. 「大阪へ行き、今ここにいない」\n• We've known each other since college. 「大学時代から今まで」\n• He has owned this camera for ten years. 「10年間ずっと所有」\n\nExperience panel: ever/never; continuation panel: since/for. Explain that stative verbs commonly use present perfect simple for duration.\n\nMini practice: “Where is Leo?”—choose been/gone: “He has ___ to the library.” Answer: gone; reason 「現在ここにいない結果」.\n\nTakeaway: 「beenは戻った経験、goneは行ったままの現在」.\n"
+}

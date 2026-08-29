@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0316",
+  "number": 316,
+  "title": "asはイコール、likeは類似",
+  "chapter": {
+    "id": "flow",
+    "title": "文をつなぎ、会話を伝える"
+  },
+  "unitId": "grammar-reported-speech",
+  "pageType": "説明",
+  "image": "pages/PAGE_0316.webp",
+  "promptSource": "source-prompts/PAGE_0316.txt",
+  "promptSha256": "f86107faf3e2153a0432e42521b59167551bbb763921ee6086557798365fa7b7",
+  "prompt": "Create a polished, information-dense educational English grammar page in portrait 9:16. Match the supplied cover's blue-gold-white-red explorer aesthetic with an equals-sign laboratory, synchronized graphs, role badges, and similarity mirrors. Use the exact same leopard explorer mascot conducting the comparisons. No page number, source name, watermark, logo, copied wording, or copied artwork.\n\nTop Japanese title: 「asはイコール、likeは類似」\n\nUpper graph panel: proportional change from AS simultaneity.\n• As the temperature rose, the snow melted faster. 「気温上昇につれて融解も進む」\n• As our team gained experience, mistakes decreased. 「経験が増すにつれて」\nShow two curves changing together, label 「二つの変化が寄り添う＝〜につれて」.\n\nMain AS modifier map from core “=”:\nROLE / identity:\n• As your guide, I must check the weather. 「案内人として＝役割そのもの」\nJUDGMENT:\n• We regard this cave as a protected site. 「この洞窟＝保護区域とみなす」\nMANNER / accordance:\n• Arrange the cards as I showed you. 「示したとおりに」\n• As expected, the train was crowded. 「予想されたとおり」\n\nLIKE contrast: similarity, not equality.\n• The cloud looks like a sleeping dragon. 「龍に似ている」\n• Fold the cloth like this. 「このやり方のように」\n\nCritical pair with character badges:\n• Like Leo’s parents, we support him. 「両親と同じように、別の私たちも支える」\n• As Leo’s parents, we support him. 「私たち＝Leoの両親という立場で」\nUse a mirror for LIKE and an ID card/equals sign for AS.\n\nMini practice: 「“医師という立場で忠告する”：___ your doctor, I advise more rest.」 Answer: 「As」. Reason: 「似ているのではなく、実際に医師という役割だから」.\n\nBottom takeaway: 「as＝同一・役割・とおり／like＝似ている」. Dense but highly scannable.\n"
+}

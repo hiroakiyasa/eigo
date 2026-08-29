@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0285",
+  "number": 285,
+  "title": "未来は一つの形ではない",
+  "chapter": {
+    "id": "time",
+    "title": "時間を旅する"
+  },
+  "unitId": "grammar-future",
+  "pageType": "説明",
+  "image": "pages/PAGE_0285.webp",
+  "promptSource": "source-prompts/PAGE_0285.txt",
+  "promptSha256": "069e5c9a460766bc98578857bc229e90528f40346c6cff84a7a167a7d7a122fb",
+  "prompt": "Use case: scientific-educational; dense 9:16 portrait grammar page. Explain free combinations of perfect/progressive and introduce future expressions with WILL prediction and on-the-spot intention from p.582–583.\nInput references: PAGE_0001 design and mascot identity.\nTop title: 「未来は一つの形ではない」\nCentral illustration: mascot as a grammar engineer assembles WILL + HAVE + BEEN + ING blocks, then opens a future command center with two WILL buttons: telescope PREDICTION and instant CLICK INTENTION.\nMechanism: 「文法部品は意味を保ったまま組み合わせる」「英語に未来専用時制はない」「will＝見通し“〜だろう”」「will＝話す瞬間に決める“〜するよ”」.\nOriginal examples: “By six, I'll have been driving for four hours.” / 「6時までに4時間運転し続けている」; “I think the trail will be crowded.” / 「未来を見通す予測」; “The doorbell is ringing—I'll get it.” / 「今決めた行動」; “Don't worry; we'll arrive on time.” / 「間に合うという確信」.\nMini problem: 「ミニ問題：その場で決定」 “These bags look heavy. I (will / am going to) carry one.” Answer 「will」. Reason 「見た瞬間に手伝うと決めた。」\nBottom ribbon: 「未来の色は、選んだ表現の意味で決まる」\nStyle: glossy adventure-library grammar factory and future observatory, blue/gold/white/red blocks, thick outlines, dense readable.\nConstraints: exact 9:16; no page number, copied prose/examples/figures/layout, logo, citation, watermark, blank answer field, or photorealism. One mascot engineer.\n"
+}

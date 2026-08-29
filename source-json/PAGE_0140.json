@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0140",
+  "number": 140,
+  "title": "比較対象を文まで広げる",
+  "chapter": {
+    "id": "comparison",
+    "title": "比べる・否定する・気持ちを添える"
+  },
+  "unitId": "grammar-comparatives",
+  "pageType": "説明",
+  "image": "pages/PAGE_0140.webp",
+  "promptSource": "source-prompts/PAGE_0140.txt",
+  "promptSha256": "cc1edbf248574c130e4fdfaeb166270046cda594e6581c098771bbab2f9f7718",
+  "prompt": "Use case: scientific-educational; dense 9:16 portrait advanced comparison page. Independently teach as...as with clauses, understood gaps, conversational omission, and matching comparable targets. Source p.290–293 supplies topic coverage only.\nInput references: mascot appearance and PAGE_0001 visual reference.\nTop title: 「比較対象を文まで広げる」\nCentral illustration: leopard explorer as a bridge architect extends the second AS bridge from a noun platform to an entire clause platform. A glowing empty socket shows an understood gap; a scissors icon removes recoverable words; a parallel-rails inspector aligns thing with thing.\nMechanism: 「as + 焦点 + as + 文」 where the clause has an understood matching slot; examples of clause endings 「as she expected」「as it looks」「as you do」. Ellipsis rule 「何と比べるか明白なら、2つ目のas以下を省略可能」. Accuracy rule 「人と人、物と物、文化と文化のように同じ種類を比べる」.\nOriginal examples:\n1. “The task wasn’t as simple as it looked.” / 「見た目ほど単純ではない」\n2. “You may stay as long as you like.” / 「望む長さだけ」\n3. “Mina sketches well, and her brother does as well.” / 「比較対象が明白で省略」\n4. “Tokyo’s winters are milder than Sapporo’s.” / 「冬と冬をそろえる」\nMini problem: 「ミニ問題：正確に直そう」 “My camera is as light as Ken.” 「答え：My camera is as light as Ken’s.」 「カメラと人ではなく、カメラ同士を比べる。」\nBottom ribbon: 「文の穴を読み、比べる相手の種類をそろえる」\nStyle: cover-quality adventure-library bridge workshop, blue/yellow/white, gold clause bridge, red gap socket and alignment cue, thick outlines, dense but phone-readable.\nConstraints: no page number, copied source examples/figures/prose/layout, source marks, logo, citation, watermark, answer-writing field, or photorealism. One mascot in architect pose.\n"
+}

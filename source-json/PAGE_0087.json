@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0087",
+  "number": 87,
+  "title": "allは一束、everyは一人ずつ",
+  "chapter": {
+    "id": "nouns",
+    "title": "名詞の世界"
+  },
+  "unitId": "grammar-nouns",
+  "pageType": "まとめ",
+  "image": "pages/PAGE_0087.webp",
+  "promptSource": "source-prompts/PAGE_0087.txt",
+  "promptSha256": "93176fc026b870de84b6f6ee406b0c128105d9b57bcba0092fa7e9399d631449",
+  "prompt": "Use case: scientific-educational\nAsset type: dense portrait comparison page for an illustrated English grammar book\nPrimary request: Contrast all as one broad bundle with every as attention to each member, including all’s flexible position, count/noncount use, every plus singular noun, and singular they. Source pages 186–187 guide coverage only; create original explanations, scenes, and examples.\nInput images: mascot identity reference only; PAGE_0001 visual reference only.\nCanvas: strict 9:16 portrait, full-bleed, dense, no page number.\nTop title (verbatim): 「allは一束、everyは一人ずつ」\nCentral illustration: the leopard explorer in a librarian-checker pose holds a big golden rope around a group of books labeled “ALL”, while a scanner beam checks separate books one by one under “EVERY”.\nMechanism diagram: “all + 複数 / 不可算＝まとめて全部” versus “every + 単数名詞 + 単数動詞＝どれも1つずつ確認”. Position strip: “All the guests smiled. / The guests all smiled.” Singular-they note: “Every guest brought their pass.”\nOriginal example cards:\n1. “All the lights went out.” / 「明かりをまとめて全部」\n2. “Leo used all the paint.” / 「不可算のpaintにも使える」\n3. “Every drawer has a label.” / 「引き出しを1つずつ見る」\n4. “Every student shared their idea.” / 「everyは単数、theirで自然に受けられる」\nMini practice: 「ミニ問題　正しい形は？」 “Every explorer (needs / need) water.”\nAnswer: 「答え　needs」 「every + 単数名詞は単数扱い。」\nBottom ribbon: 「全景を見る all、全員を点検する every」\nStyle: PAGE_0001 blue-yellow-white adventure-library inventory room, golden bundle rope and scanner, dimensional grammar cards, thick outlines, red only for singular marker, one mascot.\nConstraints: all text legible; no source wording/examples/figures/layout, source identity, citation, logo, ISBN, watermark, page number, or added prose; avoid photorealism and tiny type.\n"
+}

@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0045",
+  "number": 45,
+  "title": "遠回し疑問は、語順を戻す",
+  "chapter": {
+    "id": "framework",
+    "title": "文の骨組み"
+  },
+  "unitId": "writing-word-order",
+  "pageType": "説明",
+  "image": "pages/PAGE_0045.webp",
+  "promptSource": "source-prompts/PAGE_0045.txt",
+  "promptSha256": "6f2f9b18fd02aee735a10f871003d3336789f0b2542e891470266579ecac47d6",
+  "prompt": "Use case: scientific-educational. Asset: dense 9:16 portrait grammar page.\nTopic source: p.102–103, concepts only; create original examples and visuals.\nTop title: 「遠回し疑問は、語順を戻す」\nScene: adventure-library reception counter. Leopard explorer cushions a sharp question inside a soft outer speech bubble.\nMechanism: Direct 「Where is the museum?」; cushioned 「Could you tell me where the museum is?」. Highlight inversion only in outer question, normal subject–verb order inside.\nAdditional originals: 「Do you know when the bus leaves?」 「I wonder why the door is locked.」\nMini check: choose correct: 「Do you know where is Mia? / Do you know where Mia is?」 Answer: second — 「疑問の気持ちは Do you know にある」.\nTakeaway: 「外側でたずね、内側はふつうの語順」\nInclude central cushion illustration, mechanism diagram, 3 examples, problem+answer; approved style; no page number/source identity.\n\n"
+}

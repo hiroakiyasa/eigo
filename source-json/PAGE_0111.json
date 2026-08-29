@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0111",
+  "number": 111,
+  "title": "形容詞は、名詞の前後で働く",
+  "chapter": {
+    "id": "modifiers",
+    "title": "情報を足す"
+  },
+  "unitId": "grammar-adjectives",
+  "pageType": "説明",
+  "image": "pages/PAGE_0111.webp",
+  "promptSource": "source-prompts/PAGE_0111.txt",
+  "promptSha256": "972d4a8f4a1152b7a12564b9305af2bb456e054cd8d7e36d623800617fa4d888",
+  "prompt": "Use case: scientific-educational\nAsset type: dense portrait explanation page for an illustrated English grammar book\nPrimary request: Explain that adjective function comes from placement around a noun: before a noun narrows its type, while after a subject describes it; show that nouns and participles can also work adjectivally in those positions. Source pages 234–235 guide coverage only; create all wording, sentences, metaphors, diagrams, and layout independently.\nInput images: Image 1 is the leopard mascot appearance reference only; Image 2 is PAGE_0001 visual-system reference only.\nCanvas: strict 9:16 portrait, full-bleed, dense but phone-readable, no page number.\nTop title (verbatim): 「形容詞は、名詞の前後で働く」\nCentral illustration: in a bright adventure library, the leopard explorer in a word-placement pose slides glowing modifier blocks to the front and rear of a noun pedestal.\nMechanism diagram: “前：どんな種類かしぼる → a tiny cabin” versus “後：名詞を説明する → The cabin is tiny.” Add small badges “名詞でもOK” and “-ing / 過去分詞でもOK”.\nOriginal example cards:\n1. “We found a narrow tunnel.” / 「tunnelの種類を前から限定」\n2. “The tunnel is narrow.” / 「tunnelの様子を後ろから説明」\n3. “a winter jacket” / 「名詞winterも前なら修飾語」\n4. “a glowing compass” / 「-ing形も名詞を限定できる」\nMini practice: 「ミニ問題　説明する形に直そう」 “a quiet room → The room ___.”\nAnswer: 「答え　is quiet」 「主語の後ろでquietがroomを説明する。」\nBottom ribbon: 「品詞名より、どこに置いて何を説明するかを見る」\nStyle: PAGE_0001 glossy blue-yellow-white adventure library, dimensional grammar blocks and gold rails, thick crisp outlines, red only on front/back contrast, one mascot, large accurate Japanese Gothic and English.\nConstraints: all specified items once; no source wording/examples/figures/layout/order, source identity, citation, logo, ISBN, watermark, page number, or extra prose; no photorealism, dark background, sparse poster, or tiny text.\n"
+}

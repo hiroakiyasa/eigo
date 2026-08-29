@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0047",
+  "number": 47,
+  "title": "命令・禁止・誘いを使い分ける",
+  "chapter": {
+    "id": "framework",
+    "title": "文の骨組み"
+  },
+  "unitId": "grammar-prepositions-1",
+  "pageType": "説明",
+  "image": "pages/PAGE_0047.webp",
+  "promptSource": "source-prompts/PAGE_0047.txt",
+  "promptSha256": "da1cd80d8a49d277df5362328dac4d70b46c828e2c4ec832e1f3cef91aa920ff",
+  "prompt": "Use case: scientific-educational. Asset: dense 9:16 portrait grammar page.\nTopic source: p.106–107, concepts only; original examples.\nTop title: 「命令・禁止・誘いを使い分ける」\nScene: adventure-library expedition camp. Leopard explorer holds three signposts: GO, STOP, TOGETHER.\nMechanism: base verb = instruction; Don't + base = prohibition; Let's + base = strong invitation; Let's not + base = negative invitation.\nOriginal examples: 「Follow the blue arrows.」 「Don't touch the red switch.」 「Let's explore the upper floor.」 「Let's not rush.」\nConcise Japanese explanation beside each.\nMini check: 「『今日は急がないでおこう』は？」 choices Don't rush / Let's not rush. Answer: 「Let's not rush — 一緒にしない提案」.\nTakeaway: 「相手を動かす力の向きを選ぶ」\nCentral camp illustration, diagram, examples, problem+answer, approved style, no page number/source marks.\n\n"
+}

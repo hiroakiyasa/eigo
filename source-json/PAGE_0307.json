@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0307",
+  "number": 307,
+  "title": "条件の範囲を広げる・絞る",
+  "chapter": {
+    "id": "flow",
+    "title": "文をつなぎ、会話を伝える"
+  },
+  "unitId": "grammar-conditionals",
+  "pageType": "英文",
+  "image": "pages/PAGE_0307.webp",
+  "promptSource": "source-prompts/PAGE_0307.txt",
+  "promptSha256": "7130b06bfe4a7616235d75eec4012a9da57d79c617c8129a7dc10114db79c290",
+  "prompt": "Create a polished information-dense educational page in portrait 9:16, matching the supplied cover's vivid explorer style. Same leopard mascot widening conditions with EVEN and setting boundary fences for ONLY IF, UNLESS, PROVIDED. No page number, source identity, watermark, or logo.\n\nTop Japanese title: 「条件の範囲を広げる・絞る」\n\nCentral condition-range map:\neven if = result unchanged even at an extreme condition;\nif/whether after verbs = whether A is true, not a condition;\nonly if = necessary condition;\nunless = except if / outside the “not” condition range;\nprovided/providing that = strict permission condition.\n\nOriginal examples:\n• Even if we lose, I'll be proud of the team. 「負けても結論不変」\n• I don't know if the shop is open. 「開いているかどうか」\n• You may enter only if you show your pass. 「入場の必要条件」\n• We won't leave unless the fog clears. 「霧が晴れない限り」\n• You can borrow it provided that you return it today. 「厳密な条件」\n\nMini practice: choose unless/if: “Don't call me ___ it is urgent.” Answer: unless; reason 「緊急の場合を除いて電話しない」.\n\nTakeaway: 「条件語は、結果が有効になる範囲を設計する」.\n"
+}

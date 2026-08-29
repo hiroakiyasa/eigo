@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0284",
+  "number": 284,
+  "title": "過去を推測し、今までを動かす",
+  "chapter": {
+    "id": "time",
+    "title": "時間を旅する"
+  },
+  "unitId": "grammar-future",
+  "pageType": "説明",
+  "image": "pages/PAGE_0284.webp",
+  "promptSource": "source-prompts/PAGE_0284.txt",
+  "promptSha256": "a1f61cd25182b26f5ad8f173428e90ae0a952d0cfd183fe9c618fa134e793f8b",
+  "prompt": "Use case: scientific-educational; dense 9:16 portrait grammar page. Teach modal + perfect and present perfect progressive from p.580–581 coverage.\nInput references: PAGE_0001 design and mascot identity.\nTop title: 「過去を推測し、今までを動かす」\nCentral illustration: mascot as an evidence analyst looks backward through MAY HAVE, MUST HAVE, SHOULD HAVE lenses. A moving conveyor labeled HAVE BEEN -ING runs from past to NOW and leaves emotion gauges: tired, impatient, relieved.\nMechanism: 「may have done＝したかもしれない」「must have done＝したに違いない」「should have done＝すべきだった」「have been -ing＝過去から今まで動作が連続」.\nOriginal examples: “Leo may have taken the wrong train.” / 「乗り間違えたかもしれない」; “The cat must have opened the cupboard.” / 「猫が開けたに違いない」; “I should have charged the battery.” / 「充電すべきだった」; “We've been waiting since sunrise.” / 「日の出からずっと待っている」.\nMini problem: 「ミニ問題：後悔」 “I ___ have checked the weather first.” Answer 「should」. Reason 「過去にそうするべきだったという後悔。」\nBottom ribbon: 「助動詞で過去を見る、進行形で今までの動きを見る」\nStyle: adventure-library evidence lab, blue/gold/white/red lenses and moving conveyor, thick outlines, dense educational design.\nConstraints: 9:16; no page number, copied source material/layout, source marks, logo, citation, watermark, empty answer area, or photorealism. One mascot analyst.\n"
+}

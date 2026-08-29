@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0068",
+  "number": 68,
+  "title": "物ではなく、見方を数える",
+  "chapter": {
+    "id": "nouns",
+    "title": "名詞の世界"
+  },
+  "unitId": "grammar-nouns",
+  "pageType": "説明",
+  "image": "pages/PAGE_0068.webp",
+  "promptSource": "source-prompts/PAGE_0068.txt",
+  "promptSha256": "718b67077284969a5787cff94e22a437eeb00b3db35b07dc03acd0a9e0ef51fb",
+  "prompt": "Use case: scientific-educational; dense 9:16 page. Source p.148–149 concepts only.\nTop title: 「物ではなく、見方を数える」\nScene: adventure-library viewpoint observatory. Leopard explorer switches lenses: object, method, institution, and type.\nMechanism/examples: 「two buses」 vehicles vs 「by bus」 transport method; 「three schools」 buildings vs 「go to school」 education; 「wine」 liquid vs 「Italian wines」 types; 「cake」 food category vs 「two cakes」 individual items.\nAdd four original sentences and concise Japanese meanings.\nMini check: choose article in 「Leo goes to (school / a school) every weekday.」 Answer: school — purpose is education.\nTakeaway: 「同じものでも、何として見るかで数が変わる」\nDense lens diagram, examples, problem+answer; cover style, no page number.\n\n"
+}

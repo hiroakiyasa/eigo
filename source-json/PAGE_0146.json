@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0146",
+  "number": 146,
+  "title": "差の大きさを前に置く",
+  "chapter": {
+    "id": "comparison",
+    "title": "比べる・否定する・気持ちを添える"
+  },
+  "unitId": "grammar-comparatives",
+  "pageType": "説明",
+  "image": "pages/PAGE_0146.webp",
+  "promptSource": "source-prompts/PAGE_0146.txt",
+  "promptSha256": "c4df67af22c6de3514e4e154fe9dc63df947da8868e723902c183ea6cea9eaa8",
+  "prompt": "Use case: scientific-educational\nAsset type: dense 9:16 portrait degree-of-difference page\nPrimary request: Independently teach how words before a comparative measure the size of the gap, including small/large differences, exact numbers, many more vs much more, multiplication, and flexible than targets. Source pages 304–305 are coverage only; copy no wording, examples, figures, or layout.\nInput images: mascot reference; PAGE_0001 design reference.\nCanvas: strict 9:16 portrait, no page number, safe margins.\nTop title: 「差の大きさを前に置く」\nCentral illustration: mascot in a measuring-engineer pose adjusts a giant comparative gap ruler with small, large, exact-number, and multiplier knobs.\nMechanism diagram: 「a little / much / far / even / 数値 ＋ 比較級」; side fork 「many more＋可算」 「much more＋不可算」; target note 「thanの後ろは名詞・場所・行動もOK」.\nOriginal example cards:\n1. “Mia is two centimeters taller than Leo.” / 「差を数値で限定」\n2. “The new engine is three times faster.” / 「倍率で差を示す」\n3. “We need many more chairs.” / 「chairsは数えられる」\n4. “Reading is more useful than scrolling.” / 「行動同士も比べられる」\nMini practice box: 「ミニ確認：very faster は正しい？」 「答え：× much faster」 「比較級には差の距離を表す語を使う。」\nBottom takeaway: 「比較級の前で、“どれだけ違うか”を測る」\nStyle: glossy adventure-library measurement lab, blue-gold-white-red, dimensional rulers and knobs, thick outlines, compact examples.\nTypography: exact English and readable Japanese.\nConstraints: no page number, source reuse, source identity, logo, citation, watermark, or additional exercise. Mascot once in engineer pose.\nAvoid: cluttered numerical chart, tiny units, dark workshop.\n"
+}

@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0058",
+  "number": 58,
+  "title": "情報は、頭と心を旅する",
+  "chapter": {
+    "id": "framework",
+    "title": "文の骨組み"
+  },
+  "unitId": "grammar-advanced",
+  "pageType": "説明",
+  "image": "pages/PAGE_0058.webp",
+  "promptSource": "source-prompts/PAGE_0058.txt",
+  "promptSha256": "8d34548a396d3b6af82ccce944543dae7df7113b64aeffe88115d79f31542e64",
+  "prompt": "Use case: scientific-educational\nAsset type: dense 9:16 portrait cognitive-vocabulary page\nPrimary request: Independently explain tell, ask, know, think, and believe as a flow from messages to requests, stored knowledge, thought, and deep conviction. Source pages 128–129 are coverage only; reuse no wording, examples, art, or layout.\nInput images: mascot appearance reference; PAGE_0001 design reference.\nCanvas: strict 9:16 portrait, full-bleed, no page number, safe margins.\nTop title: 「情報は、頭と心を旅する」\nCentral illustration: mascot in a mind-map navigator pose guides a glowing message through five stations in the adventure library: handoff, request gate, memory vault, thinking gears, heart-root chamber.\nMechanism diagram: 「tell＝情報を渡す」→「ask＝情報・助けを求める」→「know＝頭にある」→「think＝頭を動かす」→「believe＝深く信じる」.\nOriginal example cards:\n1. “The ranger told us to wait.” / 「情報で私たちを wait へ導く」\n2. “Mia asked Leo for advice.” / 「助けとなる情報を求める」\n3. “I know where the spare key is.” / 「答えが頭の中にある」\n4. “We believe in this plan.” / 「計画の価値まで深く信頼する」\nSmall comparison tag: 「think＝考え・判断 / believe＝深い確信」\nMini practice box: 「ミニ確認：What do you think of this idea? は？」 「答え：印象を尋ねる」 「think of は、その対象についてどう思うか。」\nBottom takeaway: 「メッセージ・知識・思考・信念を分けて選ぶ」\nStyle: glossy adventure-library mind map, luminous information ribbon, blue/yellow/white, red only at heart root, thick outlines, rich but readable.\nTypography: accurate English and bold Japanese Gothic.\nConstraints: no page number, source expression/layout reuse, source title, logo, citation, watermark, or extra quiz. Mascot once in a unique navigator pose.\nAvoid: tiny labels, random extra prose, dark psychology imagery, photorealism.\n"
+}

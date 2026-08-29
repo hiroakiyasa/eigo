@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0186",
+  "number": 186,
+  "title": "against・along・among・aroundの地図",
+  "chapter": {
+    "id": "prepositions",
+    "title": "位置関係を描く"
+  },
+  "unitId": "grammar-prepositions-1",
+  "pageType": "英文",
+  "image": "pages/PAGE_0186.webp",
+  "promptSource": "source-prompts/PAGE_0186.txt",
+  "promptSha256": "89578d9acac8323e28403187446c2f81bfcb2d9098876b401ab875a97be42659",
+  "prompt": "Create a polished, dense educational English grammar page in portrait 9:16. Match the supplied cover's blue-gold-white-red explorer aesthetic with a rounded gold frame, bright infographics, and crisp Japanese/English typography. Use the exact same leopard explorer mascot in four small poses: bracing against wind, following a winding road, searching inside a crowd, and walking around a fountain. No page number, source name, watermark, logo, or copied source material.\n\nTop Japanese title: 「against・along・among・aroundの地図」\n\nCreate a four-quadrant expedition map, each preposition with one unmistakable core visual and compact examples.\n\nAGAINST = 「向かい合う力」. Two arrows press toward each other.\n• The ladder rested against the wall. 「壁に押し当てられて」\n• Many residents voted against the proposal. 「案に反対して」\n• We insured the tent against storm damage. 「被害に備えて」\n\nALONG = 「細長い線に沿う」. A glowing trail follows a riverbank.\n• Lanterns stood along the canal. 「運河沿いに並ぶ位置」\n• We cycled along the coast. 「海岸線に沿う動き」\nPhrase chips: all along 「最初からずっと」; get along with 「衝突せずうまく進む」.\n\nAMONG = 「個々を強く分けない集団の中」. Mascot partly surrounded by many leaves/people.\n• I found the blue badge among the souvenirs. 「雑多な品の中で」\n• Share your ideas among the team members. 「集団内で互いに」\nPhrase: among the fastest runners 「最速級の選手の一人」.\n\nAROUND = 「ぐるりと周囲」. Circular arrow around a fountain, with approximate clock halo.\n• Children gathered around the telescope. 「望遠鏡の周りに」\n• The delivery came around noon. 「正午あたりに」\nPhrase: get around town 「街を動き回る」; news gets around 「情報が広まる」.\n\nMini practice: 「雑多な箱の中から鍵を見つけた：I found the key ___ the tools.」 Answer: 「among」. Reason: 「道具を個別の2者でなく集まりとして捉える」.\n\nBottom ribbon: 「力 against／線 along／集団 among／円 around」. Make every panel educational, cohesive, and readable.\n"
+}

@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0241",
+  "number": 241,
+  "title": "get＋過去分詞は状態の変化",
+  "chapter": {
+    "id": "verb-parts",
+    "title": "動きを部品にする"
+  },
+  "unitId": "grammar-participles",
+  "pageType": "説明",
+  "image": "pages/PAGE_0241.webp",
+  "promptSource": "source-prompts/PAGE_0241.txt",
+  "promptSha256": "8de44d91d140b87680d027b4792b265374e2b197dce853275457cb16e53c6bf0",
+  "prompt": "Create a polished, information-dense English grammar book page in portrait 9:16, matching the supplied cover's vivid blue, gold, white, and red explorer style. Same leopard mascot at a state-change machine. No page number, source identity, watermark, or logo.\n\nTop Japanese title: 「get＋過去分詞は状態の変化」\n\nCentral mechanism: compare BE = state platform, LOOK/SEEM = perceived state, BECOME/GET = movement into a state. Make GET feel sudden, eventful, or affected. Add a second track “object + past participle” meaning the object is in a completed/affected state.\n\nOriginal examples:\n• Lena looked shocked by the news. 「驚いた状態に見えた」\n• The hikers got soaked in the rain. 「雨でびしょぬれになった」\n• My phone got damaged on the trip. 「出来事として壊れた」\n• I had my bicycle repaired yesterday. 「自転車を修理してもらった」\n• We found the gate locked. 「門＝施錠された状態」\n\nShow formulas: subject + get + past participle; verb + object + past participle with O = affected-state C. Note that stable location normally uses “is located,” not “gets located.”\n\nMini practice: choose be/get: “During the storm, the window ___ broken.” Answer: got; reason 「予期せぬ変化・出来事を強調」.\n\nTakeaway: 「過去分詞は状態、getはそこへ動く変化」. Dense visual, examples, answer.\n"
+}

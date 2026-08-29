@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0005",
+  "number": 5,
+  "title": "文は4本のレールを走る",
+  "chapter": {
+    "id": "guide",
+    "title": "冒険の地図"
+  },
+  "unitId": "writing-word-order",
+  "pageType": "説明",
+  "image": "pages/PAGE_0005.webp",
+  "promptSource": "source-prompts/PAGE_0005.txt",
+  "promptSha256": "f07be570cc27d534cfa1c8b8020257a408455abe288075af32bc9adad005e5af",
+  "prompt": "Use case: scientific-educational. Create an information-rich portrait 9:16 page matching PAGE_0001. Bright adventure-library rail workshop, same leopard explorer as conductor/mechanic. Original explanations, examples and layout. No page number, source identity, logo or watermark.\n\nTop title: 「文は4本のレールを走る」\n\nCentral visual: four train tracks built from color-coded sentence blocks. Each track must include formula, core meaning, original English, and concise Japanese.\n\nTrack cards:\n1 「S＋V｜ただ動く」 “The baby laughed.” 「赤ちゃんが笑った」\n2 「S＋V＋O｜動きが届く」 “Mina opened the window.” 「窓を開けた」\n3 「S＋V＋C｜Sを説明」 “The sky became dark.” 「空＝暗い状態になった」\n4 「S＋V＋人＋物｜手渡す」 “Dad sent me a photo.” 「私に写真を送った」\n\nRequired comparison table:\n「型｜動詞の後ろ｜関係」\n「S＋V｜なし／副詞｜主語の動き」\n「S＋V＋O｜名詞｜V→O」\n「S＋V＋C｜説明語｜S＝C」\n「S＋V＋人＋物｜2つの名詞｜人←物」\n\nAdd diagnostic steps: 「①動詞を探す ②後ろの名詞を数える ③イコールか矢印かを見る」.\nMini check: “Emma sent Ken a message.” Which rail? Answer: S＋V＋人＋物. Reason: 「Kenにmessageが移る。」\nBottom ribbon: 「レールが分かれば、訳す前に構造が見える」\n\nHigh information density, readable table and examples, mascot once, glossy dimensional blocks.\n\n後半ページ同等の高密度基準：中央イラスト＋仕組み図＋説明文＋独自英文4〜6本＋簡潔な和訳/解説＋ミニ問題・答え・一行理由、ページの85〜90%を学習内容で満たす、文字は読める大きさ\n"
+}

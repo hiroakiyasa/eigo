@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0108",
+  "number": 108,
+  "title": "名前から、修飾の冒険へ",
+  "chapter": {
+    "id": "nouns",
+    "title": "名詞の世界"
+  },
+  "unitId": "grammar-articles",
+  "pageType": "まとめ",
+  "image": "pages/PAGE_0108.webp",
+  "promptSource": "source-prompts/PAGE_0108.txt",
+  "promptSha256": "6884e53193e843cd14ee857037313b1b775291e7cf682db0f4eab34071edb84e",
+  "prompt": "Use case: scientific-educational\nAsset type: dense 9:16 portrait summary and transition page\nPrimary request: Independently summarize article choices in proper names, including a single named mountain versus a named range, then transition into modification as the next learning territory. Source pages 228–229 are coverage only; do not reuse source names, wording, figure, or layout.\nInput images: mascot appearance reference; PAGE_0001 design reference.\nCanvas: strict 9:16 portrait, no page number, safe margins.\nTop title: 「名前から、修飾の冒険へ」\nCentral illustration: mascot in a mountain-map scout pose leaves the Hall of Names and approaches a glowing Modification Valley. A single peak and a chain of peaks illustrate naming contrast.\nMechanism diagram: decision compass: 「固有の1地点・1山 → 通常theなし」; 「説明的名称 / of形 / 複数のまとまり → theが多い」; final arrow 「次は、名前や文をもっと詳しくする修飾」.\nOriginal example cards:\n1. “Mount Ember is visible from here.” / 「1つの山の固有名」\n2. “The Ember Mountains stretch north.” / 「山々を山脈としてまとめる」\n3. “We climbed Northwind Tower.” / 「固有名＋施設名」\n4. “A bright tower guided us.” / 「brightがtowerを詳しくする」\nMini practice box: 「ミニ確認：___ Lake Crystal は？」 「答え：Lake Crystal」 「固有の湖名としてそのまま使う。」\nBottom takeaway: 「名前の形を見たら、次は情報を足す位置を見る」\nStyle: bright adventure-library mountain gateway, glossy map compass and modifier valley, blue/yellow/white, thick outlines, dramatic but educational transition.\nTypography: exact English and readable Japanese.\nConstraints: fictional names only; no page number, source reuse, source identity, logo, citation, watermark, or extra quiz. Mascot once in scout pose.\nAvoid: empty divider, tiny text, real landmark imitation, dark mountains.\n"
+}

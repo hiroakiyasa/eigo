@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0149",
+  "number": 149,
+  "title": "more・lessに感情をのせる",
+  "chapter": {
+    "id": "comparison",
+    "title": "比べる・否定する・気持ちを添える"
+  },
+  "unitId": "grammar-comparatives",
+  "pageType": "まとめ",
+  "image": "pages/PAGE_0149.webp",
+  "promptSource": "source-prompts/PAGE_0149.txt",
+  "promptSha256": "14f3db94e107fe05def6dc6789d1384e596dd5f5c4e3b27109be6ad1578628ec",
+  "prompt": "Use case: scientific-educational\nAsset type: dense 9:16 portrait nuance-map page\nPrimary request: Independently organize emotional and idiomatic uses of more/less: no more than vs not more than, no less than, not any more/longer, know better, and none the comparative. Source pages 310–311 are coverage only; reuse no wording, examples, imagery, or layout.\nInput images: mascot appearance reference; PAGE_0001 style reference.\nCanvas: strict 9:16 portrait, no page number, safe margins.\nTop title: 「more・lessに感情をのせる」\nCentral illustration: mascot in an emotion-meter keeper pose adjusts neutral NOT and emphatic NO levers on a quantity console; side tools show a stopping line and a wisdom badge.\nMechanism diagram: 「no more than＝〜しか」 vs 「not more than＝〜以下」; 「no less than＝〜も」; 「not ... any more/longer＝もう〜ない」; 「know better＝分別がある」; 「none the 比較級＝少しも変化なし」.\nOriginal example cards:\n1. “No more than six guests came.” / 「6人しか、という少なさ」\n2. “The box weighs not more than ten kilos.” / 「中立的に10キロ以下」\n3. “The hall held no less than five hundred books.” / 「500冊も、という多さ」\n4. “I’m still none the wiser.” / 「説明後も少しも理解が増えない」\nMini practice box: 「ミニ確認：You should know better than to touch that. は？」 「答え：触るほど分別がないはずではない」 「betterが“もっとわきまえている”を表す。」\nBottom takeaway: 「noは強い感情、notは平らな事実」\nStyle: bright glossy adventure-library emotion console, blue-gold-white with red emphasis, thick outlines, precise labels, dense but scan-friendly.\nTypography: exact English and readable Japanese.\nConstraints: no page number, source content/layout reuse, source identity, logo, citation, watermark, or extra quiz. Mascot once in keeper pose.\nAvoid: tiny idiom list, dark emotional scene, copied chart.\n"
+}

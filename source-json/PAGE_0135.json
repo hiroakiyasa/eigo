@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0135",
+  "number": 135,
+  "title": "up・downは変化の矢印",
+  "chapter": {
+    "id": "modifiers",
+    "title": "情報を足す"
+  },
+  "unitId": "grammar-adverbs",
+  "pageType": "説明",
+  "image": "pages/PAGE_0135.webp",
+  "promptSource": "source-prompts/PAGE_0135.txt",
+  "promptSha256": "69bd5c4e6ca1be9a9d8e34e0df548738c97daef73d83075d115add8209eb6a82",
+  "prompt": "Use case: scientific-educational; dense 9:16 portrait grammar page. Independently teach core extensions of up/down from source p.279–280. Do not copy its examples, sequence, imagery, or prose.\nInput references: mascot identity and PAGE_0001 design.\nTop title: 「up・downは変化の矢印」\nCentral illustration: leopard explorer as an elevator controller. A physical elevator becomes several semantic gauges: height, amount, speed/volume, approach, appearance/disappearance.\nMechanism routes: 「位置：上へ／下へ」「数・温度：増える／減る」「速さ・音量：強める／弱める」「up＝近づく・現れる」「down＝終わって残りが減る」. Add word-building principle 「動詞の核 + 矢印の感覚」 rather than memorizing a list.\nOriginal examples:\n1. “The temperature went up after sunrise.” / 「数値が上昇」\n2. “Please slow down near the bridge.” / 「速度を下げる」\n3. “A new issue came up during the meeting.” / 「話題が現れた」\n4. “Two tasks down, one to go.” / 「2つ終わり、残り1つ」\nMini problem: 「ミニ問題：声を大きくして」 “Please speak (up / down).” 「答え：up」 「音量のレベルを上げる。」\nBottom ribbon: 「上下の矢印を残せば、句動詞が読める」\nStyle: glossy adventure-library elevator laboratory, blue/gold/white, red directional arrows, dimensional gauges, thick outlines, readable dense panels.\nConstraints: no page number, copied source list/examples/figures/text/layout, source identity, logo, citation, watermark, blank answer area, or photorealism. One mascot in elevator-controller pose.\n"
+}

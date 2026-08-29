@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0142",
+  "number": 142,
+  "title": "比較の形を選ぶ",
+  "chapter": {
+    "id": "comparison",
+    "title": "比べる・否定する・気持ちを添える"
+  },
+  "unitId": "grammar-comparatives",
+  "pageType": "説明",
+  "image": "pages/PAGE_0142.webp",
+  "promptSource": "source-prompts/PAGE_0142.txt",
+  "promptSha256": "2800bb94efdb1d040a859b21f4941393636d2beaf6486cca908e0724e49e60d7",
+  "prompt": "Use case: scientific-educational\nAsset type: dense 9:16 portrait comparative-form page\nPrimary request: Independently teach how to form regular comparatives and superlatives: short words usually take -er/-est, longer words take more/most, with common spelling changes. Source pages 296–297 are coverage only; copy no examples, table, wording, or layout.\nInput images: mascot reference; PAGE_0001 design reference.\nCanvas: strict 9:16 portrait, no page number, safe margins.\nTop title: 「比較の形を選ぶ」\nCentral illustration: mascot in a word-forge blacksmith pose upgrades adjective blocks through two machines: suffix forge and more/most booster.\nMechanism diagram: 「短い語 → -er / -est」 「長い語 → more / most」 plus small spelling gears 「-y → -ier / -iest」 「短母音＋子音 → 子音を重ねる」.\nOriginal example cards:\n1. “This rope is longer than that one.” / 「long → longer」\n2. “Mia chose the safest route.” / 「safe → safest」\n3. “This puzzle is more difficult.” / 「長い語はmore」\n4. “That was the most exciting discovery.” / 「長い語の最上級はmost」\nMini practice box: 「ミニ確認：happy の比較級・最上級は？」 「答え：happier / happiest」 「子音字＋yはyをiに変える。」\nBottom takeaway: 「語の長さとつづりを見て、2つの機械を選ぶ」\nStyle: glossy adventure-library word forge, blue/gold/white with red hot-metal accents, thick outlines, dimensional letter blocks, dense educational hierarchy.\nTypography: exact spellings, readable Japanese.\nConstraints: no page number, copied source table/examples/layout, source identity, logo, citation, watermark, or additional quiz. Mascot once in blacksmith pose.\nAvoid: tiny suffixes, illegible formulas, dark industrial mood.\n"
+}

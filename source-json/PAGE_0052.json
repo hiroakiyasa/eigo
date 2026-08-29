@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0052",
+  "number": 52,
+  "title": "力と方向で動詞をつかむ",
+  "chapter": {
+    "id": "framework",
+    "title": "文の骨組み"
+  },
+  "unitId": "grammar-advanced",
+  "pageType": "説明",
+  "image": "pages/PAGE_0052.webp",
+  "promptSource": "source-prompts/PAGE_0052.txt",
+  "promptSha256": "9b3a9e89b800ab323c3ab35266c0dbd0b21c6703f4b225d0a51c105c3f0166a5",
+  "prompt": "Use case: scientific-educational\nAsset type: dense 9:16 portrait vocabulary mechanism page\nPrimary request: Independently explain carry, drive, leave, rise, and fall through force, focus, and vertical direction. Source pages 116–117 are topic coverage only; copy no wording, examples, figures, or layout.\nInput images: Image 1 mascot reference; Image 2 PAGE_0001 design reference.\nCanvas: strict 9:16 portrait, full-bleed, no page number, safe margins.\nTop title: 「力と方向で動詞をつかむ」\nCentral illustration: mascot in a balance-and-force demonstrator pose in an adventure-library physics hall, supporting a backpack, pushing a cart, and pointing to a glowing up/down gauge. Keep one coherent scene, not separate copied panels.\nMechanism diagram: five compact branches from 「動きの核」: 「carry＝支えて運ぶ」 「drive＝力で動かす」 「leave＝残して去る」 「rise＝上へ」 「fall＝下へ」.\nOriginal example cards:\n1. “This bridge carries heavy trains.” / 「橋が重さを支えて通す」\n2. “Curiosity drove Mia to explore.” / 「好奇心が強く押して動かす」\n3. “Leo left his gloves on the bench.” / 「去った結果、手袋が残る」\n4. “The temperature rose, then fell.” / 「数値も上下に動く」\nMini practice box: 「ミニ確認：The news drove him crazy. の drive は？」 「答え：力で状態を変える」 「him を crazy へ強く押している。」\nBottom takeaway: 「具体的な動きが、抽象的な意味にも伸びる」\nStyle: glossy blue-yellow-white educational fantasy library, dimensional force arrows, up/down meter, crisp thick outlines, small red emphasis, readable dense hierarchy.\nTypography: exact English and bold Japanese; no filler.\nConstraints: no page number, source identity, copied sentence, copied diagram, copied layout, logo, citation, watermark, or extra exercise. Mascot once in a distinct pose.\nAvoid: clutter without hierarchy, tiny copy, overly literal collage, dark background.\n"
+}

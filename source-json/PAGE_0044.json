@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0044",
+  "number": 44,
+  "title": "内容は that・whether・wh で選ぶ",
+  "chapter": {
+    "id": "framework",
+    "title": "文の骨組み"
+  },
+  "unitId": "grammar-prepositions-1",
+  "pageType": "説明",
+  "image": "pages/PAGE_0044.webp",
+  "promptSource": "source-prompts/PAGE_0044.txt",
+  "promptSha256": "597198f0af0f3c82776ecdc0206b923c9f743255416498068eff83a93e2d6a92",
+  "prompt": "Use case: scientific-educational. Asset: dense 9:16 portrait grammar page.\nTopic source: p.100–101, concepts only; create original content.\nTop title: 「内容は that・whether・wh で選ぶ」\nScene: adventure-library routing station. Leopard explorer sends a report train through three gates.\nMechanism gates: 「that：事実の内容」 「whether / if：するかどうか」 「wh：いつ・どこ・なぜ・どう」 plus compact 「whether to do：するべきかどうか」.\nOriginal examples: 「I know that Leo is ready.」 「We haven't decided whether to stay.」 「Tell me where the trail begins.」 「Mia wondered whether to call.」\nMini check: 「『その店が開いているかどうか知らない』の入口は？」 choices that / whether. Answer: 「whether — 二択が残っているから」.\nTakeaway: 「後ろに置く内容の種類で入口を選ぶ」\nApproved cover style, central routing illustration, no page number or source marks.\n\n"
+}

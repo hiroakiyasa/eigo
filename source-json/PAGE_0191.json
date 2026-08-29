@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0191",
+  "number": 191,
+  "title": "fromで出る・inで入る",
+  "chapter": {
+    "id": "prepositions",
+    "title": "位置関係を描く"
+  },
+  "unitId": "grammar-prepositions-2",
+  "pageType": "説明",
+  "image": "pages/PAGE_0191.webp",
+  "promptSource": "source-prompts/PAGE_0191.txt",
+  "promptSha256": "e367dbd8cfe6d4e91784de7118dd3971b3ec0c6ea607b43eb7994d04f4be5f33",
+  "prompt": "Use case: scientific-educational\nAsset type: dense illustrated English preposition book page, portrait 9:16\nPrimary request: Independently teach FROM as movement away from a starting point, then contrast it with IN as containment. Reconstruct the concepts from source coverage pages 394–395 without copying wording, examples, figures, or layout.\nInput images: PAGE_0001 is the approved blue-gold-white-red visual design reference; mascot_reference is the exact leopard explorer character reference.\nCanvas: exact 941×1672 portrait, strict 9:16, full bleed, safe margins, no page number.\nTop Japanese title: 「fromで出る・inで入る」\nCentral illustration: the leopard explorer stands between a glowing departure gate marked FROM and a transparent world-container marked IN, pulling an origin ribbon outward with one paw and placing objects inside zones with the other.\nMechanism diagram: FROM core arrow 「起点 → 離れる」 branching to 出発・分離・原料・原因・根拠・区別; IN core enclosure 「範囲の中」 branching to 場所・服装・分野・方法・時間. Add time fork 「期間の中＝以内」 / 「終点に注目＝〜後」.\nOriginal example cards:\n1. “The shuttle leaves from Gate 4.” / 「出発点は4番ゲート」\n2. “This paper is made from bamboo.” / 「竹を起点に別の物へ変化」\n3. “Keep the compass away from water.” / 「水から離しておく」\n4. “Rin looks confident in her new uniform.” / 「制服という包みの中」\nMini practice: 「I’ll call you in ten minutes. のinは？」 Answer: 「10分後」. Reason: 「10分という期間の終点に注目している。」\nBottom takeaway: 「fromは起点から外へ、inは範囲の内側へ」\nStyle: bright glossy adventure-library transit hub, dimensional arrows and containers, thick outlines, compact information-rich cards, same mascot once in a dynamic gatekeeper pose.\nTypography: accurate English and concise readable Japanese Gothic.\nConstraints: no page number, source quotation, copied diagram, source identity, logo, citation, watermark, or unrelated exercise.\nAvoid: tiny text, empty space, dark scene, generic human mascot.\n"
+}

@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0187",
+  "number": 187,
+  "title": "atは一点、beforeは順序の前",
+  "chapter": {
+    "id": "prepositions",
+    "title": "位置関係を描く"
+  },
+  "unitId": "grammar-prepositions-1",
+  "pageType": "直感",
+  "image": "pages/PAGE_0187.webp",
+  "promptSource": "source-prompts/PAGE_0187.txt",
+  "promptSha256": "16de2817e2fddf46fc8db8563357b518d7a40976fbe68b25d09b1a912be615bb",
+  "prompt": "Create a polished, information-rich educational English grammar infographic in portrait 9:16, matching the supplied cover's consistent blue, gold, white, and red explorer-book design. Use the exact same leopard explorer mascot pointing a compass needle at precise dots, then arranging events on a timeline. No page number, source name, watermark, logo, or copied text/layout.\n\nTop Japanese title: 「atは一点、beforeは順序の前」\n\nUpper two-thirds: AT. Place a luminous compass dot in the center and radiate meanings from the single core 「点」.\nPoint map:\n• location: Meet me at the north gate. 「待ち合わせ地点」\n• time: The workshop starts at 9:15. 「時刻の一点」\n• rate/level: The wind was blowing at 40 kilometers per hour. 「速度の一点」\n• target: Everyone smiled at the mascot. 「反応の向かう的」\n\nPhrase constellation explained from “point”:\n• good at puzzles 「パズルという点で得意」\n• not tired at all 「どの点を見ても全く疲れていない」\n• at first / at present / at last 「時間の節目」\n• at most / at least 「上限・下限の点」\n• one at a time 「一つの時点に一つ」\n• at times 「複数の時点→時々」\n• at once 「同じ時点→同時に／発言と同時→すぐ」\n\nLower panel: BEFORE. Show a horizontal sequence A → B with A brightly marked before B. Core label: 「場所の前ではなく、順序が前」.\n• Stretch before practice. 「練習より前の時間」\n• Safety comes before speed. 「優先順位が前」\nContrast warning: Wait in front of the museum. ✓ / Wait before the museum. ✗ for an ordinary physical location. Caption 「建物の正面は in front of」.\n\nMini practice: 「『一度に二人ずつ入って』の at は？ Enter two ___.」 Answer: 「at a time」. Reason: 「一つの時点に二人という区切り」.\n\nBottom takeaway: 「at は点へ照準／before は時間・順位の前」. Dense but clean, accurate typography.\n"
+}

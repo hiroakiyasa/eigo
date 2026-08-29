@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0034",
+  "number": 34,
+  "title": "渡す型と to・for の分かれ道",
+  "chapter": {
+    "id": "framework",
+    "title": "文の骨組み"
+  },
+  "unitId": "grammar-be",
+  "pageType": "説明",
+  "image": "pages/PAGE_0034.webp",
+  "promptSource": "source-prompts/PAGE_0034.txt",
+  "promptSha256": "fe6f542a3ea7a9ab6a10ccff160f786fd844582f3b5df7249757bb285e97a38a",
+  "prompt": "Use case: scientific-educational\nAsset type: dense portrait comparison page for an illustrated English grammar book\nPrimary request: Teach the double-object giving pattern for concrete, abstract, and negative transfer, then contrast it with to/for alternatives that spotlight the receiver or beneficiary. Source pages 80–81 guide topic coverage only; copy nothing.\nInput images: mascot reference for identity only; PAGE_0001 for visual system only.\nCanvas: strict 9:16 portrait, one full page, no page number.\nTop title (verbatim): 「渡す型と to・for の分かれ道」\nCentral original illustration: the leopard explorer in a parcel-sorting pose at a glowing library delivery station. Three rails: “人→もの”, “to＝到達点”, “for＝その人のため”.\nMechanism diagram: “S + V + 人 + もの” tagged 「ふつうの手渡し」; alternative “S + V + もの + to / for + 人” tagged 「受け手を文末で目立たせる」. Tiny minus-transfer badge “cost / take / charge = 人から奪う”.\nOriginal example cards:\n1. “Dad read us a mystery.” / 「物語を私たちへ」\n2. “The delay cost Maya an hour.” / 「Mayaから1時間を奪う」\n3. “I mailed the key to Ren.” / 「Renが到達点」\n4. “We saved a seat for Emi.” / 「Emiのために確保」\nMini practice box: 「ミニ問題　to / for？」 “Leo baked bread ___ his team.”\nAnswer box: 「答え　for」 「チームのために作ったので for。」\nBottom ribbon: 「to は届く先、for は受ける利益」\nStyle: bright glossy adventure-library delivery hub, blue-yellow-white, gold rails, crisp outlined anime/game-book rendering, red only for to/for fork, readable Gothic text.\nConstraints: dense educational balance, mascot once, all specified text legible, no source text/examples/layout/figures, citation, source identity, logo, ISBN, watermark, page number, or extra prose; avoid photorealism and tiny type.\n"
+}

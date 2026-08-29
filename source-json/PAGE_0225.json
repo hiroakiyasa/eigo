@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0225",
+  "number": 225,
+  "title": "toは変化の到達点を指す",
+  "chapter": {
+    "id": "verb-parts",
+    "title": "動きを部品にする"
+  },
+  "unitId": "grammar-infinitives",
+  "pageType": "説明",
+  "image": "pages/PAGE_0225.webp",
+  "promptSource": "source-prompts/PAGE_0225.txt",
+  "promptSha256": "a815cfee9536dde9131ce043482a514ebb2df802b123a3f9265376bb846e16d5",
+  "prompt": "Create a polished, content-rich educational English grammar infographic in portrait 9:16, matching the supplied cover's vivid blue, gold, white, and red explorer design. Use the exact same leopard explorer mascot climbing a staircase of changing states and pointing to destinations on a future map. No page number, source name, watermark, logo, copied example, or copied diagram.\n\nTop Japanese title: 「toは変化の到達点を指す」\n\nUpper central mechanism: COME / GET + TO + action as a staircase from one state to a new state. Caption: 「場所への到着と同じ感覚で、ある状態へたどり着く」.\n• I came to trust my new teammate. 「だんだん信頼するようになった」\n• We got to understand the local customs. 「ついに習慣が分かるようになった」\nShow parallel mini-icons: came to the island / came to appreciate the island, demonstrating the same destination arrow.\n\nLower large section: subject = TO explanation, “be + to-infinitive” as the subject's designated path. Build a radial map from one core 「主語が向かう行為を指す」:\n• goal/content: Our mission is to protect the reef. 「目標の内容」\n• intention/condition: If you are to lead the team, listen first. 「率いるつもりなら」\n• instruction: All visitors are to wear badges. 「着用するように」\n• scheduled plan: The new bridge is to open in spring. 「開通予定」\n• later fate: The tiny workshop was to become a global brand. 「のちにそうなる運命」\n• general equation: To listen is to learn. 「聞くことは学ぶこと」\n\nAdd a newspaper-headline card: “CITY TO OPEN NEW LIBRARY” with a tiny restored-understanding line “City is to open...” Explain: headlines often omit be, while TO still points forward.\n\nMini practice: 「公式な予定：The museum ___ reopen next month.」 Answer: 「is to」. Reason: 「主語museumがこれから向かう予定をtoで示す」.\n\nBottom takeaway ribbon: 「come/getは変化の到着、be＋toは主語の進路」. Dense, visually unified, exact text.\n"
+}

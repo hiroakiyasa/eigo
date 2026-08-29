@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0066",
+  "number": 66,
+  "title": "同じ名詞でも、形を見れば変わる",
+  "chapter": {
+    "id": "nouns",
+    "title": "名詞の世界"
+  },
+  "unitId": "grammar-nouns",
+  "pageType": "説明",
+  "image": "pages/PAGE_0066.webp",
+  "promptSource": "source-prompts/PAGE_0066.txt",
+  "promptSha256": "b80383986b98d22dee7c643b544fd608d65964014918db0605bfb7df5a766949",
+  "prompt": "Use case: scientific-educational; dense 9:16 page. Source p.144–145 concepts only.\nTop title: 「同じ名詞でも、形を見れば変わる」\nScene: adventure-library transformation gallery. Leopard curator rotates one word block to reveal mass and count meanings.\nMechanism pairs: 「paper 紙という材料 / a paper 新聞・論文」 「room 空間 / a room 部屋」 「glass ガラス / a glass グラス」 「work 仕事 / a work 作品」 「time 時間 / three times 3回」.\nOriginal example sentences: at least four short accurate sentences using these contrasts, with concise Japanese.\nMini check: 「There isn't enough (room / a room) in my bag.」 Answer: room — undivided space.\nTakeaway: 「形を与えると、数えられる意味が生まれる」\nDense gallery diagram, examples, problem+answer; cover style; no page number.\n\n"
+}

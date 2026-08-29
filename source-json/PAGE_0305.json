@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0305",
+  "number": 305,
+  "title": "orは選択肢を開く",
+  "chapter": {
+    "id": "flow",
+    "title": "文をつなぎ、会話を伝える"
+  },
+  "unitId": "grammar-conjunctions",
+  "pageType": "説明",
+  "image": "pages/PAGE_0305.webp",
+  "promptSource": "source-prompts/PAGE_0305.txt",
+  "promptSha256": "619b5ef566a6693a74096274b815ed446aad33470a540db436db8b1c17e7d2fb",
+  "prompt": "Create a polished information-dense English grammar book page in portrait 9:16, matching the supplied cover's vivid explorer design. Same leopard mascot choosing at an OR fork, with a warning route labelled OR ELSE. No page number, source identity, watermark, or logo.\n\nTop Japanese title: 「orは選択肢を開く」\n\nCentral forked-road mechanism: A or B offers alternatives; approximate “one or two / six or seven” leaves a fuzzy range; imperative + or gives the unwanted consequence if the command is not followed; or else makes that threat stronger.\n\nOriginal examples:\n• We can walk, or we can take the bus. 「二つの選択肢」\n• Wait for a minute or two. 「1〜2分ほど」\n• Save the file now, or you may lose your work. 「そうしなければ」\n• Leave the bridge, or else it may collapse beneath you. 「悪い別ルートを強調」\n• Is the light blue or green? 「どちらかを確認」\n\nMini practice: what is implied in “Hurry, or we'll be late”? Answer: 「急がない場合は遅れる」; reason 「orのもう一方が望ましくない結果」.\n\nTakeaway: 「orは道を分け、命令文では『さもないと』になる」.\n"
+}

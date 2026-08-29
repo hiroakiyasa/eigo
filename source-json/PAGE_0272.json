@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0272",
+  "number": 272,
+  "title": "過去形の本質は距離感",
+  "chapter": {
+    "id": "time",
+    "title": "時間を旅する"
+  },
+  "unitId": "grammar-past-simple",
+  "pageType": "説明",
+  "image": "pages/PAGE_0272.webp",
+  "promptSource": "source-prompts/PAGE_0272.txt",
+  "promptSha256": "0336046494f9c02762642cd636f9135d7cd38c2c0fd4d6c19a16e3d1399dc411",
+  "prompt": "Create a polished content-rich educational English grammar page in portrait 9:16, matching the supplied cover's energetic explorer design. Same leopard mascot measuring distance from NOW and using a soft request cushion. No page number, source name, watermark, or logo.\n\nTop Japanese title: 「過去形の本質は距離感」\n\nCentral mechanism: past tense places an event on a separated past island; the same distance can soften a present wish/request by reducing direct pressure. Distinguish literal past from polite distancing through context.\n\nOriginal examples:\n• The alarm rang at midnight. 「今から切り離された過去」\n• We lived near the harbor in 2019. 「完結した過去の期間」\n• I wanted to ask if you had a moment. 「今の依頼を控えめに」\n• Did you need any help? 「今の相手へ柔らかく確認」\n\nShow pressure gauge: “I want to ask...” direct → “I wanted to ask...” more tentative. Note that polite past does not necessarily mean the desire ended.\n\nMini practice: does “I hoped you could help me” always describe an old hope? Answer: no; reason 「現在の依頼から心理的距離を取ることがある」.\n\nTakeaway: 「過去形は、時間にも気持ちにも一歩の距離を作る」.\n"
+}

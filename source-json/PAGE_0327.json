@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0327",
+  "number": 327,
+  "title": "不規則動詞は4家族で反射化",
+  "chapter": {
+    "id": "toolbox",
+    "title": "冒険道具箱"
+  },
+  "unitId": "grammar-verbs-present",
+  "pageType": "説明",
+  "image": "pages/PAGE_0327.webp",
+  "promptSource": "source-prompts/PAGE_0327.txt",
+  "promptSha256": "814e30351629da3eaf09d5334d7f0c9b5124fd01d2f7d81d883dd2cea8074995",
+  "prompt": "Create a polished, information-dense educational English grammar page in portrait 9:16, matching the supplied cover's vivid blue, gold, white, and red explorer style. Use the exact same leopard explorer mascot sorting irregular verbs into four colorful evolutionary trails and practicing them aloud with rhythm. No page number, source name, watermark, logo, copied table design, or copied source text.\n\nTop Japanese title: 「不規則動詞は4家族で反射化」\n\nCentral mechanism: BASE → PAST → PAST PARTICIPLE, each form used in a sentence role. Caption: 「原形／過去形／have・受動態と組む過去分詞」.\n\nCreate four compact, reorganized pattern trails with high-frequency verbs. Keep every spelling exact and legible.\n\nA–A–A 「全部同じ」:\ncut–cut–cut, hit–hit–hit, put–put–put, set–set–set, cost–cost–cost\n\nA–B–A 「最後に戻る」:\ncome–came–come, become–became–become, run–ran–run\n\nA–B–B 「過去と分詞が同じ」:\nbring–brought–brought, buy–bought–bought, catch–caught–caught, feel–felt–felt, find–found–found, keep–kept–kept, leave–left–left, make–made–made, say–said–said, teach–taught–taught, think–thought–thought\n\nA–B–C 「3段変化」:\nbegin–began–begun, break–broke–broken, choose–chose–chosen, do–did–done, drink–drank–drunk, drive–drove–driven, eat–ate–eaten, give–gave–given, go–went–gone, know–knew–known, see–saw–seen, speak–spoke–spoken, take–took–taken, write–wrote–written\n\nAdd four original example cards:\n• I write a note every day. 「原形・現在」\n• I wrote one yesterday. 「過去形」\n• I have written three today. 「過去分詞」\n• The note was written in pencil. 「受動態の過去分詞」\n\nPractice method strip: chant three forms → cover two columns → produce a sentence → revisit tomorrow. Warn that patterns help organize, but fluent speech requires instant recall.\n\nMini practice: 「chooseの3形は？」 Answer: 「choose–chose–chosen」. Reason: 「過去chose、過去分詞chosenのA–B–C型」.\n\nBottom takeaway: 「家族で整理し、3形を声と文で反射化」. Dense but clearly divided and accurate.\n"
+}

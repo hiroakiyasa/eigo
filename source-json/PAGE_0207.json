@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0207",
+  "number": 207,
+  "title": "目的語なら省略できる、主語なら必要",
+  "chapter": {
+    "id": "relative",
+    "title": "名詞を後ろから特定する"
+  },
+  "unitId": "grammar-relative",
+  "pageType": "説明",
+  "image": "pages/PAGE_0207.webp",
+  "promptSource": "source-prompts/PAGE_0207.txt",
+  "promptSha256": "60badd8f3a072abe9856f9fa9d2191345b17a70cae241bb017a7330bf0d61c1b",
+  "prompt": "Use case: scientific-educational; dense 9:16 portrait grammar page. Explain omission of relative words in object-hole clauses and everyday THAT as a connector, based on p.426–427.\nInput references: PAGE_0001 design and mascot identity.\nTop title: 「目的語なら省略できる、主語なら必要」\nCentral illustration: mascot as a checkpoint guard lets a removable connector pass out of an OBJECT lane, but stops the SUBJECT lane unless WHO/WHICH/THAT is installed. A smooth THAT ramp leads into the description.\nMechanism: 「目的語の穴：who/which/thatを省略OK」「主語の穴：目印が必要」「that＝人・もの共用で後ろの説明へ導く」.\nOriginal examples: “The song we heard was beautiful.” / 「聞いた歌・目的語なので省略」; “The cyclist that won is my neighbor.” / 「優勝した自転車選手・主語なのでthat必要」; “The bag that holds the camera is waterproof.” / 「カメラを入れるバッグ」.\nMini problem: 「ミニ問題：省略できる？」 “The cake (that) Emi baked was delicious.” Answer 「省略できる」. Reason 「thatはbakedの目的語の穴を案内しているから。」\nBottom ribbon: 「省けるかは、穴が主語か目的語かで決まる」\nStyle: bright adventure-library grammar checkpoint, blue/gold/white/red gates, thick outlines, high-density readable infographic.\nConstraints: 9:16; no page number, copied source wording/examples/figures/layout, logo, citation, watermark, blank answer area, or photorealism. Exactly one mascot in guard pose.\n"
+}

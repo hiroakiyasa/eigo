@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0050",
+  "number": 50,
+  "title": "既知の場所と、新登場を分ける",
+  "chapter": {
+    "id": "framework",
+    "title": "文の骨組み"
+  },
+  "unitId": "grammar-prepositions-1",
+  "pageType": "説明",
+  "image": "pages/PAGE_0050.webp",
+  "promptSource": "source-prompts/PAGE_0050.txt",
+  "promptSha256": "8d0a8816df2f4c2abba6174572d1681a594f998139e19ad4b805281b7438b011",
+  "prompt": "Use case: scientific-educational. Asset: dense 9:16 portrait grammar page.\nTopic source: p.112–113, concepts only; independently reconstruct.\nTop title: 「既知の場所と、新登場を分ける」\nScene: adventure-library casting room. Leopard director compares a known character already on stage with a surprise newcomer entering through a There doorway; a GO motion trail leads out of the room.\nMechanism A: known person starts ordinary be sentence: 「Mia is in the garden.」 New surprise may use there: 「Oh, there's Kai!」\nMechanism B core verb go: movement away / progress / change. Original examples: 「Leo went outside.」 「This old radio still goes.」 「The sky went dark.」\nMini check: known Mia's location—choose 「There is Mia in the garden. / Mia is in the garden.」 Answer: second — 「すでに知っている人を普通に主語へ」.\nTakeaway: 「新情報か既知情報か、動きがどこへ向かうかを見る」\nDense approved style with illustration, mechanism, 4 examples, problem+answer; no page number/source identity.\n\n"
+}

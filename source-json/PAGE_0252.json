@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0252",
+  "number": 252,
+  "title": "doを補い、beは前へ",
+  "chapter": {
+    "id": "questions",
+    "title": "たずねる・目立たせる"
+  },
+  "unitId": "grammar-questions",
+  "pageType": "説明",
+  "image": "pages/PAGE_0252.webp",
+  "promptSource": "source-prompts/PAGE_0252.txt",
+  "promptSha256": "35f13679cea2e5bbb00cca14078834c985400f2ae02b360cc34dffda2ef5b2e8",
+  "prompt": "Use case: scientific-educational\nAsset type: dense illustrated English question-form page, portrait 9:16\nPrimary request: Independently teach DO-support when no auxiliary exists, BE inversion, informal rising questions, and the basic shape of short answers. Rebuild source pages 516–517 without copying text, examples, images, or layout.\nInput images: PAGE_0001 design reference; mascot_reference exact leopard explorer.\nCanvas: exact 941×1672, strict portrait 9:16, full bleed, safe margins, no page number.\nTop Japanese title: 「doを補い、beは前へ」\nCentral illustration: the mascot operates a three-lane question workshop: DO/DOES/DID supply lane, BE flip lane, and short-answer return lane.\nMechanism diagram: no auxiliary 「S＋verb」 → 「Do/Does/Did＋S＋base verb？」; tense/person move into do, leaving the main verb base form. BE lane 「S＋be」 → 「Be＋S？」. Short-answer mirror repeats only pronoun plus auxiliary.\nOriginal example cards:\n1. “Rin studies stars.” → “Does Rin study stars?” / 「doesが三単現を担当、studyは原形」\n2. “Leo opened the chest.” → “Did Leo open the chest?” / 「過去はdid、openは原形」\n3. “The bridge is safe.” → “Is the bridge safe?” / 「beをそのまま前へ」\n4. “Can Mia swim?” — “Yes, she can.” / 「代名詞＋助動詞で軽く返す」\nMini practice: 「Did he (found / find) the cave?」 Answer: “find”. Reason: 「過去はdidがすでに表すため、動詞は原形。」\nBottom takeaway: 「助動詞がなければdo、beならbe自身を動かす」\nStyle: vivid glossy blue-gold-white-red adventure workshop, mechanical lanes and switches, thick outlines, compact cards, mascot once as a cheerful mechanic.\nTypography: accurate English and readable Japanese.\nConstraints: no page number, source reuse, copied diagram, logo, citation, watermark, or extra quiz.\nAvoid: showing does plus studies, tiny conjugation table, dark factory.\n"
+}

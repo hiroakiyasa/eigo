@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0293",
+  "number": 293,
+  "title": "もしもの二段ロケット",
+  "chapter": {
+    "id": "time",
+    "title": "時間を旅する"
+  },
+  "unitId": "grammar-perfect-advanced",
+  "pageType": "説明",
+  "image": "pages/PAGE_0293.webp",
+  "promptSource": "source-prompts/PAGE_0293.txt",
+  "promptSha256": "c60742922c2d9c258c7504208a2a67ac4a6e986b2703c085b804dd1d1c1911e3",
+  "prompt": "Use case: scientific-educational\nAsset type: dense illustrated unreal conditional page, portrait 9:16\nPrimary request: Explain present/future unreal conditionals and past unreal conditionals through the rhythm “remote setup + tentative result.” Contrast would, could, might, then show modal perfect would/could/might have + past participle for unreal past results. Use original examples and art.\nInput images: PAGE_0001 approved design reference; mascot_reference exact leopard explorer.\nCanvas: exact 941×1672, portrait 9:16, no page number.\nTop Japanese title: 「もしもの二段ロケット」\nCentral illustration: the leopard launches a two-stage grammar rocket: stage 1 IF＋past or IF＋had p.p.; stage 2 WOULD/COULD/MIGHT＋verb or＋HAVE p.p.\nMechanism diagram: NOW/FUTURE “If＋past, would/could/might＋base verb”; PAST “If＋had p.p., would/could/might have p.p.” Meanings: would=そうなるだろう, could=できるだろう, might=かもしれない.\nOriginal example cards: “If I lived near the sea, I would swim every morning.” / 「実際は海の近くではない」; “If Mina practiced more, she could join the band.” / 「能力・可能」; “If we had left earlier, we might have caught the train.” / 「過去に起こらなかった可能性」; “If I had saved the file, I wouldn’t have lost my work.” / 「保存しなかった結果」.\nMini practice: 「昨日の反事実：If he had called, I (would answer / would have answered).」 Answer: “would have answered”. Reason: 「過去の結果はwould have＋過去分詞。」\nBottom takeaway: 「if側で現実から離れ、結果側は控えめな助動詞で着地」\nStyle: bright glossy blue-gold rocket workshop, red emphasis, thick outlined diagrams, dense but readable, mascot once as launch engineer.\nConstraints: no page number, copied source text/figures, source identity, logo, citation, watermark.\nAvoid: will in unreal result, incorrect have forms, tiny formula.\n"
+}

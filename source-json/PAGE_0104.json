@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0104",
+  "number": 104,
+  "title": "oneは名詞の代役",
+  "chapter": {
+    "id": "nouns",
+    "title": "名詞の世界"
+  },
+  "unitId": "grammar-nouns",
+  "pageType": "説明",
+  "image": "pages/PAGE_0104.webp",
+  "promptSource": "source-prompts/PAGE_0104.txt",
+  "promptSha256": "b2d67ebee39529474bf6151fd3f370cf64bfb6f4e269d04ce628847e5b70329d",
+  "prompt": "Use case: scientific-educational\nAsset type: dense 9:16 portrait pronoun explanation page\nPrimary request: Independently explain replacement one/ones, contrast one with it, and show that one replaces countable noun words but not uncountable nouns. Source pages 220–221 are coverage only; reuse nothing from the source.\nInput images: mascot reference; PAGE_0001 design reference.\nCanvas: strict 9:16 portrait, no page number, full-bleed, safe margins.\nTop title: 「oneは名詞の代役」\nCentral illustration: mascot in a substitution-magician pose swaps a repeated noun block for a compact glowing ONE token. A separate IT token points back to the exact same object.\nMechanism diagram: 「one / ones＝同じ種類の別のもの・名詞語の代用」 versus 「it＝すでに話した同じもの」; lock icon 「不可算名詞にはoneを使わない」.\nOriginal example cards:\n1. “My lantern broke, so I bought a new one.” / 「別のランタンを1つ」\n2. “I lost my lantern, but Mia found it.” / 「なくしたそのランタン」\n3. “Which cookies? The ones with stars.” / 「複数のcookiesをonesで代用」\n4. “Do you prefer green tea or black?” / 「teaは不可算、oneを置かない」\nMini practice box: 「ミニ確認：I need a pen. Do you have ___?」 「答え：one」 「特定の同じペンではなく、1本のペンだから。」\nBottom takeaway: 「oneは種類、itは同じ個体」\nStyle: bright glossy adventure-library magic desk, blue/yellow/white, dimensional noun tokens, thick outlines, compact contrast diagram, limited red accent.\nTypography: exact English and readable Japanese.\nConstraints: no page number, source reuse, source identity, logo, citation, watermark, or additional quiz. Mascot once in magician pose.\nAvoid: literal stage magic clutter, tiny text, dark background.\n"
+}

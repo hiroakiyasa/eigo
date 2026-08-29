@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0198",
+  "number": 198,
+  "title": "withで状況をつなぐ",
+  "chapter": {
+    "id": "prepositions",
+    "title": "位置関係を描く"
+  },
+  "unitId": "grammar-prepositions-2",
+  "pageType": "説明",
+  "image": "pages/PAGE_0198.webp",
+  "promptSource": "source-prompts/PAGE_0198.txt",
+  "promptSha256": "4b99be7ca86d415760cf7bbcf92066259f8db911729d3f497e013950e64f0e79",
+  "prompt": "Use case: scientific-educational\nAsset type: dense illustrated English preposition book page, portrait 9:16\nPrimary request: Independently teach WITH as connection: company, possession, tool/material, cause, simultaneous accompanying circumstance, harmony, agreement, relation, and ease. Reconstruct coverage pages 408–409 without copying source wording, examples, figures, or layout.\nInput images: PAGE_0001 approved design; mascot_reference exact leopard explorer.\nCanvas: exact 941×1672 portrait, strict 9:16, full bleed, safe margins, no page number.\nTop Japanese title: 「withで状況をつなぐ」\nCentral illustration: the mascot is a connection engineer holding a glowing WITH hub whose cables link a companion, camera tool, smiling face, matching colors, and relation badge.\nMechanism diagram: central 「WITH＝一緒・つながり」 branches to 人/所持・道具/材料・原因→結果・同時状況. Accompanying pattern 「with＋名詞＋説明語句」 with adjective/preposition phrase/-ing/past participle options. Phrase rail: agree with 人, go with, have to do with, with ease.\nOriginal example cards:\n1. “I took the picture with a small camera.” / 「道具とのつながり」\n2. “Mia returned with a smile on her face.” / 「戻る場面と笑顔が同時」\n3. “Blue goes well with gold.” / 「2色が一緒に調和する」\n4. “This clue has nothing to do with the key.” / 「keyとの関係はない」\nMini practice: 「人に同意する：agree (with / to) a person」 Answer: 「with」. Reason: 「人と考えがつながるから。提案への同意はagree to。」\nBottom takeaway: 「withは、人・物・道具・状況を同じ場面につなぐ」\nStyle: vivid glossy connection laboratory, blue-gold-white-red, dimensional cables and hub, thick outlines, compact example cards, mascot once as an energetic engineer.\nTypography: exact English and readable Japanese Gothic.\nConstraints: no page number, source reuse, copied phrase list, trademarked object, source identity, logo, citation, watermark, or extra exercise.\nAvoid: multiple mascot clones, tiny simultaneous-structure text, dark circuitry.\n"
+}

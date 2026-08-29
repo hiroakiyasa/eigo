@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0032",
+  "number": 32,
+  "title": "A＝Bに、動詞の色を重ねる",
+  "chapter": {
+    "id": "framework",
+    "title": "文の骨組み"
+  },
+  "unitId": "grammar-be",
+  "pageType": "説明",
+  "image": "pages/PAGE_0032.webp",
+  "promptSource": "source-prompts/PAGE_0032.txt",
+  "promptSha256": "838ef47afd97732606f31371833dd67b30c6d20cea1622db43093ca6831f07a9",
+  "prompt": "Use case: scientific-educational\nAsset type: dense portrait explanation page for an illustrated English grammar book\nPrimary request: Explain that the subject-description pattern also works with meaningful linking verbs, whose own image overlaps A=B: change, continuation, and sensory impression. Source pages 76–77 guide coverage only; recreate nothing verbatim.\nInput images: Image 1 mascot appearance only; Image 2 PAGE_0001 visual style only.\nCanvas: strict 9:16 portrait, full-bleed, dense, readable, no page number.\nTop title (verbatim): 「A＝Bに、動詞の色を重ねる」\nCentral original illustration: the leopard explorer in a paint-mixer pose overlays translucent verb-color lenses on a glowing equality scale “A = B” in an adventure-library laboratory.\nMechanism diagram: “A → linking verb → B” above three colored routes: 「変化」 become / get / turn, 「そのまま」 stay / remain / keep, 「感覚」 look / sound / feel. Brief note: 「BはAを説明。動詞が変化や印象を足す。」\nOriginal example cards:\n1. “The sky turned orange.” / 「空＝オレンジ色へ変化」\n2. “Please remain seated.” / 「あなた＝座った状態のまま」\n3. “This pillow feels soft.” / 「枕＝やわらかく感じる」\n4. “Our plan became simple.” / 「計画＝簡単になった」\nMini practice box: 「ミニ問題　意味に合う動詞は？」 “The soup ___ delicious.” choices “sounds / runs”\nAnswer box: 「答え　sounds」 「味の印象を、soup＝delicious と結ぶ。」\nBottom ribbon: 「まず A＝B。次に動詞のニュアンス！」\nStyle: same glossy blue-yellow-white adventure library, gold rails, dimensional blocks, bold outlines, red only on equality symbol; mascot once in a new pose.\nConstraints: all text legible; original composition and examples; no copied wording/layout/figure, source name, logo, citation, watermark, ISBN, or page number; no extra prose; no dark background, photorealism, sparse poster, or tiny text.\n"
+}

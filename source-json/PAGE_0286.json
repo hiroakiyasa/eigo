@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0286",
+  "number": 286,
+  "title": "willのスイッチ、going toの流れ",
+  "chapter": {
+    "id": "time",
+    "title": "時間を旅する"
+  },
+  "unitId": "grammar-future",
+  "pageType": "説明",
+  "image": "pages/PAGE_0286.webp",
+  "promptSource": "source-prompts/PAGE_0286.txt",
+  "promptSha256": "bb56b22f9fbcea3e8cfe384dcaa0485c2acf940462e64bc90c55f72f5a237205",
+  "prompt": "Use case: scientific-educational; dense 9:16 portrait grammar page. Teach WILL versus BE GOING TO for prediction, visible evidence, instant decision, and existing intention from p.584–585.\nInput references: PAGE_0001 design and mascot identity.\nTop title: 「willのスイッチ、going toの流れ」\nCentral illustration: mascot as a weather captain compares a WILL decision switch with a GOING TO river already flowing toward an outcome. Visible black clouds and wobbling boxes feed the river; an existing plan card rides along it.\nMechanism: 「will予測＝話し手の見通し」「will意志＝今カチッと決める」「be going to＝現在の兆候から結果へ流れる」「be going to＝すでにある意図」.\nOriginal examples: “I believe our team will recover.” / 「見通しとして予測」; “Look at those clouds—it's going to pour.” / 「目に見える兆候」; “I'll check the map for you.” / 「その場で申し出」; “We're going to repaint the kitchen.” / 「前からある計画」.\nMini problem: 「ミニ問題：箱が今にも落ちそう」 “Those boxes (will / are going to) fall!” Answer 「are going to」. Reason 「目の前の傾きが結果への流れを示す。」\nBottom ribbon: 「今決めたならwill、もう流れがあるならgoing to」\nStyle: bright adventure-library command deck, blue/gold/white/red switch and river arrows, thick outlines, dense clear panels.\nConstraints: 9:16; no page number, copied source wording/examples/figures/layout, source identity, logo, citation, watermark, empty answer area, or photorealism. One mascot captain.\n"
+}

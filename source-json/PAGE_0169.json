@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0169",
+  "number": 169,
+  "title": "canで性質と限界を見抜く",
+  "chapter": {
+    "id": "comparison",
+    "title": "比べる・否定する・気持ちを添える"
+  },
+  "unitId": "grammar-modals-2",
+  "pageType": "説明",
+  "image": "pages/PAGE_0169.webp",
+  "promptSource": "source-prompts/PAGE_0169.txt",
+  "promptSha256": "452f2124bd09bb05dedecc72e878d7d5d19c5fbbb1ebf0ff30f21ba4a28939e2",
+  "prompt": "Use case: scientific-educational; dense 9:16 portrait grammar page. Independently teach CAN for latent tendencies, strong impossibility/doubt, and frequent cannot patterns from source p.350–351.\nInput references: mascot identity and PAGE_0001 style.\nTop title: 「canで性質と限界を見抜く」\nCentral illustration: leopard explorer as an X-ray analyst scans hidden tendencies inside weather and machines. A zero-potential detector makes CAN’T flash; three expression tools show too, enough, and help -ing.\nMechanism: 「can be＝時に現れる潜在的性質」「can’t be＝可能性が内部に見つからない→はずがない」「Can it be...?＝本当にあり得る？」. Pattern rail 「cannot...too＝どれだけ〜してもしすぎない」「cannot...enough＝十分すぎることがない」「cannot help -ing＝抑えられない」.\nOriginal examples:\n1. “Mountain weather can change suddenly.” / 「変化する性質を秘める」\n2. “This receipt can’t be correct.” / 「正しい可能性が見えない」\n3. “You cannot check the rope too carefully.” / 「慎重すぎることはない」\n4. “I couldn’t help smiling.” / 「笑いを抑えられなかった」\nMini problem: 「ミニ問題：“感謝してもしきれない”」 “I cannot thank you (too / enough).” 「答え：enough」 「感謝しても十分な量に届かない。」\nBottom ribbon: 「可能性を内側に探すと、強い否定も理解できる」\nStyle: bright adventure-library X-ray lab, blue/gold/white, red zero-potential alarm, dimensional pattern tools, thick outlines.\nConstraints: no page number, copied source examples/diagrams/text/layout, source identity, logo, citation, watermark, blank answer area, or photorealism. One mascot in analyst pose.\n"
+}

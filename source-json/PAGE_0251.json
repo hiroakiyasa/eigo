@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "PAGE_0251",
+  "number": 251,
+  "title": "知りたい気持ちで倒置",
+  "chapter": {
+    "id": "questions",
+    "title": "たずねる・目立たせる"
+  },
+  "unitId": "grammar-questions",
+  "pageType": "説明",
+  "image": "pages/PAGE_0251.webp",
+  "promptSource": "source-prompts/PAGE_0251.txt",
+  "promptSha256": "cf56895e42e606249e72d89108be89514784b678686942f23d03c714bbddc5b7",
+  "prompt": "Use case: scientific-educational\nAsset type: dense illustrated English question-form book page, portrait 9:16\nPrimary request: Independently teach that a question begins with a genuine wish to know, and formal yes/no questions move an auxiliary or BE before the subject. Reconstruct source coverage pages 514–515 without copying wording, examples, figures, or layout.\nInput images: PAGE_0001 approved blue-gold-white-red design reference; mascot_reference exact leopard explorer character.\nCanvas: exact 941×1672 portrait, strict 9:16, safe margins, no page number.\nTop Japanese title: 「知りたい気持ちで倒置」\nCentral illustration: the mascot leans forward with a curious expression, moving a glowing auxiliary lens over a SUBJECT block on a question-machine track.\nMechanism diagram: statement 「S＋AUX＋V」 → question 「AUX＋S＋V？」 with a heart/curiosity gauge. Side comparison: formal inversion plus rising voice; casual statement order can become a question when context and upward intonation carry real uncertainty.\nOriginal example cards:\n1. “Mia can read this map.” → “Can Mia read this map?” / 「canを主語の前へ」\n2. “They have found the key.” → “Have they found the key?” / 「haveを前へ」\n3. “You’re joining us?” / 「語順はそのまま、上昇調で確認」\nMini practice: 「Leo will guide us. を疑問文に」 Answer: “Will Leo guide us?” Reason: 「助動詞willを主語Leoの前へ動かす。」\nBottom takeaway: 「倒置は、話し手の“教えて”を語順で見せる」\nStyle: glossy adventure-library question laboratory, dimensional blocks and curiosity beam, thick outlines, dense readable panels, same mascot once in an eager investigator pose.\nTypography: exact English and concise Japanese Gothic.\nConstraints: no page number, source quotation/example/diagram, source identity, logo, citation, watermark, or unrelated exercise.\nAvoid: emotionless grammar chart, tiny arrows, dark scene.\n"
+}
