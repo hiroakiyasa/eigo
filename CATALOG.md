@@ -361,7 +361,7 @@
 | 303 | 論理の道しるべを選ぶ | [PAGE_0303](pages/PAGE_0303.webp) | [原稿](source-prompts/PAGE_0303.txt) | `pending` |
 | 304 | butは予想の流れを反転する | [PAGE_0304](pages/PAGE_0304.webp) | [原稿](source-prompts/PAGE_0304.txt) | `pending` |
 | 305 | orは選択肢を開く | [PAGE_0305](pages/PAGE_0305.webp) | [原稿](source-prompts/PAGE_0305.txt) | [40問](question-sets/PAGE_0305.json) |
-| 306 | ifは条件を仮置きする | [PAGE_0306](pages/PAGE_0306.webp) | [原稿](source-prompts/PAGE_0306.txt) | `pending` |
+| 306 | ifは条件を仮置きする | [PAGE_0306](pages/PAGE_0306.webp) | [原稿](source-prompts/PAGE_0306.txt) | [40問](question-sets/PAGE_0306.json) |
 | 307 | 条件の範囲を広げる・絞る | [PAGE_0307](pages/PAGE_0307.webp) | [原稿](source-prompts/PAGE_0307.txt) | `pending` |
 | 308 | 条件に備える表現の道具箱 | [PAGE_0308](pages/PAGE_0308.webp) | [原稿](source-prompts/PAGE_0308.txt) | `pending` |
 | 309 | 理由を結ぶbecause・as・since | [PAGE_0309](pages/PAGE_0309.webp) | [原稿](source-prompts/PAGE_0309.txt) | `pending` |

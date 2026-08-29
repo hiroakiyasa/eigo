@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-29T05:15:39.695Z",
+  "updatedAt": "2026-08-29T05:16:15.880Z",
   "totalPages": 330,
-  "completedPages": 67,
+  "completedPages": 68,
   "questionsPerPage": 40,
   "totalPlannedQuestions": 13200,
   "pages": [
@@ -2450,9 +2450,9 @@
       "number": 306,
       "id": "grammar-master-0306",
       "title": "ifは条件を仮置きする",
-      "status": "pending",
+      "status": "complete",
       "output": "question-sets/PAGE_0306.json",
-      "completedAt": null
+      "completedAt": "2026-08-29T05:16:15.880Z"
     },
     {
       "number": 307,
