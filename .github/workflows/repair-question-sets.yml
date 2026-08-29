@@ -1,0 +1,73 @@
+name: Repair question set distributions
+on:
+  push:
+    paths:
+      - '.github/workflows/repair-question-sets.yml'
+permissions:
+  contents: write
+jobs:
+  repair:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Normalize answer and difficulty distributions
+        run: |
+          node <<'NODE'
+          const fs = require('fs');
+          const formats = ['part5-cloze','correct-sentence','meaning-equivalent','context-completion'];
+          const answerTargets = {
+            'part5-cloze':       ['A','B','C','D','A','B','C','D','A','B'],
+            'correct-sentence':  ['C','D','A','B','C','D','A','B','C','D'],
+            'meaning-equivalent':['A','B','C','D','A','B','C','D','A','C'],
+            'context-completion':['D','C','B','A','D','C','B','A','D','B']
+          };
+          const difficultyTargets = {
+            'part5-cloze':        ['basic','basic','basic','intermediate','intermediate','intermediate','intermediate','intermediate','advanced','advanced'],
+            'correct-sentence':   ['basic','basic','intermediate','intermediate','intermediate','intermediate','intermediate','advanced','advanced','advanced'],
+            'meaning-equivalent': ['basic','basic','basic','intermediate','intermediate','intermediate','intermediate','intermediate','advanced','advanced'],
+            'context-completion': ['basic','basic','intermediate','intermediate','intermediate','intermediate','intermediate','advanced','advanced','advanced']
+          };
+          for (let n=22;n<=43;n++) {
+            const p=`question-sets/PAGE_${String(n).padStart(4,'0')}.json`;
+            if (!fs.existsSync(p)) continue;
+            const data=JSON.parse(fs.readFileSync(p,'utf8'));
+            for (const f of formats) {
+              const qs=data.questions.filter(q=>q.format===f);
+              if(qs.length!==10) continue;
+              qs.forEach((q,i)=>{
+                const want=answerTargets[f][i];
+                const old=q.correctAnswer;
+                if(old!==want){
+                  const tmp=q.choices[want];
+                  q.choices[want]=q.choices[old];
+                  q.choices[old]=tmp;
+                  q.correctAnswer=want;
+                }
+                q.difficulty=difficultyTargets[f][i];
+              });
+            }
+            fs.writeFileSync(p, JSON.stringify(data,null,2)+'\n');
+          }
+          NODE
+      - name: Validate repaired sets
+        run: |
+          set -euo pipefail
+          for n in $(seq 22 43); do
+            p="question-sets/PAGE_$(printf '%04d' "$n").json"
+            [ -e "$p" ] || continue
+            echo "=== validating $p ==="
+            node scripts/validate-question-set.mjs "$p"
+          done
+      - name: Commit repairs
+        run: |
+          if git diff --quiet -- question-sets; then exit 0; fi
+          git config user.name 'TRAIL FUSION AI'
+          git config user.email 'hiroakiyasa@yahoo.co.jp'
+          git add question-sets/PAGE_{0022..0043}.json
+          git commit -m 'fix(questions): normalize answer distributions through page 0043'
+          git push
