@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-29T08:56:53.134Z",
+  "updatedAt": "2026-08-29T08:58:02.346Z",
   "totalPages": 330,
-  "completedPages": 313,
+  "completedPages": 314,
   "questionsPerPage": 40,
   "totalPlannedQuestions": 13200,
   "pages": [
@@ -1938,9 +1938,9 @@
       "number": 242,
       "id": "grammar-master-0242",
       "title": "過去分詞は前で分類、後ろで説明",
-      "status": "pending",
+      "status": "complete",
       "output": "question-sets/PAGE_0242.json",
-      "completedAt": null
+      "completedAt": "2026-08-29T08:58:02.346Z"
     },
     {
       "number": 243,

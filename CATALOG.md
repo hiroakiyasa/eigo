@@ -282,7 +282,7 @@
 | 239 | 受動文のあとをtoで補う | [PAGE_0239](pages/PAGE_0239.webp) | [原稿](source-prompts/PAGE_0239.txt) | [40問](question-sets/PAGE_0239.json) |
 | 240 | 言われている・決まり・句動詞 | [PAGE_0240](pages/PAGE_0240.webp) | [原稿](source-prompts/PAGE_0240.txt) | [40問](question-sets/PAGE_0240.json) |
 | 241 | get＋過去分詞は状態の変化 | [PAGE_0241](pages/PAGE_0241.webp) | [原稿](source-prompts/PAGE_0241.txt) | [40問](question-sets/PAGE_0241.json) |
-| 242 | 過去分詞は前で分類、後ろで説明 | [PAGE_0242](pages/PAGE_0242.webp) | [原稿](source-prompts/PAGE_0242.txt) | `pending` |
+| 242 | 過去分詞は前で分類、後ろで説明 | [PAGE_0242](pages/PAGE_0242.webp) | [原稿](source-prompts/PAGE_0242.txt) | [40問](question-sets/PAGE_0242.json) |
 | 243 | 過去分詞で背景を先に描く | [PAGE_0243](pages/PAGE_0243.webp) | [原稿](source-prompts/PAGE_0243.txt) | `pending` |
 | 244 | 節をひとまとまりの主語にする | [PAGE_0244](pages/PAGE_0244.webp) | [原稿](source-prompts/PAGE_0244.txt) | `pending` |
 | 245 | whetherとwh節を名詞の席へ | [PAGE_0245](pages/PAGE_0245.webp) | [原稿](source-prompts/PAGE_0245.txt) | `pending` |
