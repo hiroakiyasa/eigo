@@ -1,0 +1,672 @@
+{
+  "schemaVersion": 1,
+  "page": {
+    "number": 220,
+    "id": "grammar-master-0220",
+    "title": "-ingで同時進行と結果を足す",
+    "image": "pages/PAGE_0220.webp",
+    "sourcePrompt": "source-prompts/PAGE_0220.txt"
+  },
+  "analysis": {
+    "summaryJa": "主節を主映像とすると、分詞構文の-ing句は同じ動作主による同時動作、文頭の背景・時、または主節から生じた結果を別トラックとして加える。明示しない限り-ingの動作主は主節主語と一致させる。",
+    "grammarPoints": [
+      "文末-ingによる同時の付帯動作",
+      "文頭-ingによる背景・時の設定",
+      "カンマ＋-ingによる主節の結果",
+      "while＋-ingによる同時性と懸垂分詞の回避"
+    ],
+    "visualEvidence": [
+      "画像のMAIN TRACKと-ING TRACKが並行し、同時・背景・結果の読みを示す",
+      "文頭はscene setting、文末はadded detail/resultという配置ガイドがある",
+      "Walking down the street, the rain startedの動作主不一致が警告される"
+    ],
+    "commonTraps": [
+      "文頭-ingの動作主を主節主語と不一致にする",
+      "結果の-ingを意図・目的と誤解する",
+      "whileの後ろに主語なしの過去形を置く",
+      "主節と-ing句の論理関係を語順だけで決める"
+    ]
+  },
+  "questions": [
+    {
+      "id": "PAGE_0220_Q01",
+      "format": "part5-cloze",
+      "prompt": "The receptionist greeted each visitor, ------- their names on a tablet.",
+      "choices": {
+        "A": "checked",
+        "B": "to check",
+        "C": "checking",
+        "D": "check"
+      },
+      "correctAnswer": "C",
+      "translationJa": "受付係は各来訪者に挨拶しながら、タブレットで名前を確認しました。",
+      "explanationJa": "checkingは主節主語receptionistの同時動作を文末に加えます。",
+      "focus": "文末-ingの同時動作",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0220_Q02",
+      "format": "part5-cloze",
+      "prompt": "------- the morning mail, Mr. Boyd noticed an unsigned form.",
+      "choices": {
+        "A": "Opening",
+        "B": "Opened",
+        "C": "To opened",
+        "D": "Open"
+      },
+      "correctAnswer": "A",
+      "translationJa": "朝の郵便物を開封していて、ボイドさんは未署名の用紙に気付きました。",
+      "explanationJa": "Opening句は主節主語Mr. Boydの背景場面を文頭で示します。",
+      "focus": "文頭-ingの背景",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0220_Q03",
+      "format": "part5-cloze",
+      "prompt": "The server failed overnight, ------- online orders for two hours.",
+      "choices": {
+        "A": "delayed",
+        "B": "to delay",
+        "C": "delay",
+        "D": "delaying"
+      },
+      "correctAnswer": "D",
+      "translationJa": "サーバーが夜間に故障し、その結果オンライン注文が2時間遅れました。",
+      "explanationJa": "delayingはサーバー故障から生じた結果を表します。",
+      "focus": "結果を表す文末-ing",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0220_Q04",
+      "format": "part5-cloze",
+      "prompt": "While ------- for the client, the consultant reviewed the agenda.",
+      "choices": {
+        "A": "waited",
+        "B": "waiting",
+        "C": "to wait",
+        "D": "wait"
+      },
+      "correctAnswer": "B",
+      "translationJa": "顧客を待つ間、コンサルタントは議題を確認しました。",
+      "explanationJa": "while waitingは主節主語consultantの同時の時間背景です。",
+      "focus": "while＋-ing",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0220_Q05",
+      "format": "part5-cloze",
+      "prompt": "------- the safety checklist, the inspector entered the storage area.",
+      "choices": {
+        "A": "Carrying",
+        "B": "Carried",
+        "C": "To carried",
+        "D": "Carry"
+      },
+      "correctAnswer": "A",
+      "translationJa": "安全チェックリストを持ちながら、検査員は保管区域に入りました。",
+      "explanationJa": "Carryingの動作主は直後の主節主語the inspectorです。",
+      "focus": "分詞句の動作主一致",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0220_Q06",
+      "format": "part5-cloze",
+      "prompt": "The automatic door closed suddenly, ------- a delivery cart outside.",
+      "choices": {
+        "A": "left",
+        "B": "to leave",
+        "C": "leaving",
+        "D": "leave"
+      },
+      "correctAnswer": "C",
+      "translationJa": "自動ドアが突然閉まり、その結果、配送カートが外に取り残されました。",
+      "explanationJa": "leaving句はドアが閉じた結果を追加します。",
+      "focus": "主節の結果としての-ing",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0220_Q07",
+      "format": "part5-cloze",
+      "prompt": "Ms. Flores walked through the warehouse ------- notes about each aisle.",
+      "choices": {
+        "A": "took",
+        "B": "taking",
+        "C": "to took",
+        "D": "take"
+      },
+      "correctAnswer": "B",
+      "translationJa": "フローレスさんは各通路についてメモを取りながら倉庫内を歩きました。",
+      "explanationJa": "taking notesは主節主語の同時進行動作です。",
+      "focus": "付帯状況の-ing",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0220_Q08",
+      "format": "part5-cloze",
+      "prompt": "------- the updated map, the driver found the temporary entrance.",
+      "choices": {
+        "A": "Followed",
+        "B": "To followed",
+        "C": "Follow",
+        "D": "Following"
+      },
+      "correctAnswer": "D",
+      "translationJa": "更新地図に従い、運転手は仮入口を見つけました。",
+      "explanationJa": "Following句が方法・背景を先に提示し、動作主driverと一致します。",
+      "focus": "文頭-ingの方法背景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0220_Q09",
+      "format": "part5-cloze",
+      "prompt": "The price was entered incorrectly, ------- the invoice total to increase.",
+      "choices": {
+        "A": "caused",
+        "B": "to cause",
+        "C": "causing",
+        "D": "cause"
+      },
+      "correctAnswer": "C",
+      "translationJa": "価格が誤って入力され、その結果、請求書合計が増加しました。",
+      "explanationJa": "causingは主節全体の結果を表し、cause＋目的語＋to doの内部構造も保ちます。",
+      "focus": "結果-ing＋目的語＋to不定詞",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0220_Q10",
+      "format": "part5-cloze",
+      "prompt": "While ------- the equipment, technicians must wear gloves.",
+      "choices": {
+        "A": "handled",
+        "B": "to handle",
+        "C": "handle",
+        "D": "handling"
+      },
+      "correctAnswer": "D",
+      "translationJa": "機器を扱う間、技術者は手袋を着用しなければなりません。",
+      "explanationJa": "handlingの動作主は主節主語techniciansで、whileが同時性を明示します。",
+      "focus": "while＋-ingの動作主",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0220_Q11",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence with the same person doing both actions.",
+      "choices": {
+        "A": "The clerk walked to the counter, the documents carrying him.",
+        "B": "The clerk walked to the counter carrying the documents.",
+        "C": "Carrying the documents, the counter approached the clerk.",
+        "D": "The clerk carrying walked the documents to the counter."
+      },
+      "correctAnswer": "B",
+      "translationJa": "係員は書類を運びながら窓口まで歩きました。",
+      "explanationJa": "walkedとcarryingの動作主はいずれもthe clerkです。",
+      "focus": "同時動作の主語一致",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0220_Q12",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence setting a scene at the beginning.",
+      "choices": {
+        "A": "Checking the reservation list, a duplicate name surprised Maya found.",
+        "B": "Checked the reservation list, Maya finding a duplicate name.",
+        "C": "Checking the reservation list, a duplicate name found Maya.",
+        "D": "Checking the reservation list, Maya found a duplicate name."
+      },
+      "correctAnswer": "D",
+      "translationJa": "予約一覧を確認していて、マヤは重複した名前を見つけました。",
+      "explanationJa": "Checkingの動作主は主節主語Mayaで、文頭が背景場面を作ります。",
+      "focus": "文頭分詞構文",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0220_Q13",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence in which -ing expresses a result.",
+      "choices": {
+        "A": "The pipe burst, flooding the storage room.",
+        "B": "The pipe burst, flooded the storage room.",
+        "C": "Flooding the storage room, the manager heard the pipe.",
+        "D": "The pipe flooding, the storage room burst."
+      },
+      "correctAnswer": "A",
+      "translationJa": "配管が破裂し、その結果、保管室が水浸しになりました。",
+      "explanationJa": "floodingは配管破裂による結果をカンマ後で示します。",
+      "focus": "結果の-ing",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0220_Q14",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence with while and a shared subject.",
+      "choices": {
+        "A": "While speaking with the customer, the account file opened the agent.",
+        "B": "While spoke with the customer, the agent opened the account file.",
+        "C": "While speaking with the customer, the agent opened the account file.",
+        "D": "While the agent speaking, opened the customer the file."
+      },
+      "correctAnswer": "C",
+      "translationJa": "顧客と話しながら、担当者はアカウントファイルを開きました。",
+      "explanationJa": "while speakingの省略主語は主節主語agentです。",
+      "focus": "while＋-ingと主語共有",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0220_Q15",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence without a dangling participle.",
+      "choices": {
+        "A": "Walking through the lobby, a damaged tile caught my eye itself.",
+        "B": "Walking through the lobby, the lights were bright.",
+        "C": "Walking through the lobby, there was a damaged tile.",
+        "D": "Walking through the lobby, I noticed a damaged tile."
+      },
+      "correctAnswer": "D",
+      "translationJa": "ロビーを歩いていて、私は損傷したタイルに気付きました。",
+      "explanationJa": "Walkingの動作主が明示された主節主語Iと一致します。",
+      "focus": "懸垂分詞の回避",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0220_Q16",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence adding a natural final detail.",
+      "choices": {
+        "A": "The presenter answered questions, referred occasionally to her notes.",
+        "B": "The presenter answered questions, referring occasionally to her notes.",
+        "C": "Referring to her notes, the questions answered the presenter.",
+        "D": "The presenter referring answered questions her notes."
+      },
+      "correctAnswer": "B",
+      "translationJa": "発表者は時折メモを参照しながら質問に答えました。",
+      "explanationJa": "referring句はpresenterの同時の付加動作です。",
+      "focus": "文末の付帯動作",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0220_Q17",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence where the -ing phrase gives the consequence.",
+      "choices": {
+        "A": "Demand increased sharply, forced the factory adding a shift.",
+        "B": "Forcing the factory, a shift increased demand sharply.",
+        "C": "Demand increased sharply, forcing the factory to add a shift.",
+        "D": "Demand forcing sharply increased the factory shift."
+      },
+      "correctAnswer": "C",
+      "translationJa": "需要が急増し、そのため工場はシフトを追加せざるを得ませんでした。",
+      "explanationJa": "forcing以下は需要増加が引き起こした結果です。",
+      "focus": "forcingによる結果",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0220_Q18",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence placing focus on the opening scene.",
+      "choices": {
+        "A": "Entering the quiet office, Mr. Price heard an alarm.",
+        "B": "Entering the quiet office, an alarm heard Mr. Price.",
+        "C": "Entered the quiet office, Mr. Price hearing an alarm.",
+        "D": "Entering, the quiet office Mr. Price heard was an alarm."
+      },
+      "correctAnswer": "A",
+      "translationJa": "静かな事務所に入ると、プライスさんは警報音を聞きました。",
+      "explanationJa": "文頭Entering句はMr. Priceの行動場面を先に示します。",
+      "focus": "文頭配置の焦点",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0220_Q19",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence linking simultaneous actions with while.",
+      "choices": {
+        "A": "While reviewed the contract, Ms. Bell highlighted two clauses.",
+        "B": "While reviewing the contract, two clauses highlighted Ms. Bell.",
+        "C": "While the contract reviewing, Ms. Bell two clauses highlighted.",
+        "D": "While reviewing the contract, Ms. Bell highlighted two clauses."
+      },
+      "correctAnswer": "D",
+      "translationJa": "契約書を確認しながら、ベルさんは2つの条項を強調表示しました。",
+      "explanationJa": "reviewingとhighlightedの動作主がMs. Bellで一致します。",
+      "focus": "while分詞句の動作主",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0220_Q20",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence whose logic makes the final -ing a result.",
+      "choices": {
+        "A": "The shipment missed the flight, delayed delivery until Monday.",
+        "B": "Delaying the shipment, Monday missed the flight.",
+        "C": "The shipment missed the flight, delaying delivery until Monday.",
+        "D": "The delivery missing, the flight delayed Monday."
+      },
+      "correctAnswer": "C",
+      "translationJa": "配送品が便に間に合わず、その結果、配送は月曜日まで遅れました。",
+      "explanationJa": "delivery delayは便に間に合わなかった結果として自然です。",
+      "focus": "論理から判断する結果-ing",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0220_Q21",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The assistant entered smiling.\"",
+      "choices": {
+        "A": "The assistant entered after she stopped smiling.",
+        "B": "Someone smiled at the assistant’s entrance.",
+        "C": "The assistant made the door smile.",
+        "D": "The assistant smiled while entering."
+      },
+      "correctAnswer": "D",
+      "translationJa": "アシスタントは微笑みながら入ってきました。",
+      "explanationJa": "文末smilingは主節と同じ人の同時動作です。",
+      "focus": "同時付帯動作の展開",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0220_Q22",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"Opening the file, I found an error.\"",
+      "choices": {
+        "A": "The file opened me after finding an error.",
+        "B": "When I opened the file, I found an error.",
+        "C": "An error opened the file by itself.",
+        "D": "I found no error before closing the file."
+      },
+      "correctAnswer": "B",
+      "translationJa": "ファイルを開くと、私はエラーを見つけました。",
+      "explanationJa": "文頭Opening句はwhen節に展開できる時間・背景です。",
+      "focus": "文頭-ingの時節化",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0220_Q23",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The alarm sounded, waking everyone.\"",
+      "choices": {
+        "A": "Everyone sounded the alarm after waking.",
+        "B": "The alarm fell asleep with everyone.",
+        "C": "The alarm sounded, and as a result everyone woke up.",
+        "D": "Everyone woke before any alarm sounded."
+      },
+      "correctAnswer": "C",
+      "translationJa": "警報が鳴り、その結果、全員が目を覚ましました。",
+      "explanationJa": "waking everyoneは警報音の結果を示します。",
+      "focus": "結果-ingの展開",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0220_Q24",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"While waiting for approval, we revised the budget.\"",
+      "choices": {
+        "A": "We revised the budget during the time we waited for approval.",
+        "B": "Approval revised the budget before we waited.",
+        "C": "We stopped waiting after rejecting the budget.",
+        "D": "The budget approved us immediately."
+      },
+      "correctAnswer": "A",
+      "translationJa": "承認を待つ間に予算を修正しました。",
+      "explanationJa": "while waitingが主節と同時の時間範囲を示します。",
+      "focus": "while＋-ingの展開",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0220_Q25",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"Carrying a laptop, Elena boarded the train.\"",
+      "choices": {
+        "A": "A laptop boarded the train carrying Elena.",
+        "B": "Elena carried a laptop as she boarded the train.",
+        "C": "Elena left the laptop before boarding.",
+        "D": "The train carried only the laptop."
+      },
+      "correctAnswer": "B",
+      "translationJa": "エレナはノートパソコンを持って列車に乗りました。",
+      "explanationJa": "carryingの動作主は主節主語Elenaです。",
+      "focus": "共有動作主の同時動作",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0220_Q26",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"Sales fell, leading management to revise the forecast.\"",
+      "choices": {
+        "A": "Management revised sales to increase the fall.",
+        "B": "The forecast caused sales to fall later.",
+        "C": "Sales rose after management kept the forecast.",
+        "D": "Because sales fell, management revised the forecast."
+      },
+      "correctAnswer": "D",
+      "translationJa": "売上が減少したため、経営陣は予測を修正しました。",
+      "explanationJa": "leading以下は売上減少が引き起こした結果を表します。",
+      "focus": "結果を表すleading",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0220_Q27",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"Looking at the map, the driver found the entrance.\"",
+      "choices": {
+        "A": "The driver found the entrance while looking at the map.",
+        "B": "The map found the driver at the entrance.",
+        "C": "The entrance looked at the driver.",
+        "D": "The driver discarded the map before searching."
+      },
+      "correctAnswer": "A",
+      "translationJa": "運転手は地図を見ながら入口を見つけました。",
+      "explanationJa": "lookingとfoundの動作主はdriverで、同時の背景です。",
+      "focus": "同時背景-ing",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0220_Q28",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The price rose, causing several orders to be canceled.\"",
+      "choices": {
+        "A": "Canceled orders caused the price to fall.",
+        "B": "The price was canceled by several orders.",
+        "C": "Several orders were canceled as a result of the price rise.",
+        "D": "Every order increased the price intentionally."
+      },
+      "correctAnswer": "C",
+      "translationJa": "価格上昇の結果、複数の注文がキャンセルされました。",
+      "explanationJa": "causing句は主節から生じた因果結果を示します。",
+      "focus": "causing結果構文",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0220_Q29",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"While inspecting the room, the manager took photos.\"",
+      "choices": {
+        "A": "The manager took photos during the inspection of the room.",
+        "B": "The room took photos of the manager.",
+        "C": "The manager inspected photos instead of the room.",
+        "D": "Photos prevented the inspection."
+      },
+      "correctAnswer": "A",
+      "translationJa": "部長は部屋を検査しながら写真を撮りました。",
+      "explanationJa": "while inspectingは同じ主語managerの並行動作です。",
+      "focus": "while分詞句の名詞化",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0220_Q30",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"A storm closed the airport, stranding hundreds of travelers.\"",
+      "choices": {
+        "A": "Travelers closed the airport before the storm.",
+        "B": "Hundreds of travelers were stranded because the storm closed the airport.",
+        "C": "The storm helped travelers leave early.",
+        "D": "The airport stranded the storm outside."
+      },
+      "correctAnswer": "B",
+      "translationJa": "嵐で空港が閉鎖され、数百人の旅行者が足止めされました。",
+      "explanationJa": "strandingは空港閉鎖の結果を表します。",
+      "focus": "主節全体の結果-ing",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0220_Q31",
+      "format": "context-completion",
+      "prompt": "The receptionist moved through the line. She checked each badge, ------- visitors toward the elevators.",
+      "choices": {
+        "A": "directed",
+        "B": "to direct",
+        "C": "directing",
+        "D": "direct"
+      },
+      "correctAnswer": "C",
+      "translationJa": "受付係は列に沿って移動しました。各バッジを確認しながら、来訪者をエレベーターへ案内しました。",
+      "explanationJa": "directingは同じ主語sheの同時動作を追加します。",
+      "focus": "文末付帯動作",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0220_Q32",
+      "format": "context-completion",
+      "prompt": "Ms. Ito opened the shipment. ------- the contents, she noticed a missing cable.",
+      "choices": {
+        "A": "Examining",
+        "B": "Examined",
+        "C": "To examined",
+        "D": "Examine"
+      },
+      "correctAnswer": "A",
+      "translationJa": "伊藤さんは配送品を開けました。中身を調べていて、ケーブル不足に気付きました。",
+      "explanationJa": "Examiningの動作主は主節主語sheです。",
+      "focus": "文頭背景-ing",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0220_Q33",
+      "format": "context-completion",
+      "prompt": "The cooling system stopped overnight. This raised the temperature, ------- several samples.",
+      "choices": {
+        "A": "damaged",
+        "B": "to damage",
+        "C": "damage",
+        "D": "damaging"
+      },
+      "correctAnswer": "D",
+      "translationJa": "冷却システムが夜間に停止しました。そのため温度が上がり、複数のサンプルが損傷しました。",
+      "explanationJa": "damagingは温度上昇の結果を示します。",
+      "focus": "結果-ing",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0220_Q34",
+      "format": "context-completion",
+      "prompt": "The consultant had twenty minutes before the call. While -------, she reviewed the client’s questions.",
+      "choices": {
+        "A": "waited",
+        "B": "waiting",
+        "C": "to wait",
+        "D": "wait"
+      },
+      "correctAnswer": "B",
+      "translationJa": "コンサルタントは電話まで20分ありました。待つ間に顧客の質問を確認しました。",
+      "explanationJa": "while waitingは主節主語sheの同時の時間背景です。",
+      "focus": "while＋-ing",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0220_Q35",
+      "format": "context-completion",
+      "prompt": "The driver was holding a route sheet. ------- it closely, he located the new warehouse.",
+      "choices": {
+        "A": "Followed",
+        "B": "To followed",
+        "C": "Following",
+        "D": "Follow"
+      },
+      "correctAnswer": "C",
+      "translationJa": "運転手は経路表を持っていました。それに注意深く従い、新しい倉庫を見つけました。",
+      "explanationJa": "Followingの動作主はheで、方法背景を文頭に置きます。",
+      "focus": "方法を示す文頭-ing",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0220_Q36",
+      "format": "context-completion",
+      "prompt": "A truck blocked the only entrance, ------- the morning delivery.",
+      "choices": {
+        "A": "delaying",
+        "B": "delayed",
+        "C": "to delay",
+        "D": "delay"
+      },
+      "correctAnswer": "A",
+      "translationJa": "トラックが唯一の入口をふさぎ、その結果、朝の配送が遅れました。",
+      "explanationJa": "delayingはblockした結果を示します。",
+      "focus": "結果の文末-ing",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0220_Q37",
+      "format": "context-completion",
+      "prompt": "The inspector walked along every aisle ------- shelf numbers.",
+      "choices": {
+        "A": "recorded",
+        "B": "recording",
+        "C": "to record",
+        "D": "record"
+      },
+      "correctAnswer": "B",
+      "translationJa": "検査員は棚番号を記録しながら各通路を歩きました。",
+      "explanationJa": "recordingはinspectorの同時動作です。",
+      "focus": "文末同時-ing",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0220_Q38",
+      "format": "context-completion",
+      "prompt": "The visitors were unfamiliar with the building. While ------- to the hall, they followed the blue signs.",
+      "choices": {
+        "A": "walked",
+        "B": "to walk",
+        "C": "walk",
+        "D": "walking"
+      },
+      "correctAnswer": "D",
+      "translationJa": "来訪者は建物に不慣れでした。ホールへ歩く間、青い標識に従いました。",
+      "explanationJa": "walkingとfollowedの動作主はtheyで一致します。",
+      "focus": "while＋-ingと主語一致",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0220_Q39",
+      "format": "context-completion",
+      "prompt": "The board rejected the first proposal, ------- the team to prepare a new one.",
+      "choices": {
+        "A": "requiring",
+        "B": "required",
+        "C": "to require",
+        "D": "require"
+      },
+      "correctAnswer": "A",
+      "translationJa": "取締役会は最初の提案を却下し、その結果、チームは新案の作成を求められました。",
+      "explanationJa": "requiringは却下から生じた結果で、require＋人＋to doの形です。",
+      "focus": "結果-ing＋人＋to do",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0220_Q40",
+      "format": "context-completion",
+      "prompt": "The employee wanted to catch the first train. ------- the office, she checked that every door was locked.",
+      "choices": {
+        "A": "Left",
+        "B": "Leaving",
+        "C": "To left",
+        "D": "Leave"
+      },
+      "correctAnswer": "B",
+      "translationJa": "従業員は始発列車に乗りたがっていました。事務所を出る際、すべてのドアが施錠されているか確認しました。",
+      "explanationJa": "Leavingの動作主sheが主節主語と一致し、退出場面を先に示します。",
+      "focus": "文頭場面設定と動作主",
+      "difficulty": "advanced"
+    }
+  ]
+}
