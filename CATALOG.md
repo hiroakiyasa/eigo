@@ -111,7 +111,7 @@
 | 93 | thisとthatは、距離を指す | [PAGE_0093](pages/PAGE_0093.webp) | [原稿](source-prompts/PAGE_0093.txt) | `pending` |
 | 94 | thatは導く、限定詞は受ける | [PAGE_0094](pages/PAGE_0094.webp) | [原稿](source-prompts/PAGE_0094.txt) | `pending` |
 | 95 | 特定の中から選び、代名詞で受ける | [PAGE_0095](pages/PAGE_0095.webp) | [原稿](source-prompts/PAGE_0095.txt) | `pending` |
-| 96 | 代名詞は、場所で着替える | [PAGE_0096](pages/PAGE_0096.webp) | [原稿](source-prompts/PAGE_0096.txt) | `pending` |
+| 96 | 代名詞は、場所で着替える | [PAGE_0096](pages/PAGE_0096.webp) | [原稿](source-prompts/PAGE_0096.txt) | [40問](question-sets/PAGE_0096.json) |
 | 97 | ’sは密着、ofは後ろから説明 | [PAGE_0097](pages/PAGE_0097.webp) | [原稿](source-prompts/PAGE_0097.txt) | `pending` |
 | 98 | 所有より広い、“強いつながり” | [PAGE_0098](pages/PAGE_0098.webp) | [原稿](source-prompts/PAGE_0098.txt) | `pending` |
 | 99 | mine・myself・itで受ける | [PAGE_0099](pages/PAGE_0099.webp) | [原稿](source-prompts/PAGE_0099.txt) | `pending` |
@@ -210,7 +210,7 @@
 | ページ | タイトル | 画像 | 制作原稿 | 問題 |
 |---:|---|---|---|---|
 | 179 | 前置詞は関係を描く小さな地図 | [PAGE_0179](pages/PAGE_0179.webp) | [原稿](source-prompts/PAGE_0179.txt) | `pending` |
-| 180 | 前置詞句は置き場所で働きが決まる | [PAGE_0180](pages/PAGE_0180.webp) | [原稿](source-prompts/PAGE_0180.txt) | `pending` |
+| 180 | 前置詞句は置き場所で働きが決まる | [PAGE_0180](pages/PAGE_0180.webp) | [原稿](source-prompts/PAGE_0180.txt) | [40問](question-sets/PAGE_0180.json) |
 | 181 | 句動詞は“まとまり方”で見抜く | [PAGE_0181](pages/PAGE_0181.webp) | [原稿](source-prompts/PAGE_0181.txt) | `pending` |
 | 182 | 代名詞は句動詞の真ん中へ | [PAGE_0182](pages/PAGE_0182.webp) | [原稿](source-prompts/PAGE_0182.txt) | `pending` |
 | 183 | at・in・onは同じ場所でも変わる | [PAGE_0183](pages/PAGE_0183.webp) | [原稿](source-prompts/PAGE_0183.txt) | `pending` |
