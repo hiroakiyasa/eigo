@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-29T05:36:15.400Z",
+  "updatedAt": "2026-08-29T05:36:48.012Z",
   "totalPages": 330,
-  "completedPages": 113,
+  "completedPages": 114,
   "questionsPerPage": 40,
   "totalPlannedQuestions": 13200,
   "pages": [
@@ -522,9 +522,9 @@
       "number": 65,
       "id": "grammar-master-0065",
       "title": "数えられないものは、単位で数える",
-      "status": "pending",
+      "status": "complete",
       "output": "question-sets/PAGE_0065.json",
-      "completedAt": null
+      "completedAt": "2026-08-29T05:36:48.012Z"
     },
     {
       "number": 66,
