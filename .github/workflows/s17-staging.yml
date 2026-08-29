@@ -1,0 +1,47 @@
+name: S17 staging restore
+
+on:
+  push:
+    branches:
+      - automation/s17-staging
+    paths:
+      - ".s17/**"
+      - ".github/workflows/s17-staging.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  restore:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Restore and validate S17 question sets
+        shell: bash
+        run: |
+          set -euo pipefail
+          cat .s17/payload.part-* > /tmp/s17_payload.b64
+          base64 -d /tmp/s17_payload.b64 > /tmp/s17_payload.tar.bz2
+          echo "2431e37e976fcd4f8172341ccb0fa83b9a9fb1960e1cec0817ffcbd82d22c90c  /tmp/s17_payload.tar.bz2" | sha256sum -c -
+          mkdir -p /tmp/s17_restore
+          tar -xjf /tmp/s17_payload.tar.bz2 -C /tmp/s17_restore
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          for i in $(seq 278 291); do
+            n=$(printf "%04d" "$i")
+            src="/tmp/s17_restore/question-sets/PAGE_${n}.json"
+            dst="question-sets/PAGE_${n}.json"
+            test -f "$src"
+            test ! -e "$dst"
+            cp "$src" "$dst"
+            node scripts/validate-question-set.mjs "$dst"
+            git add "$dst"
+            git commit -m "chore(s17): stage PAGE_${n}"
+          done
+
+          node scripts/validate-question-set.mjs --all
+          git push origin HEAD:automation/s17-staging
