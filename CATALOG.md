@@ -373,7 +373,7 @@
 | 315 | asの核は“＝・ぴったり同時” | [PAGE_0315](pages/PAGE_0315.webp) | [原稿](source-prompts/PAGE_0315.txt) | `pending` |
 | 316 | asはイコール、likeは類似 | [PAGE_0316](pages/PAGE_0316.webp) | [原稿](source-prompts/PAGE_0316.txt) | `pending` |
 | 317 | 接続表現から“流れを整える”へ | [PAGE_0317](pages/PAGE_0317.webp) | [原稿](source-prompts/PAGE_0317.txt) | `pending` |
-| 318 | 代用で繰り返しを軽くする | [PAGE_0318](pages/PAGE_0318.webp) | [原稿](source-prompts/PAGE_0318.txt) | `pending` |
+| 318 | 代用で繰り返しを軽くする | [PAGE_0318](pages/PAGE_0318.webp) | [原稿](source-prompts/PAGE_0318.txt) | [40問](question-sets/PAGE_0318.json) |
 | 319 | soで内容を受け、省略で流れを速く | [PAGE_0319](pages/PAGE_0319.webp) | [原稿](source-prompts/PAGE_0319.txt) | `pending` |
 | 320 | 省略と注釈で文をシャープに | [PAGE_0320](pages/PAGE_0320.webp) | [原稿](source-prompts/PAGE_0320.txt) | `pending` |
 | 321 | 同格と挿入で説明を差し込む | [PAGE_0321](pages/PAGE_0321.webp) | [原稿](source-prompts/PAGE_0321.txt) | `pending` |

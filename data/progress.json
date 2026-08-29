@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-29T05:07:09.753Z",
+  "updatedAt": "2026-08-29T05:09:00.639Z",
   "totalPages": 330,
-  "completedPages": 57,
+  "completedPages": 58,
   "questionsPerPage": 40,
   "totalPlannedQuestions": 13200,
   "pages": [
@@ -2546,9 +2546,9 @@
       "number": 318,
       "id": "grammar-master-0318",
       "title": "代用で繰り返しを軽くする",
-      "status": "pending",
+      "status": "complete",
       "output": "question-sets/PAGE_0318.json",
-      "completedAt": null
+      "completedAt": "2026-08-29T05:09:00.639Z"
     },
     {
       "number": 319,
