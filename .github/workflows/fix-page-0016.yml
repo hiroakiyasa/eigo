@@ -1,0 +1,42 @@
+name: Repair PAGE 0016 validation
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/fix-page-0016.yml'
+permissions:
+  contents: write
+jobs:
+  repair:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Patch PAGE 0016
+        run: |
+          node <<'NODE'
+          const fs = require('fs');
+          const p = 'question-sets/PAGE_0016.json';
+          const d = JSON.parse(fs.readFileSync(p, 'utf8'));
+          const q26 = d.questions[25];
+          q26.explanationJa = 'onはドア表面への物理的な接触を表します。';
+          const q28 = d.questions[27];
+          [q28.choices.B, q28.choices.C] = [q28.choices.C, q28.choices.B];
+          q28.correctAnswer = 'B';
+          const q38 = d.questions[37];
+          [q38.choices.B, q38.choices.C] = [q38.choices.C, q38.choices.B];
+          q38.correctAnswer = 'C';
+          fs.writeFileSync(p, JSON.stringify(d, null, 2) + '\n');
+          NODE
+          node scripts/validate-question-set.mjs question-sets/PAGE_0016.json
+      - name: Commit repair
+        run: |
+          git config user.name 'TRAIL FUSION AI'
+          git config user.email 'hiroakiyasa@yahoo.co.jp'
+          git add question-sets/PAGE_0016.json
+          git commit -m 'fix(questions): repair validation for page 0016'
+          git push origin main
