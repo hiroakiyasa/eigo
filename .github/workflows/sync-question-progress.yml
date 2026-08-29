@@ -43,16 +43,56 @@ jobs:
             git fetch origin main
             git reset --hard origin/main
 
+            retry_needed=0
             for file in question-sets/PAGE_*.json; do
               [ -e "$file" ] || continue
               page="$(basename "$file" .json)"
               number=$((10#${page#PAGE_}))
+
+              # Some parallel producers may preserve a valid 40-question payload but
+              # copy an outdated display title. Normalize only page.title from the
+              # manifest, and publish each repaired page as its own commit.
+              node - "$file" "$number" <<'NODE'
+          const fs = require('fs');
+          const [file, rawNumber] = process.argv.slice(2);
+          let data;
+          try {
+            data = JSON.parse(fs.readFileSync(file, 'utf8'));
+          } catch {
+            process.exit(0);
+          }
+          const manifest = JSON.parse(fs.readFileSync('data/page-manifest.json', 'utf8'));
+          const expected = manifest.pages?.find((item) => item.number === Number(rawNumber));
+          if (expected && data.page?.title !== expected.title) {
+            data.page.title = expected.title;
+            fs.writeFileSync(file, `${JSON.stringify(data)}\n`);
+          }
+          NODE
+
+              if ! git diff --quiet -- "$file"; then
+                git add "$file"
+                git commit -m "fix(questions): match manifest title for page ${page#PAGE_} [skip ci]"
+                if git push origin HEAD:main; then
+                  echo "Normalized title: ${page}"
+                else
+                  echo "main advanced while normalizing ${page}; rebuilding from latest main"
+                  retry_needed=1
+                  break
+                fi
+              fi
+
               status="$(node -e 'const fs=require("fs"); const p=JSON.parse(fs.readFileSync("data/progress.json","utf8")); const n=Number(process.argv[1]); console.log(p.pages.find(x=>x.number===n)?.status ?? "missing")' "$number")"
               if [ "$status" = "pending" ]; then
                 node scripts/validate-question-set.mjs "$file"
                 node scripts/mark-complete.mjs "$page"
               fi
             done
+
+            if [ "$retry_needed" -eq 1 ]; then
+              sleep_seconds=$(( attempt < 5 ? attempt : 5 ))
+              sleep "$sleep_seconds"
+              continue
+            fi
 
             node scripts/validate-repository.mjs
 
