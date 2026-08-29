@@ -192,7 +192,7 @@
 | 164 | mayは、権限が開くドア | [PAGE_0164](pages/PAGE_0164.webp) | [原稿](source-prompts/PAGE_0164.txt) | `pending` |
 | 165 | mayは、可能性のドアも開く | [PAGE_0165](pages/PAGE_0165.webp) | [原稿](source-prompts/PAGE_0165.txt) | `pending` |
 | 166 | willは、未来を見通す力 | [PAGE_0166](pages/PAGE_0166.webp) | [原稿](source-prompts/PAGE_0166.txt) | [40問](question-sets/PAGE_0166.json) |
-| 167 | willは、“今決めた”意志 | [PAGE_0167](pages/PAGE_0167.webp) | [原稿](source-prompts/PAGE_0167.txt) | `pending` |
+| 167 | willは、“今決めた”意志 | [PAGE_0167](pages/PAGE_0167.webp) | [原稿](source-prompts/PAGE_0167.txt) | [40問](question-sets/PAGE_0167.json) |
 | 168 | canは、内にある可能性 | [PAGE_0168](pages/PAGE_0168.webp) | [原稿](source-prompts/PAGE_0168.txt) | `pending` |
 | 169 | canで性質と限界を見抜く | [PAGE_0169](pages/PAGE_0169.webp) | [原稿](source-prompts/PAGE_0169.txt) | `pending` |
 | 170 | shallは、進むべき一本道 | [PAGE_0170](pages/PAGE_0170.webp) | [原稿](source-prompts/PAGE_0170.txt) | `pending` |
