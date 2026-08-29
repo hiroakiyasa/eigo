@@ -11,7 +11,7 @@ on:
 
 concurrency:
   group: sync-question-progress-main
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 permissions:
   contents: write
@@ -43,6 +43,16 @@ jobs:
             # or running. Always recompute progress from the latest remote main.
             git fetch origin main
             git reset --hard origin/main
+
+            node - <<'NODE'
+          const fs = require('fs');
+          const missing = [];
+          for (let number = 3; number <= 330; number += 1) {
+            const page = String(number).padStart(4, '0');
+            if (!fs.existsSync(`question-sets/PAGE_${page}.json`)) missing.push(`PAGE_${page}`);
+          }
+          console.log(`Missing question sets (${missing.length}): ${missing.join(', ') || 'none'}`);
+          NODE
 
             retry_needed=0
             for file in question-sets/PAGE_*.json; do
