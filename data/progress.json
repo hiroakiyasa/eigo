@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-29T05:12:03.763Z",
+  "updatedAt": "2026-08-29T05:13:16.855Z",
   "totalPages": 330,
-  "completedPages": 60,
+  "completedPages": 62,
   "questionsPerPage": 40,
   "totalPlannedQuestions": 13200,
   "pages": [
@@ -474,9 +474,9 @@
       "number": 59,
       "id": "grammar-master-0059",
       "title": "want は、足りないから欲しい",
-      "status": "pending",
+      "status": "complete",
       "output": "question-sets/PAGE_0059.json",
-      "completedAt": null
+      "completedAt": "2026-08-29T05:13:16.723Z"
     },
     {
       "number": 60,
@@ -2338,9 +2338,9 @@
       "number": 292,
       "id": "grammar-master-0292",
       "title": "後悔と仮定の合図",
-      "status": "pending",
+      "status": "complete",
       "output": "question-sets/PAGE_0292.json",
-      "completedAt": null
+      "completedAt": "2026-08-29T05:13:16.855Z"
     },
     {
       "number": 293,

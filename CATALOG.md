@@ -69,7 +69,7 @@
 | 56 | 見る・聞くは、動作か感覚か | [PAGE_0056](pages/PAGE_0056.webp) | [原稿](source-prompts/PAGE_0056.txt) | [40問](question-sets/PAGE_0056.json) |
 | 57 | 感じる動詞・伝える動詞 | [PAGE_0057](pages/PAGE_0057.webp) | [原稿](source-prompts/PAGE_0057.txt) | [40問](question-sets/PAGE_0057.json) |
 | 58 | 情報は、頭と心を旅する | [PAGE_0058](pages/PAGE_0058.webp) | [原稿](source-prompts/PAGE_0058.txt) | [40問](question-sets/PAGE_0058.json) |
-| 59 | want は、足りないから欲しい | [PAGE_0059](pages/PAGE_0059.webp) | [原稿](source-prompts/PAGE_0059.txt) | `pending` |
+| 59 | want は、足りないから欲しい | [PAGE_0059](pages/PAGE_0059.webp) | [原稿](source-prompts/PAGE_0059.txt) | [40問](question-sets/PAGE_0059.json) |
 
 ## 名詞の世界（60〜108）
 
@@ -342,7 +342,7 @@
 | 289 | 予定をそっと尋ね、道を示す | [PAGE_0289](pages/PAGE_0289.webp) | [原稿](source-prompts/PAGE_0289.txt) | `pending` |
 | 290 | 現実から離れる仮定法 | [PAGE_0290](pages/PAGE_0290.webp) | [原稿](source-prompts/PAGE_0290.txt) | `pending` |
 | 291 | wishは現実から一歩遠く | [PAGE_0291](pages/PAGE_0291.webp) | [原稿](source-prompts/PAGE_0291.txt) | `pending` |
-| 292 | 後悔と仮定の合図 | [PAGE_0292](pages/PAGE_0292.webp) | [原稿](source-prompts/PAGE_0292.txt) | `pending` |
+| 292 | 後悔と仮定の合図 | [PAGE_0292](pages/PAGE_0292.webp) | [原稿](source-prompts/PAGE_0292.txt) | [40問](question-sets/PAGE_0292.json) |
 | 293 | もしもの二段ロケット | [PAGE_0293](pages/PAGE_0293.webp) | [原稿](source-prompts/PAGE_0293.txt) | `pending` |
 | 294 | 過去の原因、今の結果 | [PAGE_0294](pages/PAGE_0294.webp) | [原稿](source-prompts/PAGE_0294.txt) | `pending` |
 | 295 | 過去の箱に入れると時制も過去 | [PAGE_0295](pages/PAGE_0295.webp) | [原稿](source-prompts/PAGE_0295.txt) | `pending` |
