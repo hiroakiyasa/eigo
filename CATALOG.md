@@ -83,7 +83,7 @@
 | 65 | 数えられないものは、単位で数える | [PAGE_0065](pages/PAGE_0065.webp) | [原稿](source-prompts/PAGE_0065.txt) | `pending` |
 | 66 | 同じ名詞でも、形を見れば変わる | [PAGE_0066](pages/PAGE_0066.webp) | [原稿](source-prompts/PAGE_0066.txt) | `pending` |
 | 67 | 丸ごとか、材料になった姿か | [PAGE_0067](pages/PAGE_0067.webp) | [原稿](source-prompts/PAGE_0067.txt) | `pending` |
-| 68 | 物ではなく、見方を数える | [PAGE_0068](pages/PAGE_0068.webp) | [原稿](source-prompts/PAGE_0068.txt) | `pending` |
+| 68 | 物ではなく、見方を数える | [PAGE_0068](pages/PAGE_0068.webp) | [原稿](source-prompts/PAGE_0068.txt) | [40問](question-sets/PAGE_0068.json) |
 | 69 | 種類・一品・一回なら数えられる | [PAGE_0069](pages/PAGE_0069.webp) | [原稿](source-prompts/PAGE_0069.txt) | `pending` |
 | 70 | 形のある一例を切り出す | [PAGE_0070](pages/PAGE_0070.webp) | [原稿](source-prompts/PAGE_0070.txt) | `pending` |
 | 71 | 複数形は、音と形で変わる | [PAGE_0071](pages/PAGE_0071.webp) | [原稿](source-prompts/PAGE_0071.txt) | `pending` |
@@ -131,7 +131,7 @@
 |---:|---|---|---|---|
 | 109 | 修飾は、情報を足す道具 | [PAGE_0109](pages/PAGE_0109.webp) | [原稿](source-prompts/PAGE_0109.txt) | `pending` |
 | 110 | 前はしぼる、後ろは説明 | [PAGE_0110](pages/PAGE_0110.webp) | [原稿](source-prompts/PAGE_0110.txt) | [40問](question-sets/PAGE_0110.json) |
-| 111 | 形容詞は、名詞の前後で働く | [PAGE_0111](pages/PAGE_0111.webp) | [原稿](source-prompts/PAGE_0111.txt) | `pending` |
+| 111 | 形容詞は、名詞の前後で働く | [PAGE_0111](pages/PAGE_0111.webp) | [原稿](source-prompts/PAGE_0111.txt) | [40問](question-sets/PAGE_0111.json) |
 | 112 | 形容詞の列車、名詞へ近づく順 | [PAGE_0112](pages/PAGE_0112.webp) | [原稿](source-prompts/PAGE_0112.txt) | `pending` |
 | 113 | ハイフンで、説明を1ブロックに | [PAGE_0113](pages/PAGE_0113.webp) | [原稿](source-prompts/PAGE_0113.txt) | `pending` |
 | 114 | “まだ足りない”が後ろの説明を呼ぶ | [PAGE_0114](pages/PAGE_0114.webp) | [原稿](source-prompts/PAGE_0114.txt) | `pending` |
@@ -191,7 +191,7 @@
 | 163 | mustは、強い圧力 | [PAGE_0163](pages/PAGE_0163.webp) | [原稿](source-prompts/PAGE_0163.txt) | `pending` |
 | 164 | mayは、権限が開くドア | [PAGE_0164](pages/PAGE_0164.webp) | [原稿](source-prompts/PAGE_0164.txt) | `pending` |
 | 165 | mayは、可能性のドアも開く | [PAGE_0165](pages/PAGE_0165.webp) | [原稿](source-prompts/PAGE_0165.txt) | `pending` |
-| 166 | willは、未来を見通す力 | [PAGE_0166](pages/PAGE_0166.webp) | [原稿](source-prompts/PAGE_0166.txt) | `pending` |
+| 166 | willは、未来を見通す力 | [PAGE_0166](pages/PAGE_0166.webp) | [原稿](source-prompts/PAGE_0166.txt) | [40問](question-sets/PAGE_0166.json) |
 | 167 | willは、“今決めた”意志 | [PAGE_0167](pages/PAGE_0167.webp) | [原稿](source-prompts/PAGE_0167.txt) | `pending` |
 | 168 | canは、内にある可能性 | [PAGE_0168](pages/PAGE_0168.webp) | [原稿](source-prompts/PAGE_0168.txt) | `pending` |
 | 169 | canで性質と限界を見抜く | [PAGE_0169](pages/PAGE_0169.webp) | [原稿](source-prompts/PAGE_0169.txt) | `pending` |
