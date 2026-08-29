@@ -1,0 +1,672 @@
+{
+  "schemaVersion": 1,
+  "page": {
+    "number": 214,
+    "id": "grammar-master-0214",
+    "title": "whichは文全体も受ける",
+    "image": "pages/PAGE_0214.webp",
+    "sourcePrompt": "source-prompts/PAGE_0214.txt"
+  },
+  "analysis": {
+    "summaryJa": "カンマ＋whichは直前の名詞だけでなく、集合の一部、前置詞との関係、性質・状態、さらに直前の出来事全体を受けて注釈できる。何を受けるかは節内の意味と矢印をたどって判断する。",
+    "grammarPoints": [
+      "数量＋of whichで集合の一部を示す形",
+      "前置詞＋whichによる関係の明示",
+      "カンマ＋whichが直前の出来事全体を受ける用法",
+      "状態・表現を受けるwhich節"
+    ],
+    "visualEvidence": [
+      "画像の大きなWHICH受け皿へ名詞・性質・出来事全体の3経路が流れ込む",
+      "two of whichとfor whichの専用パネルがある",
+      "列車の早着という出来事全体をwhichが受けるミニ問題が示されている"
+    ],
+    "commonTraps": [
+      "whichを直前の名詞だけに機械的に結び付ける",
+      "数量表現でtwo whichなどofを落とす",
+      "前置詞を関係節末と前置の両方に置く",
+      "文全体を受けるwhichの前のカンマを落とす"
+    ]
+  },
+  "questions": [
+    {
+      "id": "PAGE_0214_Q01",
+      "format": "part5-cloze",
+      "prompt": "The courier arrived before noon, ------- pleased the customer.",
+      "choices": {
+        "A": "that",
+        "B": "what",
+        "C": "which",
+        "D": "who"
+      },
+      "correctAnswer": "C",
+      "translationJa": "配送業者は正午前に到着し、そのことが顧客を喜ばせました。",
+      "explanationJa": "whichはcourierという名詞ではなく「正午前に到着した」出来事全体を受けます。",
+      "focus": "出来事全体を受けるwhich",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0214_Q02",
+      "format": "part5-cloze",
+      "prompt": "We tested five prototypes, two ------- failed the heat test.",
+      "choices": {
+        "A": "of which",
+        "B": "which of",
+        "C": "of that",
+        "D": "whose"
+      },
+      "correctAnswer": "A",
+      "translationJa": "試作品を5台試験し、そのうち2台が耐熱試験に不合格でした。",
+      "explanationJa": "5台の集合のうち2台を示すためtwo of whichを使います。",
+      "focus": "数量＋of which",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0214_Q03",
+      "format": "part5-cloze",
+      "prompt": "The conference room, ------- we paid an additional fee, is on the top floor.",
+      "choices": {
+        "A": "which for",
+        "B": "for that",
+        "C": "where for",
+        "D": "for which"
+      },
+      "correctAnswer": "D",
+      "translationJa": "追加料金を支払った会議室は最上階にあります。",
+      "explanationJa": "pay a fee for the roomのforをwhichの前に置き、for whichとします。",
+      "focus": "前置詞＋which",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0214_Q04",
+      "format": "part5-cloze",
+      "prompt": "The system will be offline tonight, ------- means orders cannot be processed.",
+      "choices": {
+        "A": "that",
+        "B": "which",
+        "C": "what",
+        "D": "where"
+      },
+      "correctAnswer": "B",
+      "translationJa": "今夜システムが停止するため、注文を処理できないということになります。",
+      "explanationJa": "whichは直前のシステム停止という内容全体を受け、meansの主語になります。",
+      "focus": "文全体which＋means",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0214_Q05",
+      "format": "part5-cloze",
+      "prompt": "The branch received twelve applications, three ------- were incomplete.",
+      "choices": {
+        "A": "of which",
+        "B": "which",
+        "C": "of them which",
+        "D": "that of"
+      },
+      "correctAnswer": "A",
+      "translationJa": "支店は12件の応募を受け取り、そのうち3件は不備がありました。",
+      "explanationJa": "twelve applicationsという集合の一部をthree of whichで示します。",
+      "focus": "集合の一部を示すof which",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0214_Q06",
+      "format": "part5-cloze",
+      "prompt": "Ms. Hill was unusually late, ------- she rarely is.",
+      "choices": {
+        "A": "that",
+        "B": "what",
+        "C": "which",
+        "D": "who"
+      },
+      "correctAnswer": "C",
+      "translationJa": "ヒルさんは珍しく遅刻しましたが、彼女が遅れることはめったにありません。",
+      "explanationJa": "whichはunusually lateという状態を受け、she rarely isの補語に対応します。",
+      "focus": "状態を受けるwhich",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0214_Q07",
+      "format": "part5-cloze",
+      "prompt": "The platform, ------- all reservations are managed, was upgraded.",
+      "choices": {
+        "A": "which through",
+        "B": "through which",
+        "C": "through that",
+        "D": "where through"
+      },
+      "correctAnswer": "B",
+      "translationJa": "すべての予約を管理するプラットフォームが更新されました。",
+      "explanationJa": "reservations are managed through the platformの関係をthrough whichで示します。",
+      "focus": "手段を表す前置詞＋which",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0214_Q08",
+      "format": "part5-cloze",
+      "prompt": "We ordered eight chairs, none ------- arrived damaged.",
+      "choices": {
+        "A": "which of",
+        "B": "of that",
+        "C": "whose",
+        "D": "of which"
+      },
+      "correctAnswer": "D",
+      "translationJa": "椅子を8脚注文しましたが、破損して届いたものは1脚もありませんでした。",
+      "explanationJa": "8脚の集合内でゼロを表すためnone of whichを使います。",
+      "focus": "none of which",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0214_Q09",
+      "format": "part5-cloze",
+      "prompt": "The client approved the revised design, ------- allowed production to begin.",
+      "choices": {
+        "A": "that",
+        "B": "what",
+        "C": "which",
+        "D": "where"
+      },
+      "correctAnswer": "C",
+      "translationJa": "顧客が改訂デザインを承認し、その結果、生産を開始できました。",
+      "explanationJa": "whichは承認という出来事全体を受け、allowedの主語になります。",
+      "focus": "結果を加える文全体which",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0214_Q10",
+      "format": "part5-cloze",
+      "prompt": "The security procedure, ------- every visitor must comply, is posted at reception.",
+      "choices": {
+        "A": "which with",
+        "B": "with that",
+        "C": "whose",
+        "D": "with which"
+      },
+      "correctAnswer": "D",
+      "translationJa": "すべての来訪者が従わなければならない警備手順が受付に掲示されています。",
+      "explanationJa": "comply with the procedureのwithをwhichの前に置いてwith whichとします。",
+      "focus": "動詞と結び付く前置詞＋which",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0214_Q11",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence commenting on an early delivery.",
+      "choices": {
+        "A": "The samples arrived early which, surprised the laboratory staff.",
+        "B": "The samples arrived early, which surprised the laboratory staff.",
+        "C": "The samples arrived early, that surprised the laboratory staff.",
+        "D": "The samples arrived early, what surprised the laboratory staff."
+      },
+      "correctAnswer": "B",
+      "translationJa": "サンプルが早く到着し、そのことが研究所職員を驚かせました。",
+      "explanationJa": "直前の出来事全体への注釈はカンマ＋whichで表します。",
+      "focus": "文全体を受けるwhichの句読法",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0214_Q12",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence describing part of a shipment.",
+      "choices": {
+        "A": "The shipment contained ten monitors, four which were cracked.",
+        "B": "The shipment contained ten monitors, of which four them were cracked.",
+        "C": "The shipment contained ten monitors, four of that were cracked.",
+        "D": "The shipment contained ten monitors, four of which were cracked."
+      },
+      "correctAnswer": "D",
+      "translationJa": "その配送品にはモニターが10台あり、そのうち4台にひびが入っていました。",
+      "explanationJa": "数量fourの後ろにof whichを置いて集合の一部を示します。",
+      "focus": "four of which",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0214_Q13",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about a service paid for in advance.",
+      "choices": {
+        "A": "The service, for which we paid in advance, begins Monday.",
+        "B": "The service, which we paid for it in advance, begins Monday.",
+        "C": "The service, for that we paid in advance, begins Monday.",
+        "D": "The service, for which we paid for in advance, begins Monday."
+      },
+      "correctAnswer": "A",
+      "translationJa": "前払いしたサービスは月曜日に始まります。",
+      "explanationJa": "pay for the serviceのforを前置したら、節末にforやitを重ねません。",
+      "focus": "for whichと前置詞重複回避",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0214_Q14",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence explaining a consequence of cancellation.",
+      "choices": {
+        "A": "The meeting was canceled which, left the room available.",
+        "B": "The meeting was canceled, that left the room available.",
+        "C": "The meeting was canceled, which left the room available.",
+        "D": "The meeting was canceled, which the room left available."
+      },
+      "correctAnswer": "C",
+      "translationJa": "会議が中止され、その結果、部屋が空きました。",
+      "explanationJa": "whichは会議中止という出来事全体を受け、leftの主語です。",
+      "focus": "出来事の結果を示すwhich",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0214_Q15",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence describing none of several bids.",
+      "choices": {
+        "A": "We received six bids, none which met the budget.",
+        "B": "We received six bids, none of them which met the budget.",
+        "C": "We received six bids, none of that met the budget.",
+        "D": "We received six bids, none of which met the budget."
+      },
+      "correctAnswer": "D",
+      "translationJa": "入札を6件受け取りましたが、予算内のものは1件もありませんでした。",
+      "explanationJa": "集合中のゼロをnone of whichで正確に表します。",
+      "focus": "none of whichの構造",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0214_Q16",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about a method used to verify accounts.",
+      "choices": {
+        "A": "The method which accounts are verified by it is secure.",
+        "B": "The method by which accounts are verified is secure.",
+        "C": "The method by that accounts are verified is secure.",
+        "D": "The method by which accounts are verified by is secure."
+      },
+      "correctAnswer": "B",
+      "translationJa": "アカウントを確認する方法は安全です。",
+      "explanationJa": "accounts are verified by the methodのbyを関係詞の前に置いてby whichとします。",
+      "focus": "by whichによる手段",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0214_Q17",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence commenting on a manager’s state.",
+      "choices": {
+        "A": "Ms. Long was confident, that she usually is before presentations.",
+        "B": "Ms. Long was confident which, she usually is before presentations.",
+        "C": "Ms. Long was confident, which she usually is before presentations.",
+        "D": "Ms. Long was confident, which she usually does before presentations."
+      },
+      "correctAnswer": "C",
+      "translationJa": "ロングさんは自信に満ちていましたが、発表前はいつもそうです。",
+      "explanationJa": "whichはconfidentという状態を受け、be動詞isの補語に対応します。",
+      "focus": "形容詞状態を受けるwhich",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0214_Q18",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence describing most items in a set.",
+      "choices": {
+        "A": "The catalog lists twenty courses, most of which are online.",
+        "B": "The catalog lists twenty courses, most which are online.",
+        "C": "The catalog lists twenty courses, most of that are online.",
+        "D": "The catalog lists twenty courses, of which most them are online."
+      },
+      "correctAnswer": "A",
+      "translationJa": "カタログには20講座が掲載され、その大半はオンラインです。",
+      "explanationJa": "集合の大部分はmost of whichで表します。",
+      "focus": "most of which",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0214_Q19",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about a policy employees objected to.",
+      "choices": {
+        "A": "The policy, which several employees objected to it, was revised.",
+        "B": "The policy, to that several employees objected, was revised.",
+        "C": "The policy, to which several employees objected to, was revised.",
+        "D": "The policy, to which several employees objected, was revised."
+      },
+      "correctAnswer": "D",
+      "translationJa": "複数の従業員が反対した方針は改訂されました。",
+      "explanationJa": "object to the policyのtoをwhichの前に置き、節内で重ねません。",
+      "focus": "to whichと句動詞の関係",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0214_Q20",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence commenting on a full refund.",
+      "choices": {
+        "A": "The hotel issued a full refund, that resolved the complaint.",
+        "B": "The hotel issued a full refund which, resolved the complaint.",
+        "C": "The hotel issued a full refund, which resolved the complaint.",
+        "D": "The hotel issued a full refund, what the complaint resolved."
+      },
+      "correctAnswer": "C",
+      "translationJa": "ホテルが全額返金し、そのことで苦情が解決しました。",
+      "explanationJa": "返金した出来事全体をwhichが受け、resolvedの主語になります。",
+      "focus": "主節全体へのwhich注釈",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0214_Q21",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The train was delayed, which upset several passengers.\"",
+      "choices": {
+        "A": "Several passengers delayed the train.",
+        "B": "The train was upset by several passengers.",
+        "C": "The passengers were delayed because they upset the train.",
+        "D": "The train’s delay upset several passengers."
+      },
+      "correctAnswer": "D",
+      "translationJa": "列車の遅延が複数の乗客を不快にさせました。",
+      "explanationJa": "whichは列車が遅れた出来事全体を受け、その出来事がupsetの原因です。",
+      "focus": "文全体whichの名詞化",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0214_Q22",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"We examined seven samples, two of which were contaminated.\"",
+      "choices": {
+        "A": "We examined only two contaminated samples.",
+        "B": "Two of the seven samples we examined were contaminated.",
+        "C": "All seven samples were free of contamination.",
+        "D": "Seven of the two samples were contaminated."
+      },
+      "correctAnswer": "B",
+      "translationJa": "検査した7つのサンプルのうち2つが汚染されていました。",
+      "explanationJa": "two of whichは先行する7つの集合のうち2つを指します。",
+      "focus": "数量＋of whichの展開",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0214_Q23",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The subscription, for which we paid $200, expires soon.\"",
+      "choices": {
+        "A": "The subscription will pay us $200 soon.",
+        "B": "We paid for an expiration rather than a subscription.",
+        "C": "We paid $200 for the subscription, and it expires soon.",
+        "D": "The subscription expired before we paid anything."
+      },
+      "correctAnswer": "C",
+      "translationJa": "その購読に200ドルを支払い、まもなく期限が切れます。",
+      "explanationJa": "for which I paidはpaid $200 for the subscriptionの語順に戻せます。",
+      "focus": "for whichの平叙文展開",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0214_Q24",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The store extended its hours, which increased evening sales.\"",
+      "choices": {
+        "A": "Extending the store’s hours increased evening sales.",
+        "B": "Evening sales forced the store to close earlier.",
+        "C": "The store reduced its hours after sales increased.",
+        "D": "The store’s evening sales shortened every hour."
+      },
+      "correctAnswer": "A",
+      "translationJa": "営業時間の延長が夜間売上を増加させました。",
+      "explanationJa": "whichは営業時間を延長した出来事全体を受け、売上増加の原因を示します。",
+      "focus": "出来事全体の因果関係",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0214_Q25",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The box held six bottles, none of which leaked.\"",
+      "choices": {
+        "A": "All six bottles in the box leaked.",
+        "B": "Not one of the six bottles in the box leaked.",
+        "C": "The empty box leaked six times.",
+        "D": "Only bottles outside the box did not leak."
+      },
+      "correctAnswer": "B",
+      "translationJa": "箱の中の6本のボトルは1本も漏れませんでした。",
+      "explanationJa": "none of whichは6本の集合の中で漏れたものがゼロであることを示します。",
+      "focus": "none of whichの意味",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0214_Q26",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The portal, through which claims are submitted, is unavailable.\"",
+      "choices": {
+        "A": "The portal submits claims through customers.",
+        "B": "Claims are unavailable because the portal submitted them.",
+        "C": "The portal is available only after every claim.",
+        "D": "Claims are submitted through the portal, but it is unavailable."
+      },
+      "correctAnswer": "D",
+      "translationJa": "請求はそのポータルを通じて提出されますが、現在利用できません。",
+      "explanationJa": "through whichはthrough the portalという手段関係を表します。",
+      "focus": "前置詞＋whichの展開",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0214_Q27",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The client accepted every condition, which was unexpected.\"",
+      "choices": {
+        "A": "It was unexpected that the client accepted every condition.",
+        "B": "The client expected us to reject every condition.",
+        "C": "Every condition was unexpected by itself.",
+        "D": "The client accepted only expected conditions."
+      },
+      "correctAnswer": "A",
+      "translationJa": "顧客がすべての条件を受け入れたのは予想外でした。",
+      "explanationJa": "whichはcondition単体でなく、すべてを受け入れた事実全体を受けます。",
+      "focus": "文全体whichと形式主語文",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0214_Q28",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The team is highly efficient, which it has always been.\"",
+      "choices": {
+        "A": "The team became inefficient today.",
+        "B": "Efficiency has never described the team.",
+        "C": "The team has always been highly efficient.",
+        "D": "The team always measures other groups’ efficiency."
+      },
+      "correctAnswer": "C",
+      "translationJa": "そのチームはずっと非常に効率的です。",
+      "explanationJa": "whichはhighly efficientという状態を受け、has always beenの補語として省略されています。",
+      "focus": "状態を受けるwhich",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0214_Q29",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"We own four warehouses, all of which have solar panels.\"",
+      "choices": {
+        "A": "Each of our four warehouses has solar panels.",
+        "B": "Only one of our warehouses has solar panels.",
+        "C": "Four solar panels own our warehouses.",
+        "D": "None of the warehouses uses solar power."
+      },
+      "correctAnswer": "A",
+      "translationJa": "当社の4つの倉庫すべてに太陽光パネルがあります。",
+      "explanationJa": "all of whichは先行する4倉庫の全てを指します。",
+      "focus": "all of whichの意味",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0214_Q30",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The deadline was moved forward, which created scheduling problems.\"",
+      "choices": {
+        "A": "Scheduling problems moved the deadline later.",
+        "B": "Moving the deadline forward created scheduling problems.",
+        "C": "The deadline solved every scheduling problem.",
+        "D": "The schedule was created before any deadline existed."
+      },
+      "correctAnswer": "B",
+      "translationJa": "期限の前倒しが日程上の問題を生みました。",
+      "explanationJa": "whichは期限を前倒しした出来事全体を受け、その結果を述べています。",
+      "focus": "出来事whichの動名詞化",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0214_Q31",
+      "format": "context-completion",
+      "prompt": "The courier delivered every parcel before ten. This pleased the client, ------- had expected delays.",
+      "choices": {
+        "A": "which",
+        "B": "that",
+        "C": "who",
+        "D": "what"
+      },
+      "correctAnswer": "C",
+      "translationJa": "配送業者は全荷物を10時前に届けました。これは遅れを予想していた顧客を喜ばせました。",
+      "explanationJa": "この空所はclientという人を受けるためwhoです。出来事全体を受けるwhichとの違いを確認します。",
+      "focus": "名詞を受けるwhoとの区別",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0214_Q32",
+      "format": "context-completion",
+      "prompt": "The courier delivered every parcel before ten, ------- pleased the client.",
+      "choices": {
+        "A": "which",
+        "B": "who",
+        "C": "that",
+        "D": "where"
+      },
+      "correctAnswer": "A",
+      "translationJa": "配送業者は全荷物を10時前に届け、そのことが顧客を喜ばせました。",
+      "explanationJa": "whichは配達完了という主節全体を受けます。",
+      "focus": "文全体を受けるwhich",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0214_Q33",
+      "format": "context-completion",
+      "prompt": "We purchased nine tablets for training. Three ------- have already been configured.",
+      "choices": {
+        "A": "which of",
+        "B": "of that",
+        "C": "whose",
+        "D": "of which"
+      },
+      "correctAnswer": "D",
+      "translationJa": "研修用にタブレットを9台購入しました。そのうち3台はすでに設定済みです。",
+      "explanationJa": "9台の一部をthree of whichで示します。",
+      "focus": "three of which",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0214_Q34",
+      "format": "context-completion",
+      "prompt": "A reservation portal went live last month. The portal, ------- customers choose time slots, needs an update.",
+      "choices": {
+        "A": "which through",
+        "B": "through which",
+        "C": "through that",
+        "D": "where through"
+      },
+      "correctAnswer": "B",
+      "translationJa": "予約ポータルが先月稼働しました。顧客が時間枠を選ぶそのポータルには更新が必要です。",
+      "explanationJa": "customers choose slots through the portalの手段関係をthrough whichで表します。",
+      "focus": "through which",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0214_Q35",
+      "format": "context-completion",
+      "prompt": "The vendor reduced the quoted price by 15 percent, ------- made approval easier.",
+      "choices": {
+        "A": "that",
+        "B": "what",
+        "C": "which",
+        "D": "where"
+      },
+      "correctAnswer": "C",
+      "translationJa": "仕入先は見積価格を15％下げ、そのことで承認が容易になりました。",
+      "explanationJa": "whichは価格を下げた出来事全体を受けます。",
+      "focus": "出来事の結果を示すwhich",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0214_Q36",
+      "format": "context-completion",
+      "prompt": "The center has ten meeting rooms. All ------- can be booked online.",
+      "choices": {
+        "A": "of which",
+        "B": "which",
+        "C": "of that",
+        "D": "whose"
+      },
+      "correctAnswer": "A",
+      "translationJa": "そのセンターには会議室が10室あり、すべてオンライン予約できます。",
+      "explanationJa": "先行する10室全部をall of whichで受けます。",
+      "focus": "all of which",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0214_Q37",
+      "format": "context-completion",
+      "prompt": "The contract contains a clause about late payment. It is a clause ------- both parties objected.",
+      "choices": {
+        "A": "which to it",
+        "B": "to which",
+        "C": "to that",
+        "D": "whose"
+      },
+      "correctAnswer": "B",
+      "translationJa": "契約には支払い遅延に関する条項があります。双方が反対した条項です。",
+      "explanationJa": "object to the clauseのtoをwhichの前に置きます。",
+      "focus": "to which",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0214_Q38",
+      "format": "context-completion",
+      "prompt": "Ms. Reed remained calm throughout the outage, ------- she usually does in emergencies.",
+      "choices": {
+        "A": "that",
+        "B": "what",
+        "C": "who",
+        "D": "which"
+      },
+      "correctAnswer": "D",
+      "translationJa": "リードさんは障害中ずっと冷静さを保ちました。緊急時にはいつもそうします。",
+      "explanationJa": "whichはremained calmという行動内容を受け、doesがその動作を代用します。",
+      "focus": "表現全体を受けるwhich",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0214_Q39",
+      "format": "context-completion",
+      "prompt": "We received twenty survey responses. Neither ------- mentioned the new logo.",
+      "choices": {
+        "A": "of which",
+        "B": "which of",
+        "C": "of that",
+        "D": "whose"
+      },
+      "correctAnswer": "A",
+      "translationJa": "アンケート回答を20件受け取りましたが、そのどちらも新しいロゴには触れていませんでした。",
+      "explanationJa": "提示された集合の中のゼロをneither of whichで受けます。",
+      "focus": "neither of which",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0214_Q40",
+      "format": "context-completion",
+      "prompt": "The board postponed its decision until Monday, ------- gives us time to revise the forecast.",
+      "choices": {
+        "A": "that",
+        "B": "which",
+        "C": "what",
+        "D": "when"
+      },
+      "correctAnswer": "B",
+      "translationJa": "取締役会は決定を月曜日まで延期し、そのため予測を修正する時間ができました。",
+      "explanationJa": "whichは決定延期という前文内容全体を受け、givesの主語になります。",
+      "focus": "主節内容を受けるwhich",
+      "difficulty": "advanced"
+    }
+  ]
+}
