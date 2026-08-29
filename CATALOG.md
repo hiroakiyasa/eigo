@@ -222,7 +222,7 @@
 | 189 | by・until・during・forで時間を整理 | [PAGE_0189](pages/PAGE_0189.webp) | [原稿](source-prompts/PAGE_0189.txt) | [40問](question-sets/PAGE_0189.json) |
 | 190 | forの全用法は“向かう”から広がる | [PAGE_0190](pages/PAGE_0190.webp) | [原稿](source-prompts/PAGE_0190.txt) | [40問](question-sets/PAGE_0190.json) |
 | 191 | fromで出る・inで入る | [PAGE_0191](pages/PAGE_0191.webp) | [原稿](source-prompts/PAGE_0191.txt) | [40問](question-sets/PAGE_0191.json) |
-| 192 | inは中、intoは中へ | [PAGE_0192](pages/PAGE_0192.webp) | [原稿](source-prompts/PAGE_0192.txt) | `pending` |
+| 192 | inは中、intoは中へ | [PAGE_0192](pages/PAGE_0192.webp) | [原稿](source-prompts/PAGE_0192.txt) | [40問](question-sets/PAGE_0192.json) |
 | 193 | ofはリンク、onは接触 | [PAGE_0193](pages/PAGE_0193.webp) | [原稿](source-prompts/PAGE_0193.txt) | `pending` |
 | 194 | onは線・活動・支え | [PAGE_0194](pages/PAGE_0194.webp) | [原稿](source-prompts/PAGE_0194.txt) | [40問](question-sets/PAGE_0194.json) |
 | 195 | 時の点・日・幅とover | [PAGE_0195](pages/PAGE_0195.webp) | [原稿](source-prompts/PAGE_0195.txt) | [40問](question-sets/PAGE_0195.json) |
