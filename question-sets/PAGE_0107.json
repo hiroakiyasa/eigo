@@ -1,0 +1,576 @@
+{
+  "schemaVersion": 1,
+  "page": {
+    "number": 107,
+    "id": "grammar-master-0107",
+    "title": "theは、ひとまとまりを照らす",
+    "image": "pages/PAGE_0107.webp",
+    "sourcePrompt": "source-prompts/PAGE_0107.txt"
+  },
+  "analysis": {
+    "summaryJa": "このページは、固有名詞でtheが使われやすい仕組みを、名称全体を『共有された一つのまとまり』として照らす働きから説明する。A of B型の名称、説明的な施設・組織名、海・川・砂漠・山脈・諸島などの大きな自然物や複数要素の集合を中心に、固有名＋施設名や単独の山・湖との対比まで40問で確認する。",
+    "grammarPoints": [
+      "A of B型の名称では、関係によって特定される一つの組織・施設としてtheを置くこと",
+      "海・川・砂漠・山脈・諸島など、広い地形や複数要素を一まとまりとして指す名称にtheを使うこと",
+      "固有名＋University・College・Lake・Mountなど、名称自体の固有性が強い場合は通常theを置かないこと",
+      "単独の山や湖と、山脈・諸島など集合を表す名称の冠詞を区別すること",
+      "正式名称には例外があり得るため、形の原則と実際の名称を切り分けること"
+    ],
+    "visualEvidence": [
+      "中央の灯台から伸びるTHEの光が、ばらばらの語を一つの名称として照らしている",
+      "A of Bの建物、著名な施設、広い自然地形の三つの区域へ光が分岐している",
+      "海と山脈の模型が、大きな地形や複数の要素を全体として捉える感覚を示している",
+      "金色の光と名称カードの対比が、theによる特定と無冠詞の固有名を視覚化している",
+      "下部のまとめ『形・共有知識・まとまりがtheを呼ぶ』が判断基準を示している"
+    ],
+    "commonTraps": [
+      "固有名詞ならすべて無冠詞だと考え、A of B型や海・川・山脈のtheを落とす",
+      "UniversityやLakeの前に固有名があるのに機械的にtheを付ける",
+      "単独の山を表すMountと、複数の山からなるMountains・Rangeを同じ冠詞で扱う",
+      "名称中の複数形を単なる複数名詞と考え、まとまりを示すtheを省く",
+      "一般的な説明と正式名称の表記を混同し、例外まで一つの規則で決めつける"
+    ]
+  },
+  "questions": [
+    {
+      "id": "PAGE_0107_Q01",
+      "format": "part5-cloze",
+      "prompt": "The procurement seminar will be hosted by ------- Institute of Logistics and Trade next Thursday.",
+      "choices": {"A": "a", "B": "the", "C": "an", "D": "no article"},
+      "correctAnswer": "B",
+      "translationJa": "調達セミナーは来週木曜日に物流貿易研究所の主催で開かれます。",
+      "explanationJa": "Institute of Logistics and TradeはA of B型の説明的な名称で、全体を一つの機関として特定するtheが必要です。",
+      "focus": "A of B型の名称とthe",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0107_Q02",
+      "format": "part5-cloze",
+      "prompt": "Our ferry crossed ------- Silver Sea overnight and arrived at Port Luma at dawn.",
+      "choices": {"A": "an", "B": "no article", "C": "a", "D": "the"},
+      "correctAnswer": "D",
+      "translationJa": "私たちのフェリーは一晩かけてシルバー海を渡り、夜明けにルマ港へ着きました。",
+      "explanationJa": "海の名称は広い自然地形を一つのまとまりとして指すため、通常theを伴います。",
+      "focus": "海の名称とthe",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0107_Q03",
+      "format": "part5-cloze",
+      "prompt": "The new laboratory at ------- Meridian University will open in October.",
+      "choices": {"A": "no article", "B": "the", "C": "a", "D": "an"},
+      "correctAnswer": "A",
+      "translationJa": "メリディアン大学の新しい研究所は10月に開設されます。",
+      "explanationJa": "Meridianという固有名がUniversityを名称として直接特定しているため、通常は冠詞を置きません。",
+      "focus": "固有名＋Universityの無冠詞",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0107_Q04",
+      "format": "part5-cloze",
+      "prompt": "The survey team mapped ------- Cobalt Mountains from the air last month.",
+      "choices": {"A": "no article", "B": "an", "C": "the", "D": "a"},
+      "correctAnswer": "C",
+      "translationJa": "調査チームは先月、上空からコバルト山脈を地図化しました。",
+      "explanationJa": "複数の山を一つの山脈として捉える名称にはtheを使います。Mountainsの複数形も手掛かりです。",
+      "focus": "山脈名とthe",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0107_Q05",
+      "format": "part5-cloze",
+      "prompt": "The annual report was issued by ------- Council of Regional Museums yesterday.",
+      "choices": {"A": "no article", "B": "the", "C": "an", "D": "a"},
+      "correctAnswer": "B",
+      "translationJa": "年次報告書は昨日、地域博物館評議会によって発行されました。",
+      "explanationJa": "Council of Regional Museumsはof句によって範囲が定まる一つの組織名なのでtheが自然です。",
+      "focus": "組織のA of B型名称",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0107_Q06",
+      "format": "part5-cloze",
+      "prompt": "The resort is located beside ------- Lake Amara, twenty minutes from the airport.",
+      "choices": {"A": "no article", "B": "a", "C": "the", "D": "an"},
+      "correctAnswer": "A",
+      "translationJa": "そのリゾートはアマラ湖のそばにあり、空港から20分です。",
+      "explanationJa": "Lake＋固有名の形は一つの湖の固有名称として通常無冠詞です。",
+      "focus": "Lake＋固有名の無冠詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0107_Q07",
+      "format": "part5-cloze",
+      "prompt": "The delivery route follows ------- Lumen River for nearly forty kilometers.",
+      "choices": {"A": "no article", "B": "a", "C": "an", "D": "the"},
+      "correctAnswer": "D",
+      "translationJa": "配送ルートは約40キロにわたってルーメン川に沿っています。",
+      "explanationJa": "川の名称は流れ全体を一つの地形として指すため、通常theを付けます。",
+      "focus": "川の名称とthe",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0107_Q08",
+      "format": "part5-cloze",
+      "prompt": "The company plans to open two service kiosks on ------- Crescent Islands.",
+      "choices": {"A": "a", "B": "no article", "C": "the", "D": "an"},
+      "correctAnswer": "C",
+      "translationJa": "その会社はクレセント諸島にサービス窓口を2か所開く予定です。",
+      "explanationJa": "複数の島を一つの諸島としてまとめて指す名称にはtheを使います。",
+      "focus": "諸島名とthe",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0107_Q09",
+      "format": "part5-cloze",
+      "prompt": "A solar testing site operates in ------- Northglass Desert throughout the year.",
+      "choices": {"A": "the", "B": "no article", "C": "a", "D": "an"},
+      "correctAnswer": "A",
+      "translationJa": "ノースグラス砂漠では太陽光試験施設が一年中稼働しています。",
+      "explanationJa": "砂漠の名称は広い自然地形を一つの範囲として示すためtheを伴います。",
+      "focus": "砂漠名とthe",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0107_Q10",
+      "format": "part5-cloze",
+      "prompt": "Visitors must register at ------- Hall of Public Records before entering the archive.",
+      "choices": {"A": "an", "B": "a", "C": "no article", "D": "the"},
+      "correctAnswer": "D",
+      "translationJa": "来館者は公文書館に入る前に、公文書ホールで受付をしなければなりません。",
+      "explanationJa": "Hall of Public Recordsは説明語とof句で構成された一つの施設名なのでtheが必要です。",
+      "focus": "説明的な施設名とthe",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0107_Q11",
+      "format": "correct-sentence",
+      "prompt": "Choose the grammatically correct sentence about a cultural facility.",
+      "choices": {
+        "A": "Museum of Applied Design will reopen on Monday.",
+        "B": "A Museum of Applied Design will reopen on Monday.",
+        "C": "The Museum of Applied Design will reopen on Monday.",
+        "D": "The Museum of the Applied Design will reopen on Monday."
+      },
+      "correctAnswer": "C",
+      "translationJa": "応用デザイン博物館は月曜日に再開します。",
+      "explanationJa": "Museum of Applied DesignはA of B型の名称なので、先頭にtheを置くCが正しい形です。",
+      "focus": "A of B型施設名の冠詞",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0107_Q12",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about a university appointment.",
+      "choices": {
+        "A": "Meridian University has appointed a new dean.",
+        "B": "The Meridian University has appointed a new dean.",
+        "C": "A Meridian University has appointed the new dean.",
+        "D": "Meridian the University has appointed a new dean."
+      },
+      "correctAnswer": "A",
+      "translationJa": "メリディアン大学は新しい学部長を任命しました。",
+      "explanationJa": "固有名Meridian＋Universityは名称として十分に特定されるため、通常theを付けないAが正解です。",
+      "focus": "大学名の無冠詞",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0107_Q13",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence describing a ship's route.",
+      "choices": {
+        "A": "The research vessel entered Azure Ocean before dawn.",
+        "B": "The research vessel entered an Azure Ocean before dawn.",
+        "C": "The research vessel entered a Azure Ocean before dawn.",
+        "D": "The research vessel entered the Azure Ocean before dawn."
+      },
+      "correctAnswer": "D",
+      "translationJa": "調査船は夜明け前にアズール洋へ入りました。",
+      "explanationJa": "Oceanを含む海洋名は広い地形を一つの全体として示すため、the Azure Oceanが正しい形です。",
+      "focus": "海洋名とthe",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0107_Q14",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence contrasting a lake and a group of lakes.",
+      "choices": {
+        "A": "Our branch is near the Lake Verna, not Verna Lakes.",
+        "B": "Our branch is near Lake Verna, not the Verna Lakes.",
+        "C": "Our branch is near the Lake Verna, not the Verna Lakes.",
+        "D": "Our branch is near a Lake Verna, not a Verna Lakes."
+      },
+      "correctAnswer": "B",
+      "translationJa": "当社の支店はベルナ湖の近くで、ベルナ湖群の近くではありません。",
+      "explanationJa": "単独の湖名Lake Vernaは無冠詞、複数の湖を一群として表すthe Verna Lakesにはtheを使います。",
+      "focus": "単独の湖と湖群の対比",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0107_Q15",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about an organization with an of-name.",
+      "choices": {
+        "A": "Association for the Regional Carriers approved the plan.",
+        "B": "An Association of Regional Carriers approved plan.",
+        "C": "The Association of Regional Carriers approved the plan.",
+        "D": "The Association of the Regional Carriers approved a plan mentioned."
+      },
+      "correctAnswer": "C",
+      "translationJa": "地域運送業者協会はその計画を承認しました。",
+      "explanationJa": "Association of Regional Carriersという説明的な正式名称を一つの組織として示すにはtheが必要です。",
+      "focus": "組織名A of Bの形",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0107_Q16",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about a delegation from a descriptive country name.",
+      "choices": {
+        "A": "A delegation from Republic of Norvia arrived today.",
+        "B": "A delegation from a Republic of Norvia arrived today.",
+        "C": "A delegation from Norvia the Republic arrived today.",
+        "D": "A delegation from the Republic of Norvia arrived today."
+      },
+      "correctAnswer": "D",
+      "translationJa": "ノルビア共和国の代表団が本日到着しました。",
+      "explanationJa": "Republic of Norviaは普通名詞Republicを中心とするA of B型の国名なのでtheを伴います。",
+      "focus": "説明的な国名とthe",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0107_Q17",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about a professional council.",
+      "choices": {
+        "A": "The Chamber of Exporters released its forecast this morning.",
+        "B": "Chamber of Exporters released its forecast this morning.",
+        "C": "The Chamber of the Exporters released forecast this morning.",
+        "D": "A Chamber of Exporters released its the forecast this morning."
+      },
+      "correctAnswer": "A",
+      "translationJa": "輸出業者会議所は今朝、予測を発表しました。",
+      "explanationJa": "Chamber of Exportersはof句で特定される一つの組織名なので、theを置くAが正しい文です。",
+      "focus": "会議所名とthe",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0107_Q18",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence distinguishing one mountain from a mountain range.",
+      "choices": {
+        "A": "The field team photographed the Mount Northwind and Northwind Range.",
+        "B": "The field team photographed Mount Northwind and the Northwind Range.",
+        "C": "The field team photographed Mount Northwind and Northwind Range.",
+        "D": "The field team photographed the Mount Northwind and the Northwind Range."
+      },
+      "correctAnswer": "B",
+      "translationJa": "調査チームは同じ飛行でノースウィンド山とノースウィンド山脈を撮影しました。",
+      "explanationJa": "単独峰のMount Northwindは無冠詞ですが、複数の山をまとめるthe Northwind Rangeにはtheが必要です。",
+      "focus": "MountとRangeの冠詞対比",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0107_Q19",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about an institute and a university.",
+      "choices": {
+        "A": "Institute of Applied Navigation is next to the Orion University.",
+        "B": "An Institute of Applied Navigation is next to Orion the University.",
+        "C": "The Institute of Applied Navigation is next to the Orion University.",
+        "D": "The Institute of Applied Navigation is next to Orion University."
+      },
+      "correctAnswer": "D",
+      "translationJa": "応用航法研究所はオリオン大学の隣にあります。",
+      "explanationJa": "説明的なInstitute of Applied Navigationにはtheを置き、固有名＋UniversityのOrion Universityは無冠詞にします。",
+      "focus": "説明的施設名と固有名施設名の対比",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0107_Q20",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence contrasting one island with an archipelago.",
+      "choices": {
+        "A": "The ferry stops at the Azure Island before crossing Azure Archipelago.",
+        "B": "The ferry stops at an Azure Island before crossing an Azure Archipelago.",
+        "C": "The ferry stops at Azure Island before crossing the Azure Archipelago.",
+        "D": "The ferry stops at the Azure Island before crossing the Azure Archipelago."
+      },
+      "correctAnswer": "C",
+      "translationJa": "そのフェリーはアズール島に寄ってから、アズール諸島を横断します。",
+      "explanationJa": "単独の島名Azure Islandは無冠詞、島々を一群として示すthe Azure Archipelagoにはtheが必要です。",
+      "focus": "単独島と諸島の冠詞",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0107_Q21",
+      "format": "meaning-equivalent",
+      "prompt": "The Museum of Sound will close at six. Choose the sentence with the same meaning.",
+      "choices": {
+        "A": "Museum of Sound has been closed since six.",
+        "B": "The Museum of Sound opened at six.",
+        "C": "A museum called Sound may close after six.",
+        "D": "The closing time of the Museum of Sound is six."
+      },
+      "correctAnswer": "D",
+      "translationJa": "音響博物館の閉館時刻は6時です。",
+      "explanationJa": "will close at sixを『閉館時刻は6時』と言い換え、名称もthe Museum of Soundの形を保つDが同じ意味です。",
+      "focus": "A of B名称を保つ言い換え",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0107_Q22",
+      "format": "meaning-equivalent",
+      "prompt": "Meridian College is offering a night course. Choose the sentence with the same meaning.",
+      "choices": {
+        "A": "The Meridian College has canceled every night course.",
+        "B": "A night course is being offered by Meridian College.",
+        "C": "A night college is being offered by Meridian.",
+        "D": "Meridian College offered the course only at noon."
+      },
+      "correctAnswer": "B",
+      "translationJa": "メリディアン大学では夜間講座が提供されています。",
+      "explanationJa": "能動文を受動文に変えただけで意味が同じです。固有名＋Collegeは無冠詞のままです。",
+      "focus": "無冠詞の大学名を保つ受動態",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0107_Q23",
+      "format": "meaning-equivalent",
+      "prompt": "The ship crossed the Opal Sea in two days. Choose the sentence with the same meaning.",
+      "choices": {
+        "A": "The Opal Sea crossed the ship for two days.",
+        "B": "The ship remained outside Opal Sea for two days.",
+        "C": "It took the ship two days to cross the Opal Sea.",
+        "D": "The ship crossed an opal-colored sea every two days."
+      },
+      "correctAnswer": "C",
+      "translationJa": "その船がオパール海を渡るのに2日かかりました。",
+      "explanationJa": "in two daysをIt took ... two days to ...で言い換え、海名のtheも維持するCが同義です。",
+      "focus": "海名のtheを含む所要時間表現",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0107_Q24",
+      "format": "meaning-equivalent",
+      "prompt": "The offices of the Council of Food Safety are downtown. Choose the sentence with the same meaning.",
+      "choices": {
+        "A": "The Council of Food Safety has its offices downtown.",
+        "B": "Food Safety Council moved every downtown office away.",
+        "C": "The offices downtown do not belong to the council.",
+        "D": "A council for food safety works outside the city."
+      },
+      "correctAnswer": "A",
+      "translationJa": "食品安全評議会の事務所は中心街にあります。",
+      "explanationJa": "所有関係をofからhasへ変えただけで、場所と組織は同じです。組織名はthe Council of Food Safetyです。",
+      "focus": "of名称を保つ所有表現の言い換え",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0107_Q25",
+      "format": "meaning-equivalent",
+      "prompt": "We flew over the Ember Mountains. Choose the sentence with the same meaning.",
+      "choices": {
+        "A": "We landed among a mountain called Ember.",
+        "B": "The Ember Mountains flew over us.",
+        "C": "We avoided every mountain in Ember.",
+        "D": "Our flight passed above the Ember Mountains."
+      },
+      "correctAnswer": "D",
+      "translationJa": "私たちの便はエンバー山脈の上空を通過しました。",
+      "explanationJa": "flew overとpassed aboveが同じ移動関係を表し、山脈名the Ember Mountainsも正しく保たれています。",
+      "focus": "山脈名を含む同義表現",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0107_Q26",
+      "format": "meaning-equivalent",
+      "prompt": "Lake Nera lies west of the city. Choose the sentence with the same meaning.",
+      "choices": {
+        "A": "The city and the Lake Nera are in the same place.",
+        "B": "Lake Nera lies east of the city.",
+        "C": "The city lies east of Lake Nera.",
+        "D": "The lake west of Nera is a city."
+      },
+      "correctAnswer": "C",
+      "translationJa": "その市はネラ湖の東にあります。",
+      "explanationJa": "湖が市の西にあるなら、市は湖の東にあります。Lake＋固有名は無冠詞のままです。",
+      "focus": "湖名の無冠詞と位置関係",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0107_Q27",
+      "format": "meaning-equivalent",
+      "prompt": "The Archive of Local Trade opened in 2004. Choose the sentence with the same meaning.",
+      "choices": {
+        "A": "Local Trade Archive had closed before 2004.",
+        "B": "The opening of the Archive of Local Trade took place in 2004.",
+        "C": "An archive traded locally throughout 2004.",
+        "D": "The Archive of Local Trade will open after 2004."
+      },
+      "correctAnswer": "B",
+      "translationJa": "地域貿易資料館の開館は2004年に行われました。",
+      "explanationJa": "動詞openedを名詞the openingに変えただけで、出来事と年は同じです。名称はthe Archive of Local Tradeです。",
+      "focus": "A of B名称を含む名詞化",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0107_Q28",
+      "format": "meaning-equivalent",
+      "prompt": "Mount Rill is higher than every other peak in the Rill Mountains. Choose the sentence with the same meaning.",
+      "choices": {
+        "A": "No other peak in the Rill Mountains is as high as Mount Rill.",
+        "B": "Every peak in the Rill Mountains is higher than Mount Rill.",
+        "C": "Mount Rill is outside the Rill Mountains and has no height.",
+        "D": "The Mount Rill and Rill Mountains are equally high."
+      },
+      "correctAnswer": "A",
+      "translationJa": "リル山脈には、リル山と同じ高さのほかの峰はありません。",
+      "explanationJa": "比較級最上級相当をno other ... as ... asで言い換えています。単独峰はMount Rill、山脈はthe Rill Mountainsです。",
+      "focus": "単独峰と山脈を含む比較表現",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0107_Q29",
+      "format": "meaning-equivalent",
+      "prompt": "The Delta Islands are served by one ferry company. Choose the sentence with the same meaning.",
+      "choices": {
+        "A": "Every island has its own ferry company.",
+        "B": "No ferry company serves the Delta Islands.",
+        "C": "Only one ferry company provides service to the Delta Islands.",
+        "D": "One ferry company is located on Delta Island only."
+      },
+      "correctAnswer": "C",
+      "translationJa": "デルタ諸島に運航サービスを提供しているフェリー会社は1社だけです。",
+      "explanationJa": "受動態are served by oneをOnly one company provides serviceで言い換えています。諸島名にはtheを保ちます。",
+      "focus": "諸島名を含む能動・受動の言い換え",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0107_Q30",
+      "format": "meaning-equivalent",
+      "prompt": "The Institute of Applied Navigation is adjacent to Orion University. Choose the sentence with the same meaning.",
+      "choices": {
+        "A": "Orion University is far from an institute of navigation.",
+        "B": "Orion University is next to the Institute of Applied Navigation.",
+        "C": "The Orion University is inside Applied Navigation Institute.",
+        "D": "The institute and university are in different cities."
+      },
+      "correctAnswer": "B",
+      "translationJa": "オリオン大学は応用航法研究所の隣にあります。",
+      "explanationJa": "adjacent toをnext toに置き換え、二つの施設の位置関係を逆向きに述べても意味は同じです。",
+      "focus": "二種類の施設名の冠詞対比",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0107_Q31",
+      "format": "context-completion",
+      "prompt": "The visitor guide lists a special exhibition at ------- Gallery of Modern Crafts. Please show your reservation at the entrance.",
+      "choices": {"A": "the", "B": "a", "C": "an", "D": "no article"},
+      "correctAnswer": "A",
+      "translationJa": "来館案内には近代工芸ギャラリーの特別展が掲載されています。入口で予約票を提示してください。",
+      "explanationJa": "Gallery of Modern CraftsはA of B型の施設名なので、特定の会場を示すtheが必要です。",
+      "focus": "文脈内のA of B施設名",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0107_Q32",
+      "format": "context-completion",
+      "prompt": "Tomorrow's inspection flight will circle ------- Mount Evora twice. The crew should report by 6:30 A.M.",
+      "choices": {"A": "a", "B": "the", "C": "no article", "D": "an"},
+      "correctAnswer": "C",
+      "translationJa": "明日の点検飛行ではエボラ山を2周します。乗務員は午前6時30分までに集合してください。",
+      "explanationJa": "Mount＋固有名で表す単独の山名は通常無冠詞です。",
+      "focus": "単独峰名の無冠詞",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0107_Q33",
+      "format": "context-completion",
+      "prompt": "The cruise enters ------- Coral Sea after lunch. Passengers may attend a navigation talk on Deck 4.",
+      "choices": {"A": "no article", "B": "the", "C": "a", "D": "an"},
+      "correctAnswer": "B",
+      "translationJa": "クルーズ船は昼食後にコーラル海へ入ります。乗客は4階デッキの航法講座に参加できます。",
+      "explanationJa": "Seaを含む海名は広い水域を一つのまとまりとして指すためtheを使います。",
+      "focus": "海名のthe",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0107_Q34",
+      "format": "context-completion",
+      "prompt": "The client meeting has moved to ------- Westbridge College. Use the south gate because the main entrance is under repair.",
+      "choices": {"A": "the", "B": "an", "C": "a", "D": "no article"},
+      "correctAnswer": "D",
+      "translationJa": "顧客会議はウェストブリッジ大学へ変更されました。正門は修理中のため南門を利用してください。",
+      "explanationJa": "Westbridgeという固有名＋Collegeの名称は通常無冠詞で使います。",
+      "focus": "固有名＋Collegeの無冠詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0107_Q35",
+      "format": "context-completion",
+      "prompt": "Heavy snow is expected across ------- Sable Mountains tonight. All northern deliveries have therefore been postponed.",
+      "choices": {"A": "the", "B": "no article", "C": "an", "D": "a"},
+      "correctAnswer": "A",
+      "translationJa": "今夜、セーブル山脈一帯で大雪が予想されています。そのため北部への配送はすべて延期されました。",
+      "explanationJa": "複数の山を一つの山脈として表すthe Sable Mountainsが必要です。",
+      "focus": "山脈名と業務文脈",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0107_Q36",
+      "format": "context-completion",
+      "prompt": "The permit must be approved by ------- Department of Public Works. Processing normally takes five business days.",
+      "choices": {"A": "no article", "B": "the", "C": "a", "D": "an"},
+      "correctAnswer": "B",
+      "translationJa": "その許可証は公共事業局の承認を受けなければなりません。通常、処理には5営業日かかります。",
+      "explanationJa": "Department of Public Worksは説明的なA of B型の機関名なのでtheを置きます。",
+      "focus": "行政機関名のthe",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0107_Q37",
+      "format": "context-completion",
+      "prompt": "The shuttle stops at ------- Lake Orin Visitor Center at 9:15. From there, guests will walk to the pier.",
+      "choices": {"A": "an", "B": "the", "C": "a", "D": "no article"},
+      "correctAnswer": "D",
+      "translationJa": "シャトルは9時15分にオリン湖ビジターセンターへ停車します。そこから宿泊客は桟橋まで歩きます。",
+      "explanationJa": "Lake Orinが固有名としてVisitor Centerの名称を限定しており、ここでは先頭に冠詞を置かない名称として扱います。",
+      "focus": "固有名を含む施設名の無冠詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0107_Q38",
+      "format": "context-completion",
+      "prompt": "Our mayor will address ------- Union of Coastal Cities this afternoon. A recording will be posted afterward.",
+      "choices": {"A": "a", "B": "no article", "C": "the", "D": "an"},
+      "correctAnswer": "C",
+      "translationJa": "市長は本日午後、沿岸都市連合で演説します。録画は後ほど公開されます。",
+      "explanationJa": "Union of Coastal Citiesはof句で構成された一つの団体名なのでtheが必要です。",
+      "focus": "連合組織名とthe",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0107_Q39",
+      "format": "context-completion",
+      "prompt": "The brochure shows Mount Calder on the first page. The next map covers -------, which extend across three provinces.",
+      "choices": {"A": "Calder Mountain", "B": "the Calder Mountains", "C": "the Mount Calder", "D": "a Calder Mountains"},
+      "correctAnswer": "B",
+      "translationJa": "パンフレットの1ページ目にはカルダー山が載っています。次の地図は3州にまたがるカルダー山脈を扱っています。",
+      "explanationJa": "関係節の複数動詞extendと『3州にまたがる』から山脈全体を表すthe Calder Mountainsが唯一適切です。",
+      "focus": "単独峰から山脈への文脈判断",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0107_Q40",
+      "format": "context-completion",
+      "prompt": "The trade mission is arriving from ------- Republic of Eloria. Its first event will be held at Eloria University, whose name takes no article.",
+      "choices": {"A": "the", "B": "no article", "C": "an", "D": "a"},
+      "correctAnswer": "A",
+      "translationJa": "貿易使節団はエロリア共和国から到着します。最初の催しは、名称に冠詞を付けないエロリア大学で開かれます。",
+      "explanationJa": "Republic of Eloriaは説明的なA of B型の国名なのでtheを使います。後文のEloria Universityとの対比も手掛かりです。",
+      "focus": "国名と大学名の冠詞対比",
+      "difficulty": "advanced"
+    }
+  ]
+}
