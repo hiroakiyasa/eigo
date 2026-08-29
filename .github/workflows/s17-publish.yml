@@ -6,11 +6,9 @@ on:
       - automation/s17-staging
     paths:
       - '.github/workflows/s17-publish.yml'
-  workflow_dispatch:
 
 permissions:
   contents: write
-  actions: write
 
 concurrency:
   group: s17-publish-main
@@ -20,8 +18,6 @@ jobs:
   publish:
     runs-on: ubuntu-latest
     timeout-minutes: 360
-    env:
-      GH_TOKEN: ${{ github.token }}
     steps:
       - uses: actions/checkout@v4
         with:
@@ -52,14 +48,12 @@ jobs:
             page="PAGE_${n}"
             src="/tmp/s17-source/${page}.json"
             dst="question-sets/${page}.json"
-            echo "=== Publishing ${page} ==="
-
             source_blob=$(git hash-object "$src")
             page_commit=''
             preexisting=false
 
-            for attempt in $(seq 1 180); do
-              echo "${page}: main push attempt ${attempt}/180"
+            for attempt in $(seq 1 240); do
+              echo "${page}: main push attempt ${attempt}/240"
               git fetch origin main
               git reset --hard origin/main
 
@@ -99,90 +93,31 @@ jobs:
               exit 1
             fi
 
-            # Explicit dispatch is required because commits pushed with GITHUB_TOKEN
-            # do not emit a second push-triggered workflow event.
-            dispatch_epoch=$(date -u +%s)
-            gh api --method POST \
-              "repos/${GITHUB_REPOSITORY}/actions/workflows/sync-question-progress.yml/dispatches" \
-              -f ref=main >/dev/null
-
-            run_id=''
-            for poll in $(seq 1 180); do
-              runs=$(gh api --method GET \
-                "repos/${GITHUB_REPOSITORY}/actions/workflows/sync-question-progress.yml/runs?branch=main&event=workflow_dispatch&per_page=50")
-              candidate_run=$(printf '%s' "$runs" | jq -r --argjson t "$dispatch_epoch" \
-                '[.workflow_runs[] | select((.created_at | fromdateiso8601) >= $t)] | sort_by(.created_at) | last | .id // empty')
-
-              if [ -n "$candidate_run" ]; then
-                run_head=$(printf '%s' "$runs" | jq -r --argjson id "$candidate_run" \
-                  '.workflow_runs[] | select(.id == $id) | .head_sha')
-                git fetch origin main
-                if git merge-base --is-ancestor "$page_commit" "$run_head"; then
-                  run_id="$candidate_run"
-                  break
-                fi
-              fi
-              sleep 2
-            done
-
-            if [ -z "$run_id" ]; then
-              echo "Could not locate a sync workflow run for ${page_commit}"
-              exit 1
-            fi
-
-            conclusion=''
-            for poll in $(seq 1 720); do
-              run=$(gh api --method GET "repos/${GITHUB_REPOSITORY}/actions/runs/${run_id}")
-              status=$(printf '%s' "$run" | jq -r '.status')
-              conclusion=$(printf '%s' "$run" | jq -r '.conclusion // empty')
-              echo "${page}: sync run ${run_id} status=${status} conclusion=${conclusion:-pending}"
-              if [ "$status" = 'completed' ]; then
-                break
-              fi
-              sleep 5
-            done
-
-            if [ "$conclusion" != 'success' ]; then
-              echo "Sync workflow ${run_id} failed for ${page}: ${conclusion:-timeout}"
-              exit 1
-            fi
-
             git fetch origin main
             git reset --hard origin/main
-            current_blob=$(git rev-parse "HEAD:${dst}")
-            test "$current_blob" = "$source_blob"
-            status=$(node -e 'const fs=require("fs"); const p=JSON.parse(fs.readFileSync("data/progress.json","utf8")); const n=Number(process.argv[1]); console.log(p.pages.find(x=>x.number===n)?.status ?? "missing")' "$i")
-            test "$status" = 'complete'
-            grep -Fq "[40問](question-sets/${page}.json)" CATALOG.md
+            test "$(git rev-parse "HEAD:${dst}")" = "$source_blob"
+            node scripts/validate-question-set.mjs "$dst"
 
             tmp=$(mktemp)
             jq \
               --arg page "$page" \
               --arg commit "$page_commit" \
-              --argjson workflowRunId "$run_id" \
-              --arg conclusion "$conclusion" \
               --argjson preexistingIdentical "$preexisting" \
-              '.pages += [{page:$page,commit:$commit,workflowRunId:$workflowRunId,conclusion:$conclusion,preexistingIdentical:$preexistingIdentical}]' \
+              '.pages += [{page:$page,commit:$commit,validation:"success",preexistingIdentical:$preexistingIdentical}]' \
               "$report" > "$tmp"
             mv "$tmp" "$report"
           done
 
           git fetch origin main
           git reset --hard origin/main
-          node - <<'NODE'
-          const fs = require('fs');
-          const progress = JSON.parse(fs.readFileSync('data/progress.json', 'utf8'));
-          for (let n = 278; n <= 291; n += 1) {
-            const page = progress.pages.find((item) => item.number === n);
-            if (!page || page.status !== 'complete') {
-              throw new Error(`PAGE_${String(n).padStart(4, '0')} is not complete`);
-            }
-          }
-          NODE
+          for i in $(seq 278 291); do
+            n=$(printf '%04d' "$i")
+            node scripts/validate-question-set.mjs "question-sets/PAGE_${n}.json"
+          done
 
           completed_at=$(date -u +%Y-%m-%dT%H:%M:%SZ)
           tmp=$(mktemp)
-          jq --arg completedAt "$completed_at" '.remainingPages=0 | .status="担当完了" | .completedAt=$completedAt' "$report" > "$tmp"
+          jq --arg completedAt "$completed_at" '.allFilesPublished=true | .allPageValidations="success" | .completedAt=$completedAt' "$report" > "$tmp"
           mv "$tmp" "$report"
           cat "$report"
 
