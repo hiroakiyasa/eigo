@@ -1,0 +1,672 @@
+{
+  "schemaVersion": 1,
+  "page": {
+    "number": 215,
+    "id": "grammar-master-0215",
+    "title": "文法パーツは配置で働く",
+    "image": "pages/PAGE_0215.webp",
+    "sourcePrompt": "source-prompts/PAGE_0215.txt"
+  },
+  "analysis": {
+    "summaryJa": "-ing・to不定詞・過去分詞・節は内部に意味を保ったまとまりとなり、文中の配置によって主語・目的語・名詞修飾・文全体への説明という役割を担う。形だけでなく置かれた席から機能を判断する。",
+    "grammarPoints": [
+      "-ing句や節を主語・目的語の席に置くこと",
+      "現在分詞・過去分詞を名詞の後ろに置いて説明すること",
+      "to不定詞や分詞句を文頭で文全体の目的・背景として使うこと",
+      "中心文型と自由な修飾要素の区別"
+    ],
+    "visualEvidence": [
+      "画像の4席は主語・目的語・名詞の後ろ・文全体への説明に分かれている",
+      "-ing・to-infinitive・past participle・clauseのカプセルが各席へ移動する",
+      "同じ-ingがExploringでは主語、enjoys exploringでは目的語、child exploringでは名詞修飾になる"
+    ],
+    "commonTraps": [
+      "-ingを見ただけで常に進行形と判断する",
+      "分詞句の位置と修飾先を取り違える",
+      "文全体を修飾するto不定詞を主文の目的語と誤認する",
+      "修飾を除いた中心の主語・動詞を見失う"
+    ]
+  },
+  "questions": [
+    {
+      "id": "PAGE_0215_Q01",
+      "format": "part5-cloze",
+      "prompt": "------- customer feedback helps us improve the service.",
+      "choices": {
+        "A": "Reviewed",
+        "B": "Review",
+        "C": "Reviewing",
+        "D": "To reviewed"
+      },
+      "correctAnswer": "C",
+      "translationJa": "顧客の意見を確認することはサービス改善に役立ちます。",
+      "explanationJa": "Reviewing customer feedback全体がhelpsの主語の席に入ります。",
+      "focus": "-ing句を主語に置く",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0215_Q02",
+      "format": "part5-cloze",
+      "prompt": "The coordinator enjoys ------- travel arrangements for guests.",
+      "choices": {
+        "A": "planning",
+        "B": "planned",
+        "C": "plan",
+        "D": "to planned"
+      },
+      "correctAnswer": "A",
+      "translationJa": "コーディネーターは来客の出張手配を計画することを楽しんでいます。",
+      "explanationJa": "enjoysの目的語には動作を名詞化したplanning句を置きます。",
+      "focus": "-ing句を目的語に置く",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0215_Q03",
+      "format": "part5-cloze",
+      "prompt": "The employee ------- near the entrance can assist you.",
+      "choices": {
+        "A": "stood",
+        "B": "stand",
+        "C": "to stand",
+        "D": "standing"
+      },
+      "correctAnswer": "D",
+      "translationJa": "入口近くに立っている従業員がお手伝いできます。",
+      "explanationJa": "standing near the entranceがemployeeの直後からその人を説明します。",
+      "focus": "名詞後置修飾の現在分詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0215_Q04",
+      "format": "part5-cloze",
+      "prompt": "------- delivery errors, the warehouse added a scanning step.",
+      "choices": {
+        "A": "Reducing by",
+        "B": "To reduce",
+        "C": "Reduced",
+        "D": "To reducing"
+      },
+      "correctAnswer": "B",
+      "translationJa": "配送ミスを減らすため、倉庫はスキャン工程を追加しました。",
+      "explanationJa": "文頭のTo reduceは主節の行動目的を文全体に加えます。",
+      "focus": "目的を示す文頭to不定詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0215_Q05",
+      "format": "part5-cloze",
+      "prompt": "The documents ------- in the cabinet are confidential.",
+      "choices": {
+        "A": "stored",
+        "B": "storing",
+        "C": "store",
+        "D": "to stored"
+      },
+      "correctAnswer": "A",
+      "translationJa": "キャビネットに保管されている書類は機密です。",
+      "explanationJa": "stored in the cabinetは受動の意味でdocumentsを後ろから説明します。",
+      "focus": "過去分詞の名詞修飾",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0215_Q06",
+      "format": "part5-cloze",
+      "prompt": "------- the proposal was approved surprised the sales team.",
+      "choices": {
+        "A": "Which",
+        "B": "What did",
+        "C": "That",
+        "D": "Because of"
+      },
+      "correctAnswer": "C",
+      "translationJa": "その提案が承認されたことは営業チームを驚かせました。",
+      "explanationJa": "That the proposal was approvedという節全体がsurprisedの主語です。",
+      "focus": "that節を主語に置く",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0215_Q07",
+      "format": "part5-cloze",
+      "prompt": "We found the shipment ------- behind several empty crates.",
+      "choices": {
+        "A": "hiding",
+        "B": "hidden",
+        "C": "hide",
+        "D": "to hide"
+      },
+      "correctAnswer": "B",
+      "translationJa": "私たちは複数の空箱の後ろに隠されていた配送品を見つけました。",
+      "explanationJa": "hidden句が目的語shipmentの状態を説明する位置にあります。",
+      "focus": "目的語後の過去分詞補語",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0215_Q08",
+      "format": "part5-cloze",
+      "prompt": "The supervisor heard a customer ------- for assistance.",
+      "choices": {
+        "A": "called",
+        "B": "to called",
+        "C": "calls",
+        "D": "calling"
+      },
+      "correctAnswer": "D",
+      "translationJa": "監督者は顧客が助けを求めているのを聞きました。",
+      "explanationJa": "calling for assistanceはcustomerの進行中の動作を目的語の後ろから説明します。",
+      "focus": "知覚動詞＋目的語＋-ing",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0215_Q09",
+      "format": "part5-cloze",
+      "prompt": "------- all receipts, Ms. Young submitted the expense claim.",
+      "choices": {
+        "A": "Checked after",
+        "B": "After checked",
+        "C": "After checking",
+        "D": "To checking"
+      },
+      "correctAnswer": "C",
+      "translationJa": "すべての領収書を確認した後、ヤングさんは経費申請を提出しました。",
+      "explanationJa": "After checking句は主節全体に時間背景を加える自由要素です。",
+      "focus": "前置詞＋-ingの文全体修飾",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0215_Q10",
+      "format": "part5-cloze",
+      "prompt": "The question ------- remains unresolved.",
+      "choices": {
+        "A": "does the warranty apply",
+        "B": "the warranty applying",
+        "C": "whether applies the warranty",
+        "D": "whether the warranty applies"
+      },
+      "correctAnswer": "D",
+      "translationJa": "保証が適用されるかという問題は未解決のままです。",
+      "explanationJa": "whether節がquestionの直後に置かれ、その内容を説明しています。",
+      "focus": "名詞後ろの同格節",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0215_Q11",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence using an activity as the subject.",
+      "choices": {
+        "A": "Check the locks taking only five minutes.",
+        "B": "Checking the locks takes only five minutes.",
+        "C": "Checked the locks takes only five minutes.",
+        "D": "To checking the locks take only five minutes."
+      },
+      "correctAnswer": "B",
+      "translationJa": "鍵を確認することには5分しかかかりません。",
+      "explanationJa": "Checking the locks全体が単数扱いの主語で、takesと結び付きます。",
+      "focus": "動名詞句主語と単数動詞",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0215_Q12",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence placing an activity after a verb.",
+      "choices": {
+        "A": "The clerk finished sorted the returned items.",
+        "B": "The clerk finishing sort the returned items.",
+        "C": "The clerk finished to sorted the returned items.",
+        "D": "The clerk finished sorting the returned items."
+      },
+      "correctAnswer": "D",
+      "translationJa": "係員は返品品の仕分けを終えました。",
+      "explanationJa": "finishの目的語の席にはsorting以下の-ing句が入ります。",
+      "focus": "finish＋-ing目的語",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0215_Q13",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence describing a noun with a participle.",
+      "choices": {
+        "A": "The guests waiting in the lobby need name tags.",
+        "B": "The guests waited in the lobby need name tags.",
+        "C": "The guests to waiting in the lobby need name tags.",
+        "D": "The guests are waiting in the lobby need name tags."
+      },
+      "correctAnswer": "A",
+      "translationJa": "ロビーで待っている来客には名札が必要です。",
+      "explanationJa": "waiting in the lobbyがguestsを修飾し、主文の述語はneedです。",
+      "focus": "分詞修飾と主文述語の区別",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0215_Q14",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence adding purpose to the whole clause.",
+      "choices": {
+        "A": "Avoid confusion, to we numbered every sample.",
+        "B": "To avoided confusion, we numbered every sample.",
+        "C": "To avoid confusion, we numbered every sample.",
+        "D": "To avoiding confusion, we numbered every sample."
+      },
+      "correctAnswer": "C",
+      "translationJa": "混乱を避けるため、すべてのサンプルに番号を付けました。",
+      "explanationJa": "To avoid confusionは主節の目的を説明する文頭要素です。",
+      "focus": "目的のto不定詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0215_Q15",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about equipment affected by water.",
+      "choices": {
+        "A": "The equipment damaging by the leak must be replaced.",
+        "B": "The equipment was damaged by the leak must be replaced.",
+        "C": "The equipment damage by the leak must be replaced.",
+        "D": "The equipment damaged by the leak must be replaced."
+      },
+      "correctAnswer": "D",
+      "translationJa": "漏水で損傷した機器は交換しなければなりません。",
+      "explanationJa": "damaged by the leakはequipmentを受動的に説明する過去分詞句です。",
+      "focus": "過去分詞の後置修飾",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0215_Q16",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence using a clause as an object.",
+      "choices": {
+        "A": "We confirmed was the loading dock open.",
+        "B": "We confirmed that the loading dock was open.",
+        "C": "We confirmed that was open the loading dock.",
+        "D": "We confirmed the loading dock open was that."
+      },
+      "correctAnswer": "B",
+      "translationJa": "搬入口が開いていることを確認しました。",
+      "explanationJa": "that節全体がconfirmedの目的語の席に入ります。",
+      "focus": "that節を目的語に置く",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0215_Q17",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence with an object followed by a description.",
+      "choices": {
+        "A": "The manager found locked the meeting room was.",
+        "B": "The manager found the meeting room locking.",
+        "C": "The manager found the meeting room locked.",
+        "D": "The manager found was locked the meeting room."
+      },
+      "correctAnswer": "C",
+      "translationJa": "部長は会議室に鍵が掛かっていることに気付きました。",
+      "explanationJa": "lockedはfoundの目的語the meeting roomの状態を後ろから説明します。",
+      "focus": "目的語補語の過去分詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0215_Q18",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence adding a background scene.",
+      "choices": {
+        "A": "Carrying two boxes, the courier entered the office.",
+        "B": "Carried two boxes, the courier entering the office.",
+        "C": "Carrying two boxes, the office entered the courier.",
+        "D": "To carrying two boxes, the courier entered the office."
+      },
+      "correctAnswer": "A",
+      "translationJa": "箱を2つ運びながら、配送員は事務所に入りました。",
+      "explanationJa": "Carrying句の動作主は主節主語the courierで、文全体に同時場面を加えます。",
+      "focus": "文頭分詞句と動作主",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0215_Q19",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence explaining a noun with a clause.",
+      "choices": {
+        "A": "The rumor would the branch close worried employees.",
+        "B": "The rumor that would close the branch worried employees it.",
+        "C": "The rumor did the branch close worried employees.",
+        "D": "The rumor that the branch would close worried employees."
+      },
+      "correctAnswer": "D",
+      "translationJa": "支店が閉鎖されるといううわさが従業員を心配させました。",
+      "explanationJa": "that the branch would closeはrumorの内容を示す節で、主文の主語全体を作ります。",
+      "focus": "名詞＋内容説明節",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0215_Q20",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence combining the core with modifiers.",
+      "choices": {
+        "A": "Hoped to save time, quickly Elena the revised form approved.",
+        "B": "Hoping to save time, the revised form quickly approved Elena.",
+        "C": "Hoping to save time, Elena quickly approved the revised form.",
+        "D": "To hoping save time, Elena approved quickly was the revised form."
+      },
+      "correctAnswer": "C",
+      "translationJa": "時間を節約したいと考え、エレナは修正済み用紙を素早く承認しました。",
+      "explanationJa": "中心はElena approved the formで、Hoping句とquickly・revisedが各位置から情報を加えます。",
+      "focus": "複数パーツの配置",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0215_Q21",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"Reviewing contracts requires patience.\"",
+      "choices": {
+        "A": "Contracts patiently require reviews.",
+        "B": "Patience reviews every contract.",
+        "C": "Reviewing contracts is never necessary.",
+        "D": "It requires patience to review contracts."
+      },
+      "correctAnswer": "D",
+      "translationJa": "契約書を確認するには忍耐が必要です。",
+      "explanationJa": "主語の動名詞句を形式主語it＋to不定詞へ移しても意味を保ちます。",
+      "focus": "動名詞主語の言い換え",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0215_Q22",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The woman speaking with the client is our lawyer.\"",
+      "choices": {
+        "A": "The client is a lawyer speaking to the woman.",
+        "B": "Our lawyer is the woman who is speaking with the client.",
+        "C": "Our lawyer spoke after the client left.",
+        "D": "The woman hired the client as a lawyer."
+      },
+      "correctAnswer": "B",
+      "translationJa": "顧客と話している女性が当社の弁護士です。",
+      "explanationJa": "名詞後ろのspeaking句はwho is speakingという関係節に展開できます。",
+      "focus": "現在分詞修飾の関係節化",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0215_Q23",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"To reduce costs, the office switched suppliers.\"",
+      "choices": {
+        "A": "The suppliers reduced the office after switching.",
+        "B": "Costs increased because the office kept its supplier.",
+        "C": "The office switched suppliers in order to reduce costs.",
+        "D": "The office switched costs rather than suppliers."
+      },
+      "correctAnswer": "C",
+      "translationJa": "費用を削減するため、事務所は仕入先を変更しました。",
+      "explanationJa": "文頭to不定詞はin order toで表せる目的を主節に加えています。",
+      "focus": "目的to不定詞の言い換え",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0215_Q24",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The files stored downstairs are archived records.\"",
+      "choices": {
+        "A": "The files that are stored downstairs are archived records.",
+        "B": "The files store the downstairs records.",
+        "C": "The archived records stored something downstairs.",
+        "D": "The downstairs area archives no files."
+      },
+      "correctAnswer": "A",
+      "translationJa": "階下に保管されているファイルは保存記録です。",
+      "explanationJa": "stored句はthat are storedという受動関係節に展開できます。",
+      "focus": "過去分詞修飾の展開",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0215_Q25",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"We enjoy assisting new customers.\"",
+      "choices": {
+        "A": "New customers enjoy assisting us.",
+        "B": "Assisting new customers is something we enjoy.",
+        "C": "We avoid all contact with new customers.",
+        "D": "Assistance enjoys the customers."
+      },
+      "correctAnswer": "B",
+      "translationJa": "私たちは新規顧客を支援することを楽しんでいます。",
+      "explanationJa": "目的語の-ing句を主語位置へ移しても活動内容とenjoyの関係を保てます。",
+      "focus": "動名詞句の目的語と主語位置",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0215_Q26",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The claim that the fee was optional was incorrect.\"",
+      "choices": {
+        "A": "The optional fee corrected the claim.",
+        "B": "The fee was incorrect because no one claimed it.",
+        "C": "The claim required an optional correction fee.",
+        "D": "It was incorrect to claim that the fee was optional."
+      },
+      "correctAnswer": "D",
+      "translationJa": "その料金が任意だという主張は誤りでした。",
+      "explanationJa": "名詞後ろのthat節がclaimの内容で、言い換えでも同じ主張内容です。",
+      "focus": "名詞＋同格that節",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0215_Q27",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The supervisor saw a driver unloading boxes.\"",
+      "choices": {
+        "A": "The supervisor saw a driver while the driver was unloading boxes.",
+        "B": "A driver saw the supervisor unload boxes.",
+        "C": "The supervisor unloaded every box alone.",
+        "D": "The boxes saw a driver and supervisor."
+      },
+      "correctAnswer": "A",
+      "translationJa": "監督者は運転手が箱を降ろしているところを見ました。",
+      "explanationJa": "目的語後のunloadingはdriverの進行中の動作を説明します。",
+      "focus": "知覚動詞後の-ing説明",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0215_Q28",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"After checking the figures, Nora signed the report.\"",
+      "choices": {
+        "A": "Nora signed the report before checking anything.",
+        "B": "The figures signed Nora’s report.",
+        "C": "Nora checked the figures before she signed the report.",
+        "D": "Nora checked a different report after signing."
+      },
+      "correctAnswer": "C",
+      "translationJa": "ノラは数値を確認してから報告書に署名しました。",
+      "explanationJa": "文頭のAfter checking句は主文より前の時間関係を示します。",
+      "focus": "文全体を修飾する-ing句",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0215_Q29",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The door left unlocked caused concern.\"",
+      "choices": {
+        "A": "The fact that the door had been left unlocked caused concern.",
+        "B": "The door left because no one was concerned.",
+        "C": "Concern unlocked the door.",
+        "D": "The locked door removed every concern."
+      },
+      "correctAnswer": "A",
+      "translationJa": "ドアが施錠されないままだったことが懸念を生みました。",
+      "explanationJa": "left unlockedはdoorの状態を示し、that節に展開すると出来事全体が明確になります。",
+      "focus": "過去分詞による状態説明",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0215_Q30",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"What the auditor found changed our procedure.\"",
+      "choices": {
+        "A": "Our procedure changed the auditor.",
+        "B": "The auditor’s finding changed our procedure.",
+        "C": "The auditor found no procedure to change.",
+        "D": "Our finding prevented every audit."
+      },
+      "correctAnswer": "B",
+      "translationJa": "監査人が発見したことが当社の手順を変えました。",
+      "explanationJa": "what節全体が主語の席にあり、the auditor’s findingという名詞句に対応します。",
+      "focus": "wh節を主語に置く",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0215_Q31",
+      "format": "context-completion",
+      "prompt": "We need an efficient way to track returns. ------- bar codes would save time.",
+      "choices": {
+        "A": "Scanned",
+        "B": "Scan",
+        "C": "Scanning",
+        "D": "To scanned"
+      },
+      "correctAnswer": "C",
+      "translationJa": "返品を追跡する効率的な方法が必要です。バーコードを読み取ることなら時間を節約できます。",
+      "explanationJa": "Scanning bar codes全体がwould saveの主語です。",
+      "focus": "文脈内の-ing主語",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0215_Q32",
+      "format": "context-completion",
+      "prompt": "The training was useful. Employees practiced ------- dissatisfied callers.",
+      "choices": {
+        "A": "handling",
+        "B": "handled",
+        "C": "to handled",
+        "D": "handle"
+      },
+      "correctAnswer": "A",
+      "translationJa": "研修は有用でした。従業員は不満を持つ電話客への対応を練習しました。",
+      "explanationJa": "practiceの目的語にはhandlingという-ing句を使います。",
+      "focus": "practice＋-ing目的語",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0215_Q33",
+      "format": "context-completion",
+      "prompt": "Several people are near the reception desk. The person ------- a blue jacket is the interpreter.",
+      "choices": {
+        "A": "worn",
+        "B": "wear",
+        "C": "to wearing",
+        "D": "wearing"
+      },
+      "correctAnswer": "D",
+      "translationJa": "受付近くに数人います。青い上着を着ている人が通訳です。",
+      "explanationJa": "wearing a blue jacketがpersonを後ろから特定します。",
+      "focus": "現在分詞の後置修飾",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0215_Q34",
+      "format": "context-completion",
+      "prompt": "The warehouse wants fewer picking errors. ------- accuracy, it introduced shelf labels.",
+      "choices": {
+        "A": "Improved",
+        "B": "To improve",
+        "C": "To improving",
+        "D": "Improve to"
+      },
+      "correctAnswer": "B",
+      "translationJa": "倉庫はピッキングミスを減らしたいと考えています。精度向上のため棚ラベルを導入しました。",
+      "explanationJa": "To improve accuracyは導入の目的を文全体に加えます。",
+      "focus": "文頭の目的to不定詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0215_Q35",
+      "format": "context-completion",
+      "prompt": "Some boxes got wet during transport. The items ------- by moisture will be replaced.",
+      "choices": {
+        "A": "damaging",
+        "B": "damage",
+        "C": "damaged",
+        "D": "to damage"
+      },
+      "correctAnswer": "C",
+      "translationJa": "輸送中に一部の箱が濡れました。湿気で損傷した品は交換されます。",
+      "explanationJa": "damaged by moistureがitemsを受動の意味で説明します。",
+      "focus": "過去分詞の名詞修飾",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0215_Q36",
+      "format": "context-completion",
+      "prompt": "The client has not decided on a date. We need to know ------- can attend.",
+      "choices": {
+        "A": "whether everyone",
+        "B": "does everyone",
+        "C": "everyone whether",
+        "D": "whether can everyone"
+      },
+      "correctAnswer": "A",
+      "translationJa": "顧客は日程をまだ決めていません。全員が参加できるか知る必要があります。",
+      "explanationJa": "whether everyone can attendという節全体がknowの目的語です。",
+      "focus": "whether節の目的語配置",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0215_Q37",
+      "format": "context-completion",
+      "prompt": "A delivery van is blocking the entrance. We found the driver ------- in the café.",
+      "choices": {
+        "A": "waited",
+        "B": "waiting",
+        "C": "to waited",
+        "D": "waits"
+      },
+      "correctAnswer": "B",
+      "translationJa": "配送車が入口をふさいでいます。運転手がカフェで待っているのを見つけました。",
+      "explanationJa": "waitingは目的語driverのその時の状態・動作を説明します。",
+      "focus": "find＋目的語＋-ing",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0215_Q38",
+      "format": "context-completion",
+      "prompt": "The lights were off when we arrived. ------- by the darkness, visitors used their phones.",
+      "choices": {
+        "A": "Confusing",
+        "B": "To confuse",
+        "C": "Confuse",
+        "D": "Confused"
+      },
+      "correctAnswer": "D",
+      "translationJa": "到着時、照明が消えていました。暗闇に戸惑い、来訪者は携帯電話を使いました。",
+      "explanationJa": "Confused by the darknessは主節主語visitorsの状態を背景として加えます。",
+      "focus": "文頭過去分詞句",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0215_Q39",
+      "format": "context-completion",
+      "prompt": "Management issued a statement. The statement ------- relieved employees.",
+      "choices": {
+        "A": "that no jobs would be cut",
+        "B": "would no jobs be cut",
+        "C": "no jobs cutting",
+        "D": "that would cut no jobs them"
+      },
+      "correctAnswer": "A",
+      "translationJa": "経営陣は声明を出しました。人員削減はないという声明が従業員を安心させました。",
+      "explanationJa": "that節がstatementの内容を説明し、statement全体がrelievedの主語です。",
+      "focus": "名詞＋内容節の配置",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0215_Q40",
+      "format": "context-completion",
+      "prompt": "The report looked complex at first. By identifying the core, we saw that ------- was simple.",
+      "choices": {
+        "A": "recommending",
+        "B": "the recommendation",
+        "C": "recommended by",
+        "D": "to recommendation"
+      },
+      "correctAnswer": "B",
+      "translationJa": "報告書は最初複雑に見えました。骨組みを見つけると、提言自体は単純だと分かりました。",
+      "explanationJa": "that節内の主語の席には名詞句the recommendationが必要です。",
+      "focus": "修飾を除いた骨格の主語",
+      "difficulty": "advanced"
+    }
+  ]
+}
