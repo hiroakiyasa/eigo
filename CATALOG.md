@@ -289,7 +289,7 @@
 | 246 | 節で中身を説明する | [PAGE_0246](pages/PAGE_0246.webp) | [原稿](source-prompts/PAGE_0246.txt) | [40問](question-sets/PAGE_0246.json) |
 | 247 | whatは『もの・こと』を包む | [PAGE_0247](pages/PAGE_0247.webp) | [原稿](source-prompts/PAGE_0247.txt) | [40問](question-sets/PAGE_0247.json) |
 | 248 | どんな条件でも結論は同じ | [PAGE_0248](pages/PAGE_0248.webp) | [原稿](source-prompts/PAGE_0248.txt) | [40問](question-sets/PAGE_0248.json) |
-| 249 | 疑問文は助動詞を前へ | [PAGE_0249](pages/PAGE_0249.webp) | [原稿](source-prompts/PAGE_0249.txt) | `pending` |
+| 249 | 疑問文は助動詞を前へ | [PAGE_0249](pages/PAGE_0249.webp) | [原稿](source-prompts/PAGE_0249.txt) | [40問](question-sets/PAGE_0249.json) |
 | 250 | 語順の移動に気持ちを乗せる | [PAGE_0250](pages/PAGE_0250.webp) | [原稿](source-prompts/PAGE_0250.txt) | [40問](question-sets/PAGE_0250.json) |
 
 ## たずねる・目立たせる（251〜266）

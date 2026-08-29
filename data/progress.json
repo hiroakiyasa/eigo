@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-29T09:09:52.412Z",
+  "updatedAt": "2026-08-29T09:11:50.326Z",
   "totalPages": 330,
-  "completedPages": 328,
+  "completedPages": 329,
   "questionsPerPage": 40,
   "totalPlannedQuestions": 13200,
   "pages": [
@@ -1994,9 +1994,9 @@
       "number": 249,
       "id": "grammar-master-0249",
       "title": "疑問文は助動詞を前へ",
-      "status": "pending",
+      "status": "complete",
       "output": "question-sets/PAGE_0249.json",
-      "completedAt": null
+      "completedAt": "2026-08-29T09:11:50.326Z"
     },
     {
       "number": 250,
