@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-29T05:31:07.015Z",
+  "updatedAt": "2026-08-29T05:31:21.050Z",
   "totalPages": 330,
-  "completedPages": 103,
+  "completedPages": 104,
   "questionsPerPage": 40,
   "totalPlannedQuestions": 13200,
   "pages": [
@@ -1562,9 +1562,9 @@
       "number": 195,
       "id": "grammar-master-0195",
       "title": "時の点・日・幅とover",
-      "status": "pending",
+      "status": "complete",
       "output": "question-sets/PAGE_0195.json",
-      "completedAt": null
+      "completedAt": "2026-08-29T05:31:21.050Z"
     },
     {
       "number": 196,
