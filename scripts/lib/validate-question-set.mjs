@@ -3,6 +3,11 @@ import { basename, dirname, resolve } from 'node:path';
 
 const LETTERS = ['A', 'B', 'C', 'D'];
 const DIFFICULTIES = new Set(['basic', 'intermediate', 'advanced']);
+const EXPECTED_DIFFICULTY_COUNTS = {
+  basic: 10,
+  intermediate: 20,
+  advanced: 10,
+};
 const EXPECTED_FORMAT_COUNTS = {
   'part5-cloze': 10,
   'correct-sentence': 10,
@@ -53,6 +58,7 @@ export function validateQuestionSet(filePath, expectedPageNumber) {
   const ids = new Set();
   const prompts = new Set();
   const answerCounts = Object.fromEntries(LETTERS.map((letter) => [letter, 0]));
+  const difficultyCounts = Object.fromEntries(Object.keys(EXPECTED_DIFFICULTY_COUNTS).map((difficulty) => [difficulty, 0]));
   const formatCounts = Object.fromEntries(Object.keys(EXPECTED_FORMAT_COUNTS).map((format) => [format, 0]));
   const formatAnswerCounts = Object.fromEntries(Object.keys(EXPECTED_FORMAT_COUNTS).map((format) => [format, Object.fromEntries(LETTERS.map((letter) => [letter, 0]))]));
   data.questions.forEach((question, index) => {
@@ -95,10 +101,14 @@ export function validateQuestionSet(filePath, expectedPageNumber) {
     text(question.explanationJa, `${prefix}.explanationJa`, errors, 10);
     text(question.focus, `${prefix}.focus`, errors);
     if (!DIFFICULTIES.has(question.difficulty)) errors.push(`${prefix}.difficulty must be basic, intermediate, or advanced`);
+    else difficultyCounts[question.difficulty] += 1;
   });
 
   for (const letter of LETTERS) {
     if (answerCounts[letter] !== 10) errors.push(`correctAnswer ${letter} must appear 10 times; got ${answerCounts[letter]}`);
+  }
+  for (const [difficulty, expected] of Object.entries(EXPECTED_DIFFICULTY_COUNTS)) {
+    if (difficultyCounts[difficulty] !== expected) errors.push(`difficulty ${difficulty} must appear ${expected} times; got ${difficultyCounts[difficulty]}`);
   }
   for (const [format, expected] of Object.entries(EXPECTED_FORMAT_COUNTS)) {
     if (formatCounts[format] !== expected) errors.push(`${format} must appear ${expected} times; got ${formatCounts[format]}`);
