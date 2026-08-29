@@ -272,7 +272,7 @@
 | 229 | 形容詞とtoの穴埋め関係 | [PAGE_0229](pages/PAGE_0229.webp) | [原稿](source-prompts/PAGE_0229.txt) | [40問](question-sets/PAGE_0229.json) |
 | 230 | wh＋toとit＋toで情報完成 | [PAGE_0230](pages/PAGE_0230.webp) | [原稿](source-prompts/PAGE_0230.txt) | [40問](question-sets/PAGE_0230.json) |
 | 231 | 長いtoは、後ろへ送る | [PAGE_0231](pages/PAGE_0231.webp) | [原稿](source-prompts/PAGE_0231.txt) | [40問](question-sets/PAGE_0231.json) |
-| 232 | toの前後で時間と否定を整える | [PAGE_0232](pages/PAGE_0232.webp) | [原稿](source-prompts/PAGE_0232.txt) | `pending` |
+| 232 | toの前後で時間と否定を整える | [PAGE_0232](pages/PAGE_0232.webp) | [原稿](source-prompts/PAGE_0232.txt) | [40問](question-sets/PAGE_0232.json) |
 | 233 | “する”から“される”へ視点移動 | [PAGE_0233](pages/PAGE_0233.webp) | [原稿](source-prompts/PAGE_0233.txt) | `pending` |
 | 234 | 受動文を選ぶ4つの理由 | [PAGE_0234](pages/PAGE_0234.webp) | [原稿](source-prompts/PAGE_0234.txt) | `pending` |
 | 235 | be＋過去分詞で受動文 | [PAGE_0235](pages/PAGE_0235.webp) | [原稿](source-prompts/PAGE_0235.txt) | `pending` |
@@ -284,7 +284,7 @@
 | 241 | get＋過去分詞は状態の変化 | [PAGE_0241](pages/PAGE_0241.webp) | [原稿](source-prompts/PAGE_0241.txt) | [40問](question-sets/PAGE_0241.json) |
 | 242 | 過去分詞は前で分類、後ろで説明 | [PAGE_0242](pages/PAGE_0242.webp) | [原稿](source-prompts/PAGE_0242.txt) | [40問](question-sets/PAGE_0242.json) |
 | 243 | 過去分詞で背景を先に描く | [PAGE_0243](pages/PAGE_0243.webp) | [原稿](source-prompts/PAGE_0243.txt) | [40問](question-sets/PAGE_0243.json) |
-| 244 | 節をひとまとまりの主語にする | [PAGE_0244](pages/PAGE_0244.webp) | [原稿](source-prompts/PAGE_0244.txt) | `pending` |
+| 244 | 節をひとまとまりの主語にする | [PAGE_0244](pages/PAGE_0244.webp) | [原稿](source-prompts/PAGE_0244.txt) | [40問](question-sets/PAGE_0244.json) |
 | 245 | whetherとwh節を名詞の席へ | [PAGE_0245](pages/PAGE_0245.webp) | [原稿](source-prompts/PAGE_0245.txt) | `pending` |
 | 246 | 節で中身を説明する | [PAGE_0246](pages/PAGE_0246.webp) | [原稿](source-prompts/PAGE_0246.txt) | `pending` |
 | 247 | whatは『もの・こと』を包む | [PAGE_0247](pages/PAGE_0247.webp) | [原稿](source-prompts/PAGE_0247.txt) | `pending` |

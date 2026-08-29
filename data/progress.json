@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-29T09:00:44.631Z",
+  "updatedAt": "2026-08-29T09:01:33.350Z",
   "totalPages": 330,
-  "completedPages": 318,
+  "completedPages": 320,
   "questionsPerPage": 40,
   "totalPlannedQuestions": 13200,
   "pages": [
@@ -1858,9 +1858,9 @@
       "number": 232,
       "id": "grammar-master-0232",
       "title": "toの前後で時間と否定を整える",
-      "status": "pending",
+      "status": "complete",
       "output": "question-sets/PAGE_0232.json",
-      "completedAt": null
+      "completedAt": "2026-08-29T09:01:32.719Z"
     },
     {
       "number": 233,
@@ -1954,9 +1954,9 @@
       "number": 244,
       "id": "grammar-master-0244",
       "title": "節をひとまとまりの主語にする",
-      "status": "pending",
+      "status": "complete",
       "output": "question-sets/PAGE_0244.json",
-      "completedAt": null
+      "completedAt": "2026-08-29T09:01:33.350Z"
     },
     {
       "number": 245,
