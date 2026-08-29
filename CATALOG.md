@@ -75,7 +75,7 @@
 
 | ページ | タイトル | 画像 | 制作原稿 | 問題 |
 |---:|---|---|---|---|
-| 60 | 名詞は、3つの目で見る | [PAGE_0060](pages/PAGE_0060.webp) | [原稿](source-prompts/PAGE_0060.txt) | `pending` |
+| 60 | 名詞は、3つの目で見る | [PAGE_0060](pages/PAGE_0060.webp) | [原稿](source-prompts/PAGE_0060.txt) | [40問](question-sets/PAGE_0060.json) |
 | 61 | 名詞は3回しぼり込む | [PAGE_0061](pages/PAGE_0061.webp) | [原稿](source-prompts/PAGE_0061.txt) | `pending` |
 | 62 | 名詞のかたちは、中心へ重ねる | [PAGE_0062](pages/PAGE_0062.webp) | [原稿](source-prompts/PAGE_0062.txt) | `pending` |
 | 63 | まとまり全体は、数えない | [PAGE_0063](pages/PAGE_0063.webp) | [原稿](source-prompts/PAGE_0063.txt) | `pending` |

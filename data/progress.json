@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-29T05:16:43.662Z",
+  "updatedAt": "2026-08-29T05:17:34.264Z",
   "totalPages": 330,
-  "completedPages": 69,
+  "completedPages": 70,
   "questionsPerPage": 40,
   "totalPlannedQuestions": 13200,
   "pages": [
@@ -482,9 +482,9 @@
       "number": 60,
       "id": "grammar-master-0060",
       "title": "名詞は、3つの目で見る",
-      "status": "pending",
+      "status": "complete",
       "output": "question-sets/PAGE_0060.json",
-      "completedAt": null
+      "completedAt": "2026-08-29T05:17:34.264Z"
     },
     {
       "number": 61,
