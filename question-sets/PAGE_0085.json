@@ -1,0 +1,673 @@
+{
+  "schemaVersion": 1,
+  "page": {
+    "number": 85,
+    "id": "grammar-master-0085",
+    "title": "someの温かさ、anyの自由",
+    "image": "pages/PAGE_0085.webp",
+    "sourcePrompt": "source-prompts/PAGE_0085.txt"
+  },
+  "analysis": {
+    "summaryJa": "someは話し手の側に存在や用意を感じる限定詞で、肯定文だけでなく、提供する提案や必要量を求める依頼でも自然に使う。一方anyは範囲を限定せず選択を開く。さらにsome＋単数名詞は、人物や物を特定せず、正体を重視しない含みを表せる。",
+    "grammarPoints": [
+      "some＋複数可算名詞／不可算名詞で不特定の数量を表す",
+      "提案・依頼の疑問文では肯定的な見込みを持つsomeを使う",
+      "some＋単数可算名詞で特定しない人物・物をぼかして示す",
+      "anyで制限のない選択を表す"
+    ],
+    "visualEvidence": [
+      "カフェで飲み物を差し出す絵が、someを用いる温かい提案を示す",
+      "カードを扇状に広げた絵が、anyによる自由選択を示す",
+      "影の人物とsome＋単数の注記が、正体をぼかす用法を示す",
+      "someは「こちらにある」、anyは「選択を開く」という下部対比"
+    ],
+    "commonTraps": [
+      "疑問文なら常にanyだと考え、提供・依頼でもanyを選ぶ",
+      "someの後ろで可算名詞を誤って単数にする",
+      "some＋単数名詞のぼかしの含みを通常の数量用法と混同する",
+      "自由選択のanyを不特定数量のsomeと取り違える"
+    ]
+  },
+  "questions": [
+    {
+      "id": "PAGE_0085_Q01",
+      "format": "part5-cloze",
+      "prompt": "The receptionist offered us ------- coffee while we waited.",
+      "choices": {
+        "A": "any",
+        "B": "a",
+        "C": "some",
+        "D": "many"
+      },
+      "correctAnswer": "C",
+      "translationJa": "受付担当者は私たちが待つ間、コーヒーを出してくれました。",
+      "explanationJa": "肯定文で用意されている不特定量の不可算名詞coffeeを表すためsomeが自然です。",
+      "focus": "some＋不可算名詞",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0085_Q02",
+      "format": "part5-cloze",
+      "prompt": "Would you like ------- help carrying the display panels?",
+      "choices": {
+        "A": "some",
+        "B": "any",
+        "C": "many",
+        "D": "a few"
+      },
+      "correctAnswer": "A",
+      "translationJa": "展示パネルを運ぶのをお手伝いしましょうか。",
+      "explanationJa": "相手に助けを申し出る提案で、話し手側に提供する意思があるためsomeを使います。",
+      "focus": "提案疑問文のsome",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0085_Q03",
+      "format": "part5-cloze",
+      "prompt": "Could we have ------- extra chairs for the briefing?",
+      "choices": {
+        "A": "any",
+        "B": "much",
+        "C": "each",
+        "D": "some"
+      },
+      "correctAnswer": "D",
+      "translationJa": "説明会用に追加の椅子を何脚かいただけますか。",
+      "explanationJa": "必要な複数の椅子を丁寧に求める依頼なのでsome extra chairsが適切です。",
+      "focus": "依頼疑問文のsome",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0085_Q04",
+      "format": "part5-cloze",
+      "prompt": "A caller said ------- technician had approved the change, but gave no name.",
+      "choices": {
+        "A": "any",
+        "B": "some",
+        "C": "every",
+        "D": "both"
+      },
+      "correctAnswer": "B",
+      "translationJa": "ある技術者が変更を承認したと電話の相手は言いましたが、名前は告げませんでした。",
+      "explanationJa": "単数名詞technicianの前のsomeは、人物を特定せず「どこかの技術者」とぼかします。",
+      "focus": "some＋単数可算名詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0085_Q05",
+      "format": "part5-cloze",
+      "prompt": "Please choose ------- seat in the waiting area.",
+      "choices": {
+        "A": "any",
+        "B": "some",
+        "C": "much",
+        "D": "every"
+      },
+      "correctAnswer": "A",
+      "translationJa": "待合所のどの席でもお選びください。",
+      "explanationJa": "選択に制限がなく、どれを選んでもよいのでanyが正解です。",
+      "focus": "自由選択のany",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0085_Q06",
+      "format": "part5-cloze",
+      "prompt": "We need ------- volunteers to guide visitors after lunch.",
+      "choices": {
+        "A": "any",
+        "B": "much",
+        "C": "some",
+        "D": "every"
+      },
+      "correctAnswer": "C",
+      "translationJa": "昼食後に来訪者を案内するボランティアが何人か必要です。",
+      "explanationJa": "肯定文で不特定の複数人数を表すsome volunteersが自然です。",
+      "focus": "some＋複数可算名詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0085_Q07",
+      "format": "part5-cloze",
+      "prompt": "May I ask you ------- questions about the warranty?",
+      "choices": {
+        "A": "any",
+        "B": "some",
+        "C": "much",
+        "D": "each"
+      },
+      "correctAnswer": "B",
+      "translationJa": "保証についていくつか質問してもよろしいですか。",
+      "explanationJa": "話し手が実際に尋ねたい複数の質問を念頭に置く依頼なのでsomeが自然です。",
+      "focus": "許可を求めるsome",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0085_Q08",
+      "format": "part5-cloze",
+      "prompt": "The memo was signed by ------- manager from headquarters.",
+      "choices": {
+        "A": "any",
+        "B": "all",
+        "C": "much",
+        "D": "some"
+      },
+      "correctAnswer": "D",
+      "translationJa": "そのメモには本社のどこかの管理職が署名していました。",
+      "explanationJa": "誰なのかを重視せず単数のmanagerをぼかすsomeの用法です。",
+      "focus": "some＋単数のぼかし",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0085_Q09",
+      "format": "part5-cloze",
+      "prompt": "Take ------- brochure that interests you; they are all free.",
+      "choices": {
+        "A": "some",
+        "B": "every",
+        "C": "any",
+        "D": "many"
+      },
+      "correctAnswer": "C",
+      "translationJa": "興味のあるパンフレットをどれでも取ってください。すべて無料です。",
+      "explanationJa": "that interests youで選択対象は一つですが、候補の制限がないためany brochureを使います。",
+      "focus": "any＋単数名詞の自由選択",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0085_Q10",
+      "format": "part5-cloze",
+      "prompt": "Would you care for ------- refreshments before the workshop begins?",
+      "choices": {
+        "A": "some",
+        "B": "any",
+        "C": "each",
+        "D": "much"
+      },
+      "correctAnswer": "A",
+      "translationJa": "研修会が始まる前に軽食はいかがですか。",
+      "explanationJa": "用意済みのrefreshmentsを勧める丁寧な提案なのでsomeが最も自然です。",
+      "focus": "丁寧な提案とsome",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0085_Q11",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence for a host offering refreshments.",
+      "choices": {
+        "A": "Would you like any fruits while you wait?",
+        "B": "Would you like some fruit while you wait?",
+        "C": "Would you like much fruit while you wait?",
+        "D": "Would you like every fruit while you wait?"
+      },
+      "correctAnswer": "B",
+      "translationJa": "お待ちの間、果物はいかがですか。",
+      "explanationJa": "提供の申し出ではsomeを使い、fruitはここでは不可算的に食べ物を表します。",
+      "focus": "提供を表すsome",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0085_Q12",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about requesting office supplies.",
+      "choices": {
+        "A": "Could I have any envelope for these invoices?",
+        "B": "Could I have much envelopes for these invoices?",
+        "C": "Could I have some envelope for these invoices?",
+        "D": "Could I have some envelopes for these invoices?"
+      },
+      "correctAnswer": "D",
+      "translationJa": "これらの請求書用に封筒を何枚かいただけますか。",
+      "explanationJa": "依頼のsomeに複数可算名詞envelopesを続けた文が正しいです。",
+      "focus": "依頼のsome＋複数名詞",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0085_Q13",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about an unidentified visitor.",
+      "choices": {
+        "A": "Some customer left an umbrella near the counter.",
+        "B": "Some customers left an umbrella, but only one person did it.",
+        "C": "Any customer left an umbrella near the counter.",
+        "D": "Some customer leave an umbrella near the counter."
+      },
+      "correctAnswer": "A",
+      "translationJa": "どこかのお客様がカウンターの近くに傘を置き忘れました。",
+      "explanationJa": "some＋単数customerは正体をぼかし、単数主語なのでleftと結び付きます。",
+      "focus": "some＋単数による不特定人物",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0085_Q14",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence giving a customer free choice.",
+      "choices": {
+        "A": "You may select some delivery window, whichever you like.",
+        "B": "You may select much delivery window shown online.",
+        "C": "You may select any delivery window shown online.",
+        "D": "You may select every delivery window for one order."
+      },
+      "correctAnswer": "C",
+      "translationJa": "オンラインに表示された配送時間帯をどれでも選べます。",
+      "explanationJa": "どの一つを選んでもよい自由選択にはany＋単数名詞を使います。",
+      "focus": "anyの自由選択",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0085_Q15",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about an unspecified amount of equipment.",
+      "choices": {
+        "A": "The branch needs some new equipments for its studio.",
+        "B": "The branch needs any new equipment in this affirmative statement.",
+        "C": "The branch needs many new equipment for its studio.",
+        "D": "The branch needs some new equipment for its studio."
+      },
+      "correctAnswer": "D",
+      "translationJa": "その支店はスタジオ用に新しい設備をいくらか必要としています。",
+      "explanationJa": "equipmentは不可算名詞なので複数形にせず、肯定文の不特定量にはsomeを使います。",
+      "focus": "some＋不可算名詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0085_Q16",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence asking politely for information.",
+      "choices": {
+        "A": "Could you give me an information about the shuttle?",
+        "B": "Could you give me some information about the shuttle?",
+        "C": "Could you give me many information about the shuttle?",
+        "D": "Could you give me some informations about the shuttle?"
+      },
+      "correctAnswer": "B",
+      "translationJa": "送迎バスについて情報をいただけますか。",
+      "explanationJa": "丁寧な依頼のsomeと不可算名詞informationの組み合わせが正しいです。",
+      "focus": "依頼と不可算名詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0085_Q17",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about an unrestricted option.",
+      "choices": {
+        "A": "Employees may use some entrance, with no restriction at all.",
+        "B": "Employees may use much entrance after 7 a.m.",
+        "C": "Employees may use any entrance after 7 a.m.",
+        "D": "Employees may use any entrances for one arrival."
+      },
+      "correctAnswer": "C",
+      "translationJa": "従業員は午前7時以降、どの入口を使ってもかまいません。",
+      "explanationJa": "どの一つでもよいという意味ではany＋単数名詞entranceが自然です。",
+      "focus": "any＋単数名詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0085_Q18",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about a vague source.",
+      "choices": {
+        "A": "Some website reported the rumor without evidence.",
+        "B": "Some websites reported the rumor, although exactly one site did.",
+        "C": "Any website reported the rumor without evidence.",
+        "D": "Some website were reporting the rumor without evidence."
+      },
+      "correctAnswer": "A",
+      "translationJa": "どこかのウェブサイトが根拠なくそのうわさを報じました。",
+      "explanationJa": "some＋単数websiteは、どのサイトかを特定・重視しない含みを作ります。",
+      "focus": "some＋単数の軽視",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0085_Q19",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence for a server making an offer.",
+      "choices": {
+        "A": "May I bring you any waters before the meal?",
+        "B": "May I bring you many water before the meal?",
+        "C": "May I bring you every water before the meal?",
+        "D": "May I bring you some water before the meal?"
+      },
+      "correctAnswer": "D",
+      "translationJa": "お食事の前にお水をお持ちしましょうか。",
+      "explanationJa": "提供する準備がある申し出なのでsome waterが自然で、waterは不可算です。",
+      "focus": "申し出のsome＋不可算名詞",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0085_Q20",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about several pending tasks.",
+      "choices": {
+        "A": "We still have any reports to review in this affirmative statement.",
+        "B": "We still have some reports to review this afternoon.",
+        "C": "We still have some report to review, meaning several reports.",
+        "D": "We still have much reports to review this afternoon."
+      },
+      "correctAnswer": "B",
+      "translationJa": "今日の午後に確認すべき報告書がまだいくつかあります。",
+      "explanationJa": "肯定文で不特定の複数を示すためsome reportsを用います。",
+      "focus": "some＋複数可算名詞",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0085_Q21",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"Would you like some tea?\"",
+      "choices": {
+        "A": "I am asking whether tea exists anywhere.",
+        "B": "I am forbidding you to drink tea.",
+        "C": "I am telling you to choose every tea.",
+        "D": "I am offering you tea."
+      },
+      "correctAnswer": "D",
+      "translationJa": "紅茶をお出ししましょうか。",
+      "explanationJa": "someを使う疑問文は、単なる有無確認ではなく相手への提供を表しています。",
+      "focus": "提案のsomeの意味",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0085_Q22",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"Could I have some copies?\"",
+      "choices": {
+        "A": "I am offering copies to someone else.",
+        "B": "I am politely requesting several copies.",
+        "C": "I am saying that no copies are needed.",
+        "D": "I am asking to choose any single copy freely."
+      },
+      "correctAnswer": "B",
+      "translationJa": "コピーを何部か丁寧にお願いしています。",
+      "explanationJa": "some copiesを含むCould I have ...?は、必要な複数量を求める依頼です。",
+      "focus": "依頼のsomeの意味",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0085_Q23",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"Some consultant called this morning.\"",
+      "choices": {
+        "A": "Several consultants definitely called this morning.",
+        "B": "Every consultant called this morning.",
+        "C": "An unidentified consultant called this morning.",
+        "D": "Any consultant was allowed to call this morning."
+      },
+      "correctAnswer": "C",
+      "translationJa": "今朝、身元を特定していないコンサルタントから電話がありました。",
+      "explanationJa": "some＋単数名詞は、話し手が人物を特定しない、または重視しないことを表します。",
+      "focus": "some＋単数の言い換え",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0085_Q24",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"Pick any sample you prefer.\"",
+      "choices": {
+        "A": "Whichever sample you prefer may be chosen.",
+        "B": "You must choose all the samples.",
+        "C": "Only a particular sample may be chosen.",
+        "D": "Some samples are unavailable for selection."
+      },
+      "correctAnswer": "A",
+      "translationJa": "好みのサンプルをどれでも選べます。",
+      "explanationJa": "anyは候補を限定せず、whichever ...と同じ自由選択を表します。",
+      "focus": "anyとwhicheverの対応",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0085_Q25",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"We have some time before boarding.\"",
+      "choices": {
+        "A": "No time remains before boarding.",
+        "B": "A certain amount of time remains before boarding.",
+        "C": "Every boarding time remains available.",
+        "D": "We can choose any boarding time."
+      },
+      "correctAnswer": "B",
+      "translationJa": "搭乗までにいくらか時間が残っています。",
+      "explanationJa": "some timeは、正確な量を特定しないものの時間が存在することを示します。",
+      "focus": "some＋不可算名詞の意味",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0085_Q26",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"Would you like some assistance?\"",
+      "choices": {
+        "A": "The speaker doubts that assistance exists.",
+        "B": "The speaker refuses to provide assistance.",
+        "C": "The listener may choose any assistant.",
+        "D": "The speaker is offering assistance."
+      },
+      "correctAnswer": "D",
+      "translationJa": "話し手は手助けを申し出ています。",
+      "explanationJa": "Would you like some ...?は、提供可能なものを相手に勧める表現です。",
+      "focus": "申し出表現の理解",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0085_Q27",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"Some clerk misplaced the receipt.\"",
+      "choices": {
+        "A": "The speaker does not identify which clerk misplaced it.",
+        "B": "Several named clerks misplaced it together.",
+        "C": "No clerk misplaced the receipt.",
+        "D": "Every clerk was free to misplace it."
+      },
+      "correctAnswer": "A",
+      "translationJa": "どの店員がレシートを置き違えたのか、話し手は特定していません。",
+      "explanationJa": "some clerkは単数で、人物の正体をぼかす働きがあります。",
+      "focus": "ぼかしのsome",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0085_Q28",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"Use any available terminal.\"",
+      "choices": {
+        "A": "You must use all available terminals at once.",
+        "B": "Only one specified terminal is acceptable.",
+        "C": "Every available terminal is an acceptable choice.",
+        "D": "No available terminal may be used."
+      },
+      "correctAnswer": "C",
+      "translationJa": "空いている端末ならどれを選んでもかまいません。",
+      "explanationJa": "anyは一つを選ぶ際に全候補を許容する意味で、every ... is acceptableと言い換えられます。",
+      "focus": "自由選択anyの言い換え",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0085_Q29",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"May we have some advice?\"",
+      "choices": {
+        "A": "We are politely asking for advice.",
+        "B": "We are offering advice to the listener.",
+        "C": "We are asking whether any adviser is present.",
+        "D": "We are rejecting all advice."
+      },
+      "correctAnswer": "A",
+      "translationJa": "私たちは助言を丁寧に求めています。",
+      "explanationJa": "some adviceを伴うMay we have ...?は、不可算の助言を求める依頼です。",
+      "focus": "依頼とsome advice",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0085_Q30",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"You can contact any representative.\"",
+      "choices": {
+        "A": "You need to contact every representative.",
+        "B": "You may contact only a previously named representative.",
+        "C": "Some representatives cannot be contacted.",
+        "D": "It does not matter which representative you contact."
+      },
+      "correctAnswer": "D",
+      "translationJa": "どの担当者に連絡してもかまいません。",
+      "explanationJa": "any representativeは、どの一人を選ぶかに制限がないことを示します。",
+      "focus": "anyの非限定性",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0085_Q31",
+      "format": "context-completion",
+      "prompt": "The café has prepared a tray for the visiting team. Would they like ------- sandwiches before the tour?",
+      "choices": {
+        "A": "any",
+        "B": "much",
+        "C": "some",
+        "D": "each"
+      },
+      "correctAnswer": "C",
+      "translationJa": "カフェは訪問チーム用にトレーを用意しました。見学前にサンドイッチはいかがですか。",
+      "explanationJa": "用意済みの品を勧める提案なのでsome sandwichesが自然です。",
+      "focus": "文脈上の提案とsome",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0085_Q32",
+      "format": "context-completion",
+      "prompt": "I am completing the expense form now. Could you send me ------- details about the taxi fare?",
+      "choices": {
+        "A": "any",
+        "B": "some",
+        "C": "every",
+        "D": "a"
+      },
+      "correctAnswer": "B",
+      "translationJa": "今、経費申請書を作成しています。タクシー料金について詳しい情報を送っていただけますか。",
+      "explanationJa": "具体的に必要な情報を丁寧に求めているためsome detailsを使います。",
+      "focus": "文脈上の依頼とsome",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0085_Q33",
+      "format": "context-completion",
+      "prompt": "No name appears on the maintenance note. It seems that ------- employee reported the leak anonymously.",
+      "choices": {
+        "A": "any",
+        "B": "all",
+        "C": "much",
+        "D": "some"
+      },
+      "correctAnswer": "D",
+      "translationJa": "保守メモには名前がありません。どこかの従業員が匿名で水漏れを報告したようです。",
+      "explanationJa": "名前がなく人物を特定しない文脈なのでsome＋単数employeeが適切です。",
+      "focus": "匿名人物をぼかすsome",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0085_Q34",
+      "format": "context-completion",
+      "prompt": "All four colors are in stock at the same price. You may order ------- color for the reception chairs.",
+      "choices": {
+        "A": "any",
+        "B": "some",
+        "C": "every",
+        "D": "much"
+      },
+      "correctAnswer": "A",
+      "translationJa": "4色すべて同じ価格で在庫があります。受付用の椅子にはどの色を注文してもかまいません。",
+      "explanationJa": "すべてが等しく選択可能な文脈なのでany colorを使います。",
+      "focus": "自由選択のany",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0085_Q35",
+      "format": "context-completion",
+      "prompt": "The shipment arrived with extra packing material. We can reuse ------- of it for tomorrow’s orders.",
+      "choices": {
+        "A": "any",
+        "B": "many",
+        "C": "some",
+        "D": "a few"
+      },
+      "correctAnswer": "C",
+      "translationJa": "荷物には余分な梱包材が入っていました。その一部を明日の注文に再利用できます。",
+      "explanationJa": "肯定文で不可算的に扱うpacking materialの一部を表すsome of itが自然です。",
+      "focus": "some of＋代名詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0085_Q36",
+      "format": "context-completion",
+      "prompt": "The concierge is ready to arrange transportation. Would you like ------- recommendations for local taxi services?",
+      "choices": {
+        "A": "any",
+        "B": "some",
+        "C": "much",
+        "D": "every"
+      },
+      "correctAnswer": "B",
+      "translationJa": "コンシェルジュは交通手段の手配ができます。地元のタクシー会社をいくつかご案内しましょうか。",
+      "explanationJa": "相手に候補を提供する申し出なのでsome recommendationsが適切です。",
+      "focus": "提供提案のsome",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0085_Q37",
+      "format": "context-completion",
+      "prompt": "The online form accepts all standard image formats. Attach ------- file type listed in the instructions.",
+      "choices": {
+        "A": "any",
+        "B": "some",
+        "C": "many",
+        "D": "each"
+      },
+      "correctAnswer": "A",
+      "translationJa": "オンラインフォームは標準的な画像形式をすべて受け付けます。説明に記載されたどのファイル形式でも添付できます。",
+      "explanationJa": "許容された一覧から自由に一つ選べるためanyを使います。",
+      "focus": "許可を表すany",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0085_Q38",
+      "format": "context-completion",
+      "prompt": "The complaint mentions a manager but provides no identifying details. ------- supervisor apparently promised a refund.",
+      "choices": {
+        "A": "any",
+        "B": "every",
+        "C": "both",
+        "D": "some"
+      },
+      "correctAnswer": "D",
+      "translationJa": "苦情には管理職のことが書かれていますが、特定情報はありません。どこかの上司が返金を約束したようです。",
+      "explanationJa": "人物の正体を意図的にぼかすsome＋単数supervisorが適切です。",
+      "focus": "some＋単数の不特定性",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0085_Q39",
+      "format": "context-completion",
+      "prompt": "Our guests have just arrived after a long flight. Shall I bring them ------- refreshments before registration?",
+      "choices": {
+        "A": "any",
+        "B": "some",
+        "C": "much",
+        "D": "each"
+      },
+      "correctAnswer": "B",
+      "translationJa": "お客様は長いフライトの後に到着したばかりです。受付前に軽食をお持ちしましょうか。",
+      "explanationJa": "相手のために用意・提供する提案なのでsome refreshmentsが自然です。",
+      "focus": "Shall Iとsomeの提案",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0085_Q40",
+      "format": "context-completion",
+      "prompt": "Every desk is equipped identically, and no station is reserved. New staff members may use ------- desk that is free.",
+      "choices": {
+        "A": "some",
+        "B": "every",
+        "C": "any",
+        "D": "many"
+      },
+      "correctAnswer": "C",
+      "translationJa": "どの机も同じ設備で予約席はありません。新しい職員は空いている机をどれでも使えます。",
+      "explanationJa": "制限のない選択を表し、that is freeで候補条件を示すany deskが正解です。",
+      "focus": "条件付き自由選択のany",
+      "difficulty": "advanced"
+    }
+  ]
+}
