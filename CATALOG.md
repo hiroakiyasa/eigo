@@ -215,7 +215,7 @@
 | 182 | 代名詞は句動詞の真ん中へ | [PAGE_0182](pages/PAGE_0182.webp) | [原稿](source-prompts/PAGE_0182.txt) | [40問](question-sets/PAGE_0182.json) |
 | 183 | at・in・onは同じ場所でも変わる | [PAGE_0183](pages/PAGE_0183.webp) | [原稿](source-prompts/PAGE_0183.txt) | [40問](question-sets/PAGE_0183.json) |
 | 184 | 前置詞は“感じた景色”で選ぶ | [PAGE_0184](pages/PAGE_0184.webp) | [原稿](source-prompts/PAGE_0184.txt) | [40問](question-sets/PAGE_0184.json) |
-| 185 | above・across・afterを動きでつかむ | [PAGE_0185](pages/PAGE_0185.webp) | [原稿](source-prompts/PAGE_0185.txt) | `pending` |
+| 185 | above・across・afterを動きでつかむ | [PAGE_0185](pages/PAGE_0185.webp) | [原稿](source-prompts/PAGE_0185.txt) | [40問](question-sets/PAGE_0185.json) |
 | 186 | against・along・among・aroundの地図 | [PAGE_0186](pages/PAGE_0186.webp) | [原稿](source-prompts/PAGE_0186.txt) | `pending` |
 | 187 | atは一点、beforeは順序の前 | [PAGE_0187](pages/PAGE_0187.webp) | [原稿](source-prompts/PAGE_0187.txt) | `pending` |
 | 188 | 背後・間・境界・近さを見分ける | [PAGE_0188](pages/PAGE_0188.webp) | [原稿](source-prompts/PAGE_0188.txt) | `pending` |
