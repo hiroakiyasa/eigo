@@ -1,0 +1,676 @@
+{
+  "schemaVersion": 1,
+  "page": {
+    "number": 232,
+    "id": "grammar-master-0232",
+    "title": "toの前後で時間と否定を整える",
+    "image": "pages/PAGE_0232.webp",
+    "sourcePrompt": "source-prompts/PAGE_0232.txt"
+  },
+  "analysis": {
+    "summaryJa": "to不定詞の時間は述語の基準時との関係で選ぶ。順序が文脈から明白なら単純不定詞で十分だが、それ以前の完了を明示する場合はto have＋過去分詞を用いる。不定詞の内容を否定するときはnotをtoの直前に置いてnot to＋動詞原形とし、必要以上の完了形や不自然な否定位置を避ける。",
+    "grammarPoints": [
+      "単純不定詞で表す明白な時間関係",
+      "to have＋過去分詞による基準時以前",
+      "seem / appear / claim＋完了不定詞",
+      "promise / decide / try＋not to",
+      "否定対象に最も近いnotの位置",
+      "不要な完了不定詞を避ける判断"
+    ],
+    "visualEvidence": [
+      "時間装置がSIMPLE TOとPERFECT TO HAVE DONEを分岐している",
+      "完了不定詞の砂時計が過去側を指している",
+      "NOTの盾がtoの直前に配置されている",
+      "自然と重すぎの天秤が不要な完了形を警告している"
+    ],
+    "commonTraps": [
+      "notを不定詞から離して主動詞を否定する",
+      "to notの語順を無自覚に選ぶ",
+      "to haveの後に原形を置く",
+      "基準時より前なのに単純不定詞で同時・未来に読ませる",
+      "順序が明白な目的不定詞を不必要に完了形にする"
+    ]
+  },
+  "questions": [
+    {
+      "id": "PAGE_0232_Q01",
+      "format": "part5-cloze",
+      "prompt": "The contractor appears ------- the repair before the inspector arrived.",
+      "choices": {
+        "A": "to complete tomorrow",
+        "B": "completing after",
+        "C": "to have completed",
+        "D": "to have complete"
+      },
+      "correctAnswer": "C",
+      "translationJa": "請負業者は検査官の到着前に修理を完了していたようです。",
+      "explanationJa": "完了は現在のappearsより前なのでto have completedです。",
+      "focus": "appear＋完了不定詞",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0232_Q02",
+      "format": "part5-cloze",
+      "prompt": "Staff members were reminded ------- confidential files on personal devices.",
+      "choices": {
+        "A": "not to store",
+        "B": "to not storing",
+        "C": "not storing to",
+        "D": "to have not store"
+      },
+      "correctAnswer": "A",
+      "translationJa": "職員は機密ファイルを個人端末に保存しないよう注意されました。",
+      "explanationJa": "不定詞の内容storeを否定する標準語順はnot to storeです。",
+      "focus": "not to＋原形",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0232_Q03",
+      "format": "part5-cloze",
+      "prompt": "The finance director claims ------- the revised budget to every department yesterday.",
+      "choices": {
+        "A": "to send tomorrow",
+        "B": "to have send",
+        "C": "sending to",
+        "D": "to have sent"
+      },
+      "correctAnswer": "D",
+      "translationJa": "財務責任者は昨日、改訂予算を全部門へ送ったと主張しています。",
+      "explanationJa": "昨日の送付は現在のclaimsより前なので完了不定詞です。",
+      "focus": "claim to have done",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0232_Q04",
+      "format": "part5-cloze",
+      "prompt": "Please try ------- the barcode while attaching the shipping label.",
+      "choices": {
+        "A": "to not covering",
+        "B": "not to cover",
+        "C": "not cover to",
+        "D": "to have not covered"
+      },
+      "correctAnswer": "B",
+      "translationJa": "配送ラベルを貼る際はバーコードを覆わないようにしてください。",
+      "explanationJa": "try not to＋原形で避けるべき行為を表します。",
+      "focus": "try not to",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0232_Q05",
+      "format": "part5-cloze",
+      "prompt": "The missing package seems ------- at the wrong distribution center.",
+      "choices": {
+        "A": "to have been delivered",
+        "B": "to deliver tomorrow",
+        "C": "to have delivering",
+        "D": "being deliver to"
+      },
+      "correctAnswer": "A",
+      "translationJa": "紛失した荷物は誤った配送センターへ届けられたようです。",
+      "explanationJa": "過去の受動出来事なのでto have been deliveredが適切です。",
+      "focus": "完了不定詞の受動",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0232_Q06",
+      "format": "part5-cloze",
+      "prompt": "The manager decided ------- the announcement until the figures were verified.",
+      "choices": {
+        "A": "to not releasing",
+        "B": "not releasing to",
+        "C": "not to release",
+        "D": "to have not release"
+      },
+      "correctAnswer": "C",
+      "translationJa": "管理者は数値確認まで発表を公開しないと決めました。",
+      "explanationJa": "decided not to releaseが不定詞否定の標準形です。",
+      "focus": "decide not to",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0232_Q07",
+      "format": "part5-cloze",
+      "prompt": "We were delighted ------- that the client had renewed the contract.",
+      "choices": {
+        "A": "to have learned tomorrow",
+        "B": "to learn",
+        "C": "learning to",
+        "D": "to have been learn"
+      },
+      "correctAnswer": "B",
+      "translationJa": "顧客が契約を更新したと知って、私たちは喜びました。",
+      "explanationJa": "知ったことと喜びの順序が明白なので単純不定詞で自然です。",
+      "focus": "明白な順序と単純不定詞",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0232_Q08",
+      "format": "part5-cloze",
+      "prompt": "The former employee is believed ------- access to the database after leaving the company.",
+      "choices": {
+        "A": "to retain next year",
+        "B": "to have retaining",
+        "C": "retained to",
+        "D": "to have retained"
+      },
+      "correctAnswer": "D",
+      "translationJa": "その元従業員は退職後もデータベースへのアクセス権を保持していたと考えられています。",
+      "explanationJa": "保持は現在のbeliefより前なのでto have retainedです。",
+      "focus": "be believed to have done",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0232_Q09",
+      "format": "part5-cloze",
+      "prompt": "Drivers are asked ------- engines running beside the loading dock.",
+      "choices": {
+        "A": "not to leave",
+        "B": "to not leaving",
+        "C": "not leaving to",
+        "D": "to have not left"
+      },
+      "correctAnswer": "A",
+      "translationJa": "運転手は搬入口脇でエンジンをかけたままにしないよう求められています。",
+      "explanationJa": "asked not to leaveが否定不定詞の正しい形です。",
+      "focus": "ask A not to",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0232_Q10",
+      "format": "part5-cloze",
+      "prompt": "The software update is reported ------- several login errors overnight.",
+      "choices": {
+        "A": "to cause tomorrow",
+        "B": "to have caused",
+        "C": "to have cause",
+        "D": "causing to"
+      },
+      "correctAnswer": "B",
+      "translationJa": "ソフトウェア更新が夜間に複数のログインエラーを引き起こしたと報告されています。",
+      "explanationJa": "夜間の原因は現在のreportedより前なので完了不定詞です。",
+      "focus": "be reported to have done",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0232_Q11",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence with a correctly formed perfect infinitive.",
+      "choices": {
+        "A": "The supplier seems to have ship the replacement yesterday.",
+        "B": "The supplier seems to shipped the replacement yesterday.",
+        "C": "The supplier seems having shipped to the replacement yesterday.",
+        "D": "The supplier seems to have shipped the replacement yesterday."
+      },
+      "correctAnswer": "D",
+      "translationJa": "供給業者は昨日交換品を発送したようです。",
+      "explanationJa": "to haveの後に過去分詞shippedを置く正しい完了不定詞です。",
+      "focus": "to have＋過去分詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0232_Q12",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence with the standard position of infinitive negation.",
+      "choices": {
+        "A": "We agreed to not discussing the proposal outside the meeting.",
+        "B": "We agreed not to discuss the proposal outside the meeting.",
+        "C": "We not agreed to discuss the proposal outside the meeting.",
+        "D": "We agreed not discuss to the proposal outside."
+      },
+      "correctAnswer": "B",
+      "translationJa": "会議外では提案について話さないことで合意しました。",
+      "explanationJa": "否定するto discussの直前にnotを置く標準形です。",
+      "focus": "not toの語順",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0232_Q13",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that correctly expresses an earlier passive event.",
+      "choices": {
+        "A": "The documents appear to have removed before noon.",
+        "B": "The documents appear to been removed before noon.",
+        "C": "The documents appear to have been removed before noon.",
+        "D": "The documents appear having been remove before noon."
+      },
+      "correctAnswer": "C",
+      "translationJa": "書類は正午前に持ち出されたようです。",
+      "explanationJa": "受動の完了不定詞to have been removedが正しい形です。",
+      "focus": "to have been＋過去分詞",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0232_Q14",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that uses a simple infinitive naturally when sequence is obvious.",
+      "choices": {
+        "A": "I was pleased to receive your prompt response.",
+        "B": "I was pleased to have receive your response tomorrow.",
+        "C": "I was pleased receiving to your prompt response.",
+        "D": "I pleased to having received your response."
+      },
+      "correctAnswer": "A",
+      "translationJa": "迅速なご返信をいただき、うれしく思いました。",
+      "explanationJa": "受領後に喜ぶ流れが明白なので単純不定詞to receiveで自然です。",
+      "focus": "単純不定詞の自然さ",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0232_Q15",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that correctly negates the requested action.",
+      "choices": {
+        "A": "Please not remember to lock the emergency exit.",
+        "B": "Please remember to not locking the emergency exit.",
+        "C": "Please remember not locking to the emergency exit.",
+        "D": "Please remember not to lock the emergency exit."
+      },
+      "correctAnswer": "D",
+      "translationJa": "非常口を施錠しないよう覚えておいてください。",
+      "explanationJa": "remember not to lockは施錠行為そのものを否定します。",
+      "focus": "remember not to",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0232_Q16",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that correctly reports an earlier event.",
+      "choices": {
+        "A": "The director is said to approve the plan next week last week.",
+        "B": "The director is said to have approve the plan last week.",
+        "C": "The director is said to have approved the plan last week.",
+        "D": "The director said to having approved the plan last week."
+      },
+      "correctAnswer": "C",
+      "translationJa": "取締役は先週その計画を承認したと言われています。",
+      "explanationJa": "承認が現在のis saidより前なので完了不定詞です。",
+      "focus": "is said to have done",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0232_Q17",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence with the correct negative infinitive after “warn”.",
+      "choices": {
+        "A": "The guard warned visitors to not entering the restricted area.",
+        "B": "The guard warned visitors not to enter the restricted area.",
+        "C": "The guard not warned visitors to enter the restricted area.",
+        "D": "The guard warned not visitors enter to the area."
+      },
+      "correctAnswer": "B",
+      "translationJa": "警備員は来訪者に立入制限区域へ入らないよう警告しました。",
+      "explanationJa": "warn＋目的語＋not to＋原形の語順が正しいです。",
+      "focus": "warn A not to",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0232_Q18",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that correctly distinguishes an earlier action from the present claim.",
+      "choices": {
+        "A": "The applicant claims to have work at the branch in 2024.",
+        "B": "The applicant claims working to at the branch in 2024.",
+        "C": "The applicant to claims have worked at the branch.",
+        "D": "The applicant claims to have worked at the Osaka branch in 2024."
+      },
+      "correctAnswer": "D",
+      "translationJa": "応募者は2024年に大阪支店で働いていたと主張しています。",
+      "explanationJa": "過去の勤務を現在のclaimsから遡る完了不定詞です。",
+      "focus": "claims to have worked",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0232_Q19",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that avoids an unnecessarily heavy perfect infinitive.",
+      "choices": {
+        "A": "We were happy to have heard the good news at the moment we heard it.",
+        "B": "We were happy having to hear the good news.",
+        "C": "We were happy to hear the good news.",
+        "D": "We happy to have hear the good news."
+      },
+      "correctAnswer": "C",
+      "translationJa": "よい知らせを聞いて私たちはうれしく思いました。",
+      "explanationJa": "聞くことが喜びのきっかけと明白なので単純不定詞が自然です。",
+      "focus": "不要な完了形の回避",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0232_Q20",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence with the correct form after “not to”.",
+      "choices": {
+        "A": "Employees were instructed not to share their access codes.",
+        "B": "Employees were instructed not to shared their access codes.",
+        "C": "Employees were instructed to not sharing their access codes.",
+        "D": "Employees not instructed to share access codes were."
+      },
+      "correctAnswer": "A",
+      "translationJa": "従業員はアクセスコードを共有しないよう指示されました。",
+      "explanationJa": "not toの後には動詞原形shareを置きます。",
+      "focus": "not to＋動詞原形",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0232_Q21",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “The tenant seems to have moved out.”",
+      "choices": {
+        "A": "It appears that the tenant moved out earlier.",
+        "B": "The tenant plans to move out later.",
+        "C": "The tenant is moving in at this moment.",
+        "D": "No one believes the tenant has left."
+      },
+      "correctAnswer": "A",
+      "translationJa": "借主はすでに退去したようです。",
+      "explanationJa": "完了不定詞がseemsの時点より前の退去を示します。",
+      "focus": "seem to have doneの意味",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0232_Q22",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “We decided not to extend the deadline.”",
+      "choices": {
+        "A": "We decided to make the deadline later.",
+        "B": "The deadline was extended before any decision.",
+        "C": "We avoided deciding whether a deadline existed.",
+        "D": "We made a decision that the deadline would remain unchanged."
+      },
+      "correctAnswer": "D",
+      "translationJa": "期限を変更しないことに決めました。",
+      "explanationJa": "not to extendは延長という行為を否定しています。",
+      "focus": "decide not toの意味",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0232_Q23",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “The painting is believed to have been stolen at night.”",
+      "choices": {
+        "A": "People expect the painting to be stolen tomorrow.",
+        "B": "The painting is believed to have stolen someone.",
+        "C": "People believe that someone stole the painting during the night.",
+        "D": "No one thinks the painting ever left the gallery."
+      },
+      "correctAnswer": "C",
+      "translationJa": "その絵は夜間に誰かに盗まれたと考えられています。",
+      "explanationJa": "受動完了不定詞をthat節の過去出来事へ展開しています。",
+      "focus": "受動完了不定詞の言い換え",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0232_Q24",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “Please try not to fold the receipt.”",
+      "choices": {
+        "A": "Please fold the receipt as tightly as possible.",
+        "B": "Please make an effort to keep the receipt unfolded.",
+        "C": "Please avoid trying to keep any receipt.",
+        "D": "The receipt was folded before you received it."
+      },
+      "correctAnswer": "B",
+      "translationJa": "領収書を折らないよう努めてください。",
+      "explanationJa": "try not to foldは折る行為を避ける努力を求めます。",
+      "focus": "try not toの意味",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0232_Q25",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “The company claims to have reduced waste.”",
+      "choices": {
+        "A": "The company says that it has already reduced waste.",
+        "B": "The company promises to reduce waste at an unspecified future time only.",
+        "C": "The company denies that any waste exists.",
+        "D": "Waste claims that the company has increased."
+      },
+      "correctAnswer": "A",
+      "translationJa": "会社は廃棄物をすでに削減したと述べています。",
+      "explanationJa": "to have reducedは現在の主張より前の達成を示します。",
+      "focus": "claim to have doneの言い換え",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0232_Q26",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “Mina promised not to reveal the password.”",
+      "choices": {
+        "A": "Mina promised to announce the password publicly.",
+        "B": "Mina denied ever making a promise.",
+        "C": "Mina promised that she would keep the password secret.",
+        "D": "The password revealed Mina’s secret."
+      },
+      "correctAnswer": "C",
+      "translationJa": "ミナはパスワードを秘密にすると約束しました。",
+      "explanationJa": "not to revealは明かさない約束を表します。",
+      "focus": "promise not toの意味",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0232_Q27",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “The parcel appears to have been damaged in transit.”",
+      "choices": {
+        "A": "The parcel will be damaged after delivery tomorrow.",
+        "B": "The parcel appears to damage other shipments.",
+        "C": "Transportation repaired the undamaged parcel.",
+        "D": "It seems that the parcel was damaged while it was being transported."
+      },
+      "correctAnswer": "D",
+      "translationJa": "荷物は輸送中に破損したようです。",
+      "explanationJa": "to have been damagedは現在より前の受動的な破損を表します。",
+      "focus": "完了受動不定詞の意味",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0232_Q28",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “We were glad to meet the new regional manager.”",
+      "choices": {
+        "A": "Meeting the new regional manager made us glad.",
+        "B": "We regretted avoiding the regional manager.",
+        "C": "The manager was glad not to meet us.",
+        "D": "We had met the manager years before and felt nothing."
+      },
+      "correctAnswer": "A",
+      "translationJa": "新しい地域責任者に会えてうれしく思いました。",
+      "explanationJa": "明白なきっかけの単純不定詞を動名詞主語で言い換えています。",
+      "focus": "単純不定詞と感情原因",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0232_Q29",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “The technician was told not to restart the server.”",
+      "choices": {
+        "A": "Someone ordered the technician to restart the server immediately.",
+        "B": "Someone instructed the technician to leave the server without restarting it.",
+        "C": "The technician restarted the server before receiving praise.",
+        "D": "No instruction concerning the server was given."
+      },
+      "correctAnswer": "B",
+      "translationJa": "技術者はサーバーを再起動しないよう指示されました。",
+      "explanationJa": "not to restartが指示された行為の否定を表します。",
+      "focus": "tell A not toの意味",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0232_Q30",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “The error is thought to have occurred during installation.”",
+      "choices": {
+        "A": "People think the error will occur during a future installation.",
+        "B": "The error is installing the system now.",
+        "C": "People think the error occurred earlier, while the system was installed.",
+        "D": "Installation is believed to prevent every error."
+      },
+      "correctAnswer": "C",
+      "translationJa": "そのエラーは設置時に発生したと考えられています。",
+      "explanationJa": "完了不定詞が現在の判断より前の発生を示します。",
+      "focus": "be thought to have done",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0232_Q31",
+      "format": "context-completion",
+      "prompt": "The security footage shows the door opening at 2 a.m. The intruder appears ------- a copied access card.",
+      "choices": {
+        "A": "to use tomorrow",
+        "B": "to have used",
+        "C": "using to",
+        "D": "to have use"
+      },
+      "correctAnswer": "B",
+      "translationJa": "防犯映像には午前2時に扉が開く様子があります。侵入者は複製カードを使ったようです。",
+      "explanationJa": "使用は現在の推測より前なので完了不定詞です。",
+      "focus": "appear to have used",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0232_Q32",
+      "format": "context-completion",
+      "prompt": "The document contains private client data. Please remember ------- it on the public drive.",
+      "choices": {
+        "A": "to not saving",
+        "B": "not saving to",
+        "C": "to have not saved",
+        "D": "not to save"
+      },
+      "correctAnswer": "D",
+      "translationJa": "その文書には顧客の個人情報が含まれます。共有ドライブへ保存しないでください。",
+      "explanationJa": "remember not to saveで保存行為を否定します。",
+      "focus": "remember not to",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0232_Q33",
+      "format": "context-completion",
+      "prompt": "The tracking record shows delivery on Monday. The customer claims ------- the package.",
+      "choices": {
+        "A": "not to have received",
+        "B": "to not receive tomorrow",
+        "C": "not receiving to",
+        "D": "to have not receive"
+      },
+      "correctAnswer": "A",
+      "translationJa": "追跡記録では月曜日に配達済みです。顧客は荷物を受け取っていないと主張しています。",
+      "explanationJa": "現在までの未受領を過去へ遡ってnot to have receivedで示します。",
+      "focus": "否定完了不定詞",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0232_Q34",
+      "format": "context-completion",
+      "prompt": "The floor is freshly painted. Visitors are asked ------- beyond the yellow line.",
+      "choices": {
+        "A": "to not stepping",
+        "B": "not stepping to",
+        "C": "not to step",
+        "D": "to have not stepped"
+      },
+      "correctAnswer": "C",
+      "translationJa": "床は塗りたてです。来訪者は黄色線の先へ踏み込まないよう求められています。",
+      "explanationJa": "asked not to stepが正しい否定不定詞です。",
+      "focus": "ask A not to",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0232_Q35",
+      "format": "context-completion",
+      "prompt": "The invoice was already approved when the reminder arrived. The manager seems ------- it earlier that morning.",
+      "choices": {
+        "A": "to review next week",
+        "B": "reviewing to",
+        "C": "to have review",
+        "D": "to have reviewed"
+      },
+      "correctAnswer": "D",
+      "translationJa": "催促が届いた時には請求書は承認済みでした。管理者はその朝早くに確認していたようです。",
+      "explanationJa": "前文の時系列からto have reviewedが必要です。",
+      "focus": "完了不定詞と文脈時制",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0232_Q36",
+      "format": "context-completion",
+      "prompt": "Your message reached us this morning. We are pleased ------- your reservation.",
+      "choices": {
+        "A": "to have confirmed tomorrow",
+        "B": "to confirm",
+        "C": "confirming to",
+        "D": "to have been confirm"
+      },
+      "correctAnswer": "B",
+      "translationJa": "今朝メッセージを受け取りました。ご予約を確認できうれしく思います。",
+      "explanationJa": "確認と発話の関係が明白なので単純不定詞で自然です。",
+      "focus": "単純不定詞の選択",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0232_Q37",
+      "format": "context-completion",
+      "prompt": "The candidate left the waiting room before noon. She is reported ------- another job offer.",
+      "choices": {
+        "A": "to have accepted",
+        "B": "to accept next month",
+        "C": "accepting to",
+        "D": "to have accept"
+      },
+      "correctAnswer": "A",
+      "translationJa": "応募者は正午前に待合室を出ました。別の仕事の提示を受け入れたと報告されています。",
+      "explanationJa": "受諾が現在のreportedより前なので完了不定詞です。",
+      "focus": "reported to have accepted",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0232_Q38",
+      "format": "context-completion",
+      "prompt": "The equipment is sensitive to moisture. Staff were warned ------- it near an open window.",
+      "choices": {
+        "A": "to not placing",
+        "B": "not placing to",
+        "C": "to have not placed",
+        "D": "not to place"
+      },
+      "correctAnswer": "D",
+      "translationJa": "機器は湿気に弱いです。開いた窓の近くへ置かないよう職員は警告されました。",
+      "explanationJa": "warned not to placeで禁止内容を表します。",
+      "focus": "warn not to",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0232_Q39",
+      "format": "context-completion",
+      "prompt": "The customer thanked us immediately after receiving the refund. We were happy ------- the issue.",
+      "choices": {
+        "A": "to have resolve",
+        "B": "resolving to",
+        "C": "to resolve",
+        "D": "to be resolved by"
+      },
+      "correctAnswer": "C",
+      "translationJa": "顧客は返金直後にお礼を述べました。問題を解決できてうれしく思いました。",
+      "explanationJa": "順序が明白なので単純不定詞to resolveで十分です。",
+      "focus": "不要な完了形を避ける",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0232_Q40",
+      "format": "context-completion",
+      "prompt": "The gate was unlocked before the morning shift began. A contractor is suspected ------- it open overnight.",
+      "choices": {
+        "A": "to leave tomorrow",
+        "B": "to have left",
+        "C": "leaving to",
+        "D": "to have leave"
+      },
+      "correctAnswer": "B",
+      "translationJa": "朝番開始前に門は解錠されていました。請負業者が夜通し開けたままにした疑いがあります。",
+      "explanationJa": "夜間の行為は現在のsuspectedより前なので完了不定詞です。",
+      "focus": "suspect A to have done",
+      "difficulty": "intermediate"
+    }
+  ]
+}
