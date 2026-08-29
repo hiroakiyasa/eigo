@@ -1,0 +1,575 @@
+{
+  "schemaVersion": 1,
+  "page": {
+    "number": 123,
+    "id": "grammar-master-0123",
+    "title": "副詞はどこを照らす？",
+    "image": "pages/PAGE_0123.webp",
+    "sourcePrompt": "source-prompts/PAGE_0123.txt"
+  },
+  "analysis": {
+    "summaryJa": "このページは、副詞の位置が『どこを照らすか』、つまり修飾範囲と焦点を決めることを扱う。副詞は形容詞、分詞、場所句、名詞句、動詞句などの直前・近くに置かれ、onlyやevenは位置によって意味の焦点が変わる。right・justは場所句を強め、標準的な書き言葉では動作を表す形容詞ではなく副詞形を用いる。語順の違いを意味の違いとして判断する40問とした。",
+    "grammarPoints": [
+      "程度副詞は形容詞や別の副詞の直前に置き、その強さを限定する",
+      "副詞は分詞形容詞の直前に置き、時・程度・様態を加える",
+      "right・just・directlyなどは場所句の直前で位置関係を強める",
+      "only・evenなどの焦点副詞は、直後の語句を主な焦点とする",
+      "標準的な文章では動作の仕方を表すときsafeではなくsafelyなどの副詞形を用いる"
+    ],
+    "visualEvidence": [
+      "スポットライト状の矢印が形容詞、分詞、場所句、名詞句へ個別に向き、副詞の修飾範囲を示している",
+      "onlyの位置を変えた二つの文が並び、人物だけを限定する場合と動作だけを限定する場合の焦点差を示している",
+      "場所のピンの直前にrightが置かれ、場所句全体を『すぐ・まさに』と強める働きを示している",
+      "会話的な形容詞使用と標準的な副詞形が対比され、書き言葉での品詞選択を示している"
+    ],
+    "commonTraps": [
+      "onlyを文中のどこに置いても意味が同じだと考える",
+      "焦点を当てたい名詞句からonly・evenを離して置く",
+      "場所句を強めるrightを名詞の形容詞と誤認する",
+      "分詞を修飾する位置で形容詞を選び、副詞による多層修飾を崩す",
+      "口語的なDrive safe型を正式な案内文でもそのまま使う"
+    ]
+  },
+  "questions": [
+    {
+      "id": "PAGE_0123_Q01",
+      "format": "part5-cloze",
+      "prompt": "The upgraded alarm system is ------- reliable even during power fluctuations.",
+      "choices": {"A": "height", "B": "high", "C": "highly", "D": "higher"},
+      "correctAnswer": "C",
+      "translationJa": "改良された警報システムは、電力変動時でも非常に信頼性が高いです。",
+      "explanationJa": "highlyは形容詞reliableの直前で、その程度を強めます。high reliableとは通常言いません。",
+      "focus": "形容詞を照らす程度副詞",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0123_Q02",
+      "format": "part5-cloze",
+      "prompt": "The ------- renovated lobby now includes a larger customer-service desk.",
+      "choices": {"A": "recently", "B": "recent", "C": "recency", "D": "more recent"},
+      "correctAnswer": "A",
+      "translationJa": "最近改装されたロビーには、より大きな顧客サービス窓口が設けられています。",
+      "explanationJa": "recentlyは過去分詞形容詞renovatedを修飾し、改装が最近行われたことを示します。",
+      "focus": "分詞を照らす時間副詞",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0123_Q03",
+      "format": "part5-cloze",
+      "prompt": "The twenty-four-hour pharmacy is ------- across the street from the hotel.",
+      "choices": {"A": "correct", "B": "exact", "C": "rightly", "D": "right"},
+      "correctAnswer": "D",
+      "translationJa": "24時間営業の薬局はホテルの通りを挟んですぐ向かいにあります。",
+      "explanationJa": "rightは場所句across the streetの直前で『まさに・すぐ』と位置関係を強めます。",
+      "focus": "場所句を強めるright",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0123_Q04",
+      "format": "part5-cloze",
+      "prompt": "Please drive ------- in the underground parking area, where visibility is limited.",
+      "choices": {"A": "safe", "B": "safely", "C": "safety", "D": "safer"},
+      "correctAnswer": "B",
+      "translationJa": "視界が限られる地下駐車場では、安全に運転してください。",
+      "explanationJa": "driveという動作の仕方を表すため、標準的な案内文では副詞safelyを用います。",
+      "focus": "正式な文での動詞＋副詞",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0123_Q05",
+      "format": "part5-cloze",
+      "prompt": "------- Ms. Chen approved the revised budget; every other director requested more information.",
+      "choices": {"A": "Only", "B": "Alone", "C": "Merely", "D": "Sole"},
+      "correctAnswer": "A",
+      "translationJa": "チェンさんだけが改訂予算を承認し、ほかの取締役は全員追加情報を求めました。",
+      "explanationJa": "Onlyを主語Ms. Chenの直前に置くことで、承認した人物を彼女一人に限定します。",
+      "focus": "only＋主語名詞句",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0123_Q06",
+      "format": "part5-cloze",
+      "prompt": "Ms. Chen ------- approved the revised budget; she did not prepare or present it.",
+      "choices": {"A": "alone", "B": "sole", "C": "only", "D": "one"},
+      "correctAnswer": "C",
+      "translationJa": "チェンさんは改訂予算を承認しただけで、作成も発表もしていません。",
+      "explanationJa": "onlyを動詞approvedの直前に置くと、彼女が行った行為を『承認することだけ』に限定します。",
+      "focus": "only＋動詞句",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0123_Q07",
+      "format": "part5-cloze",
+      "prompt": "The permit application was ------- completed online without assistance from the support desk.",
+      "choices": {"A": "success", "B": "successfully", "C": "successful", "D": "succeed"},
+      "correctAnswer": "B",
+      "translationJa": "許可申請はサポート窓口の助けなしで、オンライン上で無事に完了しました。",
+      "explanationJa": "successfullyは過去分詞completedの直前で、完了の成否・様態を説明します。",
+      "focus": "過去分詞を修飾する様態副詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0123_Q08",
+      "format": "part5-cloze",
+      "prompt": "The temporary office is ------- beyond the security gate, beside the freight elevator.",
+      "choices": {"A": "justly", "B": "justice", "C": "justified", "D": "just"},
+      "correctAnswer": "D",
+      "translationJa": "臨時事務所は保安ゲートを越えてすぐ、貨物用エレベーターの横にあります。",
+      "explanationJa": "justは場所句beyond the security gateの直前で、位置がゲートのすぐ先であることを示します。justlyは『公正に』です。",
+      "focus": "場所句を限定するjust",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0123_Q09",
+      "format": "part5-cloze",
+      "prompt": "The chief executive spoke to ------- the regional managers before the public announcement.",
+      "choices": {"A": "only", "B": "alone", "C": "single", "D": "solely managers"},
+      "correctAnswer": "A",
+      "translationJa": "最高経営責任者は公表前に地域部長だけに話しました。",
+      "explanationJa": "onlyを名詞句the regional managersの直前に置き、話した相手をその集団だけに限定します。",
+      "focus": "only＋前置詞の目的語",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0123_Q10",
+      "format": "part5-cloze",
+      "prompt": "The discounted maintenance rate applies ------- to contractors working outside the city center.",
+      "choices": {"A": "exclusive", "B": "exclusively", "C": "exclusion", "D": "exclude"},
+      "correctAnswer": "B",
+      "translationJa": "割引保守料金は、市中心部の外で働く請負業者にのみ適用されます。",
+      "explanationJa": "exclusivelyがapplies to以下の適用範囲を限定し、『その請負業者だけに』という意味を作ります。",
+      "focus": "適用範囲を限定するexclusively",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0123_Q11",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence for a formal loading-zone safety notice.",
+      "choices": {
+        "A": "Please drive safe in the loading zone.",
+        "B": "Please drive safely in the loading zone.",
+        "C": "Please safely be drive in the loading zone.",
+        "D": "Please drive safety in the loading zone."
+      },
+      "correctAnswer": "B",
+      "translationJa": "荷積み区域では安全に運転してください。",
+      "explanationJa": "正式な案内文では、動詞driveの様態を副詞safelyで示します。safeは形容詞です。",
+      "focus": "標準的な副詞形safely",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0123_Q12",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence meaning that no one except the finance director received the file.",
+      "choices": {
+        "A": "The finance director received only the encrypted file.",
+        "B": "The finance director only received the encrypted file.",
+        "C": "The finance director received the encrypted file only yesterday.",
+        "D": "Only the finance director received the encrypted file."
+      },
+      "correctAnswer": "D",
+      "translationJa": "財務部長だけが暗号化ファイルを受け取りました。",
+      "explanationJa": "受取人を限定するにはOnlyを主語the finance directorの直前に置きます。他の選択肢は物・行為・時を限定します。",
+      "focus": "onlyの位置による主語焦点",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0123_Q13",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence describing a warehouse's exact location.",
+      "choices": {
+        "A": "The warehouse is right behind the station.",
+        "B": "The warehouse is rightly the station behind.",
+        "C": "The right warehouse is behind station the.",
+        "D": "The warehouse right is behind the station."
+      },
+      "correctAnswer": "A",
+      "translationJa": "倉庫は駅のすぐ裏にあります。",
+      "explanationJa": "rightを場所句behind the stationの直前に置き、『すぐ裏』という位置の近さを強めます。",
+      "focus": "right＋場所句",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0123_Q14",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence about a scanner installed a short time ago.",
+      "choices": {
+        "A": "The new installed scanner is already operational.",
+        "B": "The newly installation scanner is already operational.",
+        "C": "The newly installed scanner is already operational.",
+        "D": "The scanner newly is installed already operational."
+      },
+      "correctAnswer": "C",
+      "translationJa": "新しく設置されたスキャナーはすでに稼働しています。",
+      "explanationJa": "newlyは過去分詞installedを修飾し、設置時期が最近であることを示します。",
+      "focus": "副詞＋過去分詞＋名詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0123_Q15",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence describing the degree of a proposal's practicality.",
+      "choices": {
+        "A": "The proposal is extreme practically.",
+        "B": "The proposal is extremely practical.",
+        "C": "The extreme proposal is practical extremely.",
+        "D": "The proposal extremely is practicality."
+      },
+      "correctAnswer": "B",
+      "translationJa": "その提案は非常に実用的です。",
+      "explanationJa": "extremelyを形容詞practicalの直前に置き、その程度を強めます。",
+      "focus": "程度副詞の照射先",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0123_Q16",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence meaning that Ms. Lopez did no more than review the summary.",
+      "choices": {
+        "A": "Only Ms. Lopez reviewed the summary.",
+        "B": "Ms. Lopez reviewed only the summary.",
+        "C": "Ms. Lopez only reviewed the summary; she did not edit it.",
+        "D": "Ms. Lopez reviewed the summary only yesterday."
+      },
+      "correctAnswer": "C",
+      "translationJa": "ロペスさんは要約を確認しただけで、編集はしませんでした。",
+      "explanationJa": "onlyを動詞reviewedの直前に置くと、行為を確認だけに限定します。後半がその焦点を明確にします。",
+      "focus": "only＋動詞の行為限定",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0123_Q17",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence meaning that Ms. Lopez reviewed the summary and no other document.",
+      "choices": {
+        "A": "Only Ms. Lopez reviewed the summary.",
+        "B": "Ms. Lopez only reviewed the summary.",
+        "C": "Ms. Lopez reviewed the summary only yesterday.",
+        "D": "Ms. Lopez reviewed only the summary, not the appendices."
+      },
+      "correctAnswer": "D",
+      "translationJa": "ロペスさんは付録ではなく、要約だけを確認しました。",
+      "explanationJa": "onlyを目的語the summaryの直前に置くことで、確認対象を要約だけに限定します。",
+      "focus": "only＋目的語の対象限定",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0123_Q18",
+      "format": "correct-sentence",
+      "prompt": "Choose the correct sentence emphasizing a surprising participant.",
+      "choices": {
+        "A": "Even the smallest branch met its annual target.",
+        "B": "The even smallest branch met its annual target.",
+        "C": "The smallest branch met even its annual targetly.",
+        "D": "The smallest even branch met annual its target."
+      },
+      "correctAnswer": "A",
+      "translationJa": "最小の支店でさえ年間目標を達成しました。",
+      "explanationJa": "evenを名詞句the smallest branchの直前に置き、その支店が達成したことの意外性を強調します。",
+      "focus": "even＋名詞句",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0123_Q19",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence with an adverb naturally focused on the communication route.",
+      "choices": {
+        "A": "The consultant direct spoke the board to.",
+        "B": "The directly consultant spoke to the board.",
+        "C": "The consultant spoke directly to the board.",
+        "D": "The consultant spoke to directly the board."
+      },
+      "correctAnswer": "C",
+      "translationJa": "コンサルタントは取締役会に直接話しました。",
+      "explanationJa": "directlyをto the boardの直前に置き、仲介者を通さない伝達先・経路を示します。",
+      "focus": "directly＋前置詞句",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0123_Q20",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence meaning that a badge works in the north building and nowhere else.",
+      "choices": {
+        "A": "Only the badge works inside the north building.",
+        "B": "The badge works only inside the north building.",
+        "C": "The badge only works inside the north building, not opens doors.",
+        "D": "The badge works inside only the north building employee."
+      },
+      "correctAnswer": "B",
+      "translationJa": "その入館証は北棟の中でだけ使用できます。",
+      "explanationJa": "onlyを場所句inside the north buildingの直前に置き、機能する場所をその棟内だけに限定します。",
+      "focus": "only＋場所句",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0123_Q21",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"Only Mr. Reed signed the authorization form.\"",
+      "choices": {
+        "A": "Mr. Reed signed only the authorization form.",
+        "B": "Mr. Reed only signed the form but did not submit it.",
+        "C": "Mr. Reed signed the form only this morning.",
+        "D": "No one except Mr. Reed signed the authorization form."
+      },
+      "correctAnswer": "D",
+      "translationJa": "リードさん以外は誰も承認書に署名しませんでした。",
+      "explanationJa": "Onlyが主語Mr. Reedを限定しているため、署名者が彼一人という意味です。",
+      "focus": "only＋主語の言い換え",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0123_Q22",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"Please operate the forklift safely.\"",
+      "choices": {
+        "A": "Please confirm that the forklift itself is safe.",
+        "B": "Please operate the forklift in a manner that avoids danger.",
+        "C": "Please move the forklift to the safety office.",
+        "D": "Please repair the forklift before operating it."
+      },
+      "correctAnswer": "B",
+      "translationJa": "危険を避ける方法でフォークリフトを操作してください。",
+      "explanationJa": "safelyはoperateの仕方を表し、in a manner that avoids dangerがその様態を展開しています。",
+      "focus": "様態副詞safelyの意味",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0123_Q23",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The hotel is right beside the convention center.\"",
+      "choices": {
+        "A": "The hotel is on the right side of every convention center.",
+        "B": "The hotel is correctly shown on the convention map.",
+        "C": "The hotel is immediately next to the convention center.",
+        "D": "The convention center is inside the hotel."
+      },
+      "correctAnswer": "C",
+      "translationJa": "ホテルはコンベンションセンターのすぐ隣にあります。",
+      "explanationJa": "rightがbesideを強め、距離が非常に近いことを示します。immediately next toが同じ意味です。",
+      "focus": "right＋場所句の言い換え",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0123_Q24",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The newly renovated office reopened on Monday.\"",
+      "choices": {
+        "A": "The office, which had been renovated a short time earlier, reopened on Monday.",
+        "B": "A new office will be renovated after Monday.",
+        "C": "The office reopened so that renovations could begin.",
+        "D": "Only the newest part of the office reopened."
+      },
+      "correctAnswer": "A",
+      "translationJa": "少し前に改装された事務所が月曜日に再開しました。",
+      "explanationJa": "newlyはrenovatedの時期が最近であることを示し、a short time earlierで展開できます。",
+      "focus": "newly＋過去分詞の言い換え",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0123_Q25",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"Ms. Lee only checked the invoice.\"",
+      "choices": {
+        "A": "Ms. Lee was the only person who checked the invoice.",
+        "B": "Ms. Lee checked the invoice and no other document.",
+        "C": "Ms. Lee checked the invoice only once.",
+        "D": "Checking was the sole action Ms. Lee performed on the invoice."
+      },
+      "correctAnswer": "D",
+      "translationJa": "リーさんが請求書に行ったのは確認だけでした。",
+      "explanationJa": "onlyが動詞checkedの前にあるため、行為を確認だけに限定します。人や対象の限定ではありません。",
+      "focus": "only＋動詞の意味",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0123_Q26",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"Ms. Lee checked only the invoice.\"",
+      "choices": {
+        "A": "Only Ms. Lee checked the invoice.",
+        "B": "Ms. Lee did nothing to the invoice except check it.",
+        "C": "The invoice was the sole document Ms. Lee checked.",
+        "D": "Ms. Lee checked the invoice only yesterday."
+      },
+      "correctAnswer": "C",
+      "translationJa": "リーさんが確認した書類は請求書だけでした。",
+      "explanationJa": "onlyが目的語the invoiceの直前にあるため、確認対象を請求書一つに限定します。",
+      "focus": "only＋目的語の意味",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0123_Q27",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"Even temporary staff may attend the strategy briefing.\"",
+      "choices": {
+        "A": "Temporary staff must attend a separate briefing.",
+        "B": "Temporary staff are included, which may be unexpected.",
+        "C": "Only temporary staff may attend the briefing.",
+        "D": "The briefing will be temporary."
+      },
+      "correctAnswer": "B",
+      "translationJa": "意外に思われるかもしれませんが、臨時職員も参加対象に含まれます。",
+      "explanationJa": "evenはtemporary staffを焦点にし、その人たちまで含むことの意外性を示します。",
+      "focus": "evenが示す包含と意外性",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0123_Q28",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The premium delivery service is available only in Japan.\"",
+      "choices": {
+        "A": "Only the premium service is available in Japan.",
+        "B": "The service is available throughout Japan and abroad.",
+        "C": "Japan offers only delivery services at premium prices.",
+        "D": "Japan is the sole country where the premium delivery service is available."
+      },
+      "correctAnswer": "D",
+      "translationJa": "プレミアム配送サービスを利用できる国は日本だけです。",
+      "explanationJa": "onlyが場所句in Japanを限定しているため、提供地域が日本に限られるという意味です。",
+      "focus": "only＋場所句の言い換え",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0123_Q29",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The audit findings are highly significant.\"",
+      "choices": {
+        "A": "The audit contains a large number of signs.",
+        "B": "The findings are located high in the audit report.",
+        "C": "The findings are important to a very great degree.",
+        "D": "The audit findings are significant only at high cost."
+      },
+      "correctAnswer": "C",
+      "translationJa": "監査結果は非常に重要です。",
+      "explanationJa": "highlyは形容詞significantの程度を強く高めます。物理的な高さではありません。",
+      "focus": "highlyの程度範囲",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0123_Q30",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: \"The duplicate files were completely deleted.\"",
+      "choices": {
+        "A": "No duplicate files remained after the deletion.",
+        "B": "Only complete files were selected for deletion.",
+        "C": "The files were almost, but not fully, deleted.",
+        "D": "The duplicate files completed a deletion process."
+      },
+      "correctAnswer": "A",
+      "translationJa": "削除後、重複ファイルは一つも残りませんでした。",
+      "explanationJa": "completelyがdeletedの完了度を100％に限定しているため、何も残っていないという意味です。",
+      "focus": "副詞による分詞の完了度",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0123_Q31",
+      "format": "context-completion",
+      "prompt": "The company is preparing a formal sign for vehicles entering the service yard. The sign should say, \"Please drive -------.\"",
+      "choices": {"A": "safely", "B": "safe", "C": "safety", "D": "safer"},
+      "correctAnswer": "A",
+      "translationJa": "会社は整備区域へ入る車両向けの正式な標識を準備しています。標識には『安全に運転してください』と記すべきです。",
+      "explanationJa": "正式な標識では動詞driveを修飾する標準的な副詞safelyを選びます。",
+      "focus": "正式文体での副詞形",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0123_Q32",
+      "format": "context-completion",
+      "prompt": "Guests can see the exhibition hall from the hotel entrance; they only need to cross one narrow road. The hall is ------- across the street.",
+      "choices": {"A": "rightly", "B": "correct", "C": "rights", "D": "right"},
+      "correctAnswer": "D",
+      "translationJa": "宿泊客はホテル入口から展示ホールを見ることができ、狭い道路を1本渡るだけです。ホールは通りのすぐ向かいにあります。",
+      "explanationJa": "近接する位置関係を強めるため、場所句across the streetの直前にrightを置きます。",
+      "focus": "文脈に合うright＋場所句",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0123_Q33",
+      "format": "context-completion",
+      "prompt": "Installation ended yesterday, and employees are using the device for the first time today. The ------- installed scanner requires a short calibration check.",
+      "choices": {"A": "new", "B": "newly", "C": "newness", "D": "newer"},
+      "correctAnswer": "B",
+      "translationJa": "設置は昨日終わり、従業員は今日初めて装置を使っています。新しく設置されたスキャナーには短い校正確認が必要です。",
+      "explanationJa": "yesterdayという直近の設置を受け、installedを修飾する副詞newlyが適切です。new installedは標準的ではありません。",
+      "focus": "文脈上のnewly installed",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0123_Q34",
+      "format": "context-completion",
+      "prompt": "The invitation list contained twelve directors, but eleven messages were held back pending approval. ------- Ms. Rao received the invitation yesterday.",
+      "choices": {"A": "Alone", "B": "Sole", "C": "Only", "D": "Merely invitation"},
+      "correctAnswer": "C",
+      "translationJa": "招待者名簿には12人の取締役が載っていましたが、11通は承認待ちで保留されました。昨日招待状を受け取ったのはラオさんだけでした。",
+      "explanationJa": "受取人が一人だけという文脈なので、主語Ms. Raoの直前にOnlyを置きます。",
+      "focus": "文脈からonlyの主語焦点を選ぶ",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0123_Q35",
+      "format": "context-completion",
+      "prompt": "The legal team did not rewrite the clause or negotiate new terms. They ------- reviewed the wording for consistency.",
+      "choices": {"A": "only", "B": "alone", "C": "sole", "D": "one"},
+      "correctAnswer": "A",
+      "translationJa": "法務チームは条項を書き直したり、新条件を交渉したりしませんでした。表現の一貫性を確認しただけです。",
+      "explanationJa": "行為をreviewedだけに限定するため、onlyを動詞の直前に置きます。",
+      "focus": "文脈からonlyの動詞焦点を選ぶ",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0123_Q36",
+      "format": "context-completion",
+      "prompt": "The consultant did not examine the financial tables, schedule, or cover letter. She reviewed -------.",
+      "choices": {"A": "the appendix only carefully", "B": "only reviewed the appendix", "C": "the only consultant appendix", "D": "only the appendix"},
+      "correctAnswer": "D",
+      "translationJa": "コンサルタントは財務表、日程、送付状を確認しませんでした。確認したのは付録だけです。",
+      "explanationJa": "確認対象を付録だけに限定するため、onlyを目的語the appendixの直前に置きます。",
+      "focus": "文脈からonlyの目的語焦点を選ぶ",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0123_Q37",
+      "format": "context-completion",
+      "prompt": "The smallest outlet has half the staff of the others, yet it exceeded its sales goal. ------- the smallest outlet met the target.",
+      "choices": {"A": "Ever", "B": "Very", "C": "Even", "D": "Exactly"},
+      "correctAnswer": "C",
+      "translationJa": "最小店舗は他店の半分の人員しかいませんが、売上目標を上回りました。最小店舗でさえ目標を達成しました。",
+      "explanationJa": "不利と思われるthe smallest outletまで達成した意外性を、直前のEvenが示します。",
+      "focus": "文脈上のeven＋名詞句",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0123_Q38",
+      "format": "context-completion",
+      "prompt": "For security reasons, the prototype badge stops working as soon as its holder leaves the research area. It can be used -------.",
+      "choices": {"A": "only inside the laboratory", "B": "inside only the laboratory employee", "C": "only the badge inside the laboratory", "D": "inside the laboratory only can"},
+      "correctAnswer": "A",
+      "translationJa": "保安上の理由から、試作入館証は所持者が研究区域を出るとすぐ使えなくなります。それは研究室内でだけ使用できます。",
+      "explanationJa": "使用可能な場所を限定するため、onlyを場所句inside the laboratoryの直前に置きます。",
+      "focus": "場所範囲を限定するonly",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0123_Q39",
+      "format": "context-completion",
+      "prompt": "Three independent tests produced the same result, and no reviewer found a gap in the evidence. The report's conclusion is -------.",
+      "choices": {"A": "extreme well supporting", "B": "extremely good support", "C": "extreme supported well", "D": "extremely well supported"},
+      "correctAnswer": "D",
+      "translationJa": "3つの独立試験が同じ結果を示し、証拠の欠落を指摘した審査員はいませんでした。報告書の結論は極めて十分に裏付けられています。",
+      "explanationJa": "supportedが結論の状態、wellが裏付けの十分さ、extremelyがwellの程度を修飾します。副詞が段階的に照らします。",
+      "focus": "程度副詞＋様態副詞＋過去分詞",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0123_Q40",
+      "format": "context-completion",
+      "prompt": "The emergency switch is mounted immediately under the control screen, with no other panel between them. It is located -------.",
+      "choices": {"A": "direct below the control screen", "B": "directly below the control screen", "C": "below directly the control screen", "D": "the directly control screen below"},
+      "correctAnswer": "B",
+      "translationJa": "非常スイッチは制御画面の真下に取り付けられ、その間に別のパネルはありません。それは制御画面の直下にあります。",
+      "explanationJa": "directlyを場所句below the control screenの直前に置き、垂直位置がぴったり下であることを示します。",
+      "focus": "directly＋場所句",
+      "difficulty": "intermediate"
+    }
+  ]
+}
