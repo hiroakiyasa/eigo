@@ -1,1 +1,676 @@
-/tmp/s19_generated/PAGE_0311.json
+{
+  "schemaVersion": 1,
+  "page": {
+    "number": 311,
+    "id": "grammar-master-0311",
+    "title": "目的表現は“ゴールへの矢印”",
+    "image": "pages/PAGE_0311.webp",
+    "sourcePrompt": "source-prompts/PAGE_0311.txt"
+  },
+  "analysis": {
+    "summaryJa": "目的を示すとき、動作主が主節と同じで動詞だけを続けるならto・in order to・so as toを使う。目的側に独自の主語や助動詞が必要ならso that・in order thatなどの節を選ぶ。such thatとin such a way thatは望む状態になる配置・方法を示し、for the sake ofは安全や利益のためという名詞的な目的を表す。",
+    "grammarPoints": [
+      "to＋動詞原形による簡潔な目的",
+      "in order to / so as toによる明示的・改まった目的",
+      "so that＋主語＋助動詞による目的節",
+      "in order thatのフォーマルな目的節",
+      "such that / in such a way thatによる方法と結果状態",
+      "for the sake of＋名詞による利益・安全目的"
+    ],
+    "visualEvidence": [
+      "ゴール旗へ向かう矢印が行動から目的への関係を示している",
+      "to系とthat節系の分岐が主語の有無を基準にしている",
+      "構造チャートが動詞原形と主語＋動詞を色分けしている",
+      "宝箱カードがin such a way thatとfor the sake ofを追加している"
+    ],
+    "commonTraps": [
+      "to不定詞の後に別の主語を直接置く",
+      "so thatの後を動詞原形だけにする",
+      "否定目的でto notより不自然な位置にnotを置く",
+      "in order thatのthatを落として曖昧にする",
+      "for the sake ofの後に完全な節を直接置く"
+    ]
+  },
+  "questions": [
+    {
+      "id": "PAGE_0311_Q01",
+      "format": "part5-cloze",
+      "prompt": "The technician restarted the server ------- clear a temporary processing error.",
+      "choices": {
+        "A": "so that",
+        "B": "because",
+        "C": "to",
+        "D": "although"
+      },
+      "correctAnswer": "C",
+      "translationJa": "技術者は一時的な処理エラーを解消するため、サーバーを再起動しました。",
+      "explanationJa": "主節と同じ主語が行う目的動作にはto＋動詞原形が適切です。",
+      "focus": "to不定詞の目的",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0311_Q02",
+      "format": "part5-cloze",
+      "prompt": "We labeled every carton clearly ------- the carrier could route it to the correct warehouse.",
+      "choices": {
+        "A": "so that",
+        "B": "to",
+        "C": "because of",
+        "D": "despite"
+      },
+      "correctAnswer": "A",
+      "translationJa": "配送業者が正しい倉庫へ仕分けできるよう、すべての箱に明確なラベルを付けました。",
+      "explanationJa": "目的節に独自の主語the carrierがあるためso thatを使います。",
+      "focus": "so that＋別主語",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0311_Q03",
+      "format": "part5-cloze",
+      "prompt": "The laboratory stores duplicate samples off-site ------- prevent the loss of all research data.",
+      "choices": {
+        "A": "in order that",
+        "B": "owing to",
+        "C": "even though",
+        "D": "in order to"
+      },
+      "correctAnswer": "D",
+      "translationJa": "研究データをすべて失うことを防ぐため、研究所は複製試料を別の場所に保管しています。",
+      "explanationJa": "目的を明確に強調し、後ろが動詞原形なのでin order toです。",
+      "focus": "in order to＋動詞原形",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0311_Q04",
+      "format": "part5-cloze",
+      "prompt": "Please close the conference-room door quietly ------- disturb the interview in progress.",
+      "choices": {
+        "A": "so that not",
+        "B": "so as not to",
+        "C": "because not to",
+        "D": "in case not"
+      },
+      "correctAnswer": "B",
+      "translationJa": "進行中の面接を邪魔しないよう、会議室のドアを静かに閉めてください。",
+      "explanationJa": "改まった否定目的はso as not to＋動詞原形で表します。",
+      "focus": "so as not toの語順",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0311_Q05",
+      "format": "part5-cloze",
+      "prompt": "The chairs were arranged ------- every attendee would have an unobstructed view of the screen.",
+      "choices": {
+        "A": "such that",
+        "B": "to",
+        "C": "due to",
+        "D": "unless"
+      },
+      "correctAnswer": "A",
+      "translationJa": "すべての出席者が遮られず画面を見られるよう、椅子が配置されました。",
+      "explanationJa": "配置が望む状態を生むようにする節にはsuch thatが適切です。",
+      "focus": "such thatと配置結果",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0311_Q06",
+      "format": "part5-cloze",
+      "prompt": "The backup files are encrypted ------- unauthorized users cannot read them.",
+      "choices": {
+        "A": "to",
+        "B": "because of",
+        "C": "so that",
+        "D": "whereas"
+      },
+      "correctAnswer": "C",
+      "translationJa": "権限のない利用者が読めないよう、バックアップファイルは暗号化されています。",
+      "explanationJa": "目的側に主語unauthorized usersと動詞があるためso thatです。",
+      "focus": "so thatによる否定目的",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0311_Q07",
+      "format": "part5-cloze",
+      "prompt": "The company revised the route ------- reduce fuel consumption.",
+      "choices": {
+        "A": "so that",
+        "B": "to",
+        "C": "since",
+        "D": "in spite of"
+      },
+      "correctAnswer": "B",
+      "translationJa": "会社は燃料消費を減らすため経路を見直しました。",
+      "explanationJa": "同一主語companyの目的動作reduceを簡潔に続けるtoが正解です。",
+      "focus": "to＋動詞原形",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0311_Q08",
+      "format": "part5-cloze",
+      "prompt": "The records were digitized ------- future employees might retrieve them quickly.",
+      "choices": {
+        "A": "in order to",
+        "B": "thanks to",
+        "C": "as soon as",
+        "D": "in order that"
+      },
+      "correctAnswer": "D",
+      "translationJa": "将来の従業員が記録を迅速に検索できるよう、記録は電子化されました。",
+      "explanationJa": "別主語future employeesを含む改まった目的節なのでin order thatです。",
+      "focus": "in order that＋節",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0311_Q09",
+      "format": "part5-cloze",
+      "prompt": "The manager explained the procedure in such a way ------- first-time users understood each step.",
+      "choices": {
+        "A": "that",
+        "B": "to",
+        "C": "as",
+        "D": "because of"
+      },
+      "correctAnswer": "A",
+      "translationJa": "管理者は初めての利用者にも各手順が分かる方法で手続きを説明しました。",
+      "explanationJa": "in such a way thatという固定構造で方法が生む結果を示します。",
+      "focus": "in such a way that",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0311_Q10",
+      "format": "part5-cloze",
+      "prompt": "The entrance policy was changed ------- visitor safety.",
+      "choices": {
+        "A": "so that",
+        "B": "for the sake of",
+        "C": "because",
+        "D": "even if"
+      },
+      "correctAnswer": "B",
+      "translationJa": "来訪者の安全のため、入館方針が変更されました。",
+      "explanationJa": "名詞句visitor safetyを目的・利益として受けるfor the sake ofが適切です。",
+      "focus": "for the sake of＋名詞",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0311_Q11",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that correctly uses an infinitive of purpose.",
+      "choices": {
+        "A": "The assistant called the supplier to she confirm the delivery date.",
+        "B": "The assistant called the supplier so that confirm the delivery date.",
+        "C": "The assistant called the supplier for confirm the delivery date.",
+        "D": "The assistant called the supplier to confirm the delivery date."
+      },
+      "correctAnswer": "D",
+      "translationJa": "助手は納品日を確認するため供給業者に電話しました。",
+      "explanationJa": "主節と同じ主語が行うconfirmをto＋動詞原形で続けています。",
+      "focus": "to不定詞の正用",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0311_Q12",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that correctly includes a different subject in the purpose clause.",
+      "choices": {
+        "A": "I left a note to the night staff would know about the repair.",
+        "B": "I left a note so that the night staff would know about the repair.",
+        "C": "I left a note so as the night staff know about the repair.",
+        "D": "I left a note in order to the night staff knew about the repair."
+      },
+      "correctAnswer": "B",
+      "translationJa": "夜勤スタッフが修理を知るよう、私はメモを残しました。",
+      "explanationJa": "目的節内の主語the night staffをso thatが正しく導いています。",
+      "focus": "so thatと別主語",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0311_Q13",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence with the correct negative purpose structure.",
+      "choices": {
+        "A": "The courier covered the package so as to not exposing it to rain.",
+        "B": "The courier covered the package so not as to expose it to rain.",
+        "C": "The courier covered the package so as not to expose it to rain.",
+        "D": "The courier covered the package so that not expose it to rain."
+      },
+      "correctAnswer": "C",
+      "translationJa": "配達員は雨にさらさないよう荷物を覆いました。",
+      "explanationJa": "so as not toの後に動詞原形exposeを置く語順が正しいです。",
+      "focus": "so as not to",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0311_Q14",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that correctly uses “in order that”.",
+      "choices": {
+        "A": "The schedule was revised in order that all teams could attend the briefing.",
+        "B": "The schedule was revised in order that all teams attending the briefing.",
+        "C": "The schedule was revised in order to all teams could attend the briefing.",
+        "D": "The schedule was revised in order all teams to attend the briefing."
+      },
+      "correctAnswer": "A",
+      "translationJa": "全チームが説明会に参加できるよう、日程が改訂されました。",
+      "explanationJa": "in order thatの後に主語all teamsと助動詞couldを含む節が続きます。",
+      "focus": "in order thatの構造",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0311_Q15",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that correctly uses “for the sake of”.",
+      "choices": {
+        "A": "For the sake that accuracy, please verify every account number.",
+        "B": "For sake of verify accuracy, please check every account number.",
+        "C": "For the accuracy sake of, please verify every account number.",
+        "D": "For the sake of accuracy, please verify every account number."
+      },
+      "correctAnswer": "D",
+      "translationJa": "正確さのため、すべての口座番号を確認してください。",
+      "explanationJa": "for the sake ofの後に目的となる名詞accuracyを置いた正しい形です。",
+      "focus": "for the sake ofの構造",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0311_Q16",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that correctly describes a designed result.",
+      "choices": {
+        "A": "The display cases are positioned such that to view every item.",
+        "B": "The display cases are positioned such to customers can view every item.",
+        "C": "The display cases are positioned such that customers can view every item.",
+        "D": "The display cases positioned because every item customers can view."
+      },
+      "correctAnswer": "C",
+      "translationJa": "顧客がすべての商品を見られるよう、展示ケースが配置されています。",
+      "explanationJa": "such thatの後に望む状態を表す完全な節が続いています。",
+      "focus": "such that＋節",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0311_Q17",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence with the correct form after “in order to”.",
+      "choices": {
+        "A": "The team met early in order that review the final figures.",
+        "B": "The team met early in order to review the final figures.",
+        "C": "The team met early in order to reviewing the final figures.",
+        "D": "The team met early in order to the figures were reviewed."
+      },
+      "correctAnswer": "B",
+      "translationJa": "チームは最終数値を確認するため早めに集まりました。",
+      "explanationJa": "in order toの後には動詞原形reviewを置きます。",
+      "focus": "in order to＋原形",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0311_Q18",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that correctly uses “in such a way that”.",
+      "choices": {
+        "A": "The instructions were written in such a way to no technical experience.",
+        "B": "The instructions were written such a way that requiring no experience.",
+        "C": "In such that way the instructions no experience was required.",
+        "D": "The instructions were written in such a way that no technical experience was required."
+      },
+      "correctAnswer": "D",
+      "translationJa": "技術経験が不要になるような書き方で、説明書が作成されました。",
+      "explanationJa": "in such a way thatの後に方法の結果を表す完全な節があります。",
+      "focus": "in such a way thatの正用",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0311_Q19",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence that uses “so that” for purpose, not cause.",
+      "choices": {
+        "A": "We sent a reminder because participants would bring identification.",
+        "B": "We sent a reminder so participants to bring identification.",
+        "C": "We sent a reminder so that participants would bring identification.",
+        "D": "We sent a reminder so that bringing identification."
+      },
+      "correctAnswer": "C",
+      "translationJa": "参加者が身分証を持参するよう、私たちは注意喚起を送りました。",
+      "explanationJa": "wouldを含む節がreminderを送る目的を示す正しいso that文です。",
+      "focus": "so thatと目的",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0311_Q20",
+      "format": "correct-sentence",
+      "prompt": "Choose the sentence with a natural formal purpose expression.",
+      "choices": {
+        "A": "The valve was locked in order to prevent accidental operation.",
+        "B": "The valve was locked in order that prevent accidental operation.",
+        "C": "The valve was locked due to prevent accidental operation.",
+        "D": "The valve was locked in order to preventing accidental operation."
+      },
+      "correctAnswer": "A",
+      "translationJa": "誤操作を防ぐため、バルブは施錠されました。",
+      "explanationJa": "明示的な目的をin order to＋動詞原形で正しく示しています。",
+      "focus": "in order toと予防",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0311_Q21",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “We booked an early train to arrive before the meeting.”",
+      "choices": {
+        "A": "We booked an early train so that we could arrive before the meeting.",
+        "B": "We arrived before the meeting because the early train was canceled.",
+        "C": "We booked the train although we intended to miss the meeting.",
+        "D": "The meeting began early in order to delay our train."
+      },
+      "correctAnswer": "A",
+      "translationJa": "会議前に到着できるよう、私たちは早い列車を予約しました。",
+      "explanationJa": "同一主語のto目的をso that＋主語＋couldで言い換えています。",
+      "focus": "toからso thatへ",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0311_Q22",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “The sign was enlarged so that drivers could read it.”",
+      "choices": {
+        "A": "Drivers enlarged the sign because they had already read it.",
+        "B": "The sign was reduced in size despite being difficult to read.",
+        "C": "The sign was readable, so no enlargement was planned.",
+        "D": "The sign was enlarged to make it readable to drivers."
+      },
+      "correctAnswer": "D",
+      "translationJa": "運転手が読めるようにするため、標識は拡大されました。",
+      "explanationJa": "so that節の目的をto make＋目的語＋補語で同じ意味にしています。",
+      "focus": "so thatの不定詞言い換え",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0311_Q23",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “Please whisper so as not to interrupt the recording.”",
+      "choices": {
+        "A": "Please interrupt the recording by speaking more loudly.",
+        "B": "Please whisper because the recording has already ended.",
+        "C": "Please speak very quietly in order to avoid disturbing the recording.",
+        "D": "The recording will stop unless everyone speaks normally."
+      },
+      "correctAnswer": "C",
+      "translationJa": "録音を妨げないよう、とても静かに話してください。",
+      "explanationJa": "so as not toはin order to avoid＋動名詞で同じ否定目的を表せます。",
+      "focus": "否定目的の言い換え",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0311_Q24",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “The office installed ramps for the sake of accessibility.”",
+      "choices": {
+        "A": "Accessibility decreased after the ramps were removed.",
+        "B": "The ramps were installed to make the office more accessible.",
+        "C": "The office installed ramps because access was already perfect.",
+        "D": "The ramps prevented visitors from entering the office."
+      },
+      "correctAnswer": "B",
+      "translationJa": "事務所をより利用しやすくするため、スロープが設置されました。",
+      "explanationJa": "for the sake ofが示す目的をto makeで自然に言い換えています。",
+      "focus": "for the sake ofの目的",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0311_Q25",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “The files were indexed so that researchers could find them quickly.”",
+      "choices": {
+        "A": "The purpose of indexing the files was to help researchers locate them quickly.",
+        "B": "Researchers indexed files after finding them quickly.",
+        "C": "The files were hidden because researchers had located them.",
+        "D": "Indexing was avoided in order to slow every search."
+      },
+      "correctAnswer": "A",
+      "translationJa": "ファイルを索引化した目的は、研究者が素早く見つけられるようにすることでした。",
+      "explanationJa": "so that以下の目的をThe purpose was toで明示した同義文です。",
+      "focus": "so thatの目的内容",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0311_Q26",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “The shelves were arranged such that every label was visible.”",
+      "choices": {
+        "A": "The labels were hidden because the shelves were removed.",
+        "B": "Every label was visible before the shelves were rearranged incorrectly.",
+        "C": "The shelf arrangement allowed all labels to be seen.",
+        "D": "The shelves were arranged in spite of making labels impossible to see."
+      },
+      "correctAnswer": "C",
+      "translationJa": "棚の配置によって、すべてのラベルが見える状態になりました。",
+      "explanationJa": "such thatが示す配置結果をallowedで同じ意味にしています。",
+      "focus": "such thatの結果状態",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0311_Q27",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “We used plain language in order that every customer could understand.”",
+      "choices": {
+        "A": "Customers used technical language because the message was clear.",
+        "B": "We made the wording complex so that fewer customers understood.",
+        "C": "Every customer understood before we changed the plain language.",
+        "D": "We used simple wording to make the message clear to all customers."
+      },
+      "correctAnswer": "D",
+      "translationJa": "すべての顧客に伝わるよう、簡潔な言葉を使いました。",
+      "explanationJa": "in order that節の目的をto make＋補語で言い換えています。",
+      "focus": "in order thatの言い換え",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0311_Q28",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “The guard checked the gate twice to ensure it was locked.”",
+      "choices": {
+        "A": "The guard checked the gate twice so that he could be certain it was secure.",
+        "B": "The gate was left unlocked because the guard checked it twice.",
+        "C": "The guard checked the gate after someone had opened it intentionally.",
+        "D": "The gate was secure although the guard refused to inspect it."
+      },
+      "correctAnswer": "A",
+      "translationJa": "門が施錠されていると確信できるよう、警備員は二度確認しました。",
+      "explanationJa": "to ensureの目的をso that＋could be certainで保っています。",
+      "focus": "目的不定詞の節化",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0311_Q29",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “The consultant explained the chart in such a way that beginners understood it.”",
+      "choices": {
+        "A": "Beginners created the chart before the consultant explained it.",
+        "B": "The consultant’s method of explanation made the chart clear to beginners.",
+        "C": "The consultant made the chart confusing in order to test beginners.",
+        "D": "The chart was understood despite receiving no explanation."
+      },
+      "correctAnswer": "B",
+      "translationJa": "コンサルタントの説明方法により、初心者にも図表が明確になりました。",
+      "explanationJa": "in such a way thatが表す方法と結果をmade clearで言い換えています。",
+      "focus": "方法と結果の同義",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0311_Q30",
+      "format": "meaning-equivalent",
+      "prompt": "Choose the sentence closest in meaning to: “We kept a spare key so that the supervisor could enter.”",
+      "choices": {
+        "A": "The supervisor entered because the spare key had been discarded.",
+        "B": "We locked the supervisor out in order to keep the key unused.",
+        "C": "We kept an extra key for the supervisor to use when entering.",
+        "D": "The supervisor kept every key although entry was prohibited."
+      },
+      "correctAnswer": "C",
+      "translationJa": "監督者が入る際に使えるよう、予備の鍵を保管しました。",
+      "explanationJa": "so that節の別主語をfor＋目的語＋to不定詞で同義にしています。",
+      "focus": "so thatとfor＋目的語＋to",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0311_Q31",
+      "format": "context-completion",
+      "prompt": "The receptionist wrote the room number on the card ------- the visitor could find the interview area.",
+      "choices": {
+        "A": "to",
+        "B": "so that",
+        "C": "because of",
+        "D": "although"
+      },
+      "correctAnswer": "B",
+      "translationJa": "来訪者が面接場所を見つけられるよう、受付係はカードに部屋番号を書きました。",
+      "explanationJa": "目的側に別主語the visitorがあるためso thatが必要です。",
+      "focus": "so that＋別主語",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0311_Q32",
+      "format": "context-completion",
+      "prompt": "The accounting team stayed late ------- finish the quarterly report before morning.",
+      "choices": {
+        "A": "so that",
+        "B": "whereas",
+        "C": "due to",
+        "D": "to"
+      },
+      "correctAnswer": "D",
+      "translationJa": "経理チームは朝までに四半期報告書を仕上げるため残業しました。",
+      "explanationJa": "同じ主語が行うfinishという目的にはto不定詞を使います。",
+      "focus": "to不定詞と同一主語",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0311_Q33",
+      "format": "context-completion",
+      "prompt": "The manufacturer redesigned the lid ------- children would be unable to open it easily.",
+      "choices": {
+        "A": "so that",
+        "B": "to",
+        "C": "because",
+        "D": "thanks to"
+      },
+      "correctAnswer": "A",
+      "translationJa": "子どもが簡単に開けられないよう、製造業者はふたを再設計しました。",
+      "explanationJa": "childrenという独自主語を持つ否定目的節なのでso thatです。",
+      "focus": "so thatと安全目的",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0311_Q34",
+      "format": "context-completion",
+      "prompt": "Please switch your phone to silent mode ------- disturb other guests during the presentation.",
+      "choices": {
+        "A": "because not",
+        "B": "so that not",
+        "C": "so as not to",
+        "D": "in order that not"
+      },
+      "correctAnswer": "C",
+      "translationJa": "発表中にほかの来客を邪魔しないよう、携帯電話を消音にしてください。",
+      "explanationJa": "同一主語の改まった否定目的にはso as not toが適切です。",
+      "focus": "so as not toの文脈",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0311_Q35",
+      "format": "context-completion",
+      "prompt": "The evacuation map was printed in large type ------- it could be read from across the hallway.",
+      "choices": {
+        "A": "in order to",
+        "B": "because of",
+        "C": "despite",
+        "D": "in order that"
+      },
+      "correctAnswer": "D",
+      "translationJa": "廊下の反対側から読めるよう、避難図は大きな文字で印刷されました。",
+      "explanationJa": "目的節に主語itがあるためin order thatを選びます。",
+      "focus": "in order thatと別主語",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0311_Q36",
+      "format": "context-completion",
+      "prompt": "The hotel added another shuttle ------- reduce waiting times at the airport.",
+      "choices": {
+        "A": "so that",
+        "B": "to",
+        "C": "although",
+        "D": "because of"
+      },
+      "correctAnswer": "B",
+      "translationJa": "ホテルは空港での待ち時間を減らすため、別のシャトルを追加しました。",
+      "explanationJa": "主語hotelが行う目的動作reduceをtoで導きます。",
+      "focus": "toとサービス改善目的",
+      "difficulty": "basic"
+    },
+    {
+      "id": "PAGE_0311_Q37",
+      "format": "context-completion",
+      "prompt": "The desks were spaced widely ------- each employee had a quiet work area.",
+      "choices": {
+        "A": "such that",
+        "B": "to",
+        "C": "due to",
+        "D": "unless"
+      },
+      "correctAnswer": "A",
+      "translationJa": "各従業員に静かな作業場所ができるよう、机は広い間隔で配置されました。",
+      "explanationJa": "配置によって生じる状態を完全な節で示すsuch thatが適切です。",
+      "focus": "such thatの配置文脈",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0311_Q38",
+      "format": "context-completion",
+      "prompt": "The company preserved the original documents ------- future audits.",
+      "choices": {
+        "A": "so that",
+        "B": "because",
+        "C": "even though",
+        "D": "for the sake of"
+      },
+      "correctAnswer": "D",
+      "translationJa": "将来の監査のため、会社は原本を保存しました。",
+      "explanationJa": "目的となる名詞句future auditsにはfor the sake ofが続きます。",
+      "focus": "for the sake of＋名詞",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "PAGE_0311_Q39",
+      "format": "context-completion",
+      "prompt": "The speaker paused frequently in such a way ------- the interpreter could translate each point.",
+      "choices": {
+        "A": "to",
+        "B": "as",
+        "C": "that",
+        "D": "because of"
+      },
+      "correctAnswer": "C",
+      "translationJa": "通訳者が各要点を訳せるような形で、講演者は頻繁に間を置きました。",
+      "explanationJa": "in such a way thatの固定構造で方法と結果を結びます。",
+      "focus": "in such a way thatの補完",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "PAGE_0311_Q40",
+      "format": "context-completion",
+      "prompt": "The legal team reviewed every clause twice ------- avoid any ambiguity in the final agreement.",
+      "choices": {
+        "A": "in order that",
+        "B": "in order to",
+        "C": "owing to",
+        "D": "whereas"
+      },
+      "correctAnswer": "B",
+      "translationJa": "最終契約の曖昧さを避けるため、法務チームは各条項を二度確認しました。",
+      "explanationJa": "目的を強調し、後ろが動詞原形avoidなのでin order toです。",
+      "focus": "in order toと業務目的",
+      "difficulty": "intermediate"
+    }
+  ]
+}
