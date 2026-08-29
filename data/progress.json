@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-29T00:43:54.992Z",
+  "updatedAt": "2026-08-29T00:46:09.736Z",
   "totalPages": 330,
-  "completedPages": 6,
+  "completedPages": 7,
   "questionsPerPage": 40,
   "totalPlannedQuestions": 13200,
   "pages": [
@@ -66,9 +66,9 @@
       "number": 8,
       "id": "grammar-master-0008",
       "title": "後ろへ、情報を足していく",
-      "status": "pending",
+      "status": "complete",
       "output": "question-sets/PAGE_0008.json",
-      "completedAt": null
+      "completedAt": "2026-08-29T00:46:09.736Z"
     },
     {
       "number": 9,
