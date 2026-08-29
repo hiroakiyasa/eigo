@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-29T05:17:57.120Z",
+  "updatedAt": "2026-08-29T05:18:20.346Z",
   "totalPages": 330,
-  "completedPages": 71,
+  "completedPages": 72,
   "questionsPerPage": 40,
   "totalPlannedQuestions": 13200,
   "pages": [
@@ -2346,9 +2346,9 @@
       "number": 293,
       "id": "grammar-master-0293",
       "title": "もしもの二段ロケット",
-      "status": "pending",
+      "status": "complete",
       "output": "question-sets/PAGE_0293.json",
-      "completedAt": null
+      "completedAt": "2026-08-29T05:18:20.346Z"
     },
     {
       "number": 294,

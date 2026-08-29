@@ -343,7 +343,7 @@
 | 290 | 現実から離れる仮定法 | [PAGE_0290](pages/PAGE_0290.webp) | [原稿](source-prompts/PAGE_0290.txt) | `pending` |
 | 291 | wishは現実から一歩遠く | [PAGE_0291](pages/PAGE_0291.webp) | [原稿](source-prompts/PAGE_0291.txt) | `pending` |
 | 292 | 後悔と仮定の合図 | [PAGE_0292](pages/PAGE_0292.webp) | [原稿](source-prompts/PAGE_0292.txt) | [40問](question-sets/PAGE_0292.json) |
-| 293 | もしもの二段ロケット | [PAGE_0293](pages/PAGE_0293.webp) | [原稿](source-prompts/PAGE_0293.txt) | `pending` |
+| 293 | もしもの二段ロケット | [PAGE_0293](pages/PAGE_0293.webp) | [原稿](source-prompts/PAGE_0293.txt) | [40問](question-sets/PAGE_0293.json) |
 | 294 | 過去の原因、今の結果 | [PAGE_0294](pages/PAGE_0294.webp) | [原稿](source-prompts/PAGE_0294.txt) | `pending` |
 | 295 | 過去の箱に入れると時制も過去 | [PAGE_0295](pages/PAGE_0295.webp) | [原稿](source-prompts/PAGE_0295.txt) | `pending` |
 | 296 | 報告より前なら had＋過去分詞 | [PAGE_0296](pages/PAGE_0296.webp) | [原稿](source-prompts/PAGE_0296.txt) | `pending` |
